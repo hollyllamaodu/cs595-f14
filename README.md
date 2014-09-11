@@ -1,4 +1,5 @@
 cs595-f14
 =========
 
-Shared repository for ODU CS 495 / 595 Fall 2014
+This is my repository for ODU CS 595.
+
