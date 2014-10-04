@@ -1,0 +1,534 @@
+
+
+
+
+
+
+		
+		
+		
+
+
+
+
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+
+		
+		
+
+
+
+
+
+
+
+<head>
+	<title>Devoxx4Kids | JavaOne 2014</title>
+	<meta name="Title" content="Devoxx4Kids | JavaOne 2014">
+	<meta name="Description" content="JavaOne is offering a unique opportunity for 150 kids (ages 10 -18) to attend the Devoxx4kids program, taking place on Saturday, September 27.">
+	<meta name="Keywords" content="JavaOne, 2014, Event, Devoxx4Kids">	
+	<meta name="Language" content="en">
+	
+	
+
+	
+					
+	
+	
+		
+		
+	
+	<meta name='robots' content='Index, Follow'>
+
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<link href='//www.oracle.com/us/assets/event2.css' media="print, screen" rel="Stylesheet" type="text/css" />
+	<script type="text/javascript" src='//www.oracle.com/us/assets/jquery.js'></script>
+	<script type="text/javascript" src='//www.oracle.com/us/assets/event2.js'></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+</head>
+
+
+
+
+
+	
+		
+			
+				
+					
+		
+		
+					
+				
+	
+	
+
+	
+<body class='f08 f08m f08v1 f08x java1'>	
+	<!-- U08v0 -->
+	<div id="u08" class="u08 u08v0">
+		<div class="u08tempbreadcrumb">
+			<!-- Breadcrumbs -->
+			
+					
+					
+			
+
+
+
+
+ 
+ 
+	
+	
+	
+
+
+	
+	
+	
+		<!-- U03v0 -->
+		<div class="u03 u03v0" data-trackas="breadcrumb">
+			<div class="u03w1">
+				<ul>
+					
+									<li class="u03first"><a href="/javaone/index.html">Home</a></li>
+								
+									<li>Devoxx4Kids</li>
+								
+				</ul>
+			</div>
+		</div>
+		<!-- /U03v0 -->
+	
+  
+
+
+		</div>
+		<!-- Header -->
+		
+				
+				
+		
+
+
+
+
+
+
+
+
+	
+			
+			
+				
+					
+					
+					
+					
+					
+					
+					
+					
+
+<!-- BEGIN: oWidget_C/_Raw-Text/Display-siteroot -->
+
+
+
+
+
+
+
+<div class="u08w1" data-trackas="header">
+    <div class="u08ologo"><a href="http://www.oracle.com/us/index.html">Oracle</a></div>
+    <div class="u08signin"><a target="_blank" href="https://oracleus.activeevents.com/2014/portal/login.ww">My Account</a></div>
+</div>
+
+
+<div class="u08w2">
+<div class="u08w3">
+<div class="u08logo u08-j1"><a href="/javaone/index.html">JavaOne</a></div>
+<div class="u08w4" data-trackas="hnav">
+
+<ul>
+    <li><a href="">Plan</a>
+        <div class="u08w8"><div class="u08w8col1">
+            <ul>
+                <li><a  target="_blank"   href="https://oracleus.activeevents.com/2014/portal/login.ww">My Account</a></li>
+                <li><a href="http://www.oracle.com/us/dm/108207-wwmk11054239mpp001-cif-w-1845718.html" target="_blank">Register Now</a></li>
+          
+            </ul>
+        </div></div>
+    </li>
+    <li><a href="#">Agenda</a>
+        <div class="u08w8"><div class="u08w8col1">
+        <ul><li><a href="/javaone/agenda/index.html">Agenda</a></li>
+        <li><a href="/javaone/rock-stars/index.html">Rockstar Wall of Fame</a></li>
+        <li><a href="/javaone/live/on-demand/index.html#javaone">Keynotes On Demand</a></li></ul>
+        </div></div>
+    </li>
+    <li><a href="#">Sessions</a>
+        <div class="u08w8"><div class="u08w8col1">
+        <ul>
+        <li><a href="https://oracleus.activeevents.com/2014/connect/search.ww?eventRef=javaone#loadSearch-event=null&searchPhrase=&searchType=session&tc=0&sortBy=&p=&i(10009)=10111">Content Catalog</a></li>
+        <li><a href="/javaone/program-committee/index.html">Program Committee</a></li>
+       
+        <li><a href="https://oracleus.activeevents.com/2014/connect/login.ww">Schedule Builder</a></li> 
+           <li><a href="/javaone/live/on-demand/index.html#javaone">Keynotes On Demand</a></li>
+         <li><a href="/javaone/call-for-papers/index.html">Call for Proposals </a></li>
+         
+        </ul>
+    </li>
+    <li class=""><a href="#">Exhibitor / Sponsor</a>
+        <div class="u08w8"><div class="u08w8col1">
+        
+            <ul>
+                <li><a href="/javaone/exhibit/index.html">Exhibit</a></li>
+                <li><a href="/javaone/sponsor/index.html">Sponsor</a></li>
+                <li><a href="/javaone/advertise/index.html">Advertise</a></li>
+            </ul>
+        </div>
+        </div>
+    </li>   
+    <li class=""><a href="#">Network</a>
+    <div class="u08w8"><div class="u08w8col1">
+        <ul>
+            <li><a href="http://www.facebook.com/javaone" target="_blank">Facebook</a></li>
+            <li><a href="http://twitter.com/JavaOneConf/" target="_blank">Twitter</a></li>
+            <li><a href="http://www.linkedin.com/groups/JavaOne-Conference-1749197" target="_blank">LinkedIn</a></li>
+            <li><a href="http://blogs.oracle.com/javaone/" target="_blank">Blog</a></li>
+        </ul>
+        </div>
+        </div>
+    </li>
+<!--
+    <li><div class="u08search"><a href="#">Search</a>
+        <div class="u08w10"><div class="u08w11"><form name="searchForm" alt="Secure Search" onSubmit="var kwd=document.searchForm.q.value; navTrack('oow','en','search',kwd);" action="https://search.oracle.com/search/search" method="get" target="_top">
+              <input name="start" value="1" type="hidden">
+              <input type="hidden" value="all" name="search_p_main_operator">
+              <input type="hidden" id="searchGroup" name="group" value="JavaOne">
+              <input type="text" id="searchbox" class="searchbox autoclear" value="Search" name="q">
+              <a onClick="var kwd=document.searchForm.q.value; navTrack('oow','en','search',kwd);" href="javascript:document.searchForm.submit()" class="u08gobutton" id="u08gobutton"></a>
+            </form></div>
+        </div></div>
+    </li>
+-->
+
+    <li>
+        <div class="u08register"><a href="http://www.oracle.com/us/dm/108207-wwmk11054239mpp001-cif-w-1845718.html" target="_blank">Register</a></div>
+    </li>
+</ul>
+</div>
+
+<div class="u08w5">
+    <div class="u08info">October 25 &#8211; 29, 2015 | San Francisco</div>
+    <div class="u08conf"><a href="http://www.oracle.com/openworld/index.html">Oracle OpenWorld</a>
+	</div>
+	<!--<div class="u08chat">
+		 <a rel="lightBox" href="https://oracle-open-world.custhelp.com/app/chat/chat_launch/source/openworld?iframe=true&amp;width=1000&amp;height=620">Chat Now</a>
+	</div> -->
+</div>
+
+
+</div>
+</div>
+
+<!-- END: oWidget_C/_Raw-Text/Display-siteroot -->
+
+
+				
+				
+		
+		
+
+
+	</div>
+	<!-- /U08v0 -->
+
+	<!-- Body goes here -->
+	
+			
+			
+	
+
+
+
+
+
+	
+	
+	
+		
+		
+
+	
+		
+		 		
+
+				
+
+
+
+
+
+	
+
+	
+	
+		
+		
+
+		<!-- BEGIN: oWidget_C/Raw-HTML/Display -->
+		
+
+		
+		
+			
+				
+			
+		
+
+		
+		
+               
+		
+		
+		
+			
+			
+				<div class="f09" id="f09">
+	<img alt="" class="f09bg" src="//www.oracle.com/us/assets/c12bg-generic-bg3-sessions-2257709.jpg" /></div>
+<div class="f10">
+	<div class="f10w1">
+		<div class="f10w2">
+			<div class="c29 c29v3 c29v3 c29v3alt">
+				<h1>
+					Devoxx4Kids</h1>
+			</div>
+			<div class="c61 c61v0">
+				<div class="c61w1">
+					<h1>
+						Kids Get Creative with Computers</h1>
+					<p>
+						Teens can have fun and learn about programming, robotics, and engineering at the same time. Where? At Devoxx4Kids on September 27 in San Francisco, hosted at JavaOne.</p>
+					<div class="obttn xxlbigbttn">
+						<a class="graphicbutton" href="https://www.oracle.com/webfolder/s/delivery_production/docs/FY15h1/doc2/OES100328494-Featured-Workshops.html" target="_blank">Agenda</a> <a class="graphicbutton" href="http://eventreg.oracle.com/profile/web/index.cfm?PKWebId=0x1080922333" target="_blank">Register Now</a></div>
+				</div>
+			</div>
+		</div>
+		<div class="f10w3">
+			<div class="c63 c63v0">
+				<div class="c63w1">
+					<div class="c63w2">
+						<div class="c63w3 c63noshadow">
+							<img alt="Devoxx4Kids Oracle A" src="//www.oracle.com/us/assets/c63-devoxx-oacademy-2245617.png" /></div>
+					</div>
+					<p>
+						Do you know pre-teens and teens who want to have fun while learning more about programming, robotics, and engineering? Do you envision having coding duels with the next generation of programmers? If so, be sure they know about the Devoxx4Kids program taking place in conjunction with this year&#39;s JavaOne conference in San Francisco.</p>
+					<p>
+						JavaOne is offering a unique opportunity for 150 kids (ages 10 -18) to attend this exciting new Devoxx4kids program. The program will take place on Saturday, September 27 (before the official start to JavaOne on September 28).</p>
+					<p>
+						Topics covered should include:</p>
+					<ul class="mondo-grey listicons">
+						<li>
+							Java</li>
+						<li>
+							Alice</li>
+						<li>
+							Arduino</li>
+						<li>
+							Greenfoot</li>
+						<li>
+							Lego Mindstorms</li>
+						<li>
+							Minecraft modding</li>
+						<li>
+							NAO Robot</li>
+						<li>
+							Python</li>
+						<li>
+							Raspberry Pi</li>
+						<li>
+							Scratch</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+			
+		
+		
+		
+
+		<!-- END: oWidget_C/Raw-HTML/Display -->
+	
+
+
+	
+	
+	
+
+ 									
+				 
+					
+		
+
+   	
+	
+  	
+	
+  	
+	
+  	
+	
+	
+
+
+
+	
+			
+			
+	
+
+
+
+
+
+
+
+
+	
+			
+			
+				
+					
+						  
+						  
+						  
+						  
+						  	
+							
+							
+
+<!-- BEGIN: oWidget_C/_Raw-Text/Display-siteroot -->
+
+
+
+
+
+
+
+<div id="u05" class="u05v4" data-trackas="footer">
+<div class="u05w1a" data-trackas="footer">
+<div class="u05w1">
+<div class="u05w2">
+<h5>About JavaOne</h5>
+<ul>
+    <li><a href="/javaone/location/index.html">Location</a></li>
+    <li><a href="/javaone/sustainability/index.html">Event Sustainability</a></li>
+   
+</ul>
+</div>
+
+<div class="u05w3">
+    <h5>Event Tools</h5>
+    <ul>
+        <li><a href="https://oracleus.activeevents.com/2014/connect/search.ww?eventRef=javaone#loadSearch-event=null&searchPhrase=&searchType=session&tc=0&sortBy=&p=&i(10009)=10111">Content Catalog</a></li>
+        <li><a href="https://oracleus.activeevents.com/2014/connect/login.ww">Schedule Builder</a></li>
+    </ul>
+    <h5>Oracle Conferences</h5>
+    <ul>
+        <li><a href="/openworld/index.html">Oracle OpenWorld</a></li>
+    </ul>
+    </div>
+    <div class="u05w4">
+    <h5>Connect</h5>
+    <div class="u05w9">
+    <ul>
+        <li><a href="http://www.facebook.com/javaone" target="_blank" class="u05facebooklinkcol">Facebook</a></li>
+        <li><a href="http://twitter.com/JavaOneConf/" target="_blank" class="u05twitterlinkcol">Twitter</a></li>
+        <li><a href="http://www.linkedin.com/groups/JavaOne-Conference-1749197" target="_blank" class="u05linkedinlinkcol">LinkedIn</a></li>
+        <li><a target="_blank" href="http://blogs.oracle.com/javaone/" class="u05bloglinkcol">Blog</a></li>
+    </ul>
+    </div>
+    </div>
+    <div class="u05w5"><!-- SB01v1 -->
+    <div class="sb01 sb01v1"><a href="http://www.oracle.com/us/dm/108207-wwmk11054239mpp001-cif-w-1845718.html" target="_blank"><img width="278" height="105" border="0" src="//www.oracle.com/us/assets/javaone-footer-register-423238.png" alt="Register Now"></a></div>
+    <!-- /SB01v1 -->   <!-- SB01v1 -->
+    <div class="sb01 sb01v1"><a href="/javaone/sponsor/index.html"><img width="278" height="105" border="0" src="//www.oracle.com/us/assets/javaone-footer-sponsor-423239.png" alt="Become a Sponsor"></a></div>
+    <!-- /SB01v1 --></div>
+    </div>
+    <div class="u05w7"><a class="u05-oraclelogo" href="http://www.oracle.com/us/index.html"><!--oracle--></a></div>
+    <div class="u05z3">&nbsp;</div>
+    <div class="u05w6">
+    <ul>
+        <li><a href="http://www.oracle.com/us/legal/index.html">Legal Notices</a></li>
+        <li><a href="http://www.oracle.com/us/legal/terms/index.html">Terms of Use</a></li>
+        <li><a href="http://www.oracle.com/us/legal/privacy/index.html">Privacy</a></li>
+    </ul>
+    </div>
+    </div>
+    </div>
+
+
+<!-- END: oWidget_C/_Raw-Text/Display-siteroot -->
+
+
+			
+						  
+						  
+						  
+						  
+						  
+
+
+
+
+
+	
+
+	
+	
+		
+		
+
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+
+
+
+
+
+
+
+
+
+<!-- SS_BEGIN_SNIPPET(fragment8,1)--><!-- Start SiteCatalyst code -->
+<script language="JavaScript" src="https://www.oracleimg.com/us/assets/metrics/ora_oow.js"></script>
+<!-- End SiteCatalyst code -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+
+
+	
+	
+	
+
+
+				
+				
+		
+		
+
+
+	<a name="top"></a>
+</body>
+</html>
+
+	

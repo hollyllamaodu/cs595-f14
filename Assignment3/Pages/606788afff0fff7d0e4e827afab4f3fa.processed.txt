@@ -1,0 +1,532 @@
+   #[1]Python Software Foundation News - Atom [2]Python Software
+   Foundation News - RSS [3]Python Software Foundation News - Atom
+
+   [4]skip to main | [5]skip to sidebar
+
+[6]Python Software Foundation News
+
+   Announcements and requests from the non-profit [7]Python Software
+   Foundation.
+
+Wednesday, March 26, 2014
+
+[8]Sponsoring the Kivy App Contest
+
+   The [9]Python Software Foundation is thrilled to support [10]Kivy on
+   their upcoming [11]developer contest, the second of its kind. The
+   contest begins by accepting entries, either for teams or individuals,
+   on April 2. However, the topic of the contest won't be known at that
+   time. On April 15, the Kivy Project releases the topic and the teams
+   have one month to develop their applications, wrapping up on May 14.
+   The organizers aim to "encourage and give developers an opportunity to
+   learn more about Python and Kivy," through the contest. As Kivy is a
+   cross-platform toolkit, they hope to see applications running not only
+   on desktop operating systems, but also on mobile. The theme they plan
+   won't be too limiting, so all platforms can join in the fun.
+   Visual styling will be among the judging criteria, so they're hoping to
+   see some good looking entries. "Without giving anything away, the ideas
+   could range from a simple scientific calculator, to an alarm clock
+   manager, a diary app, or a maths tutor," the organizers said.
+   "The PSF has been a big part of helping us grow by providing us
+   sponsorship," they said of the $2000 USD granted to support the
+   contest. Jessica McKellar, they said, was "a big part of helping us get
+   this competition off the ground."
+   "The project has been getting quite popular lately, especially with the
+   increasing interest in mobile applications," they said of Kivy. Part of
+   the attraction comes from being able to work with pure Python across
+   all of the platforms, allowing developers to leverage the huge amount
+   of code the Python community has made available.
+   When it comes to Kivy's development, they're preparing a lot of new
+   features for the next major release, especially support for SDL2
+   backends. Adding SDL support should make for a much more speedy
+   experience on mobile platforms, and give them more flexibility overall.
+   They're also putting some focus on some projects that surround Kivy,
+   such as [12]Plyer and [13]Buildozer.
+   If you're new to Python or Kivy, the organizers have created a level
+   playing field that will allow both experienced and new programmers to
+   partake. "Our judgement criteria will include not just areas of
+   technical merit, but also a focus on great app ideas, user engagement,
+   and use of Kivy features," they said.
+   "So come on dive in and make your first mobile app using Python
+   facilitated by the Kivy framework!"
+   Posted by Brian Curtin at [14]3/26/2014 12:00:00 PM
+   [15]Email This[16]BlogThis![17]Share to Twitter[18]Share to
+   Facebook[19]Share to Pinterest
+   Labels: [20]kivy, [21]sponsorship
+   Sponsoring the Kivy App Contest
+   The [22]Python Software Foundation is thrilled to support [23]Kivy on
+   their upcoming [24]developer contest, the second of its kind. The
+   contest begins by accepting entries, either for teams or individuals,
+   on April 2. However, the topic of the contest won't be known at that
+   time. On April 15, the Kivy Project releases the topic and the teams
+   have one month to develop their applications, wrapping up on May 14.
+   The organizers aim to "encourage and give developers an opportunity to
+   learn more about Python and Kivy," through the contest. As Kivy is a
+   cross-platform toolkit, they hope to see applications running not only
+   on desktop operating systems, but also on mobile. The theme they plan
+   won't be too limiting, so all platforms can join in the fun.
+   Visual styling will be among the judging criteria, so they're hoping to
+   see some good looking entries. "Without giving anything away, the ideas
+   could range from a simple scientific calculator, to an alarm clock
+   manager, a diary app, or a maths tutor," the organizers said.
+   "The PSF has been a big part of helping us grow by providing us
+   sponsorship," they said of the $2000 USD granted to support the
+   contest. Jessica McKellar, they said, was "a big part of helping us get
+   this competition off the ground."
+   "The project has been getting quite popular lately, especially with the
+   increasing interest in mobile applications," they said of Kivy. Part of
+   the attraction comes from being able to work with pure Python across
+   all of the platforms, allowing developers to leverage the huge amount
+   of code the Python community has made available.
+   When it comes to Kivy's development, they're preparing a lot of new
+   features for the next major release, especially support for SDL2
+   backends. Adding SDL support should make for a much more speedy
+   experience on mobile platforms, and give them more flexibility overall.
+   They're also putting some focus on some projects that surround Kivy,
+   such as [25]Plyer and [26]Buildozer.
+   If you're new to Python or Kivy, the organizers have created a level
+   playing field that will allow both experienced and new programmers to
+   partake. "Our judgement criteria will include not just areas of
+   technical merit, but also a focus on great app ideas, user engagement,
+   and use of Kivy features," they said.
+   "So come on dive in and make your first mobile app using Python
+   facilitated by the Kivy framework!"
+   Please enable JavaScript to view the [27]comments powered by Disqus.
+   [28]blog comments powered by Disqus
+
+   [29]Newer Post [30]Older Post [31]Home
+   Subscribe to: [32]Post Comments (Atom)
+
+Around the Web
+
+   [33]Follow ThePSF on Twitter
+   [34][facebook.gif]
+
+Subscribe via email
+
+   Enter your email address:
+
+   ____________________
+   Subscribe
+
+   Delivered by [35]FeedBurner
+
+Blog Archive
+
+     * [36]▼  [37]2014 (13)
+          + [38]►  [39]September (1)
+          + [40]►  [41]August (2)
+          + [42]►  [43]July (1)
+          + [44]►  [45]May (1)
+          + [46]►  [47]April (1)
+          + [48]▼  [49]March (2)
+               o [50]Sponsoring the Kivy App Contest
+               o [51]PyLadies: announcing paid summer internships with ...
+          + [52]►  [53]February (3)
+          + [54]►  [55]January (2)
+
+     * [56]►  [57]2013 (18)
+          + [58]►  [59]November (1)
+          + [60]►  [61]September (2)
+          + [62]►  [63]August (1)
+          + [64]►  [65]July (1)
+          + [66]►  [67]June (1)
+          + [68]►  [69]April (1)
+          + [70]►  [71]March (5)
+          + [72]►  [73]February (3)
+          + [74]►  [75]January (3)
+
+     * [76]►  [77]2012 (21)
+          + [78]►  [79]December (3)
+          + [80]►  [81]November (2)
+          + [82]►  [83]October (2)
+          + [84]►  [85]September (1)
+          + [86]►  [87]August (1)
+          + [88]►  [89]July (1)
+          + [90]►  [91]June (2)
+          + [92]►  [93]May (4)
+          + [94]►  [95]April (1)
+          + [96]►  [97]March (1)
+          + [98]►  [99]January (3)
+
+     * [100]►  [101]2011 (55)
+          + [102]►  [103]December (2)
+          + [104]►  [105]November (1)
+          + [106]►  [107]October (7)
+          + [108]►  [109]September (5)
+          + [110]►  [111]August (2)
+          + [112]►  [113]July (1)
+          + [114]►  [115]June (3)
+          + [116]►  [117]May (8)
+          + [118]►  [119]April (8)
+          + [120]►  [121]March (13)
+          + [122]►  [123]February (2)
+          + [124]►  [125]January (3)
+
+     * [126]►  [127]2010 (35)
+          + [128]►  [129]December (4)
+          + [130]►  [131]November (1)
+          + [132]►  [133]October (3)
+          + [134]►  [135]September (2)
+          + [136]►  [137]August (1)
+          + [138]►  [139]July (8)
+          + [140]►  [141]June (6)
+          + [142]►  [143]May (2)
+          + [144]►  [145]April (4)
+          + [146]►  [147]March (2)
+          + [148]►  [149]January (2)
+
+     * [150]►  [151]2009 (21)
+          + [152]►  [153]December (1)
+          + [154]►  [155]October (1)
+          + [156]►  [157]September (6)
+          + [158]►  [159]August (4)
+          + [160]►  [161]July (4)
+          + [162]►  [163]June (1)
+          + [164]►  [165]May (2)
+          + [166]►  [167]April (1)
+          + [168]►  [169]February (1)
+
+     * [170]►  [171]2008 (23)
+          + [172]►  [173]December (1)
+          + [174]►  [175]November (1)
+          + [176]►  [177]October (1)
+          + [178]►  [179]August (3)
+          + [180]►  [181]July (1)
+          + [182]►  [183]May (3)
+          + [184]►  [185]April (1)
+          + [186]►  [187]March (5)
+          + [188]►  [189]February (4)
+          + [190]►  [191]January (3)
+
+     * [192]►  [193]2007 (26)
+          + [194]►  [195]December (3)
+          + [196]►  [197]November (2)
+          + [198]►  [199]October (6)
+          + [200]►  [201]September (1)
+          + [202]►  [203]August (1)
+          + [204]►  [205]July (1)
+          + [206]►  [207]June (2)
+          + [208]►  [209]May (1)
+          + [210]►  [211]April (1)
+          + [212]►  [213]March (2)
+          + [214]►  [215]February (3)
+          + [216]►  [217]January (3)
+
+     * [218]►  [219]2006 (39)
+          + [220]►  [221]December (3)
+          + [222]►  [223]November (4)
+          + [224]►  [225]October (5)
+          + [226]►  [227]September (4)
+          + [228]►  [229]August (4)
+          + [230]►  [231]July (3)
+          + [232]►  [233]May (7)
+          + [234]►  [235]April (6)
+          + [236]►  [237]March (3)
+
+Contributors
+
+     * [238]Brian Curtin
+     * [239]A.M. Kuchling
+     * [240]engelbert gruber
+     * [241]Jacob Kaplan-Moss
+     * [242]Jesse
+     * [243]Doug Napoleone
+     * [244]VanL
+     * [245]Jessica McKellar
+     * [246]Mike Driscoll
+     * [247]Alfonso de la Guarda Reyes
+     * [248]tp
+     * [249]Steve
+     * [250]David Goodger
+     * [251]Michael Foord
+     * [252]Anthony Scopatz
+     * [253]Doug Hellmann
+     * [254]timothydkiser
+     * [255]Marc-Andre Lemburg
+     * [256]Paulo Nuin
+     * [257]James Tauber
+
+Copyright
+
+   [258]Creative Commons License
+   The content of Python Software Foundation News by [259]Python Software
+   Foundation is licensed under a [260]Creative Commons
+   Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+   Based on a work at [261]pyfound.blogspot.com.
+
+References
+
+   Visible links
+   1. http://pyfound.blogspot.com/feeds/posts/default
+   2. http://pyfound.blogspot.com/feeds/posts/default?alt=rss
+   3. http://pyfound.blogspot.com/feeds/1352159003565920415/comments/default
+   4. http://pyfound.blogspot.com/2014/03/sponsoring-kivy-app-contest.html?utm_source=feedburner#main
+   5. http://pyfound.blogspot.com/2014/03/sponsoring-kivy-app-contest.html?utm_source=feedburner#sidebar
+   6. http://python.org/psf/
+   7. http://python.org/psf/
+   8. http://pyfound.blogspot.com/2014/03/sponsoring-kivy-app-contest.html
+   9. https://www.python.org/psf/
+  10. http://kivy.org/#home
+  11. http://kivy.org/#contest
+  12. http://github.com/kivy/plyer
+  13. http://github.com/kivy/buildozer
+  14. http://pyfound.blogspot.com/2014/03/sponsoring-kivy-app-contest.html
+  15. http://pyfound.blogspot.com/2014/03/&target=email
+  16. http://pyfound.blogspot.com/2014/03/&target=blog
+  17. http://pyfound.blogspot.com/2014/03/&target=twitter
+  18. http://pyfound.blogspot.com/2014/03/&target=facebook
+  19. http://pyfound.blogspot.com/2014/03/&target=pinterest
+  20. http://pyfound.blogspot.com/search/label/kivy
+  21. http://pyfound.blogspot.com/search/label/sponsorship
+  22. https://www.python.org/psf/
+  23. http://kivy.org/#home
+  24. http://kivy.org/#contest
+  25. http://github.com/kivy/plyer
+  26. http://github.com/kivy/buildozer
+  27. http://disqus.com/?ref_noscript=pyfound.disqus.comhttp://pyfound.blogspot.com/2014/03/sponsoring-kivy-app-contest.html
+  28. http://disqus.com/
+  29. http://pyfound.blogspot.com/2014/04/psf-python-brochure-now-available-get.html
+  30. http://pyfound.blogspot.com/2014/03/pyladies-announcing-paid-summer.html
+  31. http://pyfound.blogspot.com/
+  32. http://pyfound.blogspot.com/feeds/1352159003565920415/comments/default
+  33. http://www.twitter.com/ThePSF
+  34. http://www.facebook.com/#!/pythonlang
+  35. http://feedburner.google.com/
+  36. javascript:void(0)
+  37. http://pyfound.blogspot.com/search?updated-min=2014-01-01T00:00:00-05:00&updated-max=2015-01-01T00:00:00-05:00&max-results=13
+  38. javascript:void(0)
+  39. http://pyfound.blogspot.com/2014_09_01_archive.html
+  40. javascript:void(0)
+  41. http://pyfound.blogspot.com/2014_08_01_archive.html
+  42. javascript:void(0)
+  43. http://pyfound.blogspot.com/2014_07_01_archive.html
+  44. javascript:void(0)
+  45. http://pyfound.blogspot.com/2014_05_01_archive.html
+  46. javascript:void(0)
+  47. http://pyfound.blogspot.com/2014_04_01_archive.html
+  48. javascript:void(0)
+  49. http://pyfound.blogspot.com/2014_03_01_archive.html
+  50. http://pyfound.blogspot.com/2014/03/sponsoring-kivy-app-contest.html
+  51. http://pyfound.blogspot.com/2014/03/pyladies-announcing-paid-summer.html
+  52. javascript:void(0)
+  53. http://pyfound.blogspot.com/2014_02_01_archive.html
+  54. javascript:void(0)
+  55. http://pyfound.blogspot.com/2014_01_01_archive.html
+  56. javascript:void(0)
+  57. http://pyfound.blogspot.com/search?updated-min=2013-01-01T00:00:00-05:00&updated-max=2014-01-01T00:00:00-05:00&max-results=18
+  58. javascript:void(0)
+  59. http://pyfound.blogspot.com/2013_11_01_archive.html
+  60. javascript:void(0)
+  61. http://pyfound.blogspot.com/2013_09_01_archive.html
+  62. javascript:void(0)
+  63. http://pyfound.blogspot.com/2013_08_01_archive.html
+  64. javascript:void(0)
+  65. http://pyfound.blogspot.com/2013_07_01_archive.html
+  66. javascript:void(0)
+  67. http://pyfound.blogspot.com/2013_06_01_archive.html
+  68. javascript:void(0)
+  69. http://pyfound.blogspot.com/2013_04_01_archive.html
+  70. javascript:void(0)
+  71. http://pyfound.blogspot.com/2013_03_01_archive.html
+  72. javascript:void(0)
+  73. http://pyfound.blogspot.com/2013_02_01_archive.html
+  74. javascript:void(0)
+  75. http://pyfound.blogspot.com/2013_01_01_archive.html
+  76. javascript:void(0)
+  77. http://pyfound.blogspot.com/search?updated-min=2012-01-01T00:00:00-05:00&updated-max=2013-01-01T00:00:00-05:00&max-results=21
+  78. javascript:void(0)
+  79. http://pyfound.blogspot.com/2012_12_01_archive.html
+  80. javascript:void(0)
+  81. http://pyfound.blogspot.com/2012_11_01_archive.html
+  82. javascript:void(0)
+  83. http://pyfound.blogspot.com/2012_10_01_archive.html
+  84. javascript:void(0)
+  85. http://pyfound.blogspot.com/2012_09_01_archive.html
+  86. javascript:void(0)
+  87. http://pyfound.blogspot.com/2012_08_01_archive.html
+  88. javascript:void(0)
+  89. http://pyfound.blogspot.com/2012_07_01_archive.html
+  90. javascript:void(0)
+  91. http://pyfound.blogspot.com/2012_06_01_archive.html
+  92. javascript:void(0)
+  93. http://pyfound.blogspot.com/2012_05_01_archive.html
+  94. javascript:void(0)
+  95. http://pyfound.blogspot.com/2012_04_01_archive.html
+  96. javascript:void(0)
+  97. http://pyfound.blogspot.com/2012_03_01_archive.html
+  98. javascript:void(0)
+  99. http://pyfound.blogspot.com/2012_01_01_archive.html
+ 100. javascript:void(0)
+ 101. http://pyfound.blogspot.com/search?updated-min=2011-01-01T00:00:00-05:00&updated-max=2012-01-01T00:00:00-05:00&max-results=50
+ 102. javascript:void(0)
+ 103. http://pyfound.blogspot.com/2011_12_01_archive.html
+ 104. javascript:void(0)
+ 105. http://pyfound.blogspot.com/2011_11_01_archive.html
+ 106. javascript:void(0)
+ 107. http://pyfound.blogspot.com/2011_10_01_archive.html
+ 108. javascript:void(0)
+ 109. http://pyfound.blogspot.com/2011_09_01_archive.html
+ 110. javascript:void(0)
+ 111. http://pyfound.blogspot.com/2011_08_01_archive.html
+ 112. javascript:void(0)
+ 113. http://pyfound.blogspot.com/2011_07_01_archive.html
+ 114. javascript:void(0)
+ 115. http://pyfound.blogspot.com/2011_06_01_archive.html
+ 116. javascript:void(0)
+ 117. http://pyfound.blogspot.com/2011_05_01_archive.html
+ 118. javascript:void(0)
+ 119. http://pyfound.blogspot.com/2011_04_01_archive.html
+ 120. javascript:void(0)
+ 121. http://pyfound.blogspot.com/2011_03_01_archive.html
+ 122. javascript:void(0)
+ 123. http://pyfound.blogspot.com/2011_02_01_archive.html
+ 124. javascript:void(0)
+ 125. http://pyfound.blogspot.com/2011_01_01_archive.html
+ 126. javascript:void(0)
+ 127. http://pyfound.blogspot.com/search?updated-min=2010-01-01T00:00:00-05:00&updated-max=2011-01-01T00:00:00-05:00&max-results=35
+ 128. javascript:void(0)
+ 129. http://pyfound.blogspot.com/2010_12_01_archive.html
+ 130. javascript:void(0)
+ 131. http://pyfound.blogspot.com/2010_11_01_archive.html
+ 132. javascript:void(0)
+ 133. http://pyfound.blogspot.com/2010_10_01_archive.html
+ 134. javascript:void(0)
+ 135. http://pyfound.blogspot.com/2010_09_01_archive.html
+ 136. javascript:void(0)
+ 137. http://pyfound.blogspot.com/2010_08_01_archive.html
+ 138. javascript:void(0)
+ 139. http://pyfound.blogspot.com/2010_07_01_archive.html
+ 140. javascript:void(0)
+ 141. http://pyfound.blogspot.com/2010_06_01_archive.html
+ 142. javascript:void(0)
+ 143. http://pyfound.blogspot.com/2010_05_01_archive.html
+ 144. javascript:void(0)
+ 145. http://pyfound.blogspot.com/2010_04_01_archive.html
+ 146. javascript:void(0)
+ 147. http://pyfound.blogspot.com/2010_03_01_archive.html
+ 148. javascript:void(0)
+ 149. http://pyfound.blogspot.com/2010_01_01_archive.html
+ 150. javascript:void(0)
+ 151. http://pyfound.blogspot.com/search?updated-min=2009-01-01T00:00:00-05:00&updated-max=2010-01-01T00:00:00-05:00&max-results=21
+ 152. javascript:void(0)
+ 153. http://pyfound.blogspot.com/2009_12_01_archive.html
+ 154. javascript:void(0)
+ 155. http://pyfound.blogspot.com/2009_10_01_archive.html
+ 156. javascript:void(0)
+ 157. http://pyfound.blogspot.com/2009_09_01_archive.html
+ 158. javascript:void(0)
+ 159. http://pyfound.blogspot.com/2009_08_01_archive.html
+ 160. javascript:void(0)
+ 161. http://pyfound.blogspot.com/2009_07_01_archive.html
+ 162. javascript:void(0)
+ 163. http://pyfound.blogspot.com/2009_06_01_archive.html
+ 164. javascript:void(0)
+ 165. http://pyfound.blogspot.com/2009_05_01_archive.html
+ 166. javascript:void(0)
+ 167. http://pyfound.blogspot.com/2009_04_01_archive.html
+ 168. javascript:void(0)
+ 169. http://pyfound.blogspot.com/2009_02_01_archive.html
+ 170. javascript:void(0)
+ 171. http://pyfound.blogspot.com/search?updated-min=2008-01-01T00:00:00-05:00&updated-max=2009-01-01T00:00:00-05:00&max-results=23
+ 172. javascript:void(0)
+ 173. http://pyfound.blogspot.com/2008_12_01_archive.html
+ 174. javascript:void(0)
+ 175. http://pyfound.blogspot.com/2008_11_01_archive.html
+ 176. javascript:void(0)
+ 177. http://pyfound.blogspot.com/2008_10_01_archive.html
+ 178. javascript:void(0)
+ 179. http://pyfound.blogspot.com/2008_08_01_archive.html
+ 180. javascript:void(0)
+ 181. http://pyfound.blogspot.com/2008_07_01_archive.html
+ 182. javascript:void(0)
+ 183. http://pyfound.blogspot.com/2008_05_01_archive.html
+ 184. javascript:void(0)
+ 185. http://pyfound.blogspot.com/2008_04_01_archive.html
+ 186. javascript:void(0)
+ 187. http://pyfound.blogspot.com/2008_03_01_archive.html
+ 188. javascript:void(0)
+ 189. http://pyfound.blogspot.com/2008_02_01_archive.html
+ 190. javascript:void(0)
+ 191. http://pyfound.blogspot.com/2008_01_01_archive.html
+ 192. javascript:void(0)
+ 193. http://pyfound.blogspot.com/search?updated-min=2007-01-01T00:00:00-05:00&updated-max=2008-01-01T00:00:00-05:00&max-results=26
+ 194. javascript:void(0)
+ 195. http://pyfound.blogspot.com/2007_12_01_archive.html
+ 196. javascript:void(0)
+ 197. http://pyfound.blogspot.com/2007_11_01_archive.html
+ 198. javascript:void(0)
+ 199. http://pyfound.blogspot.com/2007_10_01_archive.html
+ 200. javascript:void(0)
+ 201. http://pyfound.blogspot.com/2007_09_01_archive.html
+ 202. javascript:void(0)
+ 203. http://pyfound.blogspot.com/2007_08_01_archive.html
+ 204. javascript:void(0)
+ 205. http://pyfound.blogspot.com/2007_07_01_archive.html
+ 206. javascript:void(0)
+ 207. http://pyfound.blogspot.com/2007_06_01_archive.html
+ 208. javascript:void(0)
+ 209. http://pyfound.blogspot.com/2007_05_01_archive.html
+ 210. javascript:void(0)
+ 211. http://pyfound.blogspot.com/2007_04_01_archive.html
+ 212. javascript:void(0)
+ 213. http://pyfound.blogspot.com/2007_03_01_archive.html
+ 214. javascript:void(0)
+ 215. http://pyfound.blogspot.com/2007_02_01_archive.html
+ 216. javascript:void(0)
+ 217. http://pyfound.blogspot.com/2007_01_01_archive.html
+ 218. javascript:void(0)
+ 219. http://pyfound.blogspot.com/search?updated-min=2006-01-01T00:00:00-05:00&updated-max=2007-01-01T00:00:00-05:00&max-results=39
+ 220. javascript:void(0)
+ 221. http://pyfound.blogspot.com/2006_12_01_archive.html
+ 222. javascript:void(0)
+ 223. http://pyfound.blogspot.com/2006_11_01_archive.html
+ 224. javascript:void(0)
+ 225. http://pyfound.blogspot.com/2006_10_01_archive.html
+ 226. javascript:void(0)
+ 227. http://pyfound.blogspot.com/2006_09_01_archive.html
+ 228. javascript:void(0)
+ 229. http://pyfound.blogspot.com/2006_08_01_archive.html
+ 230. javascript:void(0)
+ 231. http://pyfound.blogspot.com/2006_07_01_archive.html
+ 232. javascript:void(0)
+ 233. http://pyfound.blogspot.com/2006_05_01_archive.html
+ 234. javascript:void(0)
+ 235. http://pyfound.blogspot.com/2006_04_01_archive.html
+ 236. javascript:void(0)
+ 237. http://pyfound.blogspot.com/2006_03_01_archive.html
+ 238. http://www.blogger.com/profile/14604644394514192040
+ 239. http://www.blogger.com/profile/14971120963699387108
+ 240. https://plus.google.com/103916922127569633396
+ 241. http://www.blogger.com/profile/01451152285284438702
+ 242. http://www.blogger.com/profile/07543015027323408421
+ 243. http://www.blogger.com/profile/07331585381804299154
+ 244. http://www.blogger.com/profile/15361575080931041976
+ 245. http://www.blogger.com/profile/13756992050921673361
+ 246. http://www.blogger.com/profile/06351908417200979114
+ 247. https://plus.google.com/105172091805567849283
+ 248. http://www.blogger.com/profile/07627402554307001461
+ 249. http://www.blogger.com/profile/15732819755000554717
+ 250. http://www.blogger.com/profile/06673699859175469861
+ 251. http://www.blogger.com/profile/06229713779852499022
+ 252. http://www.blogger.com/profile/03855116138400732464
+ 253. http://www.blogger.com/profile/01892352754222143463
+ 254. http://www.blogger.com/profile/15283545632469437380
+ 255. http://www.blogger.com/profile/05569570562799478047
+ 256. https://plus.google.com/116670685619813088895
+ 257. http://www.blogger.com/profile/02228533729754593753
+ 258. http://creativecommons.org/licenses/by-nc-sa/3.0/
+ 259. http://www.python.org/psf/
+ 260. http://creativecommons.org/licenses/by-nc-sa/3.0/
+ 261. http://pyfound.blogspot.com/
+
+   Hidden links:
+ 263. http://pyfound.blogspot.com/
+ 264. http://www.blogger.com/email-post.g?blogID=8520&postID=1352159003565920415
+ 265. http://www.blogger.com/post-edit.g?blogID=8520&postID=1352159003565920415&from=pencil
+ 266. http://pyfound.blogspot.com/2014/03/sponsoring-kivy-app-contest.html?utm_source=feedburner
+ 267. http://www.blogger.com/rearrange?blogID=8520&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=sidebar
+ 268. http://www.blogger.com/rearrange?blogID=8520&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebar
+ 269. http://www.blogger.com/rearrange?blogID=8520&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar
+ 270. http://www.blogger.com/rearrange?blogID=8520&widgetType=Profile&widgetId=Profile1&action=editWidget&sectionId=sidebar
+ 271. http://www.blogger.com/rearrange?blogID=8520&widgetType=HTML&widgetId=HTML4&action=editWidget&sectionId=sidebar

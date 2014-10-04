@@ -1,0 +1,1724 @@
+
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+		<title>SungardASVoice: Defining Modern IT: The 21st Century CIO - Forbes</title>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta name="viewport" content="width=device-width, maximum-scale=2.0" />
+		<meta name="description" content="As an anthropologist studying the behavior of the various tribes operating in the contemporary workplace I observe evolving patterns of word use, abuse and non-use. I was very surprised to discover that just about EVERY discipline [e.g., art, literature, theatre, politics, marketing, publishing, entertainment and finance] extensively and intensively make use of the word &ldquo;modern&rdquo;. The only discipline where the word &ldquo;modern&rdquo; is conspicuously absent is IT." />
+		<meta name="keywords" content="Business,CIO,define CIO,define IT,IT,modern IT,role of the CIO" />
+		<meta name="author" content="Thornton May" />
+		<meta name="apple-itunes-app" content="app-id=588647136" />
+		<meta name="googlebot-news" content="noindex,nofollow" />
+		<meta property="author" content="Thornton May" />
+		<meta property="og:title" content="SungardASVoice: Defining Modern IT: The 21st Century CIO" />
+		<meta property="og:site_name" content="Forbes" />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="http://www.forbes.com/sites/sungardas/2014/09/23/defining-modern-it-cios-and-the-21st-century/" />
+		<meta property="og:image" content="http://blogs-images.forbes.com/sungardas/files/2014/09/IT-and-modern-CIOs.jpg" />
+		<meta name="sailthru.image.full" content="http://blogs-images.forbes.com/sungardas/files/2014/09/IT-and-modern-CIOs.jpg" />
+		<meta property="og:description" content="As an anthropologist studying the behavior of the various tribes operating in the contemporary workplace I observe evolving patterns of word use, abuse and non-use. I was very surprised to discover that just about EVERY discipline [e.g., art, literature, theatre, politics, marketing, publishing, entertainment and finance] extensively and intensively make use of the word &ldquo;modern&rdquo;. The only discipline where the word &ldquo;modern&rdquo; is conspicuously absent is IT." />
+		<meta property="fb:app_id" content="123694841080850" />
+		<meta property="article:published_time" content="2014-09-23" />
+		<meta name="date" content="2014-09-23" />
+		<meta property="article:author" content="http://blogs.forbes.com/people/thorntonmay/" />
+		<meta name="sailthru.author" content="Thornton May" />
+		<meta property="article:author" content="http://www.forbes.com/sites/sungardas/" />
+		<meta name="sailthru.author" content="SungardAS" />
+		<meta property="article:section" content="Business" />
+		<meta property="article:tag" content="Business" />
+		<meta property="article:tag" content="CIO" />
+		<meta property="article:tag" content="define CIO" />
+		<meta property="article:tag" content="define IT" />
+		<meta property="article:tag" content="IT" />
+		<meta property="article:tag" content="modern IT" />
+		<meta property="article:tag" content="role of the CIO" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:site" content="@forbes" />
+		<link rel="canonical"   href="http://www.forbes.com/sites/sungardas/2014/09/23/defining-modern-it-cios-and-the-21st-century/" />
+		<link rel="shortlink"   href="http://onforb.es/1wJtscL" />
+	<script type="text/javascript" src="http://images.forbes.com/scripts/js_options.js"></script>
+	<script type="text/javascript">
+    	(function (){
+
+			window.displayedChannel = 'business';
+			window.displayedSection = 'sungardasblog';
+
+			// Check if welcome ad is not disabled
+			if(typeof forbes !== "undefined" && typeof forbes.js_options !== "undefined" && !forbes.js_options.welcome_ad_disable ){
+
+				var midnight = new Date(),
+					offset = -4 // if offset is not set, by default time is UTC 6:00am i.e EST 1am & EDT 12am for dailyWelcomeCookie expiration
+				;
+
+				if(midnight.getUTCHours() >= -offset)
+					midnight.setUTCDate(midnight.getUTCDate()+1)
+				;
+
+				midnight.setUTCHours(-offset);
+				midnight.setUTCMinutes(00);
+				midnight.setUTCSeconds(00);
+
+
+				var welcomeCookie = "welcomeAd=sessionCookie",
+					interstitial_cookie = '_forbes_exit_interstitial_timer',
+					tomorrow = new Date(),
+					month = tomorrow.getMonth(),
+					day = tomorrow.getDate(),
+					dailyWelcomeCookie = 'dailyWelcomeCookie=dailyCookie',
+					browser_user_agent = window.navigator.userAgent.toLowerCase(),
+					page_type = 'article',
+					swimlane = '',
+					brand_voice = 'true'
+				;
+
+				if ((document.cookie.indexOf(welcomeCookie)==-1 || document.cookie.indexOf(dailyWelcomeCookie) == -1)
+					&& (window.navigator.userAgent.indexOf("Mozilla")>-1)
+					&& (browser_user_agent.indexOf("googlebot")==-1)
+					&& (browser_user_agent.indexOf("google web preview")==-1)
+					&& (window.location.host.indexOf("forbes.com")!=-1)
+					&& (window.location.search.indexOf("partner=yahoo")==-1)
+					&& (window.location.search.indexOf("partner=msn")==-1)
+					&& (window.location.search.indexOf("partner=aol")==-1)
+					&& (window.location.search.indexOf("partner=omg")==-1)
+					&& (window.location.search.indexOf("partner=huffpo")==-1)
+					&& (window.location.search.indexOf('nowelcome')==-1)
+					&& (swimlane.indexOf("rico")!=0 || page_type != 'article')
+					&& brand_voice==='false'){
+
+					if(document.cookie.indexOf(welcomeCookie) == -1 ){
+						document.cookie = welcomeCookie +'__welcome'+(month+1)+day+'; path=/; domain=.forbes.com';
+					}
+
+					if(document.cookie.indexOf(dailyWelcomeCookie) == -1){
+						document.cookie = dailyWelcomeCookie+'_forDate'+(month+1)+day+'; path=/; domain=.forbes.com; expires=' + midnight.toGMTString();
+					}
+
+					// check if interstitial's cookie hasn't been set already
+					if(document.cookie.indexOf( interstitial_cookie ) == -1){
+
+						// it doesn't exist; let's create the interstitial cookie and set it
+						// with the current timestamp
+
+						var now = new Date(),
+							now_time = now.getTime(),
+							expiration_date = new Date()
+						;
+
+						expiration_date
+							.setDate( expiration_date.getDate() + 365)
+						;
+
+						// set interstitial cookie to the current time
+						document.cookie = interstitial_cookie + '='+ now_time +'; path=/; domain=.forbes.com; expires=' + expiration_date.toUTCString();
+					}
+
+					if (document.cookie.indexOf(welcomeCookie) != -1 || document.cookie.indexOf(dailyWelcomeCookie) != -1){
+
+						// this cookie is used by interstitial_ad.js to determine if the user received a
+						// welcome ad before viewing the current page.
+						document.cookie="last_welcomead_url"+ "=" +escape(document.URL)+";path=/; domain=.forbes.com";
+						document.cookie="referrer"+ "=" +escape(document.referrer)+";path=/; domain=.forbes.com";
+						document.cookie="toURL"+ "=" +escape(document.URL)+";path=/; domain=.forbes.com";
+						document.cookie="refURL"+ "=" +escape(document.referrer)+";path=/; domain=.forbes.com";
+						this.location='http://www.forbes.com/fdc/welcome_mjx.shtml';
+					}
+				}
+
+			}
+		})();
+	</script>
+        <script type="text/javascript">
+                var forbes = ( function( forbes_namespace ) {
+                forbes_namespace.user_meta = {
+            },
+            forbes_namespace.page_meta = {
+                            channel: "business",
+                            section: "sungardasblog",
+
+                            primary_channel: "business",
+
+
+                            special_slot: "sungardas",
+
+
+
+                            sitepage: "forbes.com/business/sites/sungardas/2014/09/23/defining-modern-it-cios-and-the-21st-century/",
+                            author: {
+                                    natural_id: "blogAuthorId/blog/author/1396553",
+                                    user_id: "1396553",
+                                    display_name: "Thornton May",
+                                    type: "ad"
+                            },
+         	                   post_id: 4575,
+            	                blog_id: 2878,
+                            natural_id: "blogAndPostId/blog/post/2878-4575",
+                            type: "blog",
+                            title: "Defining Modern IT: The 21st Century CIO",
+                            site_slug: "sungardas",
+							referrer: "",
+							content_id: "content_5420d551e4b03b61661eadd8",
+							blogtype : "ad",
+							authorType: "ad",
+							brandvoice: true,
+								simple_reach: {
+									iframe: true,
+									pid: "50e4a8434240cf5c4b000009",
+									url: "http://www.forbes.com/sites/sungardas/2014/09/23/defining-modern-it-cios-and-the-21st-century/",
+									title: "Defining Modern IT: The 21st Century CIO",
+									date: "2014-09-23T13:30:00Z",
+									authors: ["Thornton May"],
+									channels: ["business"],
+									tags: ["brandvoice", "site::sungardas", "slot::sungardas" ,"sungardas::Business","sungardas::CIO","sungardas::define CIO","sungardas::define IT","sungardas::IT","sungardas::modern IT","sungardas::role of the CIO"],
+									landing_url: ""
+								}
+                    };
+                    return forbes_namespace;
+            }( forbes || {} ) );
+        </script>
+	<script type='text/javascript'>
+
+	var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+  var gads = document.createElement('script');
+  gads.async = true;
+  gads.type = 'text/javascript';
+  var useSSL = 'https:' == document.location.protocol;
+  gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(gads, node);
+})();
+
+	</script>
+		<link rel="stylesheet" type="text/css" href="http://i.forbesimg.com/scripts/combined/css/global.43c99e597e708a164dfaacb2ef527fd6bb6121dd.css" />
+		<link rel="stylesheet" type="text/css" href="http://i.forbesimg.com/scripts/combined/css/article-responsive.5ee6df0094da8ce2145a5350e42ec6a7373915fa.css" />
+		<script type="text/javascript" src="http://i.forbesimg.com/scripts/combined/js/head.14cf7fb3a4053446bdebb499b3fa78ede856f5a5.js"></script>
+
+	<script type="text/javascript" src="http://i.forbesimg.com/assets/js/forbes/polar/vest_pocket_article.js"></script>
+	<script type="text/javascript" src="http://images.forbes.com/scripts/simple_reach.js"></script>
+
+
+	<!--[if lte IE 8]>
+		<link rel="stylesheet" type="text/css" href="//i.forbesimg.com/assets/css/forbes/article_responsive/article_ie_unbreaker.css">
+	<![endif]-->
+
+
+</head>
+
+<body class="body_article infinite follow_bar_disabled"
+	data-header-mode="default"
+	data-base-url="/"
+	data-stream-data-url="/pepe2/get_article.php"
+	data-max-stream-pages="3">
+
+	
+<header class="ar_global enable_sticky_header">
+
+	<span class="edittools-goggles-hitmask">
+		<span class="edittools-goggles-hitarea">
+			<span class="edittools-goggles-toggle attach-click" title="Toggle Edit Tools"></span>
+		</span>
+	</span>
+	<span class="edittools-goggles-rule"></span>
+
+	<div class="wrap">
+
+		<a href="/" class="default_logo_toggle logo_menu_toggle">
+			<span class="icon arrow"></span>
+		</a>
+
+		<div class="logo">
+			<a href="http://www.forbes.com/">
+				<img class="svg" alt="Forbes" src="/assets/img/forbes_logo/forbes_logo_white.svg" onerror="this.src='/assets/img/forbes_logo/forbes_logo_white.png'">
+				<img itemprop="logo" alt="Forbes" src="/assets/img/forbes_logo/forbes_logo.gif">
+			</a>
+		</div>
+		<div class="primary_feature">
+
+<article>
+
+
+		<div class="edittools-promoblock largeplusthree" data-et-context="headercoverstory" data-et-location-id="headercoverstory" data-et-panel-id="panel8">
+			<article data-et-content-id="4e7a0e2776e46f6dd8029dc4" class="promostory promostory-1">
+
+
+				<figure>
+					<a href="http://www.forbes.com/forbes-400/" class="featured_image editable editable-img  " data-ga-event="Header,LinkFollowed,magpromo" data-ga-event-trigger="click">
+
+
+						<img src="http://images.forbes.com/images/channels/headercoverstory_panel8_0_original-1412266450.png" alt="America's Richest People" />
+					</a>
+				</figure>
+
+				<div class="feature_label">
+					<span class="category editable editable-dek"><a href="http://www.forbes.com/forbes-400/">Forbes 400</a></span>
+						<span class="title editable editable-hed" data-ga-event="Header,LinkFollowed,magpromo" data-ga-event-trigger="click">
+							<a href="http://www.forbes.com/forbes-400/">
+									America's Richest People
+							</a>
+						</span>
+				</div>
+
+			</article>
+		</div>
+
+</article>
+		</div><!-- .primary_feature -->
+
+		<nav>
+			<ul class="main_categories">
+				<li data-id="new_posts">
+					<a href="http://www.forbes.com/real-time/" class="button" data-ga-event="Header,LinkFollowed,realtime" data-ga-event-trigger="click">
+						<span class="text">New Posts</span>
+					</a>
+				</li>
+				<li data-id="most_popular">
+					<a href="http://www.forbes.com/most-popular/" class="button" data-ga-event="Header,LinkFollowed,popular" data-ga-event-trigger="click">
+						<span class="text">Most Popular</span>
+					</a>
+				</li>
+				<li data-id="lists">
+					<a href="http://www.forbes.com/lists/" class="button" data-ga-event="Header,LinkFollowed,lists" data-ga-event-trigger="click">
+						<span class="text">Lists</span>
+					</a>
+				</li>
+				<li data-id="video">
+					<a href="http://www.forbes.com/video/" class="button" data-ga-event="Header,LinkFollowed,video" data-ga-event-trigger="click">
+						<span class="text">Video</span>
+					</a>
+				</li>
+				<li data-id="promo">
+					<a href="http://bit.ly/1aqPJ4p">
+						<span class="text">2 Free Issues of Forbes</span>
+					</a>
+				</li>
+				<li data-id="global_search">
+	<div class="header_search global_search_control typeahead_anchor">
+		<form class="form_global_search" action="/search/">
+			<div class="input_holder">
+				<input name="q" class="search_input" type="text" value="" placeholder="Search" data-placeholder-short="Search" data-placeholder-long="Search companies, people and lists" autocomplete="off">
+				<input class="form_submit" type="submit" value="submit">
+				<span class="loading_msg"></span>
+				<span class="loading_spinner"><img src="http://i.forbesimg.com/assets/img/loading_spinners/16px_grey.gif" height="16" width="16" alt=""></span>
+			</div>
+		</form>
+
+		<div class="typeahead_results_holder">
+			<div class="results"><ul></ul></div>
+		</div><!-- end div.typeahead_results_holder -->
+		
+	</div><!-- end li.search-->
+				</li>
+				<li data-id="user_info">
+
+<div class="user hover togglable collapsed">
+	<div class="account_wrapper">
+		<a class="button account toggle" href="http://blogs.forbes.com/account/" data-ga-event="Header,LinkFollowed,account" data-ga-event-trigger="click" data-content-outer=".toggle_dropdown" data-content-inner=".toggle_dropdown_content">
+			<img src="http://i.forbesimg.com/assets/img/anon_avatar.png" alt="">
+			<span class="icon arrow"></span>
+		</a>
+
+		<div class="toggle_dropdown">
+			<div class="toggle_dropdown_content rollover">
+				<div class="user_login clearfix">
+
+
+
+				<div class="one_column">
+
+					<div class="external_auth_options">
+						<h3>Log in with your social account:</h3>
+						<div id="gigya_accountdropdown_extralarge_div"></div>
+						<div class="clear"></div>
+					</div>
+
+					<hr class="dotted">
+
+					<h3>Or, you can
+						<a class="ajaxify unireg_login" href="http://blogs.forbes.com/account/login/" label="login">log in</a>
+						or
+						<a class="ajaxify unireg_register" href="http://blogs.forbes.com/account/register/" label="signup">sign up</a>
+						using Forbes.
+					</h3>
+				</div>
+
+
+				</div><!-- .user_login -->
+			</div><!-- .toggle_dropdown_content -->
+		</div><!-- .toggle_dropdown -->
+	</div><!-- .account_wrapper -->
+</div><!-- .user -->
+
+				</li>
+
+			</ul><!-- .main_categories -->
+		</nav>
+
+		<div class="secondary_features">
+<article data-id="1">
+
+			<div class="edittools-promoblock largeplusthree" data-et-context="headerfeature1" data-et-location-id="headerfeature1" data-et-panel-id="panel14">
+			<article data-et-content-id="content_542a325ee4b0563af2c47a8b" class="promostory promostory-1">
+
+
+				<figure>
+				<a href="http://www.forbes.com/sites/parmyolson/2014/09/30/how-jerry-yang-made-the-most-lucrative-bet-in-tech-history/" class="featured_image editable editable-img  " data-ga-event="Header,LinkFollowed,promo1" data-ga-event-trigger="click">
+
+
+                        <img src="http://images.forbes.com/images/channels/headerfeature1_panel14_0_original-1412266475.jpg" alt="Finding Alibaba: How Jerry Yang Made The Most Lucrative Bet In Silicon Valley History" />
+
+                </a>
+				</figure>
+
+            	<div class="title editable editable-hed">
+	            	<a href='http://www.forbes.com/sites/parmyolson/2014/09/30/how-jerry-yang-made-the-most-lucrative-bet-in-tech-history/' data-ga-event="Header,LinkFollowed,promo1" data-ga-event-trigger="click">
+	            			Finding Alibaba: How Jerry Yang Made The Most Lucrative Bet In Silicon Valley History
+	            	</a>
+            	</div>
+		</article>
+		</div>
+</article>
+
+
+<article data-id="2">
+
+			<div class="edittools-promoblock largeplusthree" data-et-context="headerfeature2" data-et-location-id="headerfeature2" data-et-panel-id="panel15">
+			<article data-et-content-id="content_5400f934e4b0bb45818b7499" class="promostory promostory-1">
+
+
+				<figure>
+				<a href="http://www.forbes.com/sites/nicolefisher/2014/08/30/the-most-interesting-man-revolutionizing-the-health-world/" class="featured_image editable editable-img  " data-ga-event="Header,LinkFollowed,promo2" data-ga-event-trigger="click">
+
+
+                        <img src="http://images.forbes.com/images/channels/headerfeature2_panel15_0_original-1412019265.jpg" alt="The Most Interesting Man Revolutionizing The Health World" />
+                </a>
+				</figure>
+
+            	<div class="title editable editable-hed">
+            		<a href='http://www.forbes.com/sites/nicolefisher/2014/08/30/the-most-interesting-man-revolutionizing-the-health-world/' data-ga-event="Header,LinkFollowed,promo2" data-ga-event-trigger="click">
+            				The Most Interesting Man Revolutionizing The Health World
+            		</a>
+            	</div>
+		</article>
+		</div>
+</article>
+
+
+<article data-id="3">
+
+			<div class="edittools-promoblock largeplusthree" data-et-context="headerfeature3" data-et-location-id="headerfeature3" data-et-panel-id="panel20">
+			<article data-et-content-id="content_53fd57bbe4b0bb45818b60c6" class="promostory promostory-1">
+
+				<figure>
+				<a href="http://www.forbes.com/sites/martinzwilling/2014/08/27/10-startup-calculated-risks-that-lead-to-success/" class="featured_image editable editable-img  " data-ga-event="Header,LinkFollowed,promo3" data-ga-event-trigger="click">
+
+
+                        <img src="http://images.forbes.com/images/channels/headerfeature3_panel20_0_original-1412019640.png" alt="10 Calculated Risks That Lead To Startup Success" />
+                </a>
+				</figure>
+
+            	<div class="title editable editable-hed">
+	            	<a href='http://www.forbes.com/sites/martinzwilling/2014/08/27/10-startup-calculated-risks-that-lead-to-success/' data-ga-event="Header,LinkFollowed,promo3" data-ga-event-trigger="click">
+		            		10 Calculated Risks That Lead To Startup Success
+	            	</a>
+	            </div>
+		</article>
+		</div>
+</article>
+		</div><!-- .secondary_features -->
+
+	</div><!-- .wrap -->
+</header>
+
+<header class="mini_header">
+	<div class="wrap">
+		<div class="logo">
+			<a href="/" class="logo_menu_toggle">
+				<img class="svg icon_expanded" alt="Forbes" src="/assets/img/forbes_logo/forbes_logo.svg" onerror="this.src='/assets/img/forbes_logo/forbes_logo.gif'">
+				<img class="svg icon_collapsed" alt="Forbes" src="/assets/img/forbes_logo/forbes_logo_white.svg" onerror="this.src='/assets/img/forbes_logo/forbes_logo_white.png'">
+				<span class="icon arrow"></span>
+			</a>
+		</div>
+
+
+		<div class="header_drawer togglable collapsed">
+			<div class="focused">
+				<div class="focused_inner">
+
+
+						<a href="http://www.forbes.com/sites/brucekasanoff/2014/10/03/jpmorgan-chase-breach-reveals-a-dire-talent-emergency/">
+							<span class="title"> JPMorgan Chase Breach Reveals A Dire Talent Emergency</span>
+
+								<span class="reason" data-reason="LI" >Active on LinkedIn <span class="icon"></span></span>
+					</a>
+
+				</div>
+				<div class="toggle" data-content-outer=".dropdown" data-content-inner=".dropdown_inner">
+					<div class="pointer"></div>
+				</div>
+			</div><!-- .featured -->
+
+
+			<div class="dropdown" style="height: 0px; opacity: 0;">
+				<div class="dropdown_inner">
+					<ul>
+
+
+
+
+
+
+
+
+
+
+
+
+								<li data-et-id="content_542d8b43e4b0563af2c48f91">
+									<a href="http://www.forbes.com/sites/kenkam/2014/10/03/could-there-be-a-thousand-warren-buffetts/">
+										<span class="title"> Could There Be A Thousand Warren Buffetts?</span>
+
+											<span class="reason" data-reason="PV-D">+8,249 views in last 24 hours</span>
+									</a>
+								</li>
+
+
+
+
+
+								<li data-et-id="content_542d3fabe4b0563af2c48bdb">
+									<a href="http://www.forbes.com/sites/retailwire/2014/10/02/walmarts-drive-through-grocery-concept-is-a-head-scratcher/">
+										<span class="title"> Walmart's Drive-Through Grocery Concept Is A Head Scratcher</span>
+
+											<span class="reason" data-reason="FB">Active on Facebook <span class="icon"></span></span>
+									</a>
+								</li>
+
+
+
+
+
+								<li data-et-id="content_542c86d6e4b0563af2c48acd">
+									<a href="http://www.forbes.com/sites/larryhusten/2014/10/02/cholesterol-drugs-haunted-by-ghosts-of-past-present-and-future/">
+										<span class="title"> Cholesterol Drugs Haunted By Ghosts Of Past, Present, And Future</span>
+
+											<span class="reason" data-reason="PV-D">+32,570 views in last 24 hours</span>
+									</a>
+								</li>
+
+
+
+
+
+								<li data-et-id="content_542d5a20e4b0563af2c48c99">
+									<a href="http://www.forbes.com/sites/insertcoin/2014/10/02/what-destiny-needs-to-learn-from-diablo-3-about-loot/">
+										<span class="title"> What 'Destiny' Needs To Learn From 'Diablo 3' About Loot</span>
+
+											<span class="reason" data-reason="PV-D">+29,047 views in last 24 hours</span>
+									</a>
+								</li>
+
+
+
+
+
+								<li data-et-id="content_542dc723e4b0563af2c49108">
+									<a href="http://www.forbes.com/sites/larrymagid/2014/10/02/jp-morgan-chase-warns-customers-about-massive-data-breach/">
+										<span class="title"> JP Morgan Chase Warns Customers About Massive Data Breach</span>
+
+											<span class="reason" data-reason="PV-D">+23,948 views in last 24 hours</span>
+									</a>
+								</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					</ul>
+					<div class="more">
+						<a href="/most-popular/">
+							<span class="icon">+</span>
+							<span class="label">More</span>
+						</a>
+					</div>
+
+				</div><!-- .dropdown_inner -->
+			</div><!-- .dropdown -->
+		</div>
+
+	</div><!-- .wrap -->
+</header><!-- .mini_header -->
+<div data-nav-ajax-url="/header/channels" class="ar_global_logo_rollover">
+	<div class="rollover rollover_box">
+
+	</div><!-- .rollover.rollover_box -->
+</div><!-- .ar_global_logo_rollover -->
+
+
+<div id="header_userinfo" class="clearfix">
+		<div class="login_header">
+		<!-- login header -->		<div class="gigya_chicklet_mask">			<div class="ribbon-item ribbon-item-gigya">				<div class="login_options">					<span>Connect</span>				</div>				<div id="gigyalogindiv" class="gigya_chicklet_holder"></div>			</div>		</div>		<span class="divider">|</span>		<div class="ribbon-item">			<a class="unireg_register ajaxify regbutton regbutton-signup" href="http://blogs.forbes.com/account/register/" title="Sign up for a Forbes account" data-ga-event="Account,Signup,headersignuptext" data-ga-event-trigger="click">Sign up</a>		</div>		<span class="divider">|</span>		<div class="ribbon-item">			<a class="unireg_login ajaxify regbutton regbutton-login" href="http://blogs.forbes.com/account/login/" title="Log in to your Forbes account" data-ga-event="Account,Login,headerlogintext" data-ga-event-trigger="click">Log in</a>		</div><!-- end login header -->
+		</div>
+	<div class="legal_header"><div class="ribbon-item"><a class="inlink inlink-topnav" href="http://blogs.forbes.com/help/">Help</a></div><span class="divider">|</span><div class="ribbon-item"><a onclick="(function(){var s=document.createElement('script');s.src='http://preferences.truste.com/js/buildJsFilev2.jsp?domain=forbes.com&amp;type=epref';s.onreadystatechange=function(){if(script.readyState=='loaded'||script.readyState=='complete'){view(trusteId);}};s.onload=function(){view(trusteId);};document.getElementsByTagName('head')[0].appendChild(s);})()">AdChoices</a></div><span class="divider">|</span><div class="ribbon-item"><a title="Terms and Conditions" href="/terms">Terms</a></div><span class="divider">|</span><div class="ribbon-item"><a title="Privacy Statement" href="http://www.forbes.com/fdc/privacy.html">Privacy</a></div></div>
+</div><!--end #header_userinfo -->
+
+	<div id="article_container_0" class="article_container container">
+
+		<!--start:ajax_content_inner-->
+
+		<div class="article_stats_data" data-stats='{&quot;user_meta&quot;:{},&quot;page_meta&quot;:{&quot;channel&quot;:&quot;business&quot;,&quot;section&quot;:&quot;sungardasblog&quot;,&quot;primary_channel&quot;:&quot;business&quot;,&quot;primary_section&quot;:&quot;&quot;,&quot;displaychannel&quot;:&quot;business&quot;,&quot;displaysection&quot;:&quot;sungardasblog&quot;,&quot;special_slot&quot;:&quot;sungardas&quot;,&quot;type&quot;:&quot;blog&quot;,&quot;template_type&quot;:&quot;standard&quot;,&quot;title&quot;:&quot;Defining Modern IT: The 21st Century CIO&quot;,&quot;site_slug&quot;:&quot;sungardas&quot;,&quot;blog_name&quot;:&quot;SungardAS&quot;,&quot;preview&quot;:false,&quot;sitepage&quot;:&quot;forbes.com\/business\/sites\/sungardas\/2014\/09\/23\/defining-modern-it-cios-and-the-21st-century\/&quot;,&quot;author&quot;:{&quot;natural_id&quot;:&quot;blogAuthorId\/blog\/author\/1396553&quot;,&quot;user_id&quot;:&quot;1396553&quot;,&quot;display_name&quot;:&quot;Thornton May&quot;,&quot;type&quot;:&quot;ad&quot;},&quot;post_id&quot;:&quot;4575&quot;,&quot;blog_id&quot;:&quot;2878&quot;,&quot;natural_id&quot;:&quot;blogAndPostId\/blog\/post\/2878-4575&quot;,&quot;content_id&quot;:&quot;content_5420d551e4b03b61661eadd8&quot;,&quot;blogtype&quot;:&quot;ad&quot;,&quot;authorType&quot;:&quot;ad&quot;,&quot;brandvoice&quot;:true,&quot;simple_reach&quot;:{&quot;iframe&quot;:true,&quot;pid&quot;:&quot;50e4a8434240cf5c4b000009&quot;,&quot;url&quot;:&quot;http:\/\/www.forbes.com\/sites\/sungardas\/2014\/09\/23\/defining-modern-it-cios-and-the-21st-century\/&quot;,&quot;title&quot;:&quot;Defining Modern IT: The 21st Century CIO&quot;,&quot;date&quot;:&quot;2014-09-23T13:30:00Z&quot;,&quot;authors&quot;:&quot;Thornton May&quot;,&quot;channels&quot;:&quot;business&quot;,&quot;tags&quot;:[&quot;brandvoice&quot;,&quot;site::sungardas&quot;,&quot;slot::sungardas&quot;,&quot;sungardas::Business&quot;,&quot;sungardas::CIO&quot;,&quot;sungardas::define CIO&quot;,&quot;sungardas::define IT&quot;,&quot;sungardas::IT&quot;,&quot;sungardas::modern IT&quot;,&quot;sungardas::role of the CIO&quot;],&quot;landing_url&quot;:&quot;&quot;}}}'></div>
+		<div class="article_dfp_data" data-dfp='{&quot;id&quot;:&quot;blogAndPostId\/blog\/post\/2878-4575&quot;,&quot;specialslot&quot;:&quot;sungardas&quot;,&quot;advoice&quot;:&quot;SungardAS&quot;}'></div>
+
+		<div class="leaderboard"></div>
+
+
+	<div class="row">
+		<div class="col-sm-12">
+			<hr class="article_rule">
+		</div>
+	</div>
+
+	<section class="row" itemscope itemtype="http://schema.org/Article">
+		<div class="col-md-2 entity_block_wrapper">
+
+
+
+
+
+
+
+		<div class="article_entity entity_block">
+			<div class="type_article_block">
+				<div class="entity_preview">
+						<a class="avatar" href='http://www.forbes.com/sites/sungardas/'><img src="http://blogs-images.forbes.com/assets/images/avatars/blog-2878_136.jpg" alt="SungardAS" /></a>
+
+							<a class="user_name" href='http://www.forbes.com/sites/sungardas/' itemprop="author">
+		    <span class="advoice"><span class="brandvoice">SungardAS</span>&#8203;Voice </span>
+							</a>
+
+
+
+
+
+
+    <div class="followable_block initializing" data-target-type="blog" data-target-id="blogAuthorId/blog/author/blog-2878" data-object-json="{&quot;title&quot;:&quot;SungardAS&quot;,&quot;avatar_src&quot;:&quot;http://blogs-images.forbes.com/assets/images/avatars/blog-2878_136.jpg&quot;,&quot;follow_count&quot;:&quot;97&quot;}" data-type-advoice="true" data-target-name="SungardAS" data-tracking-link-name="articleLink_ContribBylineFollow">
+
+    <div class="follow_unireg">
+		<a href="javascript://follow" class="follow_unireg_link">
+			<span class="option_follow">Follow</span>
+	
+			<span class="option_following">Following</span>
+	
+			<span class="option_unfollow">Unfollow</span>
+		</a>
+    </div>
+    </div>
+
+						<p class="preview_bio">
+								Business runs on IT -- All the time
+
+							<span class="show_more_copy">full bio &rarr;</span>
+						</p>
+
+
+						<div class="social_icons">
+							<div class="label" style="display:none;">
+								<div class="arrow"></div>
+								<span class="text"></span>
+							</div>
+							<ul class="entity_links">
+
+								<li class="twitter">
+									<a target="blank" href="http://twitter.com/SungardAS">
+										<span>Follow SungardAS on Twitter</span>
+									</a>
+								</li>
+
+
+
+
+
+
+							<li class="rss">
+								<a href="http://www.forbes.com/sites/sungardas/feed/">
+									<span>SungardAS&#8217;s RSS Feed</span>
+								</a>
+							</li>
+
+
+
+								<li class="profile_group">
+									<a href='http://www.forbes.com/sites/sungardas/'>
+										<span>SungardAS&#8217;s Profile</span>
+									</a>
+								</li>
+
+
+							<!-- ADD IF DATA CHECK -->
+
+
+						</ul><!-- .entity_links -->
+					</div>
+
+
+				</div><!-- .entity_preview -->
+
+				<div class="entity_dive">
+
+					<div class="masked_content">
+
+						<nav class="toggles">
+							<ul>
+								<li data-mode="recent_posts">Recent Posts<span class="arrow"></span></li>
+								<li data-mode="popular_posts">Popular Posts<span class="arrow"></span></li>
+								<li data-mode="bio">Full Bio<span class="arrow"></span></li>
+							</ul>
+						</nav>
+
+						<div class="full_bio">
+							<p>Sungard Availability Services partners with companies of all types to provide high availability solutions tailored to meet your unique business needs. We work with you to understand your business’ goals and then design IT solutions to address exactly what you need – and not what you don’t. We’re flexible enough to work with the most complex infrastructures and hybrid deployments. We bring the accumulated expertise that comes from more than three decades in IT disaster recovery to solve your availability challenges. We help keep the leading businesses in every major industry continuously available and in control of their critical systems.</p>
+
+							<!-- ADD IF DATA CHECK -->
+
+						</div>
+
+						<div class="entity_recent_posts">
+							Loading...
+						</div>
+
+						<div class="entity_popular_posts">
+							Loading...
+						</div>
+
+					</div><!-- .masked_content -->
+
+				</div><!-- .entity_dive -->
+
+				<div class="drawer_arrow_down"></div>
+
+			</div><!-- .type_article_block -->
+
+		</div><!-- .entity_block -->
+
+
+			<aside class="vp-wrapper">
+	<div class="vp-box vp-comment comment_bug comment_bug_2" style="display:none;">
+		<div class="wrapper">
+			<div class="info">
+				<a href="#comments_header" class="scroll_to">
+					<span class="comment_count">1</span>
+					Comments
+				</a>
+			</div>
+			<div class="called_out_sampling"></div>
+			<a href="#comments_header" class="scroll_to comment_calledout">1 called-out</a>
+		</div>
+		<div class="comment_teaser"></div>
+		<div class="no_comment_bugs_exist_yet" style="display:none;"></div>
+		<div class="comment_links">
+            <a href="#comment_reply" class="scroll_to post_your_comment">Comment Now</a>
+			<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2878-4575" data-object-json="{&quot;title&quot;:&quot;Defining Modern IT: The 21st Century CIO&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+			</div>
+		</div>
+	</div>
+				<div class="vp-box vp-polar-native" style="display: none;"> </div>
+			</aside>
+		</div>
+
+
+		<div class="article_content col-md-10 col-sm-12">
+
+
+<hgroup class="prevent_widows">
+		<!--Start: Advoice Description-->
+		<div class="advoice_desc">
+	<div class="badge">		    <span class="advoice"><span class="brandvoice">Forbes</span>&#8203;BrandVoice </span>
+</div>
+	<div class="description">
+		Connecting marketers to the Forbes audience. <a href="http://www.forbesmedia.com/re-arch.html">What is this?</a>
+	</div>
+	<div class="description_expanded" style="display:none;">
+		<div class="arrow"></div>
+		<div class="advoic_close_btn"></div>
+		<p>
+			Forbes <span>BrandVoice</span>&trade; allows marketers to 
+			connect directly with the Forbes audience by enabling them to create 
+			content – and participate in the conversation – on the Forbes digital publishing 
+			platform. Each <span>BrandVoice</span>&trade; is produced 
+			by the marketer. 
+			<a href="http://www.forbesmedia.com/re-arch.html">
+			More on <span>BrandVoice</span>&trade; here
+			</a>, or email us directly at 
+			<a title="Email BrandVoice" href="mailto:brandvoice@forbes.com">brandvoice@forbes.com</a>.
+			<p>Opinions expressed by Forbes <span>BrandVoice</span>™ Contributors are their own.</p> 
+		</p>
+	</div>
+<!-- end div.advoice_desc -->
+		</div>
+		<!--End: Advoice Description-->
+
+			<!--   Reveal this link if the logged-in user has editing rights-->
+
+	<h5>
+
+		<a href="/business" class="slug" itemprop="articleSection">Business</a>
+
+	<time itemprop="datePublished" content="2014-09-23T09:30:00-04:00">9/23/2014 @ 9:30AM</time>
+
+		<span class="views">545 views</span>
+	</h5>
+
+		<h1 itemprop="headline">Defining Modern IT: The 21st Century CIO</h1>
+
+
+
+			<!-- Make individual group author appear -->
+		<div class="bylines">
+
+        <cite class="entity_block type_inline_block">
+        	
+            <span class="attach_user_popup" data-user-json="" data-user-id="">
+            		
+	            <a href='http://blogs.forbes.com/people/thorntonmay/' class="avatar">
+	            	<img src='http://0.gravatar.com/avatar/484fa5413ccb689e796118949daa3019?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' alt="Thornton May" itemprop="image" />
+	            </a>
+	            <span>
+					<a  href='http://blogs.forbes.com/people/thorntonmay/' class="user">Thornton May</a>
+					<span class="desc">,&nbsp;SungardAS</span>
+	        	</span>
+	        	
+            </span>
+            
+        </cite>
+		</div>
+
+	<div class="comment_links">
+		<a href="#comment_reply" class="scroll_to post_your_comment">Comment Now</a>
+		<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2878-4575" data-object-json="{&quot;title&quot;:&quot;Defining Modern IT: The 21st Century CIO&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+		</div>
+	</div>
+</hgroup>
+
+
+			<div class="article_body article" itemprop="articleBody">
+
+				<div class="body">
+
+					<div class="body_inner">
+
+
+
+						
+<p>As an anthropologist studying the behavior of the various tribes operating in the contemporary workplace I observe evolving patterns of word use, abuse and non-use. I was very surprised to discover that just about EVERY discipline [e.g., art, literature, theatre, politics, marketing, publishing, entertainment and finance] extensively and intensively make use of the word “modern”. The only discipline where the word “modern” is conspicuously absent is IT.</p> 
+<p>I found it paradoxical that the discipline heretofore thought responsible for creating/managing/deploying the myriad technologies which essentially form the backdrop of the modern world for the most part, does not use the word “modern” and is not perceived as being modern. Indeed, in many instances IT and enterprise IT practitioners are considered embarrassingly out of date. For many next generation knowledge workers, entering the workplace often feels like entering a computer science museum.&nbsp; In the minds of most millennials, enterprise IT is decidedly not-modern.</p> 
+<div id="attachment_4579" class="wp-caption alignnone" style="width: 839px">
+ <img class="size-full wp-image-4579" alt="businessman and chalkboard with diagrams" src="http://blogs-images.forbes.com/sungardas/files/2014/09/IT-and-modern-CIOs.jpg" />
+ <p class="wp-caption-text">How does one define modern IT or the modern CIO? Turns out the definitions are rather hard to come by…</p>
+</div> 
+<p>Working with the CIOs at the <a href="http://www.forbes.com/colleges/university-of-kentucky/">University of Kentucky</a> [<a href="http://goo.gl/5K6UI" target="_blank" rel="nofollow">http://goo.gl/5K6UI</a>], the Olin College of Engineering [<a href="http://goo.gl/yM7cV4" target="_blank" rel="nofollow">http://goo.gl/yM7cV4</a>] and THE Ohio State University [<a href="http://goo.gl/GHDGCS" target="_blank" rel="nofollow">http://goo.gl/GHDGCS</a>] I have, over the past three years, systematically studied the State of the Modern IT Organization. Our ongoing research focuses on understanding how IT leaders, professionals, and organizations are striving to re-label themselves as “modern.”</p> 
+<p>In a series of exercises conducted with executives around the world I asked three questions:</p> 
+<p>1. What does/should a “modern” IT Organization look like?</p> 
+<p>2. What elements define the “modern” CIO?</p> 
+<p>3. What differentiates a “modern” CIO from a non-modern CIO?</p> 
+<p>A consensus answer regarding what “modern” means in an IT context was not forthcoming. In a workshop at The Ohio State University we asked 100 senior IT executives what they thought “modern” IT, the IT of the future would look like. The responses covered a broad spectrum ranging from those envisioning “IT becoming a dictator” [i.e., becoming aggressive, disregarding existing boundaries and grabbing for control] and those who believe that IT will lose its independent identity and become invisible. I am in the process of deciphering what these diverse and polarized opinions mean for the future of IT. One pattern which did emerge was that while people could not unambiguously say what “modern” IT was. They could tell you – emphatically – what not-modern IT was.</p> 
+<p><strong>Not-Modern IT</strong></p> 
+<p>One of the areas where it was quite easy to differentiate between modern and non-modern IT behaviors was in attitude toward new technology. In the 1980s a mentor of mine created a caricature of the CIO persona named Garzog. Garzog had a stick – a baseball bat with a spike in the end. My mentor assured clients that Garzog actually represented the mindset of many CIOs he was interviewing at the time. The technology adoption issue of the day in the 80s was PCs.&nbsp; Garzog would patrol the corridors of the workplace shouting, “You bring me the damn user that’s got a PC. I will crush their skull.” This aggressively non-user centric, “My Way or the Highway” approach to technology adoption is now unanimously considered non-modern IT behavior.</p> 
+<p>Dan Lohrmann is a close friend and a fine executive. For thirteen years he was the Chief Information <a href="http://www.forbes.com/security/">Security</a> Officer [CISO] for the State of Michigan. He is now Chief Strategist and Chief Security Officer at Security Mentor. I asked Dan to share his thoughts about the modern/not-modern divide in IT. He instantly recalled a foundational moment in his career. It was 2004. Dan was the CISO for the state. He was six months into building a relationship with the new state CIO, Teri Takai. Teri is one of the most respected modern CIOs in the world today. Following her tenure at the State of Michigan she went on to become the CIO at the State of California [IT budget ~$5 billion] and then CIO at the Department of Defense [IT budget ~$35 billion].</p> 
+<p>In 2004, one of the top topics in technology was wireless – Wi Fi. The organization wanted to put Wi Fi in all the conference rooms. Dan was the security guy. He did all his homework. He discovered that just about all the headlines at the time – like today – revolved around “HACKING!” Somebody had hacked into a BIG Box store network via Wi Fi while sitting in car in the parking lot. Dan collected all the White Papers. He documented ALL the reasons why his organization shouldn’t do Wi Fi – Why Wi Fi was a bad idea for the State of Michigan.</p> 
+<p>Around this time the new CIO convened a big leadership meeting. At one point in the meeting Teri said, “Dan, what is the plan to get Wi Fi from a security perspective – the team wants to work with you to get this in all the conference rooms?” Dan said to Teri, “Teri, we can’t do this project. We can’t do Wi Fi. Security is vetoing this project.”</p> 
+<p>There was a gasp and then the entire room went silent. Dan remembers, “You could have cut the air with a knife.” Teri said, “I would like everyone to leave the room but Dan.” Everyone quickly left the room.&nbsp; Dan had been working with Teri for maybe six months. [They are today best friends]. In 2004, in that now empty conference room Teri said, “Dan, if that is your answer, you can’t be the CISO for the State of Michigan.” Dan said, “What?” He was freaking out. He was the guy who had received “Excellent” on every performance appraisal for the past 20 years. Teri continued, “I have just been to Dow, Ford and Chrysler. They all have Wi Fi in THEIR conference rooms. What do they know that you don’t know? Go figure it out in a week if you want to keep your job.”</p> 
+<p>Dan kept his job. Two years later the State of Michigan was to receive multiple awards for their wireless programs.</p> 
+<p>The moral of this story is that saying “No” is not a modern IT behavior. Figuring out how to move forward is a modern – perhaps the most modern IT behavior.</p>
+
+
+					</div>
+
+				</div>
+
+
+				<div class="sponsored_ad"></div>
+
+
+				<div class="event_tracking_scroll_latch" data-event="Article,ScrolledToEnd,end"></div>
+
+			</div><!-- .article_body.article -->
+
+    <div class="comment_bug" style="display:none;">
+        <div class="arrow_icon"></div>
+        <div class="bottom_border"></div>
+        <div class="wrapper">
+            <div class="called_out_sampling"></div>
+
+            <div class="info">
+                <a href="#comments_header" class="scroll_to">
+                    1 comments, 1 called-out
+                </a>
+            </div>
+                <a href="#comment_reply" class="scroll_to post_your_comment">Comment Now</a>
+				<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2878-4575" data-object-json="{&quot;title&quot;:&quot;Defining Modern IT: The 21st Century CIO&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+				</div>
+        </div>
+        <div class="comment_teaser"></div>
+        <div class="no_comment_bugs_exist_yet" style="display:none;">
+            <a href="#comment_reply" class="scroll_to post_first_comment">Comment Now</a>
+			<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2878-4575" data-object-json="{&quot;title&quot;:&quot;Defining Modern IT: The 21st Century CIO&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+			</div>
+    </div>
+    </div>
+
+
+<script type="text/javascript">
+
+function printArticle(url) {
+params = 'width='+screen.width;
+params += ', height='+screen.height;
+params += ', top=0, left=0'
+params += ', fullscreen=yes, scrollbars = yes, resizable=yes';
+
+slideWin = window.open(url, 'popup', params);
+if(window.focus) {
+slideWin.focus();
+}
+return false;
+}
+
+</script>
+
+<div class="article_actions">
+
+<div class="sub_links clearfix">
+
+
+
+<div class="widget print">
+<a href="http://www.forbes.com/sites/sungardas/2014/09/23/defining-modern-it-cios-and-the-21st-century/print/" target="_blank"><span class="icon"></span>Print</a>
+</div>
+
+<div class="widget corrections">
+<a href="#corrections"><span class="icon"></span>Report Corrections</a>
+</div>
+
+<div class="widget reprint">
+<a href="http://forbesreprints.magreprints.com/" target="_blank"><span class="icon"></span>Reprints &amp; Permissions</a>
+</div>
+
+</div>
+</div>
+
+			<div class="vestpocket_holder" style="display:none;">
+
+
+
+	<aside class="vestpocket" data-position="4" >
+
+
+
+
+
+        <div class="vp-box vp-article">
+            <a href="http://www.forbes.com/sites/sungardas/2013/11/14/why-the-next-gencio-shouldnt-try-to-be-like-lebron-james/" class="thumb">
+                <span class="icon">
+                </span>
+                        <img src='http://blogs-images.forbes.com/sungardas/files/2014/03/istock_000002899489xsmall.jpg' alt="" />
+            </a>
+			<h4>
+				<a href="http://www.forbes.com/sites/sungardas/2013/11/14/why-the-next-gencio-shouldnt-try-to-be-like-lebron-james/" class="vp_text">
+                    		    <span class="advoice"><span class="brandvoice">SungardAS</span>&#8203;Voice: </span>
+Why The Next-Generation CIO Shouldn't Try To Be Like LeBron James
+
+
+				</a>
+			</h4>
+
+
+	            <cite class="box_byline clearfix">
+					<a href="http://www.forbes.com/sites/sungardas/">
+	                	<img src='http://blogs-images.forbes.com/assets/images/avatars/blog-2878_40.jpg' alt="SungardAS Contributor" class="avatar" />
+
+	                    <strong>SungardAS Contributor</strong>
+	                    <span class="desc">SungardAS</span>
+	                </a>
+	            </cite>
+        </div>
+
+
+
+        <div class="vp-box vp-article">
+            <a href="http://www.forbes.com/sites/sungardas/2014/06/16/cios-this-is-how-to-talk-to-your-ceo-about-the-cloud/" class="thumb">
+                <span class="icon">
+                </span>
+                        <img src='http://blogs-images.forbes.com/sungardas/files/2014/06/Talking-to-CEOs-about-Cloud.jpg' alt="" />
+            </a>
+			<h4>
+				<a href="http://www.forbes.com/sites/sungardas/2014/06/16/cios-this-is-how-to-talk-to-your-ceo-about-the-cloud/" class="vp_text">
+                    		    <span class="advoice"><span class="brandvoice">SungardAS</span>&#8203;Voice: </span>
+CIOs, This Is How To Talk To Your CEO About The Cloud
+
+
+				</a>
+			</h4>
+
+
+	            <cite class="box_byline clearfix">
+					<a href="http://www.forbes.com/sites/sungardas/">
+	                	<img src='http://blogs-images.forbes.com/assets/images/avatars/blog-2878_40.jpg' alt="Ben Gallo" class="avatar" />
+
+	                    <strong>Ben Gallo</strong>
+	                    <span class="desc">SungardAS</span>
+	                </a>
+	            </cite>
+        </div>
+
+
+
+        <div class="vp-box vp-article">
+            <a href="http://www.forbes.com/sites/sungardas/2014/01/23/the-cio-is-dead-long-live-the-cio/" class="thumb">
+                <span class="icon">
+                </span>
+                        <img src='http://b-i.forbesimg.com/sungardas/files/2014/01/King-Down-King-Up.jpg' alt="" />
+            </a>
+			<h4>
+				<a href="http://www.forbes.com/sites/sungardas/2014/01/23/the-cio-is-dead-long-live-the-cio/" class="vp_text">
+                    		    <span class="advoice"><span class="brandvoice">SungardAS</span>&#8203;Voice: </span>
+The CIO Is Dead, Long Live The CIO
+
+
+				</a>
+			</h4>
+
+
+	            <cite class="box_byline clearfix">
+					<a href="http://www.forbes.com/sites/sungardas/">
+	                	<img src='http://blogs-images.forbes.com/assets/images/avatars/blog-2878_40.jpg' alt="Laurie Elliott" class="avatar" />
+
+	                    <strong>Laurie Elliott</strong>
+	                    <span class="desc">SungardAS</span>
+	                </a>
+	            </cite>
+        </div>
+
+
+
+        <div class="vp-box vp-article">
+            <a href="http://www.forbes.com/sites/sungardas/2014/03/03/five-ways-for-cios-to-get-through-to-ceos/" class="thumb">
+                <span class="icon">
+                </span>
+                        <img src='http://blogs-images.forbes.com/sungardas/files/2014/04/cio-problems-communicating-with-ceos.jpg' alt="" />
+            </a>
+			<h4>
+				<a href="http://www.forbes.com/sites/sungardas/2014/03/03/five-ways-for-cios-to-get-through-to-ceos/" class="vp_text">
+                    		    <span class="advoice"><span class="brandvoice">SungardAS</span>&#8203;Voice: </span>
+Five Ways For CIOs To Get Through To CEOs
+
+
+				</a>
+			</h4>
+
+
+	            <cite class="box_byline clearfix">
+					<a href="http://www.forbes.com/sites/sungardas/">
+	                	<img src='http://blogs-images.forbes.com/assets/images/avatars/blog-2878_40.jpg' alt="SungardAS Contributor" class="avatar" />
+
+	                    <strong>SungardAS Contributor</strong>
+	                    <span class="desc">SungardAS</span>
+	                </a>
+	            </cite>
+        </div>
+
+
+    </aside>
+
+			</div><!-- .vestpocket_items -->
+
+		</div>
+
+	</section>
+
+
+	<section class="row">
+		<div class="col-md-10 col-md-offset-2 col-sm-12 col-sm-offset-0">
+
+
+
+	<div id="comments" class="comments_collection" data-selected-comment-id="" data-manage-comment-following-link="http://blogs.forbes.com/account/#accounttab-5" >
+
+		<div class="comment_form_orig_position">
+    <div class="comment_reply">
+            <div class="arrow"></div>
+            <form class="forbes_forms v1 comment_reply_form" name="commentForm" action="/wp-admin/admin-ajax.php" method="post" data-comment-nonce="" data-validation-rules-json="[{&quot;field_id&quot;:&quot;user_comment_textarea&quot;,&quot;rules&quot;:{&quot;required&quot;:true,&quot;notEqualTo&quot;:{&quot;attr&quot;:&quot;data-initial-text&quot;,&quot;caseSensitive&quot;:false,&quot;errorMsg&quot;:&quot;Please enter a comment to post.&quot;},&quot;between&quot;:{&quot;min&quot;:2,&quot;max&quot;:10000}}}]" data-reload-url="http://www.forbes.com/sites/sungardas/2014/09/23/defining-modern-it-cios-and-the-21st-century/">
+                    <!-- the form action will be expecting all of the following hidden fields -->
+                    <input type='hidden' name='action' value='unireg_comments' autocomplete="off" />
+                    <input type='hidden' name='natural_id' value='blogAndPostId/blog/post/2878-4575' autocomplete="off" />
+                    <input type='hidden' name='comment_parent' value='0' autocomplete="off" />
+
+                    <h3 class="main">Post Your Comment</h3>
+                    <div class="reply_header" style="display:none;">
+                            <a href="#cancel" class="cancel_reply">Cancel reply</a>
+                            <h3>Post Your Reply</h3>
+                    </div>
+
+			
+            <div class="status_bar">
+                                    Please
+                                    <a class="ajaxify unireg_login" href="http://blogs.forbes.com/account/login/?redirect_to=http://www.forbes.com/sites/sungardas/2014/09/23/defining-modern-it-cios-and-the-21st-century/" title="Click to log in">log in</a>
+                                    or
+                                    <a class="ajaxify unireg_register" href="http://blogs.forbes.com/account/register/?redirect_to=http://www.forbes.com/sites/sungardas/2014/09/23/defining-modern-it-cios-and-the-21st-century/" title="Click to sign up">sign up</a>
+                                    to comment.
+                            </div>
+
+<div class="entity_block">
+                                    <a class="ajaxify avatar" href="http://blogs.forbes.com/account/login/?redirect_to=http://www.forbes.com/sites/sungardas/2014/09/23/defining-modern-it-cios-and-the-21st-century/" class="avatar" title="Click to log in or register">
+                                            <img src="http://i.forbesimg.com/assets/img/comments/no_profile_image.jpg" alt="">
+                                    </a>
+                            </div>
+
+                    <div class="input_holder_outer input_block">
+
+                            <div class="main_error_msg" style="display:none;">
+                                    <span class="icon"></span>
+                                    <span class="text"></span>
+                            </div>
+
+                            <div class="input_holder">
+
+                                    <textarea id="user_comment_textarea" class="initial_text user_comment" data-initial-text="Enter Your Comment" name="comment" cols="80" rows="10" autocomplete="off">Enter Your Comment</textarea>
+
+                                    <span class="error_msg"></span>
+
+										<div class="control_bar" style="display:none;">
+                                            <a class="fancy_button submit small" data-submit-button="true"><span class="outer"><span class="inner"><span class="icon"></span><span class="label">Submit Comment</span></span></span><span class="loading_spinner left" style="display:none;"><img src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" height="16" width="16" alt=""></span></a>
+                                            <input class="hidden_submit" type="submit" name="submit_hidden" value="Submit" id="idCommentForm_submit">
+                                    </div>
+                            </div>
+                    </div>
+
+                    <div class="clear"></div>
+
+                    <div class="moderation_info">
+                            <p>
+                                    Forbes writers have the ability to call out member comments they find particularly interesting. Called-out comments are highlighted across the Forbes network. You'll be notified if your comment is called out.
+                            </p>
+               		</div>
+            </form>
+    </div>
+		</div>
+
+
+			<div class="comments_header">
+				<h3>Comments</h3>
+				<ul class="tabs horznav cf">
+					<li class='active'>
+						<a href="/ajax/comment/calledout/1/?contentUri=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fsungardas%2F2014%2F09%2F23%2Fdefining-modern-it-cios-and-the-21st-century%2F" rel="calledOut">Called-Out</a>
+						<div class="arrow"></div>
+					</li>
+					<li class=''>
+						<a href="/ajax/comment/general/1/?contentUri=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fsungardas%2F2014%2F09%2F23%2Fdefining-modern-it-cios-and-the-21st-century%2F"  rel="allComments">Expand All Comments</a>
+						<div class="arrow"></div>
+					</li>
+				</ul>
+
+					<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2878-4575" data-object-json="{&quot;title&quot;:&quot;Defining Modern IT: The 21st Century CIO&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+					</div>
+			</div>
+
+			<div class="pagination_header" style="display:none;"></div>
+			<div class="comments_well" data-edit-post-link="" >
+	<ul class="comments_stream">
+
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2878-4575-342" data-comment-wp-id="342"  parent-id="" class="comment level0 calledOut" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/mkeithley/">
+                    <img src="http://2.gravatar.com/avatar/db0774f303e4452585b6c6f4f9a6e9e0" alt="MKeithley" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/mkeithley/">
+                    MKeithley
+                </a>
+
+
+   		<span class="timestamp">1 day ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>My philosophy on IT is we will embrace the cloud services, apps, and devices that help employees do their jobs. Employees should be able to use the apps necessary to get their jobs done, so if there is a need for certain apps, then IT should provide access to that app, not block it. I view Shadow IT as an opportunity to understand what our users’ needs are and how we can better support them by improving the service we deliver.</p> 
+<p>Whenever we can, we strive to be an IT department that says, “Yes,” instead of, “No.” Our mindset is, “How do we help? How can we make this work for you?” not “How do we block it?” When we do occasionally have to say, “No,” for security or other reasons, our customers take us seriously because they will see us as their partner, rather than their adversary.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="on">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/sungardas/2014/09/23/defining-modern-it-cios-and-the-21st-century/?commentId=comment_blogAndPostId/blog/comment/2878-4575-342" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+	</ul>
+
+			</div>
+
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2878-4575" data-object-json="{&quot;title&quot;:&quot;Defining Modern IT: The 21st Century CIO&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+
+	</div><!-- .comments_collection -->
+		</div>
+	</section>
+
+
+	<div class="speed_bump">
+
+		<section class="row">
+		<div id="grv-personalization-13-1412388899855"></div>
+			<script type='text/javascript'>
+			  //<![CDATA[
+			    (function(){
+			    var containerId = "grv-personalization-13-1412388899855";
+			    window.gravityInsightsParams = {
+			      'type': 'content',
+			      'action': '',
+			      'site_guid': 'df51572e4a248537619f3b6b11928388'
+			    };
+			    var adServerReq,bUrl,cburl,doUseGravityUserGuid,includeJs,jq,pfurl,type,ug,wlPrefix,wlUrl,_ref,_ref1,_ref2;includeJs=function(a){var b;b=document.createElement("script");b.async=!0;b.src=a;a=document.getElementsByTagName("script")[0];return a.parentNode.insertBefore(b,a)};bUrl="";ug=(doUseGravityUserGuid=!0===gravityInsightsParams.useGravityUserGuid?1:0)?"":gravityInsightsParams.user_guid||(null!=(_ref=/grvinsights=([^;]+)/.exec(document.cookie))?_ref[1]:void 0)||"";
+			    wlUrl=(wlPrefix="https:"===location.protocol?"https://secure-api.gravity.com/v1/api/intelligence":"http://rma-api.gravity.com/v1/api/intelligence",jq=(null!=(_ref1=window.jQuery)?null!=(_ref2=_ref1.fn)?_ref2.jquery:void 0:void 0)||"",type="iframe",adServerReq=gravityInsightsParams.ad||"",cburl=gravityInsightsParams.cburl||"",pfurl=gravityInsightsParams.pfurl||"",""+wlPrefix+"/wl?jq="+jq+"&sg="+gravityInsightsParams.site_guid+"&ug="+ug+"&ugug="+doUseGravityUserGuid+"&id="+containerId+"&pl=13"+
+			    ("&type="+type+"&ad="+adServerReq+"&cburl=")+encodeURIComponent(cburl)+"&pfurl="+encodeURIComponent(pfurl)+("&x="+(new Date).getTime())+("undefined"!==typeof forceArticleIds&&null!==forceArticleIds&&forceArticleIds.join?"&ai="+forceArticleIds.join(","):"")+("undefined"!==typeof apids&&null!==apids&&""!==apids?"&apids="+encodeURIComponent(apids):""));bUrl&&includeJs(bUrl);wlUrl&&(window.gravityInsightsParams.sidebar&&(window.gravityInsightsParams.wlStartTime=(new Date).getTime()),includeJs(wlUrl));})();
+			  //]]>
+			</script>
+	</section>
+
+	</div> <!-- .speed_bump -->
+
+
+	<!--start:gigya_settings-->
+	<div class="gigya_settings" style="display:none;">
+		<div class="gigya_shortLink" data-value="http://onforb.es/1wJtscL"></div>
+		<div class="gigya_canonicalLink" data-value="http://www.forbes.com/sites/sungardas/2014/09/23/defining-modern-it-cios-and-the-21st-century/"></div>
+		<div class="gigya_title" data-value='{&quot;generic&quot;:&quot;SungardASVoice: Defining Modern IT: The 21st Century CIO - Forbes&quot;,&quot;twitter&quot;:&quot;SungardASVoice: Defining Modern IT: The 21st Century CIO&quot;}'></div>
+		<div class="gigya_cid" data-value="blogAndPostId/blog/post/2878-4575"></div>
+		<div class="gigya_buttonContainerPrefixArray" data-value="gigya_share_button,gigya_inline_share_button"></div>
+		<div class="gigya_counterContainerPrefixArray" data-value="gigya_share_counter,gigya_inline_share_counter"></div>
+		<div class="gigya_counterDisplayArray" data-value="tall,medium"></div>
+		<div class="gigya_grecobarEnabled" data-value="false"></div>
+		<div class="gigya_twitterVia" data-value="forbes"></div>
+		<div class="gigya_twitterHashtags" data-value=""></div>
+		<div class="gigya_twitterRelated" data-value="forbes,SungardAS"></div>
+	</div>
+	<!--end:gigya_settings-->
+
+		<!--end:ajax_content_inner-->
+
+		<!-- must appear once on the page -->
+		<div id="contentad9177"></div>
+
+	</div><!-- .article_container.container -->
+
+	<!--sticky_sharing-->
+    <div class="sticky_sharing_bg"></div>
+    <div data-sharing-url="http://www.forbes.com/sites/sungardas/2014/09/23/defining-modern-it-cios-and-the-21st-century/" data-sharing-native="true" class="sticky_sharing sticky_sharing_v2" style="display:none;">
+        <div class="share_tab">
+            <div class="share_icon" data-icon="s"></div>
+            <div class="share_count">Share</div>
+        </div>
+        <div class="control_wrapper">
+            <div class="position_reference">
+                <div class="label">
+                    Share this page
+                </div>
+                <div class="controls">
+
+	<!-- Gigya Share divs for gigya_share_button and gigya_share_counter -->
+
+	<div class="share_option">
+		<div class="gy gigyacounter facebook gigya_share_counter" id="gigya_share_counter_facebook"></div><div class="box-bottom"></div>
+		<div class="gigya_share_button-facebook" id="gigya_share_button_facebook"></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter twitter gigya_share_counter" id="gigya_share_counter_twitter"></div><div class="box-bottom"></div>
+		<div class="gy gigyabutton twitter gigya_share_button-twitter" id="gigya_share_button_twitter"></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter linkedin gigya_share_counter" id="gigya_share_counter_linkedin"></div><div class="box-bottom"></div>
+		<div class="gy gigyabutton linkedin gigya_share_button-linkedin" id="gigya_share_button_linkedin"></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter reddit gigya_share_counter" id="gigya_share_counter_reddit" ></div><div class="box-bottom"></div>
+		<div class="gy gigyabutton reddit gigya_share_button-reddit" id="gigya_share_button_reddit" ></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter google gigya_share_button-google" id="gigya_share_button_google" ><div id="gigya_share_button_inner_google" ></div></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter stumbleupon gigya_share_counter" id="gigya_share_counter_stumbleupon"></div><div class="box-bottom"></div>
+		<div class="gy gigyabutton stumbleupon gigya_share_button-stumbleupon" id="gigya_share_button_stumbleupon"></div>
+	</div>
+
+	<div class="share_option gigya_inline_share_button-email_gig_containerParent">
+		<div class="gigya_inline_share_button-email_icon" id="gigya_inline_share_button_email_icon"></div>
+		<div class="gigya_inline_share_button-email" id="gigya_inline_share_button_email"></div>
+	</div>
+                </div>
+            </div>
+        </div>
+    </div><!-- .sticky_sharing_v2 -->
+
+	<div class="loading_spinner_holder" id="page_loading_spinner">
+		<div id="pagespinner"></div>
+	</div>
+
+        
+<footer class="universal-footer">
+	<div class="footer-center">
+
+		<!-- END EDITORIAL PROMOTIONS -->
+
+		<section class="lower-footer-links clearfix">
+
+
+			<div class="channels">
+				<ul data-et-context="footer" data-et-location="footernav" class="edittools-list">
+					<li class="home">
+						<a href="http://www.forbes.com/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Forbes</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="14" data-et-location="footernav" data-et-item-type="topic">
+						<a href="http://www.forbes.com/business/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Business</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="7" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/investing/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Investing</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="8" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/technology/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Technology</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="13" data-et-location="footernav" data-et-item-type="topic">
+						<a href="http://www.forbes.com/entrepreneurs/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Entrepreneurs</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="9" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/opinion/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Op/Ed</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="10" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/leadership/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Leadership</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="11" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/lifestyle/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Lifestyle</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="12" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/lists/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Lists</a>
+					</li>
+				</ul>
+			</div>
+
+
+			<div class="conferences footer-list fleft">
+				<h5><a href="http://www.forbes.com/conferences/">Conferences</a></h5>
+
+				<ul data-et-context="footer" data-et-location="footerconferences" class="edittools-list">
+
+						<li class="editable edittools-item" data-et-item_id="15" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/under30-2014.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Under 30 Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="16" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://forbesglobalceoconference.com/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Global CEO Conference</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="14" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/cio-2014.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes CIO Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="1" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/cmo-2014.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes CMO Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="11" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/ReinventingAmerica-Indy.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Reinventing America: The Innovation Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="3" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/healthcare-2014.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Healthcare Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="5" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2015/ReinventingAmerica-Chicago.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Reinventing America Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="8" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/sites/forbespr/2014/07/09/forbes-and-svg-partners-will-host-forbes-reinventing-america-the-agtech-summit-july-2015-in-salinas-valley/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Reinventing America: The AgTech Summit</a>
+	        			</li>
+				</ul>
+			</div>
+			<div class="products_newsletter footer-list fleft">
+				<h5>Education</h5>
+				<ul>
+					<li><a href="http://www.ashford.edu/degrees/online/business.htm/" target="_blank" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Forbes School of Business at Ashford University</a></li>
+				</ul>
+
+				
+
+			<!-- <div class="products_newsletter footer-list fleft">  -->
+				<h5><a href="http://www.newsletters.forbes.com/">Newsletters</a></h5>
+
+				<ul data-et-context="footer" data-et-location="footernewsletters" class="edittools-list">
+
+						<li class="editable edittools-item" data-et-item_id="1" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/newsletters/forbes-investor/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Investor</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="2" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="https://www.specialsituationsurvey.com/newsletters/sss/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Special Situation Survey</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="3" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/newsletters/forbes-dividend-investor/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Dividend Investor</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="5" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/newsletters/forbes-premium-income-report/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Premium Income Report</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="6" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="http://onforb.es/1dK9tEh" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Investing Newsletters</a>
+	        			</li>
+				</ul>
+			<!-- </div> -->
+				
+			</div>		
+
+			<div class="company-info footer-list fleft">
+				<h5>Products</h5>
+
+				<ul data-et-context="footer" data-et-location="footerproducts" class="edittools-list">
+
+						<li class="editable edittools-item" data-et-item_id="3" data-et-location="footerproducts" data-et-item-type="link">
+	            			<a href="https://www.forbesid.com/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Identity Protection</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="4" data-et-location="footerproducts" data-et-item-type="link">
+	            			<a href="http://www.forbesmagazine.com/newsfeeds/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Newsfeeds</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="5" data-et-location="footerproducts" data-et-item-type="link">
+	            			<a href="http://forbesreprints.magreprints.com/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Reprints & Permissions</a>
+	        			</li>
+				</ul>
+				
+				<h5>Company Info</h5>
+				<ul>
+					<li><a href="http://www.forbesmedia.com/" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Advertise</a></li>
+					<li><a href="http://www.forbes.com/sites/forbespr/" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click" class="exit_trigger_set ga_tracked">Forbes Press Room</a></li>
+					<li><a href="https://www2.apply2jobs.com/forbes/" target="_blank" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Forbes Careers</a></li>
+					<li><a href="http://www.forbes.com/fdc/contact.html" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Contact Us</a></li>
+					<li><a href="http://www.forbes.com/fdc/sitemap.html" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Sitemap</a></li>
+					<li><a href="http://blogs.forbes.com/help/" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Help</a></li>
+				</ul>
+			</div>
+				<div class="publications fleft">
+			<div class="clearfix">
+           		<a href="http://www.forbes.com/forbes" data-ga-event="Footer,LinkFollowed,magazine" data-ga-event-trigger="click" class="exit_trigger_set ga_tracked"><img src="http://images.forbes.com/media/current_covers/forbes_120x160.jpg" alt="Forbes Magazine"></a>
+            	<a href="http://www.forbes.com/forbes-life-magazine" data-ga-event="Footer,LinkFollowed,magazine" data-ga-event-trigger="click" class="exit_trigger_set ga_tracked"><img src="http://images.forbes.com/media/current_covers/forbeslife_120x160.jpg" alt="ForbesLife"></a>
+            	<a href="http://www.forbes.com/forbesasia/" data-ga-event="Footer,LinkFollowed,magazine" data-ga-event-trigger="click" class="exit_trigger_set ga_tracked"><img src="http://images.forbes.com/media/current_covers/forbesasia_120x160.jpg" alt="ForbesAsia"></a>
+            </div>
+				
+				<ul class="subscriptions">
+					<ul data-et-context="footer" data-et-location="footermagazine" class="edittools-list">
+							<li class="editable edittools-item" data-et-item_id="6" data-et-location="footermagazine" data-et-item-type="link">
+	            				<a href="https://subs.forbesmagazine.com/servlet/OrdersGateway?cds_mag_code=FRB&cds_page_id=150007" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">2 Free Issues</a>
+	        				</li>
+							<li class="editable edittools-item" data-et-item_id="4" data-et-location="footermagazine" data-et-item-type="link">
+	            				<a href="http://www.forbesmagazine.com/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Subscriber Services</a>
+	        				</li>
+							<li class="editable edittools-item" data-et-item_id="5" data-et-location="footermagazine" data-et-item-type="link">
+	            				<a href="https://subs.forbesmagazine.com/loc/FRB/IZEG101" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Gift Subscription</a>
+	        				</li>
+					</ul>
+				</ul>
+
+				<div class="affiliate-sites">
+					<ul>
+						<li><a href="http://www.forbeschina.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes China</a></li>
+						<li><a href="http://www.forbesindia.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes India</a></li>
+						<li><a href="http://www.forbes.co.il/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Israel</a></li>
+						<li><a href="http://www.forbes.com.mx/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Mexico</a></li>
+						<li><a href="http://www.forbesmiddleeast.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Middle East</a></li>
+					</ul>
+					<ul>
+						<li><a href="http://www.forbes.pl/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Poland</a></li>
+						<li><a href="http://www.forbes.ro/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Romania</a></li>
+						<li><a href="http://www.forbesrussia.ru/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Russia</a></li>
+						<li><a href="http://forbesmagazine.es/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Spain</a></li>
+					</ul>
+					<ul>
+						<li><a href="http://www.realclear.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear</a></li>
+						<li><a href="http://www.realclearpolitics.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear Politics</a></li>
+						<li><a href="http://www.realclearmarkets.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear Markets</a></li>
+						<li><a href="http://www.realclearworld.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear World</a></li>
+						<li><a href="http://www.realclearsports.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear Sports</a></li>
+					</ul>
+				</div>
+			</div>
+
+        </section>
+
+		
+		<section class="legalese clearfix">
+			<small>2014 Forbes.com LLC&#153; &nbsp; All Rights Reserved</small>
+			<ul>
+				<li><a href="/terms" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Terms and Conditions</a></li>
+				<li><a href="http://www.forbes.com/fdc/privacy.html" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Privacy Statement</a></li>
+				<li><a href="http://corporate.morningstar.com/us/asp/subject.aspx?xmlfile=5501.xml" target="_blank" data-ga-event="Footer,LinkFollowed,partner" data-ga-event-trigger="click">Market Data by Morningstar</a></li>
+				<li><a onclick="(function(){forbes.event_tracking.track_ga_event(['Footer','LinkFollowed','partner']);var s=document.createElement('script');s.src='http://preferences.truste.com/js/buildJsFilev2.jsp?domain=forbes.com&amp;type=epref';s.onreadystatechange=function(){if(script.readyState=='loaded'||script.readyState=='complete'){view(trusteId);}};s.onload=function(){view(trusteId);};document.getElementsByTagName('head')[0].appendChild(s);})()" style="cursor:pointer;" target="_blank">AdChoices</a></li>
+			</ul>
+		</section>
+	</div>
+</footer>
+
+<!-- Start: footer assets -->
+
+<!--@foot.populate footer_data=pageData.footerData! /-->
+        <script type="text/javascript">
+            //<![CDATA[
+                var ppi_AjaxURI = '/wp-admin/admin-ajax.php'
+                	,imagesBaseCdn = 'http://i.forbesimg.com'
+					,followBarLocation = 'channel_1'; 
+            //]]>
+        </script>
+    <!--Start: Gigya Configs-->
+        <script type="text/javascript">
+            var gigya_conf = {
+                siteName: 'forbes.com',
+                APIkey: '3_8Fcn29ZQ5lcRRr8BsC6Y2q8eRKPl567JTM6IWXsqW4eqW57_fNx29GDl9YdzZLvH',
+                connectWithoutLoginBehavior: 'alwaysLogin',
+                enabledProviders: 'facebook,twitter,linkedin,googleplus,yahoo,messenger,wordpress,aol,blogger,openid,foursquare,typepad'
+            };
+
+            (function() {
+				var po = document.createElement('script');
+				po.type = 'text/javascript';
+				//po.async = true;
+				po.src = 'http://cdn.gigya.com/js/socialize.js?apiKey=3_8Fcn29ZQ5lcRRr8BsC6Y2q8eRKPl567JTM6IWXsqW4eqW57_fNx29GDl9YdzZLvH';
+
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(po, s);
+			})();
+
+			(function() {
+				var po = document.createElement('script');
+				po.type = 'text/javascript';
+				//po.async = true;
+				po.src = 'http://cdn.gigya.com/js/gigyaGAIntegration.js';
+
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(po, s);
+			})();
+        </script>
+    <!--End: Giya Configs -->
+	<script type="text/javascript">
+		var google_tag_channel = "";
+		var google_tag_section = "";
+		var google_tag_swimlane = "";
+		var google_tag_specialslot = "sungardas";
+		var google_tag_article_special_slot = "sungardas";
+		var google_tag_display_channel = "";
+		var google_tag_display_section = "";
+		var google_tag_zone = "article-new";
+		var google_tag_article_id = "blogAndPostId/blog/post/2878-4575";
+	</script>
+		<script type="text/javascript" src="http://i.forbesimg.com/scripts/combined/js/global.f8a7171d037be437df925c263f993ecd24694cc2.js"></script>
+		<script type="text/javascript" src="http://i.forbesimg.com/scripts/combined/js/article-responsive.485f3ed6bcb0df03dc3d2010f0f59a268d0f50d0.js"></script>
+<span class="lazy_load_js" data-files="http://i.forbesimg.com/scripts/combined/js/globallazy.8da0470d609bcf7bc1c2f94a0826d4b633a62b6a.js"></span>
+    <script type="text/javascript">
+        forbes.bootstrap.init();
+    </script>
+
+
+    <script type="text/javascript">
+        if ( typeof window.JSON === 'undefined' ) {
+            document.write('<script src="http://i.forbesimg.com/assets/js/core/jquery.json-2.2.js"><\/script>');
+        }
+    </script>
+<!-- End: footer assets -->
+
+<div class="current_page_threshold"></div>
+
+</body>
+</html>

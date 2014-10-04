@@ -1,0 +1,2491 @@
+
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+		<title>iPhone 'Bendgate' Is Apple's Mea Culpa - Forbes</title>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta name="viewport" content="width=device-width, maximum-scale=2.0" />
+		<meta name="description" content="Apple only has itself to blame after it was discovered that its new iPhones bend. But the last thing rivals should do is laugh..." />
+		<meta name="keywords" content="Mobile,Powering Productivity,Tech" />
+		<meta name="author" content="Gordon Kelly" />
+		<meta name="apple-itunes-app" content="app-id=588647136" />
+		<meta name="news_keywords" content="apple iphone 6, bendgate, iphone 6 plus bendgate, iphone 6 camera, apple, iphone bends" />
+		<meta property="author" content="Gordon Kelly" />
+		<meta property="og:title" content="iPhone &#39;Bendgate&#39; Is Apple&#39;s Mea Culpa" />
+		<meta property="og:site_name" content="Forbes" />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/" />
+		<meta property="og:image" content="http://blogs-images.forbes.com/gordonkelly/files/2014/09/IMG_20140919_084820.jpg" />
+		<meta name="sailthru.image.full" content="http://blogs-images.forbes.com/gordonkelly/files/2014/09/IMG_20140919_084820.jpg" />
+		<meta property="og:description" content="Apple only has itself to blame after it was discovered that its new iPhones bend. But the last thing rivals should do is laugh..." />
+		<meta property="fb:app_id" content="123694841080850" />
+		<meta property="article:published_time" content="2014-09-24" />
+		<meta name="date" content="2014-09-24" />
+		<meta property="article:author" content="http://www.forbes.com/sites/gordonkelly/" />
+		<meta name="sailthru.author" content="Gordon Kelly" />
+		<meta property="article:author" content="http://www.forbes.com/sites/gordonkelly/" />
+		<meta property="article:section" content="Mobile" />
+		<meta property="article:section" content="Powering Productivity" />
+		<meta property="article:section" content="Tech" />
+		<meta property="article:tag" content="Mobile" />
+		<meta property="article:tag" content="Powering Productivity" />
+		<meta property="article:tag" content="Tech" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:site" content="@forbes" />
+		<meta name="twitter:creator" content="@gordonkelly" />
+		<link rel="canonical"   href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/" />
+		<link rel="next"   href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/2/" />
+		<link rel="shortlink"   href="http://onforb.es/1pspXBG" />
+	<script type="text/javascript" src="http://images.forbes.com/scripts/js_options.js"></script>
+	<script type="text/javascript">
+    	(function (){
+
+			window.displayedChannel = 'technology';
+			window.displayedSection = '';
+
+			// Check if welcome ad is not disabled
+			if(typeof forbes !== "undefined" && typeof forbes.js_options !== "undefined" && !forbes.js_options.welcome_ad_disable ){
+
+				var midnight = new Date(),
+					offset = -4 // if offset is not set, by default time is UTC 6:00am i.e EST 1am & EDT 12am for dailyWelcomeCookie expiration
+				;
+
+				if(midnight.getUTCHours() >= -offset)
+					midnight.setUTCDate(midnight.getUTCDate()+1)
+				;
+
+				midnight.setUTCHours(-offset);
+				midnight.setUTCMinutes(00);
+				midnight.setUTCSeconds(00);
+
+
+				var welcomeCookie = "welcomeAd=sessionCookie",
+					interstitial_cookie = '_forbes_exit_interstitial_timer',
+					tomorrow = new Date(),
+					month = tomorrow.getMonth(),
+					day = tomorrow.getDate(),
+					dailyWelcomeCookie = 'dailyWelcomeCookie=dailyCookie',
+					browser_user_agent = window.navigator.userAgent.toLowerCase(),
+					page_type = 'article',
+					swimlane = '',
+					brand_voice = 'false'
+				;
+
+				if ((document.cookie.indexOf(welcomeCookie)==-1 || document.cookie.indexOf(dailyWelcomeCookie) == -1)
+					&& (window.navigator.userAgent.indexOf("Mozilla")>-1)
+					&& (browser_user_agent.indexOf("googlebot")==-1)
+					&& (browser_user_agent.indexOf("google web preview")==-1)
+					&& (window.location.host.indexOf("forbes.com")!=-1)
+					&& (window.location.search.indexOf("partner=yahoo")==-1)
+					&& (window.location.search.indexOf("partner=msn")==-1)
+					&& (window.location.search.indexOf("partner=aol")==-1)
+					&& (window.location.search.indexOf("partner=omg")==-1)
+					&& (window.location.search.indexOf("partner=huffpo")==-1)
+					&& (window.location.search.indexOf('nowelcome')==-1)
+					&& (swimlane.indexOf("rico")!=0 || page_type != 'article')
+					&& brand_voice==='false'){
+
+					if(document.cookie.indexOf(welcomeCookie) == -1 ){
+						document.cookie = welcomeCookie +'__welcome'+(month+1)+day+'; path=/; domain=.forbes.com';
+					}
+
+					if(document.cookie.indexOf(dailyWelcomeCookie) == -1){
+						document.cookie = dailyWelcomeCookie+'_forDate'+(month+1)+day+'; path=/; domain=.forbes.com; expires=' + midnight.toGMTString();
+					}
+
+					// check if interstitial's cookie hasn't been set already
+					if(document.cookie.indexOf( interstitial_cookie ) == -1){
+
+						// it doesn't exist; let's create the interstitial cookie and set it
+						// with the current timestamp
+
+						var now = new Date(),
+							now_time = now.getTime(),
+							expiration_date = new Date()
+						;
+
+						expiration_date
+							.setDate( expiration_date.getDate() + 365)
+						;
+
+						// set interstitial cookie to the current time
+						document.cookie = interstitial_cookie + '='+ now_time +'; path=/; domain=.forbes.com; expires=' + expiration_date.toUTCString();
+					}
+
+					if (document.cookie.indexOf(welcomeCookie) != -1 || document.cookie.indexOf(dailyWelcomeCookie) != -1){
+
+						// this cookie is used by interstitial_ad.js to determine if the user received a
+						// welcome ad before viewing the current page.
+						document.cookie="last_welcomead_url"+ "=" +escape(document.URL)+";path=/; domain=.forbes.com";
+						document.cookie="referrer"+ "=" +escape(document.referrer)+";path=/; domain=.forbes.com";
+						document.cookie="toURL"+ "=" +escape(document.URL)+";path=/; domain=.forbes.com";
+						document.cookie="refURL"+ "=" +escape(document.referrer)+";path=/; domain=.forbes.com";
+						this.location='http://www.forbes.com/fdc/welcome_mjx.shtml';
+					}
+				}
+
+			}
+		})();
+	</script>
+        <script type="text/javascript">
+                var forbes = ( function( forbes_namespace ) {
+                forbes_namespace.user_meta = {
+            },
+            forbes_namespace.page_meta = {
+                            channel: "technology",
+
+                            primary_channel: "technology",
+
+
+
+
+
+                            sitepage: "forbes.com/technology/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/",
+                            author: {
+                                    natural_id: "blogAuthorId/blog/author/1017581",
+                                    user_id: "1017581",
+                                    display_name: "Gordon Kelly",
+                                    type: "individual"
+                            },
+         	                   post_id: 6054,
+            	                blog_id: 2907,
+                            natural_id: "blogAndPostId/blog/post/2907-6054",
+                            type: "blogslide",
+                            title: "iPhone \'Bendgate\' Is Apple\'s Mea Culpa",
+                            site_slug: "gordonkelly",
+							referrer: "",
+							content_id: "content_5422f5f0e4b03b61661eb96d",
+							blogtype : "individual",
+							authorType: "individual",
+							brandvoice: false,
+								simple_reach: {
+									iframe: true,
+									pid: "50e4a8434240cf5c4b000009",
+									url: "http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/",
+									title: "iPhone \'Bendgate\' Is Apple\'s Mea Culpa",
+									date: "2014-09-24T17:11:00Z",
+									authors: ["Gordon Kelly"],
+									channels: ["technology"],
+									tags: ["site::gordonkelly", "slot::" ,"Mobile","Powering Productivity","Tech"],
+									landing_url: ""
+								}
+                    };
+                    return forbes_namespace;
+            }( forbes || {} ) );
+        </script>
+	<script type='text/javascript'>
+
+	var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+  var gads = document.createElement('script');
+  gads.async = true;
+  gads.type = 'text/javascript';
+  var useSSL = 'https:' == document.location.protocol;
+  gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(gads, node);
+})();
+
+	</script>
+		<link rel="stylesheet" type="text/css" href="http://i.forbesimg.com/scripts/combined/css/global.43c99e597e708a164dfaacb2ef527fd6bb6121dd.css" />
+		<link rel="stylesheet" type="text/css" href="http://i.forbesimg.com/scripts/combined/css/article-responsive.5ee6df0094da8ce2145a5350e42ec6a7373915fa.css" />
+		<script type="text/javascript" src="http://i.forbesimg.com/scripts/combined/js/head.14cf7fb3a4053446bdebb499b3fa78ede856f5a5.js"></script>
+
+	<script type="text/javascript" src="http://i.forbesimg.com/assets/js/forbes/polar/vest_pocket_article.js"></script>
+	<script type="text/javascript" src="http://images.forbes.com/scripts/simple_reach.js"></script>
+
+
+	<!--[if lte IE 8]>
+		<link rel="stylesheet" type="text/css" href="//i.forbesimg.com/assets/css/forbes/article_responsive/article_ie_unbreaker.css">
+	<![endif]-->
+
+
+</head>
+
+<body class="body_article infinite follow_bar_disabled"
+	data-header-mode="default"
+	data-base-url="/"
+	data-stream-data-url="/pepe2/get_article.php"
+	data-max-stream-pages="3">
+
+	
+<header class="ar_global enable_sticky_header">
+
+	<span class="edittools-goggles-hitmask">
+		<span class="edittools-goggles-hitarea">
+			<span class="edittools-goggles-toggle attach-click" title="Toggle Edit Tools"></span>
+		</span>
+	</span>
+	<span class="edittools-goggles-rule"></span>
+
+	<div class="wrap">
+
+		<a href="/" class="default_logo_toggle logo_menu_toggle">
+			<span class="icon arrow"></span>
+		</a>
+
+		<div class="logo">
+			<a href="http://www.forbes.com/">
+				<img class="svg" alt="Forbes" src="/assets/img/forbes_logo/forbes_logo_white.svg" onerror="this.src='/assets/img/forbes_logo/forbes_logo_white.png'">
+				<img itemprop="logo" alt="Forbes" src="/assets/img/forbes_logo/forbes_logo.gif">
+			</a>
+		</div>
+		<div class="primary_feature">
+
+<article>
+
+
+		<div class="edittools-promoblock largeplusthree" data-et-context="headercoverstory" data-et-location-id="headercoverstory" data-et-panel-id="panel8">
+			<article data-et-content-id="4e7a0e2776e46f6dd8029dc4" class="promostory promostory-1">
+
+
+				<figure>
+					<a href="http://www.forbes.com/forbes-400/" class="featured_image editable editable-img  " data-ga-event="Header,LinkFollowed,magpromo" data-ga-event-trigger="click">
+
+
+						<img src="http://images.forbes.com/images/channels/headercoverstory_panel8_0_original-1412266450.png" alt="America's Richest People" />
+					</a>
+				</figure>
+
+				<div class="feature_label">
+					<span class="category editable editable-dek"><a href="http://www.forbes.com/forbes-400/">Forbes 400</a></span>
+						<span class="title editable editable-hed" data-ga-event="Header,LinkFollowed,magpromo" data-ga-event-trigger="click">
+							<a href="http://www.forbes.com/forbes-400/">
+									America's Richest People
+							</a>
+						</span>
+				</div>
+
+			</article>
+		</div>
+
+</article>
+		</div><!-- .primary_feature -->
+
+		<nav>
+			<ul class="main_categories">
+				<li data-id="new_posts">
+					<a href="http://www.forbes.com/real-time/" class="button" data-ga-event="Header,LinkFollowed,realtime" data-ga-event-trigger="click">
+						<span class="text">New Posts</span>
+					</a>
+				</li>
+				<li data-id="most_popular">
+					<a href="http://www.forbes.com/most-popular/" class="button" data-ga-event="Header,LinkFollowed,popular" data-ga-event-trigger="click">
+						<span class="text">Most Popular</span>
+					</a>
+				</li>
+				<li data-id="lists">
+					<a href="http://www.forbes.com/lists/" class="button" data-ga-event="Header,LinkFollowed,lists" data-ga-event-trigger="click">
+						<span class="text">Lists</span>
+					</a>
+				</li>
+				<li data-id="video">
+					<a href="http://www.forbes.com/video/" class="button" data-ga-event="Header,LinkFollowed,video" data-ga-event-trigger="click">
+						<span class="text">Video</span>
+					</a>
+				</li>
+				<li data-id="promo">
+					<a href="http://bit.ly/1aqPJ4p">
+						<span class="text">2 Free Issues of Forbes</span>
+					</a>
+				</li>
+				<li data-id="global_search">
+	<div class="header_search global_search_control typeahead_anchor">
+		<form class="form_global_search" action="/search/">
+			<div class="input_holder">
+				<input name="q" class="search_input" type="text" value="" placeholder="Search" data-placeholder-short="Search" data-placeholder-long="Search companies, people and lists" autocomplete="off">
+				<input class="form_submit" type="submit" value="submit">
+				<span class="loading_msg"></span>
+				<span class="loading_spinner"><img src="http://i.forbesimg.com/assets/img/loading_spinners/16px_grey.gif" height="16" width="16" alt=""></span>
+			</div>
+		</form>
+
+		<div class="typeahead_results_holder">
+			<div class="results"><ul></ul></div>
+		</div><!-- end div.typeahead_results_holder -->
+		
+	</div><!-- end li.search-->
+				</li>
+				<li data-id="user_info">
+
+<div class="user hover togglable collapsed">
+	<div class="account_wrapper">
+		<a class="button account toggle" href="http://blogs.forbes.com/account/" data-ga-event="Header,LinkFollowed,account" data-ga-event-trigger="click" data-content-outer=".toggle_dropdown" data-content-inner=".toggle_dropdown_content">
+			<img src="http://i.forbesimg.com/assets/img/anon_avatar.png" alt="">
+			<span class="icon arrow"></span>
+		</a>
+
+		<div class="toggle_dropdown">
+			<div class="toggle_dropdown_content rollover">
+				<div class="user_login clearfix">
+
+
+
+				<div class="one_column">
+
+					<div class="external_auth_options">
+						<h3>Log in with your social account:</h3>
+						<div id="gigya_accountdropdown_extralarge_div"></div>
+						<div class="clear"></div>
+					</div>
+
+					<hr class="dotted">
+
+					<h3>Or, you can
+						<a class="ajaxify unireg_login" href="http://blogs.forbes.com/account/login/" label="login">log in</a>
+						or
+						<a class="ajaxify unireg_register" href="http://blogs.forbes.com/account/register/" label="signup">sign up</a>
+						using Forbes.
+					</h3>
+				</div>
+
+
+				</div><!-- .user_login -->
+			</div><!-- .toggle_dropdown_content -->
+		</div><!-- .toggle_dropdown -->
+	</div><!-- .account_wrapper -->
+</div><!-- .user -->
+
+				</li>
+
+			</ul><!-- .main_categories -->
+		</nav>
+
+		<div class="secondary_features">
+<article data-id="1">
+
+			<div class="edittools-promoblock largeplusthree" data-et-context="headerfeature1" data-et-location-id="headerfeature1" data-et-panel-id="panel14">
+			<article data-et-content-id="content_542a325ee4b0563af2c47a8b" class="promostory promostory-1">
+
+
+				<figure>
+				<a href="http://www.forbes.com/sites/parmyolson/2014/09/30/how-jerry-yang-made-the-most-lucrative-bet-in-tech-history/" class="featured_image editable editable-img  " data-ga-event="Header,LinkFollowed,promo1" data-ga-event-trigger="click">
+
+
+                        <img src="http://images.forbes.com/images/channels/headerfeature1_panel14_0_original-1412266475.jpg" alt="Finding Alibaba: How Jerry Yang Made The Most Lucrative Bet In Silicon Valley History" />
+
+                </a>
+				</figure>
+
+            	<div class="title editable editable-hed">
+	            	<a href='http://www.forbes.com/sites/parmyolson/2014/09/30/how-jerry-yang-made-the-most-lucrative-bet-in-tech-history/' data-ga-event="Header,LinkFollowed,promo1" data-ga-event-trigger="click">
+	            			Finding Alibaba: How Jerry Yang Made The Most Lucrative Bet In Silicon Valley History
+	            	</a>
+            	</div>
+		</article>
+		</div>
+</article>
+
+
+<article data-id="2">
+
+			<div class="edittools-promoblock largeplusthree" data-et-context="headerfeature2" data-et-location-id="headerfeature2" data-et-panel-id="panel15">
+			<article data-et-content-id="content_5400f934e4b0bb45818b7499" class="promostory promostory-1">
+
+
+				<figure>
+				<a href="http://www.forbes.com/sites/nicolefisher/2014/08/30/the-most-interesting-man-revolutionizing-the-health-world/" class="featured_image editable editable-img  " data-ga-event="Header,LinkFollowed,promo2" data-ga-event-trigger="click">
+
+
+                        <img src="http://images.forbes.com/images/channels/headerfeature2_panel15_0_original-1412019265.jpg" alt="The Most Interesting Man Revolutionizing The Health World" />
+                </a>
+				</figure>
+
+            	<div class="title editable editable-hed">
+            		<a href='http://www.forbes.com/sites/nicolefisher/2014/08/30/the-most-interesting-man-revolutionizing-the-health-world/' data-ga-event="Header,LinkFollowed,promo2" data-ga-event-trigger="click">
+            				The Most Interesting Man Revolutionizing The Health World
+            		</a>
+            	</div>
+		</article>
+		</div>
+</article>
+
+
+<article data-id="3">
+
+			<div class="edittools-promoblock largeplusthree" data-et-context="headerfeature3" data-et-location-id="headerfeature3" data-et-panel-id="panel20">
+			<article data-et-content-id="content_53fd57bbe4b0bb45818b60c6" class="promostory promostory-1">
+
+				<figure>
+				<a href="http://www.forbes.com/sites/martinzwilling/2014/08/27/10-startup-calculated-risks-that-lead-to-success/" class="featured_image editable editable-img  " data-ga-event="Header,LinkFollowed,promo3" data-ga-event-trigger="click">
+
+
+                        <img src="http://images.forbes.com/images/channels/headerfeature3_panel20_0_original-1412019640.png" alt="10 Calculated Risks That Lead To Startup Success" />
+                </a>
+				</figure>
+
+            	<div class="title editable editable-hed">
+	            	<a href='http://www.forbes.com/sites/martinzwilling/2014/08/27/10-startup-calculated-risks-that-lead-to-success/' data-ga-event="Header,LinkFollowed,promo3" data-ga-event-trigger="click">
+		            		10 Calculated Risks That Lead To Startup Success
+	            	</a>
+	            </div>
+		</article>
+		</div>
+</article>
+		</div><!-- .secondary_features -->
+
+	</div><!-- .wrap -->
+</header>
+
+<header class="mini_header">
+	<div class="wrap">
+		<div class="logo">
+			<a href="/" class="logo_menu_toggle">
+				<img class="svg icon_expanded" alt="Forbes" src="/assets/img/forbes_logo/forbes_logo.svg" onerror="this.src='/assets/img/forbes_logo/forbes_logo.gif'">
+				<img class="svg icon_collapsed" alt="Forbes" src="/assets/img/forbes_logo/forbes_logo_white.svg" onerror="this.src='/assets/img/forbes_logo/forbes_logo_white.png'">
+				<span class="icon arrow"></span>
+			</a>
+		</div>
+
+
+		<div class="header_drawer togglable collapsed">
+			<div class="focused">
+				<div class="focused_inner">
+
+
+						<a href="http://www.forbes.com/sites/brucekasanoff/2014/10/03/jpmorgan-chase-breach-reveals-a-dire-talent-emergency/">
+							<span class="title"> JPMorgan Chase Breach Reveals A Dire Talent Emergency</span>
+
+								<span class="reason" data-reason="LI" >Active on LinkedIn <span class="icon"></span></span>
+					</a>
+
+				</div>
+				<div class="toggle" data-content-outer=".dropdown" data-content-inner=".dropdown_inner">
+					<div class="pointer"></div>
+				</div>
+			</div><!-- .featured -->
+
+
+			<div class="dropdown" style="height: 0px; opacity: 0;">
+				<div class="dropdown_inner">
+					<ul>
+
+
+
+
+
+
+
+
+
+
+
+
+								<li data-et-id="content_542d8b43e4b0563af2c48f91">
+									<a href="http://www.forbes.com/sites/kenkam/2014/10/03/could-there-be-a-thousand-warren-buffetts/">
+										<span class="title"> Could There Be A Thousand Warren Buffetts?</span>
+
+											<span class="reason" data-reason="PV-D">+8,249 views in last 24 hours</span>
+									</a>
+								</li>
+
+
+
+
+
+								<li data-et-id="content_542d3fabe4b0563af2c48bdb">
+									<a href="http://www.forbes.com/sites/retailwire/2014/10/02/walmarts-drive-through-grocery-concept-is-a-head-scratcher/">
+										<span class="title"> Walmart's Drive-Through Grocery Concept Is A Head Scratcher</span>
+
+											<span class="reason" data-reason="FB">Active on Facebook <span class="icon"></span></span>
+									</a>
+								</li>
+
+
+
+
+
+											<li>
+												<a href="http://www.forbes.com/sites/sap/2014/10/02/oxford-economics-research-can-companies-avoid-the-leadership-cliff/" data-ga-event="Header,HeaderExpandBrandvoiceClicked,SAP" data-ga-event-trigger="click">
+													<span class="title">		    <span class="advoice"><span class="brandvoice">SAP</span>&#8203;Voice: </span>
+ Oxford Economics Research: Can Companies Avoid the Leadership Cliff?</span>
+												</a>
+											</li>
+
+
+								<li data-et-id="content_542c86d6e4b0563af2c48acd">
+									<a href="http://www.forbes.com/sites/larryhusten/2014/10/02/cholesterol-drugs-haunted-by-ghosts-of-past-present-and-future/">
+										<span class="title"> Cholesterol Drugs Haunted By Ghosts Of Past, Present, And Future</span>
+
+											<span class="reason" data-reason="PV-D">+32,570 views in last 24 hours</span>
+									</a>
+								</li>
+
+
+
+
+
+								<li data-et-id="content_542d5a20e4b0563af2c48c99">
+									<a href="http://www.forbes.com/sites/insertcoin/2014/10/02/what-destiny-needs-to-learn-from-diablo-3-about-loot/">
+										<span class="title"> What 'Destiny' Needs To Learn From 'Diablo 3' About Loot</span>
+
+											<span class="reason" data-reason="PV-D">+29,047 views in last 24 hours</span>
+									</a>
+								</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					</ul>
+					<div class="more">
+						<a href="/most-popular/">
+							<span class="icon">+</span>
+							<span class="label">More</span>
+						</a>
+					</div>
+
+				</div><!-- .dropdown_inner -->
+			</div><!-- .dropdown -->
+		</div>
+
+	</div><!-- .wrap -->
+</header><!-- .mini_header -->
+<div data-nav-ajax-url="/header/channels" class="ar_global_logo_rollover">
+	<div class="rollover rollover_box">
+
+	</div><!-- .rollover.rollover_box -->
+</div><!-- .ar_global_logo_rollover -->
+
+
+<div id="header_userinfo" class="clearfix">
+		<div class="login_header">
+		<!-- login header -->		<div class="gigya_chicklet_mask">			<div class="ribbon-item ribbon-item-gigya">				<div class="login_options">					<span>Connect</span>				</div>				<div id="gigyalogindiv" class="gigya_chicklet_holder"></div>			</div>		</div>		<span class="divider">|</span>		<div class="ribbon-item">			<a class="unireg_register ajaxify regbutton regbutton-signup" href="http://blogs.forbes.com/account/register/" title="Sign up for a Forbes account" data-ga-event="Account,Signup,headersignuptext" data-ga-event-trigger="click">Sign up</a>		</div>		<span class="divider">|</span>		<div class="ribbon-item">			<a class="unireg_login ajaxify regbutton regbutton-login" href="http://blogs.forbes.com/account/login/" title="Log in to your Forbes account" data-ga-event="Account,Login,headerlogintext" data-ga-event-trigger="click">Log in</a>		</div><!-- end login header -->
+		</div>
+	<div class="legal_header"><div class="ribbon-item"><a class="inlink inlink-topnav" href="http://blogs.forbes.com/help/">Help</a></div><span class="divider">|</span><div class="ribbon-item"><a onclick="(function(){var s=document.createElement('script');s.src='http://preferences.truste.com/js/buildJsFilev2.jsp?domain=forbes.com&amp;type=epref';s.onreadystatechange=function(){if(script.readyState=='loaded'||script.readyState=='complete'){view(trusteId);}};s.onload=function(){view(trusteId);};document.getElementsByTagName('head')[0].appendChild(s);})()">AdChoices</a></div><span class="divider">|</span><div class="ribbon-item"><a title="Terms and Conditions" href="/terms">Terms</a></div><span class="divider">|</span><div class="ribbon-item"><a title="Privacy Statement" href="http://www.forbes.com/fdc/privacy.html">Privacy</a></div></div>
+</div><!--end #header_userinfo -->
+
+	<div id="article_container_0" class="article_container container">
+
+		<!--start:ajax_content_inner-->
+
+		<div class="article_stats_data" data-stats='{&quot;user_meta&quot;:{},&quot;page_meta&quot;:{&quot;channel&quot;:&quot;technology&quot;,&quot;primary_channel&quot;:&quot;technology&quot;,&quot;primary_section&quot;:&quot;&quot;,&quot;displaychannel&quot;:&quot;technology&quot;,&quot;type&quot;:&quot;blogslide&quot;,&quot;template_type&quot;:&quot;standard&quot;,&quot;title&quot;:&quot;iPhone &#39;Bendgate&#39; Is Apple&#39;s Mea Culpa&quot;,&quot;site_slug&quot;:&quot;gordonkelly&quot;,&quot;blog_name&quot;:&quot;&quot;,&quot;preview&quot;:false,&quot;sitepage&quot;:&quot;forbes.com\/technology\/sites\/gordonkelly\/2014\/09\/24\/iphone-6-plus-bendgate\/&quot;,&quot;author&quot;:{&quot;natural_id&quot;:&quot;blogAuthorId\/blog\/author\/1017581&quot;,&quot;user_id&quot;:&quot;1017581&quot;,&quot;display_name&quot;:&quot;Gordon Kelly&quot;,&quot;type&quot;:&quot;individual&quot;},&quot;post_id&quot;:&quot;6054&quot;,&quot;blog_id&quot;:&quot;2907&quot;,&quot;natural_id&quot;:&quot;blogAndPostId\/blog\/post\/2907-6054&quot;,&quot;content_id&quot;:&quot;content_5422f5f0e4b03b61661eb96d&quot;,&quot;blogtype&quot;:&quot;individual&quot;,&quot;authorType&quot;:&quot;individual&quot;,&quot;brandvoice&quot;:false,&quot;simple_reach&quot;:{&quot;iframe&quot;:true,&quot;pid&quot;:&quot;50e4a8434240cf5c4b000009&quot;,&quot;url&quot;:&quot;http:\/\/www.forbes.com\/sites\/gordonkelly\/2014\/09\/24\/iphone-6-plus-bendgate\/&quot;,&quot;title&quot;:&quot;iPhone &#39;Bendgate&#39; Is Apple&#39;s Mea Culpa&quot;,&quot;date&quot;:&quot;2014-09-24T17:11:00Z&quot;,&quot;authors&quot;:&quot;Gordon Kelly&quot;,&quot;channels&quot;:&quot;technology&quot;,&quot;tags&quot;:[&quot;site::gordonkelly&quot;,&quot;slot::&quot;,&quot;Mobile&quot;,&quot;Powering Productivity&quot;,&quot;Tech&quot;],&quot;landing_url&quot;:&quot;&quot;}}}'></div>
+		<div class="article_dfp_data" data-dfp='{&quot;id&quot;:&quot;blogAndPostId\/blog\/post\/2907-6054&quot;,&quot;contrib&quot;:&quot;gordonkelly&quot;,&quot;displaychannel&quot;:&quot;technology&quot;,&quot;channel&quot;:&quot;Tech&quot;,&quot;section&quot;:&quot;Tech:Mobile,Business:Powering Productivity&quot;}'></div>
+
+		<div class="leaderboard"></div>
+
+
+	<div class="row">
+		<div class="col-sm-12">
+			<hr class="article_rule">
+		</div>
+	</div>
+
+	<section class="row" itemscope itemtype="http://schema.org/Article">
+		<div class="col-md-2 entity_block_wrapper">
+
+
+
+
+
+
+		<div class="article_entity entity_block">
+			<div class="type_article_block">
+				<div class="entity_preview">
+						<a class="avatar" href='http://www.forbes.com/sites/gordonkelly/'><img src="http://1.gravatar.com/avatar/135313297429b8a66b069508000b1134?s=136&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D136&amp;r=G" alt="Gordon Kelly" /></a>
+
+							<a class="user_name" href="http://www.forbes.com/sites/gordonkelly/">
+								<span itemprop="author">Gordon Kelly</span>
+							</a>
+							<span class="title">Contributor</span>
+
+
+
+
+
+
+    <div class="followable_block initializing" data-target-type="author" data-target-id="blogAuthorId/blog/author/1017581" data-object-json="{&quot;title&quot;:&quot;Gordon Kelly&quot;,&quot;avatar_src&quot;:&quot;http://1.gravatar.com/avatar/135313297429b8a66b069508000b1134?s=136&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D136&amp;r=G&quot;,&quot;follow_count&quot;:&quot;373&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ContribBylineFollow">
+
+    <div class="follow_unireg">
+		<a href="javascript://follow" class="follow_unireg_link">
+			<span class="option_follow">Follow</span>
+	
+			<span class="option_following">Following</span>
+	
+			<span class="option_unfollow">Unfollow</span>
+		</a>
+    </div>
+    </div>
+
+						<p class="preview_bio">
+								I write about technology's biggest companies
+
+							<span class="show_more_copy">full bio &rarr;</span>
+						</p>
+
+	            			<p class="disclaimer">Opinions expressed by Forbes Contributors are their own.</p>
+
+						<div class="social_icons">
+							<div class="label" style="display:none;">
+								<div class="arrow"></div>
+								<span class="text"></span>
+							</div>
+							<ul class="entity_links">
+
+								<li class="twitter">
+									<a target="blank" href="http://twitter.com/@gordonkelly">
+										<span>Follow Gordon Kelly on Twitter</span>
+									</a>
+								</li>
+
+
+
+			                    <li class="facebook">
+									<a target="blank" href="https://www.facebook.com/GordonKelly">
+										<span>Follow Gordon Kelly on Facebook</span>
+									</a>
+								</li>
+
+								<li class="linked_in">
+	    							<a target="blank" href="https://www.linkedin.com/in/gordonkelly">
+										<span>Follow Gordon Kelly on LinkedIn</span>
+									</a>
+								</li>
+
+
+							<li class="rss">
+								<a href="http://www.forbes.com/sites/gordonkelly/feed/">
+									<span>Gordon Kelly&#8217;s RSS Feed</span>
+								</a>
+							</li>
+
+
+								<li class="website">
+									<a target="blank" href="http://www.gordonkelly.com">
+										<span>Gordon Kelly&#8217;s Website</span>
+									</a>
+
+								<li class="profile">
+									<a href='http://www.forbes.com/sites/gordonkelly/'>
+										<span>Gordon Kelly&#8217;s Profile</span>
+									</a>
+								</li>
+
+
+							<!-- ADD IF DATA CHECK -->
+
+
+								<li class="email">
+									<a class="ajaxify launch_email_contrib" href="#"  data-enable-contact="true" data-contrib-name="Gordon Kelly" data-contrib-email= "gordon@gordonkelly.com"  data-user-name= ""  data-user-email= "">
+										<span>Contact Gordon Kelly</span>
+									</a>
+								</li>
+						</ul><!-- .entity_links -->
+					</div>
+
+
+				</div><!-- .entity_preview -->
+
+				<div class="entity_dive">
+
+					<div class="masked_content">
+
+						<nav class="toggles">
+							<ul>
+								<li data-mode="recent_posts">Recent Posts<span class="arrow"></span></li>
+								<li data-mode="popular_posts">Popular Posts<span class="arrow"></span></li>
+								<li data-mode="bio">Full Bio<span class="arrow"></span></li>
+							</ul>
+						</nav>
+
+						<div class="full_bio">
+							<p>I am an experienced freelance technology journalist. I write for Wired, The Next Web, TrustedReviews and the BBC in addition to Forbes. 
+<br><br>
+I began in b2b print journalism covering tech companies at the height of the dot com boom and switched to covering consumer technology as the iPod began to take off.  
+<br><br>
+A career highlight for me was being a founding member of TrustedReviews. It started in 2003 and we were repeatedly told websites could not compete with print! Within four years we were purchased by IPC Media (Time Warner's publishing division) to become its flagship tech title. 
+<br><br>
+What fascinates me are the machinations of technology's biggest companies. Got a pitch, tip or leak? Contact me on <a href="https://twitter.com/GordonKelly">Twitter </a>, <a href="https://plus.google.com/+GordonKelly/posts?rel=author">Google+</a>, my professional <a href="https://www.facebook.com/GordonKelly">Facebook page</a> or via email: gordonATgordonkelly.com. I don't bite.</p>
+
+							<!-- ADD IF DATA CHECK -->
+								<a class="ajaxify launch_email_contrib" href="#"  data-enable-contact="true" data-contrib-name="Gordon Kelly" data-contrib-email= ""  data-user-name= ""  data-user-email= "" >Contact Gordon Kelly</a>
+
+								<p class="disclaimer">The author is a Forbes contributor. The opinions expressed are those of the writer.</p>
+						</div>
+
+						<div class="entity_recent_posts">
+							Loading...
+						</div>
+
+						<div class="entity_popular_posts">
+							Loading...
+						</div>
+
+					</div><!-- .masked_content -->
+
+				</div><!-- .entity_dive -->
+
+				<div class="drawer_arrow_down"></div>
+
+			</div><!-- .type_article_block -->
+
+		</div><!-- .entity_block -->
+
+
+			<aside class="vp-wrapper">
+	<div class="vp-box vp-comment comment_bug comment_bug_2" style="display:none;">
+		<div class="wrapper">
+			<div class="info">
+				<a href="#comments_header" class="scroll_to">
+					<span class="comment_count">51</span>
+					Comments
+				</a>
+			</div>
+			<div class="called_out_sampling"></div>
+			<a href="#comments_header" class="scroll_to comment_calledout">23 called-out</a>
+		</div>
+		<div class="comment_teaser"></div>
+		<div class="no_comment_bugs_exist_yet" style="display:none;"></div>
+		<div class="comment_links">
+            <a href="#comment_reply" class="scroll_to post_your_comment">Comment Now</a>
+			<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2907-6054" data-object-json="{&quot;title&quot;:&quot;iPhone 'Bendgate' Is Apple's Mea Culpa&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+			</div>
+		</div>
+	</div>
+				<div class="vp-box vp-polar-native" style="display: none;"> </div>
+			</aside>
+		</div>
+
+
+		<div class="article_content col-md-10 col-sm-12">
+
+
+<hgroup class="prevent_widows">
+
+			<!--   Reveal this link if the logged-in user has editing rights-->
+
+	<h5>
+
+		<a href="/technology" class="slug" itemprop="articleSection">Tech</a>
+
+	<time itemprop="datePublished" content="2014-09-24T13:11:00-04:00">9/24/2014 @ 1:11PM</time>
+
+		<span class="views">197,099 views</span>
+	</h5>
+
+		<h1 itemprop="headline">iPhone 'Bendgate' Is Apple's Mea Culpa</h1>
+
+
+
+			<!-- Make individual group author appear -->
+
+	<div class="comment_links">
+		<a href="#comment_reply" class="scroll_to post_your_comment">Comment Now</a>
+		<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2907-6054" data-object-json="{&quot;title&quot;:&quot;iPhone 'Bendgate' Is Apple's Mea Culpa&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+		</div>
+	</div>
+</hgroup>
+
+
+			<div class="article_body article" itemprop="articleBody">
+
+				<div class="body">
+
+					<div class="body_inner">
+
+
+
+						
+<p dir="ltr">I like the iPhone 6, <a href="http://www.forbes.com/sites/gordonkelly/2014/09/19/iphone-6-review/">a lot</a>. My fellow contributor Ewan likes the iPhone 6 Plus, <a href="http://www.forbes.com/sites/ewanspence/2014/09/19/apple-iphone-6-plus-review-size-really-does-matter/">a lot</a>. Both models have flaws but they also set new benchmarks in smartphone design which rivals need to match. Or at least they did until <a href="/companies/apple/">Apple</a> <span class="quotecard_hook" data-ticker="AAPL" data-exchange="NASDAQ" data-type="organization" data-naturalid="fred/company/280" data-quotes-closing="99.9" data-quotes-now="99.62"><span class="wrapper"><a href="/companies/apple/">Apple</a></span></span> shot itself in the foot.</p> 
+<p>&nbsp;</p> 
+<p dir="ltr">#Bendgate is the predictable term that has flooded social media over the last 24 hours. It comes after a video from <a href="https://www.youtube.com/watch?v=znK652H6yQM">Unbox Therapy</a> (below) went viral after demonstrating that it was relatively easy to bend the iPhone 6 Plus. The video itself was a response to scattered reports of the iPhone 6 Plus bending in owners’ front and back pockets.</p> 
+<p>&nbsp;</p> 
+<p dir="ltr"><iframe class="youtube-player" type="text/html" width="485" height="365" src="http://www.youtube.com/embed/znK652H6yQM" frameborder="0"></iframe></p> 
+<p>&nbsp;</p> 
+<p dir="ltr">This started a flame war between Apple fans and haters and a number of defences were written including ‘<a href="http://www.wired.com/2014/09/iphone-6-plus-bendgate/">Duh: Of Course the iPhone 6 Plus Can Bend in Your Pocket</a>’ on Wired. Unbox Therapy then poured petrol on these flames with a second video (below) showing not only that trying to straighten a bent iPhone 6 Plus can shatter the screen, but that under the same tests a Galaxy Note 3 was fine.</p> 
+<p>&nbsp;</p> 
+<p dir="ltr"><iframe class="youtube-player" type="text/html" width="485" height="365" src="http://www.youtube.com/embed/FwM4ypi3at0" frameborder="0"></iframe></p> 
+<p>&nbsp;</p> 
+<p dir="ltr">Suddenly the argument that ‘all phones bend, stupid’ was no longer a great defence. They may, but the iPhone 6 Plus bends <em>more</em>.</p> 
+<p>&nbsp;</p> 
+<p dir="ltr"><strong>Antennagate v2.0</strong></p> 
+<p dir="ltr">So where does the blame lie? From my perspective I don’t think it can be shifted from Apple.</p> 
+<p>&nbsp;</p> 
+<p dir="ltr">If the iPhone 6 Plus is vulnerable in a pocket it should contain a suitable warning to that effect. Expecting users to change age old habits without warning is impossible and, like ‘<a href="http://en.wikipedia.org/wiki/IPhone_4#Antenna">Antennagate</a>’, the whole situation seems to have arrived through a lack of real world testing.</p> 
+<div id="attachment_5881" class="wp-caption alignnone" style="width: 1827px">
+ <img class="size-full wp-image-5881" alt="New iPhones are ultra thin (image credit: Gordon Kelly)" src="http://blogs-images.forbes.com/gordonkelly/files/2014/09/IMG_20140919_084820.jpg" />
+ <p class="wp-caption-text">New iPhones are ultra thin (image credit: Gordon Kelly)</p>
+</div> 
+<p>&nbsp;</p> 
+<p dir="ltr">Yet more to the point Bendgate also exists because of Apple being Apple. I’ve yet to have a reader tell me the iPhone 5S was too thick (feel free to do so!), but I’ve seen many complain about battery life.</p> 
+<p>&nbsp;</p> 
+<p dir="ltr">Of course the new iPhones do have improved battery life, but they could’ve revolutionised smartphone and phablet usage had Apple made them just thick enough to fit a flush camera – the lack of which Apple has been keen to <a href="http://www.forbes.com/sites/gordonkelly/2014/09/16/iphone-6-camera-bulge/">hide in promotional photos</a>. Two problems: one stone.</p> 
+<p>&nbsp;</p> 
+<p dir="ltr">But Apple&nbsp;didn’t because more than a decade of unprecedented success has made the company confident it knows what its users want better than they know themselves. In many cases Apple has been proved right, until now. After all pride often comes before a fall.</p> 
+<p dir="ltr"><a href="http://www.forbes.com/sites/gordonkelly/2014/09/08/iphone-6-why-apple-has-super-sized-the-iphone/">Read more – iPhone 6: Why Apple Made Massive New iPhones</a></p> 
+<p>&nbsp;</p> 
+<div id="attachment_5888" class="wp-caption alignnone" style="width: 1950px">
+ <img class="size-large wp-image-5888" alt="iPhone 6 protruding camera (image credit: Gordon Kelly)" src="http://blogs-images.forbes.com/gordonkelly/files/2014/09/IMG_20140919_083908-1940x1052.jpg" />
+ <p class="wp-caption-text">iPhone 6 protruding camera (image credit: Gordon Kelly)</p>
+</div> 
+<p>&nbsp;</p> 
+<p dir="ltr"><strong>Wider Industry Fallout</strong></p> 
+<p dir="ltr">There is an inevitable (and in many ways understandable) reaction: mock Apple. Go ahead, enjoy it – needlessly skinny phone, bulbous camera, snaps like a twig – but owners of rival handsets should know this could be every bit as damaging for them in the long run as for iPhone owners.</p> 
+<p>&nbsp;</p> 
+<p dir="ltr">Why? Because like it or not Apple remains the single biggest driving force in the industry. I’m an Android user with no inclination to switch, but I recognise <a href="/companies/google/">Google</a> <span class="quotecard_hook" data-ticker="GOOGL" data-exchange="NASDAQ" data-type="organization" data-naturalid="fred/company/1821" data-quotes-closing="580.885" data-quotes-now="585.93"><span class="wrapper"><a href="/companies/google/">Google</a></span></span> and <a href="/companies/microsoft/">Microsoft</a> <span class="quotecard_hook" data-ticker="MSFT" data-exchange="NASDAQ" data-type="organization" data-naturalid="fred/company/2854" data-quotes-closing="45.76" data-quotes-now="46.09"><span class="wrapper"><a href="/companies/microsoft/">Microsoft</a></span></span>’s long adoption of NFC will only gain real world traction now Apple is aboard.</p> 
+<p>&nbsp;</p> 
+<p dir="ltr">For me Android has surpassed iOS and ‘Android L’ has me drooling over videos on <a href="https://www.youtube.com/watch?v=Q8TXgCzxEnw">Material Design</a>, but there is no disputing the early influence of iOS and had the original iPhone not broken new ground (the first <a href="http://en.wikipedia.org/wiki/HTC_Dream">Android phone had a keyboard</a>) I suspect Google’s OS would be a very different and less impressive thing today.</p> 
+<p>
+ <!--nextpage--></p> 
+<div id="attachment_6056" class="wp-caption alignnone" style="width: 1950px">
+ <img class="size-large wp-image-6056" alt="HTC One M8 (image credit: Gordon Kelly)" src="http://blogs-images.forbes.com/gordonkelly/files/2014/09/IMG_20140924_175621-1940x949.jpg" />
+ <p class="wp-caption-text">HTC One M8 (image credit: Gordon Kelly)</p>
+</div> 
+<p>&nbsp;</p> 
+<p dir="ltr">Apple’s industry influence brings out the best in its rivals – whether playing catch up or inspiring them to leap ahead, but where the majority of Android phones are still behind iPhones (<a href="http://www.forbes.com/sites/gordonkelly/2014/03/25/htc-one-m8-hands-on-review-first-impressions-suggest-stiff-competition-for-the-samsung-galaxy-s5/">HTC One</a> aside – pictured above) is design. Or they were until the tacky design of the otherwise brilliant Note range was shown to be structurally superior to the latest and greatest iPhones.</p> 
+<p dir="ltr">Consequently I’m concerned. I don’t want Apple rivals to feel venerated when they should be using the iPhone 6 and iPhone 6 Plus as the springboard to new and better things. Apple just showed the world metal chassis smartphones don’t need to be heavy, now go prove they don’t need to bend as well!</p> 
+<p>It is an exciting time for Apple rivals, if they handle it the right way (that means <a href="http://www.forbes.com/sites/briancaulfield/2011/11/23/samsung-ad-portrays-apple-customers-as-pack-of-hipster-doofuses/">with dignity Samsung</a>). Combined with <a href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/">iOS 8 upgrade problems</a>,&nbsp;Apple suddenly has its hands full placating angry iPhone owners, addressing warranty questions and convincing hesitant upgraders to still make the jump.</p> 
+<p>The opportunity for rivals to evolve is there if they approach it correctly. The ‘iFanny Pack’ will not be an easy sell.</p> 
+<p>&nbsp;</p> 
+<p><em><strong>Update:</strong> Unbox Therapy has posted a third video testing the HTC One M8, Motorola Moto X (2014 model), Nokia 1020 and iPhone 5S. None of the phones bent in any significant fashion:</em></p> 
+<iframe class="youtube-player" type="text/html" width="485" height="365" src="http://www.youtube.com/embed/IROcoJeVfSI#t=30" frameborder="0"></iframe> 
+<p>___</p> 
+<p><a class="twitter-follow-button" href="https://twitter.com/GordonKelly">Follow @GordonKelly</a></p> 
+<p>&nbsp;</p> 
+<p><strong>More on Forbes</strong></p> 
+<p></p>
+<div class="forbes_embedded_gallery">
+ <p><a class="gallery_embedded_launcher" href="http://www.forbes.com/pictures/fmdk45jdih/iphone-6-and-apple-watch-8/">Apple Product Launch: iPhone 6 And Apple Watch</a></p>
+</div> 
+<p class="sigfile"><em>Gordon Kelly is an experienced freelance technology journalist who has written for Wired, The Next Web, TrustedReviews and the BBC. He can be followed on&nbsp;his <a href="https://www.facebook.com/GordonKelly">Facebook Page</a></em></p>
+
+
+					</div>
+
+				</div>
+
+
+				<div class="sponsored_ad"></div>
+					<div class="media_net_related_links"></div>
+
+
+				<div class="event_tracking_scroll_latch" data-event="Article,ScrolledToEnd,end"></div>
+
+			</div><!-- .article_body.article -->
+
+    <div class="comment_bug" style="display:none;">
+        <div class="arrow_icon"></div>
+        <div class="bottom_border"></div>
+        <div class="wrapper">
+            <div class="called_out_sampling"></div>
+
+            <div class="info">
+                <a href="#comments_header" class="scroll_to">
+                    51 comments, 23 called-out
+                </a>
+            </div>
+                <a href="#comment_reply" class="scroll_to post_your_comment">Comment Now</a>
+				<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2907-6054" data-object-json="{&quot;title&quot;:&quot;iPhone 'Bendgate' Is Apple's Mea Culpa&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+				</div>
+        </div>
+        <div class="comment_teaser"></div>
+        <div class="no_comment_bugs_exist_yet" style="display:none;">
+            <a href="#comment_reply" class="scroll_to post_first_comment">Comment Now</a>
+			<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2907-6054" data-object-json="{&quot;title&quot;:&quot;iPhone 'Bendgate' Is Apple's Mea Culpa&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+			</div>
+    </div>
+    </div>
+
+
+<script type="text/javascript">
+
+function printArticle(url) {
+params = 'width='+screen.width;
+params += ', height='+screen.height;
+params += ', top=0, left=0'
+params += ', fullscreen=yes, scrollbars = yes, resizable=yes';
+
+slideWin = window.open(url, 'popup', params);
+if(window.focus) {
+slideWin.focus();
+}
+return false;
+}
+
+</script>
+
+<div class="article_actions">
+
+<div class="sub_links clearfix">
+
+
+
+<div class="widget print">
+<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/print/" target="_blank"><span class="icon"></span>Print</a>
+</div>
+
+<div class="widget corrections">
+<a href="#corrections"><span class="icon"></span>Report Corrections</a>
+</div>
+
+<div class="widget reprint">
+<a href="http://forbesreprints.magreprints.com/" target="_blank"><span class="icon"></span>Reprints &amp; Permissions</a>
+</div>
+
+</div>
+</div>
+
+			<div class="vestpocket_holder" style="display:none;">
+
+
+
+	<aside class="vestpocket" data-position="4" >
+
+
+
+
+
+        <div class="vp-box vp-article">
+            <a href="http://www.forbes.com/sites/gordonkelly/2014/09/19/iphone-6-review/" class="thumb">
+                <span class="icon">
+                </span>
+                        <img src='http://blogs-images.forbes.com/gordonkelly/files/2014/09/IMG_20140919_090822.jpg' alt="" />
+            </a>
+			<h4>
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/19/iphone-6-review/" class="vp_text">
+                    Apple iPhone 6 Review: Bigger Is Better
+				</a>
+			</h4>
+
+
+	            <cite class="box_byline clearfix">
+					<a href="http://www.forbes.com/sites/gordonkelly/">
+	                	<img src='http://1.gravatar.com/avatar/135313297429b8a66b069508000b1134?s=40&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' alt="Gordon Kelly" class="avatar" />
+
+	                    <strong>Gordon Kelly</strong>
+	                    <span class="desc">Contributor</span>
+	                </a>
+	            </cite>
+        </div>
+
+
+
+        <div class="vp-box vp-article">
+            <a href="http://www.forbes.com/sites/gordonkelly/2014/09/09/iphone-6-vs-iphone-6-plus-what-is-the-difference/" class="thumb">
+                <span class="icon">
+                </span>
+                        <img src='http://blogs-images.forbes.com/gordonkelly/files/2014/09/2014-09-09_22-38-02.jpg' alt="" />
+            </a>
+			<h4>
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/09/iphone-6-vs-iphone-6-plus-what-is-the-difference/" class="vp_text">
+                    iPhone 6 vs iPhone 6 Plus: The Differences Between The New Apple iPhones
+				</a>
+			</h4>
+
+
+	            <cite class="box_byline clearfix">
+					<a href="http://www.forbes.com/sites/gordonkelly/">
+	                	<img src='http://1.gravatar.com/avatar/135313297429b8a66b069508000b1134?s=40&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' alt="Gordon Kelly" class="avatar" />
+
+	                    <strong>Gordon Kelly</strong>
+	                    <span class="desc">Contributor</span>
+	                </a>
+	            </cite>
+        </div>
+
+
+
+        <div class="vp-box vp-article">
+            <a href="http://www.forbes.com/sites/gordonkelly/2014/09/01/iphone-6-owners-must-adapt-to-these-5-big-screen-changes/" class="thumb">
+                <span class="icon">
+                </span>
+                        <img src='http://blogs-images.forbes.com/gordonkelly/files/2014/09/Apple-iPhone-6-Mockup-01.jpg' alt="" />
+            </a>
+			<h4>
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/01/iphone-6-owners-must-adapt-to-these-5-big-screen-changes/" class="vp_text">
+                    iPhone 6: Owners Must Adapt To 5 Big Changes
+				</a>
+			</h4>
+
+
+	            <cite class="box_byline clearfix">
+					<a href="http://www.forbes.com/sites/gordonkelly/">
+	                	<img src='http://1.gravatar.com/avatar/135313297429b8a66b069508000b1134?s=40&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' alt="Gordon Kelly" class="avatar" />
+
+	                    <strong>Gordon Kelly</strong>
+	                    <span class="desc">Contributor</span>
+	                </a>
+	            </cite>
+        </div>
+
+
+
+        <div class="vp-box vp-article">
+            <a href="http://www.forbes.com/sites/gordonkelly/2014/09/18/iphone-6-and-iphone-6-plus-vs-iphone-5s-vs-iphone-5-should-you-upgrade/" class="thumb">
+                <span class="icon">
+                </span>
+                        <img src='http://blogs-images.forbes.com/gordonkelly/files/2014/09/6.jpg' alt="" />
+            </a>
+			<h4>
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/18/iphone-6-and-iphone-6-plus-vs-iphone-5s-vs-iphone-5-should-you-upgrade/" class="vp_text">
+                    iPhone 6 And iPhone 6 Plus vs iPhone 5S And iPhone 5: Should You Upgrade?
+				</a>
+			</h4>
+
+
+	            <cite class="box_byline clearfix">
+					<a href="http://www.forbes.com/sites/gordonkelly/">
+	                	<img src='http://1.gravatar.com/avatar/135313297429b8a66b069508000b1134?s=40&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' alt="Gordon Kelly" class="avatar" />
+
+	                    <strong>Gordon Kelly</strong>
+	                    <span class="desc">Contributor</span>
+	                </a>
+	            </cite>
+        </div>
+
+
+    </aside>
+
+			</div><!-- .vestpocket_items -->
+
+		</div>
+
+	</section>
+
+
+	<section class="row">
+		<div class="col-md-10 col-md-offset-2 col-sm-12 col-sm-offset-0">
+
+
+
+	<div id="comments" class="comments_collection" data-selected-comment-id="" data-manage-comment-following-link="http://blogs.forbes.com/account/#accounttab-5" >
+
+		<div class="comment_form_orig_position">
+    <div class="comment_reply">
+            <div class="arrow"></div>
+            <form class="forbes_forms v1 comment_reply_form" name="commentForm" action="/wp-admin/admin-ajax.php" method="post" data-comment-nonce="" data-validation-rules-json="[{&quot;field_id&quot;:&quot;user_comment_textarea&quot;,&quot;rules&quot;:{&quot;required&quot;:true,&quot;notEqualTo&quot;:{&quot;attr&quot;:&quot;data-initial-text&quot;,&quot;caseSensitive&quot;:false,&quot;errorMsg&quot;:&quot;Please enter a comment to post.&quot;},&quot;between&quot;:{&quot;min&quot;:2,&quot;max&quot;:10000}}}]" data-reload-url="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/">
+                    <!-- the form action will be expecting all of the following hidden fields -->
+                    <input type='hidden' name='action' value='unireg_comments' autocomplete="off" />
+                    <input type='hidden' name='natural_id' value='blogAndPostId/blog/post/2907-6054' autocomplete="off" />
+                    <input type='hidden' name='comment_parent' value='0' autocomplete="off" />
+
+                    <h3 class="main">Post Your Comment</h3>
+                    <div class="reply_header" style="display:none;">
+                            <a href="#cancel" class="cancel_reply">Cancel reply</a>
+                            <h3>Post Your Reply</h3>
+                    </div>
+
+			
+            <div class="status_bar">
+                                    Please
+                                    <a class="ajaxify unireg_login" href="http://blogs.forbes.com/account/login/?redirect_to=http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/" title="Click to log in">log in</a>
+                                    or
+                                    <a class="ajaxify unireg_register" href="http://blogs.forbes.com/account/register/?redirect_to=http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/" title="Click to sign up">sign up</a>
+                                    to comment.
+                            </div>
+
+<div class="entity_block">
+                                    <a class="ajaxify avatar" href="http://blogs.forbes.com/account/login/?redirect_to=http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/" class="avatar" title="Click to log in or register">
+                                            <img src="http://i.forbesimg.com/assets/img/comments/no_profile_image.jpg" alt="">
+                                    </a>
+                            </div>
+
+                    <div class="input_holder_outer input_block">
+
+                            <div class="main_error_msg" style="display:none;">
+                                    <span class="icon"></span>
+                                    <span class="text"></span>
+                            </div>
+
+                            <div class="input_holder">
+
+                                    <textarea id="user_comment_textarea" class="initial_text user_comment" data-initial-text="Enter Your Comment" name="comment" cols="80" rows="10" autocomplete="off">Enter Your Comment</textarea>
+
+                                    <span class="error_msg"></span>
+
+										<div class="control_bar" style="display:none;">
+                                            <a class="fancy_button submit small" data-submit-button="true"><span class="outer"><span class="inner"><span class="icon"></span><span class="label">Submit Comment</span></span></span><span class="loading_spinner left" style="display:none;"><img src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" height="16" width="16" alt=""></span></a>
+                                            <input class="hidden_submit" type="submit" name="submit_hidden" value="Submit" id="idCommentForm_submit">
+                                    </div>
+                            </div>
+                    </div>
+
+                    <div class="clear"></div>
+
+                    <div class="moderation_info">
+                            <p>
+                                    Forbes writers have the ability to call out member comments they find particularly interesting. Called-out comments are highlighted across the Forbes network. You'll be notified if your comment is called out.
+                            </p>
+               		</div>
+            </form>
+    </div>
+		</div>
+
+
+			<div class="comments_header">
+				<h3>Comments</h3>
+				<ul class="tabs horznav cf">
+					<li class='active'>
+						<a href="/ajax/comment/calledout/1/?contentUri=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fgordonkelly%2F2014%2F09%2F24%2Fiphone-6-plus-bendgate%2F" rel="calledOut">Called-Out</a>
+						<div class="arrow"></div>
+					</li>
+					<li class=''>
+						<a href="/ajax/comment/general/1/?contentUri=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fgordonkelly%2F2014%2F09%2F24%2Fiphone-6-plus-bendgate%2F"  rel="allComments">Expand All Comments</a>
+						<div class="arrow"></div>
+					</li>
+				</ul>
+
+					<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2907-6054" data-object-json="{&quot;title&quot;:&quot;iPhone 'Bendgate' Is Apple's Mea Culpa&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+					</div>
+			</div>
+
+			<div class="pagination_header" style="display:none;"></div>
+			<div class="comments_well" data-edit-post-link="" >
+	<ul class="comments_stream">
+
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-6054-3033" data-comment-wp-id="3033"  parent-id="" class="comment level0 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/jmmxmmx/">
+                    <img src="http://0.gravatar.com/avatar/accba85bb5230c0fd36c6148bd1c5686?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G" alt="Jmmx Mmx" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/jmmxmmx/">
+                    Jmmx Mmx
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>“The ‘iFanny Pack’ will not be an easy sell.”</p> 
+<p>Good point – for those who feel the iPhone 6 line is too big for the pocket, I suggest the following elegant holster solution. They are currently working on updated versions for the iPhone 6 Plus.</p> 
+<p>delQuindio.com</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/?commentId=comment_blogAndPostId/blog/comment/2907-6054-3033" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-6054-3038" data-comment-wp-id="3038"  parent-id="blogAndPostId/blog/comment/2907-6054-3033" class="comment level1 calledOut author" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://www.forbes.com/sites/gordonkelly/">
+							<img src="http://1.gravatar.com/avatar/135313297429b8a66b069508000b1134?s=136&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D136&amp;r=G" alt="Gordon Kelly" />
+				</a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/gordonkelly/">
+                    Gordon Kelly</a><span class="desc">, Contributor</span>
+
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>I was actually being sarcastic, but I’m sure some elegant solutions could actually come out of it!</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="disabled">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/?commentId=comment_blogAndPostId/blog/comment/2907-6054-3038" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-6054-3047" data-comment-wp-id="3047"  parent-id="blogAndPostId/blog/comment/2907-6054-3038" class="comment level1 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/kendrakroll/">
+                    <img src="http://pbs.twimg.com/profile_images/472013007136903170/z6GtPa2U_normal.jpeg" alt="Kendra Kroll" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/kendrakroll/">
+                    Kendra Kroll
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>you know the answer for this one, Gordon ;) just don’t put that cell in a pocket in your clothes at all. put the pocket on your body. separately. That way there’s no sitting on, bending on, or sweating on your stuff. Ever.<br /> And you won’t risk theft or loss by leaving it lying around somewhere…or in a purse or bag. PortaPocket isn’t a fanny pack. But a modern day, and yes… elegant… solution to how to hands-free carry your stuff. Almost anywhere on your body. &lt;3!</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/?commentId=comment_blogAndPostId/blog/comment/2907-6054-3047" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-6054-3050" data-comment-wp-id="3050"  parent-id="blogAndPostId/blog/comment/2907-6054-3038" class="comment level1 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/3aliensfromsatu/">
+                    <img src="http://1.gravatar.com/avatar/72a23c9dfd8ab52b50d4efe0474acc45?s=40&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G" alt="3aliensfromsaturn" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/3aliensfromsatu/">
+                    3aliensfromsaturn
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Iphone 6 is crap and iOS is bad. Apple now has a worm.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/?commentId=comment_blogAndPostId/blog/comment/2907-6054-3050" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-6054-3034" data-comment-wp-id="3034"  parent-id="" class="comment level0 calledOut" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/nicolasmartin/">
+                    <img src="https://graph.facebook.com/504331571/picture?type=square" alt="Nicolas Martin" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/nicolasmartin/">
+                    Nicolas Martin
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>What can Apple do but create to create elegant protective cases and give one away to each buyer? And it had better be fast. This is shaping up to be a legendary corporate disaster.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="on">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/?commentId=comment_blogAndPostId/blog/comment/2907-6054-3034" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-6054-3037" data-comment-wp-id="3037"  parent-id="blogAndPostId/blog/comment/2907-6054-3034" class="comment level1 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/nicolasmartin/">
+                    <img src="https://graph.facebook.com/504331571/picture?type=square" alt="Nicolas Martin" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/nicolasmartin/">
+                    Nicolas Martin
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>I’d fix my post, but Forbes uses comment software that is as messed up as Apple’s phones.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/?commentId=comment_blogAndPostId/blog/comment/2907-6054-3037" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-6054-3040" data-comment-wp-id="3040"  parent-id="" class="comment level0 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/luciovasquez/">
+                    <img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50" alt="Lucio Vasquez" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/luciovasquez/">
+                    Lucio Vasquez
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>he put all the force and his fingers together on the note to where on the iphone he had more space causing to bend cause of the force</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/?commentId=comment_blogAndPostId/blog/comment/2907-6054-3040" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-6054-3041" data-comment-wp-id="3041"  parent-id="" class="comment level0 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/everinmalpica/">
+                    <img src="http://1.gravatar.com/avatar/808f3e8edd006dad47b95b500813e6f5" alt="Ever Malpica" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/everinmalpica/">
+                    Ever Malpica
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>YOUR SMARTPHONE SHOULD NOT BEND BY HAVING IT ON YOUR POCKETS!</p> 
+<p>This is clearly a design flaw and a quality issue with the iphone 6 and the iphone 6 plus.</p> 
+<p>http://www.geek.com/apple/iphone-6s-are-being-bent-in-peoples-pockets-including-mine-1605177/</p> 
+<p>Iphone 6 bend Test:<br /> http://youtu.be/znK652H6yQM﻿</p> 
+<p>Galaxy Note 3 Bend Test (iPhone 6 Plus Follow-up):<br /> http://youtu.be/FwM4ypi3at0﻿</p> 
+<p>#bendgate</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/?commentId=comment_blogAndPostId/blog/comment/2907-6054-3041" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-6054-3042" data-comment-wp-id="3042"  parent-id="blogAndPostId/blog/comment/2907-6054-3041" class="comment level1 calledOut" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/randyschissler/">
+                    <img src="https://s.yimg.com/dh/ap/social/profile/profile_b192.png" alt="Randy Schissler" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/randyschissler/">
+                    Randy Schissler
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>This is so overblown! He put a huge amount of pressure trying to bend the phone. Look at the video and you can see how his hand is trembling while he is bending it.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="on">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/?commentId=comment_blogAndPostId/blog/comment/2907-6054-3042" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-6054-3043" data-comment-wp-id="3043"  parent-id="blogAndPostId/blog/comment/2907-6054-3042" class="comment level1 calledOut" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/everinmalpica/">
+                    <img src="http://1.gravatar.com/avatar/808f3e8edd006dad47b95b500813e6f5" alt="Ever Malpica" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/everinmalpica/">
+                    Ever Malpica
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Your smartphone should not bend by having it on your pocket, that’s the issue!</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="on">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/?commentId=comment_blogAndPostId/blog/comment/2907-6054-3043" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-6054-3072" data-comment-wp-id="3072"  parent-id="blogAndPostId/blog/comment/2907-6054-3042" class="comment level1 calledOut" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/nathanm3/">
+                    <img src="https://lh3.googleusercontent.com/-DAKqtjjKBXk/AAAAAAAAAAI/AAAAAAAAAH0/Fpr6kkRSegg/photo.jpg?sz=50" alt="Nathan M" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/nathanm3/">
+                    Nathan M
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Its not overblown– its expected scrutiny that all standard setting products are rightfully subject to, and should endure. Its also the sole reason that I have not upgraded yet. (I will more than likely switch back to Android this time around because of this)</p> 
+<p>The fact of the matter is that:<br /> a) the competition is FAR more durable<br /> b) Apple put much more weight into the aesthetics of the product than they did structural stability. Normally this is typical and expected and one of the reasons why their products do so well– but this time they sacrificed too much.</p> 
+<p>As the author said, without a warning it is completely unacceptable for a phone to significantly bend/fail while in the process of normal use (or transportation). Perhaps skinny jeans are to blame more so than Apple, but being a design conscience company, they should have known better.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="on">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/?commentId=comment_blogAndPostId/blog/comment/2907-6054-3072" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-6054-3088" data-comment-wp-id="3088"  parent-id="blogAndPostId/blog/comment/2907-6054-3072" class="comment level1 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/randyschissler/">
+                    <img src="https://s.yimg.com/dh/ap/social/profile/profile_b192.png" alt="Randy Schissler" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/randyschissler/">
+                    Randy Schissler
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>How is putting it in your back pocket and sitting on it “normal use?”</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/?commentId=comment_blogAndPostId/blog/comment/2907-6054-3088" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-6054-3091" data-comment-wp-id="3091"  parent-id="blogAndPostId/blog/comment/2907-6054-3088" class="comment level1 calledOut author" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://www.forbes.com/sites/gordonkelly/">
+							<img src="http://1.gravatar.com/avatar/135313297429b8a66b069508000b1134?s=136&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D136&amp;r=G" alt="Gordon Kelly" />
+				</a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/gordonkelly/">
+                    Gordon Kelly</a><span class="desc">, Contributor</span>
+
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>No sitting, just in a pocket. Both back AND front.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="disabled">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/?commentId=comment_blogAndPostId/blog/comment/2907-6054-3091" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-6054-3044" data-comment-wp-id="3044"  parent-id="" class="comment level0 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/josephczerniawski/">
+                    <img src="https://s.yimg.com/dg/users/1HY3VzWxOAAEB_gFhzJVjCA==.large.png" alt="Joseph Czerniawski" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/josephczerniawski/">
+                    Joseph Czerniawski
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>The writer should consider getting a new proof reader, “recognise???”</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/?commentId=comment_blogAndPostId/blog/comment/2907-6054-3044" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-6054-3045" data-comment-wp-id="3045"  parent-id="blogAndPostId/blog/comment/2907-6054-3044" class="comment level1 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/calewds/">
+                    <img src="http://1.gravatar.com/avatar/9c1931e4e2bc287a269fef2a04ec0f5f?s=40&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G" alt="calewds" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/calewds/">
+                    calewds
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Maybe he’s British?</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/?commentId=comment_blogAndPostId/blog/comment/2907-6054-3045" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-6054-3046" data-comment-wp-id="3046"  parent-id="blogAndPostId/blog/comment/2907-6054-3044" class="comment level1 calledOut author" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://www.forbes.com/sites/gordonkelly/">
+							<img src="http://1.gravatar.com/avatar/135313297429b8a66b069508000b1134?s=136&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D136&amp;r=G" alt="Gordon Kelly" />
+				</a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/gordonkelly/">
+                    Gordon Kelly</a><span class="desc">, Contributor</span>
+
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Check the bio – British ;)<br /> The joys of s vs z and aluminium and aluminum!</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="disabled">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/?commentId=comment_blogAndPostId/blog/comment/2907-6054-3046" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-6054-3049" data-comment-wp-id="3049"  parent-id="" class="comment level0 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/dallison/">
+                    <img src="http://1.gravatar.com/avatar/fef65bfdda30533945a3679cb3a4c098?s=40&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G" alt="dallison" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/dallison/">
+                    dallison
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>HTC One is good, but you have to try the One Plus One.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/?commentId=comment_blogAndPostId/blog/comment/2907-6054-3049" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-6054-3052" data-comment-wp-id="3052"  parent-id="blogAndPostId/blog/comment/2907-6054-3049" class="comment level1 calledOut author" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://www.forbes.com/sites/gordonkelly/">
+							<img src="http://1.gravatar.com/avatar/135313297429b8a66b069508000b1134?s=136&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D136&amp;r=G" alt="Gordon Kelly" />
+				</a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/gordonkelly/">
+                    Gordon Kelly</a><span class="desc">, Contributor</span>
+
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Agreed, the OnePlus One is superb – looking forward to the OnePlus Two (due soon). Wish the HTC One had the power button on the side though.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="disabled">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/?commentId=comment_blogAndPostId/blog/comment/2907-6054-3052" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-6054-3051" data-comment-wp-id="3051"  parent-id="" class="comment level0 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/sophiahall/">
+                    <img src="https://graph.facebook.com/100005305157673/picture?type=square" alt="Sophia Hall" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/sophiahall/">
+                    Sophia Hall
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>I always preferred iPhone 6 over Plus</p> 
+<p>Apple iPhone 6 is up for sale. Find sites offering best prices &amp; amazing deals on iPhone 6 &amp; 6 Plus only at freeappleiphone6(dot)com (Just replace the (dot) with the actual . )</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/?commentId=comment_blogAndPostId/blog/comment/2907-6054-3051" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-6054-3053" data-comment-wp-id="3053"  parent-id="" class="comment level0 calledOut" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/gmcd/">
+                    <img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50" alt="G McD" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/gmcd/">
+                    G McD
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>I don’t really recall a heavy user base demand for the iPhone 6 to be even thinner than the 5. I know Apple feels the need to “innovate” but thinness probably was a little off track. What buyers wanted was a bigger screen. It’s why the 6 has sold so well already, because the Apple user base is dying to have screen sizes comparable to what Android users have had for several years.</p> 
+<p>Apple cost itself my patronage when my iPhone 4 was starting to get painfully slow. The 5 was on the horizon and then the announcement came. I was so unimpressed with the 5. The market wanted a bigger screen and Apple gave us a screen that was so minimally larger than the 4 it was hard to tell them apart. So I upgraded to a Galaxy S4. I am sold on Android. I won’t go back to Apple. Not for this kind of “innovation.”</p> 
+<p>My wife still loves her iPhone and I don’t blame her, it’s a great device. However, I’ve discovered that Android works much better for me. And I don’t worry about putting my phone in my pocket.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="on">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/?commentId=comment_blogAndPostId/blog/comment/2907-6054-3053" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-6054-3054" data-comment-wp-id="3054"  parent-id="" class="comment level0 calledOut" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/mullchess/">
+                    <img src="http://pbs.twimg.com/profile_images/424462676849618944/VzowZIJB_normal.png" alt="Marshall" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/mullchess/">
+                    Marshall
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Very useful. Please update us on the hammer test and 650C furnace test as well. Also, please advise on whether the 6 plus would survive a drop from the top of Empire State Building. I’ll hold off my purchase until receiving this very critical information. LMAO.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="on">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/?commentId=comment_blogAndPostId/blog/comment/2907-6054-3054" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+	</ul>
+
+
+		<nav class="pagination forbesui">
+			<ul>
+    <li class="prev disabled">
+            <a href="" ><span class="icon">&nbsp;</span></a>
+    </li>
+
+                <li class="page active">
+                        <a href="/ajax/comment/calledout/1/?contentUri=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fgordonkelly%2F2014%2F09%2F24%2Fiphone-6-plus-bendgate%2F">1</a>
+                </li>
+
+
+                <li class="page">
+                        <a href="/ajax/comment/calledout/2/?contentUri=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fgordonkelly%2F2014%2F09%2F24%2Fiphone-6-plus-bendgate%2F">2</a>
+                </li>
+
+
+                <li class="page">
+                        <a href="/ajax/comment/calledout/3/?contentUri=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fgordonkelly%2F2014%2F09%2F24%2Fiphone-6-plus-bendgate%2F">3</a>
+                </li>
+
+    <li class="next">
+            <a href="/ajax/comment/calledout/2/?contentUri=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fgordonkelly%2F2014%2F09%2F24%2Fiphone-6-plus-bendgate%2F" ><span class="icon">&nbsp;</span></a>
+    </li>
+			</ul>
+		</nav>
+			</div>
+
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2907-6054" data-object-json="{&quot;title&quot;:&quot;iPhone 'Bendgate' Is Apple's Mea Culpa&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+
+	</div><!-- .comments_collection -->
+		</div>
+	</section>
+
+
+	<div class="speed_bump">
+
+		<section class="row">
+		<div id="grv-personalization-13-1412388884490"></div>
+			<script type='text/javascript'>
+			  //<![CDATA[
+			    (function(){
+			    var containerId = "grv-personalization-13-1412388884490";
+			    window.gravityInsightsParams = {
+			      'type': 'content',
+			      'action': '',
+			      'site_guid': 'df51572e4a248537619f3b6b11928388'
+			    };
+			    var adServerReq,bUrl,cburl,doUseGravityUserGuid,includeJs,jq,pfurl,type,ug,wlPrefix,wlUrl,_ref,_ref1,_ref2;includeJs=function(a){var b;b=document.createElement("script");b.async=!0;b.src=a;a=document.getElementsByTagName("script")[0];return a.parentNode.insertBefore(b,a)};bUrl="";ug=(doUseGravityUserGuid=!0===gravityInsightsParams.useGravityUserGuid?1:0)?"":gravityInsightsParams.user_guid||(null!=(_ref=/grvinsights=([^;]+)/.exec(document.cookie))?_ref[1]:void 0)||"";
+			    wlUrl=(wlPrefix="https:"===location.protocol?"https://secure-api.gravity.com/v1/api/intelligence":"http://rma-api.gravity.com/v1/api/intelligence",jq=(null!=(_ref1=window.jQuery)?null!=(_ref2=_ref1.fn)?_ref2.jquery:void 0:void 0)||"",type="iframe",adServerReq=gravityInsightsParams.ad||"",cburl=gravityInsightsParams.cburl||"",pfurl=gravityInsightsParams.pfurl||"",""+wlPrefix+"/wl?jq="+jq+"&sg="+gravityInsightsParams.site_guid+"&ug="+ug+"&ugug="+doUseGravityUserGuid+"&id="+containerId+"&pl=13"+
+			    ("&type="+type+"&ad="+adServerReq+"&cburl=")+encodeURIComponent(cburl)+"&pfurl="+encodeURIComponent(pfurl)+("&x="+(new Date).getTime())+("undefined"!==typeof forceArticleIds&&null!==forceArticleIds&&forceArticleIds.join?"&ai="+forceArticleIds.join(","):"")+("undefined"!==typeof apids&&null!==apids&&""!==apids?"&apids="+encodeURIComponent(apids):""));bUrl&&includeJs(bUrl);wlUrl&&(window.gravityInsightsParams.sidebar&&(window.gravityInsightsParams.wlStartTime=(new Date).getTime()),includeJs(wlUrl));})();
+			  //]]>
+			</script>
+	</section>
+
+	</div> <!-- .speed_bump -->
+
+
+	<!--start:gigya_settings-->
+	<div class="gigya_settings" style="display:none;">
+		<div class="gigya_shortLink" data-value="http://onforb.es/1pspXBG"></div>
+		<div class="gigya_canonicalLink" data-value="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/"></div>
+		<div class="gigya_title" data-value='{&quot;generic&quot;:&quot;iPhone &#39;Bendgate&#39; Is Apple&#39;s Mea Culpa - Forbes&quot;,&quot;twitter&quot;:&quot;iPhone &#39;Bendgate&#39; Is Apple&#39;s Mea Culpa&quot;}'></div>
+		<div class="gigya_cid" data-value="blogAndPostId/blog/post/2907-6054"></div>
+		<div class="gigya_buttonContainerPrefixArray" data-value="gigya_share_button,gigya_inline_share_button"></div>
+		<div class="gigya_counterContainerPrefixArray" data-value="gigya_share_counter,gigya_inline_share_counter"></div>
+		<div class="gigya_counterDisplayArray" data-value="tall,medium"></div>
+		<div class="gigya_grecobarEnabled" data-value="false"></div>
+		<div class="gigya_twitterVia" data-value="forbes"></div>
+		<div class="gigya_twitterHashtags" data-value=""></div>
+		<div class="gigya_twitterRelated" data-value="forbes,@gordonkelly"></div>
+	</div>
+	<!--end:gigya_settings-->
+
+		<!--end:ajax_content_inner-->
+
+		<!-- must appear once on the page -->
+		<div id="contentad9177"></div>
+
+	</div><!-- .article_container.container -->
+
+	<!--sticky_sharing-->
+    <div class="sticky_sharing_bg"></div>
+    <div data-sharing-url="http://www.forbes.com/sites/gordonkelly/2014/09/24/iphone-6-plus-bendgate/" data-sharing-native="true" class="sticky_sharing sticky_sharing_v2" style="display:none;">
+        <div class="share_tab">
+            <div class="share_icon" data-icon="s"></div>
+            <div class="share_count">Share</div>
+        </div>
+        <div class="control_wrapper">
+            <div class="position_reference">
+                <div class="label">
+                    Share this page
+                </div>
+                <div class="controls">
+
+	<!-- Gigya Share divs for gigya_share_button and gigya_share_counter -->
+
+	<div class="share_option">
+		<div class="gy gigyacounter facebook gigya_share_counter" id="gigya_share_counter_facebook"></div><div class="box-bottom"></div>
+		<div class="gigya_share_button-facebook" id="gigya_share_button_facebook"></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter twitter gigya_share_counter" id="gigya_share_counter_twitter"></div><div class="box-bottom"></div>
+		<div class="gy gigyabutton twitter gigya_share_button-twitter" id="gigya_share_button_twitter"></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter linkedin gigya_share_counter" id="gigya_share_counter_linkedin"></div><div class="box-bottom"></div>
+		<div class="gy gigyabutton linkedin gigya_share_button-linkedin" id="gigya_share_button_linkedin"></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter reddit gigya_share_counter" id="gigya_share_counter_reddit" ></div><div class="box-bottom"></div>
+		<div class="gy gigyabutton reddit gigya_share_button-reddit" id="gigya_share_button_reddit" ></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter google gigya_share_button-google" id="gigya_share_button_google" ><div id="gigya_share_button_inner_google" ></div></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter stumbleupon gigya_share_counter" id="gigya_share_counter_stumbleupon"></div><div class="box-bottom"></div>
+		<div class="gy gigyabutton stumbleupon gigya_share_button-stumbleupon" id="gigya_share_button_stumbleupon"></div>
+	</div>
+
+	<div class="share_option gigya_inline_share_button-email_gig_containerParent">
+		<div class="gigya_inline_share_button-email_icon" id="gigya_inline_share_button_email_icon"></div>
+		<div class="gigya_inline_share_button-email" id="gigya_inline_share_button_email"></div>
+	</div>
+                </div>
+            </div>
+        </div>
+    </div><!-- .sticky_sharing_v2 -->
+
+	<div class="loading_spinner_holder" id="page_loading_spinner">
+		<div id="pagespinner"></div>
+	</div>
+
+        
+<footer class="universal-footer">
+	<div class="footer-center">
+
+		<!-- END EDITORIAL PROMOTIONS -->
+
+		<section class="lower-footer-links clearfix">
+
+
+			<div class="channels">
+				<ul data-et-context="footer" data-et-location="footernav" class="edittools-list">
+					<li class="home">
+						<a href="http://www.forbes.com/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Forbes</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="14" data-et-location="footernav" data-et-item-type="topic">
+						<a href="http://www.forbes.com/business/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Business</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="7" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/investing/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Investing</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="8" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/technology/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Technology</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="13" data-et-location="footernav" data-et-item-type="topic">
+						<a href="http://www.forbes.com/entrepreneurs/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Entrepreneurs</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="9" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/opinion/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Op/Ed</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="10" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/leadership/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Leadership</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="11" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/lifestyle/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Lifestyle</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="12" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/lists/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Lists</a>
+					</li>
+				</ul>
+			</div>
+
+
+			<div class="conferences footer-list fleft">
+				<h5><a href="http://www.forbes.com/conferences/">Conferences</a></h5>
+
+				<ul data-et-context="footer" data-et-location="footerconferences" class="edittools-list">
+
+						<li class="editable edittools-item" data-et-item_id="15" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/under30-2014.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Under 30 Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="16" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://forbesglobalceoconference.com/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Global CEO Conference</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="14" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/cio-2014.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes CIO Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="1" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/cmo-2014.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes CMO Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="11" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/ReinventingAmerica-Indy.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Reinventing America: The Innovation Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="3" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/healthcare-2014.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Healthcare Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="5" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2015/ReinventingAmerica-Chicago.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Reinventing America Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="8" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/sites/forbespr/2014/07/09/forbes-and-svg-partners-will-host-forbes-reinventing-america-the-agtech-summit-july-2015-in-salinas-valley/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Reinventing America: The AgTech Summit</a>
+	        			</li>
+				</ul>
+			</div>
+			<div class="products_newsletter footer-list fleft">
+				<h5>Education</h5>
+				<ul>
+					<li><a href="http://www.ashford.edu/degrees/online/business.htm/" target="_blank" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Forbes School of Business at Ashford University</a></li>
+				</ul>
+
+				
+
+			<!-- <div class="products_newsletter footer-list fleft">  -->
+				<h5><a href="http://www.newsletters.forbes.com/">Newsletters</a></h5>
+
+				<ul data-et-context="footer" data-et-location="footernewsletters" class="edittools-list">
+
+						<li class="editable edittools-item" data-et-item_id="1" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/newsletters/forbes-investor/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Investor</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="2" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="https://www.specialsituationsurvey.com/newsletters/sss/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Special Situation Survey</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="3" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/newsletters/forbes-dividend-investor/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Dividend Investor</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="5" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/newsletters/forbes-premium-income-report/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Premium Income Report</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="6" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="http://onforb.es/1dK9tEh" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Investing Newsletters</a>
+	        			</li>
+				</ul>
+			<!-- </div> -->
+				
+			</div>		
+
+			<div class="company-info footer-list fleft">
+				<h5>Products</h5>
+
+				<ul data-et-context="footer" data-et-location="footerproducts" class="edittools-list">
+
+						<li class="editable edittools-item" data-et-item_id="3" data-et-location="footerproducts" data-et-item-type="link">
+	            			<a href="https://www.forbesid.com/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Identity Protection</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="4" data-et-location="footerproducts" data-et-item-type="link">
+	            			<a href="http://www.forbesmagazine.com/newsfeeds/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Newsfeeds</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="5" data-et-location="footerproducts" data-et-item-type="link">
+	            			<a href="http://forbesreprints.magreprints.com/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Reprints & Permissions</a>
+	        			</li>
+				</ul>
+				
+				<h5>Company Info</h5>
+				<ul>
+					<li><a href="http://www.forbesmedia.com/" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Advertise</a></li>
+					<li><a href="http://www.forbes.com/sites/forbespr/" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click" class="exit_trigger_set ga_tracked">Forbes Press Room</a></li>
+					<li><a href="https://www2.apply2jobs.com/forbes/" target="_blank" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Forbes Careers</a></li>
+					<li><a href="http://www.forbes.com/fdc/contact.html" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Contact Us</a></li>
+					<li><a href="http://www.forbes.com/fdc/sitemap.html" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Sitemap</a></li>
+					<li><a href="http://blogs.forbes.com/help/" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Help</a></li>
+				</ul>
+			</div>
+				<div class="publications fleft">
+			<div class="clearfix">
+           		<a href="http://www.forbes.com/forbes" data-ga-event="Footer,LinkFollowed,magazine" data-ga-event-trigger="click" class="exit_trigger_set ga_tracked"><img src="http://images.forbes.com/media/current_covers/forbes_120x160.jpg" alt="Forbes Magazine"></a>
+            	<a href="http://www.forbes.com/forbes-life-magazine" data-ga-event="Footer,LinkFollowed,magazine" data-ga-event-trigger="click" class="exit_trigger_set ga_tracked"><img src="http://images.forbes.com/media/current_covers/forbeslife_120x160.jpg" alt="ForbesLife"></a>
+            	<a href="http://www.forbes.com/forbesasia/" data-ga-event="Footer,LinkFollowed,magazine" data-ga-event-trigger="click" class="exit_trigger_set ga_tracked"><img src="http://images.forbes.com/media/current_covers/forbesasia_120x160.jpg" alt="ForbesAsia"></a>
+            </div>
+				
+				<ul class="subscriptions">
+					<ul data-et-context="footer" data-et-location="footermagazine" class="edittools-list">
+							<li class="editable edittools-item" data-et-item_id="6" data-et-location="footermagazine" data-et-item-type="link">
+	            				<a href="https://subs.forbesmagazine.com/servlet/OrdersGateway?cds_mag_code=FRB&cds_page_id=150007" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">2 Free Issues</a>
+	        				</li>
+							<li class="editable edittools-item" data-et-item_id="4" data-et-location="footermagazine" data-et-item-type="link">
+	            				<a href="http://www.forbesmagazine.com/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Subscriber Services</a>
+	        				</li>
+							<li class="editable edittools-item" data-et-item_id="5" data-et-location="footermagazine" data-et-item-type="link">
+	            				<a href="https://subs.forbesmagazine.com/loc/FRB/IZEG101" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Gift Subscription</a>
+	        				</li>
+					</ul>
+				</ul>
+
+				<div class="affiliate-sites">
+					<ul>
+						<li><a href="http://www.forbeschina.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes China</a></li>
+						<li><a href="http://www.forbesindia.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes India</a></li>
+						<li><a href="http://www.forbes.co.il/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Israel</a></li>
+						<li><a href="http://www.forbes.com.mx/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Mexico</a></li>
+						<li><a href="http://www.forbesmiddleeast.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Middle East</a></li>
+					</ul>
+					<ul>
+						<li><a href="http://www.forbes.pl/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Poland</a></li>
+						<li><a href="http://www.forbes.ro/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Romania</a></li>
+						<li><a href="http://www.forbesrussia.ru/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Russia</a></li>
+						<li><a href="http://forbesmagazine.es/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Spain</a></li>
+					</ul>
+					<ul>
+						<li><a href="http://www.realclear.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear</a></li>
+						<li><a href="http://www.realclearpolitics.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear Politics</a></li>
+						<li><a href="http://www.realclearmarkets.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear Markets</a></li>
+						<li><a href="http://www.realclearworld.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear World</a></li>
+						<li><a href="http://www.realclearsports.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear Sports</a></li>
+					</ul>
+				</div>
+			</div>
+
+        </section>
+
+		
+		<section class="legalese clearfix">
+			<small>2014 Forbes.com LLC&#153; &nbsp; All Rights Reserved</small>
+			<ul>
+				<li><a href="/terms" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Terms and Conditions</a></li>
+				<li><a href="http://www.forbes.com/fdc/privacy.html" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Privacy Statement</a></li>
+				<li><a href="http://corporate.morningstar.com/us/asp/subject.aspx?xmlfile=5501.xml" target="_blank" data-ga-event="Footer,LinkFollowed,partner" data-ga-event-trigger="click">Market Data by Morningstar</a></li>
+				<li><a onclick="(function(){forbes.event_tracking.track_ga_event(['Footer','LinkFollowed','partner']);var s=document.createElement('script');s.src='http://preferences.truste.com/js/buildJsFilev2.jsp?domain=forbes.com&amp;type=epref';s.onreadystatechange=function(){if(script.readyState=='loaded'||script.readyState=='complete'){view(trusteId);}};s.onload=function(){view(trusteId);};document.getElementsByTagName('head')[0].appendChild(s);})()" style="cursor:pointer;" target="_blank">AdChoices</a></li>
+			</ul>
+		</section>
+	</div>
+</footer>
+
+<!-- Start: footer assets -->
+
+<!--@foot.populate footer_data=pageData.footerData! /-->
+        <script type="text/javascript">
+            //<![CDATA[
+                var ppi_AjaxURI = '/wp-admin/admin-ajax.php'
+                	,imagesBaseCdn = 'http://i.forbesimg.com'
+					,followBarLocation = 'channel_3'; 
+            //]]>
+        </script>
+    <!--Start: Gigya Configs-->
+        <script type="text/javascript">
+            var gigya_conf = {
+                siteName: 'forbes.com',
+                APIkey: '3_8Fcn29ZQ5lcRRr8BsC6Y2q8eRKPl567JTM6IWXsqW4eqW57_fNx29GDl9YdzZLvH',
+                connectWithoutLoginBehavior: 'alwaysLogin',
+                enabledProviders: 'facebook,twitter,linkedin,googleplus,yahoo,messenger,wordpress,aol,blogger,openid,foursquare,typepad'
+            };
+
+            (function() {
+				var po = document.createElement('script');
+				po.type = 'text/javascript';
+				//po.async = true;
+				po.src = 'http://cdn.gigya.com/js/socialize.js?apiKey=3_8Fcn29ZQ5lcRRr8BsC6Y2q8eRKPl567JTM6IWXsqW4eqW57_fNx29GDl9YdzZLvH';
+
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(po, s);
+			})();
+
+			(function() {
+				var po = document.createElement('script');
+				po.type = 'text/javascript';
+				//po.async = true;
+				po.src = 'http://cdn.gigya.com/js/gigyaGAIntegration.js';
+
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(po, s);
+			})();
+        </script>
+    <!--End: Giya Configs -->
+	<script type="text/javascript">
+		var google_tag_channel = "tech,business";
+		var google_tag_section = "tech:mobile,business:powering productivity";
+		var google_tag_swimlane = "";
+		var google_tag_specialslot = "";
+		var google_tag_article_special_slot = "";
+		var google_tag_display_channel = "technology";
+		var google_tag_display_section = "";
+		var google_tag_zone = "article-new";
+		var google_tag_article_id = "blogAndPostId/blog/post/2907-6054";
+	</script>
+		<script type="text/javascript" src="http://i.forbesimg.com/scripts/combined/js/global.f8a7171d037be437df925c263f993ecd24694cc2.js"></script>
+		<script type="text/javascript" src="http://i.forbesimg.com/scripts/combined/js/article-responsive.485f3ed6bcb0df03dc3d2010f0f59a268d0f50d0.js"></script>
+<span class="lazy_load_js" data-files="http://i.forbesimg.com/scripts/combined/js/globallazy.8da0470d609bcf7bc1c2f94a0826d4b633a62b6a.js"></span>
+    <script type="text/javascript">
+        forbes.bootstrap.init();
+    </script>
+
+
+    <script type="text/javascript">
+        if ( typeof window.JSON === 'undefined' ) {
+            document.write('<script src="http://i.forbesimg.com/assets/js/core/jquery.json-2.2.js"><\/script>');
+        }
+    </script>
+<!-- End: footer assets -->
+
+<div class="current_page_threshold"></div>
+
+</body>
+</html>

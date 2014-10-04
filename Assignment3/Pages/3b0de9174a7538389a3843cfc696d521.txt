@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="Take the pledge and make a personal commitment to help keep women and men safe from sexual assault.">
+        <meta property="og:title" content="Its On Us">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="http://itsonus.org/">
+        <meta property="og:image" content="http://itsonus.org/assets/images/share_image.jpg">
+        <meta property="og:site_name" content="Its On Us">
+        <meta property="og:description" content="Take the pledge and make a personal commitment to help keep women and men safe from sexual assault.">
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+        <meta name="description" content="Take the pledge and make a personal commitment to help keep women and men safe from sexual assault.">
+        <meta name="keywords" content="itsonus, its on us, sexual assault prevent prevention, sexual assault prevention campaign, sexual assault prevention ads">
+        <link rel="canonical" href="http://itsonus.org/">
+        <link rel="shortcut icon" type="image/ico" href="favicon.ico" />
+        <link rel="stylesheet" href="/assets/css/style.css">
+    </head>
+
+    <body>
+
+        <div class="container">
+            <nav>
+                <div class="center">
+                    <a class="tLink_pledge" href="#" data-link="pledge">TAKE THE PLEDGE</a>
+                    <a class="tLink_videos" href="#" data-link="videos">watch the videos</a>
+                    <a class="tLink_tools" href="#" data-link="tools">get the tools</a>
+                    <a class="tLink_partners" href="#" data-link="partners">meet the partners</a>
+                    <a class="tLink_donate ext_link" href="#" data-link="top">donate</a>
+                    <!-- <a class="tLink_donate ext_link" href="https://act1.myngp.com/Forms/990863066065797888" target="_blank">donate</a> -->
+                </div>
+                <p class="hashtag">#ItsOnUs</p>
+            </nav>
+
+            <a href="#" class="hamburger">
+                <div></div>
+                <div></div>
+                <div></div>
+            </a>
+
+            <div class="rightNav">
+                <a href="#" data-link="pledge"  class="pledge_dot active">
+                    <span>THE PLEDGE</span>
+                </a>
+                <a href="#" data-link="videos" class="videos_dot">
+                    <span>THE VIDEOS</span>
+                </a>
+                <a href="#" data-link="tools" class="tools_dot">
+                    <span>THE TOOLS</span>
+                </a>
+                <a href="#" data-link="partners" class="partners_dot">
+                   <span>THE PARTNERS</span> 
+                </a>
+            </div>
+
+            <div class="sm_logo_hider id0" >
+                <a data-link="top" href="#" id="logo_pledge1" class="sm_logo white">HOME</a>
+            </div>
+            <div class="sm_logo_hider id1" >
+                <a data-link="top" href="#" id="logo_pledge2" class="sm_logo green">HOME</a>
+            </div>
+            <div class="sm_logo_hider id2" >
+                <a data-link="top" href="#" id="logo_video" class="sm_logo teal">HOME</a>
+            </div>
+            <div class="sm_logo_hider id3" >
+                <a data-link="top" href="#" id="logo_tool1" class="sm_logo yellow">HOME</a>
+            </div>
+            <div class="sm_logo_hider id4" >
+                <a data-link="top" href="#" id="logo_tool2" class="sm_logo teal">HOME</a>
+            </div>
+            <div class="sm_logo_hider id5" >
+                <a data-link="top" href="#" id="logo_partner" class="sm_logo orange">HOME</a>
+            </div>
+            <div class="sm_logo_hider id6" >
+                <a data-link="top" href="#" id="logo_pledge" class="sm_logo white">HOME</a>
+            </div>
+
+
+            <div class="landing section">
+                <p class="disclaimer">If you've experienced sexual assault, <br>please visit: <a href="https://www.notalone.gov/" target="_blank">www.notalone.gov</a> for resources</p>
+
+                <div class="logo"></div>
+
+                <h2>to stop sexual assault</h2>
+
+                <a href="#landing" class="scroll" data-link="landing">SCROLL <div class="arrowDown"></div></a>
+
+                <div class="vertBar"></div>
+
+                <div class="col right">
+                    <div class="bullets">
+                        <p>To <span>recognize</span> that non-consensual sex is sexual assault.</p>
+                        <p>To <span>identify</span> situations in which sexual assault may occur.</p>
+                        <p>To <span>intervene</span> in situations where consent has not or cannot be given.</p>
+                        <p>To <span>create</span> an environment in which sexual assault is unacceptable and survivors are supported.</p>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            <div class="pledge section">
+                <div class="col left">
+                    <h2 class="sectionTitle white">THE PLEDGE</h2>
+                    <p>This pledge is a personal commitment to help keep women and men safe from sexual assault.<br><br>
+                        It is a promise not to be a bystander to the problem, but to be a part of the solution.</p>
+                </div>
+
+                <div class="col right">
+                    <h2 class="sectionTitle blue">the PLEDGE</h2>
+
+                    <div class="bullets">
+                        <div class="insideBorder toplt"></div>
+                        <div class="insideBorder toprt"></div>
+                        <div class="insideBorder lt"></div>
+                        <div class="insideBorder rt"></div>
+                        <div class="insideBorder btm"></div>
+
+                        <h3 class="title">I PLEDGE</h3>
+
+                        <p>To <span>recognize</span> that non-consensual sex is sexual assault.</p>
+                        <p>To <span>identify</span> situations in which sexual assault may occur.</p>
+                        <p>To <span>intervene</span> in situations where consent has not or cannot be given.</p>
+                        <p>To <span>create</span> an environment in which sexual assault is unacceptable and survivors are supported.</p>
+                    </div>
+
+                    <a href="#" data-link="pledge_open" class="takePledge">Take the Pledge <div class="arrowDown"></div></a>
+                </div>
+
+                <div class="bottom_layer">
+                    <div class="header-section"></div>
+                    <h2 class="sectionTitle gray">THE PLEDGE</h2>
+
+                    <div class="boxBtm boxShadow"></div>
+
+                    <div class="middle">
+
+                        <div class="borderBtm"></div>
+
+                        <div class="centered">
+                            <div class="left_section desktopVisible">
+                                <form action="POST">
+                                    <input type="text" class="basic1_fname" placeholder="First Name">
+                                    <input type="text" class="basic1_lname" placeholder="Last Name">
+                                    <input type="email" class="basic1_email" placeholder="Email Address">
+                                    <input type="text" class="basic1_zip" placeholder="Zip Code">
+
+                                    <p class="inSchool">IN SCHOOL?</p>
+                                    <input type="text" class="basic1_school" placeholder="School Name (OPTIONAL)">
+                                    <div class="basic_agree basic1_agree">
+                                        <div class="checkbox"><div></div><div></div></div>
+                                        <p>I agree to the <a href="#pledge_open" class="terms">Terms of Use</a> and acknowledge the <a href="#pledge_open" class="privacy">Privacy Policy</a>. I also acknowledge that my name will be publicly displayed in conjunction with the Pledge.</p>
+                                    </div>
+
+                                    <a href="#pledge_open" class="takePledge_email tpe1">TAKE THE PLEDGE</a>
+                                </form>
+                            </div>
+
+                            <div class="separator desktopVisible">
+                                <div class="bar"></div>
+                                <p>OR</p>
+                                <div class="bar"></div>
+                            </div>
+
+                            <div class="right_section desktopVisible">
+                                <p class="top_text">Turn your profile photo into an <span>It's On Us</span> badge to show<br>your pledged commitment to helping stop sexual assault.</p>
+
+                                <div class="eq">
+                                    <img src="assets/images/equation.png" alt="Create Your Own Badge">
+                                </div>
+
+                                <div class="pledgeSocialLinks">
+                                    <a href="#pledge_open" class="takePledge_fb fblogin">Take the pledge on <span>fb</span></a>
+                                    <a href="#pledge_open" class="takePledge_twt twitlogin">Take the pledge on <span>twt</span></a>
+                                </div>
+
+                                <p class="bottom_text">(Don't worry &mdash; you'll get to preview first)</p>
+                            </div>
+
+                            <div class="mobileEmail desktopHidden">
+                                <div class="left_section">
+                                    <form action="POST">
+                                        <input type="text" class="basic2_fname" placeholder="First Name">
+                                        <input type="text" class="basic2_lname" placeholder="Last Name">
+                                        <input type="email" class="basic2_email" placeholder="Email Address">
+                                        <input type="text" class="basic2_zip" placeholder="Zip Code">
+
+                                        <p class="inSchool">IN SCHOOL?</p>
+                                        <input type="text" class="basic2_school" placeholder="School Name (OPTIONAL)">
+                                        <div class="basic_agree basic2_agree">
+                                            <div class="checkbox"><div></div><div></div></div>
+                                            <p>I agree to the <a href="#pledge_open" class="terms">Terms of Use</a> and acknowledge the <a href="#pledge_open" class="privacy">Privacy Policy</a>. I also acknowledge that my name will be publicly displayed in conjunction with the Pledge.</p>
+                                        </div>
+
+                                        <a href="#pledge_open" class="takePledge_email tpe2">TAKE THE PLEDGE</a>
+                                    </form>
+                                </div>
+
+                                <div class="separator">
+                                    <div class="bar"></div>
+                                    <p class="or">OR</p>
+                                    <div class="bar"></div>
+                                    <p class="scroll_cta">Scroll to take pledge on Facebook or Twitter</p>
+                                </div>
+
+                                <div class="right_section">
+                                    <p class="top_text">Turn your profile photo into an <span>It's On Us</span> badge to show<br> your pledged commitment to helping stop sexual assault.</p>
+
+                                    <div class="eq">
+                                        <img src="assets/images/equation.png" alt="Create Your Own Badge">
+                                    </div>
+
+                                    <div class="pledgeSocialLinks">
+                                        <a href="#pledge_two" class="takePledge_fb fblogin">Take the pledge on <span>fb</span></a>
+                                        <a href="#pledge_two" class="takePledge_twt twitlogin">Take the pledge on <span>twt</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            <div class="videos section">
+                <div class="videoSlider">
+                    <div class="video firstVideo visible">
+                        <a href="#videos" class="play">span</a>
+                        <div class="iframeCont" id="videoContainer1"></div>
+                    </div>
+                    <div class="video secondVideo preview">
+                        <a href="#videos" class="play ign_click preview">span</a>
+                        <div class="iframeCont" id="videoContainer2"></div>
+                    </div>
+                </div>
+
+                <div class="video_links">
+                    <a class="active firstVideoLink" href="#videos"><span>First</span></a>
+                    <a class="secondVideoLink" href="#videos"><span>Second</span></a>
+                </div>
+
+                <h2 class="sectionTitle white">THE VIDEOS</h2>
+
+                <a href="#videos" class="close">Close<div></div><div></div></a>
+            </div>
+
+
+
+
+            <div class="tools section">
+                <div class="tools_tips toolCont">
+                    <div class="header-container">
+                        <h2 class="sectionTitle white">the tools</h2>
+                    </div>
+                    <div class="body-container">
+                        <div class="tipsCont">
+
+                            <div class="tip">
+                                <h4>tip no. 1</h4>
+                                <p>Talk to your friends honestly and openly about sexual assault.</p>
+                            </div>
+
+                            <div class="tip">
+                                <h4>tip no. 2</h4>
+                                <p>Don't just be a bystander - if you see something, intervene in any way you can.</p>
+                            </div>
+
+                            <div class="tip">
+                                <h4>tip no. 3</h4>
+                                <p>Trust your gut. If something looks like it might be a bad situation, it probably is.</p>
+                            </div>
+
+                            <div class="tip">
+                                <h4>tip no. 4</h4>
+                                <p>Be direct. Ask someone who looks like they may need help if they're okay.</p>
+                            </div>
+
+                            <div class="tip">
+                                <h4>tip no. 5</h4>
+                                <p>Get someone to help you if you see something - enlist a friend, RA, bartender, or host to help step in.</p>
+                            </div>
+
+                            <div class="tip">
+                                <h4>tip no. 6</h4>
+                                <p>Keep an eye on someone who has had too much to drink.</p>
+                            </div>
+
+                            <div class="tip">
+                                <h4>tip no. 7</h4>
+                                <p>If you see someone who is too intoxicated to consent, enlist their friends to help them leave safely.</p>
+                            </div>
+
+                            <div class="tip">
+                                <h4>tip no. 8</h4>
+                                <p>Recognize the potential danger of someone who talks about planning to target another person at a party.</p>
+                            </div>
+
+                            <div class="tip">
+                                <h4>tip no. 9</h4>
+                                <p>Be aware if someone is deliberately trying to intoxicate, isolate, or corner someone else.</p>
+                            </div>
+
+                            <div class="tip">
+                                <h4>tip no. 10</h4>
+                                <p>Get in the way by creating a distraction, drawing attention to the situation, or separating them.</p>
+                            </div>
+
+                            <div class="tip">
+                                <h4>tip no. 11</h4>
+                                <p>Understand that if someone does not or cannot consent to sex, it's rape.</p>
+                            </div>
+
+                            <div class="tip">
+                                <h4>tip no. 12</h4>
+                                <p class="sm">Never blame the victim.</p>
+                            </div>
+
+                            <div class="tip">
+                                <h4>tip no. 13</h4>
+                                <p class="lg">If you are a victim or survivor, or helping someone in that situation go to <a href="https://www.notalone.gov/" target="_blank">notalone.gov</a> to get the resources and information you need. You can also call the National Sexual Assault Hotline at 1.800.656.HOPE</p>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="footer-container">
+                    </div>
+                </div>
+
+
+                <div class="tools_download toolCont">
+                    <div class="header-container download">
+                        <h2 class="sectionTitle dk_gray">Spread the word</h2>
+                    </div>
+
+                    <div class="body-container download">
+
+                        <div class="spreadCont ign_scroll">
+                            <div class="spreadSlide ign_scroll">
+                                <div class="col left getTheShirt ign_scroll">
+                                    <img src="assets/images/tools/getTheShirt.jpg" alt="GET THE T-SHIRT">
+                                    <img class="hidden" src="assets/images/tools/getTheShirt_m.jpg" alt="GET THE T-SHIRT">
+                                    <a class="orderHere" href="https://www.booster.com/itsonus?ref=itsonus" target="_blank">ORDER HERE</a>
+                                </div>
+                                <div class="col right shirtImg ign_scroll"></div>
+                            </div>
+
+                            <div class="spreadSlide ign_scroll">
+                                <div class="col left makeVideo ign_scroll">
+                                    <img src="assets/images/tools/makePersonalVideo.jpg" alt="MAKE A PERSONAL VIDEO">
+                                </div>
+                                <div class="col right celebVideosCont ign_scroll">
+                                    <img class="hidden" src="assets/images/tools/makePersonalVideo_m.png" alt="MAKE A PERSONAL VIDEO">
+
+                                    <div class="celebVideos ign_scroll">
+                                        <a href="http://youtu.be/eFSaCeWrBb8" target="_blank"><div class="playBtn"></div>Video</a>
+                                        <a href="http://youtu.be/AJSuiIF3yn4" target="_blank"><div class="playBtn"></div>Video</a>
+                                        <a href="http://youtu.be/IEslO7zXuns" target="_blank"><div class="playBtn"></div>Video</a>
+                                        <a href="http://youtu.be/9tknZk3X3HU" target="_blank"><div class="playBtn"></div>Video</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="spreadSlide ign_scroll">
+                                <div class="col left joinCampaign ign_scroll">
+                                    <img src="assets/images/tools/joinCampaign.jpg" alt="JOIN THE CAMPAIGN">
+                                </div>
+                                <div class="col right toolkit ign_scroll">
+                                    <img class="hidden" src="assets/images/tools/joinCampaign_m.jpg" alt="JOIN THE CAMPAIGN">
+
+                                    <a href="assets/files/ItsOnUs_CampaignOrganizingTools.pdf" target="_blank" class="downloadKit">Download the campaign organizing tools for campuses &amp; organizations</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="footer-container download">
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            <div class="partners section">
+                <h2 class="sectionTitle white">the partners</h2>
+
+                <div class="header-section"></div>
+
+                <div class="row partner_logo ign_scroll">
+                    <div class="logos ign_scroll">
+
+                        <div class="partnersSlide ign_scroll">
+                            <div class="slide ign_scroll">
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/aauw.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/bet.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/big_12_network.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/big_ten.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/booster.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/clearchannel.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/cmt.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/college_humor.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/conversant.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/custom_ink.png" alt="IT'S ON US" class="column"></div>
+                            </div>
+
+                            <div class="slide ign_scroll">
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/ea.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/easports.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/everfi.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/generation_progress.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/iheart.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/mekanism.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/men_can_stop_rape.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/mtv.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/mtv_lookdifferent.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/ncaa.png" alt="IT'S ON US" class="column"></div>
+                            </div>
+
+                            <div class="slide ign_scroll">
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/nclc.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/newsweek.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/nwlc.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/oncampusmedia.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/ourtime.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/pac12.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/parkpictures.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/participant_media.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/pvblic_foundation.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/rainn.png" alt="IT'S ON US" class="column"></div>
+                            </div>
+
+                            <div class="slide ign_scroll">
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/sbnation.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/spiketv.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/the_mill.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/tumblr.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/ultraviolet.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/usa_cu.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/usoc.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/verifonemedia.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/vh1.png" alt="IT'S ON US" class="column"></div>
+                                <div class="imgCont ign_scroll"><img src="assets/images/partners/viacom.png" alt="IT'S ON US" class="column"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="pledgersList section">
+                <div class="colorBox one"></div>
+                <div class="colorBox two"></div>
+                <div class="colorBox three"></div>
+                <div class="colorBox four"></div>
+                <div class="colorBox five"></div>
+                <div class="pledgers_header">
+                    <h3 class="caps">It's on all of us to stop sexual assult</h3>
+                    <h3 class="second_line">The following people have taken the pledge:</h3>
+
+                </div>
+                
+                <ul class="infinite_scroller"></ul>
+            </div>
+
+
+            <div class="footer">
+                <div class="left_logos">
+                    <a class="generation" href="http://genprogress.org/" target="_blank">GENERATION PROGRESS</a>
+                    <a class="mekanism" href="http://mekanism.com/" target="_blank">MEKANISM</a>
+                    <a class="four" href="http://www.14four.com/" target="_blank">14FOUR</a>
+                </div>
+
+                <div class="right_logos">
+                    <a href="#footer" class="text_link terms">Terms of Use</a>
+                    <a href="http://www.americanprogress.org/about/state-notices/" class="text_link state" target="_blank">State Notices</a>
+                    <a href="mailto:contact@itsonus.org" class="text_link contact">Contact Us</a>
+                    <p class="hashtag">#ItsOnUs</p>
+                </div>
+            </div>
+
+
+
+
+            <div class="modal_bg">
+                <img src="assets/images/loader.png" alt="Loading" class="loadingImg">
+
+                <div class="modal email_modal">
+                    <a href="#" class="close">Close<div></div><div></div></a>
+
+                    <div class="scrollable">
+                        <div class="email_content">
+                            <p class="title">Thank you for your commitment<br> to stopping sexual assault.</p>
+
+                            <p class="top_text">Turn your profile photo into an <span>It's On Us</span> badge to show<br> your pledged commitment to helping stop sexual assault.</p>
+
+                            <div class="eq">
+                                <img src="assets/images/equation.png" alt="Create Your Own Badge">
+                            </div>
+
+                            <div class="pledgeSocialLinks">
+                                <a href="#" class="takePledge_fb fblogin">Take the pledge on <span>fb</span></a>
+                                <a href="#" class="takePledge_twt twitlogin">Take the pledge on <span>twt</span></a>
+                            </div>
+
+                            <p class="bottom_text">(Don't worry &mdash; you'll get to preview first)</p>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="modal facebook_modal">
+                    <a href="#" class="close">Close<div></div><div></div></a>
+
+                    <div class="scrollable">
+                        <img class="profile_preview">
+
+                        <div class="modal_right">
+                            <p class="modal_headline">Pledge on Facebook</p>
+                            <p>We'll add your new profile image to a new album called<br> <span>It's On Us</span> and post this image to your timeline:</p>
+                            <!--<textarea name="fb_text" class="facebook_text" placeholder="Add text..."></textarea>-->
+
+                            <!--
+                            <div class="social_example">
+                                <img src="">
+                                <div class="text">
+                                    <p class="example_headline">I took the pledge to help stop sexual assault.</p>
+                                    <p>
+                                        It's on all of us to stop sexual assault. I took the pledge to be part of the solution and you can too at ItsOnUs.org  #ItsOnUs<br>
+                                        <br>
+                                        www.ItsOnUs.org
+                                    </p>
+                                </div>
+                            </div>
+                            -->
+
+                            <div class="facebook_agree agree">
+                                <div class="checkbox"><div></div><div></div></div>
+                                <p>I agree to the <a href="#" class="terms">Terms of Use</a> and acknowledge the <a href="#" class="privacy">Privacy Policy</a>. I also acknowledge<br>
+                                that my name will be publicly displayed in conjunction with the Pledge.</p>
+                            </div>
+                            <input type="text" name="first" placeholder="First Name" class="facebook_fname">
+                            <input type="text" name="last" placeholder="Last Name" class="facebook_lname">
+                            <input type="text" name="school" placeholder="School Name (OPTIONAL)" class="facebook_school">
+                            <input type="text" name="zip" placeholder="Zip code" class="facebook_zip">
+                            <input type="email" name="email" placeholder="Please enter email address" class="facebook_email">
+
+                            <div class="pledgeSocialLinks">
+                                <a href="#" class="takePledge_fb fbupload">Take the pledge on <span>fb</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="modal twitter_modal">
+                    <a href="#" class="close">Close<div></div><div></div></a>
+
+                    <div class="scrollable">
+                        <img class="profile_preview">
+
+                        <div class="modal_right">
+                            <p class="modal_headline">Pledge on Twitter</p>
+                            <p>When you take the pledge we will:</p>
+
+                            <ul>
+                                <li>Overlay your profile photo</li>
+                                <li>Tweet this message on your behalf:</li>
+                            </ul>
+
+                            <p class="twitter_message">It's on all of us to stop sexual assault. I took the pledge to be part of the solution and you can too at itsonus.org #ItsOnUs</p>
+
+                            <div class="twitter_agree agree">
+                                <div class="checkbox"><div></div><div></div></div>
+                                <p>I agree to the <a href="#" class="terms">Terms of Use</a> and acknowledge the <a href="#" class="privacy">Privacy Policy</a>. I also acknowledge<br>
+                                that my name will be publicly displayed in conjunction with the Pledge.</p>
+                            </div>
+
+                            <input type="text" name="first" placeholder="First Name" class="twitter_fname">
+                            <input type="text" name="last" placeholder="Last Name" class="twitter_lname">
+                            <input type="text" name="school" placeholder="School Name (OPTIONAL)" class="twitter_school">
+                            <input type="text" name="zip" placeholder="Zip code" class="twitter_zip">
+                            <input type="email" name="email" placeholder="Please enter email address" class="twitter_email">
+
+                            <div class="pledgeSocialLinks">
+                                <a href="#" class="takePledge_twt twitupload">Take the pledge on <span>twt</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="modal thanksfacebook_modal thanks">
+                    <a href="#" class="close">Close<div></div><div></div></a>
+
+                    <div class="scrollable">
+                        <div class="modal-inner-container">
+                            <img class="profile_preview">
+
+                            <div class="modal_right">
+                                <h2>Thank You</h2>
+                                <p class="modal_headline">
+                                    <span>For your commitment to</span>
+                                    <span>stopping sexual assault</span>
+                                </p>
+                                <p>We've added the new image to an album in your Facebook account called <span>It's On Us</span>.</p>
+                                <p>Facebook doesn't allow us to set this image as your profile picture &mdash; that's something you've got to do yourself.</p>
+
+                                <div class="pledgeSocialLinks">
+                                    <a href="#" target="_blank" class="takePledge_fb setprofile">Set profile pic <span>fb</span></a>
+                                    <a href="#" class="takePledge_twt twitlogin">Add to Twitter as well? <span>twt</span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="modal thankstwitter_modal thanks">
+                    <a href="#" class="close">Close<div></div><div></div></a>
+
+                    <div class="scrollable">
+                        <div class="modal-inner-container">
+                            <img class="profile_preview">
+
+                            <div class="modal_right">
+                                <h2>Thank You</h2>
+                                <p class="modal_headline">
+                                    <span>For your commitment to</span>
+                                    <span>stopping sexual assault</span>
+                                </p>
+
+                                <!-- <div class="pledgeSocialLinks">
+                                    <a href="#" class="takePledge_fb fblogin">Add to Facebook as well? <span>fb</span></a>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="modal terms_modal">
+                    <a href="#" class="close">Close<div></div><div></div></a>
+
+                    <div class="scrollable">
+                        <div class="logo_container">
+                            <div class="logo"></div>
+                        </div>
+                        <div class="copy_container">
+                            <p>It's On Us is a project of Generation Progress, itself a project of the Center for American Progress.</p>
+                            <p>To view our Terms of Use, <a href="http://genprogress.org/about/terms-of-use/" target="_blank">click here.</a></p>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="modal privacy_modal">
+                    <a href="#" class="close">Close<div></div><div></div></a>
+
+                    <div class="scrollable">
+                        <div class="logo_container">
+                            <div class="logo"></div>
+                        </div>
+                        <div class="copy_container">
+                            <p>It's On Us is a project of Generation Progress, itself a project of the Center for American Progress.</p>
+                            <p>To view our Privacy Policy, <a href="http://www.americanprogress.org/about/c3-privacy-policy/" target="_blank">click here.</a></p>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="modal donate_modal">
+                    <a href="#" class="close">Close<div></div><div></div></a>
+
+                    <div class="scrollable">
+                        <div class="logo_container">
+                            <div class="logo"></div>
+                        </div>
+                        <div class="copy_container">
+                            <p>Information coming soon on how to support It's On Us and other organizations working to end sexual assault on college campuses.</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div> <!-- end modal_bg -->
+        </div> <!-- end container -->
+
+        <div class="site_hider"></div>
+        
+        <canvas id="canvas" width="300" height="300"></canvas>
+
+        <div id="fb-root"></div>
+
+        <script src="/assets/js/vendor.js"></script>
+        <script src="/assets/js/app.min.js"></script>
+
+        <script>
+
+            // Init the SDK upon load
+            window.fbAsyncInit = function() {
+              FB.init({
+                appId      : '948953111788235', // App ID
+                channelUrl : '//'+window.location.hostname+'/channel.html', // Path to your Channel File
+                status     : true, // check login status
+                cookie     : true, // enable cookies to allow the server to access the session
+                xfbml      : true  // parse XFBML
+              });
+              IOU.Main.initFacebook();
+            };
+        </script>
+
+        <script>
+            // Load the SDK Asynchronously
+            (function(d){
+               var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+               if (d.getElementById(id)) {return;}
+               js = d.createElement('script'); js.id = id; js.async = true;
+               js.src = "//connect.facebook.net/en_US/all.js";
+               ref.parentNode.insertBefore(js, ref);
+             }(document));
+        </script>
+
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');    
+            ga('create', 'UA-54733102-1', 'auto');
+            ga('send', 'pageview');
+        </script>
+
+        <img src="http://media.fastclick.net/w/tre?ad_id=32725;evt=25731;cat1=35807;cat2=35808;rand=6545154" width="1" height="1" border="0">
+
+    </body>
+</html>

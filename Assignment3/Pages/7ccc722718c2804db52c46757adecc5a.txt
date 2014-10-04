@@ -1,0 +1,1046 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+	<meta name="WT.qs_dlk" content="VC9XLArIZ2IAABvKXLcAAAAR"/>
+
+	<meta name="WT.qs_shmv" content="lv20140820-shania.sf.quinstreet.net"/>
+	<meta http-equiv="Set-Cookie" content="WMUUID=VC9XLArIZ2IAABvKXLcAAAAR; path=/;   domain=developer.com;"/>
+
+	<meta name="inject_params" content="WT.qs_dlk=VC9XLArIZ2IAABvKXLcAAAAR&"/>
+
+	<meta http-equiv="Set-Cookie" content="inject_params=WT.qs_dlk=VC9XLArIZ2IAABvKXLcAAAAR&; path=/;   domain=developer.com;"/>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> -->
+	<TITLE>Programming with Member References in NetBeans 8 - Developer.com</TITLE>
+	<META NAME="description" CONTENT="Explore new compact expression styles introduced in Java 8 together with lambdas, collectively known as &quot;member references.&quot;">
+	<META NAME="keywords" CONTENT="Java 8, NetBeans, lambda expressions ">
+		<meta name="articleKey" content="175775010">
+		    <meta name='qs.quad.keywords'  content='{keywords:"107860,939113|939073,96480,96470|95910|95850",nodes:"107860,939073,939113"}'>
+	<script language="javascript" src="http://e1.cdn.qnsr.com/cgi/b/107860,939113/939073,96480,96470/95910/95850/tx.js"></script>
+    	<META NAME="authors" CONTENT="">
+	<META NAME="date" CONTENT="20140915">
+	<META NAME="channel" CONTENT="developer">
+	<LINK REL="canonical" HREF="http://www.developer.com/java/programming-with-member-references-in-netbeans-8.html" />
+		<META NAME="robots" CONTENT="INDEX,FOLLOW">
+		
+<script type="text/javascript">
+	(function() {
+		var useSSL = 'https:' == document.location.protocol;
+		var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+		document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+	})();
+</script>
+
+<script type="text/javascript">
+	var myBrowserWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+
+	function getDFPCookie(cname) {
+		var name = cname + "=";
+		var ca = document.cookie.split(';');
+		for (var i = 0; i < ca.length; i++) {
+			var c = ca[i].replace(/^\s+|\s+$/g, '');
+			if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+		}
+		return "";
+	}
+
+	var myWTDLK = getDFPCookie('WMUUID');
+	
+	eval(function(p,a,c,k,e,d){e=function(c){return c};if(!''.replace(/^/,String)){while(c--){d[c]=k[c]||c}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('0 2=1(\'2\');0 3=1(\'3\');0 6=1(\'6\');0 4=1(\'4\');0 5=1(\'5\');',7,7,'var|getDFPCookie|dn|jf|ir|noer|dr'.split('|'),0,{}));
+
+		googletag.defineSlot('/5055/b2b/dev/developer/ciu', [[600,200],[300,200]], 'ciu-1')
+						.addService(googletag.pubads()).setTargeting('pos', 'top');
+		googletag.defineSlot('/5055/b2b/dev/developer/imu', [[300,250],[300,600]], 'imu-1')
+						.addService(googletag.pubads()).setTargeting('pos', 'top');
+		googletag.defineSlot('/5055/b2b/dev/developer/imu', [[300,250],[300,600]], 'imu-2')
+						.addService(googletag.pubads()).setTargeting('pos', 'mid');
+		googletag.defineSlot('/5055/b2b/dev/developer/lb', [728,90], 'lb-1')
+						.addService(googletag.pubads()).setTargeting('pos', 'top');
+		googletag.defineSlot('/5055/b2b/dev/developer/lb', [728,90], 'lb-2')
+						.addService(googletag.pubads()).setTargeting('pos', 'low');
+		googletag.defineOutOfPageSlot('/5055/b2b/dev/developer/wa', 'wa-1')
+			.addService(googletag.pubads());
+		googletag.defineOutOfPageSlot('/5055/b2b/dev/developer/hero', 'hero-1')
+			.addService(googletag.pubads());
+
+		googletag.pubads().setTargeting('kw', ['Java 8', 'NetBeans', 'lambda expressions ']);
+		googletag.pubads().setTargeting('tax', ['development programming languages java', 'purchase stage awareness', 'purchase stage evaluation', 'development open source software development', 'development platform framework java']);
+		googletag.pubads().setTargeting('path', ['java', 'programming-with-member-references-in-netbeans-8.html']);
+		googletag.pubads().setTargeting('articlekey', '175775010');
+		googletag.pubads().setTargeting('pagetype', 'other');
+		googletag.pubads().setTargeting('url', 'http://www.developer.com/java/programming-with-member-references-in-netbeans-8.html');
+		if (myBrowserWidth < 641) {
+			googletag.pubads().setTargeting('pfm', 'mob');
+		} else {
+			googletag.pubads().setTargeting('pfm', 'des');
+		}
+		googletag.pubads().setTargeting('env', 'prod');
+		googletag.pubads().setTargeting('wtdlk', '' + myWTDLK + '');
+
+
+		eval(function(p,a,c,k,e,d){e=function(c){return c};if(!''.replace(/^/,String)){while(c--){d[c]=k[c]||c}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('0(5!=\'\'&&5!=\'2\'){1.3().4(\'5\',\'\'+5+\'\')}0(6!=\'\'&&6!=\'2\'){1.3().4(\'6\',\'\'+6+\'\')}0(9!=\'\'&&9!=\'2\'){1.3().4(\'9\',\'\'+9+\'\')}0(7!=\'\'&&7!=\'2\'){1.3().4(\'7\',\'\'+7+\'\')}0(8!=\'\'&&8!=\'2\'){1.3().4(\'8\',\'\'+8+\'\')}',10,10,'if|googletag|null|pubads|setTargeting|dn|jf|ir|noer|dr'.split('|'),0,{}))
+
+		googletag.pubads().enableSingleRequest();
+		googletag.pubads().collapseEmptyDivs();
+		googletag.pubads().enableSyncRendering();
+		googletag.disablePublisherConsole();
+
+		googletag.enableServices();
+</script>
+
+<script type="text/javascript">
+	var n_imu = 0;
+	var n_lb = 0;
+	var n_sky = 0;
+	var n_hero = 0;
+	var n_wa = 0;
+	var n_ciu = 0;
+	var n_siteskin = 0;
+	var n_button = 0;
+	var n_qmp = 0;
+	var n_m_lb = 0;
+	var n_m_imu = 0;
+	var n_m_hero = 0;
+	var n_st = 0;
+	
+	function displayDFPTag(tag) {
+		var this_tag_pos = 0;
+
+		if (tag.match(/^sponsor-logo.*/)) {
+			var temp = tag.split(":");
+			tag = temp[0];
+			this_tag_pos = temp[1];
+		}
+		
+		switch (tag) {
+			case "imu":
+				this_tag_pos = ++n_imu;
+				break;
+			case "lb":
+				this_tag_pos = ++n_lb;
+				break;
+			case "sky":
+				this_tag_pos = ++n_sky;
+				break;
+			case "hero":
+				this_tag_pos = ++n_hero;
+				break;
+			case "wa":
+				this_tag_pos = ++n_wa;
+				break;
+			case "ciu":
+				this_tag_pos = ++n_ciu;
+				break;
+			case "siteskin":
+				this_tag_pos = ++n_siteskin;
+				break;
+			case "button":
+				this_tag_pos = ++n_button;
+				break;
+			case "qmp":
+				this_tag_pos = ++n_qmp;
+				break;
+			case "m_lb":
+				this_tag_pos = ++n_m_lb;
+				break;
+			case "m_imu":
+				this_tag_pos = ++n_m_imu;
+				break;
+			case "m_hero":
+				this_tag_pos = ++n_m_hero;
+				break;
+			case "sponsor-logo":
+				break;
+			case "st":
+				this_tag_pos = ++n_st;
+				break;
+			default:
+				return "<!-- QS-DFP: Unknown tag '" + tag + "' requested -->";
+		}
+
+		var this_tag_div_id = tag + "-" + this_tag_pos;
+
+		tag_code = 	"<div id='" + this_tag_div_id + "'>\n" +
+					"	<scr" + "ipt type='text/javascript'>\n" +
+					"		googletag.display('" + this_tag_div_id + "');\n" +
+					"	</scr" + "ipt>\n" +
+					"</div>\n";
+
+		return tag_code;
+	}
+	
+	function refreshDFPTags() {
+		googletag.pubads().refresh();
+	}
+	
+	function hideQSDiv(element_id) {
+		if (document.getElementById) {
+			document.getElementById(element_id).style.visibility = "hidden";
+			document.getElementById(element_id).innerHTML = "";
+		}
+	}
+</script>		<link rel="icon" type="image/x-icon" href="http://www.developer.com/favicon.ico">
+
+	<meta name="application-name" content="Developer.com" />
+	<meta name="msapplication-tooltip" content="The Flagship of The Developer.com Network" />
+	<meta name="msapplication-starturl" content="http://www.developer.com/" />
+		<link href="/stylesheets/styles.css" rel="stylesheet" type="text/css" />
+	<link href="/stylesheets/comments.css" rel="stylesheet" type="text/css" />
+	<link href="/stylesheets/syntaxhighlighter/shCoreDefault.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+	<script type="text/javascript" src="/javascripts/common.js" ></script>
+	<script type="text/javascript" src="/javascripts/tabs.js" ></script>
+	<script type="text/javascript" src="/javascripts/article_menu.js" ></script>
+	<script type="text/javascript" src="/javascripts/hot_topics.js" ></script>
+	<script type="text/javascript" src="/javascripts/iepngfix_tilebg.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shCore.js" ></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushAppleScript.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushAS3.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushBash.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushColdFusion.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushCpp.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushCSharp.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushCss.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushDelphi.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushDiff.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushErlang.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushGroovy.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushJava.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushJavaFX.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushJScript.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushPerl.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushPhp.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushPlain.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushPowerShell.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushPython.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushRuby.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushSass.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushScala.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushSql.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushVb.js"></script>
+	<script type="text/javascript" src="/javascripts/syntaxhighlighter/shBrushXml.js"></script>
+	<script type="text/javascript">SyntaxHighlighter.all();</script>
+
+	<style rel="stylesheet" type="text/css">
+		h2, h3, h4 { font-size: 1.2em; }
+	</style>
+
+<meta name="cache-creation-time" content="Fri Oct 3 18:29:16 PDT 2014" /></head>
+    <script>
+    window.webtrendsAsyncInit=function(){
+	var dcs=new Webtrends.dcs().init({
+	    dcsid:"dcs38irdn10000g0vc4171yva_9y7z",
+	    domain:"www.qsstats.com",
+	    timezone:-8,
+	    i18n:true,
+	    offsite:true,
+	    download:true,
+	    downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx,rar,gzip",
+	    anchor:true,
+	    javascript: true,
+	    onsitedoms:"developer.com",
+	    fpcdom:".developer.com",
+	    plugins:{
+		//hm:{src:"//s.webtrends.com/js/webtrends.hm.js"}
+	    }
+	    }).track();
+    };
+    (function(){
+	var s=document.createElement("script"); s.async=true; s.src="/imageserver/common/v10/webtrends.js";    
+	var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
+    }());
+    </script>
+    <noscript><img alt="dcsimg" id="dcsimg" width="1" height="1" src="//www.qsstats.com/dcs38irdn10000g0vc4171yva_9y7z/njs.gif?dcsuri=/index.php/java/programming-with-member-references-in-netbeans-8.html&amp;WT.js=No&amp;WT.tv=10.4.1&amp;dcssip=www.developer.com&amp;WT.qs_dlk=VC9XLArIZ2IAABvKXLcAAAAR&"/></noscript>
+
+<body>
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "17199065" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=17199065&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!------ QUAD_AD 'interstitial' begin ------>
+<!-- QS-AD: 'wa' start -->
+<script language="JavaScript">
+	var my_tag = displayDFPTag("wa");
+	document.write(my_tag);
+</script>
+<!-- QS-AD: 'wa' end --><!------ QUAD_AD 'interstitial' end ------>
+<div id="EntNetPlanet" class="wrapBody">
+<!DOCTYPE html>
+<style type="text/css">
+<!--
+body { margin: 0; padding: 0;}
+.brandLogo a img { border: none;}
+.globalHeader { font: 100%/1.4 Arial, Helvetica, sans-serif; height: 25px; background-color: #111; background-image: url(/icom_includes/toolbars/globaltoolbar/img/header-bg.jpg); background-repeat: repeat-x;	background-position: center top;}
+.globalHeader .brandLogo { padding: 4px 0 0 .5em; float: left; }
+.globalHeader .brandLogo p { color: #666; font-family: Arial, sans-serif; font-size: 11px; padding: 0; margin: 0;}
+.globalHeader .login-register { text-align: right; padding: 4px .5em 0 .5em; /*float: right;*/}
+.globalHeader .login-register img{ cursor:pointer;}
+.globalHeader .logout { text-align: right;  }
+.globalHeader .logout .greeting span{ color: #797979; font-family: Arial, sans-serif; font-size: 13px; padding: 0; margin: 0;}
+.globalHeader .logout .greeting a{ color: #797979 !important; font-family: Arial, sans-serif; padding: 0; font-size: 13px; margin: 0;}
+.logout-link img{ cursor:pointer;margin-top:3px; margin-right:5px;}
+.clearfloat { clear:both; height:0;	font-size: 1px;	line-height: 0px;}
+-->
+</style>
+<div class="globalHeader" id="ITBE-ACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="ITBE-NonACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="Developer.com-ACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="Developer.com-NonACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="Developer.com-CustomToolbar" style="display:none;">
+</div>
+<div class="globalHeader" id="developerBrandForum" style="display:none;">
+</div>
+<div class="globalHeader" id="itbeBrandForum-CustomToolbar" style="display:none;">
+</div>
+<div class="globalHeader" id="itbeBrandForum" style="display:none;">
+</div>
+<div class="globalHeader" id="ZDE-ACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="ZDE-NonACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="BASELINE-ACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="BASELINE-NonACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="CINSIDER-ACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="CINSIDER-NonACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="CIOINSIGHT-ACLHeader" style="display:none;"> 
+</div>
+<div class="globalHeader" id="CIOINSIGHT-NonACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="EWEEK-ACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="EWEEK-NonACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="WBG-ACLHeader" style="display:none;">
+</div>
+<script language="Javascript" src="/icom_includes/toolbars/globaltoolbar/scripts/brandingcode_new.js"></script>
+<div id="header" class="dimMain">
+        <div class="logo">
+        <a href="/"><img src="/images0/developer_oldcolor.gif" width="304px" height="60px" border="0"/></a></div>
+    <div class="searchForm">
+        <form action="/search/result" id="cse-search-box">
+            <div style="width:344px;">
+                <input type="hidden" name="cx" value="partner-pub-8768004398756183:5787481041"/>
+                <input type="hidden" name="cof" value="FORID:10"/>
+                <input type="hidden" name="ie" value="UTF-8"/>
+                <input type="text" name="q" size="55" class="inputBox"/>
+                <button id="btnSearch" type="submit" name="sa" style="cursor:pointer; margin-left: 5px; vertical-align:middle; margin-bottom:18px; "></button>
+            </div>
+        </form>
+        <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+    </div>
+    <div style="margin-top:27px;">
+        <div style="float:left;padding-left: 10px;">
+                        <iframe src="http://www.facebook.com/plugins/like.php?href=http://www.developer.com/java/programming-with-member-references-in-netbeans-8.html&amp;layout=button_count&amp;show_faces=false&amp;width=250&amp;action=like&amp;colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:80px; height:25px; margin-top:5px; margin-bottom: 0px"></iframe>
+        </div>
+        <div style="float: left; margin: 4px;">
+            <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.developer.com/" data-count="horizontal" data-via="DeveloperCom" data-text="Developer.com: Technical Information for Software Developers" data-size="small" ></a>
+            <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        </div>
+        <div style="float: left; margin: 4px;">
+            <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+            <g:plusone size="medium"></g:plusone>
+        </div>
+    </div>
+</div>
+
+<div id="headerBottomNav" class="dimMain">
+    <div class="deep_blue">
+        <ul class="myMenu">
+                            <!--<li><a href="/" class="first">Developer</a> </li>-->
+                <li><a href="/java/" class="first">Java</a></li>
+                        <li><a href="/net/" class="first">Microsoft &amp; .NET</a></li>
+            <li id="wsHead" onMouseOver="setVisibility('ws', 'inline');" onMouseOut="setVisibility('ws','none');">
+                <a href="/ws/" class="sec">Mobile</a></li>
+            <li><a href="/ws/android/" class="sec">Android</a></li>
+            <li><a href="/open/" class="first">Open Source</a></li>
+            <li><a href="/services/" class="sec">Cloud</a></li>
+            <li><a href="/db/" class="first">Database</a></li>
+            <li><a href="/design/" class="first">Architecture</a></li>
+            <li><a href="/lang/" class="first">Other</a>
+                <ul>
+                    <li><a href="/project-center/cloud-development">Cloud Center</a></li>
+                    <li><a href="/mgmt/">Project Management</a></li>
+                    <li><a href="/lang/php/">PHP</a></li>
+                    <li><a href="/lang/perl/">Perl</a></li>
+                    <li><a href="/lang/rubyrails">Ruby</a></li>
+                    <li><a href="/lang/">Other Languages</a></li>
+                    <li><a href="/white_papers/">White papers</a></li>
+                </ul>
+            </li>
+            <!--<li><a href="/security/" class="sec">Security</a></li>
+            <li><a href="/mgmt/" class="sec">Project Management</a></li> -->
+            <li><a href="/research" class="sec"><span style="color:red;">NEW:</span> Research Center</a></li>
+        </ul>
+    </div>
+</div>
+<div style="float: left; width: 100%;">
+    				<div style="float: left;">
+				<div id="date_holder" class="clearfix">
+					<div class="date">October 3, 2014</div>
+					<div class="topic">
+						<span class="title">Hot Topics:</span>
+						<div id="hot_topics"><a href="#" class="prev">prev</a>
+							<div class="topics_list">
+								<div class="gr_l"></div>
+								<div class="list">
+									<ul>
+																			</ul>
+								</div>
+								<div class="gr_r"></div>
+							</div>
+						<a href="#" class="next">next</a></div>
+						<script type="text/javascript">
+							initHotTopics(document.getElementById("hot_topics"));
+						</script>
+					</div>
+				</div>
+				</div>
+    <div style="float: left;">
+	<form action="http://e-newsletters.developer.com/accountManagement" method="post" name="sub2nl">
+		<div class="newsletter_holder">Free Newsletters :
+			<select name="NLALKeys[]" class="dropdown">
+				<option value="1423" selected>Enterprise Development Update</option>
+				<option value="1463">Java/Open Source Update</option>
+				<option value="1473">Microsoft Tech Update</option>
+				<option value="1543">Web Development Update</option>
+			</select>
+			<a href="javascript:void(0);" onclick="document.forms['sub2nl'].submit(); return false;" class="button"><img src="/images0/search_button.png" alt="" width="29" height="26" border="0" /></a>
+		</div>
+	</form>
+</div>
+    <div style="margin-top: 8px;">
+        <a href="http://www.developer.com/java/dev-java-10.rss" class="rss" title="rss feed" style="margin-right: 5px; vertical-align: top;">
+            <span style="font-size: 12px; font-weight: bold; padding-left: 5px;">RSS</span>
+            <span style="padding-left: 1px;">
+                <img src="/images0/feed-icon-14x14.png" width="14px" height="14px" alt="RSS feed" style="vertical-align: middle;">
+            </span>
+        </a>
+        <a target="_blank" href="http://www.devreader.com/">
+            <img border="0" title="Download our iPhone app" alt="Download our iPhone app" src="/images0/DR25x25.png">
+        </a>
+    </div>
+</div>
+	<div class="vspace"></div>
+	<div class="adsBox ads5">
+	<!-- QS-AD: 'lb' start -->
+<script language="JavaScript">
+	var my_tag = displayDFPTag("lb");
+	document.write(my_tag);
+</script>
+<!-- QS-AD: 'lb' end -->	</div>
+	<div id="content">
+		<div class="col clearfix" style="width: 955px">
+			<div class="colLeft dimMainLeft">
+								<div id="breadcumb"  class="clearfix">
+					<div class="colLeft">
+														<div class="bread_left"><a href="/">Developer.com</a></div>
+													<div class="bread_mid"><a href="/java">Java</a></div>
+												<div class="bread_right"></div>
+					</div>
+					<div class="colRight">
+												<a href="/java/archives" class="more">Read More in Java &raquo;</a>
+											</div>
+				</div>
+				<div class="vspace"></div>
+				<div class="clearfix">
+					<!-- QS-AD: 'ciu' start -->
+<script language="JavaScript">
+	var my_tag = displayDFPTag("ciu");
+	document.write(my_tag);
+</script>
+<!-- QS-AD: 'ciu' end -->					<div class="colLeft">
+					</div>
+					<div class="colRight">
+					</div>
+				</div>
+				<div class="article">
+					<h1>Programming with Member References in NetBeans 8</h1>
+					  
+					<div class="author colLeft">
+						<ul class="noBullets">
+							<li>September 15, 2014</li>
+							<!-- begin authors -->
+							<li>
+							By Developer.com Staff							</li>
+							<!-- end authors -->
+							<!-- begin author image -->
+							<!-- at this point we don't support author image in CE -->
+							<!-- end author image -->
+							<!-- being bio -->
+														<!-- end bio -->
+																					<li><a href="/feedback/java/programming-with-member-references-in-netbeans-8.html">Send Email &raquo;</a></li>
+																					<!-- begin moreURL -->
+														<!-- end moreURL -->
+						</ul>
+						<div class="retweet">
+	<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+					</div>
+					<p>By <strong>Walter Nyland</strong></p>
+<p>&nbsp;</p>
+<p>Lambdas, introduced in Java 8, have provoked such a storm of discussion, translated into new books, articles, and further research, that their more compact cousins appear to have been left standing somewhat forlornly along the sidelines. This article will discuss these new compact expression styles introduced in Java 8 together with lambdas, collectively known as "member references", which are either "method references" or "constructor references." Migrating from lambdas to member references should be exactly your piece of cake if you like your code even sparser and even more devoid of ceremony than the code that lambdas leave you with in cutting back the boilerplate from your Java code.</p>
+
+<div id="olal-container">
+<script language="javascript" src="http://www.developer.com/sl/assetlisting/?wsn=www.developer.com&amp;wpu=/&amp;lurl=http://o1.qnsr.com/cgi/r?WT.qs_dlk=VC9XLArIZ2IAABvKXLcAAAAR;;;n=203;c=1397070;s=9487;x=7936;f=201309171321110;u=j;z=TIMESTAMP;k=http://www.developer.com/ebooks&amp;wpos=onelineassetlisting&amp;lyt=l6&css=http://www.developer.com/css/onePaidAsset.css&wi=19737410"></script>
+</div>
+<div style="clear:both;"></div>
+
+<p>When you compare it to human speech, member references are somewhat like dropping the majority of the letters of words and, instead, referring to them by the one or two letters that you know your hearer understands to refer to complete words known to both parties. At first, this mode of speaking is extremely dense and almost like a dialect in itself. However, once familiarized with it, devoid of verbosity, conversation can be extremely quick and to the point.</p>
+
+<div class="toolbox noBullets colRight">
+	<ul>
+		<li class="comment"><a rel="nofollow" href="#comment_form"><nobr>Post a comment</nobr></a></li>
+				<li class="email"><a rel="nofollow" href="/e-mail/java/programming-with-member-references-in-netbeans-8.html">Email Article</a></li>
+						<li class="print"><a rel="nofollow" href="/print/java/programming-with-member-references-in-netbeans-8.html">Print Article</a></li>
+				<li id="toolBoxShareMenu" class="share">
+			<img height="16" width="16" class="icon" alt="" src="/images0/icon_share.gif"/> <a rel="nofollow" href="#">Share Articles</a><img src="/images0/arrow_down_red.gif" width="9px" height="9px"/>
+			<div class="shareSubMenu">
+				<span class="top"><span></span></span>
+					<ul>
+						<li><a href="javascript:void(0)" onclick="javascript:window.open('http://digg.com/submit?phase=2&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title)+'&bodytext=&topic=');"><img src="/images0/icon_diggthis.gif" alt="" width="16" height="16" border="0" class="icon" /> Digg</a></li>
+						<li><a href="javascript:void(0)" onclick="javascript:window.open('http://del.icio.us/post?v=4&noui&jump=close&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title));"><img src="/icom_includes/socialnetworking/img/icon_delicious.gif" alt="" width="16" height="16"  border="0" class="icon" /> del.icio.us</a></li>
+						<li><a href="javascript:void(0)" onclick="javascript:window.open('http://slashdot.org/slashdot-it.pl?op=basic&url='+encodeURIComponent(location.href));"><img src="/icom_includes/socialnetworking/img/icon_slashdot.gif" alt="" width="16" height="16"  border="0" class="icon" /> Slashdot</a></li>
+						<li><a href="javascript:void(0)" onclick="javascript:window.open('http://www.dzone.com/links/add.html?url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title));"><img src="/icom_includes/socialnetworking/img/icon_dzone.gif" alt="" width="16" height="16" border="0" class="icon" /> DZone</a></li>
+						<li><a href="javascript:void(0)" onclick="javascript:window.open('http://reddit.com/submit?url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title));"><img src="/icom_includes/socialnetworking/img/icon_reddit.gif" alt="" width="16" height="16"  border="0" class="icon" /> Reddit</a></li>
+						<li><a href="javascript:void(0)" onclick="javascript:window.open('http://www.stumbleupon.com/submit?url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title));"><img src="/icom_includes/socialnetworking/img/icon_stumbleit.gif" alt="" width="16" height="16"  border="0" class="icon" /> StumbleUpon</a></li>
+						<li><a href="javascript:void(0)" onclick="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(location.href));"><img src="/icom_includes/socialnetworking/img/icon_facebook.gif" alt="" width="16" height="16"  border="0" class="icon" /> Facebook</a></li>
+						<li><a href="javascript:void(0)" onclick="javascript:window.open('http://friendfeed.com/?url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title));"><img src="/icom_includes/socialnetworking/img/icon_friendfeed.gif" alt="" width="16" height="16" border="0" class="icon" /> FriendFeed</a></li>
+						<li><a href="javascript:void(0)" onclick="javascript:window.open('http://www.furl.net/storeIt.jsp?t='+encodeURIComponent(document.title)+'&u='+encodeURIComponent(location.href));"><img src="/icom_includes/socialnetworking/img/icon_furl.gif" alt="" width="16" height="16" border="0" class="icon" /> Furl</a></li>
+
+						<li><a href="javascript:void(0)" onclick="javascript:window.open('http://www.newsvine.com/_wine/save?popoff=1&u='+encodeURIComponent(location.href),'newsvine','toolbar=no,width=590,height=600,resizable=yes,scrollbars=yes');"><img src="/icom_includes/socialnetworking/img/icon_seednewsvine.gif" alt="" width="16" height="16" class="icon" /> Newsvine</a></li>
+						<li><a href="javascript:void(0)" onclick="javascript:window.open('http://www.google.com/bookmarks/mark?op=edit&bkmk='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title));"><img src="/icom_includes/socialnetworking/img/icon_google.gif" alt="" width="16" height="16" class="icon" /> Google</a></li>
+						<li><a href="javascript:void(0)" onclick="javascript:window.open('http://www.linkedin.com/shareArticle?mini=true&ro=true&url='+encodeURIComponent(location.href)+'&source='+encodeURIComponent(document.title));"><img src="/icom_includes/socialnetworking/img/icon_linkedin.gif" alt="" width="16" height="16" class="icon" /> LinkedIn</a></li>
+						<li><a href="javascript:void(0)" onclick="javascript:window.open('http://www.myspace.com/Modules/PostTo/Pages/?u='+encodeURIComponent(location.href)+'&t='+encodeURIComponent(document.title));"><img src="/icom_includes/socialnetworking/img/icon_myspace.jpg" alt="" width="16" height="16" class="icon" /> MySpace</a></li>
+						<li><a href="javascript:void(0)" onclick="javascript:window.open('http://www.technorati.com/faves?add='+encodeURIComponent(location.href));"><img src="/icom_includes/socialnetworking/img/icon_technorati.gif" alt="" width="16" height="16" class="icon" /> Technorati</a></li>
+						<li><a href="javascript:void(0)" onclick="javascript:window.open('http://twitter.com/home?status='+encodeURIComponent(location.href));"><img src="/icom_includes/socialnetworking/img/icon_twitter.gif" alt="" width="16" height="16" class="icon" /> Twitter</a></li>
+						<li><a href="javascript:void(0)" onclick="javascript:window.open('http://buzz.yahoo.com/submit?urlsubmission-input='+encodeURIComponent(location.href)+'&submitHeadline='+encodeURIComponent(document.title));"><img src="/icom_includes/socialnetworking/img/icon_yahoo.gif" alt="" width="16" height="16" class="icon" /> YahooBuzz</a></li>
+
+					</ul>
+				<span class="bottom"><span></span></span>
+			</div>
+		</li>
+	</ul>
+</div>
+		<script type="text/javascript">
+			initArticleMenu(document.getElementById("toolBoxShareMenu"));
+		</script>
+<p>Ignoring tools where they exist to simplify learning is foolish. Taking NetBeans IDE as a guide to learning about member references is a logical path to take because the same team of developers implementing member references in Java have provided the related code analyzers in NetBeans IDE.</p>
+<p>We begin by looking at <em>method</em> references, after which we deal with <em>constructor</em> references.</p>
+<h2>Method References</h2>
+<p>To begin learning about method references, let's take as a point of departure the <tt>Greeting</tt> class, shown below. It has two different kinds of methods, a static factory method <tt>createGreeting</tt> and an overridden instance method <tt>toString</tt>. Via method references in Java 8, we can learn how to refer to these two methods in new ways to initialize variables with them, to pass them around, and to execute them.</p>
+<p><img alt="NB01" height="270" src="/imagesvr_ce/4105/NB01.png" width="448" /></p>
+<div class="colLeft dimRelatedArticles_Ads">
+	<div class="section relatedArticles">
+		<div class="sectionHeader">
+			<h3>Related Articles</h3>
+		</div>
+		<div class="sectionContent">
+			<ul>
+				<li><a href="/java/new-core-features-in-java-8.html">New Core Features in Java 8</a></li>
+				<li><a href="/java/start-using-java-lambda-expressions.html">Start Using Java Lambda Expressions</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<p><strong>Code segment 1</strong></p>
+<p>Member references, like lambdas, operate specifically in the context of functional interfaces, the concept of which also is new in Java 8. The familiar <tt>Runnable</tt> class and the <tt>ActionListener</tt> have, retrospectively, been functional interfaces all along because they each provide a single abstract method. Java 8 comes with new functional operations, two of which we will use to illustrate the relevance of member references in this article:</p>
+<ul>
+<li><strong>java.util.function.Function&lt;P,R&gt;:</strong> The Function interface&nbsp;represents a method that receives a parameter of type "P" and returns a result of type "R".</li>
+<li><strong>java.util.function.Supplier&lt;R&gt;:</strong> The Supplier interface represents a method that receives no parameters and returns a result of type "R".</li>
+</ul>
+<p>Below you see an implementation of the <tt>Function</tt> interface making use of the <tt>Greeting</tt> class shown above. When a parameter of type <tt>String</tt> is received, the <tt>Function</tt> returns a result of type <tt>Greeting</tt> by referring to its method <tt>createGreeting</tt>. In NetBeans IDE, notice the yellow underline and the yellow lightbulb in the left sidebar, informing you that the IDE is aware of a better way to express the <tt>Function</tt> implementation. It is not wrong to use anonymous inner classes in Java 8 and therefore, as you can see below, no red error mark is shown and no compiler error will occur. However, NetBeans IDE, via the yellow lightbulb, is able to offer to help you make the optional conversion to either lambda expressions or, in this case, because reference is made to the method <tt>createGreeting</tt>, to method references.</p>
+<p><img alt="NB02" height="273" src="/imagesvr_ce/6495/NB02.png" width="600" /></p>
+<p><strong>Code segment 2</strong></p>
+<p>When you press Alt-Enter or click the lightbulb, the IDE shows that the anonymous inner class can either be expressed as a lambda expression or as a member reference.</p>
+<p><img alt="NB03" height="262" src="/imagesvr_ce/7297/NB03.png" width="600" /></p>
+<p><strong>Code segment 3</strong></p>
+<p>By invoking the proposal to let the IDE convert the anonymous class to a lambda expression, the following code is automatically created for you.</p>
+<p><img alt="NB04" height="166" src="/imagesvr_ce/4733/NB04.png" width="600" /></p>
+<p><strong>Code segment 4</strong></p>
+<p>Lambda expressions are discussed in our previous article <a href="http://www.developer.com/java/programming-with-lambdas-in-netbeans-8.html">Programming with Lambdas in NetBeans 8</a>, so we will not discuss them again here, because we're only using them here to contrast them with member references. However, note that an alternative, slightly more verbose but possibly more readable, style for stating the lambda expression is offered, too, as shown below.</p>
+<p><img alt="NB05" height="167" src="/imagesvr_ce/214/NB05.png" width="600" /></p>
+<p><strong>Code segment 5</strong></p>
+<p>Here is the result of writing the lambda expression as a block, where a <tt>return</tt> statement declares the right side of the lambda expression more clearly, but less succinctly than in the default lambda expression.</p>
+<p><img alt="NB06" height="260" src="/imagesvr_ce/5993/NB06.png" width="600" /></p>
+<p><strong>Code segment 6</strong></p>
+<p>Having shown the lambda expressions that can be used in the context of our <tt>Greeting</tt> class, let's now contrast them with method references. As you can see below, the IDE can convert the anonymous inner class to a member reference.</p>
+<p><img alt="NB03-7" height="262" src="/imagesvr_ce/7867/NB03.png" width="600" /></p>
+<p><strong>Code segment 7</strong></p>
+<p>Take careful note of the symbol that is used to express a member reference. Instead of the "-&gt;" symbol, a "::" is used instead, as shown below.</p>
+<p><img alt="NB07" height="210" src="/imagesvr_ce/1439/NB07.png" width="600" /></p>
+<p><strong>Code segment 8</strong></p>
+<p>While still referencing the <tt>createGreeting</tt> method, as done by the lambda expressions earlier, the code is considerably more compact, though, until you are used to the style, considerably more dense. To unpack it, look at it carefully and notice it is in the form <tt>Object::Method</tt>. The object here, <tt>Greeting</tt>, contains the method <tt>createGreeting</tt>, which we want to reference. Also notice that, to make the code even more compact, the parentheses of the <tt>createGreeting</tt> method are omitted.</p>
+<p>Not only can the static factory method <tt>createGreeting</tt> be referenced via a method reference, but the instance method <tt>toString</tt>, or any other instance method, can be expressed via method references too, as you can see below.</p>
+<p><img alt="NB08" height="229" src="/imagesvr_ce/3341/NB08.png" width="600" /></p>
+<p><strong>Code segment 9</strong></p>
+<p>Above, notice that we are referring to a method that is held by an <tt>instance</tt> of <tt>Greeting</tt>. At the point that we refer to the <tt>toString</tt> method, the <tt>Greeting</tt> instance <em>does not yet exist</em>. Later, in the <tt>apply</tt> method, the <tt>Greeting</tt> instance is created. An alternative style, where you want to refer to methods of <em>existing</em> instances is expressed below, where you see that the <tt>Greeting</tt> is declared and an instance is initialized, after which reference is made to one of its methods. Instead of the <tt>Function</tt> interface, here we use the <tt>Supplier</tt> interface (described above), because we do not want to <em>convert</em> types; instead, we only want to <em>return</em> the result of a method invocation on a <tt>Greeting</tt> instance.</p>
+<p><img alt="NB09" height="234" src="/imagesvr_ce/1676/NB09.png" width="598" /></p>
+<p><strong>Code segment 10</strong></p>
+<p>Note that, where relevant, <tt>super::toString</tt> and <tt>this::toString</tt> are also acceptable constructs.</p>
+<h2>Constructor References</h2>
+<p>Switching our focus to <em>constructor</em> references, we rewrite the <tt>Greeting</tt> class. Firstly, we remove the static factory method; secondly, we add a default constructor. Now we have two constructors, enabling us to learn how to use constructor references in Java 8 to refer to them and to execute them.</p>
+<p><img alt="NB10" height="252" src="/imagesvr_ce/4287/NB10.png" width="306" /></p>
+<p><strong>Code segment 11</strong></p>
+<p>Below, following similar patterns to those introduced in the section on method references above, are the three new ways introduced in Java 8 for referencing constructors, each of which we will now look at more closely.</p>
+<p><img alt="NB11" height="337" src="/imagesvr_ce/6760/NB11.png" width="600" /></p>
+<p><strong>Code segment 12</strong></p>
+<p>Above, three different constructor reference examples are shown, each discussed below, in turn.</p>
+<ol>
+<li>The format of a constructor reference is <tt>Object::</tt> new, where <tt>Object</tt> is always the name of the class that defines the constructor. The method name is always the standard Java <tt>new</tt> keyword. Here, we initialize a variable of type <tt>Supplier&lt;Greeting&gt;</tt> with the <tt>Greeting</tt> class default constructor. The compiler knows that we mean the default constructor and not the parameterized constructor because <tt>greetingFactory1</tt>, which is the context of the constructor reference, is of type <tt>Supplier&lt;Greeting&gt;</tt>. The <tt>Supplier&lt;Greeting&gt;</tt> type does not allow parameters and therefore the compiler assumes the reference is the default constructor.</li>
+<li>In the second example, the context is <tt>greetingFactory2</tt>, which is of type <tt>Function&lt;String,Greeting&gt;</tt>, which allows parameters of, in this case, type <tt>String</tt>. Therefore, this constructor reference enables us to obtain the reference of the parameterized constructor that accepts a <tt>String</tt> parameter.</li>
+<li>The final example is concerned with an <tt>array constructor reference</tt>. As can be seen here, we can create an <tt>Array</tt> an <tt>Greeting</tt> objects. The <tt>Function&lt;int,Greeting[]&gt;</tt> variable type allows a parameter of type <tt>Integer</tt>, and a <tt>Greeting[]</tt> return type. Notice that square brackets are used in the variable type definition, as well as in the constructor reference itself.</li>
+</ol>
+<p>In this article, we have discussed member references, a new construct introduced in Java 8 together with lambda expressions. Moreover, we have discussed the topic in the context of the code analyzers introduced in NetBeans 8, which help to quickly identify and convert anonymous inner classes to member references. Of these, the most powerful is a batch tool that lets you search through all your code and identify all anonymous inner classes that can be converted to lambda expressions or member references:</p>
+<p><img alt="NB12" height="411" src="/imagesvr_ce/9662/NB12.png" width="600" /></p>
+<p><strong>Code segment 13</strong></p>
+<p>By using the above tool, the IDE analyzes a scope, such as all projects, or the current project, or a package, or file, and suggests code that can be rewritten to use lambda expressions or member references. Not only is this useful for learning about member references, it makes migrating your code to the new compact coding styles made possible in Java 8 a breeze.</p>					<br/>
+																<div class="article">
+												Tags: 
+<!--   <a href="/tags/index.php/173662">Persistence</a>	   -->
+												<a href="/tags/NetBeans-4670.htm">NetBeans,</a> 
+												<a href="/tags/Java-8-110870.htm">Java 8,</a> 
+												<a href="/tags/lambda-expressions-1998910.htm">lambda expressions</a> 
+											</div>
+					                    
+                    <br>
+                                        <br>
+                    
+										<br/><br/>
+					  
+					<!-- START COMMENTING CODE -->
+					
+<p class="style1">
+	<noscript>Please enable Javascript in your browser, before you post the comment! Now Javascript is disabled.</noscript>
+</p>
+<a name="commentresponse">
+	<div id="comment_response"></div>
+</a>
+
+<div id="comment_error" class="error"></div>
+
+<div class="comment_wrapper">
+	<div style="font-weight: bold;"><font id="commentCount">0</font> Comments&nbsp;<a href="#comment_form" style="text-decoration: underline;">(click to add your comment)</a></div>
+	<div id="comment_pagination_top"></div>
+	<div id="comment_page_container"></div>
+	<div id="comment_pagination_bottom"></div>
+	<div id="comment_form">
+		<div style="border-bottom: 2px solid rgb(102, 102, 102); width: 100%; height: 20px; margin-bottom: 5px; clear: left;"></div>
+		<img border="0" src="http://assets.devx.com/Icon/icon_comment.png" />Comment and Contribute<p></p>
+	</div>
+	<div style="background-color:#EFEFEF;">
+	<p>&nbsp;</p>
+	<form id="commentform" name="commentform" method="post" >
+
+		<p class="commenttext">
+			<input type="text" tabindex="1" size="22" value="" id="author" name="author">
+			<label for="author">Your name/nickname</label>
+		</p>
+		<p class="commenttext">
+			<input type="text" tabindex="2" size="22" value="" id="email" name="email">
+			<label for="email">Your email</label>
+		</p>
+		<p class="commenttext">
+			<input type="text" tabindex="3" value="" size="22" id="blurbTitle" name="blurbTitle">
+			<label for="blurbTitle">Subject</label>
+		</p>
+		<p class="commenttext">			
+			<textarea id="commentdetails" name="commentdetails" onkeydown="limitText(this.form.commentdetails,this.form.countdown,1200);" onkeyup="limitText(this.form.commentdetails,this.form.countdown,1200);" style="overflow: auto; font-family: arial,helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 9pt; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none;" rows="10" cols="80" tabindex="4"></textarea><br/>
+		<span style="font-size:8pt;margin-left:10px;">(Maximum characters: 1200). You have <input type="text" size="4" value="1200" name="countdown"> characters left.</span>
+		<p class="commenttext">
+		<script type="text/javascript" src="http://api.recaptcha.net/challenge?k=6LeI_LkSAAAAAKKj8A30rX0r1Hi4DEfqve2GYRgA"></script>
+
+	<noscript>
+  		<iframe src="http://api.recaptcha.net/noscript?k=6LeI_LkSAAAAAKKj8A30rX0r1Hi4DEfqve2GYRgA" height="300" width="500" frameborder="0"></iframe><br/>
+  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
+	</noscript>		</p>
+		<p>
+			<input type="submit" value="Submit Your Comment" tabindex="6" id="submit" name="submit" onclick="return validate();" />&nbsp;<img border="0" align="center" src="/images0/ajax-loader.gif" id="ajax_loading_img" style="vertical-align:middle;visibility:hidden;">
+		</p>
+		<input type="hidden" id="key" value="189110410" name="key">
+		<input type="hidden" value="0" id="comment_parent" name="comment_parent">
+		<input type="hidden" value="0" id="totalComments" name="totalComments">
+	</form>
+	<p>&nbsp;</p>
+	</div>
+</div>
+
+	<script type="text/javascript" src="/javascripts/comments.js"></script>
+										<br>
+					<!-- END COMMENTING CODE -->
+					<div class="vspace"></div>
+				</div>
+<!-- article div ends -->
+			</div>
+						<div class="col colRight dimMainRight">
+				<div class="vspace" style="height:5px;"></div>
+				<div class="adsBox">
+				<!-- QS-AD: 'imu' start -->
+<script language="JavaScript">
+	var my_tag = displayDFPTag("imu");
+	document.write(my_tag);
+</script>
+<!-- QS-AD: 'imu' end -->				</div>
+				<div class="vspace"></div>
+								<div id="mostPopularStories" class="section">
+					<div class="sectionHeader">
+						<h2>Most Popular Developer Stories</h2>
+						<a href="#" class="more"></a>
+					</div>
+					<div class="sectionContent">
+						<div class="tabs">
+							<div class="tabsMenu clearfix">
+								<ul>
+									<li><a href="#mostPopularToday" class="selected">Today</a></li>
+									<li><a href="#mostPopularThisWeek">This Week</a></li>
+									<li><a href="#mostPopularAllTime">All-Time</a></li>
+								</ul>
+							</div>
+							<div class="tabsContents">
+								<div class="tabsContent selected" id="mostPopularToday">
+									<ul>
+				<li><a href="http://www.developer.com/java/data/article.php/3417381/Using-JDBC-with-MySQL-Getting-Started.htm"><span class="graytext">1</span> Using JDBC with MySQL, Getting Started</a></li>
+				<li><a href="http://www.developer.com/java/other/article.php/3556176/An-Introduction-to-Java-Annotations.htm"><span class="graytext">2</span> An Introduction to Java Annotations</a></li>
+				<li><a href="http://www.developer.com/java/j2me/article.php/1561591/MIDP-Programming-with-J2ME.htm"><span class="graytext">3</span> MIDP Programming with J2ME</a></li>
+				<li><a href="http://www.developer.com/java/ejb/article.php/1447551/An-Introduction-to-JSP-Standard-Template-Library-JSTL.htm"><span class="graytext">4</span> An Introduction to JSP Standard Template Library (JSTL)</a></li>
+				<li><a href="http://www.developer.com/java/other/article.php/2221711/Debugging-a-Java-Program-with-Eclipse.htm"><span class="graytext">5</span> Debugging a Java Program with Eclipse</a></li>
+									</ul>
+								</div>
+								<div class="tabsContent" id="mostPopularThisWeek">
+									<ul>
+				<li><a href="http://www.developer.com/java/data/article.php/3417381/Using-JDBC-with-MySQL-Getting-Started.htm"><span class="graytext">1</span> Using JDBC with MySQL, Getting Started</a></li>
+				<li><a href="http://www.developer.com/java/other/article.php/3556176/An-Introduction-to-Java-Annotations.htm"><span class="graytext">2</span> An Introduction to Java Annotations</a></li>
+				<li><a href="http://www.developer.com/java/ejb/article.php/1447551/An-Introduction-to-JSP-Standard-Template-Library-JSTL.htm"><span class="graytext">3</span> An Introduction to JSP Standard Template Library (JSTL)</a></li>
+				<li><a href="http://www.developer.com/java/j2me/article.php/1561591/MIDP-Programming-with-J2ME.htm"><span class="graytext">4</span> MIDP Programming with J2ME</a></li>
+				<li><a href="http://www.developer.com/java/other/article.php/2221711/Debugging-a-Java-Program-with-Eclipse.htm"><span class="graytext">5</span> Debugging a Java Program with Eclipse</a></li>
+									</ul>
+								</div>
+								<div class="tabsContent" id="mostPopularAllTime">
+									<ul>
+				<li><a href="http://www.developer.com/java/data/article.php/3417381/Using-JDBC-with-MySQL-Getting-Started.htm"><span class="graytext">1</span> Using JDBC with MySQL, Getting Started</a></li>
+				<li><a href="http://www.developer.com/java/other/article.php/3556176/An-Introduction-to-Java-Annotations.htm"><span class="graytext">2</span> An Introduction to Java Annotations</a></li>
+				<li><a href="http://www.developer.com/java/ejb/article.php/1447551/An-Introduction-to-JSP-Standard-Template-Library-JSTL.htm"><span class="graytext">3</span> An Introduction to JSP Standard Template Library (JSTL)</a></li>
+				<li><a href="http://www.developer.com/java/j2me/article.php/1561591/MIDP-Programming-with-J2ME.htm"><span class="graytext">4</span> MIDP Programming with J2ME</a></li>
+				<li><a href="http://www.developer.com/java/other/article.php/2221711/Debugging-a-Java-Program-with-Eclipse.htm"><span class="graytext">5</span> Debugging a Java Program with Eclipse</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- Code to put on site page to show pinning option --> 
+<!-- commented out 10/22 as per CR "CHG231107: Remove IE 9 Site pinning check" 
+<script type="text/javascript" language="javascript">
+	if(jQuery.browser.msie){
+		if(document.documentMode != undefined && document.documentMode==9){
+			if (!window.external.msIsSiteMode()) {
+				document.write('<div id="pinMeContainer"><img class="msPinSite" src="/images0/developer64x64.png" height="64" weight="64" /><br/><span id="pinMe">To Pin this site, drag this image to the left to your Windows Taskbar. Try it now!</span></div>'); 
+			}else {
+					try {
+					  if (window.external.msIsSiteMode()) {
+							jQuery.get('http://www.developer.com/latest_articles', function(data){
+								displayLatestNews(data);
+							});
+					  }
+				  } catch (ex) { }
+			}
+		}else{
+			document.write('<div id="pinMeContainer"><img class="msPinSite" src="/images0/developer64x64.png" height="64" weight="64" /><br/><span id="pinMe">Upgrade your browser to IE 9 to see the power of Site Pinning!</span></div>'); 	
+		}
+	}
+	function displayLatestNews(data){
+		try{
+			g_ext = window.external;
+			if(data.articles != undefined && data.articles.length){
+				g_ext.msSiteModeClearJumpList();
+				g_ext.msSiteModeCreateJumplist('Developer.com Latest News');
+				for(i=0; i<data.articles.length; i++){
+					g_ext.msSiteModeAddJumpListItem (data.articles[i].title, data.articles[i].link, 'http://www.developer.com/favicon.ico');
+				}
+				
+				var dt = new Date();
+				var updated = (dt.getMonth()+1) +"/"+(dt.getDay()+1)+"/"+dt.getFullYear()+" "+dt.toLocaleTimeString();
+
+				g_ext.msSiteModeAddJumpListItem ('Last updated - '+updated, 'http://www.developer.com/', 'http://www.developer.com//images0/refresh.ico');
+				g_ext.msSiteModeShowJumpList();
+			}
+		}catch(ex){ }
+	}
+</script>
+-->
+<!-- End of code to put on site page to show pinning option --> 				<div class="adsBox">
+				<!-- QS-AD: 'imu' start -->
+<script language="JavaScript">
+	var my_tag = displayDFPTag("imu");
+	document.write(my_tag);
+</script>
+<!-- QS-AD: 'imu' end -->				</div>
+				<div class="vspace"></div>
+								<div id="mostCommentedOn" class="section">
+					<div class="sectionHeader">
+						<h2>Most Commented On</h2>
+						<a href="#" class="more"></a>
+					</div>
+					<div class="sectionContent">
+						<div class="tabs">
+							<div class="tabsMenu clearfix">
+								<ul>
+									<li><a href="#mostCommentedOnThisWeek" class="selected">This Week</a></li>
+									<li><a href="#mostCommentedOnThisMonth">This Month</a></li>
+									<li><a href="#mostCommentedOnAllTime">All-Time</a></li>
+								</ul>
+							</div>
+							<div class="tabsContents">
+								<div class="tabsContent selected" id="mostCommentedOnThisWeek">
+									<ul>
+<li><a href="http://www.developer.com/article.php/3896056"><span class="graytext">1</span> 10 Experimental PHP Projects Pushing the<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Envelope</a></li><li><a href="http://www.developer.com/article.php/777761"><span class="graytext">2</span> Day 1: Learning the Basics of PL/SQL</a></li><li><a href="http://www.developer.com/article.php/3336751"><span class="graytext">3</span> C# Tip: Placing Your C# Application in the<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System Tray</a></li><li><a href="http://www.developer.com/article.php/641521"><span class="graytext">4</span> Logical Versus Physical Database Modeling</a></li><li><a href="http://www.developer.com/article.php/3896711"><span class="graytext">5</span> Is Ubuntu Contributing as Much as It Should to<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Free Software Projects?</a></li>									</ul>
+								</div>
+								<div class="tabsContent" id="mostCommentedOnThisMonth">
+									<ul>
+<li><a href="http://www.developer.com/article.php/777761"><span class="graytext">1</span> Day 1: Learning the Basics of PL/SQL</a></li><li><a href="http://www.developer.com/article.php/3894316"><span class="graytext">2</span> The 5 Developer Certifications You'll Wish You<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Had in 2015</a></li><li><a href="http://www.developer.com/article.php/3896056"><span class="graytext">3</span> 10 Experimental PHP Projects Pushing the<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Envelope</a></li><li><a href="http://www.developer.com/article.php/1495931"><span class="graytext">4</span> An Introduction to Struts</a></li><li><a href="http://www.developer.com/article.php/3894566"><span class="graytext">5</span> Inside Facebook's Open Source Infrastructure</a></li>									</ul>
+								</div>
+								<div class="tabsContent" id="mostCommentedOnAllTime">
+									<ul>
+<li><a href="http://www.developer.com/article.php/2109801"><span class="graytext">1</span> Creating Use Case Diagrams</a></li><li><a href="http://www.developer.com/article.php/777761"><span class="graytext">2</span> Day 1: Learning the Basics of PL/SQL</a></li><li><a href="http://www.developer.com/article.php/3336751"><span class="graytext">3</span> C# Tip: Placing Your C# Application in the<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System Tray</a></li><li><a href="http://www.developer.com/article.php/3096831"><span class="graytext">4</span> Using ASP.NET To Send Email</a></li><li><a href="http://www.developer.com/article.php/3417381"><span class="graytext">5</span> Using JDBC with MySQL, Getting Started</a></li>									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="vspace"></div>
+				
+<div class="clearfix ebooksmore">
+  <div id="partners" class="section">
+    <div class="sectionHeader">
+		<h3>Recommended Partner Resources</h3>
+    </div>
+    <div class="sectionContent">
+      <ul class="noBullets">
+					<li><a href="http://o1.qnsr.com/cgi/r?WT.qs_dlk=VC9XLArIZ2IAABvKXLcAAAAR;;;n=203;c=1412833;s=9272;x=7936;f=201401311259490;u=j;z=TIMESTAMP;">Cloud Computing Showcase for Developers</a></li>
+					<li><a href="http://o1.qnsr.com/cgi/r?WT.qs_dlk=VC9XLArIZ2IAABvKXLcAAAAR;;;n=203;c=1412834;s=9272;x=7936;f=201401311301320;u=j;z=TIMESTAMP;">Mobile Development Center</a></li>
+					<li><a href="http://o1.qnsr.com/cgi/r?WT.qs_dlk=VC9XLArIZ2IAABvKXLcAAAAR;;;n=203;c=1412836;s=9272;x=7936;f=201401311303220;u=j;z=TIMESTAMP;">HTML 5 Development Center</a></li>
+		      </ul>
+    </div>
+  </div>
+</div>				<div class="articlecategorysummary">
+    <iframe id='whitePaperIFrame' scrolling="no" frameborder="0" align="middle" src="http://www.developer.com/sl/assetlisting/?wsn=www.developer.com&amp;wpu=/java/programming-with-member-references-in-netbeans-8.html&amp;lurl=http://o1.qnsr.com/cgi/r?WT.qs_dlk=VC9XLArIZ2IAABvKXLcAAAAR;;;n=203;c=1397070;s=9487;x=7936;f=201309171321110;u=j;z=TIMESTAMP;k=http://www.developer.com/ebooks&amp;wpos=AssetListing&amp;lyt=l9&amp;title=Top White Papers and Webcasts&css=http://www.developer.com/hqb2b/css/qmp/qmp_default.css&wi=21181110" height="725"></iframe>
+</div>
+ <script type="text/javascript">
+	var updateIframe = false;
+	var t = 0;
+	function updateQMPIframe()
+	{
+		if(!updateIframe)
+		{
+			if($('#whitePaperIFrame').contents().find('.asset').length > 0)
+			{	
+				var height = $('#whitePaperIFrame').contents().find('.qmpContainer').height();
+				
+				var iframe = document.getElementById('whitePaperIFrame');
+				var iframeHeight = document.getElementById('whitePaperIFrame').height;
+				if(height>iframeHeight){
+					height = height + 5; //Add border pixels.
+					iframe.setAttribute( 'height', height);
+					clearTimeout(t);
+					updateIframe = true;
+				}
+			}
+			else
+			{
+				t = setTimeout('updateQMPIframe()', 3000);
+			}
+		}
+	}
+	updateQMPIframe();
+</script> 
+			</div>
+			<div class="vspace clear"></div>
+			<div class="vspace clear"></div>
+			            <div style="text-align: center;">
+			<!-- QS-AD: 'lb' start -->
+<script language="JavaScript">
+	var my_tag = displayDFPTag("lb");
+	document.write(my_tag);
+</script>
+<!-- QS-AD: 'lb' end -->            </div>
+			<div align="center">
+				<a href="/sitemap.html">Sitemap</a> | <a href="/contactus">Contact Us</a>
+			</div>
+			<br/>
+			<FONT SIZE="-1" FACE="arial, helvetica">
+			<style type="text/css">
+#developerBrand-footer {
+	text-align:center; 
+	margin:0 auto; 
+}
+#footerlinks {
+	font-size:12px;
+	word-spacing:1px;
+}
+#footerlinks a {
+	color:#000000;
+	margin:5px 0 0 0;
+}
+#itbeBrand-footer {
+	text-align:center; 
+	margin:0 auto; 
+}
+#itbusinessedge-footer {
+	text-align:center; 
+	margin:0 auto; 
+}
+#footercopyright {
+	font-size:12px;
+	margin:5px 0 0 0;
+}
+#developerBrandForum-footer {
+	text-align:center; 
+	margin:0 auto; 
+}
+#itbeBrandForum-footer {
+	text-align:center; 
+	margin:0 auto; 
+}
+.footerLogoClass{
+	text-align:center; 
+	margin:0 auto; 
+}
+</style>
+<div id="developerBrand-footer" style="display:none">
+</div>
+<div id="itbeBrand-footer" style="display:none">
+</div>
+<div id="itbusinessedge-footer" style="display:none">
+</div>
+<div id="zde-footer" style="display:none" class="footerLogoClass">
+</div>
+<div id="baseline-footer" style="display:none" class="footerLogoClass">
+</div>
+<div id="cinsider-footer" style="display:none" class="footerLogoClass">
+</div>
+<div id="cioinsight-footer" style="display:none" class="footerLogoClass">
+</div>
+<div id="eweek-footer" style="display:none" class="footerLogoClass">
+</div>
+<div id="enterpriseappstoday-footer" style="display:none" class="footerLogoClass">
+</div>
+<div id="eseminar-footer" style="display:none" class="footerLogoClass">
+</div>
+<div id="wbg-footer" style="display:none" class="footerLogoClass">
+</div>
+<div id="developerBrandForum-footer" style="display:none">
+</div>
+<div id="itbeBrandForum-footer" style="display:none">
+</div>
+<script language="Javascript" src="/icom_includes/footers/scripts/footerbrandingcode.js"></script>
+<!-- Google Analytics -->
+<script src="/icom_includes/footers/scripts/ga.js"  type="text/javascript"></script>
+<script  type="text/javascript" >
+<!--     hide from no js browsers
+delete Array.prototype.itemValidation;
+delete Array.prototype.isArray;
+var superTracker = _gat._getTracker("UA-2838492-1");
+superTracker._initData();
+superTracker._trackPageview();
+
+-->
+</script>
+<script  type="text/javascript" >
+<!--     hide from no js browsers
+   var site_name =  location.hostname;
+   if ( site_name.indexOf("www.") != 0 ) {
+     site_name  = "www."+site_name ;
+   }
+   document.write("<SCR" + "IPT LANGUAGE='JavaScript1.2' SRC='/icom_includes/footers/sites/"+ site_name +".js' TYPE='text/javascript'><\/SCR" + "IPT>");
+-->
+</script>
+<script  type="text/javascript" >
+<!--hide from no js browsers
+   pageTracker._initData();
+   pageTracker._trackPageview();
+   // -->
+</script>
+<!-- End Google Analytics -->
+<!-- Begin CCM Tag --> 
+<script type="text/javascript"> 
+function getCookiesForML(cname) {
+	var name = cname + "=";
+	var ca = document.cookie.split(';');
+	for (var i = 0; i < ca.length; i++) {
+		var c = ca[i].replace(/^\s+|\s+$/g, '');
+		if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+	}
+	return "";
+}
+if(typeof mlProfileID != 'undefined'){
+	var mlEml = getCookiesForML('eml');
+	//--------DFP Topic Write Out -------------// 
+	// document.write('<scri' + 'pt src="//in.ml314.com/ctp.ashx?varname=_mlTopics&type=string&output=name&limit=3' + '&cb=' + Math.floor(Math.random() * 9876543) + '"></scri' + 'pt>');
+	window.onload = function () {
+		//--------CCM TAG -------------------// 
+		(function () { 
+		_ml = window._ml || {}; 
+		_ml.eid = '50027'; 
+		_ml.clid = mlProfileID; 
+		if(typeof mlEml != 'undefined')
+			_ml.em = mlEml;
+		else
+			_ml.em = '';
+		_ml.ht = 'shex';
+		if(typeof Webtrends != 'undefined'){		
+			if(typeof Webtrends.dcss.dcsobj_0.WT.co_f != 'undefined')
+				_ml.fp = Webtrends.dcss.dcsobj_0.WT.co_f; 
+			else
+				_ml.fp = '';
+		}
+		else
+		{
+			_ml.fp = '';
+		}
+		var s = document.getElementsByTagName('script')[0], cd = new Date(), mltag = document.createElement('script'); mltag.type = 'text/javascript'; mltag.async = true; mltag.src = '//ml314.com/tag.aspx?' + cd.getDate() + cd.getMonth() + cd.getFullYear(); s.parentNode.insertBefore(mltag, s); 
+		})(); 
+	}
+}
+</script> 
+<!-- End CCM Tag -->
+			</FONT>		</div>
+	</div>
+</div>
+
+<!-- start Vibrant Media IntelliTXT script section -->
+<script type="text/javascript" src="http://developer.us.intellitxt.com/intellitxt/front.asp?ipid=25502"></script>
+<!-- end Vibrant Media IntelliTXT script section -->
+<!-- Code for Action: QuinStreet - Developer Channel -->
+<!-- Begin Rocket Fuel Conversion Action Tracking Code Version 7 -->
+<img src='http://20502655p.rfihub.com/ca.gif?rb=3335&ca=20502655&ra=10032014_06:29:16_555250275' height=0 width=0 style='display:none' alt='Rocket Fuel'/>
+<!-- End Rocket Fuel Conversion Action Tracking Code Version7 -->
+
+<!-- QS-AD: 'hero' start -->
+<script language="JavaScript">
+	var my_tag = displayDFPTag("hero");
+	document.write(my_tag);
+</script>
+<!-- QS-AD: 'hero' end -->
+</body>
+</html>

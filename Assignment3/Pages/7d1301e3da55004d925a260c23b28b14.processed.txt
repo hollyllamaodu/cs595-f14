@@ -1,0 +1,25 @@
+   [logo-234x35.png]
+
+                            Something went wrong :-(
+
+   This website is hosted by PythonAnywhere, an online hosting
+   environment. Something went wrong while trying to load it; please try
+   again later.
+
+   If this is your PythonAnywhere-hosted site, there may be a bug in your
+   code. Check your site's server and error logs for any messages — you
+   can view them from the [1]Web tab inside PythonAnywhere.
+
+   You'll find a series of tips on how to debug problems, and solutions to
+   common issues on our [2]Help pages
+
+   If you get completely stuck, then drop us a line at
+   support@pythonanywhere.com, in the forums, or using the "Send feedback"
+   link on the site, quoting the error code below.
+
+   Error code: Unhandled Exception
+
+References
+
+   1. https://www.pythonanywhere.com/web_app_setup/
+   2. https://www.pythonanywhere.com/wiki/

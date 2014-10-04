@@ -1,0 +1,484 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<!-- Page Info -->
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="description" content="Blogs.Oracle.Com - Geertjan's Blog">
+  <meta name="keywords" content="blogs, oracle, blogs.oracle, blogging, bloggers">
+		            <title>Published: JavaFX Rich Client Programming on the NetBeans Platform (Geertjan's Blog)</title>
+                           <meta http-equiv="Content-Language" content="en_US" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="imagetoolbar" content="no" />
+
+           <link rel="EditURI"   type="application/rsd+xml" title="RSD" href="https://blogs.oracle.com/geertjan/rsd"/>
+        
+            <link rel="alternate" type="application/atom+xml" title="Recent Entries (Atom)"  href="https://blogs.oracle.com/geertjan/feed/entries/atom" />
+    <link rel="alternate" type="application/rss+xml"  title="Recent Entries (RSS)"   href="https://blogs.oracle.com/geertjan/feed/entries/rss" />
+    <link rel="alternate" type="application/atom+xml" title="Recent Comments (Atom)" href="https://blogs.oracle.com/geertjan/feed/comments/atom" />
+    <link rel="alternate" type="application/rss+xml"  title="Recent Comments (RSS)"  href="https://blogs.oracle.com/geertjan/feed/comments/rss" />
+
+    
+    
+<!-- Stylesheets -->
+<link rel="stylesheet" href="https://blogs.oracle.com/geertjan/resource/2Java-2col/theme.css" type="text/css" media="screen" />
+
+<!-- Favicon -->
+<link rel="shortcut icon" href="https://blogs.oracle.com/geertjan/resource/2Java-2col/favicon.gif" />    	</head>
+	<body>
+		<div id="container" class="two-columns"> <!-- Note: Change the class from "two-columns" to "three-columns" if needed -->
+			
+			<!-- Header -->
+			<div id="header">
+				<ul id="nav">
+					<li id="logo"><h6><a href="http://www.oracle.com">Oracle</a></h6></li>
+					<li class="current"><a href="/">Blogs Home</a></li>
+					<li><a href="http://www.oracle.com/us/products/index.html">Products &amp; Services</a></li>
+					<li><a href="http://www.oracle.com/technetwork/indexes/downloads/index.html">Downloads</a></li>
+					<li><a href="http://www.oracle.com/us/support/index.html">Support</a></li>
+					<li><a href="http://www.oracle.com/us/partnerships/index.html">Partners</a></li>
+					<li><a href="http://www.oracle.com/us/community/index.html">Communities</a></li>
+					<li><a href="http://www.oracle.com/us/corporate/index.html">About</a></li>
+                                            <li id="signIn"><a href="/roller-ui/login-redirect.rol">Login</a></li>
+                    				</ul>
+				<div id="jumbotron">
+					<h4>Oracle Blog</h4>
+          <h5><a href="https://blogs.oracle.com/geertjan/">Geertjan's Blog</a></h5>
+          <h5 class="subhead">Random NetBeans Stuff</h5>
+				</div>
+                																										</div>
+			
+			<!-- Content -->
+			<div id="content">
+                <div id="mainColumn">
+                    
+                    <!-- Previous and Next Entries -->
+                    <div id="pager">
+                                                    &laquo; <a href="https://blogs.oracle.com/geertjan/entry/anagram_game_meets_dukescript">Anagram Game Meets...</a> |  
+                <a href="/geertjan/">Main</a>
+                | <a href="https://blogs.oracle.com/geertjan/entry/where_it_all_began">Where it all began.....</a> &raquo;
+                        </div>
+
+                    <!-- Entries -->
+				    
+                <div class="day">
+
+
+	<div class="entry" id="published_javafx_rich_client_programming">
+
+	<h3 class="entry-title">
+			Published: JavaFX Rich Client Programming on the NetBeans Platform
+	    </h3>
+
+    <h4 class="entry-meta">By Geertjan on <a href="#">Sep 19, 2014</a></h4>
+
+    <div class="entry-body">
+                                        	<p>Gail and Paul Anderson (<a href="http://netbeans.dzone.com/interviews/javafx-rich-client-programming">interviewed a few days ago here</a>) passed on the happy news to me today. 
+The eBook of <a href="http://www.amazon.com/JavaFX-Client-Programming-NetBeans-Platform/dp/0321927710">JavaFX Rich Client Programming on the NetBeans Platform</a>&nbsp;is available now. The physical tree based book (i.e., in addition to the eBook, there will be a treeBook!) will be available from the end of the month, when it will be released during JavaOne 2014.&nbsp;If you'll be at JavaOne 2014, please come to the book signing at the JavaOne bookstore, Tuesday, September 30, 15:30 PM - 16:00 PM.</p> 
+  <p>The book guides you in a lot of detail, with many samples, to the creation of this application:</p> 
+  <p><a href="http://netbeans.dzone.com/sites/all/files/familytreeapp-1.png"><img src="http://netbeans.dzone.com/sites/all/files/familytreeapp-2.png" /></a> </p> 
+  <p>Here's the Google link (no formats specified, but devices listed):</p> 
+  <p><a href="http://books.google.com/books/about/JavaFX_Rich_Client_Programming_on_the_Ne.html?id=-WSJBAAAQBAJ">http://books.google.com/books/about/JavaFX_Rich_Client_Programming_on_the_Ne.html?id=-WSJBAAAQBAJ
+
+</a></p> 
+  <p>Also, on the publisher's site  (formats EPUB, MODI, PDF):</p> 
+  <p><a href="http://www.informit.com/store/javafx-rich-client-programming-on-the-netbeans-platform-9780321927712">http://www.informit.com/store/javafx-rich-client-programming-on-the-netbeans-platform-9780321927712
+
+</a></p> 
+  <p>And Kindle on Amazon:</p> 
+  <p><a href="http://www.amazon.com/JavaFX-Client-Programming-NetBeans-Platform/dp/0321927710/"> http://www.amazon.com/JavaFX-Client-Programming-NetBeans-Platform/dp/0321927710/</a></p> 
+  <p>Take note that the links above also provide access to quite a lot of free sample materials, e.g., complete and partial chapters, to give you a taste of the book's more than 900 pages providing clear explanations and heaps of code samples in the context of the Family Tree application.&nbsp;</p> 
+  <p>I had the honor of writing the foreword to the book. Here it is, hope it gives a sense of how awesome and useful this book is! </p> 
+  <p><img style="border-width: 1px; border-style: solid; border-color: black;" src="https://blogs.oracle.com/geertjan/resource/asgteach-nbp-foreword.png" /></p> 
+  <p>Congratulations, Gail and Paul, and to Greg Doench from Prentice Hall for having faith in this project!</p>
+        
+    </div>
+
+    <div class="entry-footer">
+        <p class="entry-category">Category: NetBeans IDE</p>
+        <p class="entry-tags">Tags:    
+    	    <a href="https://blogs.oracle.com/geertjan/tags/javafx" rel="tag">javafx</a> 
+    
+ </p>
+        <p class="entry-links">
+        <a href="https://blogs.oracle.com/geertjan/entry/published_javafx_rich_client_programming">Permanent link to this entry</a>
+                        </p>
+    </div>
+
+	    
+	</div>
+
+</div>    
+    
+                    <!-- Previous and Next Entries -->
+                    <div id="pagerBottom">
+                                                    &laquo; <a href="https://blogs.oracle.com/geertjan/entry/anagram_game_meets_dukescript">Anagram Game Meets...</a> |  
+                <a href="/geertjan/">Main</a>
+                | <a href="https://blogs.oracle.com/geertjan/entry/where_it_all_began">Where it all began.....</a> &raquo;
+                        </div> 
+                    
+                    <!-- Comments -->
+                                                <a name="comments"></a>
+    <div class="comments" id="comments">
+
+            <div class="comments-head">Comments:</div>
+            
+    <br/>
+        </div>
+                        
+    <div class="comments-form">
+    <div class="comments-head">Post a Comment:</div>
+    <a name="comment-form"></a>
+
+
+    
+    <form method="post" action="https://blogs.oracle.com/geertjan/entry/published_javafx_rich_client_programming" focus="name" 
+        name="commentForm" onsubmit="fixURL(this); return validateComments(this)">    
+        <input type="hidden" name="method" value="post" />
+
+        <ul>
+            <li>
+                <label class="desc">Name:</label>
+                <input type="text" name="name" class="text large" value="" size="50" maxlength="255" />
+            </li>
+
+            <li><label class="desc">E-Mail:</label>
+                <input type="text" name="email" class="text large" value="" size="50" maxlength="255" />
+            </li>
+
+            <li><label class="desc">URL:</label>
+                <input type="text" name="url" class="text large" value="" size="50" maxlength="255" />
+            </li>
+
+                    <li><input type="checkbox" class="checkbox" id="notify" name="notify" />
+                <label for="notify" class="choice">Notify me by email of new comments</label>
+            </li>
+                    <li>
+                <input type="checkbox" class="checkbox" id="rememberInfo" name="rememberInfo" />
+                <label for="rememberInfo" class="choice">Remember Information?</label>
+            </li>
+            <li>
+                <label class="desc">Your Comment:</label>
+             
+            <textarea name="content" class="textarea large" cols="40" rows="10"></textarea>
+
+            </li>
+            <li class="info">
+                <span class="comments-syntax-indicator">
+                HTML Syntax:
+                                    <span class="disabled">NOT allowed</span>
+                                </span>
+            </li>
+            <li class="info">
+               <script type="text/javascript" src="/theme/scripts/clientSideInclude.js"></script>
+               <div id="commentAuthenticator"></div>
+            </li>
+            <li>
+               <input type="button" class="button" name="post" value="&nbsp;Preview&nbsp;"
+                  onclick="this.form.method.value='preview';this.form.submit()" />
+               <input type="submit" class="button" name="post" value="&nbsp;Post&nbsp;" />
+            </li>
+        </ul>
+
+    </form>
+
+    <script type="text/javascript" src="/theme/scripts/roller.js"></script>
+    <script type="text/javascript">
+    clientSideInclude('commentAuthenticator', '/CommentAuthenticatorServlet');
+
+    var author = getCookie("commentAuthor");
+    var email = getCookie("commentEmail");
+    var url = getCookie("commentUrl");
+    // check each field - IE will render "null"
+   
+    if (author) {
+        document.forms['commentForm'].name.value = author;
+    }else{
+        document.forms['commentForm'].name.value = "guest";
+    }
+
+    if (email) {
+        document.forms['commentForm'].email.value = email;
+    }
+    if (url) {
+        document.forms['commentForm'].url.value = url;
+    }
+
+    if (author || email || url) {
+        document.forms['commentForm'].rememberInfo.checked = true;
+    }
+
+    function fixURL(theForm) {
+        if (theForm.url.value != "" &&
+            theForm.url.value.indexOf("http://") == -1) { //prepend http://
+            theForm.url.value = "http://"+theForm.url.value;
+        }
+        saveUserInformation(theForm);
+    }
+
+    function saveUserInformation(theForm) {
+        if (theForm.rememberInfo.checked) {
+            rememberUser(theForm);
+        } else {
+            forgetUser(theForm);
+        }
+    }
+
+    function validateComments(theForm) {
+        if (theForm.content.value == "") {
+            alert("Please enter a comment.");
+            theForm.content.focus();
+            return false;
+        }
+ 
+        if (document.forms['commentForm'].name.value=="" ) {
+        document.forms['commentForm'].name.value = "guest";
+        }
+
+    }
+    </script>
+
+
+    </div>
+                    				</div>
+
+                <!-- Sidebar -->
+                           <!-- Right Sidebar -->
+<div id="rightColumn">
+
+<!-- About -->
+  <div id="aboutSection">    
+    <h5 class="section-title">About</h5>
+    <div class="section-body">
+                  <p><img align="center" src="https://blogs.oracle.com/geertjan_images/resource/foto-gj-fr.png"/>
+<p><b><font color="blue"><a href="https://blogs.oracle.com/geertjan/entry/welcome_to_me">Geertjan Wielenga</a> (<a href="https://twitter.com/#!/GeertjanW">@geertjanw</a>) is a Principal Product Manager in the Oracle Developer Tools group living & working in Amsterdam. He is a Java technology enthusiast, evangelist, trainer, speaker, and writer. He blogs here daily.</font></b><p><p>The focus of this blog is mostly on <a href="http://netbeans.org/downloads/index.html">NetBeans</a> (a development tool primarily for Java programmers), with an occasional reference to NetBeans, and sometimes diverging to topics relating to NetBeans. And then there are days when NetBeans is mentioned, just for a change.</p>
+            </div>
+  </div>  
+<!-- End About -->
+
+<!-- Search -->
+  <div id="searchSection">  
+    <h5 class="section-title">Search</h5>
+    <div class="section-body">
+        <script type="text/javascript">
+    function prepareSearchForm() {
+        document.getElementById("searchForm").searchQuery.name = "oq";
+        document.getElementById("searchFilter").innerHTML = "<input type='hidden' id='searchFilteredQuery' name='q' value=''>" +
+                "<br /><input type='checkbox' id='searchScope' checked='true' /><label for='searchScope'>Search only this blog</label>";
+    }
+    function submitSearchForm() {
+        var form = document.getElementById("searchForm");
+        var query = form.searchQuery.value;
+        var urlSearchOp = form.searchOp.value; //searchOp
+        var urlGroup = form.searchGroup.value; //group
+         
+        if (query == null || query == "") {
+            return false;
+        }
+        var filter = " weblog:geertjan";
+        var curUrl = window.location.href;
+        if (form.searchScope.checked && form.searchQuery.value.indexOf(filter) == -1) {
+            form.searchFilteredQuery.value = form.searchQuery.value + filter;
+        }
+        else {
+            form.searchFilteredQuery.value = form.searchQuery.value;
+        }
+
+        						 form.action="https://search.oracle.com/search/search";
+				
+        window.location = form.action + "?search_p_main_operator=" + urlSearchOp + "&group=" + urlGroup +"&q=" + form.searchFilteredQuery.value;
+        return false;
+    }
+</script>
+<form id="searchForm" action="http://search.oracle.com/search/search"
+      onsubmit="return submitSearchForm();" method="get">
+    <input type="hidden" id="searchOp" name="search_p_main_operator" value="all" />
+    <input type="hidden" id="searchGroup" name="group" value="Blogs" />
+    <label for="searchQuery" title="Enter search term">Enter search term:</label>
+    <br />
+    <input type="text" id="searchQuery" name="q" class="text" alt="Enter Search Term" />
+    <input type="image" class="input-image" id="searchSubmit" alt="Submit Search" title="Submit Search" src="https://blogs.oracle.com/geertjan/resource/search-button.gif" />
+    <span id="searchFilter">
+    <noscript>Search filtering requires JavaScript</noscript>
+    </span>
+</form>
+<script type="text/javascript">prepareSearchForm();</script>
+    </div>
+  </div>    
+<!-- End Search -->
+
+<!-- Recent Posts -->
+  <div id="recentSection">  
+                <h5 class="section-title">Recent Posts</h5>
+        <div class="section-body">
+            <ul>
+                                    <li><a href="https://blogs.oracle.com/geertjan/entry/my_javaone_2014">My JavaOne 2014</a></li>
+                                    <li><a href="https://blogs.oracle.com/geertjan/entry/icon_sets_for_netbeans_ide">Icon Sets for NetBeans IDE</a></li>
+                                    <li><a href="https://blogs.oracle.com/geertjan/entry/knockout_app_deployed_to_android">Knockout App Deployed to Android Device, Displayed in NetBeans IDE 8.0.1</a></li>
+                                    <li><a href="https://blogs.oracle.com/geertjan/entry/from_knockout_with_java_ee">From Knockout with Java EE via Cordova to Android Emulator via Genymotion</a></li>
+                                    <li><a href="https://blogs.oracle.com/geertjan/entry/configure_data_source_and_glassfish">Configure Data Source and GlassFish while Coding in NetBeans</a></li>
+                                    <li><a href="https://blogs.oracle.com/geertjan/entry/where_it_all_began">Where it all began...</a></li>
+                                    <li><a href="https://blogs.oracle.com/geertjan/entry/published_javafx_rich_client_programming">Published: JavaFX Rich Client Programming on the NetBeans Platform</a></li>
+                                    <li><a href="https://blogs.oracle.com/geertjan/entry/anagram_game_meets_dukescript">Anagram Game Meets DukeScript</a></li>
+                                    <li><a href="https://blogs.oracle.com/geertjan/entry/new_in_netbeans_ide_8">YouTube: FindBugs 3.0 for Java 8 in NetBeans IDE 8.0.1</a></li>
+                                    <li><a href="https://blogs.oracle.com/geertjan/entry/developer_com_lambdas_method_references">Developer.com: Lambdas & Method References in NetBeans IDE 8</a></li>
+                            </ul>
+        </div>
+      </div>    
+<!-- End Recent Posts -->
+
+
+<!-- Top Tags -->
+  <div id="tagsSection">  
+            <h5 class="section-title">Top Tags</h5>
+    <div class="tags section-body">
+        <ul class="tag-cloud">
+                    <li><a href="https://blogs.oracle.com/geertjan/tags/blogwatch" title="7" class="weight-4">blogwatch</a></li>
+                    <li><a href="https://blogs.oracle.com/geertjan/tags/filesystem" title="1" class="weight-1">filesystem</a></li>
+                    <li><a href="https://blogs.oracle.com/geertjan/tags/javafx" title="13" class="weight-5">javafx</a></li>
+                    <li><a href="https://blogs.oracle.com/geertjan/tags/oracle" title="1" class="weight-1">oracle</a></li>
+                    <li><a href="https://blogs.oracle.com/geertjan/tags/system" title="1" class="weight-1">system</a></li>
+                </ul>
+    </div>
+    </div>    
+<!-- End Top Tags -->
+    
+
+<!-- Categories -->
+  <div id="categoriesSection">
+    <h5 class="section-title">Categories</h5>
+    <div class="section-body">
+                        <ul class="rCategory">
+                                                                            <li><a href="https://blogs.oracle.com/geertjan/category/JavaFX">JavaFX</a></li>
+                                                                                                            <li><a href="https://blogs.oracle.com/geertjan/category/Magazines+%26+Journals">Magazines & Journals</a></li>
+                                                                                                            <li><a href="https://blogs.oracle.com/geertjan/category/NetBeans+IDE">NetBeans IDE</a></li>
+                                                                                                            <li><a href="https://blogs.oracle.com/geertjan/category/Personal">Personal</a></li>
+                                                                                                            <li><a href="https://blogs.oracle.com/geertjan/category/Window+System">Window System</a></li>
+                                                                            </ul>
+        </div>
+  </div>
+<!-- End Categories -->
+
+
+<!-- Archives -->
+   <div id="archiveSection">
+    <h5 class="section-title">Archives</h5>
+    <div class="section-body">
+        <table cellspacing="0" border="0"  summary="Blog Archive Calendar" class="hCalendarTable"><tr><td colspan="7" align="center" class="hCalendarMonthYearRow"><a href="/geertjan/date/201409" title="Prev" class="hCalendarNavBar">&laquo;</a> October 2014</td></tr><tr><th class="hCalendarDayNameRow" align="center">Sun</th><th class="hCalendarDayNameRow" align="center">Mon</th><th class="hCalendarDayNameRow" align="center">Tue</th><th class="hCalendarDayNameRow" align="center">Wed</th><th class="hCalendarDayNameRow" align="center">Thu</th><th class="hCalendarDayNameRow" align="center">Fri</th><th class="hCalendarDayNameRow" align="center">Sat</th></tr><tr><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDay"><div class="hCalendarDayTitle">1</div></td><td class="hCalendarDayCurrent"><div class="hCalendarDayTitle">2</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">3</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">4</div></td></tr><tr><td class="hCalendarDay"><div class="hCalendarDayTitle">5</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">6</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">7</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">8</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">9</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">10</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">11</div></td></tr><tr><td class="hCalendarDay"><div class="hCalendarDayTitle">12</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">13</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">14</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">15</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">16</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">17</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">18</div></td></tr><tr><td class="hCalendarDay"><div class="hCalendarDayTitle">19</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">20</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">21</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">22</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">23</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">24</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">25</div></td></tr><tr><td class="hCalendarDay"><div class="hCalendarDayTitle">26</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">27</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">28</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">29</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">30</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">31</div></td><td class="hCalendarDayNotInMonth">&nbsp;</td></tr><tr><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td></tr><tr class="hCalendarNextPrev"><td colspan="7" align="center"><a href="/geertjan/" class="hCalendarNavBar">Today</a></td></tr></table>
+    </div>
+  </div>
+<!-- End Archives -->
+
+<!-- Bookmarks -->
+   <div id="bookmarkSection">
+                    <h5 class="section-title">News</h5>
+        <div class="section-body">
+                    <ul class="rFolder">
+                    <li class="rFolderItem">
+                                <a href="http://www.cnn.com"
+               title="$bookmark.description"
+               class="rBookmark0">CNN</a>
+                </li>
+            <li class="rFolderItem">
+                                <a href="http://nytimes.com"
+               title="$bookmark.description"
+               class="rBookmark0">NY Times</a>
+                </li>
+                    </ul>
+                </div>
+            <h5 class="section-title">Blogroll</h5>
+        <div class="section-body">
+                    <ul class="rFolder">
+                    <li class="rFolderItem">
+                                <a href="http://rollerweblogger.org/rss/roller"><img class="smrssbadge"
+               src="https://blogs.oracle.com/images/smrssbadge.gif"
+               alt="URL of site''s RSS feed"/></a>
+                        <a href="http://rollerweblogger.org/page/roller"
+               title="$bookmark.description"
+               class="rBookmark0">Dave Johnson</a>
+                </li>
+            <li class="rFolderItem">
+                                <a href="http://brainopolis.dnsalias.com/roller/rss/lance/"><img class="smrssbadge"
+               src="https://blogs.oracle.com/images/smrssbadge.gif"
+               alt="URL of site''s RSS feed"/></a>
+                        <a href="http://brainopolis.dnsalias.com/roller/page/lance/"
+               title="$bookmark.description"
+               class="rBookmark0">Lance Lavandowska</a>
+                </li>
+            <li class="rFolderItem">
+                                <a href="http://raibledesigns.com/rss/rd"><img class="smrssbadge"
+               src="https://blogs.oracle.com/images/smrssbadge.gif"
+               alt="URL of site''s RSS feed"/></a>
+                        <a href="http://raibledesigns.com/page/rd"
+               title="$bookmark.description"
+               class="rBookmark0">Matt Raible</a>
+                </li>
+                    </ul>
+                </div>
+      </div>    
+<!-- End Bookmarks -->
+
+<!-- Blog and Author Menu -->
+   <div id="menuSection">
+    <h5 class="section-title">Menu</h5>
+    <div class="section-body">
+            <ul class="rNavigationBar">
+        <li class="rNavItem">
+            <a href="/"><span>Blogs Home</span></a>
+        </li>
+        <li class="rNavItem">
+            <a href="https://blogs.oracle.com/geertjan/"><span>Weblog</span></a>
+        </li>
+                                                                                                                                                                                        <li class="rNavItem">
+                    <a href="/roller-ui/login-redirect.rol"><span>Login</span></a>
+                </li>
+                        </ul>
+            </div>
+  </div>    
+<!-- End Blog and Author Menu -->
+
+    
+<!-- Feeds -->
+   <div id="feedsSection">   
+    <h5 class="section-title">Feeds</h5>
+    <div class="section-body">
+        <b>RSS</b>
+            <ul class="rFeeds">
+    <li><a href="https://blogs.oracle.com/geertjan/feed/entries/rss">All</a></li>
+                        <li><a href="https://blogs.oracle.com/geertjan/feed/entries/rss?cat=%2FJavaFX">/JavaFX</a></li>
+                    <li><a href="https://blogs.oracle.com/geertjan/feed/entries/rss?cat=%2FMagazines+%26+Journals">/Magazines &amp; Journals</a></li>
+                    <li><a href="https://blogs.oracle.com/geertjan/feed/entries/rss?cat=%2FNetBeans+IDE">/NetBeans IDE</a></li>
+                    <li><a href="https://blogs.oracle.com/geertjan/feed/entries/rss?cat=%2FPersonal">/Personal</a></li>
+                    <li><a href="https://blogs.oracle.com/geertjan/feed/entries/rss?cat=%2FWindow+System">/Window System</a></li>
+        <li><a href="https://blogs.oracle.com/geertjan/feed/comments/rss">Comments</a></li>
+    </ul>
+        <b>Atom</b>    
+            <ul class="rFeeds">
+    <li><a href="https://blogs.oracle.com/geertjan/feed/entries/atom">All</a></li>
+                        <li><a href="https://blogs.oracle.com/geertjan/feed/entries/atom?cat=%2FJavaFX">/JavaFX</a></li>
+                    <li><a href="https://blogs.oracle.com/geertjan/feed/entries/atom?cat=%2FMagazines+%26+Journals">/Magazines &amp; Journals</a></li>
+                    <li><a href="https://blogs.oracle.com/geertjan/feed/entries/atom?cat=%2FNetBeans+IDE">/NetBeans IDE</a></li>
+                    <li><a href="https://blogs.oracle.com/geertjan/feed/entries/atom?cat=%2FPersonal">/Personal</a></li>
+                    <li><a href="https://blogs.oracle.com/geertjan/feed/entries/atom?cat=%2FWindow+System">/Window System</a></li>
+        <li><a href="https://blogs.oracle.com/geertjan/feed/comments/atom">Comments</a></li>
+    </ul>
+    </div>
+  </div>          
+<!-- End Feeds -->    
+    
+</div>    			</div>
+
+			<!-- Footer -->
+			<div id="footer">
+				<p>The views expressed on this blog are those of the author and do not necessarily reflect the views of Oracle. <a href="http://www.oracle.com/html/terms.html">Terms of Use</a> | <a href="http://www.oracle.com/html/privacy.html">Your Privacy Rights</a> | <span id='teconsent'><script type='text/javascript' src='https://consent.truste.com/notice?domain=oracle.com&c=teconsent&language=en&text=true'></script>   </span>  </p>
+			</div>
+			<!-- Omniture Script --> 
+<!-- Start SiteCatalyst code -->
+
+<script language="JavaScript" src="/main/resource/resources/ora_blogs.js"></script>
+
+<!-- End SiteCatalyst code -->
+		</div>
+	</body>
+</html>

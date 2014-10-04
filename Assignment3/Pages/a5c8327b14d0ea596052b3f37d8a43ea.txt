@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/LocalBusiness">
+<head>
+	<meta charset="utf-8">
+	<meta name="language" content="English" />
+	<meta name="title" content="Java news and resources" />
+	<meta name="description" content="A curated list of the best Java resources from all around: people to follow, sites to visit, blogs to read, and events to attend." />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="shortcut icon" type="image/png" href="takipi.ico">
+	<link rel="image_src" type="image/jpg" href="http://www.javais.cool/images/share_image.jpg">
+	<title>Java news and resources</title>
+
+	<!-- open group (facebook) -->
+	<meta property="og:title" content="Java news and resources" />
+	<meta property="og:type" content="website" />
+	<meta property="og:site_name" content="Takipi" />
+	<meta property="og:url" content="http://www.javais.cool/again" />
+	<meta property="og:description" content="A curated list of the best Java resources from all around: people to follow, sites to visit, blogs to read, and events to attend." />
+	<meta property="og:image" content="http://www.javais.cool/images/share_image.jpg" />
+	<!-- schema.org (google+) -->
+	<meta itemprop="name" content="Java news and resources">
+	<meta itemprop="description" content="A curated list of the best Java resources from all around: people to follow, sites to visit, blogs to read, and events to attend.">
+	<meta itemprop="image" content="http://www.javais.cool/images/share_image.jpg">
+
+	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/fullcalendar.css">
+	<!--[if lt IE 9]><link rel="stylesheet" href="css/ie.css"><![endif]-->
+	<script src="js/jquery-1.11.1.min.js"></script>
+	<script src="js/jquery.qtip.js"></script>
+	<script src="js/moment.min.js"></script>
+	<script src="js/fullcalendar.min.js"></script>
+	<script src="js/gcal.js"></script>
+	<script src="js/script2.js"></script>
+	<script src="js/takipiMiniSignupElement.js"></script>
+	<script src="js/jquery.base64.min.js"></script>
+	<script src="https://apis.google.com/js/platform.js" async defer></script>
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="js/PIE.js"></script>
+	<![endif]-->
+	<script src="js/scripts.js"></script>
+	<script>
+		$(function() {
+			initFunction();
+			$('#monthName').text(moment().format("MMMM"));
+		});
+		
+
+		var _gas = _gas || [];
+		_gas.push(['_setAccount', 'UA-29184077-11']);
+		_gas.push(['_setAllowLinker', true]);
+		_gas.push(['_setAllowAnchor', true]);
+		_gas.push(['_require', 'inpage_linkid', '//www.google-analytics.com/plugins/ga/inpage_linkid.js']);
+		_gas.push(['_trackPageview']);
+		_gas.push(['_gasTrackForms']);
+		_gas.push(['_gasTrackOutboundLinks']);
+		_gas.push(['_gasTrackMaxScroll']);
+		_gas.push(['_gasTrackVideo']);
+		_gas.push(['_gasTrackAudio']);
+		_gas.push(['_gasTrackYoutube', {force: true}]);
+		_gas.push(['_gasTrackMailto']);
+
+		(function() {
+		var ga = document.createElement('script');
+		ga.id = 'gas-script';
+		ga.setAttribute('data-use-dcjs', 'false');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = '//cdnjs.cloudflare.com/ajax/libs/gas/1.11.0/gas.min.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+
+	<script type="text/javascript">
+	  (function() {
+	    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+	    po.src = 'https://apis.google.com/js/plusone.js?onload=onLoadCallback';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	  })();
+	</script>
+</head>
+<body>
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<div class="wrapper">
+	<div class="w1">
+		<header id="header">
+			<div class="text-box">
+				<h1 class="text-java">What's new in Java?</h1>
+				<p>Lambdas, streams, new tools, and growing community interest: These are exciting times for the Java language and sometimes it's hard to keep up!</p>
+				<br><p>This is why we decided to put up this page and gather the best Java resources around the web in one single place - The right project, blog post or tweet at the right time can have a great impact.</p>
+			</div>
+			<div class="img-box">
+				<img src="images/img-01.png" width="686" height="586">
+			</div>
+		</header><!-- / header -->
+		<span class="decor-05"><img src="images/img-02.png" width="257" height="209"></span>
+		<section class="twitter-block">
+			<span class="decor-bg"></span>
+			<span class="twitter-decor-01"><img src="images/img-24.png" width="128" height="112"></span>
+			<span class="twitter-decor-02"><img src="images/img-25.png" width="130" height="107"></span>
+			<h2>Join the conversation on Twitter</h2>
+			<p>One of the best ways to stay updated is keeping in touch with the people behind the libraries, tools, blogs, books and Java itself.</p>
+			<ul class="twitter-list">
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/java" target="_blank"><img class="ie-fix" src="images/img-03.jpg" alt="Java Duke" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/java" target="_blank">Duke</a></strong>
+						<p>The official Java twitter account</p>
+						<a href="https://twitter.com/java" class="btn-twitter" target="_blank" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/mreinhold" target="_blank"><img class="ie-fix" src="images/img-04.jpg" alt="Mark Reinhold" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/mreinhold" target="_blank">Mark Reinhold</a></strong>
+						<p>Chief Architect, Java Platform Group, Oracle</p>
+						<a href="https://twitter.com/mreinhold" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/baeldung" target="_blank"><img class="ie-fix" src="images/img-05.jpg" alt="Baeldung" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/baeldung" target="_blank">Eugen Paraschiv</a></strong>
+						<p>Spring blogger (Baeldung) &amp; author</p>
+						<a href="https://twitter.com/baeldung" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/lukaseder" target="_blank"><img class="ie-fix" src="images/img-06.jpg" alt="Lukas Eder" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/lukaseder" target="_blank">Lukas Eder</a></strong>
+						<p>Founder and CEO at Data Geekery</p>
+						<a href="https://twitter.com/lukaseder" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/javinpaul" target="_blank"><img class="ie-fix" src="images/img-07.jpg" alt="Javin Paul" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/javinpaul" target="_blank">Javin Paul</a></strong>
+						<p>Java developer &amp; blogger (Javarevisited)</p>
+						<a href="https://twitter.com/javinpaul" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/karianna" target="_blank"><img class="ie-fix" src="images/img-08.jpg" alt="Martijn Verburg" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/karianna" target="_blank">Martijn Verburg</a></strong>
+						<p>jClarity CEO, London JUG co-leader, Speaker, Author, Java Champion</p>
+						<a href="https://twitter.com/karianna" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/mariofusco" target="_blank"><img class="ie-fix" src="images/img-09.jpg" alt="Mario Fusco" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/mariofusco" target="_blank">Mario Fusco</a></strong>
+						<p>RedHatter, Milano Jug coordinator, speaker &amp; co-author of Java 8 in Action</p>
+						<a href="https://twitter.com/mariofusco" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/JavaFXpert" target="_blank"><img class="ie-fix" src="images/img-10.jpg" alt="Jim Weaver" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/JavaFXpert" target="_blank">James Weaver</a></strong>
+						<p>Java/JavaFX/IoT developer, author and speaker</p>
+						<a href="https://twitter.com/JavaFXpert" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/AdamBien" target="_blank"><img class="ie-fix" src="images/img-11.jpg" alt="Adam Bien" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/AdamBien" target="_blank">Adam Bien</a></strong>
+						<p>Freelancer: Author, JavaONE Rockstar Speaker, Consultant, Java Champion</p>
+						<a href="https://twitter.com/AdamBien" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/trisha_gee" target="_blank"><img class="ie-fix" src="images/img-12.jpg" alt="Trisha Gee" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/trisha_gee" target="_blank">Trisha Gee</a></strong>
+						<p>Java Developer Advocate @ MongoDB, Java Champion</p>
+						<a href="https://twitter.com/trisha_gee" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/agoncal" target="_blank"><img class="ie-fix" src="images/img-13.jpg" alt="Antonio Goncalves" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/agoncal" target="_blank">Antonio Goncalves</a></strong>
+						<p>Java Champion, JUG Leader, Devoxx France, Author</p>
+						<a href="https://twitter.com/agoncal" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/jodastephen" target="_blank"><img class="ie-fix" src="images/img-14.jpg" alt="Stephan Colebourne" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/jodastephen" target="_blank">Stephan Colebourne</a></strong>
+						<p>Java developer, blogger and speaker, known for Joda projects and JSR-310</p>
+						<a href="https://twitter.com/jodastephen" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/arungupta" target="_blank"><img class="ie-fix" src="images/img-15.jpg" alt="Arun Gupta" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/arungupta" target="_blank">Arun Gupta</a></strong>
+						<p>Java Champion, JavaOne Rockstar, UG Leader, Devoxx4Kids-er, Red Hatter</p>
+						<a href="https://twitter.com/arungupta" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/sjmaple" target="_blank"><img class="ie-fix" src="images/img-16.jpg" alt="Simon Maple" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/sjmaple" target="_blank">Simon Maple</a></strong>
+						<p>Technical Evangelist for ZeroTurnaround,  Java Champion, virtualJUG founder</p>
+						<a href="https://twitter.com/sjmaple" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/steveonjava" target="_blank"><img class="ie-fix" src="images/img-17.jpg" alt="Stephen Chin" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/steveonjava" target="_blank">Stephen Chin</a></strong>
+						<p>JavaFX evangelist, author, speaker, and open-source hacker</p>
+						<a href="https://twitter.com/steveonjava" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/cquinn" target="_blank"><img class="ie-fix" src="images/img-18.jpg" alt="Carl Quin" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/cquinn" target="_blank">Carl Quinn</a></strong>
+						<p>Java Posse member</p>
+						<a href="https://twitter.com/cquinn" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/martinfowler" target="_blank"><img class="ie-fix" src="images/img-19.jpg" alt="Martin Fowler" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/martinfowler" target="_blank">Martin Fowler</a></strong>
+						<p>Programmer, Author &amp; Speaker, Chief Scientist at ThoughtWorks</p>
+						<a href="https://twitter.com/martinfowler" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/brunoborges" target="_blank"><img class="ie-fix" src="images/img-20.jpg" alt="Bruno Borges" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/brunoborges" target="_blank">Bruno Borges</a></strong>
+						<p>Product Manager/Java Jock at Oracle</p>
+						<a href="https://twitter.com/brunoborges" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/unclebobmartin" target="_blank"><img class="ie-fix" src="images/img-21.jpg" alt="Uncle Bob Martin" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/unclebobmartin" target="_blank">Uncle Bob Martin</a></strong>
+						<p>Software Craftsman</p>
+						<a href="https://twitter.com/unclebobmartin" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/puredanger" target="_blank"><img class="ie-fix" src="images/img-22.jpg" alt="Alex Miller" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/puredanger" target="_blank">Alex Miller</a></strong>
+						<p>Tending Clojure @ Cognitect. Creator of Strange Loop, Lambda Jam, Clojure/West</p>
+						<a href="https://twitter.com/puredanger" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/joshbloch" target="_blank"><img class="ie-fix" src="images/img-23.jpg" alt="Joshua Bloch" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/joshbloch" target="_blank">Joshua Bloch</a></strong>
+						<p>Effective Java author, API Designer</p>
+						<a href="https://twitter.com/joshbloch" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/BrianGoetz" target="_blank"><img class="ie-fix" src="images/brian.png" alt="Java Duke" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/BrianGoetz" target="_blank">Brian Goetz</a></strong>
+						<p>Java Language Architect @ Oracle</p>
+						<a href="https://twitter.com/BrianGoetz" class="btn-twitter" target="_blank" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/fabianenardon" target="_blank"><img class="ie-fix" src="images/fabianenardon.png" alt="Mark Reinhold" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/fabianenardon" target="_blank">Fabiane Nardon</a></strong>
+						<p>Chief Scientist at TaliTarget, Founder at ToolsCloud, Java Champion</p>
+						<a href="https://twitter.com/fabianenardon" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/giltene" target="_blank"><img class="ie-fix" src="images/Gil-Tene.png" alt="Gil Tene" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/giltene" target="_blank">Gil Tene</a></strong>
+						<p>CTO &amp; Co-Founder @ Azul Systems</p>
+						<a href="https://twitter.com/giltene" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/starbuxman" target="_blank"><img class="ie-fix" src="images/josh.png" alt="Josh Long" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/starbuxman" target="_blank">Josh Long</a></strong>
+						<p>Spring Developer Advocate @ Pivotal</p>
+						<a href="https://twitter.com/starbuxman" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/vgrazi" target="_blank"><img class="ie-fix" src="images/Victor-Grazi.png" alt="Victor Grazi" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/vgrazi" target="_blank">Victor Grazi</a></strong>
+						<p>VP at Nomura Securities, InfoQ Java Editor, Java Champion</p>
+						<a href="https://twitter.com/vgrazi" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+				<li>
+					<div class="photo-box ie-fix">
+						<a href="https://twitter.com/kcpeppe" target="_blank"><img class="ie-fix" src="images/kcpeppe.png" alt="Kirk Pepperdine" width="83" height="83"></a>
+					</div>
+					<div class="text-box">
+						<strong><a href="https://twitter.com/kcpeppe" target="_blank">Kirk Pepperdine</a></strong>
+						<p>Co-founder &amp; CTO @ jClarity, Java Champion</p>
+						<a href="https://twitter.com/kcpeppe" class="btn-twitter" target="_blank"><img src="images/btn-twitter.png" width="61" height="20"></a>
+					</div>
+				</li>
+			</ul>
+			<span class="decor-07"></span>
+		</section><!-- / twitter-block -->
+	</div>
+	<section class="blog-section">
+		<div class="w1">
+			<header>
+				<h2>READ THE BEST <strong>SOURCES</strong></h2>
+				<div class="text">
+					<p>There are many resources on news sites and blogs that carry valuable insights for your projects. Some are already well known, some a bit less and together they will keep you on the right track.</p>
+					<p> Here are our favorites:</p>
+				</div>
+			</header>
+			<ul class="blog-list">
+				<li class="ie-fix">
+					<div class="text-box">
+						<div class="logo-box">
+							<a href="http://www.javacodegeeks.com" target="_blank"><img src="images/logo-02.jpg" alt="Java Code Geeks" width="95" height="95"></a>
+						</div>
+						<strong><a href="http://www.javacodegeeks.com" target="_blank">Java Code Geeks</a></strong>
+						<p>Java developers resource center</p>
+					</div>
+				</li>
+				<li class="ie-fix">
+					<div class="text-box">
+						<div class="logo-box">
+							<a href="http://www.infoq.com" target="_blank"><img src="images/logo-03.png" alt="InfoQ" width="95" height="95"></a>
+						</div>
+						<strong><a href="http://www.infoq.com" target="_blank">InfoQ</a></strong>
+						<p>Spreading of knowledge and innovation in professional software development</p>
+					</div>
+				</li>
+				<li class="ie-fix">
+					<div class="text-box">
+						<div class="logo-box border-none">
+							<a href="http://www.theserverside.com/" target="_blank"><img src="images/logo-04.png" alt="The ServerSide" width="95" height="95"></a>
+						</div>
+						<strong><a href="http://www.theserverside.com/" target="_blank">The ServerSide</a></strong>
+						<p>For enterprise Java architects and developers</p>
+					</div>
+				</li>
+				<li class="ie-fix">
+					<div class="text-box">
+						<div class="logo-box">
+							<a href="http://java.dzone.com" target="_blank"><img src="images/logo-05.png" alt="Dzone" width="95" height="95"></a>
+						</div>
+						<strong><a href="http://java.dzone.com" target="_blank">Dzone</a></strong>
+						<p>The Javalobby, a curation of guest blog posts</p>
+					</div>
+				</li>
+				<li class="ie-fix">
+					<div class="text-box">
+						<div class="logo-box border-none">
+							<a href="http://javarevisited.blogspot.com" target="_blank"><img src="images/logo-06.png" alt="Javarevisited" width="95" height="95"></a>
+						</div>
+						<strong><a href="http://javarevisited.blogspot.com" target="_blank">Javarevisited</a></strong>
+						<p>A blog about Java and related Java technology stack by Javin Paul, an experienced Java developer</p>
+					</div>
+				</li>
+				<li class="ie-fix">
+					<div class="text-box">
+						<div class="logo-box">
+							<a href="http://takipiblog.com" target="_blank"><img src="images/logo-07.png" alt="Takipi Blog" width="95" height="95"></a>
+						</div>
+						<strong><a href="http://takipiblog.com" target="_blank">Takipi Blog</a></strong>
+						<p>Java, Scala, logging, server debugging and beyond</p>
+					</div>
+				</li>
+				<li class="ie-fix">
+					<div class="text-box">
+						<div class="logo-box">
+							<a href="https://plumbr.eu/blog" target="_blank"><img src="images/logo-08.png" alt="Plumbr Blog" width="95" height="95"></a>
+						</div>
+						<strong><a href="https://plumbr.eu/blog" target="_blank">Plumbr Blog</a></strong>
+						<p>Garbage Collection and core Java posts</p>
+					</div>
+				</li>
+				<li class="ie-fix">
+					<div class="text-box">
+						<div class="logo-box border-none">
+							<a href="http://blog.jooq.org/" target="_blank"><img src="images/logo-09.png" alt="jOOQ" width="95" height="95"></a>
+						</div>
+						<strong><a href="http://blog.jooq.org/" target="_blank">jOOQ</a></strong>
+						<p>Best practices and lessons learned from writing awesome Java and SQL code.</p>
+					</div>
+				</li>
+				<li class="ie-fix">
+					<div class="text-box">
+						<div class="logo-box">
+							<a href="https://github.com/akullpp/awesome-java" target="_blank"><img src="images/logo-10.png" alt="Awesome Java" width="95" height="95"></a>
+						</div>
+						<strong><a href="https://github.com/akullpp/awesome-java" target="_blank">Awesome Java</a></strong>
+						<p>A curated list of awesome Java frameworks, libraries and software</p>
+					</div>
+				</li>
+				<li class="ie-fix">
+					<div class="text-box">
+						<div class="logo-box border-none">
+							<a href="https://dropwizard.github.io/dropwizard/" target="_blank"><img src="images/logo-11.png" alt="OpenJDK" width="95" height="95"></a>
+						</div>
+						<strong><a href="http://openjdk.java.net/" target="_blank">OpenJDK</a></strong>
+						<p>The place to collaborate on an open-source implementation of the Java Platform.</p>
+					</div>
+				</li>
+				<li class="ie-fix">
+					<div class="text-box">
+						<div class="logo-box">
+							<a href="http://www.reddit.com/r/java" target="_blank"><img src="images/logo-12.png" alt="Java subreddit" width="95" height="95"></a>
+						</div>
+						<strong><a href="http://www.reddit.com/r/java" target="_blank">Java subreddit</a></strong>
+						<p>Reddit's Java community</p>
+					</div>
+				</li>
+				<li class="ie-fix">
+					<div class="text-box">
+						<div class="logo-box">
+							<a href="http://zeroturnaround.com/rebellabs/" target="_blank"><img src="images/logo-21.png" alt="Java.net" width="95" height="95"></a>
+						</div>
+						<strong><a href="http://zeroturnaround.com/rebellabs/" target="_blank">RebelLabs</a></strong>
+						<p>A ZeroTurnaround think tank with Java posts, technical reports and whitepapers</p>
+					</div>
+				</li>
+			</ul>
+			<span class="decor-06"></span>
+		</div>
+		<a href="http://www.takipi.com?utm_source=newjava&utm_medium=sidefred&utm_campaign=java">
+		<div class="promo-block">
+			<div class="text-box ie-fix">
+				<strong>Takipi</strong>
+				<span>God mode in production code</span>
+			</div>
+			<img src="images/img-27.png" width="132" height="269">
+		</div>
+		</a>
+		<!-- / promo-block -->
+	</section><!-- / blog-section -->
+	<section class="newsletter-block">
+		<div class="w1">
+			<div class="title-box">
+				<h2>Newsletters</h2>
+			</div>
+			<div class="text">
+				<p>Sometimes it’s hard to keep track of everything in real time. The following newsletters and weekly updates will keep you up to date periodically when you're too busy to sift through everything yourself.</p>
+			</div>
+			<ul class="newsletter-list">
+				<li class="ie-fix">
+					<div class="logo-box">
+						<a href="http://www.javacodegeeks.com/" target="_blank"><img src="images/logo-14.png" alt="JCG" width="91" height="91"></a>
+					</div>
+					<strong><a href="http://www.javacodegeeks.com/" target="_blank">Java Code Geeks</a></strong>
+					<p>The newsletter that gets you on top of things with the most popular Java related content</p>
+				</li>
+				<li class="ie-fix">
+					<div class="logo-box">
+						<a href="http://www.javaspecialists.eu/" target="_blank"><img src="images/logo-15.png" alt="Java Specialists" width="91" height="91"></a>
+					</div>
+					<strong><a href="http://www.javaspecialists.eu/" target="_blank">Java Specialists</a></strong>
+					<p>Hardcore Java in the depths of the JVM. Not for the faint of heart, and a must if you’d like to understand the ins and outs of Java</p>
+				</li>
+				<li class="ie-fix">
+					<div class="logo-box">
+						<a href="http://www.javaworld.com/" target="_blank"><img src="images/logo-16.png" alt="Java World" width="91" height="91"></a>
+					</div>
+					<strong><a href="http://www.javaworld.com/" target="_blank">Java World</a></strong>
+					<p>One of the most popular Java related websites, the newsletter keeps you updated with the latest tutorials and Java community news posted on JavaWorld</p>
+				</li>
+				<li class="ie-fix">
+					<div class="logo-box">
+						<a href="http://www.javaposse.com/" target="_blank"><img src="images/logo-17.png" alt="The Java Posse" width="91" height="91"></a>
+					</div>
+					<strong><a href="http://www.javaposse.com/" target="_blank">The Java Posse</a></strong>
+					<p>Java technology podcast, Java platform news, interviews with leading figures, opinions and “general mayhem”</p>
+				</li>
+				<li class="ie-fix">
+					<div class="logo-box">
+						<a href="http://www.javaperformancetuning.com/" target="_blank"><img src="images/logo-18.png" alt="Java Performance Tuning" width="91" height="91"></a>
+					</div>
+					<strong><a href="http://www.javaperformancetuning.com/" target="_blank">Java Performance Tuning</a></strong>
+					<p>This newsletter’s sole purpose is to cover all aspects of Java performance issues and it does an awesome job with that</p>
+				</li>
+				<li class="ie-fix">
+					<div class="logo-box">
+						<a href="http://oracle.com/javamagazine" target="_blank"><img src="images/logo-20.png" alt="Oracle's Java Magazine" width="91" height="91"></a>
+					</div>
+					<strong><a href="http://oracle.com/javamagazine" target="_blank">Oracle's Java Magazine</a></strong>
+					<p>A bi-monthly magazine with the biggest stories around Java right from the source</p>
+				</li>
+				<li class="ie-fix">
+					<div class="logo-box">
+						<a href="http://www.thoughts-on-java.org/" target="_blank"><img src="images/logo-19.png" alt="Thoughts on Java" width="91" height="91"></a>
+					</div>
+					<strong><a href="http://www.thoughts-on-java.org/" target="_blank">Thoughts on Java</a></strong>
+					<p>Thorben Janssen's blog and weekly recap of the great Java content from all around</p>
+				</li>
+			</ul>
+		</div>
+	</section><!-- / newsleter-block -->
+	<div class="w1">
+		<section class="events-block">
+			<span class="decor-08"><img src="images/img-28.png" width="222" height="218"></span>
+			<span class="decor-09"><img src="images/img-29.png" width="431" height="419"></span>
+			<span class="decor-10"><img src="images/img-30.png" width="280" height="227"></span>
+			<h2>Java events for <span id="monthName"></span> 2014</h2>
+			<p>Nothing beats being there in person, meeting like-minded people, catching that keynote and joining some hands-on workshops. It's your chance to learn from others and contribute back to your community.</p>
+			<div id="calendar"></div>
+			<a href="http://www.java2014.org" class="btn ie-fix">All Java events for 2014 &gt;&gt;</a>
+			<div class="socialWrapper">
+				<div class="social">
+					<span class="facebook">
+						<div class="fb-like" data-width="50" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+					</span>
+					<span class="google">
+						<div class="g-plusone" data-annotation="bubble" data-size="medium"></div>
+					</span>
+					<span class="twitter">
+						<a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-text="What's new in Java? via @takipid">Tweet</a>
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+					</span>
+				</div>
+			</div>
+		</section><!-- / events-block -->
+	</div>
+</div><!-- / wrapper -->
+
+
+<div class="footer">
+	<div class="miniSignupContainer">
+		<div class="miniSignupImage">
+		<div class="topText1 topText"><p>Detect 100%<br/>production errors</p></div>
+		<div class="topText2 topText"><p>See the variables<br/>behind every error</p></div>
+		<div class="topText3 topText"><p>Debugging at scale<br/>finally made easy</p></div>
+		<div class="leftText bottomText"><p>Takipi - Start a free trial</p></div>
+		<div class="rightText bottomText"><p>Deploy Takipi</br>and get a free java T-shirt</p></div>
+		<div class="miniSignupDialog"></div>
+		</div>
+	</div>
+	<div class="bottomNotes">
+		<div class="leftNotes">
+			<p>
+			Comments ot suggestions? </br>
+			Drop us an email on  <a href="mailto:hello@takipi.com">hello@takipi.com</a> or tweet <a href="https://twitter.com/takipid">@takipid</a>
+			</p>
+		</div>
+		<div class="rightNotes">
+			<p>
+			Our FEDs loved <a href="http://uptodate.frontendrescue.org/">Front-end rescue</a> so much</br>
+			that we were inspired to create a Java version
+			</p>
+		</div>
+		<div class="notesSplitter"></div>
+	</div>
+</div>
+
+<script type="text/javascript">
+	adroll_adv_id = "RTHTY4IRUVAN5CPZ5YUQ46";
+	adroll_pix_id = "UW2XQSYWXVA4VHGMKZD5WU";
+	(function () {
+	var oldonload = window.onload;
+	window.onload = function(){
+	   __adroll_loaded=true;
+	   var scr = document.createElement("script");
+	   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+	   scr.setAttribute('async', 'true');
+	   scr.type = "text/javascript";
+	   scr.src = host + "/j/roundtrip.js";
+	   ((document.getElementsByTagName('head') || [null])[0] ||
+	    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+	   if(oldonload){oldonload()}};
+	}());
+</script>
+</body>
+</html>

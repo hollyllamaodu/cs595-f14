@@ -1,0 +1,1514 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+
+
+	<head>
+
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+
+
+
+		<meta name="viewport" content="initial-scale=0.783673, user-scalable=no" id="viewport">
+
+
+
+		<title>South Park - Watch Full Episodes, Clips & More | South Park Studios</title>
+		<meta name="description" content="Watch Cartman, Kenny, Stan and Kyle in all their foul-mouthed adventures.  Stream free episodes and clips, play games, create an avatar and go behind-the-scenes of Trey and Matt's award winning series." />
+
+		<link rel="canonical" href="http://southpark.cc.com" />
+
+		
+		
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<link rel="image_src" href="http://2.images.southparkstudios.com/default/image.jpg?quality=0.8" />
+	
+
+		<meta property="fb:app_id" content="137822872980280" />
+		<meta property="og:type" content="video.tv_show" />
+		<meta property="og:title" content="South Park - Watch Full Episodes, Clips & More" />
+		<meta property="og:description" content="Watch Cartman, Kenny, Stan and Kyle in all their foul-mouthed adventures.  Stream free episodes and clips, play games, create an avatar and go behind-the-scenes of Trey and Matt's award winning series." />
+		<meta property="og:url" content="http://southpark.cc.com/" />
+		<meta property="og:image" content="http://2.images.southparkstudios.com/default/image.jpg?quality=0.8" />
+ 	
+
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:site" content="@SouthPark" />
+		<meta name="twitter:title" content="South Park - Watch Full Episodes, Clips & More" />
+		<meta name="twitter:description" content="Watch Cartman, Kenny, Stan and Kyle in all their foul-mouthed adventures.  Stream free episodes and clips, play games, create an avatar and go behind-the-scenes of Trey and Matt's award winning series." />
+		<meta name="twitter:image" content="http://2.images.southparkstudios.com/default/image.jpg?quality=0.8" />
+
+
+
+		<link id="sheet-normalize" rel="stylesheet" type="text/css" href="/sitewide/css/normalize.css">
+		<link id="sheet-fonts" rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+
+
+		
+
+		<!--[if lte IE 8]>
+		<link id="sheet-main-ie8" rel="stylesheet" type="text/css" href="/sitewide/css/main-ie8.css">
+		<![endif]-->
+		
+
+		<!--[if gte IE 9]><!-->
+		
+		
+		<link id="sheet-main" rel="stylesheet" type="text/css" href="/sitewide/css/main.css">
+		
+
+		<!--<![endif]-->
+
+
+
+
+
+
+
+		<script type="text/javascript">
+		var isIE = /*@cc_on!@*/!1;  // [Boolean]
+		if(!isIE)
+			document.domain = "southpark.cc.com";
+		</script>
+
+		<!--[if !IE]><!-->
+		<script type="text/javascript" src="/sitewide/js/mobileDetect.js"></script>
+		<script type="text/javascript">
+
+
+
+
+			// set the viewport as soon as possible to prevent device flickering
+			if (mobileDetect.isAny() && !mobileDetect.isIpad() && !mobileDetect.isAndroidTablet()) {
+				// TODO redirect to mobile site
+			} else if (mobileDetect.isIpad() || mobileDetect.isAndroidTablet()) {
+				document.write('<link id="sheet-breakpoint-tablet" rel="stylesheet" type="text/css" href="/sitewide/css/breakpoint-tablet.css" disabled>');
+				document.head.parentNode.className += ' tablet';
+
+				if (mobileDetect.isAndroidTablet()) {
+					document.head.parentNode.className += ' android';
+				}
+			} else {
+				document.write('<link id="sheet-breakpoint-desktop-mobile" rel="stylesheet" type="text/css" href="/sitewide/css/breakpoint-desktop.css">');
+			}
+
+
+		</script>
+		<!--<![endif]-->
+
+		<!--[if IE]>
+		<link id="sheet-breakpoint-desktop-mobile" rel="stylesheet" type="text/css" href="/sitewide/css/breakpoint-desktop-mobile.css">
+		<script type="text/javascript" src="/sitewide/js/mobileDetect.js"></script>
+		<![endif]-->
+
+		<!--[if lt IE 9]>
+		<script src="/sitewide/js/vendor/jquery-1.10.2.min.js"></script>
+		<![endif]-->
+		<!--[if gte IE 9]><!-->
+		<script src="/sitewide/js/vendor/jquery-2.0.2.min.js"></script>
+		<!--<![endif]-->
+
+
+
+		<!--[if gte IE 9]>
+		<style type="text/css">
+			.gradient {
+				filter: none !important;
+			}
+		</style>
+		<![endif]-->
+
+
+
+
+
+		<!--[if lt IE 9]>
+		<script type="text/javascript" src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+
+
+
+	<script type="text/javascript" src="//connect.facebook.net/en_US/all.js#xfbml=1&appId=137822872980280"></script>
+
+	<script type="text/javascript">
+		window.rootUrl = '/sitewide/';
+
+		var CONFIG = {
+			base_url     : '/sitewide/',
+			
+			userIsAuthed : 
+false
+
+
+		};
+
+		var USER_QUEUE =
+
+
+
+[]
+
+
+;
+
+		if (window.self !== window.parent) {
+			window.parent.CONFIG.userIsAuthed = CONFIG.userIsAuthed;
+			window.parent.USER_QUEUE = USER_QUEUE;
+		}
+	</script>
+	</head>
+	<body
+					data-page="home"
+				class=""
+		data-collection-api-url="http://southpark.cc.com/feeds/"
+		data-queue-api-url="http://southpark.cc.com/feeds/"
+
+>
+		
+
+		<h1 style="display: none;">South Park - Watch Full Episodes, Clips & More | South Park Studios</h1>
+
+
+		<div class="iframe-overlay">
+			<div class="loading-text">Loading...</div>
+		</div>
+
+
+
+		<div id="container">
+
+
+			
+			<div id="sidebar" class="iframe">
+								<iframe src="/iframes/sidebar" id="sidebar-iframe" frameborder="0" scrolling="no"></iframe>
+							</div>
+
+
+
+			<div id="main" class="iframe">
+
+
+
+				
+<!-- No leaderboard today, folks -->
+
+
+
+
+
+				
+				<section id="main_content" class="content home">
+					
+
+
+					<div class="shadows"></div>
+
+
+
+					
+					<div class="loader">
+						<div class="container clearfix">
+							<div></div>
+							<div></div>
+							<div></div>
+							<div></div>
+							<div></div>
+							<div></div>
+							<div></div>
+							<div></div>
+						</div>
+					</div>
+
+					
+					<header id="main_header">
+<section class="nav 
+ powered-by-hulu
+	
+" data-moduletracking="SPS_top-nav">
+	<div class="mobile-menu">
+		<a href="" id="menu-anchor">&nbsp;</a>
+	</div>
+	<!-- asdf -->
+<nav class="main-nav" id="header-main-nav">
+	<header>
+		<span class="logo beta" id="nav-logo-beta">
+			<a href="/"></a>
+			<div class="powered-by">
+				Powered by&nbsp;<a href="http://www.hulu.com/"><img src="/sitewide/img/hulu-logo.png"/></a>
+			</div>
+		</span>
+
+	</header>
+
+	<ul>
+
+
+		<li class="episodes">
+			<a href="/full-episodes">Full Episodes</a>
+		</li>
+
+
+		<li class="wiki">
+			<a href="/wiki">Wiki</a>
+		</li>
+
+
+		<li class="blog">
+			<a href="/blog">Blog</a>
+		</li>
+
+
+		<li class="avatars">
+			<a href="/avatar">Avatar</a>
+		</li>
+
+
+		<li class="games">
+			<a href="/games">Games</a>
+		</li>
+
+
+		<li class="forum">
+			<a href="/forum">Forum</a>
+		</li>
+
+
+		<li class="shop">
+			<a href="/shop">Shop</a>
+		</li>
+
+
+		<li class="schedule">
+			<a href="/schedule">Schedule</a>
+		</li>
+		<li class="more">
+			<span>More &#x25BE;</span>
+			<ul>
+			</ul>
+		</li>
+	</ul>
+</nav>
+
+
+
+
+
+
+
+
+
+
+	<section class="greeting">
+		<nav class="main-nav">
+			<div>
+				<span class="welcome"><span>Stranger</span></span>
+				<span class="messages"><a class="login-auth" href="#login">Sign in, buddy.</a></span>
+			</div>
+			<a href="/profile/" class="sub-nav-arrow-target" data-view="profileCollections" data-sub-nav="profile"><img src="http://2.images.southparkstudios.com/default/expression_default.png?height=34&quality=0.8"/></a>
+		</nav>
+	</section>
+
+
+	<section class="menu" id="header-menu-nav">
+		<span class="search icon-search"></span>
+		<span class="queue">0</span>
+	</section>
+
+
+
+
+
+	<section class="search-container">
+		<form method="get" action="http://southpark.cc.com/search" id="search_form">
+			<input type="text" name="keywords" id="keywords" placeholder="Enter a keyword or search by your favorite South Park quote"/>
+			<button class="icon-search"></button>
+		</form>
+		<div class="arrow"></div>
+	</section>
+
+
+
+
+
+	<section class="queue-container offline scroll-area" data-allow-desktop-expand="true" data-collapse-on-window-click="true">
+ 		<div class="outer-area">
+			<!-- <div class="scrollbar">
+ 				<div class="scroll-thumb" draggable="true"></div>
+			</div> -->
+ 
+ 			<div class="inner-area">
+				<section class="">
+ 					<header class="content-header clearfix">
+						<h4>please login or register</h4>
+						<p>Our queue is available only to registered users.<br>
+							Please <a class="login-auth" href="#login">Login or Register</a> in order to use this feature.</p>
+ 					</header>
+ 				</section>
+ 			</div>
+ 		</div>
+	</section>
+
+
+
+</section>
+
+
+
+
+<!-- No callout -->
+					</header>
+
+					
+					<section class="page-content home  with-mobile-ad-header with-mobile-ad-footer">
+						
+
+
+
+
+
+						
+
+<div class="home" data-view="home">
+<section class="module hero no-sponsors" data-moduletracking="SPS_HPmain">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="background" style="background-image:url('http://1.images.southparkstudios.com/shared/homepage/hero/episodes/season-18/1802/sp_hpHero_s18e02_new.jpg?quality=0.8'),url('http://2.images.southparkstudios.com/shared/homepage/hero/shop/sp_go_fund_yourself_shirts_shop.jpg?quality=0.8'),url('http://3.images.southparkstudios.com/shared/homepage/hero/episodes/SP_creator_carousel_s12.jpg?quality=0.8'),url('http://1.images.southparkstudios.com/shared/homepage/hero/episodes/season-18/1801/sp_hpHero_s18e01_weds.jpg?quality=0.8'),url('http://3.images.southparkstudios.com/shared/homepage/hero/blog/faq/sp_FAQ_When_do_new_episodes_go_up_on_the_site.jpg?quality=0.8');background-position:50% 50%,50% 50%,50% 50%,50% 50%,50% 50%;"></div>
+
+<div class="container" data-cta-direction="left">
+			<section class="cta clearfix cta-selector version2  active" data-background="http://1.images.southparkstudios.com/shared/homepage/hero/episodes/season-18/1802/sp_hpHero_s18e02_new.jpg?quality=0.8" data-display-time="6000">
+			<a href="http://southpark.cc.com/full-episodes/s18e02-gluten-free-ebola" class="fill"></a>
+			<div class="buttons">
+				
+									<a class="button watch play-video icon-watch" href="http://southpark.cc.com/full-episodes/s18e02-gluten-free-ebola">
+						<span class="text">Watch</span>
+					</a>
+							</div>
+
+
+
+		</section>
+			<section class="cta clearfix cta-selector version2 " data-background="http://2.images.southparkstudios.com/shared/homepage/hero/shop/sp_go_fund_yourself_shirts_shop.jpg?quality=0.8" data-display-time="6000">
+			<a href="http://shop.southparkstudios.com/category/81478847701/1/Go-Fund-Yourself.htm?utm_source=spcccom&utm_medium=hpmarquee&utm_campaign=gofundyourself" class="fill"></a>
+			<div class="buttons">
+				
+									<a class="button" href="http://shop.southparkstudios.com/category/81478847701/1/Go-Fund-Yourself.htm?utm_source=spcccom&utm_medium=hpmarquee&utm_campaign=gofundyourself">
+						<span class="text">Buy Now</span>
+					</a>
+							</div>
+
+
+
+		</section>
+			<section class="cta clearfix cta-selector version2 " data-background="http://3.images.southparkstudios.com/shared/homepage/hero/episodes/SP_creator_carousel_s12.jpg?quality=0.8" data-display-time="6000">
+			<a href="/collections/1649/season-12-creator-commentary/1" class="fill"></a>
+			<div class="buttons">
+				
+									<a class="button" href="/collections/1649/season-12-creator-commentary/1">
+						<span class="text">Watch Now</span>
+					</a>
+							</div>
+
+
+
+		</section>
+			<section class="cta clearfix cta-selector version2 " data-background="http://1.images.southparkstudios.com/shared/homepage/hero/episodes/season-18/1801/sp_hpHero_s18e01_weds.jpg?quality=0.8" data-display-time="6000">
+			<a href="http://southpark.cc.com/full-episodes/s18e01-go-fund-yourself" class="fill"></a>
+			<div class="buttons">
+				
+									<a class="button watch play-video icon-watch" href="http://southpark.cc.com/full-episodes/s18e01-go-fund-yourself">
+						<span class="text">Watch</span>
+					</a>
+							</div>
+
+
+
+		</section>
+			<section class="cta clearfix cta-selector version2 " data-background="http://3.images.southparkstudios.com/shared/homepage/hero/blog/faq/sp_FAQ_When_do_new_episodes_go_up_on_the_site.jpg?quality=0.8" data-display-time="6000">
+			<a href="/blog/2014/09/25/fan-question-when-do-new-episodes-go-up-on-the-site" class="fill"></a>
+			<div class="buttons">
+				
+									<a class="button" href="/blog/2014/09/25/fan-question-when-do-new-episodes-go-up-on-the-site">
+						<span class="text">Read Now</span>
+					</a>
+							</div>
+
+
+
+		</section>
+	</div>
+
+<div class="scroll" style="text-align: center">
+	<ul>
+					<li class="progress-bg" data-index="0">
+				<div class="progress-fg" id='pb0' class="active"></div>
+			</li>
+					<li class="progress-bg" data-index="1">
+				<div class="progress-fg" id='pb1' class=""></div>
+			</li>
+					<li class="progress-bg" data-index="2">
+				<div class="progress-fg" id='pb2' class=""></div>
+			</li>
+					<li class="progress-bg" data-index="3">
+				<div class="progress-fg" id='pb3' class=""></div>
+			</li>
+					<li class="progress-bg" data-index="4">
+				<div class="progress-fg" id='pb4' class=""></div>
+			</li>
+			</ul>
+</div>
+
+
+
+
+</section><section class="module random-video clearfix" data-moduletracking="SPS_Randomcoll">
+	 	<a class="random-episode" href="/full-episodes/random"><img src="/sitewide/img/random-icon.png"/>&nbsp;&nbsp;&nbsp;Watch Random Episode</a>
+	</section>
+	<div class="view-gradient"></div>
+
+
+	
+
+		
+		<section class=" module carousel desktopCarousel clearfix"
+				
+			    data-url="/feeds/carousel/video/2b6c5ab4-d717-4e84-9143-918793a3b636/{resultsPerPage}/{currentPage}/json/{sort}/63a32034-1ea6-492d-b95b-9433e3f62f8d"
+			    data-results-per-page="14"
+			    data-current-page="1"
+			    data-sort="airdate"
+			    data-count="30"
+			    				>
+			<header class="carousel-header">
+	<h2 class="white ">
+					Free Episodes
+			</h2>
+	
+
+					<div class="dropdowns enabled">
+	<aside>
+		<!-- label for="sort">Sort By</label -->
+		
+		<div class="select-style">
+			<div class="select-chevron icon-chevron-down"></div>
+			<div class="select-wrapper">
+				<span class="select-option">Airdate</span>
+				<select id="sort" name="sort" disabled>
+					<option value="airdate" selected="selected">Airdate</option>
+					<option value="title" >Alpha</option>
+					<option value="views" >Popular</option>
+				</select>
+			</div>
+		</div>
+	</aside>
+</div>
+			
+
+</header>
+
+
+
+
+<div class="elastislide-wrapper elastislide-horizontal">
+	<div class="elastislide-carousel">
+		
+		<ul class="elastislide-list">
+			
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/full-episodes/s18e02-gluten-free-ebola">Gluten Free Ebola</a>
+
+		
+	
+				
+								
+					<a class="carouselseo" href="http://southpark.cc.com/full-episodes/s18e01-go-fund-yourself">Go Fund Yourself</a>
+
+		
+	
+						</li>
+			
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/full-episodes/s17e03-world-war-zimmerman">World War Zimmerman</a>
+
+		
+	
+				
+								
+					<a class="carouselseo" href="http://southpark.cc.com/full-episodes/s17e02-informative-murder-porn">Informative Murder Porn</a>
+
+		
+	
+						</li>
+			
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/full-episodes/s17e01-let-go-let-gov">Let Go, Let Gov</a>
+
+		
+	
+				
+								
+					<a href="">
+				
+			</a>
+		
+	
+						</li>
+			
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+	
+				
+								
+					<a href="">
+				
+			</a>
+		
+	
+						</li>
+			
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+	
+				
+								
+					<a href="">
+				
+			</a>
+		
+	
+						</li>
+			
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+	
+				
+								
+					<a href="">
+				
+			</a>
+		
+	
+						</li>
+			
+					</ul>
+	</div>
+</div>
+
+
+		</section>
+	
+
+
+	
+
+		
+		<section class=" module carousel desktopCarousel clearfix"
+				
+			    data-url="/feeds/carousel/video/ff4daa77-43e0-4601-8fd6-21ea1daf9c19/{resultsPerPage}/{currentPage}/json/{sort}"
+			    data-results-per-page="14"
+			    data-current-page="1"
+			    data-sort="airdate"
+			    data-count="3584"
+			    				>
+			<header class="carousel-header">
+	<h2 class="white ">
+					Featured Clips
+			</h2>
+	
+
+					<div class="dropdowns enabled">
+	<aside>
+		<!-- label for="sort">Sort By</label -->
+		
+		<div class="select-style">
+			<div class="select-chevron icon-chevron-down"></div>
+			<div class="select-wrapper">
+				<span class="select-option">Airdate</span>
+				<select id="sort" name="sort" disabled>
+					<option value="airdate" selected="selected">Airdate</option>
+					<option value="title" >Alpha</option>
+					<option value="views" >Popular</option>
+				</select>
+			</div>
+		</div>
+	</aside>
+</div>
+			
+
+</header>
+
+
+
+
+<div class="elastislide-wrapper elastislide-horizontal">
+	<div class="elastislide-carousel">
+		
+		<ul class="elastislide-list">
+			
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/clips/qcl2i8/flip-the-pyramid">Flip the Pyramid</a>
+
+		
+	
+				
+								
+					<a class="carouselseo" href="http://southpark.cc.com/clips/ben022/gluten-free-mkay">Gluten Free, Mkay?</a>
+
+		
+	
+						</li>
+			
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/clips/pf6vsq/dripping-in-bitches">Dripping in Bitches</a>
+
+		
+	
+				
+								
+					<a class="carouselseo" href="http://southpark.cc.com/clips/ktabrz/what-about-ice-cream">WHAT ABOUT ICE CREAM?!?</a>
+
+		
+	
+						</li>
+			
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/clips/kc1xnh/whats-the-point">What's the Point?</a>
+
+		
+	
+				
+								
+					<a href="">
+				
+			</a>
+		
+	
+						</li>
+			
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+	
+				
+								
+					<a href="">
+				
+			</a>
+		
+	
+						</li>
+			
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+	
+				
+								
+					<a href="">
+				
+			</a>
+		
+	
+						</li>
+			
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+	
+				
+								
+					<a href="">
+				
+			</a>
+		
+	
+						</li>
+			
+					</ul>
+	</div>
+</div>
+
+
+		</section>
+	
+
+
+	
+
+		
+		<section class=" module carousel desktopCarousel clearfix"
+				
+			    data-url="/feeds/carousel/video/9d8fe822-953f-41db-a98c-0f049218b9b1/{resultsPerPage}/{currentPage}/json/{sort}"
+			    data-results-per-page="14"
+			    data-current-page="1"
+			    data-sort="views"
+			    data-count="23"
+			    data-collection="true"				>
+			<header class="carousel-header">
+	<h2 class="white ">
+					Featured Collections
+			</h2>
+	
+
+					<div class="dropdowns enabled">
+	<aside>
+		<!-- label for="sort">Sort By</label -->
+		
+		<div class="select-style">
+			<div class="select-chevron icon-chevron-down"></div>
+			<div class="select-wrapper">
+				<span class="select-option">Popular</span>
+				<select id="sort" name="sort" disabled>
+					<option value="airdate" >Newest</option>
+					<option value="!airdate" >Oldest</option>
+					<option value="title" >A to Z</option>
+					<option value="!title" >Z to A</option>
+					<option value="views" selected="selected">Popular</option>
+				</select>
+			</div>
+		</div>
+	</aside>
+</div>
+			
+
+</header>
+
+
+
+
+<div class="elastislide-wrapper elastislide-horizontal">
+	<div class="elastislide-carousel">
+		
+		<ul class="elastislide-list">
+			
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/collections/1483/season-11-creator-commentary/1">Season 11: Creator Commentary</a>
+
+		
+	
+				
+								
+					<a class="carouselseo" href="http://southpark.cc.com/collections/1364/south-park-kickoff/1">South Park Kickoff</a>
+
+		
+	
+						</li>
+			
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/collections/1394/season-9-creator-commentary/1">Season 9: Creator Commentary</a>
+
+		
+	
+				
+								
+					<a class="carouselseo" href="http://southpark.cc.com/collections/1419/back-to-school/1">Back To School</a>
+
+		
+	
+						</li>
+			
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/collections/1466/season-10-creator-commentary/1">Season 10: Creator Commentary</a>
+
+		
+	
+				
+								
+					<a href="">
+				
+			</a>
+		
+	
+						</li>
+			
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+	
+				
+								
+					<a href="">
+				
+			</a>
+		
+	
+						</li>
+			
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+	
+				
+								
+					<a href="">
+				
+			</a>
+		
+	
+						</li>
+			
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+	
+				
+								
+					<a href="">
+				
+			</a>
+		
+	
+						</li>
+			
+					</ul>
+	</div>
+</div>
+
+
+		</section>
+	
+
+
+
+
+  <section style="margin-top: 60px;" class="module blog clearfix" rows="0" page="1" sort="" data-url="/feeds/carousel/blog/8794ead4-b3cf-40bd-946c-07ab54eb4902/{resultsPerPage}/{currentPage}/json" data-moduletracking="SPS_Blog">
+
+  <div class="container clearfix">
+    <header>
+      <h3>From the South Park Blog</h3>
+    </header>
+
+    <div class="arrow icon-chevron-left left"></div>
+    <div class="arrow icon-chevron-right right"></div>
+
+  <div class="row">
+	<section class="articles">
+				<div class="article-wrapper">
+			<article class="container clearfix">
+				<h6>10.03.2014</h6>
+				
+				<h3><a href="http://southpark.cc.com/blog/2014/10/03/fan-question-was-that-scene-with-dan-snyder-crying-a-parody-of-something">Fan Question: Was that scene with Dan Snyder crying a parody of something?</a></h3>
+
+				<p>
+					Just watched “Go Fund Yourself”... was that scene with Dan Snyder crying a parody of something?  I feel like I saw that in a movie once…
+				</p>
+				
+				<div class="buttons">
+					<a class='button' href="http://southpark.cc.com/blog/2014/10/03/fan-question-was-that-scene-with-dan-snyder-crying-a-parody-of-something"><span>Read</span></a>
+				</div>
+			</article>
+		</div>
+				<div class="article-wrapper">
+			<article class="container clearfix">
+				<h6>10.03.2014</h6>
+				
+				<h3><a href="http://southpark.cc.com/blog/2014/10/03/new-go-fund-yourself-shirts-up-in-the-shop">New Shirts Up in the Shop!</a></h3>
+
+				<p>
+					Bro down with some brand new gear from the season premiere episode, "Go Fund Yourself"....
+
+				</p>
+				
+				<div class="buttons">
+					<a class='button' href="http://southpark.cc.com/blog/2014/10/03/new-go-fund-yourself-shirts-up-in-the-shop"><span>Read</span></a>
+				</div>
+			</article>
+		</div>
+				<div class="article-wrapper">
+			<article class="container clearfix">
+				<h6>10.02.2014</h6>
+				
+				<h3><a href="http://southpark.cc.com/blog/2014/10/02/watch-gluten-free-ebola-now">Watch “Gluten Free Ebola” Now!</a></h3>
+
+				<p>
+					The new episode is now live on the site. Watch "Gluten Free Ebola" for FREE here...
+				</p>
+				
+				<div class="buttons">
+					<a class='button' href="http://southpark.cc.com/blog/2014/10/02/watch-gluten-free-ebola-now"><span>Read</span></a>
+				</div>
+			</article>
+		</div>
+				<div class="article-wrapper">
+			<article class="container clearfix">
+				<h6>10.02.2014</h6>
+				
+				<h3><a href="http://southpark.cc.com/blog/2014/10/02/season-12-creator-commentary-with-matt-and-trey">“Season 12: Creator Commentary” with Matt and Trey</a></h3>
+
+				<p>
+					Go behind-the-scenes of every Season 12 episode with commentary from Matt and Trey!
+				</p>
+				
+				<div class="buttons">
+					<a class='button' href="http://southpark.cc.com/blog/2014/10/02/season-12-creator-commentary-with-matt-and-trey"><span>Read</span></a>
+				</div>
+			</article>
+		</div>
+				<div class="article-wrapper">
+			<article class="container clearfix">
+				<h6>10.01.2014</h6>
+				
+				<h3><a href="http://southpark.cc.com/blog/2014/10/01/gluten-free-ebola-hits-south-park-tonight">“Gluten Free Ebola” Hits South Park TONIGHT!</a></h3>
+
+				<p>
+					Catch the all-new episode "Gluten Free Ebola", premiering tonight @ 10p ET on Comedy Central!
+				</p>
+				
+				<div class="buttons">
+					<a class='button' href="http://southpark.cc.com/blog/2014/10/01/gluten-free-ebola-hits-south-park-tonight"><span>Read</span></a>
+				</div>
+			</article>
+		</div>
+				<div class="article-wrapper">
+			<article class="container clearfix">
+				<h6>10.01.2014</h6>
+				
+				<h3><a href="http://southpark.cc.com/blog/2014/10/01/go-fund-yourself-live-tweet-tonight">“Go Fund Yourself” Live Tweet Tonight</a></h3>
+
+				<p>
+					TONIGHT!  We’re taking you behind the scenes of “Go Fund Yourself” — join us for the Live Tweet Event @ 9:30p EST, right before the new episode!
+				</p>
+				
+				<div class="buttons">
+					<a class='button' href="http://southpark.cc.com/blog/2014/10/01/go-fund-yourself-live-tweet-tonight"><span>Read</span></a>
+				</div>
+			</article>
+		</div>
+				<div class="article-wrapper">
+			<article class="container clearfix">
+				<h6>09.30.2014</h6>
+				
+				<h3><a href="http://southpark.cc.com/blog/2014/09/30/gluten-free-ebola-premieres-tomorrow-night">“Gluten Free Ebola” Premieres Tomorrow Night!</a></h3>
+
+				<p>
+					South Park goes gluten free in this week’s all-new episode “Gluten Free Ebola” -- premiering tomorrow, October 1st @ 10p on Comedy Central!
+				</p>
+				
+				<div class="buttons">
+					<a class='button' href="http://southpark.cc.com/blog/2014/09/30/gluten-free-ebola-premieres-tomorrow-night"><span>Read</span></a>
+				</div>
+			</article>
+		</div>
+				<div class="article-wrapper">
+			<article class="container clearfix">
+				<h6>09.30.2014</h6>
+				
+				<h3><a href="http://southpark.cc.com/blog/2014/09/30/go-fund-yourself-live-tweet-tomorrow-before-the-new-episode">“Go Fund Yourself” Live Tweet Tomorrow, Before The New Episode!</a></h3>
+
+				<p>
+					Bro Down with our behind-the-scenes Live Tweet of “Go Fund Yourself” -- TOMORROW NIGHT @ 9:30p EST, right before the premiere of “Gluten Free Ebola”!
+				</p>
+				
+				<div class="buttons">
+					<a class='button' href="http://southpark.cc.com/blog/2014/09/30/go-fund-yourself-live-tweet-tomorrow-before-the-new-episode"><span>Read</span></a>
+				</div>
+			</article>
+		</div>
+				<div class="article-wrapper">
+			<article class="container clearfix">
+				<h6>09.29.2014</h6>
+				
+				<h3><a href="http://southpark.cc.com/blog/2014/09/29/gluten-free-ebola-preview-clip">“Gluten Free Ebola” Preview Clip</a></h3>
+
+				<p>
+					Randy and Sharon panic to clean out their kitchen — part of this Wednesday’s all-new episode, “Gluten Free Ebola”…
+				</p>
+				
+				<div class="buttons">
+					<a class='button' href="http://southpark.cc.com/blog/2014/09/29/gluten-free-ebola-preview-clip"><span>Read</span></a>
+				</div>
+			</article>
+		</div>
+				<div class="article-wrapper">
+			<article class="container clearfix">
+				<h6>09.29.2014</h6>
+				
+				<h3><a href="http://southpark.cc.com/blog/2014/09/29/watch-season-11-creator-commentary-with-matt-and-trey">Watch “Season 11: Creator Commentary” with Matt and Trey</a></h3>
+
+				<p>
+					Take a behind-the-scenes look at Season 11 episodes with commentary from Matt and Trey!
+				</p>
+				
+				<div class="buttons">
+					<a class='button' href="http://southpark.cc.com/blog/2014/09/29/watch-season-11-creator-commentary-with-matt-and-trey"><span>Read</span></a>
+				</div>
+			</article>
+		</div>
+			</section>
+	<div class="background" style="background-image:url('http://2.images.southparkstudios.com/blogs/southparkstudios.com/files/2014/10/1801-snyder-crying01.jpg?quality=0.8'),url('http://1.images.southparkstudios.com/blogs/southparkstudios.com/files/2014/10/sp_1801_blog_go_fund_yourself_tshirt.jpg?quality=0.8'),url('http://3.images.southparkstudios.com/blogs/southparkstudios.com/files/2014/10/1802_Premiere_DickFly.jpg?quality=0.8'),url('http://4.images.southparkstudios.com/blogs/southparkstudios.com/files/2014/09/sp_s12_Commentary.jpg?quality=0.8'),url('http://3.images.southparkstudios.com/blogs/southparkstudios.com/files/2014/10/1802-press-art-image-02.jpg?quality=0.8'),url('http://1.images.southparkstudios.com/blogs/southparkstudios.com/files/2014/10/1801_LiveTweet_BTS.jpg?quality=0.8'),url('http://3.images.southparkstudios.com/blogs/southparkstudios.com/files/2014/09/1802-glutenfree-promo.jpg?quality=0.8'),url('http://3.images.southparkstudios.com/blogs/southparkstudios.com/files/2014/09/1801_LiveTweet.jpg?quality=0.8'),url('http://4.images.southparkstudios.com/blogs/southparkstudios.com/files/2014/09/sp-1802-960x540-02.jpg?quality=0.8'),url('http://2.images.southparkstudios.com/blogs/southparkstudios.com/files/2014/09/SP_creator_blog_s11.jpg?quality=0.8')"></div>
+</div>  </div>
+
+</section>
+
+
+
+
+
+	<section class="module wiki carousel-old single-row clearfix" rows="4" page="1" sort="" data-count="" data-url="/feeds/carousel/wiki/d78baf8e-c5da-4902-8279-d05917ac37f3/{resultsPerPage}/{currentPage}/json" data-moduletracking="SPS_Wiki">
+
+		<div class="container clearfix">
+	<header>
+		<h3>Wiki Updates</h3>
+								</h3>
+	</header>
+
+	<div class="arrow icon-chevron-left left disabled"></div>
+	<div class="arrow icon-chevron-right right"></div>
+
+
+		<ul class="elastislide-list">
+							<li>
+					<article class="thumb">
+	<a href="http://southpark.cc.com/wiki/Gluten_Free_Ebola" class="fill" style="position: relative;">
+		<div class="gradient"></div>
+
+		<header>
+			<h6>October 03, 2014</h6>
+			<h4>Gluten Free Ebola</h4>
+		</header>
+
+		<p>
+			[[Mr. Mackey]] is now gluten free and everyone is annoyed when he won’t quit preaching about how great he feels. But, after witnessing a disturbing demonstration of what happens to your body when you do eat gluten, South Park becomes the first town in America to go gluten free.    *"You said you'd be 'Drippn' In bitches'." - [[Wendy Testaburger]]
+		</p>
+	</a>
+	<a href="http://southpark.cc.com/wiki/Gluten_Free_Ebola">Read</a>
+</article>
+				</li>
+							<li>
+					<article class="thumb">
+	<a href="http://southpark.cc.com/wiki/Gary_Harrison_Sr." class="fill" style="position: relative;">
+		<div class="gradient"></div>
+
+		<header>
+			<h6>October 03, 2014</h6>
+			<h4>Gary Harrison Sr.</h4>
+		</header>
+
+		<p>
+			"Now how about we do some scripture readings from the Book of Mormon!"
+		</p>
+	</a>
+	<a href="http://southpark.cc.com/wiki/Gary_Harrison_Sr.">Read</a>
+</article>
+				</li>
+							<li>
+					<article class="thumb">
+	<a href="http://southpark.cc.com/wiki/Jimmy_Valmer" class="fill" style="position: relative;">
+		<div class="gradient"></div>
+
+		<header>
+			<h6>October 03, 2014</h6>
+			<h4>Jimmy Valmer</h4>
+		</header>
+
+		<p>
+			Jimmy is a fellow classmate of the boys, originally introduced to us when the boys were in Boy Scouts. He is "Handi-Capable" and enjoys using his disabilities as an advantage during his stand-up comedy routines.   The boys usually come to him for jokes and advice, as he tends to have a super positive outlook on life. He briefly took steroids to tra
+		</p>
+	</a>
+	<a href="http://southpark.cc.com/wiki/Jimmy_Valmer">Read</a>
+</article>
+				</li>
+							<li>
+					<article class="thumb">
+	<a href="http://southpark.cc.com/wiki/Wendy_Testaburger" class="fill" style="position: relative;">
+		<div class="gradient"></div>
+
+		<header>
+			<h6>October 03, 2014</h6>
+			<h4>Wendy Testaburger</h4>
+		</header>
+
+		<p>
+			Wendy is [[Stan Marsh]]'s on-and-off girlfriend, and is also the most outspoken of the 4th grade girls. She's not afraid to go against the grain of what's popular or trendy and stands up for her principles and causes, most notably in her stand-off against Photoshop.  Wendy is one of the most intelligent students in [[Herbert Garrison]]'s class and 
+		</p>
+	</a>
+	<a href="http://southpark.cc.com/wiki/Wendy_Testaburger">Read</a>
+</article>
+				</li>
+					</ul>
+</div>
+
+	</section>
+
+</div>
+
+
+						
+
+
+
+
+
+					</section>
+
+					
+					<footer data-moduletracking="SPS_Footer">
+<section class="footer module links clearfix">
+	<div class="row clearfix clearfix">
+		<div class="column legal">
+			<section>
+				<header>
+					<span class="logo"><img src="/sitewide/img/logo.png"></span>
+				</header>
+
+				<article>
+					<p>&copy;2014 South Park Digital Studios LLC.</p>
+					<p>All Rights Reserved.</p>
+				</article>
+				
+				<article>
+					<p>South Park &copy;2014 Comedy Partners.</p>
+					<p>All Rights Reserved. Comedy Central.</p>
+				</article>
+				
+				<article>
+					<p>South Park and all related titles, logos and characters are trademarks of Comedy Partners.</p>
+				</article>
+			</section>
+			<div class="tos-links low">
+				<nav>
+					<a href="/about/web-credits">Web Credits</a>
+					<a href="/about/legal/privacy-policy">Privacy Policy /<br/>Your Privacy Rights</a>
+					<a href="/about/show-disclaimer">Show Disclaimer</a>
+					<a href="/about/legal/copyright-compliance-policy">Copyright Policy</a>
+					<a href="/about/legal/terms-of-use">Terms of Use</a>
+					<a href="/about/legal/video-privacy-terms">Video Privacy Terms</a>
+					<a href="mailto:info@southparkstudios.com">Tech Support</a>
+					<a href="http://media.viacom.com/accessibility/">Closed Captioning</a>
+					<a href="javascript:oo_feedback.show()">Feedback</a>
+					<a href="/about/legal/ad-choices">Ad Choices <img src="/sitewide/img/ad-choices.png" /></a>
+				</nav>
+			</div>
+		</div>
+		<div class="column-wrap">
+		<div class="column video">
+			<nav>
+				<header>
+					<h3>Video</h3>
+				</header>
+				<ul>
+					<li><a href="http://southpark.cc.com/full-episodes/s11e11-imaginationland-episode-ii">Imaginationland, Episode II</a></li>
+					<li><a href="http://southpark.cc.com/full-episodes/s18e02-gluten-free-ebola">Gluten Free Ebola</a></li>
+					<li><a href="http://southpark.cc.com/full-episodes/s18e02-gluten-free-ebola">Gluten Free Ebola</a></li>
+					<li><a href="http://southpark.cc.com/clips/w558t5/south-park-1802-gluten-free-ebola-act-2">South Park 1802: Gluten Free Ebola - Act 2</a></li>
+					<li><a href="http://southpark.cc.com/clips/dzppfr/south-park-1802-gluten-free-ebola-act-3">South Park 1802: Gluten Free Ebola - Act 3</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="column blog">
+			<nav>
+				<header>
+					<h3>Blog</h3>
+				</header>
+				<ul>
+					<li><a href="http://southpark.cc.com/blog/2014/10/03/new-go-fund-yourself-shirts-up-in-the-shop">New Shirts Up in the Shop!</a></li>
+					<li><a href="http://southpark.cc.com/blog/2014/10/02/watch-gluten-free-ebola-now">Watch “Gluten Free Ebola” Now!</a></li>
+					<li><a href="http://southpark.cc.com/blog/2014/10/02/season-12-creator-commentary-with-matt-and-trey">“Season 12: Creator Commentary” with Matt and Trey</a></li>
+					<li><a href="http://southpark.cc.com/blog/2014/10/01/gluten-free-ebola-hits-south-park-tonight">“Gluten Free Ebola” Hits South Park TONIGHT!</a></li>
+					<li><a href="http://southpark.cc.com/blog/2014/10/01/go-fund-yourself-live-tweet-tonight">“Go Fund Yourself” Live Tweet Tonight</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="column wiki">
+			<nav>
+				<header>
+					<h3>Wiki</h3>
+				</header>
+				<ul>
+					<li><a href="http://southpark.cc.com/wiki/Gluten_Free_Ebola">Gluten Free Ebola</a></li>
+					<li><a href="http://southpark.cc.com/wiki/Gary_Harrison_Sr.">Gary Harrison Sr.</a></li>
+					<li><a href="http://southpark.cc.com/wiki/Jimmy_Valmer">Jimmy Valmer</a></li>
+					<li><a href="http://southpark.cc.com/wiki/Wendy_Testaburger">Wendy Testaburger</a></li>
+					<li><a href="http://southpark.cc.com/wiki/Bebe_Stevens">Bebe Stevens</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="column general">
+			<nav>
+				<header>
+					<h3>General</h3>
+				</header>
+				<ul>
+					<li><a href="/about/creator-bios">Creator Bios</a></li>
+					<li><a href="/about/cast-and-crew">Cast & Crew Credits</a></li>
+				</ul>
+			</nav>
+		</div>
+			<div class="column viacom low">
+				<article>&nbsp;</article>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="footer module tos clearfix">
+	<div class="row clearfix">
+		<div class="tos-links high">
+			<nav>
+				<ul>
+
+					<li><a href="/about/web-credits">Web Credits</a></li>
+					<li><a href="/about/legal/privacy-policy">Privacy Policy /<br/>Your Privacy Rights</a></li>
+					<li><a href="/about/show-disclaimer">Show Disclaimer</a></li>
+					<li><a href="/about/legal/copyright-compliance-policy">Copyright Policy</a></li>
+					<li><a href="/about/legal/terms-of-use">Terms of Use</a></li>
+					<li><a href="/about/legal/video-privacy-terms">Video Privacy Terms</a></li>
+					<li><a href="mailto:info@southparkstudios.com">Tech Support</a></li>
+					<li><a href="http://media.viacom.com/accessibility/">Closed Captioning</a></li>
+					<li><a href="javascript:oo_feedback.show()">Feedback</a></li>
+					<li><a href="/about/legal/ad-choices">Ad Choices <img src="/sitewide/img/ad-choices.png" /></a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="viacom high">
+			<article>&nbsp;</article>
+		</div>
+	</div>
+</section>
+<section class="footer module social clearfix" data-normal-anchors="true">
+	<hr/>
+	<div class="row clearfix">
+		<div>
+			<nav>
+				<div>
+
+					<a href="http://www.facebook.com/SouthPark"><span class="item facebook"></span></a>
+					<a href="http://www.twitter.com/SouthPark"><span class="item twitter"></span></a>
+					<a href="http://instagram.com/southpark"><span class="item instagram"></span></a>
+					<a href="https://plus.google.com/u/0/b/110774087608778002908/"><span class="item googleplus"></span></a>
+				</div>
+			</nav>
+		</div>
+	</div>
+</section>
+
+					</footer>
+				</section>
+
+				
+
+
+
+				
+
+				
+
+				<script type="text/javascript">VideoPlayerType = "Hulu";</script>
+
+	
+
+
+
+	
+
+				<script type="text/javascript" data-main="/sitewide/js/app/main-packaged.js" src="/sitewide/js/require.js"></script>
+			</div><!-- /#main -->
+		</div>
+
+		<!-- iframe site manager -->
+		<div class="creator-overlay" id="skeleton-modal" style="display:none" data-url="/" data-collection-detail-url="/collections/{collectionId}">
+		<div class="modal-container">
+			<div class="modal">
+				<div class="header">
+					<button class="close">
+						<span class="icon-close-circle"></span>
+					</button>
+				</div>
+				<div class="content"></div>
+			</div>
+		</div>
+		</div>
+
+		<!-- reporting -->
+
+ 
+
+
+
+
+
+
+
+		<script type="text/javascript">
+var codaCallUrl = "http://btg.mtvnservices.com/aria/coda.html?site=southpark.cc.com&Ads_DFP=1&Ads=0";
+var repoCallUrl = "http://repo.comedycentral.com/feeds/websites/southpark.cc.com/pages?url=%2F&pageType=homepage&cmsPageId=fd1f4cc6-b70a-499a-b776-187d5fff5428";
+		</script>
+		<script src="/sitewide/js/vendor-ads-v2.js"></script>
+		<script type="text/javascript">
+			//dfpp ads support
+			$Crabapple.repo.init(codaCallUrl, repoCallUrl, false);
+			//fire off the on coda loaded event to auto load the ads and send out the page tracking
+			$Crabapple.repo.doFullPageLoadWithCustomAdFunc(function(){
+				/* self.placeAds(); */
+				$('[data-adsize]').each(function() {
+					/* self.placeAd($(this)); */
+					var elm = $(this);
+					
+					elm.empty();
+					if (elm.css('display') == 'none') return;
+					
+					//set the ad size
+					if(elm.attr('data-adsize') == 0){
+						//ignore bad ads
+						return;
+					}
+					elm.attr('data-ad-sizes',elm.attr('data-adsize'));
+			
+					//setup the keyvalues
+					var keyValues = elm.attr('data-keys');
+					var campaignValue = elm.attr('data-campaign');
+					if(campaignValue){
+	    				//sponsor=
+						if(keyValues){
+	    					keyValues += ",sponsor="+campaignValue;
+						} else {
+	    					keyValues = "sponsor="+campaignValue
+						}
+					}
+				
+					if(keyValues) {
+	    				elm.attr('data-ad-keyvalues', keyValues);
+					}
+	    	
+					//place ad (convert back to domElement)
+					$Crabapple.repo.loadSingleAd(elm[0]);
+				});
+			});
+		</script>
+
+
+		<div class="ad pointofentryad" data-adsize="6x6"></div>
+
+
+
+
+<!--
+OnlineOpinion v5.7
+Released: 3/6/2013. Compiled 03/06/2013 01:59:16 PM -0600
+Branch: master 8d549bbb6d7ff935b4572cf4e62e305e6cd843d7
+Components: Full
+The following code is Copyright 1998-2013 Opinionlab, Inc.  All rights reserved. Unauthorized use is prohibited. This product and other products of OpinionLab, Inc. are protected by U.S. Patent No. 6606581, 6421724, 6785717 B1 and other patents pending. http://www.opinionlab
+-->
+<!-- MAIN OL STYLESHEET -->
+<link rel="stylesheet" type="text/css" href="/onlineopinionV5/oo_style.css" />
+<!-- MAIN OL ENGINE -->
+<script language="javascript" type="text/javascript" charset="windows-1252" src="/onlineopinionV5/oo_COMBINED.js"></script>
+
+
+
+<noscript>This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.</noscript>
+<!-- END: OnlineOpinion v5.7 -->
+
+<!-- Include these files just before the close body </body> tag -->
+
+
+
+
+		<!-- geoblock -->
+
+
+
+
+		<!-- experimental -->
+
+
+
+		<!-- PAGEOK -->
+	</body>
+</html>

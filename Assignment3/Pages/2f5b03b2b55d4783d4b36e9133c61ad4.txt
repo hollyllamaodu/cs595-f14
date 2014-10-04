@@ -1,0 +1,1587 @@
+
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+		<title>Four Career Mistakes You Should Be Making -- And The One You Shouldn't - Forbes</title>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta name="viewport" content="width=device-width, maximum-scale=2.0" />
+		<meta name="description" content="&ldquo;We create as much information every two days as we have since the dawn of civilization through the year 2003.&rdquo; - Don Peppers (Peppers &amp;amp; Rogers Group) Consider that statistic. That statistic was posted near the end of last year. Enormous amounts of information is generated every single second. There are more [...]" />
+		<meta name="keywords" content="Entrepreneurs,Leadership,Management,Rethinking Risk" />
+		<meta name="author" content="David Sturt and Todd Nordstrom" />
+		<meta name="apple-itunes-app" content="app-id=588647136" />
+		<meta property="author" content="David Sturt and Todd Nordstrom" />
+		<meta property="og:title" content="Four Career Mistakes You Should Be Making -- And The One You Shouldn&#39;t" />
+		<meta property="og:site_name" content="Forbes" />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="http://www.forbes.com/sites/davidsturt/2014/09/24/5-mistakes-4-you-should-make-and-1-you-shouldnt/" />
+		<meta property="og:image" content="http://blogs-images.forbes.com/davidsturt/files/2014/09/Forbes2.png" />
+		<meta name="sailthru.image.full" content="http://blogs-images.forbes.com/davidsturt/files/2014/09/Forbes2.png" />
+		<meta property="og:description" content="&ldquo;We create as much information every two days as we have since the dawn of civilization through the year 2003.&rdquo; - Don Peppers (Peppers &amp;amp; Rogers Group) Consider that statistic. That statistic was posted near the end of last year. Enormous amounts of information is generated every single second. There are more [...]" />
+		<meta property="fb:app_id" content="123694841080850" />
+		<meta property="article:published_time" content="2014-09-24" />
+		<meta name="date" content="2014-09-24" />
+		<meta property="article:author" content="http://www.forbes.com/sites/davidsturt/" />
+		<meta name="sailthru.author" content="David Sturt and Todd Nordstrom" />
+		<meta property="article:author" content="http://www.forbes.com/sites/davidsturt/" />
+		<meta name="sailthru.author" content="David Sturt Blog" />
+		<meta property="article:section" content="Entrepreneurs" />
+		<meta property="article:section" content="Leadership" />
+		<meta property="article:section" content="Management" />
+		<meta property="article:section" content="Rethinking Risk" />
+		<meta property="article:tag" content="Entrepreneurs" />
+		<meta property="article:tag" content="Leadership" />
+		<meta property="article:tag" content="Management" />
+		<meta property="article:tag" content="Rethinking Risk" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:site" content="@forbes" />
+		<meta name="twitter:creator" content="@david_sturt" />
+		<link rel="canonical"   href="http://www.forbes.com/sites/davidsturt/2014/09/24/5-mistakes-4-you-should-make-and-1-you-shouldnt/" />
+		<link rel="next"   href="http://www.forbes.com/sites/davidsturt/2014/09/24/5-mistakes-4-you-should-make-and-1-you-shouldnt/2/" />
+		<link rel="shortlink"   href="http://onforb.es/1psqK5m" />
+	   		<link rel="author" href="https://plus.google.com/115653813544828903727/posts" />
+	<script type="text/javascript" src="http://images.forbes.com/scripts/js_options.js"></script>
+	<script type="text/javascript">
+    	(function (){
+
+			window.displayedChannel = 'entrepreneurs';
+			window.displayedSection = '';
+
+			// Check if welcome ad is not disabled
+			if(typeof forbes !== "undefined" && typeof forbes.js_options !== "undefined" && !forbes.js_options.welcome_ad_disable ){
+
+				var midnight = new Date(),
+					offset = -4 // if offset is not set, by default time is UTC 6:00am i.e EST 1am & EDT 12am for dailyWelcomeCookie expiration
+				;
+
+				if(midnight.getUTCHours() >= -offset)
+					midnight.setUTCDate(midnight.getUTCDate()+1)
+				;
+
+				midnight.setUTCHours(-offset);
+				midnight.setUTCMinutes(00);
+				midnight.setUTCSeconds(00);
+
+
+				var welcomeCookie = "welcomeAd=sessionCookie",
+					interstitial_cookie = '_forbes_exit_interstitial_timer',
+					tomorrow = new Date(),
+					month = tomorrow.getMonth(),
+					day = tomorrow.getDate(),
+					dailyWelcomeCookie = 'dailyWelcomeCookie=dailyCookie',
+					browser_user_agent = window.navigator.userAgent.toLowerCase(),
+					page_type = 'article',
+					swimlane = '',
+					brand_voice = 'false'
+				;
+
+				if ((document.cookie.indexOf(welcomeCookie)==-1 || document.cookie.indexOf(dailyWelcomeCookie) == -1)
+					&& (window.navigator.userAgent.indexOf("Mozilla")>-1)
+					&& (browser_user_agent.indexOf("googlebot")==-1)
+					&& (browser_user_agent.indexOf("google web preview")==-1)
+					&& (window.location.host.indexOf("forbes.com")!=-1)
+					&& (window.location.search.indexOf("partner=yahoo")==-1)
+					&& (window.location.search.indexOf("partner=msn")==-1)
+					&& (window.location.search.indexOf("partner=aol")==-1)
+					&& (window.location.search.indexOf("partner=omg")==-1)
+					&& (window.location.search.indexOf("partner=huffpo")==-1)
+					&& (window.location.search.indexOf('nowelcome')==-1)
+					&& (swimlane.indexOf("rico")!=0 || page_type != 'article')
+					&& brand_voice==='false'){
+
+					if(document.cookie.indexOf(welcomeCookie) == -1 ){
+						document.cookie = welcomeCookie +'__welcome'+(month+1)+day+'; path=/; domain=.forbes.com';
+					}
+
+					if(document.cookie.indexOf(dailyWelcomeCookie) == -1){
+						document.cookie = dailyWelcomeCookie+'_forDate'+(month+1)+day+'; path=/; domain=.forbes.com; expires=' + midnight.toGMTString();
+					}
+
+					// check if interstitial's cookie hasn't been set already
+					if(document.cookie.indexOf( interstitial_cookie ) == -1){
+
+						// it doesn't exist; let's create the interstitial cookie and set it
+						// with the current timestamp
+
+						var now = new Date(),
+							now_time = now.getTime(),
+							expiration_date = new Date()
+						;
+
+						expiration_date
+							.setDate( expiration_date.getDate() + 365)
+						;
+
+						// set interstitial cookie to the current time
+						document.cookie = interstitial_cookie + '='+ now_time +'; path=/; domain=.forbes.com; expires=' + expiration_date.toUTCString();
+					}
+
+					if (document.cookie.indexOf(welcomeCookie) != -1 || document.cookie.indexOf(dailyWelcomeCookie) != -1){
+
+						// this cookie is used by interstitial_ad.js to determine if the user received a
+						// welcome ad before viewing the current page.
+						document.cookie="last_welcomead_url"+ "=" +escape(document.URL)+";path=/; domain=.forbes.com";
+						document.cookie="referrer"+ "=" +escape(document.referrer)+";path=/; domain=.forbes.com";
+						document.cookie="toURL"+ "=" +escape(document.URL)+";path=/; domain=.forbes.com";
+						document.cookie="refURL"+ "=" +escape(document.referrer)+";path=/; domain=.forbes.com";
+						this.location='http://www.forbes.com/fdc/welcome_mjx.shtml';
+					}
+				}
+
+			}
+		})();
+	</script>
+        <script type="text/javascript">
+                var forbes = ( function( forbes_namespace ) {
+                forbes_namespace.user_meta = {
+            },
+            forbes_namespace.page_meta = {
+                            channel: "entrepreneurs",
+
+                            primary_channel: "entrepreneurs",
+
+                            primary_section: "entrepreneurs",
+
+                            special_slot: "rethinking-risk",
+
+
+
+                            sitepage: "forbes.com/entrepreneurs/sites/davidsturt/2014/09/24/5-mistakes-4-you-should-make-and-1-you-shouldnt/",
+                            author: {
+                                    natural_id: "blogAuthorId/blog/author/983651",
+                                    user_id: "983651",
+                                    display_name: "David Sturt and Todd Nordstrom",
+                                    type: "individual"
+                            },
+         	                   post_id: 1509,
+            	                blog_id: 2868,
+                            natural_id: "blogAndPostId/blog/post/2868-1509",
+                            type: "blog",
+                            title: "Four Career Mistakes You Should Be Making -- And The One You Shouldn\'t",
+                            site_slug: "davidsturt",
+							referrer: "",
+							content_id: "content_5422f5eee4b03b61661eb96c",
+							blogtype : "individual",
+							authorType: "individual",
+							brandvoice: false,
+								simple_reach: {
+									iframe: true,
+									pid: "50e4a8434240cf5c4b000009",
+									url: "http://www.forbes.com/sites/davidsturt/2014/09/24/5-mistakes-4-you-should-make-and-1-you-shouldnt/",
+									title: "Four Career Mistakes You Should Be Making -- And The One You Shouldn\'t",
+									date: "2014-09-24T17:21:00Z",
+									authors: ["David Sturt and Todd Nordstrom"],
+									channels: ["entrepreneurs"],
+									tags: ["site::davidsturt", "slot::rethinking-risk" ,"Entrepreneurs","Leadership","Management","Rethinking Risk"],
+									landing_url: ""
+								}
+                    };
+                    return forbes_namespace;
+            }( forbes || {} ) );
+        </script>
+	<script type='text/javascript'>
+
+	var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+  var gads = document.createElement('script');
+  gads.async = true;
+  gads.type = 'text/javascript';
+  var useSSL = 'https:' == document.location.protocol;
+  gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(gads, node);
+})();
+
+	</script>
+		<link rel="stylesheet" type="text/css" href="http://i.forbesimg.com/scripts/combined/css/global.43c99e597e708a164dfaacb2ef527fd6bb6121dd.css" />
+		<link rel="stylesheet" type="text/css" href="http://i.forbesimg.com/scripts/combined/css/article-responsive.5ee6df0094da8ce2145a5350e42ec6a7373915fa.css" />
+		<script type="text/javascript" src="http://i.forbesimg.com/scripts/combined/js/head.14cf7fb3a4053446bdebb499b3fa78ede856f5a5.js"></script>
+
+	<script type="text/javascript" src="http://i.forbesimg.com/assets/js/forbes/polar/vest_pocket_article.js"></script>
+	<script type="text/javascript" src="http://images.forbes.com/scripts/simple_reach.js"></script>
+
+
+	<!--[if lte IE 8]>
+		<link rel="stylesheet" type="text/css" href="//i.forbesimg.com/assets/css/forbes/article_responsive/article_ie_unbreaker.css">
+	<![endif]-->
+
+
+</head>
+
+<body class="body_article infinite follow_bar_disabled"
+	data-header-mode="default"
+	data-base-url="/"
+	data-stream-data-url="/pepe2/get_article.php"
+	data-max-stream-pages="3">
+
+	
+<header class="ar_global enable_sticky_header">
+
+	<span class="edittools-goggles-hitmask">
+		<span class="edittools-goggles-hitarea">
+			<span class="edittools-goggles-toggle attach-click" title="Toggle Edit Tools"></span>
+		</span>
+	</span>
+	<span class="edittools-goggles-rule"></span>
+
+	<div class="wrap">
+
+		<a href="/" class="default_logo_toggle logo_menu_toggle">
+			<span class="icon arrow"></span>
+		</a>
+
+		<div class="logo">
+			<a href="http://www.forbes.com/">
+				<img class="svg" alt="Forbes" src="/assets/img/forbes_logo/forbes_logo_white.svg" onerror="this.src='/assets/img/forbes_logo/forbes_logo_white.png'">
+				<img itemprop="logo" alt="Forbes" src="/assets/img/forbes_logo/forbes_logo.gif">
+			</a>
+		</div>
+		<div class="primary_feature">
+
+<article>
+
+
+		<div class="edittools-promoblock largeplusthree" data-et-context="headercoverstory" data-et-location-id="headercoverstory" data-et-panel-id="panel8">
+			<article data-et-content-id="4e7a0e2776e46f6dd8029dc4" class="promostory promostory-1">
+
+
+				<figure>
+					<a href="http://www.forbes.com/forbes-400/" class="featured_image editable editable-img  " data-ga-event="Header,LinkFollowed,magpromo" data-ga-event-trigger="click">
+
+
+						<img src="http://images.forbes.com/images/channels/headercoverstory_panel8_0_original-1412266450.png" alt="America's Richest People" />
+					</a>
+				</figure>
+
+				<div class="feature_label">
+					<span class="category editable editable-dek"><a href="http://www.forbes.com/forbes-400/">Forbes 400</a></span>
+						<span class="title editable editable-hed" data-ga-event="Header,LinkFollowed,magpromo" data-ga-event-trigger="click">
+							<a href="http://www.forbes.com/forbes-400/">
+									America's Richest People
+							</a>
+						</span>
+				</div>
+
+			</article>
+		</div>
+
+</article>
+		</div><!-- .primary_feature -->
+
+		<nav>
+			<ul class="main_categories">
+				<li data-id="new_posts">
+					<a href="http://www.forbes.com/real-time/" class="button" data-ga-event="Header,LinkFollowed,realtime" data-ga-event-trigger="click">
+						<span class="text">New Posts</span>
+					</a>
+				</li>
+				<li data-id="most_popular">
+					<a href="http://www.forbes.com/most-popular/" class="button" data-ga-event="Header,LinkFollowed,popular" data-ga-event-trigger="click">
+						<span class="text">Most Popular</span>
+					</a>
+				</li>
+				<li data-id="lists">
+					<a href="http://www.forbes.com/lists/" class="button" data-ga-event="Header,LinkFollowed,lists" data-ga-event-trigger="click">
+						<span class="text">Lists</span>
+					</a>
+				</li>
+				<li data-id="video">
+					<a href="http://www.forbes.com/video/" class="button" data-ga-event="Header,LinkFollowed,video" data-ga-event-trigger="click">
+						<span class="text">Video</span>
+					</a>
+				</li>
+				<li data-id="promo">
+					<a href="http://bit.ly/1aqPJ4p">
+						<span class="text">2 Free Issues of Forbes</span>
+					</a>
+				</li>
+				<li data-id="global_search">
+	<div class="header_search global_search_control typeahead_anchor">
+		<form class="form_global_search" action="/search/">
+			<div class="input_holder">
+				<input name="q" class="search_input" type="text" value="" placeholder="Search" data-placeholder-short="Search" data-placeholder-long="Search companies, people and lists" autocomplete="off">
+				<input class="form_submit" type="submit" value="submit">
+				<span class="loading_msg"></span>
+				<span class="loading_spinner"><img src="http://i.forbesimg.com/assets/img/loading_spinners/16px_grey.gif" height="16" width="16" alt=""></span>
+			</div>
+		</form>
+
+		<div class="typeahead_results_holder">
+			<div class="results"><ul></ul></div>
+		</div><!-- end div.typeahead_results_holder -->
+		
+	</div><!-- end li.search-->
+				</li>
+				<li data-id="user_info">
+
+<div class="user hover togglable collapsed">
+	<div class="account_wrapper">
+		<a class="button account toggle" href="http://blogs.forbes.com/account/" data-ga-event="Header,LinkFollowed,account" data-ga-event-trigger="click" data-content-outer=".toggle_dropdown" data-content-inner=".toggle_dropdown_content">
+			<img src="http://i.forbesimg.com/assets/img/anon_avatar.png" alt="">
+			<span class="icon arrow"></span>
+		</a>
+
+		<div class="toggle_dropdown">
+			<div class="toggle_dropdown_content rollover">
+				<div class="user_login clearfix">
+
+
+
+				<div class="one_column">
+
+					<div class="external_auth_options">
+						<h3>Log in with your social account:</h3>
+						<div id="gigya_accountdropdown_extralarge_div"></div>
+						<div class="clear"></div>
+					</div>
+
+					<hr class="dotted">
+
+					<h3>Or, you can
+						<a class="ajaxify unireg_login" href="http://blogs.forbes.com/account/login/" label="login">log in</a>
+						or
+						<a class="ajaxify unireg_register" href="http://blogs.forbes.com/account/register/" label="signup">sign up</a>
+						using Forbes.
+					</h3>
+				</div>
+
+
+				</div><!-- .user_login -->
+			</div><!-- .toggle_dropdown_content -->
+		</div><!-- .toggle_dropdown -->
+	</div><!-- .account_wrapper -->
+</div><!-- .user -->
+
+				</li>
+
+			</ul><!-- .main_categories -->
+		</nav>
+
+		<div class="secondary_features">
+<article data-id="1">
+
+			<div class="edittools-promoblock largeplusthree" data-et-context="headerfeature1" data-et-location-id="headerfeature1" data-et-panel-id="panel14">
+			<article data-et-content-id="content_542a325ee4b0563af2c47a8b" class="promostory promostory-1">
+
+
+				<figure>
+				<a href="http://www.forbes.com/sites/parmyolson/2014/09/30/how-jerry-yang-made-the-most-lucrative-bet-in-tech-history/" class="featured_image editable editable-img  " data-ga-event="Header,LinkFollowed,promo1" data-ga-event-trigger="click">
+
+
+                        <img src="http://images.forbes.com/images/channels/headerfeature1_panel14_0_original-1412266475.jpg" alt="Finding Alibaba: How Jerry Yang Made The Most Lucrative Bet In Silicon Valley History" />
+
+                </a>
+				</figure>
+
+            	<div class="title editable editable-hed">
+	            	<a href='http://www.forbes.com/sites/parmyolson/2014/09/30/how-jerry-yang-made-the-most-lucrative-bet-in-tech-history/' data-ga-event="Header,LinkFollowed,promo1" data-ga-event-trigger="click">
+	            			Finding Alibaba: How Jerry Yang Made The Most Lucrative Bet In Silicon Valley History
+	            	</a>
+            	</div>
+		</article>
+		</div>
+</article>
+
+
+<article data-id="2">
+
+			<div class="edittools-promoblock largeplusthree" data-et-context="headerfeature2" data-et-location-id="headerfeature2" data-et-panel-id="panel15">
+			<article data-et-content-id="content_5400f934e4b0bb45818b7499" class="promostory promostory-1">
+
+
+				<figure>
+				<a href="http://www.forbes.com/sites/nicolefisher/2014/08/30/the-most-interesting-man-revolutionizing-the-health-world/" class="featured_image editable editable-img  " data-ga-event="Header,LinkFollowed,promo2" data-ga-event-trigger="click">
+
+
+                        <img src="http://images.forbes.com/images/channels/headerfeature2_panel15_0_original-1412019265.jpg" alt="The Most Interesting Man Revolutionizing The Health World" />
+                </a>
+				</figure>
+
+            	<div class="title editable editable-hed">
+            		<a href='http://www.forbes.com/sites/nicolefisher/2014/08/30/the-most-interesting-man-revolutionizing-the-health-world/' data-ga-event="Header,LinkFollowed,promo2" data-ga-event-trigger="click">
+            				The Most Interesting Man Revolutionizing The Health World
+            		</a>
+            	</div>
+		</article>
+		</div>
+</article>
+
+
+<article data-id="3">
+
+			<div class="edittools-promoblock largeplusthree" data-et-context="headerfeature3" data-et-location-id="headerfeature3" data-et-panel-id="panel20">
+			<article data-et-content-id="content_53fd57bbe4b0bb45818b60c6" class="promostory promostory-1">
+
+				<figure>
+				<a href="http://www.forbes.com/sites/martinzwilling/2014/08/27/10-startup-calculated-risks-that-lead-to-success/" class="featured_image editable editable-img  " data-ga-event="Header,LinkFollowed,promo3" data-ga-event-trigger="click">
+
+
+                        <img src="http://images.forbes.com/images/channels/headerfeature3_panel20_0_original-1412019640.png" alt="10 Calculated Risks That Lead To Startup Success" />
+                </a>
+				</figure>
+
+            	<div class="title editable editable-hed">
+	            	<a href='http://www.forbes.com/sites/martinzwilling/2014/08/27/10-startup-calculated-risks-that-lead-to-success/' data-ga-event="Header,LinkFollowed,promo3" data-ga-event-trigger="click">
+		            		10 Calculated Risks That Lead To Startup Success
+	            	</a>
+	            </div>
+		</article>
+		</div>
+</article>
+		</div><!-- .secondary_features -->
+
+	</div><!-- .wrap -->
+</header>
+
+<header class="mini_header">
+	<div class="wrap">
+		<div class="logo">
+			<a href="/" class="logo_menu_toggle">
+				<img class="svg icon_expanded" alt="Forbes" src="/assets/img/forbes_logo/forbes_logo.svg" onerror="this.src='/assets/img/forbes_logo/forbes_logo.gif'">
+				<img class="svg icon_collapsed" alt="Forbes" src="/assets/img/forbes_logo/forbes_logo_white.svg" onerror="this.src='/assets/img/forbes_logo/forbes_logo_white.png'">
+				<span class="icon arrow"></span>
+			</a>
+		</div>
+
+
+		<div class="header_drawer togglable collapsed">
+			<div class="focused">
+				<div class="focused_inner">
+
+
+						<a href="http://www.forbes.com/sites/brucekasanoff/2014/10/03/jpmorgan-chase-breach-reveals-a-dire-talent-emergency/">
+							<span class="title"> JPMorgan Chase Breach Reveals A Dire Talent Emergency</span>
+
+								<span class="reason" data-reason="LI" >Active on LinkedIn <span class="icon"></span></span>
+					</a>
+
+				</div>
+				<div class="toggle" data-content-outer=".dropdown" data-content-inner=".dropdown_inner">
+					<div class="pointer"></div>
+				</div>
+			</div><!-- .featured -->
+
+
+			<div class="dropdown" style="height: 0px; opacity: 0;">
+				<div class="dropdown_inner">
+					<ul>
+
+
+
+
+
+
+
+
+
+
+
+
+								<li data-et-id="content_542c86d6e4b0563af2c48acd">
+									<a href="http://www.forbes.com/sites/larryhusten/2014/10/02/cholesterol-drugs-haunted-by-ghosts-of-past-present-and-future/">
+										<span class="title"> Cholesterol Drugs Haunted By Ghosts Of Past, Present, And Future</span>
+
+											<span class="reason" data-reason="PV-D">+32,537 views in last 24 hours</span>
+									</a>
+								</li>
+
+
+
+
+
+								<li data-et-id="content_542d3fabe4b0563af2c48bdb">
+									<a href="http://www.forbes.com/sites/retailwire/2014/10/02/walmarts-drive-through-grocery-concept-is-a-head-scratcher/">
+										<span class="title"> Walmart's Drive-Through Grocery Concept Is A Head Scratcher</span>
+
+											<span class="reason" data-reason="FB">Active on Facebook <span class="icon"></span></span>
+									</a>
+								</li>
+
+
+
+
+
+											<li>
+												<a href="http://www.forbes.com/sites/sap/2014/10/02/oxford-economics-research-can-companies-avoid-the-leadership-cliff/" data-ga-event="Header,HeaderExpandBrandvoiceClicked,SAP" data-ga-event-trigger="click">
+													<span class="title">		    <span class="advoice"><span class="brandvoice">SAP</span>&#8203;Voice: </span>
+ Oxford Economics Research: Can Companies Avoid the Leadership Cliff?</span>
+												</a>
+											</li>
+
+
+								<li data-et-id="content_5429e2ace4b0563af2c479a0">
+									<a href="http://www.forbes.com/sites/jamesmarshallcrotty/2014/09/29/if-massachusetts-were-a-country-its-students-would-rank-9th-in-the-world/">
+										<span class="title"> If Massachusetts Were A Country, Its Students Would Rank 9th In The World</span>
+
+											<span class="reason" data-reason="CM-D">+2 comments in last 24 hours</span>
+									</a>
+								</li>
+
+
+
+
+
+								<li data-et-id="content_542d8b43e4b0563af2c48f91">
+									<a href="http://www.forbes.com/sites/kenkam/2014/10/03/could-there-be-a-thousand-warren-buffetts/">
+										<span class="title"> Could There Be A Thousand Warren Buffetts?</span>
+
+											<span class="reason" data-reason="PV-D">+8,249 views in last 24 hours</span>
+									</a>
+								</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					</ul>
+					<div class="more">
+						<a href="/most-popular/">
+							<span class="icon">+</span>
+							<span class="label">More</span>
+						</a>
+					</div>
+
+				</div><!-- .dropdown_inner -->
+			</div><!-- .dropdown -->
+		</div>
+
+	</div><!-- .wrap -->
+</header><!-- .mini_header -->
+<div data-nav-ajax-url="/header/channels" class="ar_global_logo_rollover">
+	<div class="rollover rollover_box">
+
+	</div><!-- .rollover.rollover_box -->
+</div><!-- .ar_global_logo_rollover -->
+
+
+<div id="header_userinfo" class="clearfix">
+		<div class="login_header">
+		<!-- login header -->		<div class="gigya_chicklet_mask">			<div class="ribbon-item ribbon-item-gigya">				<div class="login_options">					<span>Connect</span>				</div>				<div id="gigyalogindiv" class="gigya_chicklet_holder"></div>			</div>		</div>		<span class="divider">|</span>		<div class="ribbon-item">			<a class="unireg_register ajaxify regbutton regbutton-signup" href="http://blogs.forbes.com/account/register/" title="Sign up for a Forbes account" data-ga-event="Account,Signup,headersignuptext" data-ga-event-trigger="click">Sign up</a>		</div>		<span class="divider">|</span>		<div class="ribbon-item">			<a class="unireg_login ajaxify regbutton regbutton-login" href="http://blogs.forbes.com/account/login/" title="Log in to your Forbes account" data-ga-event="Account,Login,headerlogintext" data-ga-event-trigger="click">Log in</a>		</div><!-- end login header -->
+		</div>
+	<div class="legal_header"><div class="ribbon-item"><a class="inlink inlink-topnav" href="http://blogs.forbes.com/help/">Help</a></div><span class="divider">|</span><div class="ribbon-item"><a onclick="(function(){var s=document.createElement('script');s.src='http://preferences.truste.com/js/buildJsFilev2.jsp?domain=forbes.com&amp;type=epref';s.onreadystatechange=function(){if(script.readyState=='loaded'||script.readyState=='complete'){view(trusteId);}};s.onload=function(){view(trusteId);};document.getElementsByTagName('head')[0].appendChild(s);})()">AdChoices</a></div><span class="divider">|</span><div class="ribbon-item"><a title="Terms and Conditions" href="/terms">Terms</a></div><span class="divider">|</span><div class="ribbon-item"><a title="Privacy Statement" href="http://www.forbes.com/fdc/privacy.html">Privacy</a></div></div>
+</div><!--end #header_userinfo -->
+
+	<div id="article_container_0" class="article_container container">
+
+		<!--start:ajax_content_inner-->
+
+		<div class="article_stats_data" data-stats='{&quot;user_meta&quot;:{},&quot;page_meta&quot;:{&quot;channel&quot;:&quot;entrepreneurs&quot;,&quot;primary_channel&quot;:&quot;entrepreneurs&quot;,&quot;primary_section&quot;:&quot;entrepreneurs&quot;,&quot;displaychannel&quot;:&quot;entrepreneurs&quot;,&quot;special_slot&quot;:&quot;rethinking-risk&quot;,&quot;type&quot;:&quot;blog&quot;,&quot;template_type&quot;:&quot;standard&quot;,&quot;title&quot;:&quot;Four Career Mistakes You Should Be Making -- And The One You Shouldn&#39;t&quot;,&quot;site_slug&quot;:&quot;davidsturt&quot;,&quot;blog_name&quot;:&quot;David Sturt Blog&quot;,&quot;preview&quot;:false,&quot;sitepage&quot;:&quot;forbes.com\/entrepreneurs\/sites\/davidsturt\/2014\/09\/24\/5-mistakes-4-you-should-make-and-1-you-shouldnt\/&quot;,&quot;author&quot;:{&quot;natural_id&quot;:&quot;blogAuthorId\/blog\/author\/983651&quot;,&quot;user_id&quot;:&quot;983651&quot;,&quot;display_name&quot;:&quot;David Sturt and Todd Nordstrom&quot;,&quot;type&quot;:&quot;individual&quot;},&quot;post_id&quot;:&quot;1509&quot;,&quot;blog_id&quot;:&quot;2868&quot;,&quot;natural_id&quot;:&quot;blogAndPostId\/blog\/post\/2868-1509&quot;,&quot;content_id&quot;:&quot;content_5422f5eee4b03b61661eb96c&quot;,&quot;blogtype&quot;:&quot;individual&quot;,&quot;authorType&quot;:&quot;individual&quot;,&quot;brandvoice&quot;:false,&quot;simple_reach&quot;:{&quot;iframe&quot;:true,&quot;pid&quot;:&quot;50e4a8434240cf5c4b000009&quot;,&quot;url&quot;:&quot;http:\/\/www.forbes.com\/sites\/davidsturt\/2014\/09\/24\/5-mistakes-4-you-should-make-and-1-you-shouldnt\/&quot;,&quot;title&quot;:&quot;Four Career Mistakes You Should Be Making -- And The One You Shouldn&#39;t&quot;,&quot;date&quot;:&quot;2014-09-24T17:21:00Z&quot;,&quot;authors&quot;:&quot;David Sturt and Todd Nordstrom&quot;,&quot;channels&quot;:&quot;entrepreneurs&quot;,&quot;tags&quot;:[&quot;site::davidsturt&quot;,&quot;slot::rethinking-risk&quot;,&quot;Entrepreneurs&quot;,&quot;Leadership&quot;,&quot;Management&quot;,&quot;Rethinking Risk&quot;],&quot;landing_url&quot;:&quot;&quot;}}}'></div>
+		<div class="article_dfp_data" data-dfp='{&quot;id&quot;:&quot;blogAndPostId\/blog\/post\/2868-1509&quot;,&quot;specialslot&quot;:&quot;rethinking-risk&quot;}'></div>
+
+		<div class="leaderboard"></div>
+
+
+	<div class="row">
+		<div class="col-sm-12">
+			<hr class="article_rule">
+		</div>
+	</div>
+
+	<section class="row" itemscope itemtype="http://schema.org/Article">
+		<div class="col-md-2 entity_block_wrapper">
+
+
+
+
+
+
+		<div class="article_entity entity_block">
+			<div class="type_article_block">
+				<div class="entity_preview">
+						<a class="avatar" href='http://www.forbes.com/sites/davidsturt/'><img src="http://0.gravatar.com/avatar/ebe053f61e6628d1754d009d3a3065d6?s=136&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D136&amp;r=G" alt="David Sturt and Todd Nordstrom" /></a>
+
+							<a class="user_name" href="http://www.forbes.com/sites/davidsturt/">
+								<span itemprop="author">David Sturt and Todd Nordstrom</span>
+							</a>
+							<span class="title">Contributor</span>
+
+
+
+
+
+
+    <div class="followable_block initializing" data-target-type="author" data-target-id="blogAuthorId/blog/author/983651" data-object-json="{&quot;title&quot;:&quot;David Sturt and Todd Nordstrom&quot;,&quot;avatar_src&quot;:&quot;http://0.gravatar.com/avatar/ebe053f61e6628d1754d009d3a3065d6?s=136&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D136&amp;r=G&quot;,&quot;follow_count&quot;:&quot;58&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ContribBylineFollow">
+
+    <div class="follow_unireg">
+		<a href="javascript://follow" class="follow_unireg_link">
+			<span class="option_follow">Follow</span>
+	
+			<span class="option_following">Following</span>
+	
+			<span class="option_unfollow">Unfollow</span>
+		</a>
+    </div>
+    </div>
+
+						<p class="preview_bio">
+								We write about how people and leaders achieve extraordinary results.
+
+							<span class="show_more_copy">full bio &rarr;</span>
+						</p>
+
+	            			<p class="disclaimer">Opinions expressed by Forbes Contributors are their own.</p>
+
+						<div class="social_icons">
+							<div class="label" style="display:none;">
+								<div class="arrow"></div>
+								<span class="text"></span>
+							</div>
+							<ul class="entity_links">
+
+								<li class="twitter">
+									<a target="blank" href="http://twitter.com/@david_sturt">
+										<span>Follow David Sturt and Todd Nordstrom on Twitter</span>
+									</a>
+								</li>
+
+
+
+
+
+								<li class="google_plus">
+			   							<a target="blank" href="http://plus.google.com/115653813544828903727/posts">
+											<span>Follow David Sturt and Todd Nordstrom on Google+</span>
+										</a>
+								</li>
+
+							<li class="rss">
+								<a href="http://www.forbes.com/sites/davidsturt/feed/">
+									<span>David Sturt and Todd Nordstrom&#8217;s RSS Feed</span>
+								</a>
+							</li>
+
+
+								<li class="website">
+									<a target="blank" href="http://www.octanner.com/institute">
+										<span>David Sturt and Todd Nordstrom&#8217;s Website</span>
+									</a>
+
+								<li class="profile">
+									<a href='http://www.forbes.com/sites/davidsturt/'>
+										<span>David Sturt and Todd Nordstrom&#8217;s Profile</span>
+									</a>
+								</li>
+
+							<li class="book">
+								<a target="_blank" href="http://www.amazon.com/Great-Work-Make-Difference-People/dp/0071818359/ref=sr_1_1?s=books&ie=UTF8&qid=1394561215&sr=1-1&keywords=great+work+how+to+make+a+difference+people+love">
+									<span>David Sturt and Todd Nordstrom&#8217;s Recommended Reading</span>
+								</a>
+							</li>
+
+							<!-- ADD IF DATA CHECK -->
+
+
+								<li class="email">
+									<a class="ajaxify launch_email_contrib" href="#"  data-enable-contact="true" data-contrib-name="David Sturt and Todd Nordstrom" data-contrib-email= "todd.nordstrom@octanner.com"  data-user-name= ""  data-user-email= "">
+										<span>Contact David Sturt and Todd Nordstrom</span>
+									</a>
+								</li>
+						</ul><!-- .entity_links -->
+					</div>
+
+
+				</div><!-- .entity_preview -->
+
+				<div class="entity_dive">
+
+					<div class="masked_content">
+
+						<nav class="toggles">
+							<ul>
+								<li data-mode="recent_posts">Recent Posts<span class="arrow"></span></li>
+								<li data-mode="popular_posts">Popular Posts<span class="arrow"></span></li>
+								<li data-mode="bio">Full Bio<span class="arrow"></span></li>
+							</ul>
+						</nav>
+
+						<div class="full_bio">
+							<p>We are researchers, consultants and authors inside the O.C. Tanner Institute, and we write about people who make a difference—what they think about, what they do, and how they achieve extraordinary results. David Sturt is Executive Vice President at the O.C. Tanner Institute. His recent book, "Great Work: How To Make A Difference People Love" from McGraw-Hill debuted at #6 on the New York Times Best Sellers List. Nordstrom is Director of Institute Content. He has been a driving force and voice of business publishing and management sciences throughout his entire career—impacting millions of readers in print and online. The two consult with leaders and speak at leadership conferences around the world.</p>
+
+							<!-- ADD IF DATA CHECK -->
+								<a class="ajaxify launch_email_contrib" href="#"  data-enable-contact="true" data-contrib-name="David Sturt and Todd Nordstrom" data-contrib-email= "todd.nordstrom@octanner.com"  data-user-name= ""  data-user-email= "" >Contact David Sturt and Todd Nordstrom</a>
+
+								<p class="disclaimer">The author is a Forbes contributor. The opinions expressed are those of the writer.</p>
+						</div>
+
+						<div class="entity_recent_posts">
+							Loading...
+						</div>
+
+						<div class="entity_popular_posts">
+							Loading...
+						</div>
+
+					</div><!-- .masked_content -->
+
+				</div><!-- .entity_dive -->
+
+				<div class="drawer_arrow_down"></div>
+
+			</div><!-- .type_article_block -->
+
+		</div><!-- .entity_block -->
+
+
+			<aside class="vp-wrapper">
+	<div class="vp-box vp-comment comment_bug comment_bug_2" style="display:none;">
+		<div class="wrapper">
+			<div class="info">
+				<a href="#comments_header" class="scroll_to">
+					<span class="comment_count"></span>
+					Comments
+				</a>
+			</div>
+			<div class="called_out_sampling"></div>
+			<a href="#comments_header" class="scroll_to comment_calledout"> called-out</a>
+		</div>
+		<div class="comment_teaser"></div>
+		<div class="no_comment_bugs_exist_yet" style="display:none;"></div>
+		<div class="comment_links">
+            <a href="#comment_reply" class="scroll_to post_your_comment">Comment Now</a>
+			<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2868-1509" data-object-json="{&quot;title&quot;:&quot;Four Career Mistakes You Should Be Making -- And The One You Shouldn't&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+			</div>
+		</div>
+	</div>
+				<div class="vp-box vp-polar-native" style="display: none;"> </div>
+			</aside>
+		</div>
+
+
+		<div class="article_content col-md-10 col-sm-12">
+
+
+<hgroup class="prevent_widows">
+
+			<!--   Reveal this link if the logged-in user has editing rights-->
+
+	<h5>
+
+		<a href="/entrepreneurs" class="slug" itemprop="articleSection">Entrepreneurs</a>
+
+	<time itemprop="datePublished" content="2014-09-24T13:21:00-04:00">9/24/2014 @ 1:21PM</time>
+
+		<span class="views">15,385 views</span>
+	</h5>
+
+		<h1 itemprop="headline">Four Career Mistakes You Should Be Making -- And The One You Shouldn't</h1>
+
+
+
+			<!-- Make individual group author appear -->
+
+	<div class="comment_links">
+		<a href="#comment_reply" class="scroll_to post_your_comment">Comment Now</a>
+		<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2868-1509" data-object-json="{&quot;title&quot;:&quot;Four Career Mistakes You Should Be Making -- And The One You Shouldn't&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+		</div>
+	</div>
+</hgroup>
+
+
+			<div class="article_body article" itemprop="articleBody">
+
+				<div class="body">
+
+					<div class="body_inner">
+
+
+
+						
+<p><em>“We create as much information every two days as we have since the dawn of civilization through the year 2003.” – Don Peppers (Peppers &amp; Rogers Group)</em></p> 
+<p>Consider that statistic. That statistic was posted near the end of last year.</p> 
+<p>Enormous amounts of information is generated every single second. There are more blogs, more news stories, more articles, more Tweets, more videos, books, and the list goes on. Instantly, any one of us can find a “How-To, Where-To, and What-To,” on any given subject. And most of the information is up to date—almost in real-time.&nbsp; Every day you can find new insights, ponderings, advice, ratings, rankings, and comments. But how do you filter and leverage it so it actually benefits you and your career or business?</p> 
+<p>The two of us have spent most of our careers focused on figuring out what actions and activities improve business, relationships, innovation, and outcomes. And, although we’ve had the opportunity to curiously examine data collected in some of the largest workplace studies ever, like the <a title="Great Work Study" href="http://www.octanner.com/institute/white-papers/the-great-work-study" target="_blank">Great Work Study</a>, which analyzed 1.7 million cases of award-winning work, there was something else that caught our attention that we hadn’t taken a closer look at—mistakes.</p> 
+<p>In a recent <a title="Forbes Interview" href="http://www.forbes.com/sites/davidsturt/2014/07/29/3-promises-to-drive-extreme-growth-ceo-coach-sheldon-harris-spills-the-beans/" target="_blank">Forbes Interview</a>, former CEO of Cold Stone Creamery, Sheldon Harris shared with us one of his mistakes early in his career that forever changed the way he leads people. He formally reprimanded an employee for repeatedly coming in late, only to discover that he had been voluntarily cleaning up trash in the parking lot every morning before coming inside. It’s a classic tale of “foot in mouth” syndrome.</p> 
+<p>Or, consider what it feels like to watch $125 million literally disintegrate. This is exactly what happened when some NASA scientists made miscalculations due to the use of English units instead of metric units on the <a href="/companies/mars/">Mars</a> <span class="quotecard_hook" data-ticker="null" data-exchange="null" data-type="organization" data-naturalid="fred/company/13864" data-quotes-closing="0.0" data-quotes-now="0.0"><span class="wrapper"><a href="/companies/mars/">Mars</a></span></span> Climate Orbiter. The spacecraft disintegrated as it passed through the upper atmosphere.</p> 
+<div style="padding: 20px 0pt; margin: 20px 0pt; border-bottom: 1px solid #DDDDDD; border-top: 1px solid #DDDDDD;">
+ <a style="text-decoration: none; color: #900; font: bold 20px/26px Georgia;" href="http://www.forbes.com/ebooks/find-and-keep-your-dream-job-the-definitive-careers-guide-from-forbes/?utm_source=articlelink&amp;utm_medium=direct&amp;utm_campaign=careerebook">The Forbes eBook: Find And Keep Your Dream Job</a>
+ <br /> 
+ <a style="text-decoration: none; font: 15px/18px  Georgia; color: #000;" href="http://www.forbes.com/ebooks/find-and-keep-your-dream-job-the-definitive-careers-guide-from-forbes/?utm_source=articlelink&amp;utm_medium=direct&amp;utm_campaign=careerebook"><em>The Definitive Careers Guide From Forbes</em> encompasses every aspect of the job hunt, from interview to promotion. Written by some of Forbes’ best careers and leadership writers, it is available now for download.</a>
+</div> 
+<p>But, not all mistakes are so cut and dry. On a recent phone call, media and real estate mogul (and former Celebrity Apprentice Star) <a title="Nely Galan" href="http://www.nelygalan.com/" target="_blank">Nely Galan</a> shared with us a story about her teenage years where everyone thought she was making a mistake. It involved a headstrong battle with the Nuns who ran her Catholic School. However, the incident served as a major stepping-stone for who Nely has become today. Nely shared the story on <a title="The Big Idea" href="http://www.nelygalan.com/videos/the-big-idea-nely-reveals-her-millionaire-mindset/" target="_blank">The Big Idea</a> with Donny Deutsh.</p> 
+<p>Consider these ‘mistakes’ for a second. They made us pause. And, they made us curious to find out how certain mistakes can actually be more valuable teachers than successes. Are there some mistakes you should make and some you shouldn’t?</p> 
+<p>Looking to find answers to the question, ‘What are the valuable mistakes everyone should make in their career?’ we asked people we knew: “What mistakes have you made in your career that benefitted you in the long term?” and “What mistakes have you made in your career that hurt you in the long term?”</p> 
+<div id="attachment_1512" class="wp-caption alignnone" style="width: 1660px">
+ <img class=" wp-image-1512" alt="Forbes2" src="http://blogs-images.forbes.com/davidsturt/files/2014/09/Forbes2.png" />
+ <p class="wp-caption-text">Image provided by Shutterstock</p>
+</div> 
+<p><strong>The answers we received about mistakes that benefitted respondents fell into the following four categories.</strong></p> 
+<p><b>1. Say “Yes” to everything.</b> It’s a common mistake, especially early in a career.&nbsp; Saying ‘Yes’ can stretch a person or team thin. It can lead you into unchartered territories and, it can actually lead you to failure. Nevertheless, many of the people we talked to said they learned a lot from saying ‘yes’. One respondent said they learned ‘how to draw a line in the sand, and where to draw it.’ But, the answer that gave us the biggest ah-ha was from Dr. Murthy Renduchintala, Co-President of QCT at <a href="/companies/qualcomm/">Qualcomm</a> <span class="quotecard_hook" data-ticker="QCOM" data-exchange="NASDAQ" data-type="organization" data-naturalid="fred/company/3523" data-quotes-closing="73.65" data-quotes-now="74.86"><span class="wrapper"><a href="/companies/qualcomm/">Qualcomm</a></span></span> in San Diego, California. “This company started with seven people. The founders had a simple vision to improve communications—and that meant saying ‘Yes’ to possibility. We were the company that, no matter what the problem, or the deadline, or the situation, would find a solution.”</p> 
+<p><b>2. Work for the jerk. </b>Bad bosses are great filters for showing us both where we don’t want to work, and how we don’t want to treat people. As one respondent named Christa noted, ‘It seemed like a mistake at the time to accept the position because I had heard the manager was horrible. But, I really wanted to gain the experience. And, I learned a lot more about myself than I ever expected.’</p> 
+<p><b>3. Get fired for what you believe. </b>Not all of us will get tested in this area. This advice came from an employee who refused to read a specific script to some vendors because the employee felt the script was misleading and ethically irresponsible. That employee was let go. And, they were happy to leave.&nbsp;&nbsp; &nbsp;<b></b></p> 
+<p><b>4. Assume you’re always right.&nbsp; </b>Of course we all want to appear to our coworkers and customers that we know everything about our company, service, or product. But, the truth is, none of us know it all and more than a few of the people we spoke to, told us how valuable it was to have their ego crushed. Why is this a great mistake to make? Because, once you know you can be wrong, you approach work differently knowing that your next decision might not be correct, but it will be a learning experience that leads you closer and closer to finding the most successful result.<b></b><br /> 
+ <!--nextpage--><br /> <b>&nbsp;</b><b>The fifth mistake: the one you don’t want to make.</b></p> 
+<p><b>&nbsp;</b>It was difficult for us to create a label for the one mistake people said they wish they had never made. “Allowing some of the best people to leave” was one response. “Not realizing that I was mistreating people,” was another.&nbsp; However, if we had to create a nutshell to summarize the answers we received when we asked the question “What mistakes have you made in your career that hurt you in the long term?” the answers focused on one simple thing. They had nothing to do with productivity. They had nothing to do with performance. They focused on the failure to appreciate a relationship. So, here’s our attempt to categorize the one mistake you shouldn’t make…</p> 
+<p><strong>5. Not saying “Thank You”</strong> None of us would be who we are today without the people who work with us, for us, and in spite of us. Maybe it’s time to show those people some gratitude…so all our mistakes can be learning experiences instead of regrets. </p>
+<p class="sigfile"><em><span lang="EN" style="color: black; line-height: 150%; font-family: 'Calibri','sans-serif'; font-size: 12pt; mso-ascii-theme-font: major-latin; mso-hansi-theme-font: major-latin; mso-bidi-font-family: Helvetica; mso-themecolor: text1; mso-ansi-language: EN;">Learn more about the NYT Bestselling book <b><a href="http://www.amazon.com/Great-Work-Make-Difference-People/dp/0071818359/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1384292231&amp;sr=1-1&amp;keywords=great+work+how+to+make+a+difference+people+lovehttp://"><span style="color: black; mso-themecolor: text1;">Great Work: How to Make a Difference People Love</span></a>.</b></span></em></p>
+
+
+					</div>
+
+				</div>
+
+
+				<div class="sponsored_ad"></div>
+					<div class="media_net_related_links"></div>
+
+
+				<div class="event_tracking_scroll_latch" data-event="Article,ScrolledToEnd,end"></div>
+
+			</div><!-- .article_body.article -->
+
+    <div class="comment_bug" style="display:none;">
+        <div class="arrow_icon"></div>
+        <div class="bottom_border"></div>
+        <div class="wrapper">
+            <div class="called_out_sampling"></div>
+
+            <div class="info">
+                <a href="#comments_header" class="scroll_to">
+                     comments,  called-out
+                </a>
+            </div>
+                <a href="#comment_reply" class="scroll_to post_your_comment">Comment Now</a>
+				<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2868-1509" data-object-json="{&quot;title&quot;:&quot;Four Career Mistakes You Should Be Making -- And The One You Shouldn't&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+				</div>
+        </div>
+        <div class="comment_teaser"></div>
+        <div class="no_comment_bugs_exist_yet" style="display:none;">
+            <a href="#comment_reply" class="scroll_to post_first_comment">Comment Now</a>
+			<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2868-1509" data-object-json="{&quot;title&quot;:&quot;Four Career Mistakes You Should Be Making -- And The One You Shouldn't&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+			</div>
+    </div>
+    </div>
+
+
+<script type="text/javascript">
+
+function printArticle(url) {
+params = 'width='+screen.width;
+params += ', height='+screen.height;
+params += ', top=0, left=0'
+params += ', fullscreen=yes, scrollbars = yes, resizable=yes';
+
+slideWin = window.open(url, 'popup', params);
+if(window.focus) {
+slideWin.focus();
+}
+return false;
+}
+
+</script>
+
+<div class="article_actions">
+
+<div class="sub_links clearfix">
+
+
+
+<div class="widget print">
+<a href="http://www.forbes.com/sites/davidsturt/2014/09/24/5-mistakes-4-you-should-make-and-1-you-shouldnt/print/" target="_blank"><span class="icon"></span>Print</a>
+</div>
+
+<div class="widget corrections">
+<a href="#corrections"><span class="icon"></span>Report Corrections</a>
+</div>
+
+<div class="widget reprint">
+<a href="http://forbesreprints.magreprints.com/" target="_blank"><span class="icon"></span>Reprints &amp; Permissions</a>
+</div>
+
+</div>
+</div>
+
+			<div class="vestpocket_holder" style="display:none;">
+
+
+
+	<aside class="vestpocket" data-position="4" >
+
+
+
+
+
+        <div class="vp-box vp-article">
+            <a href="http://www.forbes.com/sites/davidsturt/2014/07/29/3-promises-to-drive-extreme-growth-ceo-coach-sheldon-harris-spills-the-beans/" class="thumb">
+                <span class="icon">
+                </span>
+                        <img src='http://blogs-images.forbes.com/davidsturt/files/2014/09/sheldon-harris.jpg' alt="" />
+            </a>
+			<h4>
+				<a href="http://www.forbes.com/sites/davidsturt/2014/07/29/3-promises-to-drive-extreme-growth-ceo-coach-sheldon-harris-spills-the-beans/" class="vp_text">
+                    How To Lead Extreme Growth
+				</a>
+			</h4>
+
+
+	            <cite class="box_byline clearfix">
+					<a href="http://www.forbes.com/sites/davidsturt/">
+	                	<img src='http://0.gravatar.com/avatar/ebe053f61e6628d1754d009d3a3065d6?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' alt="David Sturt and Todd Nordstrom" class="avatar" />
+
+	                    <strong>David Sturt and Todd Nordstrom</strong>
+	                    <span class="desc">Contributor</span>
+	                </a>
+	            </cite>
+        </div>
+
+
+
+        <div class="vp-box vp-article">
+            <a href="http://www.forbes.com/sites/davidsturt/2014/09/18/how-to-meet-the-one-person-who-could-change-your-life/" class="thumb">
+                <span class="icon">
+                </span>
+                        <img src='http://blogs-images.forbes.com/davidsturt/files/2014/09/Forbes1-1940x1291.jpg' alt="" />
+            </a>
+			<h4>
+				<a href="http://www.forbes.com/sites/davidsturt/2014/09/18/how-to-meet-the-one-person-who-could-change-your-life/" class="vp_text">
+                    How To Meet The One Person Who Could Change Your Life
+				</a>
+			</h4>
+
+
+	            <cite class="box_byline clearfix">
+					<a href="http://www.forbes.com/sites/davidsturt/">
+	                	<img src='http://0.gravatar.com/avatar/ebe053f61e6628d1754d009d3a3065d6?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' alt="David Sturt and Todd Nordstrom" class="avatar" />
+
+	                    <strong>David Sturt and Todd Nordstrom</strong>
+	                    <span class="desc">Contributor</span>
+	                </a>
+	            </cite>
+        </div>
+
+
+
+        <div class="vp-box vp-article">
+            <a href="http://www.forbes.com/sites/davidsturt/2014/09/11/the-evolution-of-the-manager-and-what-it-means-for-you/" class="thumb">
+                <span class="icon">
+                </span>
+                        <img src='http://blogs-images.forbes.com/davidsturt/files/2014/09/past-present-future3-1940x1499.png' alt="" />
+            </a>
+			<h4>
+				<a href="http://www.forbes.com/sites/davidsturt/2014/09/11/the-evolution-of-the-manager-and-what-it-means-for-you/" class="vp_text">
+                    The Evolution Of The Manager...And What It Means For You
+				</a>
+			</h4>
+
+
+	            <cite class="box_byline clearfix">
+					<a href="http://www.forbes.com/sites/davidsturt/">
+	                	<img src='http://0.gravatar.com/avatar/ebe053f61e6628d1754d009d3a3065d6?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' alt="David Sturt and Todd Nordstrom" class="avatar" />
+
+	                    <strong>David Sturt and Todd Nordstrom</strong>
+	                    <span class="desc">Contributor</span>
+	                </a>
+	            </cite>
+        </div>
+
+
+
+        <div class="vp-box vp-article">
+            <a href="http://www.forbes.com/sites/davidsturt/2014/08/14/the-worst-bosses-might-actually-be-good-for-your-career/" class="thumb">
+                <span class="icon">
+                </span>
+                        <img src='http://blogs-images.forbes.com/davidsturt/files/2014/08/forbes-smaller.jpg' alt="" />
+            </a>
+			<h4>
+				<a href="http://www.forbes.com/sites/davidsturt/2014/08/14/the-worst-bosses-might-actually-be-good-for-your-career/" class="vp_text">
+                    The Worst Bosses Might Actually Be Good For Your Career
+				</a>
+			</h4>
+
+
+	            <cite class="box_byline clearfix">
+					<a href="http://www.forbes.com/sites/davidsturt/">
+	                	<img src='http://0.gravatar.com/avatar/ebe053f61e6628d1754d009d3a3065d6?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' alt="David Sturt and Todd Nordstrom" class="avatar" />
+
+	                    <strong>David Sturt and Todd Nordstrom</strong>
+	                    <span class="desc">Contributor</span>
+	                </a>
+	            </cite>
+        </div>
+
+
+    </aside>
+
+			</div><!-- .vestpocket_items -->
+
+		</div>
+
+	</section>
+
+
+	<section class="row">
+		<div class="col-md-10 col-md-offset-2 col-sm-12 col-sm-offset-0">
+
+
+
+	<div id="comments" class="comments_collection" data-selected-comment-id="" data-manage-comment-following-link="http://blogs.forbes.com/account/#accounttab-5" >
+
+		<div class="comment_form_orig_position">
+    <div class="comment_reply">
+            <div class="arrow"></div>
+            <form class="forbes_forms v1 comment_reply_form" name="commentForm" action="/wp-admin/admin-ajax.php" method="post" data-comment-nonce="" data-validation-rules-json="[{&quot;field_id&quot;:&quot;user_comment_textarea&quot;,&quot;rules&quot;:{&quot;required&quot;:true,&quot;notEqualTo&quot;:{&quot;attr&quot;:&quot;data-initial-text&quot;,&quot;caseSensitive&quot;:false,&quot;errorMsg&quot;:&quot;Please enter a comment to post.&quot;},&quot;between&quot;:{&quot;min&quot;:2,&quot;max&quot;:10000}}}]" data-reload-url="http://www.forbes.com/sites/davidsturt/2014/09/24/5-mistakes-4-you-should-make-and-1-you-shouldnt/">
+                    <!-- the form action will be expecting all of the following hidden fields -->
+                    <input type='hidden' name='action' value='unireg_comments' autocomplete="off" />
+                    <input type='hidden' name='natural_id' value='blogAndPostId/blog/post/2868-1509' autocomplete="off" />
+                    <input type='hidden' name='comment_parent' value='0' autocomplete="off" />
+
+                    <h3 class="main">Post Your Comment</h3>
+                    <div class="reply_header" style="display:none;">
+                            <a href="#cancel" class="cancel_reply">Cancel reply</a>
+                            <h3>Post Your Reply</h3>
+                    </div>
+
+			
+            <div class="status_bar">
+                                    Please
+                                    <a class="ajaxify unireg_login" href="http://blogs.forbes.com/account/login/?redirect_to=http://www.forbes.com/sites/davidsturt/2014/09/24/5-mistakes-4-you-should-make-and-1-you-shouldnt/" title="Click to log in">log in</a>
+                                    or
+                                    <a class="ajaxify unireg_register" href="http://blogs.forbes.com/account/register/?redirect_to=http://www.forbes.com/sites/davidsturt/2014/09/24/5-mistakes-4-you-should-make-and-1-you-shouldnt/" title="Click to sign up">sign up</a>
+                                    to comment.
+                            </div>
+
+<div class="entity_block">
+                                    <a class="ajaxify avatar" href="http://blogs.forbes.com/account/login/?redirect_to=http://www.forbes.com/sites/davidsturt/2014/09/24/5-mistakes-4-you-should-make-and-1-you-shouldnt/" class="avatar" title="Click to log in or register">
+                                            <img src="http://i.forbesimg.com/assets/img/comments/no_profile_image.jpg" alt="">
+                                    </a>
+                            </div>
+
+                    <div class="input_holder_outer input_block">
+
+                            <div class="main_error_msg" style="display:none;">
+                                    <span class="icon"></span>
+                                    <span class="text"></span>
+                            </div>
+
+                            <div class="input_holder">
+
+                                    <textarea id="user_comment_textarea" class="initial_text user_comment" data-initial-text="Enter Your Comment" name="comment" cols="80" rows="10" autocomplete="off">Enter Your Comment</textarea>
+
+                                    <span class="error_msg"></span>
+
+										<div class="control_bar" style="display:none;">
+                                            <a class="fancy_button submit small" data-submit-button="true"><span class="outer"><span class="inner"><span class="icon"></span><span class="label">Submit Comment</span></span></span><span class="loading_spinner left" style="display:none;"><img src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" height="16" width="16" alt=""></span></a>
+                                            <input class="hidden_submit" type="submit" name="submit_hidden" value="Submit" id="idCommentForm_submit">
+                                    </div>
+                            </div>
+                    </div>
+
+                    <div class="clear"></div>
+
+                    <div class="moderation_info">
+                            <p>
+                                    Forbes writers have the ability to call out member comments they find particularly interesting. Called-out comments are highlighted across the Forbes network. You'll be notified if your comment is called out.
+                            </p>
+               		</div>
+            </form>
+    </div>
+		</div>
+
+
+	</div><!-- .comments_collection -->
+		</div>
+	</section>
+
+
+	<div class="speed_bump">
+
+		<section class="row">
+		<div id="grv-personalization-13-1412388890450"></div>
+			<script type='text/javascript'>
+			  //<![CDATA[
+			    (function(){
+			    var containerId = "grv-personalization-13-1412388890450";
+			    window.gravityInsightsParams = {
+			      'type': 'content',
+			      'action': '',
+			      'site_guid': 'df51572e4a248537619f3b6b11928388'
+			    };
+			    var adServerReq,bUrl,cburl,doUseGravityUserGuid,includeJs,jq,pfurl,type,ug,wlPrefix,wlUrl,_ref,_ref1,_ref2;includeJs=function(a){var b;b=document.createElement("script");b.async=!0;b.src=a;a=document.getElementsByTagName("script")[0];return a.parentNode.insertBefore(b,a)};bUrl="";ug=(doUseGravityUserGuid=!0===gravityInsightsParams.useGravityUserGuid?1:0)?"":gravityInsightsParams.user_guid||(null!=(_ref=/grvinsights=([^;]+)/.exec(document.cookie))?_ref[1]:void 0)||"";
+			    wlUrl=(wlPrefix="https:"===location.protocol?"https://secure-api.gravity.com/v1/api/intelligence":"http://rma-api.gravity.com/v1/api/intelligence",jq=(null!=(_ref1=window.jQuery)?null!=(_ref2=_ref1.fn)?_ref2.jquery:void 0:void 0)||"",type="iframe",adServerReq=gravityInsightsParams.ad||"",cburl=gravityInsightsParams.cburl||"",pfurl=gravityInsightsParams.pfurl||"",""+wlPrefix+"/wl?jq="+jq+"&sg="+gravityInsightsParams.site_guid+"&ug="+ug+"&ugug="+doUseGravityUserGuid+"&id="+containerId+"&pl=13"+
+			    ("&type="+type+"&ad="+adServerReq+"&cburl=")+encodeURIComponent(cburl)+"&pfurl="+encodeURIComponent(pfurl)+("&x="+(new Date).getTime())+("undefined"!==typeof forceArticleIds&&null!==forceArticleIds&&forceArticleIds.join?"&ai="+forceArticleIds.join(","):"")+("undefined"!==typeof apids&&null!==apids&&""!==apids?"&apids="+encodeURIComponent(apids):""));bUrl&&includeJs(bUrl);wlUrl&&(window.gravityInsightsParams.sidebar&&(window.gravityInsightsParams.wlStartTime=(new Date).getTime()),includeJs(wlUrl));})();
+			  //]]>
+			</script>
+	</section>
+
+	</div> <!-- .speed_bump -->
+
+
+	<!--start:gigya_settings-->
+	<div class="gigya_settings" style="display:none;">
+		<div class="gigya_shortLink" data-value="http://onforb.es/1psqK5m"></div>
+		<div class="gigya_canonicalLink" data-value="http://www.forbes.com/sites/davidsturt/2014/09/24/5-mistakes-4-you-should-make-and-1-you-shouldnt/"></div>
+		<div class="gigya_title" data-value='{&quot;generic&quot;:&quot;Four Career Mistakes You Should Be Making -- And The One You Shouldn&#39;t - Forbes&quot;,&quot;twitter&quot;:&quot;Four Career Mistakes You Should Be Making -- And The One You Shouldn&#39;t&quot;}'></div>
+		<div class="gigya_cid" data-value="blogAndPostId/blog/post/2868-1509"></div>
+		<div class="gigya_buttonContainerPrefixArray" data-value="gigya_share_button,gigya_inline_share_button"></div>
+		<div class="gigya_counterContainerPrefixArray" data-value="gigya_share_counter,gigya_inline_share_counter"></div>
+		<div class="gigya_counterDisplayArray" data-value="tall,medium"></div>
+		<div class="gigya_grecobarEnabled" data-value="false"></div>
+		<div class="gigya_twitterVia" data-value="forbes"></div>
+		<div class="gigya_twitterHashtags" data-value=""></div>
+		<div class="gigya_twitterRelated" data-value="forbes,@david_sturt"></div>
+	</div>
+	<!--end:gigya_settings-->
+
+		<!--end:ajax_content_inner-->
+
+		<!-- must appear once on the page -->
+		<div id="contentad9177"></div>
+
+	</div><!-- .article_container.container -->
+
+	<!--sticky_sharing-->
+    <div class="sticky_sharing_bg"></div>
+    <div data-sharing-url="http://www.forbes.com/sites/davidsturt/2014/09/24/5-mistakes-4-you-should-make-and-1-you-shouldnt/" data-sharing-native="true" class="sticky_sharing sticky_sharing_v2" style="display:none;">
+        <div class="share_tab">
+            <div class="share_icon" data-icon="s"></div>
+            <div class="share_count">Share</div>
+        </div>
+        <div class="control_wrapper">
+            <div class="position_reference">
+                <div class="label">
+                    Share this page
+                </div>
+                <div class="controls">
+
+	<!-- Gigya Share divs for gigya_share_button and gigya_share_counter -->
+
+	<div class="share_option">
+		<div class="gy gigyacounter facebook gigya_share_counter" id="gigya_share_counter_facebook"></div><div class="box-bottom"></div>
+		<div class="gigya_share_button-facebook" id="gigya_share_button_facebook"></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter twitter gigya_share_counter" id="gigya_share_counter_twitter"></div><div class="box-bottom"></div>
+		<div class="gy gigyabutton twitter gigya_share_button-twitter" id="gigya_share_button_twitter"></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter linkedin gigya_share_counter" id="gigya_share_counter_linkedin"></div><div class="box-bottom"></div>
+		<div class="gy gigyabutton linkedin gigya_share_button-linkedin" id="gigya_share_button_linkedin"></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter reddit gigya_share_counter" id="gigya_share_counter_reddit" ></div><div class="box-bottom"></div>
+		<div class="gy gigyabutton reddit gigya_share_button-reddit" id="gigya_share_button_reddit" ></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter google gigya_share_button-google" id="gigya_share_button_google" ><div id="gigya_share_button_inner_google" ></div></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter stumbleupon gigya_share_counter" id="gigya_share_counter_stumbleupon"></div><div class="box-bottom"></div>
+		<div class="gy gigyabutton stumbleupon gigya_share_button-stumbleupon" id="gigya_share_button_stumbleupon"></div>
+	</div>
+
+	<div class="share_option gigya_inline_share_button-email_gig_containerParent">
+		<div class="gigya_inline_share_button-email_icon" id="gigya_inline_share_button_email_icon"></div>
+		<div class="gigya_inline_share_button-email" id="gigya_inline_share_button_email"></div>
+	</div>
+                </div>
+            </div>
+        </div>
+    </div><!-- .sticky_sharing_v2 -->
+
+	<div class="loading_spinner_holder" id="page_loading_spinner">
+		<div id="pagespinner"></div>
+	</div>
+
+        
+<footer class="universal-footer">
+	<div class="footer-center">
+
+		<!-- END EDITORIAL PROMOTIONS -->
+
+		<section class="lower-footer-links clearfix">
+
+
+			<div class="channels">
+				<ul data-et-context="footer" data-et-location="footernav" class="edittools-list">
+					<li class="home">
+						<a href="http://www.forbes.com/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Forbes</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="14" data-et-location="footernav" data-et-item-type="topic">
+						<a href="http://www.forbes.com/business/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Business</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="7" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/investing/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Investing</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="8" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/technology/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Technology</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="13" data-et-location="footernav" data-et-item-type="topic">
+						<a href="http://www.forbes.com/entrepreneurs/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Entrepreneurs</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="9" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/opinion/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Op/Ed</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="10" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/leadership/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Leadership</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="11" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/lifestyle/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Lifestyle</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="12" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/lists/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Lists</a>
+					</li>
+				</ul>
+			</div>
+
+
+			<div class="conferences footer-list fleft">
+				<h5><a href="http://www.forbes.com/conferences/">Conferences</a></h5>
+
+				<ul data-et-context="footer" data-et-location="footerconferences" class="edittools-list">
+
+						<li class="editable edittools-item" data-et-item_id="15" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/under30-2014.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Under 30 Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="16" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://forbesglobalceoconference.com/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Global CEO Conference</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="14" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/cio-2014.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes CIO Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="1" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/cmo-2014.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes CMO Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="11" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/ReinventingAmerica-Indy.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Reinventing America: The Innovation Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="3" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/healthcare-2014.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Healthcare Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="5" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2015/ReinventingAmerica-Chicago.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Reinventing America Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="8" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/sites/forbespr/2014/07/09/forbes-and-svg-partners-will-host-forbes-reinventing-america-the-agtech-summit-july-2015-in-salinas-valley/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Reinventing America: The AgTech Summit</a>
+	        			</li>
+				</ul>
+			</div>
+			<div class="products_newsletter footer-list fleft">
+				<h5>Education</h5>
+				<ul>
+					<li><a href="http://www.ashford.edu/degrees/online/business.htm/" target="_blank" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Forbes School of Business at Ashford University</a></li>
+				</ul>
+
+				
+
+			<!-- <div class="products_newsletter footer-list fleft">  -->
+				<h5><a href="http://www.newsletters.forbes.com/">Newsletters</a></h5>
+
+				<ul data-et-context="footer" data-et-location="footernewsletters" class="edittools-list">
+
+						<li class="editable edittools-item" data-et-item_id="1" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/newsletters/forbes-investor/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Investor</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="2" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="https://www.specialsituationsurvey.com/newsletters/sss/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Special Situation Survey</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="3" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/newsletters/forbes-dividend-investor/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Dividend Investor</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="5" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/newsletters/forbes-premium-income-report/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Premium Income Report</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="6" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="http://onforb.es/1dK9tEh" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Investing Newsletters</a>
+	        			</li>
+				</ul>
+			<!-- </div> -->
+				
+			</div>		
+
+			<div class="company-info footer-list fleft">
+				<h5>Products</h5>
+
+				<ul data-et-context="footer" data-et-location="footerproducts" class="edittools-list">
+
+						<li class="editable edittools-item" data-et-item_id="3" data-et-location="footerproducts" data-et-item-type="link">
+	            			<a href="https://www.forbesid.com/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Identity Protection</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="4" data-et-location="footerproducts" data-et-item-type="link">
+	            			<a href="http://www.forbesmagazine.com/newsfeeds/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Newsfeeds</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="5" data-et-location="footerproducts" data-et-item-type="link">
+	            			<a href="http://forbesreprints.magreprints.com/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Reprints & Permissions</a>
+	        			</li>
+				</ul>
+				
+				<h5>Company Info</h5>
+				<ul>
+					<li><a href="http://www.forbesmedia.com/" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Advertise</a></li>
+					<li><a href="http://www.forbes.com/sites/forbespr/" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click" class="exit_trigger_set ga_tracked">Forbes Press Room</a></li>
+					<li><a href="https://www2.apply2jobs.com/forbes/" target="_blank" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Forbes Careers</a></li>
+					<li><a href="http://www.forbes.com/fdc/contact.html" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Contact Us</a></li>
+					<li><a href="http://www.forbes.com/fdc/sitemap.html" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Sitemap</a></li>
+					<li><a href="http://blogs.forbes.com/help/" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Help</a></li>
+				</ul>
+			</div>
+				<div class="publications fleft">
+			<div class="clearfix">
+           		<a href="http://www.forbes.com/forbes" data-ga-event="Footer,LinkFollowed,magazine" data-ga-event-trigger="click" class="exit_trigger_set ga_tracked"><img src="http://images.forbes.com/media/current_covers/forbes_120x160.jpg" alt="Forbes Magazine"></a>
+            	<a href="http://www.forbes.com/forbes-life-magazine" data-ga-event="Footer,LinkFollowed,magazine" data-ga-event-trigger="click" class="exit_trigger_set ga_tracked"><img src="http://images.forbes.com/media/current_covers/forbeslife_120x160.jpg" alt="ForbesLife"></a>
+            	<a href="http://www.forbes.com/forbesasia/" data-ga-event="Footer,LinkFollowed,magazine" data-ga-event-trigger="click" class="exit_trigger_set ga_tracked"><img src="http://images.forbes.com/media/current_covers/forbesasia_120x160.jpg" alt="ForbesAsia"></a>
+            </div>
+				
+				<ul class="subscriptions">
+					<ul data-et-context="footer" data-et-location="footermagazine" class="edittools-list">
+							<li class="editable edittools-item" data-et-item_id="6" data-et-location="footermagazine" data-et-item-type="link">
+	            				<a href="https://subs.forbesmagazine.com/servlet/OrdersGateway?cds_mag_code=FRB&cds_page_id=150007" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">2 Free Issues</a>
+	        				</li>
+							<li class="editable edittools-item" data-et-item_id="4" data-et-location="footermagazine" data-et-item-type="link">
+	            				<a href="http://www.forbesmagazine.com/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Subscriber Services</a>
+	        				</li>
+							<li class="editable edittools-item" data-et-item_id="5" data-et-location="footermagazine" data-et-item-type="link">
+	            				<a href="https://subs.forbesmagazine.com/loc/FRB/IZEG101" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Gift Subscription</a>
+	        				</li>
+					</ul>
+				</ul>
+
+				<div class="affiliate-sites">
+					<ul>
+						<li><a href="http://www.forbeschina.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes China</a></li>
+						<li><a href="http://www.forbesindia.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes India</a></li>
+						<li><a href="http://www.forbes.co.il/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Israel</a></li>
+						<li><a href="http://www.forbes.com.mx/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Mexico</a></li>
+						<li><a href="http://www.forbesmiddleeast.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Middle East</a></li>
+					</ul>
+					<ul>
+						<li><a href="http://www.forbes.pl/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Poland</a></li>
+						<li><a href="http://www.forbes.ro/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Romania</a></li>
+						<li><a href="http://www.forbesrussia.ru/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Russia</a></li>
+						<li><a href="http://forbesmagazine.es/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Spain</a></li>
+					</ul>
+					<ul>
+						<li><a href="http://www.realclear.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear</a></li>
+						<li><a href="http://www.realclearpolitics.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear Politics</a></li>
+						<li><a href="http://www.realclearmarkets.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear Markets</a></li>
+						<li><a href="http://www.realclearworld.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear World</a></li>
+						<li><a href="http://www.realclearsports.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear Sports</a></li>
+					</ul>
+				</div>
+			</div>
+
+        </section>
+
+		
+		<section class="legalese clearfix">
+			<small>2014 Forbes.com LLC&#153; &nbsp; All Rights Reserved</small>
+			<ul>
+				<li><a href="/terms" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Terms and Conditions</a></li>
+				<li><a href="http://www.forbes.com/fdc/privacy.html" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Privacy Statement</a></li>
+				<li><a href="http://corporate.morningstar.com/us/asp/subject.aspx?xmlfile=5501.xml" target="_blank" data-ga-event="Footer,LinkFollowed,partner" data-ga-event-trigger="click">Market Data by Morningstar</a></li>
+				<li><a onclick="(function(){forbes.event_tracking.track_ga_event(['Footer','LinkFollowed','partner']);var s=document.createElement('script');s.src='http://preferences.truste.com/js/buildJsFilev2.jsp?domain=forbes.com&amp;type=epref';s.onreadystatechange=function(){if(script.readyState=='loaded'||script.readyState=='complete'){view(trusteId);}};s.onload=function(){view(trusteId);};document.getElementsByTagName('head')[0].appendChild(s);})()" style="cursor:pointer;" target="_blank">AdChoices</a></li>
+			</ul>
+		</section>
+	</div>
+</footer>
+
+<!-- Start: footer assets -->
+
+<!--@foot.populate footer_data=pageData.footerData! /-->
+        <script type="text/javascript">
+            //<![CDATA[
+                var ppi_AjaxURI = '/wp-admin/admin-ajax.php'
+                	,imagesBaseCdn = 'http://i.forbesimg.com'
+					,followBarLocation = 'channel_4'; 
+            //]]>
+        </script>
+    <!--Start: Gigya Configs-->
+        <script type="text/javascript">
+            var gigya_conf = {
+                siteName: 'forbes.com',
+                APIkey: '3_8Fcn29ZQ5lcRRr8BsC6Y2q8eRKPl567JTM6IWXsqW4eqW57_fNx29GDl9YdzZLvH',
+                connectWithoutLoginBehavior: 'alwaysLogin',
+                enabledProviders: 'facebook,twitter,linkedin,googleplus,yahoo,messenger,wordpress,aol,blogger,openid,foursquare,typepad'
+            };
+
+            (function() {
+				var po = document.createElement('script');
+				po.type = 'text/javascript';
+				//po.async = true;
+				po.src = 'http://cdn.gigya.com/js/socialize.js?apiKey=3_8Fcn29ZQ5lcRRr8BsC6Y2q8eRKPl567JTM6IWXsqW4eqW57_fNx29GDl9YdzZLvH';
+
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(po, s);
+			})();
+
+			(function() {
+				var po = document.createElement('script');
+				po.type = 'text/javascript';
+				//po.async = true;
+				po.src = 'http://cdn.gigya.com/js/gigyaGAIntegration.js';
+
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(po, s);
+			})();
+        </script>
+    <!--End: Giya Configs -->
+	<script type="text/javascript">
+		var google_tag_channel = "";
+		var google_tag_section = "";
+		var google_tag_swimlane = "";
+		var google_tag_specialslot = "rethinking-risk";
+		var google_tag_article_special_slot = "rethinking-risk";
+		var google_tag_display_channel = "";
+		var google_tag_display_section = "";
+		var google_tag_zone = "article-new";
+		var google_tag_article_id = "blogAndPostId/blog/post/2868-1509";
+	</script>
+		<script type="text/javascript" src="http://i.forbesimg.com/scripts/combined/js/global.f8a7171d037be437df925c263f993ecd24694cc2.js"></script>
+		<script type="text/javascript" src="http://i.forbesimg.com/scripts/combined/js/article-responsive.485f3ed6bcb0df03dc3d2010f0f59a268d0f50d0.js"></script>
+<span class="lazy_load_js" data-files="http://i.forbesimg.com/scripts/combined/js/globallazy.8da0470d609bcf7bc1c2f94a0826d4b633a62b6a.js"></span>
+    <script type="text/javascript">
+        forbes.bootstrap.init();
+    </script>
+
+
+    <script type="text/javascript">
+        if ( typeof window.JSON === 'undefined' ) {
+            document.write('<script src="http://i.forbesimg.com/assets/js/core/jquery.json-2.2.js"><\/script>');
+        }
+    </script>
+<!-- End: footer assets -->
+
+<div class="current_page_threshold"></div>
+
+</body>
+</html>

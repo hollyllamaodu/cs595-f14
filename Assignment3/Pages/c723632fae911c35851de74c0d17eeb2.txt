@@ -1,0 +1,2471 @@
+
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+		<title>Is Ebola Coming To America? Experts Ponder As Ebola Epidemic Worsens In Africa. - Forbes</title>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta name="viewport" content="width=device-width, maximum-scale=2.0" />
+		<meta name="description" content="Sept. 30 update: CDC has confirmed the first case of Ebola diagnosed in the United States. New CDC and WHO data suggest that Africa&#39;s Ebola outbreak is worse than expected &mdash;&nbsp;and in a worst-case scenario, the current Ebola epidemic could become endemic. And those gloomy projections have experts worried that Ebola will [...]" />
+		<meta name="keywords" content="Going Global,Healthcare Innovation,Pharma and Health,Pharma &amp;amp; Healthcare" />
+		<meta name="author" content="Dan Diamond" />
+		<meta name="apple-itunes-app" content="app-id=588647136" />
+		<meta property="author" content="Dan Diamond" />
+		<meta property="og:title" content="Is Ebola Coming To America? Experts Ponder As Ebola Epidemic Worsens In Africa." />
+		<meta property="og:site_name" content="Forbes" />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/" />
+		<meta property="og:image" content="http://blogs-images.forbes.com/dandiamond/files/2014/09/Ebola.png" />
+		<meta name="sailthru.image.full" content="http://blogs-images.forbes.com/dandiamond/files/2014/09/Ebola.png" />
+		<meta property="og:description" content="Sept. 30 update: CDC has confirmed the first case of Ebola diagnosed in the United States. New CDC and WHO data suggest that Africa&#39;s Ebola outbreak is worse than expected &mdash;&nbsp;and in a worst-case scenario, the current Ebola epidemic could become endemic. And those gloomy projections have experts worried that Ebola will [...]" />
+		<meta property="fb:app_id" content="123694841080850" />
+		<meta property="article:published_time" content="2014-09-23" />
+		<meta name="date" content="2014-09-23" />
+		<meta property="article:author" content="http://www.forbes.com/sites/dandiamond/" />
+		<meta name="sailthru.author" content="Dan Diamond" />
+		<meta property="article:author" content="http://www.forbes.com/sites/dandiamond/" />
+		<meta name="sailthru.author" content="DD Constructed" />
+		<meta property="article:section" content="Going Global" />
+		<meta property="article:section" content="Healthcare Innovation" />
+		<meta property="article:section" content="Pharma & Healthcare" />
+		<meta property="article:tag" content="Going Global" />
+		<meta property="article:tag" content="Healthcare Innovation" />
+		<meta property="article:tag" content="Pharma and Health" />
+		<meta property="article:tag" content="Pharma &amp; Healthcare" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:site" content="@forbes" />
+		<meta name="twitter:creator" content="ddiamond" />
+		<link rel="canonical"   href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/" />
+		<link rel="next"   href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/2/" />
+		<link rel="shortlink"   href="http://onforb.es/1rtFuH0" />
+	    	<link rel="author" href="https://plus.google.com/+DanDiamond/posts" />
+	<script type="text/javascript" src="http://images.forbes.com/scripts/js_options.js"></script>
+	<script type="text/javascript">
+    	(function (){
+
+			window.displayedChannel = 'business';
+			window.displayedSection = 'dandiamondblog';
+
+			// Check if welcome ad is not disabled
+			if(typeof forbes !== "undefined" && typeof forbes.js_options !== "undefined" && !forbes.js_options.welcome_ad_disable ){
+
+				var midnight = new Date(),
+					offset = -4 // if offset is not set, by default time is UTC 6:00am i.e EST 1am & EDT 12am for dailyWelcomeCookie expiration
+				;
+
+				if(midnight.getUTCHours() >= -offset)
+					midnight.setUTCDate(midnight.getUTCDate()+1)
+				;
+
+				midnight.setUTCHours(-offset);
+				midnight.setUTCMinutes(00);
+				midnight.setUTCSeconds(00);
+
+
+				var welcomeCookie = "welcomeAd=sessionCookie",
+					interstitial_cookie = '_forbes_exit_interstitial_timer',
+					tomorrow = new Date(),
+					month = tomorrow.getMonth(),
+					day = tomorrow.getDate(),
+					dailyWelcomeCookie = 'dailyWelcomeCookie=dailyCookie',
+					browser_user_agent = window.navigator.userAgent.toLowerCase(),
+					page_type = 'article',
+					swimlane = '',
+					brand_voice = 'false'
+				;
+
+				if ((document.cookie.indexOf(welcomeCookie)==-1 || document.cookie.indexOf(dailyWelcomeCookie) == -1)
+					&& (window.navigator.userAgent.indexOf("Mozilla")>-1)
+					&& (browser_user_agent.indexOf("googlebot")==-1)
+					&& (browser_user_agent.indexOf("google web preview")==-1)
+					&& (window.location.host.indexOf("forbes.com")!=-1)
+					&& (window.location.search.indexOf("partner=yahoo")==-1)
+					&& (window.location.search.indexOf("partner=msn")==-1)
+					&& (window.location.search.indexOf("partner=aol")==-1)
+					&& (window.location.search.indexOf("partner=omg")==-1)
+					&& (window.location.search.indexOf("partner=huffpo")==-1)
+					&& (window.location.search.indexOf('nowelcome')==-1)
+					&& (swimlane.indexOf("rico")!=0 || page_type != 'article')
+					&& brand_voice==='false'){
+
+					if(document.cookie.indexOf(welcomeCookie) == -1 ){
+						document.cookie = welcomeCookie +'__welcome'+(month+1)+day+'; path=/; domain=.forbes.com';
+					}
+
+					if(document.cookie.indexOf(dailyWelcomeCookie) == -1){
+						document.cookie = dailyWelcomeCookie+'_forDate'+(month+1)+day+'; path=/; domain=.forbes.com; expires=' + midnight.toGMTString();
+					}
+
+					// check if interstitial's cookie hasn't been set already
+					if(document.cookie.indexOf( interstitial_cookie ) == -1){
+
+						// it doesn't exist; let's create the interstitial cookie and set it
+						// with the current timestamp
+
+						var now = new Date(),
+							now_time = now.getTime(),
+							expiration_date = new Date()
+						;
+
+						expiration_date
+							.setDate( expiration_date.getDate() + 365)
+						;
+
+						// set interstitial cookie to the current time
+						document.cookie = interstitial_cookie + '='+ now_time +'; path=/; domain=.forbes.com; expires=' + expiration_date.toUTCString();
+					}
+
+					if (document.cookie.indexOf(welcomeCookie) != -1 || document.cookie.indexOf(dailyWelcomeCookie) != -1){
+
+						// this cookie is used by interstitial_ad.js to determine if the user received a
+						// welcome ad before viewing the current page.
+						document.cookie="last_welcomead_url"+ "=" +escape(document.URL)+";path=/; domain=.forbes.com";
+						document.cookie="referrer"+ "=" +escape(document.referrer)+";path=/; domain=.forbes.com";
+						document.cookie="toURL"+ "=" +escape(document.URL)+";path=/; domain=.forbes.com";
+						document.cookie="refURL"+ "=" +escape(document.referrer)+";path=/; domain=.forbes.com";
+						this.location='http://www.forbes.com/fdc/welcome_mjx.shtml';
+					}
+				}
+
+			}
+		})();
+	</script>
+        <script type="text/javascript">
+                var forbes = ( function( forbes_namespace ) {
+                forbes_namespace.user_meta = {
+            },
+            forbes_namespace.page_meta = {
+                            channel: "business",
+                            section: "dandiamondblog",
+
+                            primary_channel: "business",
+
+                            primary_section: "pharma",
+
+
+
+
+                            sitepage: "forbes.com/business/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/",
+                            author: {
+                                    natural_id: "blogAuthorId/blog/author/353761",
+                                    user_id: "353761",
+                                    display_name: "Dan Diamond",
+                                    type: "individual"
+                            },
+         	                   post_id: 3241,
+            	                blog_id: 2238,
+                            natural_id: "blogAndPostId/blog/post/2238-3241",
+                            type: "blog",
+                            title: "Is Ebola Coming To America? Experts Ponder As Ebola Epidemic Worsens In Africa.",
+                            site_slug: "dandiamond",
+							referrer: "",
+							content_id: "content_54218f54e4b03b61661eb0eb",
+							blogtype : "individual",
+							authorType: "individual",
+							brandvoice: false,
+								simple_reach: {
+									iframe: true,
+									pid: "50e4a8434240cf5c4b000009",
+									url: "http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/",
+									title: "Is Ebola Coming To America? Experts Ponder As Ebola Epidemic Worsens In Africa.",
+									date: "2014-09-23T17:20:00Z",
+									authors: ["Dan Diamond"],
+									channels: ["business"],
+									tags: ["site::dandiamond", "slot::" ,"Going Global","Healthcare Innovation","Pharma and Health","Pharma &amp; Healthcare"],
+									landing_url: ""
+								}
+                    };
+                    return forbes_namespace;
+            }( forbes || {} ) );
+        </script>
+	<script type='text/javascript'>
+
+	var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+  var gads = document.createElement('script');
+  gads.async = true;
+  gads.type = 'text/javascript';
+  var useSSL = 'https:' == document.location.protocol;
+  gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(gads, node);
+})();
+
+	</script>
+		<link rel="stylesheet" type="text/css" href="http://i.forbesimg.com/scripts/combined/css/global.43c99e597e708a164dfaacb2ef527fd6bb6121dd.css" />
+		<link rel="stylesheet" type="text/css" href="http://i.forbesimg.com/scripts/combined/css/article-responsive.5ee6df0094da8ce2145a5350e42ec6a7373915fa.css" />
+		<script type="text/javascript" src="http://i.forbesimg.com/scripts/combined/js/head.14cf7fb3a4053446bdebb499b3fa78ede856f5a5.js"></script>
+
+	<script type="text/javascript" src="http://i.forbesimg.com/assets/js/forbes/polar/vest_pocket_article.js"></script>
+	<script type="text/javascript" src="http://images.forbes.com/scripts/simple_reach.js"></script>
+
+
+	<!--[if lte IE 8]>
+		<link rel="stylesheet" type="text/css" href="//i.forbesimg.com/assets/css/forbes/article_responsive/article_ie_unbreaker.css">
+	<![endif]-->
+
+
+</head>
+
+<body class="body_article infinite follow_bar_disabled"
+	data-header-mode="default"
+	data-base-url="/"
+	data-stream-data-url="/pepe2/get_article.php"
+	data-max-stream-pages="3">
+
+	
+<header class="ar_global enable_sticky_header">
+
+	<span class="edittools-goggles-hitmask">
+		<span class="edittools-goggles-hitarea">
+			<span class="edittools-goggles-toggle attach-click" title="Toggle Edit Tools"></span>
+		</span>
+	</span>
+	<span class="edittools-goggles-rule"></span>
+
+	<div class="wrap">
+
+		<a href="/" class="default_logo_toggle logo_menu_toggle">
+			<span class="icon arrow"></span>
+		</a>
+
+		<div class="logo">
+			<a href="http://www.forbes.com/">
+				<img class="svg" alt="Forbes" src="/assets/img/forbes_logo/forbes_logo_white.svg" onerror="this.src='/assets/img/forbes_logo/forbes_logo_white.png'">
+				<img itemprop="logo" alt="Forbes" src="/assets/img/forbes_logo/forbes_logo.gif">
+			</a>
+		</div>
+		<div class="primary_feature">
+
+<article>
+
+
+		<div class="edittools-promoblock largeplusthree" data-et-context="headercoverstory" data-et-location-id="headercoverstory" data-et-panel-id="panel8">
+			<article data-et-content-id="4e7a0e2776e46f6dd8029dc4" class="promostory promostory-1">
+
+
+				<figure>
+					<a href="http://www.forbes.com/forbes-400/" class="featured_image editable editable-img  " data-ga-event="Header,LinkFollowed,magpromo" data-ga-event-trigger="click">
+
+
+						<img src="http://images.forbes.com/images/channels/headercoverstory_panel8_0_original-1412266450.png" alt="America's Richest People" />
+					</a>
+				</figure>
+
+				<div class="feature_label">
+					<span class="category editable editable-dek"><a href="http://www.forbes.com/forbes-400/">Forbes 400</a></span>
+						<span class="title editable editable-hed" data-ga-event="Header,LinkFollowed,magpromo" data-ga-event-trigger="click">
+							<a href="http://www.forbes.com/forbes-400/">
+									America's Richest People
+							</a>
+						</span>
+				</div>
+
+			</article>
+		</div>
+
+</article>
+		</div><!-- .primary_feature -->
+
+		<nav>
+			<ul class="main_categories">
+				<li data-id="new_posts">
+					<a href="http://www.forbes.com/real-time/" class="button" data-ga-event="Header,LinkFollowed,realtime" data-ga-event-trigger="click">
+						<span class="text">New Posts</span>
+					</a>
+				</li>
+				<li data-id="most_popular">
+					<a href="http://www.forbes.com/most-popular/" class="button" data-ga-event="Header,LinkFollowed,popular" data-ga-event-trigger="click">
+						<span class="text">Most Popular</span>
+					</a>
+				</li>
+				<li data-id="lists">
+					<a href="http://www.forbes.com/lists/" class="button" data-ga-event="Header,LinkFollowed,lists" data-ga-event-trigger="click">
+						<span class="text">Lists</span>
+					</a>
+				</li>
+				<li data-id="video">
+					<a href="http://www.forbes.com/video/" class="button" data-ga-event="Header,LinkFollowed,video" data-ga-event-trigger="click">
+						<span class="text">Video</span>
+					</a>
+				</li>
+				<li data-id="promo">
+					<a href="http://bit.ly/1aqPJ4p">
+						<span class="text">2 Free Issues of Forbes</span>
+					</a>
+				</li>
+				<li data-id="global_search">
+	<div class="header_search global_search_control typeahead_anchor">
+		<form class="form_global_search" action="/search/">
+			<div class="input_holder">
+				<input name="q" class="search_input" type="text" value="" placeholder="Search" data-placeholder-short="Search" data-placeholder-long="Search companies, people and lists" autocomplete="off">
+				<input class="form_submit" type="submit" value="submit">
+				<span class="loading_msg"></span>
+				<span class="loading_spinner"><img src="http://i.forbesimg.com/assets/img/loading_spinners/16px_grey.gif" height="16" width="16" alt=""></span>
+			</div>
+		</form>
+
+		<div class="typeahead_results_holder">
+			<div class="results"><ul></ul></div>
+		</div><!-- end div.typeahead_results_holder -->
+		
+	</div><!-- end li.search-->
+				</li>
+				<li data-id="user_info">
+
+<div class="user hover togglable collapsed">
+	<div class="account_wrapper">
+		<a class="button account toggle" href="http://blogs.forbes.com/account/" data-ga-event="Header,LinkFollowed,account" data-ga-event-trigger="click" data-content-outer=".toggle_dropdown" data-content-inner=".toggle_dropdown_content">
+			<img src="http://i.forbesimg.com/assets/img/anon_avatar.png" alt="">
+			<span class="icon arrow"></span>
+		</a>
+
+		<div class="toggle_dropdown">
+			<div class="toggle_dropdown_content rollover">
+				<div class="user_login clearfix">
+
+
+
+				<div class="one_column">
+
+					<div class="external_auth_options">
+						<h3>Log in with your social account:</h3>
+						<div id="gigya_accountdropdown_extralarge_div"></div>
+						<div class="clear"></div>
+					</div>
+
+					<hr class="dotted">
+
+					<h3>Or, you can
+						<a class="ajaxify unireg_login" href="http://blogs.forbes.com/account/login/" label="login">log in</a>
+						or
+						<a class="ajaxify unireg_register" href="http://blogs.forbes.com/account/register/" label="signup">sign up</a>
+						using Forbes.
+					</h3>
+				</div>
+
+
+				</div><!-- .user_login -->
+			</div><!-- .toggle_dropdown_content -->
+		</div><!-- .toggle_dropdown -->
+	</div><!-- .account_wrapper -->
+</div><!-- .user -->
+
+				</li>
+
+			</ul><!-- .main_categories -->
+		</nav>
+
+		<div class="secondary_features">
+<article data-id="1">
+
+			<div class="edittools-promoblock largeplusthree" data-et-context="headerfeature1" data-et-location-id="headerfeature1" data-et-panel-id="panel14">
+			<article data-et-content-id="content_542a325ee4b0563af2c47a8b" class="promostory promostory-1">
+
+
+				<figure>
+				<a href="http://www.forbes.com/sites/parmyolson/2014/09/30/how-jerry-yang-made-the-most-lucrative-bet-in-tech-history/" class="featured_image editable editable-img  " data-ga-event="Header,LinkFollowed,promo1" data-ga-event-trigger="click">
+
+
+                        <img src="http://images.forbes.com/images/channels/headerfeature1_panel14_0_original-1412266475.jpg" alt="Finding Alibaba: How Jerry Yang Made The Most Lucrative Bet In Silicon Valley History" />
+
+                </a>
+				</figure>
+
+            	<div class="title editable editable-hed">
+	            	<a href='http://www.forbes.com/sites/parmyolson/2014/09/30/how-jerry-yang-made-the-most-lucrative-bet-in-tech-history/' data-ga-event="Header,LinkFollowed,promo1" data-ga-event-trigger="click">
+	            			Finding Alibaba: How Jerry Yang Made The Most Lucrative Bet In Silicon Valley History
+	            	</a>
+            	</div>
+		</article>
+		</div>
+</article>
+
+
+<article data-id="2">
+
+			<div class="edittools-promoblock largeplusthree" data-et-context="headerfeature2" data-et-location-id="headerfeature2" data-et-panel-id="panel15">
+			<article data-et-content-id="content_5400f934e4b0bb45818b7499" class="promostory promostory-1">
+
+
+				<figure>
+				<a href="http://www.forbes.com/sites/nicolefisher/2014/08/30/the-most-interesting-man-revolutionizing-the-health-world/" class="featured_image editable editable-img  " data-ga-event="Header,LinkFollowed,promo2" data-ga-event-trigger="click">
+
+
+                        <img src="http://images.forbes.com/images/channels/headerfeature2_panel15_0_original-1412019265.jpg" alt="The Most Interesting Man Revolutionizing The Health World" />
+                </a>
+				</figure>
+
+            	<div class="title editable editable-hed">
+            		<a href='http://www.forbes.com/sites/nicolefisher/2014/08/30/the-most-interesting-man-revolutionizing-the-health-world/' data-ga-event="Header,LinkFollowed,promo2" data-ga-event-trigger="click">
+            				The Most Interesting Man Revolutionizing The Health World
+            		</a>
+            	</div>
+		</article>
+		</div>
+</article>
+
+
+<article data-id="3">
+
+			<div class="edittools-promoblock largeplusthree" data-et-context="headerfeature3" data-et-location-id="headerfeature3" data-et-panel-id="panel20">
+			<article data-et-content-id="content_53fd57bbe4b0bb45818b60c6" class="promostory promostory-1">
+
+				<figure>
+				<a href="http://www.forbes.com/sites/martinzwilling/2014/08/27/10-startup-calculated-risks-that-lead-to-success/" class="featured_image editable editable-img  " data-ga-event="Header,LinkFollowed,promo3" data-ga-event-trigger="click">
+
+
+                        <img src="http://images.forbes.com/images/channels/headerfeature3_panel20_0_original-1412019640.png" alt="10 Calculated Risks That Lead To Startup Success" />
+                </a>
+				</figure>
+
+            	<div class="title editable editable-hed">
+	            	<a href='http://www.forbes.com/sites/martinzwilling/2014/08/27/10-startup-calculated-risks-that-lead-to-success/' data-ga-event="Header,LinkFollowed,promo3" data-ga-event-trigger="click">
+		            		10 Calculated Risks That Lead To Startup Success
+	            	</a>
+	            </div>
+		</article>
+		</div>
+</article>
+		</div><!-- .secondary_features -->
+
+	</div><!-- .wrap -->
+</header>
+
+<header class="mini_header">
+	<div class="wrap">
+		<div class="logo">
+			<a href="/" class="logo_menu_toggle">
+				<img class="svg icon_expanded" alt="Forbes" src="/assets/img/forbes_logo/forbes_logo.svg" onerror="this.src='/assets/img/forbes_logo/forbes_logo.gif'">
+				<img class="svg icon_collapsed" alt="Forbes" src="/assets/img/forbes_logo/forbes_logo_white.svg" onerror="this.src='/assets/img/forbes_logo/forbes_logo_white.png'">
+				<span class="icon arrow"></span>
+			</a>
+		</div>
+
+
+		<div class="header_drawer togglable collapsed">
+			<div class="focused">
+				<div class="focused_inner">
+
+
+						<a href="http://www.forbes.com/sites/brucekasanoff/2014/10/03/jpmorgan-chase-breach-reveals-a-dire-talent-emergency/">
+							<span class="title"> JPMorgan Chase Breach Reveals A Dire Talent Emergency</span>
+
+								<span class="reason" data-reason="LI" >Active on LinkedIn <span class="icon"></span></span>
+					</a>
+
+				</div>
+				<div class="toggle" data-content-outer=".dropdown" data-content-inner=".dropdown_inner">
+					<div class="pointer"></div>
+				</div>
+			</div><!-- .featured -->
+
+
+			<div class="dropdown" style="height: 0px; opacity: 0;">
+				<div class="dropdown_inner">
+					<ul>
+
+
+
+
+
+
+
+
+
+
+
+
+								<li data-et-id="content_542c86d6e4b0563af2c48acd">
+									<a href="http://www.forbes.com/sites/larryhusten/2014/10/02/cholesterol-drugs-haunted-by-ghosts-of-past-present-and-future/">
+										<span class="title"> Cholesterol Drugs Haunted By Ghosts Of Past, Present, And Future</span>
+
+											<span class="reason" data-reason="PV-D">+32,555 views in last 24 hours</span>
+									</a>
+								</li>
+
+
+
+
+
+								<li data-et-id="content_542d3fabe4b0563af2c48bdb">
+									<a href="http://www.forbes.com/sites/retailwire/2014/10/02/walmarts-drive-through-grocery-concept-is-a-head-scratcher/">
+										<span class="title"> Walmart's Drive-Through Grocery Concept Is A Head Scratcher</span>
+
+											<span class="reason" data-reason="FB">Active on Facebook <span class="icon"></span></span>
+									</a>
+								</li>
+
+
+
+
+
+											<li>
+												<a href="http://www.forbes.com/sites/sap/2014/10/02/oxford-economics-research-can-companies-avoid-the-leadership-cliff/" data-ga-event="Header,HeaderExpandBrandvoiceClicked,SAP" data-ga-event-trigger="click">
+													<span class="title">		    <span class="advoice"><span class="brandvoice">SAP</span>&#8203;Voice: </span>
+ Oxford Economics Research: Can Companies Avoid the Leadership Cliff?</span>
+												</a>
+											</li>
+
+
+								<li data-et-id="content_5429e2ace4b0563af2c479a0">
+									<a href="http://www.forbes.com/sites/jamesmarshallcrotty/2014/09/29/if-massachusetts-were-a-country-its-students-would-rank-9th-in-the-world/">
+										<span class="title"> If Massachusetts Were A Country, Its Students Would Rank 9th In The World</span>
+
+											<span class="reason" data-reason="CM-D">+2 comments in last 24 hours</span>
+									</a>
+								</li>
+
+
+
+
+
+								<li data-et-id="content_542d8b43e4b0563af2c48f91">
+									<a href="http://www.forbes.com/sites/kenkam/2014/10/03/could-there-be-a-thousand-warren-buffetts/">
+										<span class="title"> Could There Be A Thousand Warren Buffetts?</span>
+
+											<span class="reason" data-reason="PV-D">+8,264 views in last 24 hours</span>
+									</a>
+								</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					</ul>
+					<div class="more">
+						<a href="/most-popular/">
+							<span class="icon">+</span>
+							<span class="label">More</span>
+						</a>
+					</div>
+
+				</div><!-- .dropdown_inner -->
+			</div><!-- .dropdown -->
+		</div>
+
+	</div><!-- .wrap -->
+</header><!-- .mini_header -->
+<div data-nav-ajax-url="/header/channels" class="ar_global_logo_rollover">
+	<div class="rollover rollover_box">
+
+	</div><!-- .rollover.rollover_box -->
+</div><!-- .ar_global_logo_rollover -->
+
+
+<div id="header_userinfo" class="clearfix">
+		<div class="login_header">
+		<!-- login header -->		<div class="gigya_chicklet_mask">			<div class="ribbon-item ribbon-item-gigya">				<div class="login_options">					<span>Connect</span>				</div>				<div id="gigyalogindiv" class="gigya_chicklet_holder"></div>			</div>		</div>		<span class="divider">|</span>		<div class="ribbon-item">			<a class="unireg_register ajaxify regbutton regbutton-signup" href="http://blogs.forbes.com/account/register/" title="Sign up for a Forbes account" data-ga-event="Account,Signup,headersignuptext" data-ga-event-trigger="click">Sign up</a>		</div>		<span class="divider">|</span>		<div class="ribbon-item">			<a class="unireg_login ajaxify regbutton regbutton-login" href="http://blogs.forbes.com/account/login/" title="Log in to your Forbes account" data-ga-event="Account,Login,headerlogintext" data-ga-event-trigger="click">Log in</a>		</div><!-- end login header -->
+		</div>
+	<div class="legal_header"><div class="ribbon-item"><a class="inlink inlink-topnav" href="http://blogs.forbes.com/help/">Help</a></div><span class="divider">|</span><div class="ribbon-item"><a onclick="(function(){var s=document.createElement('script');s.src='http://preferences.truste.com/js/buildJsFilev2.jsp?domain=forbes.com&amp;type=epref';s.onreadystatechange=function(){if(script.readyState=='loaded'||script.readyState=='complete'){view(trusteId);}};s.onload=function(){view(trusteId);};document.getElementsByTagName('head')[0].appendChild(s);})()">AdChoices</a></div><span class="divider">|</span><div class="ribbon-item"><a title="Terms and Conditions" href="/terms">Terms</a></div><span class="divider">|</span><div class="ribbon-item"><a title="Privacy Statement" href="http://www.forbes.com/fdc/privacy.html">Privacy</a></div></div>
+</div><!--end #header_userinfo -->
+
+	<div id="article_container_0" class="article_container container">
+
+		<!--start:ajax_content_inner-->
+
+		<div class="article_stats_data" data-stats='{&quot;user_meta&quot;:{},&quot;page_meta&quot;:{&quot;channel&quot;:&quot;business&quot;,&quot;section&quot;:&quot;dandiamondblog&quot;,&quot;primary_channel&quot;:&quot;business&quot;,&quot;primary_section&quot;:&quot;pharma&quot;,&quot;displaychannel&quot;:&quot;business&quot;,&quot;displaysection&quot;:&quot;dandiamondblog&quot;,&quot;type&quot;:&quot;blog&quot;,&quot;template_type&quot;:&quot;standard&quot;,&quot;title&quot;:&quot;Is Ebola Coming To America? Experts Ponder As Ebola Epidemic Worsens In Africa.&quot;,&quot;site_slug&quot;:&quot;dandiamond&quot;,&quot;blog_name&quot;:&quot;DD Constructed&quot;,&quot;preview&quot;:false,&quot;sitepage&quot;:&quot;forbes.com\/business\/sites\/dandiamond\/2014\/09\/23\/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america\/&quot;,&quot;author&quot;:{&quot;natural_id&quot;:&quot;blogAuthorId\/blog\/author\/353761&quot;,&quot;user_id&quot;:&quot;353761&quot;,&quot;display_name&quot;:&quot;Dan Diamond&quot;,&quot;type&quot;:&quot;individual&quot;},&quot;post_id&quot;:&quot;3241&quot;,&quot;blog_id&quot;:&quot;2238&quot;,&quot;natural_id&quot;:&quot;blogAndPostId\/blog\/post\/2238-3241&quot;,&quot;content_id&quot;:&quot;content_54218f54e4b03b61661eb0eb&quot;,&quot;blogtype&quot;:&quot;individual&quot;,&quot;authorType&quot;:&quot;individual&quot;,&quot;brandvoice&quot;:false,&quot;simple_reach&quot;:{&quot;iframe&quot;:true,&quot;pid&quot;:&quot;50e4a8434240cf5c4b000009&quot;,&quot;url&quot;:&quot;http:\/\/www.forbes.com\/sites\/dandiamond\/2014\/09\/23\/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america\/&quot;,&quot;title&quot;:&quot;Is Ebola Coming To America? Experts Ponder As Ebola Epidemic Worsens In Africa.&quot;,&quot;date&quot;:&quot;2014-09-23T17:20:00Z&quot;,&quot;authors&quot;:&quot;Dan Diamond&quot;,&quot;channels&quot;:&quot;business&quot;,&quot;tags&quot;:[&quot;site::dandiamond&quot;,&quot;slot::&quot;,&quot;Going Global&quot;,&quot;Healthcare Innovation&quot;,&quot;Pharma and Health&quot;,&quot;Pharma &amp; Healthcare&quot;],&quot;landing_url&quot;:&quot;&quot;}}}'></div>
+		<div class="article_dfp_data" data-dfp='{&quot;id&quot;:&quot;blogAndPostId\/blog\/post\/2238-3241&quot;,&quot;contrib&quot;:&quot;dandiamond&quot;,&quot;displaychannel&quot;:&quot;business&quot;,&quot;displaysection&quot;:&quot;dandiamondblog&quot;,&quot;channel&quot;:&quot;&quot;,&quot;section&quot;:&quot;Business:Going Global,Business:Healthcare Innovation,Business:Pharma & Healthcare&quot;}'></div>
+
+		<div class="leaderboard"></div>
+
+
+	<div class="row">
+		<div class="col-sm-12">
+			<hr class="article_rule">
+		</div>
+	</div>
+
+	<section class="row" itemscope itemtype="http://schema.org/Article">
+		<div class="col-md-2 entity_block_wrapper">
+
+
+
+
+
+
+		<div class="article_entity entity_block">
+			<div class="type_article_block">
+				<div class="entity_preview">
+						<a class="avatar" href='http://www.forbes.com/sites/dandiamond/'><img src="http://1.gravatar.com/avatar/bf7ca6fa4f314cfaccc04259e5f9410f?s=136&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D136&amp;r=G" alt="Dan Diamond" /></a>
+
+							<a class="user_name" href="http://www.forbes.com/sites/dandiamond/">
+								<span itemprop="author">Dan Diamond</span>
+							</a>
+							<span class="title">Contributor</span>
+
+
+
+
+
+
+    <div class="followable_block initializing" data-target-type="author" data-target-id="blogAuthorId/blog/author/353761" data-object-json="{&quot;title&quot;:&quot;Dan Diamond&quot;,&quot;avatar_src&quot;:&quot;http://1.gravatar.com/avatar/bf7ca6fa4f314cfaccc04259e5f9410f?s=136&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D136&amp;r=G&quot;,&quot;follow_count&quot;:&quot;78&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ContribBylineFollow">
+
+    <div class="follow_unireg">
+		<a href="javascript://follow" class="follow_unireg_link">
+			<span class="option_follow">Follow</span>
+	
+			<span class="option_following">Following</span>
+	
+			<span class="option_unfollow">Unfollow</span>
+		</a>
+    </div>
+    </div>
+
+						<p class="preview_bio">
+								I write sharp takes on the health, policy and wonk news of the day.
+
+							<span class="show_more_copy">full bio &rarr;</span>
+						</p>
+
+	            			<p class="disclaimer">Opinions expressed by Forbes Contributors are their own.</p>
+
+						<div class="social_icons">
+							<div class="label" style="display:none;">
+								<div class="arrow"></div>
+								<span class="text"></span>
+							</div>
+							<ul class="entity_links">
+
+								<li class="twitter">
+									<a target="blank" href="http://twitter.com/ddiamond">
+										<span>Follow Dan Diamond on Twitter</span>
+									</a>
+								</li>
+
+
+			                    <li class="facebook">
+									<a target="blank" href="http://www.facebook.com/dm.diamond">
+										<span>Follow Dan Diamond on Facebook</span>
+									</a>
+								</li>
+
+
+								<li class="linked_in">
+	    							<a target="blank" href="https://www.linkedin.com/profile/view?id=13154701">
+										<span>Follow Dan Diamond on LinkedIn</span>
+									</a>
+								</li>
+
+								<li class="google_plus">
+			    						<a target="blank" href="http://plus.google.com/+DanDiamond/posts">
+											<span>Follow Dan Diamond on Google+</span>
+										</a>
+								</li>
+
+							<li class="rss">
+								<a href="http://www.forbes.com/sites/dandiamond/feed/">
+									<span>Dan Diamond&#8217;s RSS Feed</span>
+								</a>
+							</li>
+
+
+
+								<li class="profile">
+									<a href='http://www.forbes.com/sites/dandiamond/'>
+										<span>Dan Diamond&#8217;s Profile</span>
+									</a>
+								</li>
+
+
+							<!-- ADD IF DATA CHECK -->
+
+
+								<li class="email">
+									<a class="ajaxify launch_email_contrib" href="#"  data-enable-contact="true" data-contrib-name="Dan Diamond" data-contrib-email= "ddiamond@gmail.com"  data-user-name= ""  data-user-email= "">
+										<span>Contact Dan Diamond</span>
+									</a>
+								</li>
+						</ul><!-- .entity_links -->
+					</div>
+
+
+				</div><!-- .entity_preview -->
+
+				<div class="entity_dive">
+
+					<div class="masked_content">
+
+						<nav class="toggles">
+							<ul>
+								<li data-mode="recent_posts">Recent Posts<span class="arrow"></span></li>
+								<li data-mode="popular_posts">Popular Posts<span class="arrow"></span></li>
+								<li data-mode="bio">Full Bio<span class="arrow"></span></li>
+							</ul>
+						</nav>
+
+						<div class="full_bio">
+							<p>I'm the managing editor of the Advisory Board's Daily Briefing, a blogger for ESPN's TrueHoop Network and a social media junkie. Posts are eclectic; views are personal. Let me know what I've missed – find me on Twitter at @ddiamond.</p>
+
+							<!-- ADD IF DATA CHECK -->
+								<a class="ajaxify launch_email_contrib" href="#"  data-enable-contact="true" data-contrib-name="Dan Diamond" data-contrib-email= ""  data-user-name= ""  data-user-email= "" >Contact Dan Diamond</a>
+
+								<p class="disclaimer">The author is a Forbes contributor. The opinions expressed are those of the writer.</p>
+						</div>
+
+						<div class="entity_recent_posts">
+							Loading...
+						</div>
+
+						<div class="entity_popular_posts">
+							Loading...
+						</div>
+
+					</div><!-- .masked_content -->
+
+				</div><!-- .entity_dive -->
+
+				<div class="drawer_arrow_down"></div>
+
+			</div><!-- .type_article_block -->
+
+		</div><!-- .entity_block -->
+
+
+			<aside class="vp-wrapper">
+	<div class="vp-box vp-comment comment_bug comment_bug_2" style="display:none;">
+		<div class="wrapper">
+			<div class="info">
+				<a href="#comments_header" class="scroll_to">
+					<span class="comment_count">22</span>
+					Comments
+				</a>
+			</div>
+			<div class="called_out_sampling"></div>
+			<a href="#comments_header" class="scroll_to comment_calledout">10 called-out</a>
+		</div>
+		<div class="comment_teaser"></div>
+		<div class="no_comment_bugs_exist_yet" style="display:none;"></div>
+		<div class="comment_links">
+            <a href="#comment_reply" class="scroll_to post_your_comment">Comment Now</a>
+			<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2238-3241" data-object-json="{&quot;title&quot;:&quot;Is Ebola Coming To America? Experts Ponder As Ebola Epidemic Worsens In Africa.&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+			</div>
+		</div>
+	</div>
+				<div class="vp-box vp-polar-native" style="display: none;"> </div>
+			</aside>
+		</div>
+
+
+		<div class="article_content col-md-10 col-sm-12">
+
+
+<hgroup class="prevent_widows">
+
+			<!--   Reveal this link if the logged-in user has editing rights-->
+
+	<h5>
+
+		<a href="/healthcare" class="slug" itemprop="articleSection">Pharma & Healthcare</a>
+
+	<time itemprop="datePublished" content="2014-09-23T13:20:00-04:00">9/23/2014 @ 1:20PM</time>
+
+		<span class="views">83,745 views</span>
+	</h5>
+
+		<h1 itemprop="headline">Is Ebola Coming To America? Experts Ponder As Ebola Epidemic Worsens In Africa.</h1>
+
+
+
+			<!-- Make individual group author appear -->
+
+	<div class="comment_links">
+		<a href="#comment_reply" class="scroll_to post_your_comment">Comment Now</a>
+		<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2238-3241" data-object-json="{&quot;title&quot;:&quot;Is Ebola Coming To America? Experts Ponder As Ebola Epidemic Worsens In Africa.&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+		</div>
+	</div>
+</hgroup>
+
+
+			<div class="article_body article" itemprop="articleBody">
+
+				<div class="body">
+
+					<div class="body_inner">
+
+
+
+						
+<p><i>Sept. 30 update: CDC <a href="http://www.forbes.com/sites/dandiamond/2014/09/30/ebola-comes-to-america-cdc-confirms-first-case-of-ebola-diagnosed-in-united-states/">has confirmed</a> the first case of Ebola diagnosed in the United States.</i></p> 
+<p>New CDC and WHO data suggest that Africa’s Ebola outbreak is worse than expected —&nbsp;and in a worst-case scenario, the current Ebola epidemic could become endemic.</p> 
+<p>And those gloomy projections have experts worried that Ebola will inevitably arrive in the United States.</p> 
+<p><a href="http://www.forbes.com/sites/dandiamond/2014/09/30/ebola-comes-to-america-cdc-confirms-first-case-of-ebola-diagnosed-in-united-states/"><strong>Sept. 30 Update: First Case Of Ebola Diagnosed in United States</strong></a></p> 
+<p>According to CDC <a href="http://www.cdc.gov/mmwr/preview/mmwrhtml/su63e0923a1.htm?s_cid=su63e0923a1_e">modeling</a> released on Tuesday, Liberia and Sierra Leone are on track to have 21,000 cases of Ebola by September 30, unless the situation rapidly improves. (The CDC’s estimate is based on an assumption that <a href="https://twitter.com/ddiamond/status/514438123338874880">more than half</a> of all Ebola cases will not be reported or detected.)</p> 
+<p>CDC also estimates that as many as 1.4 million people in Liberia and Sierra Leone could contract Ebola by January 20.</p> 
+<ul> 
+ <li>Given that about 10 million people live in Liberia and Sierra Leone, that estimate suggests that about one in seven residents would contract Ebola.</li> 
+ <li>The current outbreak has a mortality rate of more than 70%.</li> 
+</ul> 
+<p>(For a sense of perspective on CDC’s worst-case scenario for West Africa: If a similarly sized outbreak happened in the United States, more than 45 million Americans would contract Ebola.)</p> 
+<p><a href="http://www.forbes.com/sites/dandiamond/2014/08/22/americans-stop-worrying-about-ebola-every-suspected-case-in-u-s-has-been-a-false-alarm/"><strong>Also See: Nearly 40% Of Americans Fear An Ebola Outbreak</strong></a></p> 
+<p>In separate projections released on Monday, the World Health Organization offered up a dire warning: There might not be an easy solution for the current Ebola epidemic, given the outbreak’s rate and pace.</p> 
+<p>Instead, Ebola could become a lasting problem for Africa.</p> 
+<p>“We must therefore face the possibility that [Ebola] will become endemic among the human population of West Africa, a prospect that has never previously been contemplated,” the WHO Ebola Response Team wrote in the <em><a href="http://www.nejm.org/doi/pdf/10.1056/NEJMoa1411100">New England Journal of Medicine</a></em>.</p> 
+<p>“The risk of continued epidemic expansion and the prospect of endemic EVD in West Africa call for the most forceful implementation of present control measures and for the rapid development and deployment of new drugs and vaccines.”</p> 
+<p>However, in a best-case scenario, CDC says that the new mobilization of public health efforts and U.S. military support will be able to contain Ebola and end the current epidemic by January 20.</p> 
+<p>“My gut feeling is, the actions we’re taking now are going to make that worst-case scenario not come to pass,” Dr. Thomas R. Frieden, who runs the CDC, told the <em><a href="http://www.nytimes.com/2014/09/24/health/ebola-cases-could-reach-14-million-in-4-months-cdc-estimates.html">New York Times</a></em>. “But it’s important to understand that it could happen.”</p> 
+<p><strong>Bad News In Africa Only Bodes Poorly For World<br /> </strong>The continued persistence of the Ebola epidemic has experts increasingly&nbsp;pessimistic about a quick solution.</p> 
+<p>Ebola cases in West Africa are rising faster than hospital beds are available. And the outbreak’s spread is seemingly accelerating. (Chart via virologist <a href="https://twitter.com/MackayIM/status/514274999624941568">Ian Mackay</a>.)</p> 
+<p><img class=" size-full wp-image-3244" alt="Ebola" src="http://blogs-images.forbes.com/dandiamond/files/2014/09/Ebola.png" /></p> 
+<p>The longer the Ebola outbreak rages, the more likely it is that the disease will mutate into an even more dangerous form. Scott Gottlieb, who served as a top FDA official under President George W. Bush, believes that at least several cases of Ebola will come to America, and has <a href="http://www.forbes.com/sites/scottgottlieb/2014/09/03/can-ebola-go-airborne/">warned</a> that there’s even a chance that the disease could go airborne.</p> 
+<p>But there are signs of hope, even in West Africa. As David Kroll —&nbsp;who has so ably tracked the Ebola outbreak for <em>Forbes</em> —&nbsp;<a href="http://www.forbes.com/sites/davidkroll/2014/09/23/nigeria-free-of-ebola-as-final-surveillance-contacts-are-released/">reported</a> yesterday, nearby Nigeria has been able to remain free from Ebola. At Vox, Brad Plumer has <a href="http://www.vox.com/2014/9/19/6543157/ebola-is-unlikely-to-go-airborne">reviewed</a> the evidence of Ebola going airborne, and finds that the odds are “very unlikely.”</p> 
+<p>Government officials also continue to stress that there’s little chance of a mass Ebola outbreak in the United States, a point that the NIH’s Anthony Fauci <a href="http://foreignaffairs.house.gov/hearing/subcommittee-hearing-global-efforts-fight-ebola">reiterated</a>&nbsp;to Congress last week. And even if a few Ebola patients arrive in the U.S., the nation’s hospitals would be well-equipped to handle them.</p> 
+<p><a href="http://www.forbes.com/sites/dandiamond/2014/08/22/americans-stop-worrying-about-ebola-every-suspected-case-in-u-s-has-been-a-false-alarm/"><strong>Also See: All 68 Suspected Cases Of Ebola In United States Have Been False Alarms</strong></a></p> 
+<p>“Controlling Ebola is not a very sophisticated task,” Dr. Amesh Adalja, a biosecurity specialist at the University of Pittsburgh Medical Center, told <em><a href="http://thehill.com/homenews/senate/217969-congress-worries-ebola-could-hit-us">The Hill</a></em> last week. “Ebola outbreaks are stopped in their tracks when basic public health measures are in place … and the United States would not be a hospitable environment for something that spreads exclusively through blood and body fluids.”</p> 
+<p>Writing in the Advisory Board Daily Briefing, we’ve tracked the Ebola epidemic’s spread pretty closely, from covering the <a href="http://www.advisory.com/Daily-Briefing/2014/04/02/Guinea-struggles-with-unprecedented-outbreak-of-Ebola">early outbreak</a> in Guinea to creating a <a href="http://www.advisory.com/daily-briefing/blog/2014/08/ebola-how-the-deadliest-outbreak-in-history-spread">timeline</a> of how the deadliest Ebola epidemic in history has spread.</p> 
+<p>Earlier this month, researchers <a href="http://www.advisory.com/daily-briefing/2014/09/15/what-are-the-odds-that-ebola-makes-it-to-america">estimated</a> that there was up to an 18% chance that at least one case of Ebola would arrive in the United States by September 22. (Not counting the four health workers intentionally brought to the U.S. for treatment.)<br /> 
+ <!--nextpage--><br /> As of press time on September 23, the number of Ebola cases in the United States remained at zero.</p> 
+<p>—</p> 
+<p><a class="twitter-follow-button" href="https://twitter.com/ddiamond">Follow @ddiamond</a></p> 
+<p>From the archives:</p> 
+<ul> 
+ <li><a href="http://www.forbes.com/sites/dandiamond/2014/08/18/ok-the-ice-bucket-challenge-worked-now-where-will-the-dollars-go/">OK, The ALS Ice Bucket Challenge Worked. Now Where Do The Dollars Go?</a></li> 
+ <li><a href="http://www.forbes.com/sites/dandiamond/2014/08/01/jobs-are-growing-health-care-is-booming-so-why-are-hospitals-flat/">Jobs Are Growing. Health Care is Booming. So Why Are Hospitals Flat?</a></li> 
+ <li><a href="http://www.forbes.com/sites/dandiamond/2014/08/22/americans-stop-worrying-about-ebola-every-suspected-case-in-u-s-has-been-a-false-alarm/">Americans, Stop Worrying About Ebola: Every U.S. Case Has Been A False Alarm</a></li> 
+ <li><a href="http://www.forbes.com/sites/dandiamond/2014/08/08/health-care-for-4-walmart-unveils-new-primary-care-clinics/">Health Care For $4: Are You Ready For Walmart To Be Your Doctor?</a></li> 
+</ul>
+
+
+					</div>
+
+				</div>
+
+
+				<div class="sponsored_ad"></div>
+					<div class="media_net_related_links"></div>
+
+
+				<div class="event_tracking_scroll_latch" data-event="Article,ScrolledToEnd,end"></div>
+
+			</div><!-- .article_body.article -->
+
+    <div class="comment_bug" style="display:none;">
+        <div class="arrow_icon"></div>
+        <div class="bottom_border"></div>
+        <div class="wrapper">
+            <div class="called_out_sampling"></div>
+
+            <div class="info">
+                <a href="#comments_header" class="scroll_to">
+                    22 comments, 10 called-out
+                </a>
+            </div>
+                <a href="#comment_reply" class="scroll_to post_your_comment">Comment Now</a>
+				<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2238-3241" data-object-json="{&quot;title&quot;:&quot;Is Ebola Coming To America? Experts Ponder As Ebola Epidemic Worsens In Africa.&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+				</div>
+        </div>
+        <div class="comment_teaser"></div>
+        <div class="no_comment_bugs_exist_yet" style="display:none;">
+            <a href="#comment_reply" class="scroll_to post_first_comment">Comment Now</a>
+			<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2238-3241" data-object-json="{&quot;title&quot;:&quot;Is Ebola Coming To America? Experts Ponder As Ebola Epidemic Worsens In Africa.&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+			</div>
+    </div>
+    </div>
+
+
+<script type="text/javascript">
+
+function printArticle(url) {
+params = 'width='+screen.width;
+params += ', height='+screen.height;
+params += ', top=0, left=0'
+params += ', fullscreen=yes, scrollbars = yes, resizable=yes';
+
+slideWin = window.open(url, 'popup', params);
+if(window.focus) {
+slideWin.focus();
+}
+return false;
+}
+
+</script>
+
+<div class="article_actions">
+
+<div class="sub_links clearfix">
+
+
+
+<div class="widget print">
+<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/print/" target="_blank"><span class="icon"></span>Print</a>
+</div>
+
+<div class="widget corrections">
+<a href="#corrections"><span class="icon"></span>Report Corrections</a>
+</div>
+
+<div class="widget reprint">
+<a href="http://forbesreprints.magreprints.com/" target="_blank"><span class="icon"></span>Reprints &amp; Permissions</a>
+</div>
+
+</div>
+</div>
+
+			<div class="vestpocket_holder" style="display:none;">
+
+
+
+	<aside class="vestpocket" data-position="4" >
+
+
+
+
+
+        <div class="vp-box vp-article">
+            <a href="http://www.forbes.com/sites/dandiamond/2014/09/30/ebola-comes-to-america-cdc-confirms-first-case-of-ebola-diagnosed-in-united-states/" class="thumb">
+                <span class="icon">
+                </span>
+                        <img src='http://blogs-images.forbes.com/dandiamond/files/2014/10/la-na-nn-ebola-missionary-emory-atlanta-arrive-20140805-1940x10331.jpeg' alt="" />
+            </a>
+			<h4>
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/30/ebola-comes-to-america-cdc-confirms-first-case-of-ebola-diagnosed-in-united-states/" class="vp_text">
+                    Ebola Comes To America: CDC Just Confirmed First Ebola Case Diagnosed In United States
+				</a>
+			</h4>
+
+
+	            <cite class="box_byline clearfix">
+					<a href="http://www.forbes.com/sites/dandiamond/">
+	                	<img src='http://1.gravatar.com/avatar/bf7ca6fa4f314cfaccc04259e5f9410f?s=40&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' alt="Dan Diamond" class="avatar" />
+
+	                    <strong>Dan Diamond</strong>
+	                    <span class="desc">Contributor</span>
+	                </a>
+	            </cite>
+        </div>
+
+
+
+        <div class="vp-box vp-article">
+            <a href="http://www.forbes.com/sites/dandiamond/2014/08/22/americans-stop-worrying-about-ebola-every-suspected-case-in-u-s-has-been-a-false-alarm/" class="thumb">
+                <span class="icon">
+                </span>
+                        <img src='http://blogs-images.forbes.com/dandiamond/files/2014/08/Ebola41.png' alt="" />
+            </a>
+			<h4>
+				<a href="http://www.forbes.com/sites/dandiamond/2014/08/22/americans-stop-worrying-about-ebola-every-suspected-case-in-u-s-has-been-a-false-alarm/" class="vp_text">
+                    Americans, Stop Worrying About Ebola: Every U.S. Case Thusfar Has Been A False Alarm.
+				</a>
+			</h4>
+
+
+	            <cite class="box_byline clearfix">
+					<a href="http://www.forbes.com/sites/dandiamond/">
+	                	<img src='http://1.gravatar.com/avatar/bf7ca6fa4f314cfaccc04259e5f9410f?s=40&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' alt="Dan Diamond" class="avatar" />
+
+	                    <strong>Dan Diamond</strong>
+	                    <span class="desc">Contributor</span>
+	                </a>
+	            </cite>
+        </div>
+
+
+
+        <div class="vp-box vp-article">
+            <a href="http://www.forbes.com/sites/davidkroll/2014/09/16/cdc-ramps-up-ebola-worker-training-in-advance-of-obama-announcement/" class="thumb">
+                <span class="icon">
+                </span>
+                        <img src='http://blogs-images.forbes.com/davidkroll/files/2014/09/CDC-Ebola-car-in-Liberia-640px.jpg' alt="" />
+            </a>
+			<h4>
+				<a href="http://www.forbes.com/sites/davidkroll/2014/09/16/cdc-ramps-up-ebola-worker-training-in-advance-of-obama-announcement/" class="vp_text">
+                    CDC Ramps Up Ebola Worker Training In Advance Of Obama Announcement
+				</a>
+			</h4>
+
+
+	            <cite class="box_byline clearfix">
+					<a href="http://www.forbes.com/sites/davidkroll/">
+	                	<img src='http://1.gravatar.com/avatar/729ead14650df622686100a2a399569c?s=40&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' alt="David Kroll" class="avatar" />
+
+	                    <strong>David Kroll</strong>
+	                    <span class="desc">Contributor</span>
+	                </a>
+	            </cite>
+        </div>
+
+
+    </aside>
+
+			</div><!-- .vestpocket_items -->
+
+		</div>
+
+	</section>
+
+
+	<section class="row">
+		<div class="col-md-10 col-md-offset-2 col-sm-12 col-sm-offset-0">
+
+
+
+	<div id="comments" class="comments_collection" data-selected-comment-id="" data-manage-comment-following-link="http://blogs.forbes.com/account/#accounttab-5" >
+
+		<div class="comment_form_orig_position">
+    <div class="comment_reply">
+            <div class="arrow"></div>
+            <form class="forbes_forms v1 comment_reply_form" name="commentForm" action="/wp-admin/admin-ajax.php" method="post" data-comment-nonce="" data-validation-rules-json="[{&quot;field_id&quot;:&quot;user_comment_textarea&quot;,&quot;rules&quot;:{&quot;required&quot;:true,&quot;notEqualTo&quot;:{&quot;attr&quot;:&quot;data-initial-text&quot;,&quot;caseSensitive&quot;:false,&quot;errorMsg&quot;:&quot;Please enter a comment to post.&quot;},&quot;between&quot;:{&quot;min&quot;:2,&quot;max&quot;:10000}}}]" data-reload-url="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/">
+                    <!-- the form action will be expecting all of the following hidden fields -->
+                    <input type='hidden' name='action' value='unireg_comments' autocomplete="off" />
+                    <input type='hidden' name='natural_id' value='blogAndPostId/blog/post/2238-3241' autocomplete="off" />
+                    <input type='hidden' name='comment_parent' value='0' autocomplete="off" />
+
+                    <h3 class="main">Post Your Comment</h3>
+                    <div class="reply_header" style="display:none;">
+                            <a href="#cancel" class="cancel_reply">Cancel reply</a>
+                            <h3>Post Your Reply</h3>
+                    </div>
+
+			
+            <div class="status_bar">
+                                    Please
+                                    <a class="ajaxify unireg_login" href="http://blogs.forbes.com/account/login/?redirect_to=http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/" title="Click to log in">log in</a>
+                                    or
+                                    <a class="ajaxify unireg_register" href="http://blogs.forbes.com/account/register/?redirect_to=http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/" title="Click to sign up">sign up</a>
+                                    to comment.
+                            </div>
+
+<div class="entity_block">
+                                    <a class="ajaxify avatar" href="http://blogs.forbes.com/account/login/?redirect_to=http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/" class="avatar" title="Click to log in or register">
+                                            <img src="http://i.forbesimg.com/assets/img/comments/no_profile_image.jpg" alt="">
+                                    </a>
+                            </div>
+
+                    <div class="input_holder_outer input_block">
+
+                            <div class="main_error_msg" style="display:none;">
+                                    <span class="icon"></span>
+                                    <span class="text"></span>
+                            </div>
+
+                            <div class="input_holder">
+
+                                    <textarea id="user_comment_textarea" class="initial_text user_comment" data-initial-text="Enter Your Comment" name="comment" cols="80" rows="10" autocomplete="off">Enter Your Comment</textarea>
+
+                                    <span class="error_msg"></span>
+
+										<div class="control_bar" style="display:none;">
+                                            <a class="fancy_button submit small" data-submit-button="true"><span class="outer"><span class="inner"><span class="icon"></span><span class="label">Submit Comment</span></span></span><span class="loading_spinner left" style="display:none;"><img src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" height="16" width="16" alt=""></span></a>
+                                            <input class="hidden_submit" type="submit" name="submit_hidden" value="Submit" id="idCommentForm_submit">
+                                    </div>
+                            </div>
+                    </div>
+
+                    <div class="clear"></div>
+
+                    <div class="moderation_info">
+                            <p>
+                                    Forbes writers have the ability to call out member comments they find particularly interesting. Called-out comments are highlighted across the Forbes network. You'll be notified if your comment is called out.
+                            </p>
+               		</div>
+            </form>
+    </div>
+		</div>
+
+
+			<div class="comments_header">
+				<h3>Comments</h3>
+				<ul class="tabs horznav cf">
+					<li class='active'>
+						<a href="/ajax/comment/calledout/1/?contentUri=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fdandiamond%2F2014%2F09%2F23%2Febola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america%2F" rel="calledOut">Called-Out</a>
+						<div class="arrow"></div>
+					</li>
+					<li class=''>
+						<a href="/ajax/comment/general/1/?contentUri=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fdandiamond%2F2014%2F09%2F23%2Febola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america%2F"  rel="allComments">Expand All Comments</a>
+						<div class="arrow"></div>
+					</li>
+				</ul>
+
+					<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2238-3241" data-object-json="{&quot;title&quot;:&quot;Is Ebola Coming To America? Experts Ponder As Ebola Epidemic Worsens In Africa.&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+					</div>
+			</div>
+
+			<div class="pagination_header" style="display:none;"></div>
+			<div class="comments_well" data-edit-post-link="" >
+	<ul class="comments_stream">
+
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-584" data-comment-wp-id="584"  parent-id="" class="comment level0 calledOut" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/davidcjones45/">
+                    <img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50" alt="davidcjones45" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/davidcjones45/">
+                    davidcjones45
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>There will inevitably be cases of Ebola in the United States. It will not spread as quickly due to superior sanitation and public hygeine and it will not be as uniformly lethal as in Africa. The whole situation seems very similar to the cholera situation in the nineteenth century and will probably follow a similar arc in a greatly compressed time frame compared to cholera.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="on">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-584" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-585" data-comment-wp-id="585"  parent-id="" class="comment level0 calledOut" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/drgil/">
+                    <img src="http://0.gravatar.com/avatar/c69431513f462c96cc28967b74567906?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G" alt="Dr. Gil" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/drgil/">
+                    Dr. Gil
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Ebola will eventually consume every developing nation in the world as they all share distrust of their government, and lack the medical infrastructure, personnel and supplies to contain clusters as they appear. A reservoir of the virus will develop and it will become endemic. Travelers will soon introduce it regularly to the US. Clusters will become increasingly more common and flare up daily basis in advanced countries and eventually outpace our ability to contain/separate/quarantine ALL those exposed. Ebola is here to stay, coming to the US and will forever change the face of medicine.<br /> Though our local hospital systems are giving lip service saying they are ready for an Ebola outbreak, they also readily admit that there is not ONE spare negative pressure room available in Springfield, Missouri, ever. (There is a 100% occupancy rate without Ebola.)<br /> Civilization is in big trouble.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="on">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-585" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-595" data-comment-wp-id="595"  parent-id="blogAndPostId/blog/comment/2238-3241-585" class="comment level1 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/jerrypotsticker/">
+                    <img src="http://0.gravatar.com/avatar/e961ef1adf7e341113f3eafc2bf06c5d?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G" alt="Jerry Potsticker" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/jerrypotsticker/">
+                    Jerry Potsticker
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Well at least you understand the potential for global disaster here. I wish the CDC and the WHO had that dire vision in mind when there were only a few hundred cases, and there was hope of containment.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-595" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-586" data-comment-wp-id="586"  parent-id="" class="comment level0 calledOut" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/jillj/">
+                    <img src="http://0.gravatar.com/avatar/a70343701e6611db781a90d0e1e234ab?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G" alt="jillj" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/jillj/">
+                    jillj
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>I’m glad to see people are finally getting it. Many seem to think that the US and other first world countries are immune to every threat. This is a dangerous, arrogant game we are playing.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="on">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-586" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-587" data-comment-wp-id="587"  parent-id="" class="comment level0 calledOut" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/iancraik/">
+                    <img src="https://graph.facebook.com/1804045713/picture?type=square" alt="Ian Craik" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/iancraik/">
+                    Ian Craik
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>If they barely have treatment space for 2,000 now, how will they treat almost 1,000 times as many people?</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="on">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-587" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-588" data-comment-wp-id="588"  parent-id="" class="comment level0 calledOut" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/lindzegirl363/">
+                    <img src="http://pbs.twimg.com/profile_images/513373733071749121/cUywHtg-_normal.jpeg" alt="Lindsey Paul-Smith" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/lindzegirl363/">
+                    Lindsey Paul-Smith
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>It seems like every year there is a global pandemic threat of some sort. SARS, Bird Flu, Swine Flu, Spanish Flu, now Ebola. Modern medicine has come so far over the last 100 years, but how this disease, which has wiped out a large portion of the world centuries ago, can not have an effective treatment is beyond me.<br /> The world is about to get more dangerous. Unfortunately I have to travel for work a lot to Europe, and living with 2 daughters and a husband, this scares me given Russia, Ukraine, and the state of the Middle East. My advice? Life is short, enjoy it. Live each day as if it were your last and do your best to make an impact on this world. Keep healthy mentally, physically, and spiritually. Be prepared financially in case your time comes sooner than later. You don’t want to leave your family a financial burden. Life insurance is only $12 a month (Life Ant and Silver Rock are both super cheap). I know because I purchased it recently. Hearing about stuff like this makes me very happy that I did too.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="on">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-588" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-592" data-comment-wp-id="592"  parent-id="blogAndPostId/blog/comment/2238-3241-588" class="comment level1 calledOut author" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://www.forbes.com/sites/dandiamond/">
+							<img src="http://1.gravatar.com/avatar/bf7ca6fa4f314cfaccc04259e5f9410f?s=136&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D136&amp;r=G" alt="Dan Diamond" />
+				</a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/dandiamond/">
+                    Dan Diamond</a><span class="desc">, Contributor</span>
+
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>There’s always something scary out there. (Case in point: Ebola’s not the only outbreak threatening the globe. http://www.advisory.com/daily-briefing/blog/2014/08/its-not-just-ebola-thousands-of-outbreaks-are-threatening-communities-across-the-globe). Wise advice.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="disabled">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-592" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-589" data-comment-wp-id="589"  parent-id="" class="comment level0 calledOut" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/jabowery/">
+                    <img src="http://2.gravatar.com/avatar/86745c80ad5a0974e23d540abdfe5b02" alt="jabowery" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/jabowery/">
+                    jabowery
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Dan I haven’t seen you talk about the problem with flu season being upon us. In the event that even one ebola case shows up “in the wild” in the US (as opposed to a victim being flown here under isolation for treatment), you and I both know its going to be _all_ over the news media 24/7 and that the way they search for ebola cases to quarantine in Africa is “flu-like symptoms”. Think.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="on">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-589" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-590" data-comment-wp-id="590"  parent-id="" class="comment level0 calledOut" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/skeeterjenkins/">
+                    <img src="https://graph.facebook.com/100006680790838/picture?type=square" alt="Skeeter Jenkins" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/skeeterjenkins/">
+                    Skeeter Jenkins
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Of course there’s an easy solution.</p> 
+<p>When we perceive potential threats, we sometimes send our military to stop them preemptively.</p> 
+<p>Send troops in NBC gear over there now. Enforce a quarantine, no one leaves their home for 2 weeks. Food is brought in by aid workers in bio gear. Anyone who breaks quarantine is shot and burned on the spot.</p> 
+<p>Problem solved.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="on">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-590" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-596" data-comment-wp-id="596"  parent-id="blogAndPostId/blog/comment/2238-3241-590" class="comment level1 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/robsmith8/">
+                    <img src="https://graph.facebook.com/606221506/picture?type=square" alt="Rob Smith" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/robsmith8/">
+                    Rob Smith
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Skeeter,<br /> Having spent time in Zimbabwe and South Africa, two of the more advanced nations in Africa, I can tell you that the entire US Army would not be enough to do what you suggest. You are assuming Africans work like people in Europe or the US. They don’t. The majority are exceedingly superstitious, have intense distrust of the Government and especially foreigners, and are woefully ignorant of how diseases spread. They will wantonly attack any quarantine, even if they have nothing but shovels and sticks, and their numbers will overwhelm whatever you throw at them, because body counts don’t matter to them.</p> 
+<p>This will continue to spread throughout Africa, and nothing will stop it. What happens when it gets out of the continent? Who can say. I do, however, think this article is interesting, as it is from the same author who not too long ago was mocking anyone who considered an outbreak in the US possible.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-596" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-591" data-comment-wp-id="591"  parent-id="" class="comment level0 calledOut" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/terencemccain/">
+                    <img src="http://1.gravatar.com/avatar/91b9828f18dd88454c27b622b63dc171?s=40&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G" alt="Terence McCain" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/terencemccain/">
+                    Terence McCain
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>“…the United States would not be a hospitable environment for something that spreads exclusively through blood and body fluids.”</p> 
+<p>This view of ebola’s limitations has been debunked. It can travel through the air via droplets emitted from coughing or sneezing. Unlike measles, when the droplets dry out (evaporate), the virus dies. That means that ebola doesn’t have complete air-transmissibility. But you *can* contract the disease without touching an infected patient. That’s proven.</p> 
+<p>http://www.bbc.com/news/science-environment-20341423</p> 
+<p>High humidity very likely works to extend the time it takes for droplets to evaporate, and therefore the range within which it’s possible to become infected.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="on">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-591" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-593" data-comment-wp-id="593"  parent-id="" class="comment level0 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/pharmacystore/">
+                    <img src="http://0.gravatar.com/avatar/8f49f1ce5caba3425f230be1e7fb2cf8?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G" alt="pharmacy store" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/pharmacystore/">
+                    pharmacy store
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Bulk meds store supply offers the most supreme quality research products,pain killers,anxiety pills stress pills,MMJ of all kinds,steriods,opiods,cannabiods,concentrates currently available. We base our goods with all our power so it will definitely meet and surpass every buyer’s highest expectations. We guarantee 100% that after purchasing from our Stores, you will never look anywhere else again, text ,call us at +1-301-337-7071</p> 
+<p>where to buy research chemicals,pain killers,medical marijuana and others</p> 
+<p>check our website and place your order www(dot)bulk-meds-store-supply(dot)com or email is through info(at)bulk-meds-store-supply(dot)com</p> 
+<p>http://bromadolbdpc.wordpress.com/</p> 
+<p>We offer next day delivery or 3 or 2days delivery services depending on your order and country…</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-593" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-594" data-comment-wp-id="594"  parent-id="" class="comment level0 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/kennethgirouard/">
+                    <img src="https://graph.facebook.com/1088079507/picture?type=square" alt="Kenneth Girouard" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/kennethgirouard/">
+                    Kenneth Girouard
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Ebola Vaccine with 100%cure rate in mice trials. http://www.nature.com/mt/journal/v21/n7/full/mt201361a.html</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-594" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-598" data-comment-wp-id="598"  parent-id="" class="comment level0 calledOut contrib" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://www.forbes.com/sites/alicegwalton/">
+							<img src="http://0.gravatar.com/avatar/6bf7def98ad181557837a418300f92e1?s=136&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D136&amp;r=G" alt="Alice G. Walton" />
+				</a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/alicegwalton/">
+                    Alice G. Walton</a><span class="desc">, Contributor</span>
+
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Thanks for this article, Dan. Hope Frieden and Adalja are right.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="disabled">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-598" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-599" data-comment-wp-id="599"  parent-id="" class="comment level0 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/trentmacdonald/">
+                    <img src="http://1.gravatar.com/avatar/74bce7020cec076b7f79bbc2d50dfb16?s=40&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G" alt="Trent MacDonald" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/trentmacdonald/">
+                    Trent MacDonald
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>It seems that when it comes to the fear of a potential outbreak of Ebola in the U.S., the conversation overwhelmingly centers around a possible mutation that would allow the virus to go airborne, thus making any potential outbreak extremely difficult to control. Without such a mutation, more often than not, authors point out the superiority of the U.S. health care system and resources which would “no doubt” limit any potential outbreak. The controlled response in Nigeria and Senegal are referred to often as well, as an illustration of what would likely happen if the virus was to spread to more developed international countries. There are a number of factors that people must begin to consider:</p> 
+<p>1) In Senegal there was only one suspected case, yet 74 separate contacts had to be found, (immediately no less), and tracked for more than 3 weeks to ensure the spread was eliminated. In Nigeria, there were 21 cases, all of whom had to be interviewed at length, after which, per the WHO’s Situation Report, 874 contacts had to be located and monitored for more than three weeks, many of whom are still being monitored. The human resources required to pull this off were enormous. The reported and unreported cases are now well over 6,000 in Liberia, Guinea and Sierra Leone, so you can imagination how difficult it has now become to get ahead of the spread, especially considering so many of the infected have not been interviewed and potential contacts are not being monitored, (not to mention that in urban centers, it is extremely difficult to truly discover all potential contacts). As such, it is not remotely unrealistic to expect, even with the additional resources being sent into these countries, that the outbreak will reach into the hundreds of thousands by early in the new year.</p> 
+<p>2) Given the exponential growth of Ebola, (doubling every 3 weeks), it has been reported, and is statistically clear anyway, that the R factor is 2, meaning every infected person infects another 2 people. With this type of infectiousness, it is difficult to comprehend why people continue to believe that Ebola is only being spread through direct contact with infected, most notably the mishandling of the dead. A study conducted by the Canadian Food Inspection Agency and the Canadian Department of Health, published in Scientific Reports in 2012, put forth a very compelling argument that Ebola was transmitted through bodily fluids that could be propelled through the air and live for short periods of time, such as those fluids excreted through the act of sneezing or coughing. They had infected pigs in a cage within very close proximity to a cage of healthy non-human primates (NHP). The NHP could not directly touch the infected pigs, yet within a short period of time, many of the NHP had become infected. While I would never argue that Ebola is anything like the flu in this regard, it is not NEARLY as difficult to become infected as many authors and experts make on.<br /> 3) Based on the number of cases to come, the relative ease with which a person can become infected and the resources required to slow or stop a spread using traditional monitoring methods, I cannot fathom how people convince themselves that the West Africa outbreak will not spread internationally. With each new case, it becomes more and more difficult to confine the spread to the three countries currently most impacted. It will eventually make its way out, as it has already, but it will do so in a much more aggressive way, making it very difficult to control. When the first cases were discovered in Nigeria, the total number of infected was only 1,000, making it much easier to allocate resources. Try allocating appropriate resources when the number of cases is in the hundreds of thousands, or millions.</p> 
+<p>If/when this comes to the U.S., I fully expect multiple clusters and eventually a breakout difficult to control. But here’s hoping I’m wrong.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-599" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-600" data-comment-wp-id="600"  parent-id="" class="comment level0 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/davidlenz/">
+                    <img src="https://s.yimg.com/dh/ap/social/profile/profile_b192.png" alt="david lenz" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/davidlenz/">
+                    david lenz
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>So according to the CDC there could be 1.4 million cases or zero cases by Jan 20th. Here’s a suggestion: find all the live and deadly viruses in your own buildings before you tell us that anything about Ebola, which by the way is probably already airborne despite your protestations and headed for the US in short order.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-600" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-601" data-comment-wp-id="601"  parent-id="" class="comment level0 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/davidlenz/">
+                    <img src="https://s.yimg.com/dh/ap/social/profile/profile_b192.png" alt="david lenz" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/davidlenz/">
+                    david lenz
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Do you believe the CDC will keep you safe. Here’s just one scenario where they already endangered us. Dr. Brantly came down with Ebola at the end of July and in a scant 4 weeks he was declared ‘no threat to public health’ and released by an Atlanta hospital. Well according to the CDC’s own website Ebola can survive in semen up to 3 months (3 times as long as he was quarantined). Well what if our good Dr. decided to party it up with a girlfriend, his wife ..and then a couple more girlfriends. By the way the hospital that treated him still can’t even make any contractor properly dispose of human and medical the waste…from just one person. We aren’t prepared and if you aren’t afraid you should be.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-601" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-602" data-comment-wp-id="602"  parent-id="" class="comment level0 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/billmayhue/">
+                    <img src="https://s.yimg.com/dh/ap/social/profile/profile_b192.png" alt="Bill Mayhue" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/billmayhue/">
+                    Bill Mayhue
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>IIRC, the Ebola virus remains infectious in the semen of any man cured of the disease for seven weeks. Unless we are going to quarantine those lucky men who managed to survive the disease for another seven weeks, then their next set of sexual partners will get a gift that keeps on giving…</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-602" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-611" data-comment-wp-id="611"  parent-id="" class="comment level0 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/kiplifestyle/">
+                    <img src="http://0.gravatar.com/avatar/818ba065e02b7c7eb57758fb007fcf0b?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G" alt="Yolanda" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/kiplifestyle/">
+                    Yolanda
+                </a>
+
+
+   		<span class="timestamp">4 days ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Funny when it’s an American infected we can always help. SMDH! Why aren’t the Africans receiving the #ebola disease treatment the Americans received and lived? Wake up people! What is the back story? Do the journalist work of fact checking to find the true story ~ Who, What, When, Where, Why, and How.</p> 
+<p>Africa isn’t Poor! Africa aids the World! Foreigners ~ Colonialism governments, companies and individuals have been stealing African Rich Resources for centuries (Labor, Land, Gold, Oil, Diamonds, Cooper, Natural Gas, Copper Iron and etc). The estimate is $192 billions annually is taken out of Africa with no reinvestment in people and infrastructure. How do Foreigners accomplish Genocide in 21st Century to Steal Resources? Setup puppet leader, Manufacture Internal Wars, Provide Guns, Manufacture Disease for biological wars, and setup hierarchies based on skin color which are reinforced by the people.</p> 
+<p>Africa is rising again and taking charge scares the corporate world and government leaders G7 and BRIC Nations. The new emerging market of black millionaires/billionaires. The corporate media can no longer feed their BS agendas. Love it!</p> 
+<p>The American model of genocide which murdered, intentionally spread diseases, and looted the Resources of 500 Nations of Native Americans is being used killing 100 million+. The only difference, Africa’s land areas and you can’t steal resources and get rid of 1.5 billion+ people easily.</p> 
+<p>The G8 Summits now the G-7 minus Russia world leaders meet outside of the United Nations 2-4 times a year. Who represents Africa and the Middle East at these meetings? Today, Africa and the Middle East are the Prime Targets for Foreigners colonialism to steal resources and say “It’s not Personal, It’s Just Business”. The usual suspects for stealing Africa’s resources</p> 
+<p>(1). #G7 Summit New Global Domination Participants: United States, United Kingdom, Germany, France, Italy, Japan, Canada, and European Union.</p> 
+<p>(2). #BRIC Nations: Brazil, Russia, India, China</p> 
+<p>The World is constantly being brainwashed with images poverty and internal “tribal” wars, starving people, corruption, now “Al Qaeda” training sites. The only time we are shown Africa’s beauty is when viewing animals. The Foreign Countries and their Governments manipulate and manufacture a lot of the Wars and Diseases within Africa.</p> 
+<p>The Foreigners must be made in written legal binding contracts and with actions to reinvest in the development of African People, Education, Jobs and Businesses. There must be a mutual partnership of respect and dignity and not just foreigners depleting the Rich Resources of a Country.</p> 
+<p>The U.S. corrupt souls within the 1% rich, government and Corporate America are now actively involved in trying to re-write history again because of the so called white/pale face numbers are getting lower in America. They want keep the number at 215 million white/pale, 45 million Black and 47 million Latin/Brown and 10 million other. America is finding it hard get more pale faces because 3/4 of the world are people of color . In the last 40 years they have been all of these rich people think tank studies funded by rich people with corrupt souls working on how to stop the “Browning of America” and how the American workforce should handle the Browning of America. I wish I kept the article I saw from the think tank. I been searching because I know they put it on the internet.</p> 
+<p>The real secret is they enacted Free Trade to exploit the cheap labor of other countries to maintain a permanent poor woking class in America and then claim you can’t find skilled workers or Americans want do the jobs. Then because this BS is repeatedly fed on Corporate media, people believe this stupidity</p> 
+<p>On U.S. Employment forms today you now have choice of identifying your self as white/pale if you are from the “Original People” from North Africa (which includes Egypt), Mid East, and Europe. SMDH! I guess blacks can now check any and all boxes because we are the “original people”. Some Arabs have major skin color issues and try to distant themselves from Africa and prefer to be associated with Asia. The Asians are finally starting to show the artifacts of their black history hidden away for centuries. Some Arabs are feverishly trying to manipulate and destroy the black history in Egypt because their brains have been taught to hate themselves. Just as some Blacks in America are taught to hate themselves if they have darker skin. This is pure self hate which I find hard to understand but the psychology is interesting.</p> 
+<p>3. U.S. Employment Forms – Race (Check all that apply)<br /> Check all that apply.</p> 
+<p>American Indian or Alaska Native – a person having origins in any of the original peoples of North or South America (including Central America), and who maintains tribal affiliation or community attachment.</p> 
+<p>Asian – a person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, or Vietnam.</p> 
+<p>Black or African American – a person having origins in any of the black racial groups of Africa.</p> 
+<p>Native Hawaiian or Other Pacific Islander – a person having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific islands.</p> 
+<p>White – a person having origins in any of the original peoples of Europe, the Middle East, or North Africa.</p> 
+<p>The World is &frac34; people of color and we aren’t going anywhere.<br /> “We will learn to live together as brothers or perish together as Fools” ~ MLK, Jr</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-611" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-612" data-comment-wp-id="612"  parent-id="" class="comment level0 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/rt_trask/">
+                    <img src="http://0.gravatar.com/avatar/cc5d6f39b2f58a98f9a20d7a38c0c61d?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G" alt="rt_trask" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/rt_trask/">
+                    rt_trask
+                </a>
+
+
+   		<span class="timestamp">4 days ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>“Is Ebola Coming To America?”<br /> It did not come 10 years ago, nor 20, nor 50, …<br /> Why would it come now?<br /> There may be a few isolated cases … there may already have been, simply not accurately diagnosed?<br /> But an epidemic?<br /> The obvious conclusion is there are factors in Africa unavailable to aid &amp; abet the disease here. Better sanitation and hygiene may well be protecting us.<br /> Ditto for Europe et al.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-612" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-626" data-comment-wp-id="626"  parent-id="" class="comment level0 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/larryhappiday/">
+                    <img src="https://graph.facebook.com/100000307626970/picture?type=square" alt="Larry Happiday" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/larryhappiday/">
+                    Larry Happiday
+                </a>
+
+
+   		<span class="timestamp">16 hours ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Ebola is not a death sentence but it certainly can be devastating. American needs to see a therapy that has worked and begin applying same in case there are infections http://www.pinterest.com/larryhappiday/how-to-survive-ebola-virus-disease/</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-626" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2238-3241-629" data-comment-wp-id="629"  parent-id="" class="comment level0 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/hiren2/">
+                    <img src="https://s.yimg.com/dh/ap/social/profile/profile_b192.png" alt="Hiren Patel" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/hiren2/">
+                    Hiren Patel
+                </a>
+
+
+   		<span class="timestamp">9 hours ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>How contagious is the Ebola Virus? It can spread through bodily fluids:<br /> http://investingcrunch.com/articles/2014/10/03/contagious-ebola-virus/</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/?commentId=comment_blogAndPostId/blog/comment/2238-3241-629" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+	</ul>
+
+			</div>
+
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2238-3241" data-object-json="{&quot;title&quot;:&quot;Is Ebola Coming To America? Experts Ponder As Ebola Epidemic Worsens In Africa.&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+
+	</div><!-- .comments_collection -->
+		</div>
+	</section>
+
+
+	<div class="speed_bump">
+
+		<section class="row">
+		<div id="grv-personalization-13-1412388913836"></div>
+			<script type='text/javascript'>
+			  //<![CDATA[
+			    (function(){
+			    var containerId = "grv-personalization-13-1412388913836";
+			    window.gravityInsightsParams = {
+			      'type': 'content',
+			      'action': '',
+			      'site_guid': 'df51572e4a248537619f3b6b11928388'
+			    };
+			    var adServerReq,bUrl,cburl,doUseGravityUserGuid,includeJs,jq,pfurl,type,ug,wlPrefix,wlUrl,_ref,_ref1,_ref2;includeJs=function(a){var b;b=document.createElement("script");b.async=!0;b.src=a;a=document.getElementsByTagName("script")[0];return a.parentNode.insertBefore(b,a)};bUrl="";ug=(doUseGravityUserGuid=!0===gravityInsightsParams.useGravityUserGuid?1:0)?"":gravityInsightsParams.user_guid||(null!=(_ref=/grvinsights=([^;]+)/.exec(document.cookie))?_ref[1]:void 0)||"";
+			    wlUrl=(wlPrefix="https:"===location.protocol?"https://secure-api.gravity.com/v1/api/intelligence":"http://rma-api.gravity.com/v1/api/intelligence",jq=(null!=(_ref1=window.jQuery)?null!=(_ref2=_ref1.fn)?_ref2.jquery:void 0:void 0)||"",type="iframe",adServerReq=gravityInsightsParams.ad||"",cburl=gravityInsightsParams.cburl||"",pfurl=gravityInsightsParams.pfurl||"",""+wlPrefix+"/wl?jq="+jq+"&sg="+gravityInsightsParams.site_guid+"&ug="+ug+"&ugug="+doUseGravityUserGuid+"&id="+containerId+"&pl=13"+
+			    ("&type="+type+"&ad="+adServerReq+"&cburl=")+encodeURIComponent(cburl)+"&pfurl="+encodeURIComponent(pfurl)+("&x="+(new Date).getTime())+("undefined"!==typeof forceArticleIds&&null!==forceArticleIds&&forceArticleIds.join?"&ai="+forceArticleIds.join(","):"")+("undefined"!==typeof apids&&null!==apids&&""!==apids?"&apids="+encodeURIComponent(apids):""));bUrl&&includeJs(bUrl);wlUrl&&(window.gravityInsightsParams.sidebar&&(window.gravityInsightsParams.wlStartTime=(new Date).getTime()),includeJs(wlUrl));})();
+			  //]]>
+			</script>
+	</section>
+
+	</div> <!-- .speed_bump -->
+
+
+	<!--start:gigya_settings-->
+	<div class="gigya_settings" style="display:none;">
+		<div class="gigya_shortLink" data-value="http://onforb.es/1rtFuH0"></div>
+		<div class="gigya_canonicalLink" data-value="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/"></div>
+		<div class="gigya_title" data-value='{&quot;generic&quot;:&quot;Is Ebola Coming To America? Experts Ponder As Ebola Epidemic Worsens In Africa. - Forbes&quot;,&quot;twitter&quot;:&quot;Is Ebola Coming To America? Experts Ponder As Ebola Epidemic Worsens In Africa.&quot;}'></div>
+		<div class="gigya_cid" data-value="blogAndPostId/blog/post/2238-3241"></div>
+		<div class="gigya_buttonContainerPrefixArray" data-value="gigya_share_button,gigya_inline_share_button"></div>
+		<div class="gigya_counterContainerPrefixArray" data-value="gigya_share_counter,gigya_inline_share_counter"></div>
+		<div class="gigya_counterDisplayArray" data-value="tall,medium"></div>
+		<div class="gigya_grecobarEnabled" data-value="false"></div>
+		<div class="gigya_twitterVia" data-value="forbes"></div>
+		<div class="gigya_twitterHashtags" data-value=""></div>
+		<div class="gigya_twitterRelated" data-value="forbes,ddiamond"></div>
+	</div>
+	<!--end:gigya_settings-->
+
+		<!--end:ajax_content_inner-->
+
+		<!-- must appear once on the page -->
+		<div id="contentad9177"></div>
+
+	</div><!-- .article_container.container -->
+
+	<!--sticky_sharing-->
+    <div class="sticky_sharing_bg"></div>
+    <div data-sharing-url="http://www.forbes.com/sites/dandiamond/2014/09/23/ebola-epidemic-could-top-1-4-million-cases-in-africa-but-is-ebola-coming-to-america/" data-sharing-native="true" class="sticky_sharing sticky_sharing_v2" style="display:none;">
+        <div class="share_tab">
+            <div class="share_icon" data-icon="s"></div>
+            <div class="share_count">Share</div>
+        </div>
+        <div class="control_wrapper">
+            <div class="position_reference">
+                <div class="label">
+                    Share this page
+                </div>
+                <div class="controls">
+
+	<!-- Gigya Share divs for gigya_share_button and gigya_share_counter -->
+
+	<div class="share_option">
+		<div class="gy gigyacounter facebook gigya_share_counter" id="gigya_share_counter_facebook"></div><div class="box-bottom"></div>
+		<div class="gigya_share_button-facebook" id="gigya_share_button_facebook"></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter twitter gigya_share_counter" id="gigya_share_counter_twitter"></div><div class="box-bottom"></div>
+		<div class="gy gigyabutton twitter gigya_share_button-twitter" id="gigya_share_button_twitter"></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter linkedin gigya_share_counter" id="gigya_share_counter_linkedin"></div><div class="box-bottom"></div>
+		<div class="gy gigyabutton linkedin gigya_share_button-linkedin" id="gigya_share_button_linkedin"></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter reddit gigya_share_counter" id="gigya_share_counter_reddit" ></div><div class="box-bottom"></div>
+		<div class="gy gigyabutton reddit gigya_share_button-reddit" id="gigya_share_button_reddit" ></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter google gigya_share_button-google" id="gigya_share_button_google" ><div id="gigya_share_button_inner_google" ></div></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter stumbleupon gigya_share_counter" id="gigya_share_counter_stumbleupon"></div><div class="box-bottom"></div>
+		<div class="gy gigyabutton stumbleupon gigya_share_button-stumbleupon" id="gigya_share_button_stumbleupon"></div>
+	</div>
+
+	<div class="share_option gigya_inline_share_button-email_gig_containerParent">
+		<div class="gigya_inline_share_button-email_icon" id="gigya_inline_share_button_email_icon"></div>
+		<div class="gigya_inline_share_button-email" id="gigya_inline_share_button_email"></div>
+	</div>
+                </div>
+            </div>
+        </div>
+    </div><!-- .sticky_sharing_v2 -->
+
+	<div class="loading_spinner_holder" id="page_loading_spinner">
+		<div id="pagespinner"></div>
+	</div>
+
+        
+<footer class="universal-footer">
+	<div class="footer-center">
+
+		<!-- END EDITORIAL PROMOTIONS -->
+
+		<section class="lower-footer-links clearfix">
+
+
+			<div class="channels">
+				<ul data-et-context="footer" data-et-location="footernav" class="edittools-list">
+					<li class="home">
+						<a href="http://www.forbes.com/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Forbes</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="14" data-et-location="footernav" data-et-item-type="topic">
+						<a href="http://www.forbes.com/business/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Business</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="7" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/investing/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Investing</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="8" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/technology/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Technology</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="13" data-et-location="footernav" data-et-item-type="topic">
+						<a href="http://www.forbes.com/entrepreneurs/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Entrepreneurs</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="9" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/opinion/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Op/Ed</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="10" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/leadership/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Leadership</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="11" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/lifestyle/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Lifestyle</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="12" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/lists/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Lists</a>
+					</li>
+				</ul>
+			</div>
+
+
+			<div class="conferences footer-list fleft">
+				<h5><a href="http://www.forbes.com/conferences/">Conferences</a></h5>
+
+				<ul data-et-context="footer" data-et-location="footerconferences" class="edittools-list">
+
+						<li class="editable edittools-item" data-et-item_id="15" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/under30-2014.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Under 30 Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="16" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://forbesglobalceoconference.com/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Global CEO Conference</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="14" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/cio-2014.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes CIO Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="1" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/cmo-2014.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes CMO Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="11" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/ReinventingAmerica-Indy.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Reinventing America: The Innovation Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="3" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/healthcare-2014.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Healthcare Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="5" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2015/ReinventingAmerica-Chicago.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Reinventing America Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="8" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/sites/forbespr/2014/07/09/forbes-and-svg-partners-will-host-forbes-reinventing-america-the-agtech-summit-july-2015-in-salinas-valley/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Reinventing America: The AgTech Summit</a>
+	        			</li>
+				</ul>
+			</div>
+			<div class="products_newsletter footer-list fleft">
+				<h5>Education</h5>
+				<ul>
+					<li><a href="http://www.ashford.edu/degrees/online/business.htm/" target="_blank" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Forbes School of Business at Ashford University</a></li>
+				</ul>
+
+				
+
+			<!-- <div class="products_newsletter footer-list fleft">  -->
+				<h5><a href="http://www.newsletters.forbes.com/">Newsletters</a></h5>
+
+				<ul data-et-context="footer" data-et-location="footernewsletters" class="edittools-list">
+
+						<li class="editable edittools-item" data-et-item_id="1" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/newsletters/forbes-investor/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Investor</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="2" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="https://www.specialsituationsurvey.com/newsletters/sss/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Special Situation Survey</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="3" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/newsletters/forbes-dividend-investor/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Dividend Investor</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="5" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/newsletters/forbes-premium-income-report/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Premium Income Report</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="6" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="http://onforb.es/1dK9tEh" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Investing Newsletters</a>
+	        			</li>
+				</ul>
+			<!-- </div> -->
+				
+			</div>		
+
+			<div class="company-info footer-list fleft">
+				<h5>Products</h5>
+
+				<ul data-et-context="footer" data-et-location="footerproducts" class="edittools-list">
+
+						<li class="editable edittools-item" data-et-item_id="3" data-et-location="footerproducts" data-et-item-type="link">
+	            			<a href="https://www.forbesid.com/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Identity Protection</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="4" data-et-location="footerproducts" data-et-item-type="link">
+	            			<a href="http://www.forbesmagazine.com/newsfeeds/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Newsfeeds</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="5" data-et-location="footerproducts" data-et-item-type="link">
+	            			<a href="http://forbesreprints.magreprints.com/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Reprints & Permissions</a>
+	        			</li>
+				</ul>
+				
+				<h5>Company Info</h5>
+				<ul>
+					<li><a href="http://www.forbesmedia.com/" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Advertise</a></li>
+					<li><a href="http://www.forbes.com/sites/forbespr/" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click" class="exit_trigger_set ga_tracked">Forbes Press Room</a></li>
+					<li><a href="https://www2.apply2jobs.com/forbes/" target="_blank" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Forbes Careers</a></li>
+					<li><a href="http://www.forbes.com/fdc/contact.html" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Contact Us</a></li>
+					<li><a href="http://www.forbes.com/fdc/sitemap.html" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Sitemap</a></li>
+					<li><a href="http://blogs.forbes.com/help/" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Help</a></li>
+				</ul>
+			</div>
+				<div class="publications fleft">
+			<div class="clearfix">
+           		<a href="http://www.forbes.com/forbes" data-ga-event="Footer,LinkFollowed,magazine" data-ga-event-trigger="click" class="exit_trigger_set ga_tracked"><img src="http://images.forbes.com/media/current_covers/forbes_120x160.jpg" alt="Forbes Magazine"></a>
+            	<a href="http://www.forbes.com/forbes-life-magazine" data-ga-event="Footer,LinkFollowed,magazine" data-ga-event-trigger="click" class="exit_trigger_set ga_tracked"><img src="http://images.forbes.com/media/current_covers/forbeslife_120x160.jpg" alt="ForbesLife"></a>
+            	<a href="http://www.forbes.com/forbesasia/" data-ga-event="Footer,LinkFollowed,magazine" data-ga-event-trigger="click" class="exit_trigger_set ga_tracked"><img src="http://images.forbes.com/media/current_covers/forbesasia_120x160.jpg" alt="ForbesAsia"></a>
+            </div>
+				
+				<ul class="subscriptions">
+					<ul data-et-context="footer" data-et-location="footermagazine" class="edittools-list">
+							<li class="editable edittools-item" data-et-item_id="6" data-et-location="footermagazine" data-et-item-type="link">
+	            				<a href="https://subs.forbesmagazine.com/servlet/OrdersGateway?cds_mag_code=FRB&cds_page_id=150007" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">2 Free Issues</a>
+	        				</li>
+							<li class="editable edittools-item" data-et-item_id="4" data-et-location="footermagazine" data-et-item-type="link">
+	            				<a href="http://www.forbesmagazine.com/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Subscriber Services</a>
+	        				</li>
+							<li class="editable edittools-item" data-et-item_id="5" data-et-location="footermagazine" data-et-item-type="link">
+	            				<a href="https://subs.forbesmagazine.com/loc/FRB/IZEG101" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Gift Subscription</a>
+	        				</li>
+					</ul>
+				</ul>
+
+				<div class="affiliate-sites">
+					<ul>
+						<li><a href="http://www.forbeschina.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes China</a></li>
+						<li><a href="http://www.forbesindia.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes India</a></li>
+						<li><a href="http://www.forbes.co.il/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Israel</a></li>
+						<li><a href="http://www.forbes.com.mx/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Mexico</a></li>
+						<li><a href="http://www.forbesmiddleeast.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Middle East</a></li>
+					</ul>
+					<ul>
+						<li><a href="http://www.forbes.pl/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Poland</a></li>
+						<li><a href="http://www.forbes.ro/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Romania</a></li>
+						<li><a href="http://www.forbesrussia.ru/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Russia</a></li>
+						<li><a href="http://forbesmagazine.es/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Spain</a></li>
+					</ul>
+					<ul>
+						<li><a href="http://www.realclear.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear</a></li>
+						<li><a href="http://www.realclearpolitics.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear Politics</a></li>
+						<li><a href="http://www.realclearmarkets.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear Markets</a></li>
+						<li><a href="http://www.realclearworld.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear World</a></li>
+						<li><a href="http://www.realclearsports.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear Sports</a></li>
+					</ul>
+				</div>
+			</div>
+
+        </section>
+
+		
+		<section class="legalese clearfix">
+			<small>2014 Forbes.com LLC&#153; &nbsp; All Rights Reserved</small>
+			<ul>
+				<li><a href="/terms" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Terms and Conditions</a></li>
+				<li><a href="http://www.forbes.com/fdc/privacy.html" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Privacy Statement</a></li>
+				<li><a href="http://corporate.morningstar.com/us/asp/subject.aspx?xmlfile=5501.xml" target="_blank" data-ga-event="Footer,LinkFollowed,partner" data-ga-event-trigger="click">Market Data by Morningstar</a></li>
+				<li><a onclick="(function(){forbes.event_tracking.track_ga_event(['Footer','LinkFollowed','partner']);var s=document.createElement('script');s.src='http://preferences.truste.com/js/buildJsFilev2.jsp?domain=forbes.com&amp;type=epref';s.onreadystatechange=function(){if(script.readyState=='loaded'||script.readyState=='complete'){view(trusteId);}};s.onload=function(){view(trusteId);};document.getElementsByTagName('head')[0].appendChild(s);})()" style="cursor:pointer;" target="_blank">AdChoices</a></li>
+			</ul>
+		</section>
+	</div>
+</footer>
+
+<!-- Start: footer assets -->
+
+<!--@foot.populate footer_data=pageData.footerData! /-->
+        <script type="text/javascript">
+            //<![CDATA[
+                var ppi_AjaxURI = '/wp-admin/admin-ajax.php'
+                	,imagesBaseCdn = 'http://i.forbesimg.com'
+					,followBarLocation = 'channel_1'; 
+            //]]>
+        </script>
+    <!--Start: Gigya Configs-->
+        <script type="text/javascript">
+            var gigya_conf = {
+                siteName: 'forbes.com',
+                APIkey: '3_8Fcn29ZQ5lcRRr8BsC6Y2q8eRKPl567JTM6IWXsqW4eqW57_fNx29GDl9YdzZLvH',
+                connectWithoutLoginBehavior: 'alwaysLogin',
+                enabledProviders: 'facebook,twitter,linkedin,googleplus,yahoo,messenger,wordpress,aol,blogger,openid,foursquare,typepad'
+            };
+
+            (function() {
+				var po = document.createElement('script');
+				po.type = 'text/javascript';
+				//po.async = true;
+				po.src = 'http://cdn.gigya.com/js/socialize.js?apiKey=3_8Fcn29ZQ5lcRRr8BsC6Y2q8eRKPl567JTM6IWXsqW4eqW57_fNx29GDl9YdzZLvH';
+
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(po, s);
+			})();
+
+			(function() {
+				var po = document.createElement('script');
+				po.type = 'text/javascript';
+				//po.async = true;
+				po.src = 'http://cdn.gigya.com/js/gigyaGAIntegration.js';
+
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(po, s);
+			})();
+        </script>
+    <!--End: Giya Configs -->
+	<script type="text/javascript">
+		var google_tag_channel = "business";
+		var google_tag_section = "business:going global";
+		var google_tag_swimlane = "";
+		var google_tag_specialslot = "";
+		var google_tag_article_special_slot = "";
+		var google_tag_display_channel = "business";
+		var google_tag_display_section = "dandiamondblog";
+		var google_tag_zone = "article-new";
+		var google_tag_article_id = "blogAndPostId/blog/post/2238-3241";
+	</script>
+		<script type="text/javascript" src="http://i.forbesimg.com/scripts/combined/js/global.f8a7171d037be437df925c263f993ecd24694cc2.js"></script>
+		<script type="text/javascript" src="http://i.forbesimg.com/scripts/combined/js/article-responsive.485f3ed6bcb0df03dc3d2010f0f59a268d0f50d0.js"></script>
+<span class="lazy_load_js" data-files="http://i.forbesimg.com/scripts/combined/js/globallazy.8da0470d609bcf7bc1c2f94a0826d4b633a62b6a.js"></span>
+    <script type="text/javascript">
+        forbes.bootstrap.init();
+    </script>
+
+
+    <script type="text/javascript">
+        if ( typeof window.JSON === 'undefined' ) {
+            document.write('<script src="http://i.forbesimg.com/assets/js/core/jquery.json-2.2.js"><\/script>');
+        }
+    </script>
+<!-- End: footer assets -->
+
+<div class="current_page_threshold"></div>
+
+</body>
+</html>

@@ -1,0 +1,237 @@
+     * [1]Home
+     * Tools
+
+   [2]Oracle
+   [3]My Account
+   [4]Oracle OpenWorld
+     * [5]Plan
+          + [6]My Account
+          + [7]Register Now
+     * [8]Agenda
+          + [9]Agenda
+          + [10]Watch On Demand
+     * [11]Sessions
+          + [12]Content Catalog
+          + [13]Schedule Builder
+          + [14]Call for Proposals 2015
+          + [15]Executive Solution Sessions
+          + [16]Watch On Demand
+     * [17]Exhibitor / Sponsor
+
+2015 Opportunities
+          + [18]Exhibit
+          + [19]Sponsor
+          + [20]Advertise
+
+Exhibition Hall
+          + [21]Exhibitor Listing
+          + [22]Sponsor Listing
+     * [23]Network
+
+Online
+          + [24]Facebook
+          + [25]Twitter
+          + [26]LinkedIn
+          + [27]Blog
+     * [28]Register
+
+   October 25–29, 2015 | San Francisco
+   [29]JavaOne
+
+   No
+   Yes
+   Working...
+   Close
+   OK
+   Cancel
+   Confirm
+   System Message
+   Delete
+   Schedule
+   An unknown error has occurred and your request could not be completed.
+   Please contact support.
+   Scheduled
+   #{0} on wait list.
+   This session is full. Would you like to be added to the waiting list?
+   By waitlisting any session you cannot schedule another session in the
+   same time slot unless you remove yourself from the waiting list. If you
+   are first in line on a waiting list for a session and a seat becomes
+   available, then the session will be added to your schedule and you will
+   receive a confirmation email. Your pre-enrollment for sessions will be
+   validated onsite. We will hold your pre-enrollment until 10 minutes
+   prior to the session start time, at which point your seat may be given
+   to someone else if you are not present. Anyone not pre-enrolled for a
+   session may be asked to wait in a stand-by line.
+   By opting out of the Daily Challenge, I understand that all of my
+   existing points will be permanently deleted and that I will no longer
+   be able to participate in the Oracle OpenWorld Daily Challenge.
+   By waitlisting any session you cannot schedule another session in the
+   same time slot unless you remove yourself from the waiting list. If you
+   are first in line on a waiting list for a session and a seat becomes
+   available, then the session will be added to your schedule and you will
+   receive a confirmation email. Your pre-enrollment for sessions will be
+   validated onsite. We will hold your pre-enrollment until 10 minutes
+   prior to the session start time, at which point your seat may be given
+   to someone else if you are not present. Anyone not pre-enrolled for a
+   session may be asked to wait in a stand-by line.
+
+   [30][content-catalog-oow-keynote-bnr.png]
+   [31][cont-cat-oow-keynote-bonnet.png]
+   [32][cont-cat-oow-keynote-sikka.png]
+
+     Dashboard
+
+     [33]Focus on Docs
+
+   [34]Home
+   Your tag could not be added at this time, please try again later.
+
+GlassFish Adoption Story and Deep Dive [UGF9123]
+
+   Session Description
+
+   Want to know who is adopting GlassFish and Java EE in real life and
+   what the newest cool features in GlassFish are? If so, this session is
+   definitely for you. In this session, Egypt JUG leader Mohamed Taman
+   shares the story of the first-known production deployment of GlassFish
+   4 and Java EE 7. He discusses how he used GlassFish and Java EE in a
+   deployment for the United Nations High Commissioner for Refugees
+   (UNHCR) and the World Food Program (WFP). A GlassFish engineer then
+   shares details of the latest cool GlassFish feature: the extensible
+   GlassFish command-line framework. The session is hosted by a Java
+   EE/GlassFish evangelist.
+
+   Additional Information
+
+   Catalog Event:
+   JavaOne
+   JavaOne Primary Track:
+   Server-Side Java
+   JavaOne Experience Level:
+   Introductory
+   Type:
+   User Group Forum Session
+
+   Session Speakers
+
+     * [35]Martin Mareš - Software Developer, Oracle
+     * [36]Reza Rahman - Java EE/GlassFish Evangelist, Oracle
+     * [37]Mohamed Taman - Systems Architect & Design Supervisor,
+       e-Finance
+
+   Session Schedule
+
+     * You must log in to schedule.
+       [38]Sunday, Sep 28, 11:00 AM - 11:45 AM - Moscone South - 302
+
+   Presentation Download
+
+     * [39]UGF9123_Mareš-UGF9123.pdf
+
+   Similar Sessions
+
+   [40]UGF9120 - GlassFish Roadmap and Executive Panel
+
+   [41]UGF8871 - Meet the NetBeans Community, with Boeing, Jelastic,
+   JRebel, Vaadin, and More
+
+   [42]BOF3303 - GlassFish Community BOF
+
+About Oracle OpenWorld
+
+     * [43]Location
+     * [44]Event Sustainability
+     * [45]Watch On Demand
+
+Event Tools
+
+     * [46]My Account
+     * [47]Content Catalog
+     * [48]Schedule Builder
+
+Oracle Conferences
+
+     * [49]JavaOne
+
+Connect
+
+     * [50]Facebook
+     * [51]Twitter
+     * [52]LinkedIn
+     * [53]Blog
+
+   [54]Register For Oracle OpenWorld 2013
+   [55]excel4apps
+
+     * [56]Legal Notices
+     * [57]Terms of Use
+     * [58]Privacy
+
+References
+
+   Visible links
+   1. http://www.oracle.com/openworld/
+   2. http://www.oracle.com/us/index.html
+   3. https://oracleus.activeevents.com/2014/portal/login.ww
+   4. http://www.oracle.com/openworld/index.html
+   5. https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9123
+   6. https://oracleus.activeevents.com/2014/portal/login.ww
+   7. http://www.oracle.com/us/dm/108207-wwmk11054239mpp001-cif-w-1845718.html
+   8. https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9123
+   9. http://www.oracle.com/openworld/agenda/index.html
+  10. http://www.oracle.com/openworld/live/on-demand/index.html
+  11. https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9123
+  12. https://oracleus.activeevents.com/2014/connect/search.ww#loadSearch-event=null&searchPhrase=&searchType=session&tc=0&sortBy=&p=&i(10009)=10105
+  13. https://oracleus.activeevents.com/2014/connect/login.ww
+  14. http://www.oracle.com/openworld/call-for-papers/index.html
+  15. http://www.oracle.com/openworld/executive-solution-sessions/index.html
+  16. http://www.oracle.com/openworld/live/on-demand/index.html
+  17. https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9123
+  18. http://www.oracle.com/openworld/exhibit/index.html
+  19. http://www.oracle.com/openworld/sponsor/index.html
+  20. http://www.oracle.com/openworld/advertise/index.html
+  21. https://oracleus.activeevents.com/2014/scheduler/exhibitorCatalog.do?event=OracleOpenWorld
+  22. http://www.oracle.com/openworld/sponsor-listing/index.html
+  23. https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9123
+  24. http://www.facebook.com/OracleOpenWorld
+  25. http://twitter.com/oracleopenworld
+  26. http://www.linkedin.com/groups?about=&gid=114605
+  27. http://blogs.oracle.com/oracleopenworld/
+  28. http://www.oracle.com/us/dm/108207-wwmk11054239mpp001-cif-w-1845718.html
+  29. http://www.oracle.com/javaone/index.html
+  30. https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=10426
+  31. https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=10504
+  32. https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=10530
+  33. https://oracleus.activeevents.com/2014/connect/focusCategory.ww
+  34. https://oracleus.activeevents.com/2014/connect/dashboard.ww
+  35. https://oracleus.activeevents.com/2014/connect/speakerDetail.ww?PERSON_ID=6019B888B95F3D802864F503CF0B60A3&tclass=popup
+  36. https://oracleus.activeevents.com/2014/connect/speakerDetail.ww?PERSON_ID=9D8BC809328F1AF6187317F3793522BB&tclass=popup
+  37. https://oracleus.activeevents.com/2014/connect/speakerDetail.ww?PERSON_ID=03772E5C02A6A0CB13973E354FCA98CF&tclass=popup
+  38. javascript:void(0);
+  39. https://oracleus.activeevents.com/2014/connect/fileDownload/session/FB4A1F27BA6BA14ED2E29DC406850E39/UGF9123_Mareš-UGF9123.pdf
+  40. https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9120&tclass=popup
+  41. https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=8871&tclass=popup
+  42. https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=3303&tclass=popup
+  43. http://www.oracle.com/openworld/location/index.html
+  44. http://www.oracle.com/openworld/green/index.html
+  45. http://www.oracle.com/openworld/live/on-demand/index.html
+  46. https://oracleus.activeevents.com/2014/portal/login.ww
+  47. https://oracleus.activeevents.com/2014/connect/search.ww#loadSearch-event=null&searchPhrase=&searchType=session&tc=0&sortBy=&p=&i(10009)=10105
+  48. https://oracleus.activeevents.com/2014/connect/login.ww
+  49. http://www.oracle.com/javaone/index.html
+  50. http://www.facebook.com/OracleOpenWorld
+  51. http://twitter.com/oracleopenworld
+  52. http://www.linkedin.com/groups?about=&gid=114605
+  53. http://blogs.oracle.com/oracleopenworld/
+  54. http://www.oracle.com/us/dm/108207-wwmk11054239mpp001-cif-w-1845718.html
+  55. http://www.excel4apps.com/products/Oracle/GL-Wand
+  56. http://www.oracle.com/us/legal/index.html
+  57. http://www.oracle.com/us/legal/terms/index.html
+  58. http://www.oracle.com/us/legal/privacy/index.html
+
+   Hidden links:
+  60. https://oracleus.activeevents.com/2014/connect/publicDashboard.ww
+  61. javascript:void(0);
+  62. javascript:void(0);
+  63. javascript:void(0);
+  64. http://www.oracle.com/us/index.html

@@ -1,0 +1,84 @@
+   [RebelLabs%2Bzt.png]
+
+   Call us: 1(857)221-9900
+
+   A Short History of Nearly Everything Java
+
+   A zero-code glance at the Java machine
+
+   Download This Report Now:
+
+   JUnit - 82.5% - Top testing framework used by developers Jenkins - 70%
+   - Most used CI server in the industry Git - 69% - #1 version control
+   technology out there Hibernate - 67.5% - The top ORM framework used
+   Java 7 - 65% - The industry leader for SE development Maven - 64% -
+   Most used build tool in Java Nexus - 64% - The main repository used by
+   developers MongoDB - 56% - The NoSQL technology of choice FindBugs -
+   55% - Most-used static code analysis tool in Java Tomcat - 50% - The
+   most popular application server on the market Java EE 6 - 49% - Found
+   in the most enterprise Java environments Eclipse - 48% - The IDE used
+   more than any other Spring MVC - 40% - The most commonly used web
+   framework MySQL - 32% - The most popular SQL technology
+
+   “Most people talk about Java the language, and this may sound odd
+   coming from me, but I could hardly care less. At the core of the Java
+   ecosystem is the JVM.”
+
+   -- James Gosling, creator of the Java Programming Language
+
+   If a non-developer asked you “What is Java?”, how would you respond?
+   Sure, you can give the Wikipedia definition, which is this:
+
+   “Java is a computer programming language that is concurrent,
+   class-based, object-oriented, and specifically designed to have as few
+   implementation dependencies as possible. It is intended to let
+   application developers "write once, run anywhere" (WORA), meaning that
+   code that runs on one platform does not need to be recompiled to run on
+   another. Java applications are typically compiled to bytecode (class
+   file) that can run on any Java virtual machine (JVM) regardless of
+   computer architecture.”
+
+   Seems reasonable. But this answer cannot stand up to simple inquiries
+   about “who makes Java”, could it? Indeed, could you answer questions
+   from a muggle about how new features get added, who decides what
+   features do or don’t make it to future versions, and how does a team of
+   dedicated Java platform engineers and random developers around the
+   world influence the language? Have you ever wondered what the whole
+   “Java” thing is really about, and why, for Pete’s sake, did it take so
+   long to get lambdas into Java? ;-)
+   Potentially not. And that’s why we thought it would be cool to write a
+   report that covers, well, basically everything we can think of about
+   Java that doesn’t have to deal with the actual code itself. Regardless
+   of whether you’re a developer, architect or team manager, knowing about
+   how Java is planned, executed, shipped and basically made available
+   consistently and reliably around the world, from students in
+   Afghanistan to former .NET architects switching sides to Java in
+   California.
+   [1][RebelLabs-RGB.png]
+   Email: ____________________
+   First Name: ____________________
+   Last Name: ____________________
+   Lead Source: ____________________
+   ZT Source: ____________________
+   ZT Source 3: ____________________
+   Rebel Labs JR Report History: ____________________
+   Rebel Labs Report ID: ____________________
+   PPC Medium: ____________________
+   Primary Application Server used:
+   ____________________
+   Framework: ____________________
+   Enterprise Java Version: ____________________
+   Number Employees: ____________________
+   Annual Revenue: ____________________
+   Which IDE do you use? ____________________
+   Which Buildtool do you use? ____________________
+   Number of Developers: ____________________
+   Country: ____________________
+   Company Name: ____________________
+   Industry: ____________________
+   Job Title: ____________________
+   ____________________ (BUTTON) Submit
+
+References
+
+   1. http://zeroturnaround.com/rebellabs

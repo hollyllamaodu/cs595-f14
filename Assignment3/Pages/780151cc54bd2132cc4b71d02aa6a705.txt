@@ -1,0 +1,1065 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]>
+  <html class="lt-ie9 no-js" >
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<![endif]-->
+<!--[if IE 9]>
+  <html class="ie9 no-js" >
+<![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js"> <!--<![endif]-->
+<head prefix="og: http://ogp.me/ns#
+              fb: http://ogp.me/ns/fb#
+              video: http://ogp.me/ns/video#
+              article: http://ogp.me/ns/article#
+              profile: http://ogp.me/ns/profile#">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <link rel="dns-prefetch" href="http://w.fod4.com" />
+  <link rel="dns-prefetch" href="http://a.fod4.com" />
+  <link rel="dns-prefetch" href="http://r.fod4.com" />
+  <link rel="dns-prefetch" href="http://t.fod4.com" />
+  <link rel="dns-prefetch" href="http://v.fod4.com" />
+  <link rel="dns-prefetch" href="http://vo.fod4.com" />
+  <link rel="dns-prefetch" href="http://ads.funnyordie.com" />
+
+  <title>Jerrod Carmichael: Love at the Store – Tour! from Jerrod Carmichael</title>
+  <meta name = "viewport" content = "width=device-width, initial-scale=1">
+    <meta name="description" content="We&#39;re counting down to Jerrod Carmichael&#39;s first HBO special, &#39;Love at the Store,&#39; with a mini-tour across the United States! Follow Jerrod on Facebook (facebook.com/JerrodCarmichael) for a behind-the-scenes look at the tour, and watch the premiere October 4th at 10 p.m. on HBO." />
+    <meta name="keywords" content="comedian, announcement, tour, philadelphia, new york city, brooklyn, san francisco, boston, los angeles, hbo, spike lee, jerrod carmichael" />
+  <meta name="msapplication-square70x70logo" content="msapplication-square70x70logo.png">
+  <meta name="msapplication-square150x150logo" content="msapplication-square150x150logo.png">
+  <meta name="msapplication-square310x310logo" content="msapplication-square310x310logo.png">
+  <meta name="msapplication-wide310x150logo" content="msapplication-wide310x150logo.png">
+  <meta name="msapplication-TileColor" content="#000000">
+  <meta name="msapplication-TileImage" content="/msapplication-square310x310logo.png">
+    <link rel="canonical" href="http://www.funnyordie.com/articles/274dae83ed/jerrod-carmichael-s-love-at-the-store-tour" />
+  <link rel="search" type="application/opensearchdescription+xml" title="Funny or Die" href="/open_search.xml" />
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="lxGO6frPSpBpINUgiYdGL1BwZfayTwiDwWXPPBUjrcc=" name="csrf-token" />
+  <link href="http://w.fod4.com/assets/application-c8cba6c66b4b54c019c45ff20d255e62.css" media="screen" rel="stylesheet" />
+  
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"d19e5a3ee5","applicationID":"19590","transactionName":"JgoITEdYCQkBSx5cAwEMBxdGXwoS","queueTime":0,"applicationTime":239,"agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgQDWUVSAQYJVA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+  <script src="http://w.fod4.com/assets/support/modernizr-d6f763bde3af724abb2f391291993657.js"></script>
+  <script type="text/javascript">
+    Modernizr.load([
+      {
+        test: Modernizr.operamini,
+        yep: "http://w.fod4.com/assets/support/opera_mini_fixes-c4aaa037ec816466644f84f0bdc8a0d2.js"
+      }
+    ]);
+  </script>
+
+      <meta name="robots" content="noodp"/>
+    <meta itemprop="thumbnailUrl" content="http://p.fod4.com/p/media/274dae83ed/c=sq/s=w700/o=90/WxKtc84nRuJdfvGxMhHE_JC-BW.jpeg">
+    <meta itemprop="duration" content="0">
+    <meta itemprop="embedURL" content="http://www.funnyordie.com/embed/274dae83ed">
+    <meta itemprop="uploadDate" content="2014-09-18 11:18:56 -0700">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@funnyordie">
+    <meta property="fb:app_id" content="138711277798">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://www.funnyordie.com/articles/274dae83ed/jerrod-carmichael-s-love-at-the-store-tour">
+    <meta property="og:title" content="Jerrod Carmichael: Love at the Store – Tour!">
+    <meta property="og:image" content="http://p.fod4.com/p/media/274dae83ed/c=sq/s=w700/o=90/WxKtc84nRuJdfvGxMhHE_JC-BW.jpeg">
+    <meta property="og:site_name" content="Funny or Die">
+    <meta property="og:description" content="We&#39;re counting down to Jerrod Carmichael&#39;s first HBO special, &#39;Love at the Store,&#39; with a mini-tour across the United States! Follow Jerrod on Facebook (facebook.com/JerrodCarmichael) for a behind-the-scenes look at the tour, and watch the premiere October 4th at 10 p.m. on HBO.">
+    <link rel="videothumbnail" href="http://www.funnyordie.com/thumbnails/274dae83ed/fullsize" type="image/jpeg"/>
+    <link rel="image_src" href="http://www.funnyordie.com/thumbnails/274dae83ed/fullsize"/>
+    <meta name="medium" content="news"/>
+    <link rel="target_url" href="http://www.funnyordie.com/articles/274dae83ed/jerrod-carmichael-s-love-at-the-store-tour"/>
+    <script>
+//<![CDATA[
+        if (!fb_post) var fb_post = {"method":"feed","name":"Jerrod Carmichael: Love at the Store – Tour!","picture":"http://p.fod4.com/p/media/274dae83ed/c=sq/s=w700/o=90/WxKtc84nRuJdfvGxMhHE_JC-BW.jpeg","link":"http://www.funnyordie.com/articles/274dae83ed/jerrod-carmichael-s-love-at-the-store-tour","description":"We're counting down to Jerrod Carmichael's first HBO special, 'Love at the Store,' with a mini-tour across the United States! Follow Jerrod on Facebook (facebook.com/JerrodCarmichael) for a behind-the-scenes look at the tour, and watch the premiere October 4th at 10 p.m. on HBO.","actions":[{"name":"See more articles","link":"http://www.funnyordie.com/"}]};
+
+//]]>
+</script>
+</head>
+<body class="media_show article_show document_show medium_show has-infinite-scroll" >
+  <!--[if lt IE 10]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" rel="nofollow">upgrade your browser</a> to improve your experience.</p>
+  <![endif]-->
+  
+  <header id="page-header">
+
+  <div id="page-header-container">
+    <nav id="mobile-left-navigation" class="mobile-navigation">
+      <ul>
+        <li class="browse"><a class="js-menu-link" href="#browse-menu"><span class="sprite"></span></a></li>
+      </ul>
+    </nav>
+    <a href="/">
+        <h2 id="logo">Funny or Die</h2>
+</a>    <nav id="mobile-right-navigation" class="mobile-navigation">
+      <ul>
+          <li id="mobile-context-sensitive-header">
+              <a class="js-menu-link sharing-menu-link" href="#sharing-menu"><span class="fodicon-share2"></span></a>
+
+          </li>
+        <li class="search"><a class="js-menu-link" href="#search-menu"><span class="sprite"></span></a></li>
+        <li class="account"><a class="js-menu-link" href="#account-menu"><span class="sprite"></span></a></li>
+      </ul>
+    </nav>
+    <aside>
+      <ul id="supplemental-links">
+        <li class="star js-star-indicator"><i class="fodicon-star"></i></li>
+        <li class="name"><a class="js-user-name js-menu-link" href="#account-menu"></a></li>
+      </ul>
+    </aside>
+
+    <nav id="primary-navigation">
+      <ul>
+        <li class="browse"><a class="js-menu-link hovered" href="#browse-menu"><span class="sprite"></span><span class="nav-words">Browse </span><i class="fodicon-triangle-down"></i></a></li>
+        <li class="search"><a class="js-menu-link hovered" href="#search-menu"><span class="sprite"></span><span class="nav-words">Search </span><i class="fodicon-triangle-down"></i></a></li>
+      </ul>
+    </nav>
+
+      <nav id="context-sensitive-header">
+          <a href="#" class="back-to-top">Jerrod Carmichael: Love at the Store – Tour!</a>
+  <ul class="medium-navigation" data-no-turbolink>
+
+  <li>
+    <div class="button-facebook" data-ga-social="[&quot;facebook&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" onclick="FB.ui(fb_post);"><span class="fodicon-facebook"></span></div>
+  </li>
+
+  <li>
+    <div class="button-twitter" data-ga-social="[&quot;twitter&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=https%3A%2F%2Ftwitter.com%2Fshare%3Furl%3Dhttp%253A%252F%252FFunnyOrDie.com%252Fm%252F97f3\u0026video=274dae83ed&quot;,&quot;t&quot;,&quot;toolbar=0,resizable=0,status=1,width=450,height=430&quot;]"><span class="fodicon-twitter"></span></div>
+  </li>
+
+  <li>
+    <div class="button-tumblr" data-ga-social="[&quot;tumblr&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=http%253A%252F%252Fwww.tumblr.com%252Fshare%252Fphoto%253Fsource%253Dhttp%25253A%25252F%25252Fp.fod4.com%25252Fp%25252Fmedia%25252F274dae83ed%25252Fc%25253Dsq%25252Fs%25253Dw700%25252Fo%25253D90%25252FWxKtc84nRuJdfvGxMhHE_JC-BW.jpeg%2526caption%253DJerrod%252520Carmichael%25253A%252520Love%252520at%252520the%252520Store%252520%2525E2%252580%252593%252520Tour%252521%2526clickthru%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Farticles%25252F274dae83ed%25252Fjerrod-carmichael-s-love-at-the-store-tour\u0026video=274dae83ed&quot;,&quot;t&quot;,&quot;toolbar=0,resizable=0,status=1,width=450,height=430&quot;]"><span class="fodicon-tumblr"></span></div>
+  </li>
+
+  <li>
+    <div class="button-google-plus" data-ga-social="[&quot;google_plus&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=https%253A%252F%252Fplus.google.com%252Fshare%253Furl%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Farticles%25252F274dae83ed%25252Fjerrod-carmichael-s-love-at-the-store-tour\u0026video=274dae83ed&quot;,&quot;t&quot;,&quot;toolbar=0,resizable=0,status=1,width=450,height=430&quot;]"><span class="fodicon-google-plus"></span></div>
+  </li>
+
+
+  <li>
+    <div class="button-share">
+      <a class="js-menu-link sharing-menu-link" href="#sharing-menu"><span class="fodicon-share"></span></a>
+    </div>
+  </li>
+
+  <li class="button-comment-container">
+    <div class="button-comment">
+      <a class="js-menu-link comments-menu-link" href="#comments-menu"><span class="fodicon-speech-bubble"></span></a>
+    </div>
+  </li>
+
+</ul>
+
+
+
+      </nav>
+  </div>
+
+</header>
+
+<div id="browse-menu" data-ga-source="browse-menu" class="scrolling-overlay"></div>
+<div id="search-menu" data-ga-source="search-menu" class="scrolling-overlay">
+  <div class="content">
+    <div class="header">
+      <div class="icon">
+        <i class="fodicon-magnifying"></i>
+      </div>
+      <div class="search">
+        <form accept-charset="UTF-8" action="/live-search" data-remote="true" id="live-search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+          <input id="search_term" name="search_term" placeholder="Start Typing..." type="text" x-webkit-speech="true" />
+          <input disabled="disabled" id="suggested_term" name="suggested_term" type="text" />
+</form>        <div class="spinner-container">
+        </div>
+      </div>
+      <div class="actions">
+        <a class="js-menu-link" href="#close">Close <i class="fodicon-x"></i></a><br />
+        <a class="btn-fod with-icon" href="#" id="see-all"><span class="fodicon-grid-3x3"></span>SEE ALL RESULTS</a>
+
+      </div>
+    </div>
+
+    <div class="results">
+
+    </div>
+  </div>
+</div>
+<div id="account-menu" data-ga-source="account-menu">
+  <div id="account-carousel">
+    <div data-carousel='account' data-append='true'>
+  <nav>
+    
+<div class="scrollable-container">
+  <div class="scrollbar-hider">
+    <div class="scrollable-region">
+      <div class="scrollable-content" style="width: 2520px" data-scroll-increment="250">
+        
+      <ul>
+        <li id="starred" class="active js-carousel-link"><a class="js-carousel-link" href="#" id="starred"><i class="fodicon-star"></i> <span></span></a></li>
+        <li id="history" class="js-carousel-link"><a class="js-carousel-link" href="#" id="history">History</a></li>
+      </ul>
+
+      </div>
+    </div>
+  </div>
+  <a href="#" class="scrollable-control right js-scroll"><span class="fodicon-chevron-right"></span></a>
+  <a href="#" class="scrollable-control left js-scroll disabled"><span class="fodicon-chevron-left"></span></a>
+</div>  </nav>
+  <section>
+    
+<div class="scrollable-container">
+  <div class="scrollbar-hider">
+    <div class="scrollable-region">
+      <div class="scrollable-content" style="width: 0px" data-scroll-increment="250">
+        
+      </div>
+    </div>
+  </div>
+  <a href="#" class="scrollable-control right js-scroll"><span class="fodicon-chevron-right"></span></a>
+  <a href="#" class="scrollable-control left js-scroll disabled"><span class="fodicon-chevron-left"></span></a>
+</div>
+    <div class="fod-spinner position-centered">
+  <div class="fod-spinner-logo mega-fodicon fodicon-logo-abbr">
+    <div class="fod-spinner-o-wrap mega-fodicon fodicon-logo-o">
+      <div class="fod-spinner-o-spin mega-fodicon fodicon-logo-o">
+        <span class="mega-fodicon fodicon-logo-o"></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </section>
+  <div id="loader">loading more...</div>
+</div>
+  </div>
+
+  <div id="account-actions">
+      <div data-signed-in="false">
+    <a class="js-menu-link close-account" href="#close">
+      Close <i class="fodicon-x"></i>
+</a>
+    <div class="social-media-connect-box">
+  <div id="facebookConnectLogin" class="facebookLoginBtn">
+    <i class="fodicon-facebook"></i>
+  </div>
+
+  <div id="gPlusSignUpFormWrapper" class="googleLoginBtn">
+    <div id="customGPlusBtn"
+      class="g-signin"
+      data-callback="handleGoogleLogin"
+      data-clientid="589881919982.apps.googleusercontent.com"
+      data-cookiepolicy="single_host_origin"
+      data-apppackagename="com.funnyordie.videos"
+      data-scope="https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/userinfo.email">
+      <i class="fodicon-google-plus"></i>
+    </div>
+  </div>
+
+  <div id="gPlusSigninButton" class="googleLoginBtn">
+    <i class="fodicon-google-plus"></i>
+  </div>
+</div>
+
+    <div class="separator">or</div>
+
+    <div data-submenu='sign-up' class="sign-up ">
+      <form accept-charset="UTF-8" action="https://secure.funnyordie.com/signup" class="new_user" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="lxGO6frPSpBpINUgiYdGL1BwZfayTwiDwWXPPBUjrcc=" /></div>        <input id="user_email" maxlength="100" name="user[email]" placeholder="Email Address" size="100" type="text" />
+        <input id="user_login" maxlength="40" name="user[login]" placeholder="Username" size="40" type="text" />
+        <div>
+          <input id="user_password" maxlength="40" name="user[password]" placeholder="Password" size="40" type="password" />
+          <input id="user_password_confirmation" maxlength="40" name="user[password_confirmation]" placeholder="Password Confirmation" size="40" type="password" />
+        </div>
+        <div class="action right">
+          <input class="btn-fod" name="commit" type="submit" value="Sign up" />
+        </div>
+        <div class="action left">
+          <input id="newsletter_opt_in" name="newsletter_opt_in" type="hidden" value="1" />
+          <div>
+            <a class="js-sign-in" href="#">
+              Already have an account? <b>Sign In!</b>
+</a>          </div>
+        </div>
+</form>    </div>
+
+    <div data-submenu='sign-in' class="sign-in">
+      <form accept-charset="UTF-8" action="https://secure.funnyordie.com/session" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="lxGO6frPSpBpINUgiYdGL1BwZfayTwiDwWXPPBUjrcc=" /></div>        <input id="login_user_login" maxlength="40" name="login_user[login]" placeholder="Username or Email" size="40" type="text" />
+        <input id="login_user_password" maxlength="40" name="login_user[password]" placeholder="Password" size="40" type="password" />
+        <div class="action right">
+          <input class="btn-fod" name="commit" type="submit" value="Sign In" />
+          <a href="/password_reminder" id="forgot-password">Forgot Password?</a>
+        </div>
+        <div class="action left">
+          <input checked="checked" class="checkbox" id="remember_me" name="remember_me" type="checkbox" value="1" /> <label for="remember_me" class='label'>Stay signed in</label>
+          <a class="js-sign-up" href="/signup">
+            Don't have an account? <b>Sign Up!</b>
+</a>        </div>
+</form>    </div>
+  </div>
+
+  </div>
+</div>
+
+
+<a href="#close" class="dropdown-menu-close-layer js-menu-link"></a>
+  <div id="sharing-menu">
+  <div class="dropdown-header">
+    <div class="close-dropdown">
+      <a class="js-menu-link" href="#close"><span>Close </span><i class="fodicon-x"></i></a>
+    </div>
+    Share!
+  </div>
+  
+<div class="short-link-container">
+  <input id="short-link" name="short-link" onclick="javascript:this.focus();this.select();GA.social(&#39;link&#39;,&#39;share&#39;,&#39;274dae83ed&#39;)" readonly="readonly" type="text" value="http://FunnyOrDie.com/m/97f3" />
+</div>
+
+<ul data-no-turbolink>
+  <li>
+    <button class="sidetab-button-facebook" data-ga-social="[&quot;facebook&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" onclick="FB.ui(fb_post);"><span class="fodicon-facebook"></span></button>
+  </li>
+  <li>
+    <button class="sidetab-button-twitter" data-ga-social="[&quot;twitter&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=https%3A%2F%2Ftwitter.com%2Fshare%3Furl%3Dhttp%253A%252F%252FFunnyOrDie.com%252Fm%252F97f3\u0026video=274dae83ed&quot;,&quot;t&quot;,&quot;toolbar=0,resizable=0,status=1,width=450,height=430&quot;]"><span class="fodicon-twitter"></span></button>
+  </li>
+  <li>
+    <button class="sidetab-button-tumblr" data-ga-social="[&quot;tumblr&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=http%253A%252F%252Fwww.tumblr.com%252Fshare%252Fphoto%253Fsource%253Dhttp%25253A%25252F%25252Fp.fod4.com%25252Fp%25252Fmedia%25252F274dae83ed%25252Fc%25253Dsq%25252Fs%25253Dw700%25252Fo%25253D90%25252FWxKtc84nRuJdfvGxMhHE_JC-BW.jpeg%2526caption%253DJerrod%252520Carmichael%25253A%252520Love%252520at%252520the%252520Store%252520%2525E2%252580%252593%252520Tour%252521%2526clickthru%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Farticles%25252F274dae83ed%25252Fjerrod-carmichael-s-love-at-the-store-tour\u0026video=274dae83ed&quot;,&quot;t&quot;,&quot;toolbar=0,resizable=0,status=1,width=450,height=430&quot;]"><span class="fodicon-tumblr"></span></button>
+  </li>
+  <li>
+    <button class="sidetab-button-google-plus" data-ga-social="[&quot;google_plus&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=https%253A%252F%252Fplus.google.com%252Fshare%253Furl%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Farticles%25252F274dae83ed%25252Fjerrod-carmichael-s-love-at-the-store-tour\u0026video=274dae83ed&quot;,&quot;t&quot;,&quot;toolbar=0,resizable=0,status=1,width=450,height=430&quot;]"><span class="fodicon-google-plus"></span></button>
+  </li>
+  <li>
+    <button class="sidetab-button-stumble" data-ga-social="[&quot;stumble_upon&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=http%253A%252F%252Fwww.stumbleupon.com%252Fsubmit%253Furl%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Farticles%25252F274dae83ed%25252Fjerrod-carmichael-s-love-at-the-store-tour%2526title%253DJerrod%252520Carmichael%25253A%252520Love%252520at%252520the%252520Store%252520%2525E2%252580%252593%252520Tour%252521\u0026video=274dae83ed&quot;,&quot;_blank&quot;,&quot;location=0,status=0,scrollbars=1,menubar=0,resizable=1,width=450,height=640&quot;]"><span class="fodicon-stumbleupon"></span></button>
+
+  </li>
+  <li>
+      <button class="sidetab-button-reddit" data-ga-social="[&quot;reddit&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=http%253A%252F%252Fwww.reddit.com%252Fsubmit%253Furl%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Farticles%25252F274dae83ed%25252Fjerrod-carmichael-s-love-at-the-store-tour\u0026video=274dae83ed&quot;,&quot;_blank&quot;,&quot;location=0,status=0,scrollbars=1,menubar=0,resizable=1,width=450,height=640&quot;]"><span class="fodicon-reddit"></span></button>
+  </li>
+  <li>
+      <button class="sidetab-button-pinterest" data-ga-social="[&quot;pinterest&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=http%253A%252F%252Fwww.pinterest.com%252Fpin%252Fcreate%252Fbutton%252F%253Furl%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Farticles%25252F274dae83ed%25252Fjerrod-carmichael-s-love-at-the-store-tour%2526media%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Fthumbnails%25252F274dae83ed%25252Ffullsize%2526description%253DJerrod%252520Carmichael%25253A%252520Love%252520at%252520the%252520Store%252520%2525E2%252580%252593%252520Tour%252521\u0026video=274dae83ed&quot;,&quot;_blank&quot;,&quot;location=0,status=0,scrollbars=1,menubar=0,resizable=1,width=450,height=640&quot;]"><span class="fodicon-pinterest"></span></button>
+  </li>
+  <li>
+    <div class="sidetab-button-email js-email-button" href="/share/email_medium/429519" data-fod-url="http://www.funnyordie.com/articles/274dae83ed/jerrod-carmichael-s-love-at-the-store-tour"><span class="fodicon-envelope"></span></div>
+  </li>
+</ul>
+
+<div class="embed-area">
+  <textarea class="embed-textarea" cols="50" id="embed_textarea" name="embed_textarea" onclick="javascript:this.focus();this.select();GA.social(&#39;embed&#39;,&#39;share&#39;,&#39;274dae83ed&#39;)" rows="10">
+</textarea>
+</div>
+
+
+</div>
+
+
+
+  <div class="fod-spinner turbo-transition-spinner position-centered">
+  <div class="fod-spinner-logo mega-fodicon fodicon-logo-abbr">
+    <div class="fod-spinner-o-wrap mega-fodicon fodicon-logo-o">
+      <div class="fod-spinner-o-spin mega-fodicon fodicon-logo-o">
+        <span class="mega-fodicon fodicon-logo-o"></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div id="page">
+    <div id="flash"></div>
+    <div id="leader-board-ad">
+  <div id="lb-ad-content">
+    
+<div id="ad-9801ab6e00bc8a7dd08aeb6bf393f835" align="center" style="padding: 0; margin: 0; border: 0; overflow: hidden;" data-ad-hash='{ "id": "9801ab6e00bc8a7dd08aeb6bf393f835", "url": "http://ads.funnyordie.com/html.ng/site=funnyordie&fod_pos=970x90_spon&fod_viewkey=274dae83ed&fod_rollup=articles_show&params.styles=fs&page.allowcompete=no", "height": "90", "width": "970", "pos": "970x90_spon", "sync": "true" }'></div>
+
+  </div>
+</div>
+
+    
+
+
+<link href="http://w.fod4.com/assets/words-b8600f703e5cb9a63bcccf186d9ce866.css" media="screen" rel="stylesheet" />
+
+
+
+
+
+<article
+  id="media-show-main-content"
+    class=""
+  itemscope>
+
+  <header id="media-header-section" >
+
+
+
+<div id="media-header-container" class="media-container">
+  <div id="media-header-thumbnail">
+    <article class="article-preview" data-viewkey="v274dae83ed"><a href="/articles/274dae83ed/jerrod-carmichael-s-love-at-the-store-tour" title="Jerrod Carmichael: Love at the Store – Tour!">
+      <img alt="Jerrod Carmichael: Love at the Store – Tour!" class="media-preview-thumbnail js-resrc js-resrc-lazy" data-src="http://r.fod4.com/o=80/http://p.fod4.com/p/media/274dae83ed/c=sq/s=w700/o=90/WxKtc84nRuJdfvGxMhHE_JC-BW.jpeg" src="http://w.fod4.com/assets/fodblank-0fb4ab3d788716fc05fa9946819695be.gif" />
+      <span class="fodicon-star js-media-star" href="/account/star?id=429519"></span>
+</a></article>  </div>
+
+    <div id="media-header-text" class="no-feature-image normal">
+  <div class="media-header-text-title">
+    <h1>
+      <a href="/articles/274dae83ed/jerrod-carmichael-s-love-at-the-store-tour" itemprop="name">Jerrod Carmichael: Love at the Store – Tour!</a>
+    </h1>
+      <div class="fb-like" data-href="http://www.funnyordie.com/articles/274dae83ed/jerrod-carmichael-s-love-at-the-store-tour" data-layout="button_count" data-colorscheme="dark" data-width="90"></div>
+  </div>
+
+  <div class="social-share-panel article-list">
+  <ul class="social-bar medium-navigation" data-no-turbolink>
+      <li class="facebook">
+        <div class="button-facebook" data-ga-social="[&quot;facebook&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" onclick="FB.ui(fb_post);"><span class="fodicon-facebook social-buttons"></span></div>
+      </li>
+      <li class="twitter">
+        <div class="button-twitter" data-ga-social="[&quot;twitter&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=https%253A%252F%252Ftwitter.com%252Fshare%253Furl%253Dhttp%25253A%25252F%25252FFunnyOrDie.com%25252Fm%25252F97f3\u0026video=274dae83ed&quot;,&quot;t&quot;,&quot;toolbar=0,resizable=0,status=1,width=450,height=430&quot;]"><span class="fodicon-twitter social-buttons"></span></div>
+      </li>
+      <li class="pinterest">
+        <div class="button-pinterest" data-ga-social="[&quot;pinterest&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=http%253A%252F%252Fwww.pinterest.com%252Fpin%252Fcreate%252Fbutton%252F%253Furl%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Farticles%25252F274dae83ed%25252Fjerrod-carmichael-s-love-at-the-store-tour%2526media%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Fthumbnails%25252F274dae83ed%25252Ffullsize%2526description%253DJerrod%252520Carmichael%25253A%252520Love%252520at%252520the%252520Store%252520%2525E2%252580%252593%252520Tour%252521\u0026video=274dae83ed&quot;,&quot;_blank&quot;,&quot;location=0,status=0,scrollbars=1,menubar=0,resizable=1,width=450,height=640&quot;]"><span class="fodicon-pinterest social-buttons"></span></div>
+      </li>
+      <li class="google-plus" style="display: none;">
+        <div class="button-google-plus" data-ga-social="[&quot;google_plus&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=https%253A%252F%252Fplus.google.com%252Fshare%253Furl%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Farticles%25252F274dae83ed%25252Fjerrod-carmichael-s-love-at-the-store-tour\u0026video=274dae83ed&quot;,&quot;t&quot;,&quot;toolbar=0,resizable=0,status=1,width=450,height=430&quot;]"><span class="fodicon-google-plus social-buttons"></span></div>
+      </li>
+      <li class="tumblr" style="display: none;">
+        <div class="button-tumblr" data-ga-social="[&quot;tumblr&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=http%253A%252F%252Fwww.tumblr.com%252Fshare%252Fphoto%253Fsource%253Dhttp%25253A%25252F%25252Fp.fod4.com%25252Fp%25252Fmedia%25252F274dae83ed%25252Fc%25253Dsq%25252Fs%25253Dw700%25252Fo%25253D90%25252FWxKtc84nRuJdfvGxMhHE_JC-BW.jpeg%2526caption%253DJerrod%252520Carmichael%25253A%252520Love%252520at%252520the%252520Store%252520%2525E2%252580%252593%252520Tour%252521%2526clickthru%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Farticles%25252F274dae83ed%25252Fjerrod-carmichael-s-love-at-the-store-tour\u0026video=274dae83ed&quot;,&quot;t&quot;,&quot;toolbar=0,resizable=0,status=1,width=450,height=430&quot;]"><span class="fodicon-tumblr social-buttons"></span></div>
+      </li>
+      <li class="share">
+        <div class="button-share">
+          <a class="js-menu-link sharing-menu-link" href="#sharing-menu"><span class="fodicon-bold-more social-buttons"></span></a>
+        </div>
+      </li>
+    </ul>
+</div>
+
+    <div class="media-header-text-line by-line">
+    By
+    <a href="/jerrod_carmichael">Jerrod Carmichael</a>
+  </div>
+
+
+
+  <div class="media-header-text-line">
+  <span class="stat-line">Published September 18, 2014</span>
+  
+  
+  <span class="stat-line"><a class="more-info-link" href="#">More Info »</a></span>
+</div>
+
+
+
+</div>
+
+    
+
+  <section id="more-info">
+
+  <div class="more-info-section">
+    <div class="more-info-header"><a class="js-more-info-section-link" href="#more-info-credits-content"><span class="fodicon-triangle-down"></span> Full Credits</a>
+    </div>
+    <div id="more-info-credits-content" class="more-info-content" style="display:block">
+      <ul class="more-info-participants">
+          <li><ul class='medium-participant-user-preview list-unstyled'>
+	<li class="medium-participant-photo">
+	  <a href="/jerrod_carmichael" title="Jerrod Carmichael (a.k.a. jerrod_carmichael)"><img alt="Jerrod Carmichael" class="channel-preview-photo js-resrc js-resrc-lazy" data-src="http://r.fod4.com/c=sq/o=80/http://p.fod4.com/p/channels/ewicu/profile/s=w1200/o=95/6QT6iS8WRwKhXcOJXyLt_jerrod-carmichael-facebook-avatar_600x600.jpg" src="http://w.fod4.com/assets/fodblank-0fb4ab3d788716fc05fa9946819695be.gif" /></a>
+	</li>
+	<li class="medium-participant-name">
+    <h5>
+      <a class="user_link" href="/jerrod_carmichael" rel="author" title="Jerrod Carmichael">Jerrod Carmichael</a>
+    </h5>
+  </li>
+  <li class="medium-participant-role">
+    <small>Uploader</small>
+	</li>
+</ul>
+</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="more-info-section">
+    <div class="more-info-header"><a class="js-more-info-section-link" href="#more-info-data-content"><span class="fodicon-triangle-right"></span> Stats &amp; Data</a></div>
+    <div id="more-info-data-content" class="more-info-content">
+        <div class="more-info-line">7 Funny Votes</div>
+        <div class="more-info-line">2 Die Votes</div>
+        <div class="more-info-line">1,971 Views</div>
+      <div class="more-info-line">Published September 18, 2014</div>
+        <div class="more-info-line underline-links"><span class="more_info_label">Categories:</span> <a href="/browse/articles/real_life/all/most_buzz/all_time">Real Life</a></div>
+      <div class="more-info-line underline-links"><span class="more_info_label">Keywords:</span> <a href="http://www.funnyordie.com/topic/comedian">comedian</a> <a href="http://www.funnyordie.com/topic/announcement">announcement</a> <a href="http://www.funnyordie.com/topic/tour">tour</a> <a href="http://www.funnyordie.com/topic/philadelphia">philadelphia</a> <a href="http://www.funnyordie.com/topic/new-york-city">new york city</a> <a href="http://www.funnyordie.com/topic/brooklyn">brooklyn</a> <a href="http://www.funnyordie.com/topic/san-francisco">san francisco</a> <a href="http://www.funnyordie.com/topic/boston">boston</a> <a href="http://www.funnyordie.com/topic/los-angeles">los angeles</a> <a href="http://www.funnyordie.com/topic/hbo">hbo</a> <a href="http://www.funnyordie.com/topic/spike-lee">spike lee</a> <a href="http://www.funnyordie.com/topic/jerrod-carmichael">jerrod carmichael</a></div>
+    </div>
+  </div>
+
+
+</section>
+
+
+
+  <div class="social-buttons-container article-list" style="display: none"></div>
+  </div>
+</header>
+
+
+  <section id="player-and-info-box">
+      <div id="player-container" class="media-container" data-ga-source="player">
+        <div class="article-content">
+
+
+
+      <div class="article-block article-image-block  "><div style="float: center">
+  <figure class="">
+    
+    <img alt="tourannounce.jpg" height="1000" src="http://p.fod4.com/p/media/undefined/MTtSsaKTQMCjnspSZmue_tourannounce.jpg" width="800" />
+    
+  </figure>
+</div>
+</div>
+
+      <div class="article-block article-text-block  "><div class="st-text-align-"><p>We&rsquo;re counting down to Jerrod Carmichael&rsquo;s first HBO special, <em>Love at the Store</em>, with a mini-tour across the United States! Follow Jerrod on <a href="http://www.facebook.com/jerrodcarmichael" rel="nofollow" target="_blank">Facebook</a> for a behind-the-scenes look at the tour, and watch the premiere October 4th at 10 p.m. on HBO.</p>
+
+<p>We&rsquo;ll be giving away VIP tickets in each city, so be sure to follow along on <a href="http://www.facebook.com/jerrodcarmichael" rel="nofollow" target="_blank">Facebook</a> and <a href="http://www.twitter.com/funnyordie" rel="nofollow" target="_blank">Twitter</a>!</p>
+</div>
+</div>
+
+      <div class="article-block article-heading-block  "><h2 class="st-text-align-left"><p>Ticket Info</p>
+</h2></div>
+
+      <div class="article-block article-list-block  "><ul>
+<li>9/24 - PHILADELPHIA - HELIUM COMEDY CLUB (<a href="https://center-stage.seatengine.com/venues/helium-comedy-club/events/5398/shows" rel="nofollow" target="_blank">Tickets</a>)</li>
+<li>9/25 - BROOKLYN - BABY&rsquo;S ALL RIGHT (<a href="http://www.ticketfly.com/purchase/event/688375?utm_medium=bks" rel="nofollow" target="_blank">Tickets</a>)</li>
+<li>9/26 - NEW YORK CITY - THE STAND (<a href="http://thestand.laughstub.com/event.cfm?id=341824&amp;amp;cart" rel="nofollow" target="_blank">Tickets</a>)</li>
+<li>9/28 - BOSTON - JOHNNY D&rsquo;S (<a href="http://thewilbur.com/johnny-d/artist/funny-or-die-jerrod-carmichael/" rel="nofollow" target="_blank">Tickets</a>)</li>
+<li>9/29 - SAN FRANCISCO - PUNCH LINE (<a href="http://concerts.livenation.com/event/1C004D2FE5114E9F" rel="nofollow" target="_blank">Tickets</a>)</li>
+<li>9/30 - LOS ANGELES - THE COMEDY STORE - BELLY ROOM (<a href="http://bit.ly/1n3yjoU" rel="nofollow" target="_blank">Tickets</a>)</li>
+</ul>
+</div>
+
+      <div class="article-block article-text-block  "><div class="st-text-align-"><p>If you can&rsquo;t make these dates, Jerrod will also be in Washington D.C. at the DC Improv, October 3–5 (<a href="http://www.dcimprov.com/home/jerrod-carmichael.html" rel="nofollow" target="_blank">Tickets</a>), back at Punchline in San Francisco October 15–18 (<a href="http://punchlinecomedyclub.com/event-calendar" rel="nofollow" target="_blank">Tickets</a>), and in Chicago at Up Comedy Club November 13-15 (<a href="http://upcomedyclub.com/show.cfm?id=332119&amp;amp;cart" rel="nofollow" target="_blank">Tickets</a>).</p>
+
+<p>AND don&rsquo;t forget to check out Jerrod Carmichael&rsquo;s HBO special, <em>Love at the Store</em>, directed by Spike Lee, premiering October 4th at 10 p.m. on HBO.</p>
+</div>
+</div>
+
+      <div class="article-block article-video-block  ">  <div id="videoContainer" oncontextmenu="return false" onselectstart="return false" ondragstart="return false">
+  <div id="htmlPlayer">
+    <video id="videoPlayer-14c06b976f"
+           class="video-js fod-vjs-default-skin"
+           x-webkit-airplay="allow"
+           width="auto"
+           height="auto"
+           poster="http://t.fod4.com/t/14c06b976f/c480x270_23.jpg"
+           controls>
+      
+  <source src="http://v.fod4.com/i/v/14c06b976f/v,110,200,400,600,1200,1800,2500,4500,.mp4.csmil/master.m3u8?__b__=600" type='application/x-mpegurl'>
+<source src="http://vo.fod4.com/v/14c06b976f/v1280-q2.mp4" type='video/mp4'>
+  <source src="http://vo.fod4.com/v/14c06b976f/v1280-q2.webm" type='video/webm'>
+
+    </video>
+  </div>
+</div>
+<div id="14c06b976f-player-title">
+  <div id="player-title-and-sharing">
+  <div id="player-title-section">
+    <a href="http://www.funnyordie.com/videos/14c06b976f/jerrod-carmichael-love-at-the-store-official-trailer" target="_blank">
+      <h3>Jerrod Carmichael: Love at the Store – Official Trailer</h3>
+</a>  </div>
+  <div id="player-share-section">
+    <ul class="medium-navigation" data-no-turbolink>
+      <li>
+        <div class="button-facebook" data-ga-social="[&quot;facebook&quot;,&quot;share&quot;,&quot;14c06b976f&quot;]" onclick="FB.ui(fb_post);"><span class="fodicon-facebook"></span></div>
+      </li>
+      <li>
+        <div class="button-twitter" data-ga-social="[&quot;twitter&quot;,&quot;share&quot;,&quot;14c06b976f&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=https%3A%2F%2Ftwitter.com%2Fshare%3Furl%3Dhttp%253A%252F%252FFunnyOrDie.com%252Fm%252F97fh\u0026video=14c06b976f&quot;,&quot;t&quot;,&quot;toolbar=0,resizable=0,status=1,width=450,height=430&quot;]"><span class="fodicon-twitter"></span></div>
+      </li>
+      <li>
+        <div class="button-share">
+          <a class="js-menu-link sharing-menu-link" href="#player-share-content"><span class="fodicon-share"></span></a>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div id="player-share-content">
+    
+<div class="short-link-container">
+  <input id="short-link" name="short-link" onclick="javascript:this.focus();this.select();GA.social(&#39;link&#39;,&#39;share&#39;,&#39;14c06b976f&#39;)" readonly="readonly" type="text" value="http://FunnyOrDie.com/m/97fh" />
+</div>
+
+<ul data-no-turbolink>
+  <li>
+    <button class="sidetab-button-facebook" data-ga-social="[&quot;facebook&quot;,&quot;share&quot;,&quot;14c06b976f&quot;]" onclick="FB.ui(fb_post);"><span class="fodicon-facebook"></span></button>
+  </li>
+  <li>
+    <button class="sidetab-button-twitter" data-ga-social="[&quot;twitter&quot;,&quot;share&quot;,&quot;14c06b976f&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=https%3A%2F%2Ftwitter.com%2Fshare%3Furl%3Dhttp%253A%252F%252FFunnyOrDie.com%252Fm%252F97fh\u0026video=14c06b976f&quot;,&quot;t&quot;,&quot;toolbar=0,resizable=0,status=1,width=450,height=430&quot;]"><span class="fodicon-twitter"></span></button>
+  </li>
+  <li>
+    <button class="sidetab-button-tumblr" data-ga-social="[&quot;tumblr&quot;,&quot;share&quot;,&quot;14c06b976f&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=http%253A%252F%252Fwww.tumblr.com%252Fshare%252Fvideo%253Fembed%253D%25253Ciframe%252520src%25253D%252522http%25253A%25252F%25252Fwww.funnyordie.com%25252Fembed%25252F14c06b976f%252522%252520width%25253D%252522640%252522%252520height%25253D%252522400%252522%252520frameborder%25253D%2525220%252522%252520allowfullscreen%252520webkitallowfullscreen%252520mozallowfullscreen%25253E%25253C%25252Fiframe%25253E%2526caption%253D%25253Ca%252520href%25253D%252522http%25253A%25252F%25252Fwww.funnyordie.com%25252Fvideos%25252F14c06b976f%25252Fjerrod-carmichael-love-at-the-store-official-trailer%252522%252520title%25253D%252522%252527from%252520Jerrod%252520Carmichael%252522%25253EJerrod%252520Carmichael%25253A%252520Love%252520at%252520the%252520Store%252520%2525E2%252580%252593%252520Official%252520Trailer%25253C%25252Fa%25253E%252520-%252520watch%252520more%252520%25253Ca%252520href%25253D%252522http%25253A%25252F%25252Fwww.funnyordie.com%25252F%252522%252520title%25253D%252522on%252520Funny%252520or%252520Die%252522%25253Efunny%252520videos%25253C%25252Fa%25253E%252520%252520%252520%252520%252520%252520%25253Ciframe%252520src%25253D%252522http%25253A%25252F%25252Fwww.facebook.com%25252Fplugins%25252Flike.php%25253Fapp_id%25253D138711277798%252526amp%25253Bhref%25253Dhttp%2525253A%2525252F%2525252Fwww.funnyordie.com%2525252Fvideos%2525252F14c06b976f%2525252Fjerrod-carmichael-love-at-the-store-official-trailer%252526amp%25253Bsend%25253Dfalse%252526amp%25253Blayout%25253Dbutton_count%252526amp%25253Bwidth%25253D150%252526amp%25253Bshow_faces%25253Dfalse%252526amp%25253Baction%25253Dlike%252526amp%25253Bheight%25253D21%252522%252520scrolling%25253D%252522no%252522%252520frameborder%25253D%2525220%252522%252520style%25253D%252522border%25253Anone%25253B%252520overflow%25253Ahidden%25253B%252520width%25253A90px%25253B%252520height%25253A21px%25253B%252520vertical-align%25253Amiddle%25253B%252522%252520allowTransparency%25253D%252522true%252522%25253E%25253C%25252Fiframe%25253E%25250A\u0026video=14c06b976f&quot;,&quot;t&quot;,&quot;toolbar=0,resizable=0,status=1,width=450,height=430&quot;]"><span class="fodicon-tumblr"></span></button>
+  </li>
+  <li>
+    <button class="sidetab-button-google-plus" data-ga-social="[&quot;google_plus&quot;,&quot;share&quot;,&quot;14c06b976f&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=https%253A%252F%252Fplus.google.com%252Fshare%253Furl%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Fvideos%25252F14c06b976f%25252Fjerrod-carmichael-love-at-the-store-official-trailer\u0026video=14c06b976f&quot;,&quot;t&quot;,&quot;toolbar=0,resizable=0,status=1,width=450,height=430&quot;]"><span class="fodicon-google-plus"></span></button>
+  </li>
+  <li>
+    <button class="sidetab-button-stumble" data-ga-social="[&quot;stumble_upon&quot;,&quot;share&quot;,&quot;14c06b976f&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=http%253A%252F%252Fwww.stumbleupon.com%252Fsubmit%253Furl%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Fvideos%25252F14c06b976f%25252Fjerrod-carmichael-love-at-the-store-official-trailer%2526title%253DJerrod%252520Carmichael%25253A%252520Love%252520at%252520the%252520Store%252520%2525E2%252580%252593%252520Official%252520Trailer\u0026video=14c06b976f&quot;,&quot;_blank&quot;,&quot;location=0,status=0,scrollbars=1,menubar=0,resizable=1,width=450,height=640&quot;]"><span class="fodicon-stumbleupon"></span></button>
+
+  </li>
+  <li>
+      <button class="sidetab-button-reddit" data-ga-social="[&quot;reddit&quot;,&quot;share&quot;,&quot;14c06b976f&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=http%253A%252F%252Fwww.reddit.com%252Fsubmit%253Furl%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Fvideos%25252F14c06b976f%25252Fjerrod-carmichael-love-at-the-store-official-trailer\u0026video=14c06b976f&quot;,&quot;_blank&quot;,&quot;location=0,status=0,scrollbars=1,menubar=0,resizable=1,width=450,height=640&quot;]"><span class="fodicon-reddit"></span></button>
+  </li>
+  <li>
+      <button class="sidetab-button-pinterest" data-ga-social="[&quot;pinterest&quot;,&quot;share&quot;,&quot;14c06b976f&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=http%253A%252F%252Fwww.pinterest.com%252Fpin%252Fcreate%252Fbutton%252F%253Furl%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Fvideos%25252F14c06b976f%25252Fjerrod-carmichael-love-at-the-store-official-trailer%2526media%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Fthumbnails%25252F14c06b976f%25252Ffullsize%2526description%253DJerrod%252520Carmichael%25253A%252520Love%252520at%252520the%252520Store%252520%2525E2%252580%252593%252520Official%252520Trailer\u0026video=14c06b976f&quot;,&quot;_blank&quot;,&quot;location=0,status=0,scrollbars=1,menubar=0,resizable=1,width=450,height=640&quot;]"><span class="fodicon-pinterest"></span></button>
+  </li>
+  <li>
+    <div class="sidetab-button-email js-email-button" href="/share/email_medium/429533" data-fod-url="http://www.funnyordie.com/videos/14c06b976f/jerrod-carmichael-love-at-the-store-official-trailer"><span class="fodicon-envelope"></span></div>
+  </li>
+    <li>
+      <div class="sidetab-button-embed"><span class="fodicon-embed" id="js-player-embed-text"></span></div>
+    </li>
+</ul>
+
+<div class="embed-area">
+  <textarea class="embed-textarea" cols="50" id="embed_textarea" name="embed_textarea" onclick="javascript:this.focus();this.select();GA.social(&#39;embed&#39;,&#39;share&#39;,&#39;14c06b976f&#39;)" rows="10">
+&lt;iframe src=&quot;http://www.funnyordie.com/embed/14c06b976f&quot; width=&quot;640&quot; height=&quot;400&quot; frameborder=&quot;0&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt;&lt;/iframe&gt;&lt;div style=&quot;text-align:left;font-size:x-small;margin-top:0;width:640px;&quot;&gt;&lt;a href=&quot;http://www.funnyordie.com/videos/14c06b976f/jerrod-carmichael-love-at-the-store-official-trailer&quot; title=&quot;&#39;from Jerrod Carmichael&quot;&gt;Jerrod Carmichael: Love at the Store – Official Trailer&lt;/a&gt; - watch more &lt;a href=&quot;http://www.funnyordie.com/&quot; title=&quot;on Funny or Die&quot;&gt;funny videos&lt;/a&gt;      &lt;iframe src=&quot;http://www.facebook.com/plugins/like.php?app_id=138711277798&amp;amp;href=http%3A%2F%2Fwww.funnyordie.com%2Fvideos%2F14c06b976f%2Fjerrod-carmichael-love-at-the-store-official-trailer&amp;amp;send=false&amp;amp;layout=button_count&amp;amp;width=150&amp;amp;show_faces=false&amp;amp;action=like&amp;amp;height=21&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;border:none; overflow:hidden; width:90px; height:21px; vertical-align:middle;&quot; allowTransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;</textarea>
+</div>
+
+
+  </div>
+</div>
+
+</div>
+
+</div>
+
+
+  <div class="votatron-wrapper"><style type="text/css">
+  .votatron3000.votatron-funny-hover .funny-bar {
+    width: 81% !important;
+  }
+  .votatron3000.votatron-die-hover .funny-bar {
+    width: 75% !important;
+  }
+</style>
+
+
+<div class="votatron3000 disabled">
+  <div class="funny-bar" style="width: 78%;"></div>
+  <a class="vote-funny js-vote fodicon-logo-funny" data-no-turbolink="true" data-vote-value="funny" href="/articles/274dae83ed/jerrod-carmichael-s-love-at-the-store-tour"></a>
+  <a class="vote-die js-vote fodicon-logo-die" data-no-turbolink="true" data-vote-value="die" href="/articles/274dae83ed/jerrod-carmichael-s-love-at-the-store-tour"></a>
+</div>
+
+</div>
+</div>
+
+      </div>
+  </section>
+
+  <section id="under-content">
+    <div class="content-page-mrec-container">
+      <div class="content-page-mrec">
+        <div class="ad-title"><small>Advertisement</small></div>
+        
+<div id="ad-3934f74a0f4daa128b8dcd4167231d36" align="center" style="padding: 0; margin: 0; border: 0; overflow: hidden;" data-ad-hash='{ "id": "3934f74a0f4daa128b8dcd4167231d36", "url": "http://ads.funnyordie.com/html.ng/site=funnyordie&fod_pos=300x250_rgt&fod_viewkey=274dae83ed&fod_rollup=articles_show&params.styles=fs&page.allowcompete=no", "height": "250", "width": "300", "pos": "300x250_rgt", "sync": "true" }'></div>
+
+      </div>
+    </div>
+
+    <!-- Tabbed Comments -->
+    <div class="comments">
+      <div class="social-desktop-panel ">
+  <ul class="social-bar medium-navigation" data-no-turbolink>
+    <li>
+      <div class="button-facebook" data-ga-social="[&quot;facebook&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" onclick="FB.ui(fb_post);"><span class="fodicon-facebook"></span></div>
+    </li>
+    <li>
+      <div class="button-twitter" data-ga-social="[&quot;twitter&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=https%253A%252F%252Ftwitter.com%252Fshare%253Furl%253Dhttp%25253A%25252F%25252FFunnyOrDie.com%25252Fm%25252F97f3\u0026video=274dae83ed&quot;,&quot;t&quot;,&quot;toolbar=0,resizable=0,status=1,width=450,height=430&quot;]"><span class="fodicon-twitter"></span></div>
+    </li>
+    <li>
+      <div class="button-tumblr" data-ga-social="[&quot;tumblr&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=http%253A%252F%252Fwww.tumblr.com%252Fshare%252Fphoto%253Fsource%253Dhttp%25253A%25252F%25252Fp.fod4.com%25252Fp%25252Fmedia%25252F274dae83ed%25252Fc%25253Dsq%25252Fs%25253Dw700%25252Fo%25253D90%25252FWxKtc84nRuJdfvGxMhHE_JC-BW.jpeg%2526caption%253DJerrod%252520Carmichael%25253A%252520Love%252520at%252520the%252520Store%252520%2525E2%252580%252593%252520Tour%252521%2526clickthru%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Farticles%25252F274dae83ed%25252Fjerrod-carmichael-s-love-at-the-store-tour\u0026video=274dae83ed&quot;,&quot;t&quot;,&quot;toolbar=0,resizable=0,status=1,width=450,height=430&quot;]"><span class="fodicon-tumblr"></span></div>
+    </li>
+    <li>
+      <div class="button-google-plus" data-ga-social="[&quot;google_plus&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=https%253A%252F%252Fplus.google.com%252Fshare%253Furl%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Farticles%25252F274dae83ed%25252Fjerrod-carmichael-s-love-at-the-store-tour\u0026video=274dae83ed&quot;,&quot;t&quot;,&quot;toolbar=0,resizable=0,status=1,width=450,height=430&quot;]"><span class="fodicon-google-plus"></span></div>
+    </li>
+    <li>
+      <div class="button-stumble" data-ga-social="[&quot;stumble_upon&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=http%253A%252F%252Fwww.stumbleupon.com%252Fsubmit%253Furl%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Farticles%25252F274dae83ed%25252Fjerrod-carmichael-s-love-at-the-store-tour%2526title%253DJerrod%252520Carmichael%25253A%252520Love%252520at%252520the%252520Store%252520%2525E2%252580%252593%252520Tour%252521\u0026video=274dae83ed&quot;,&quot;_blank&quot;,&quot;location=0,status=0,scrollbars=1,menubar=0,resizable=1,width=450,height=640&quot;]"><span class="fodicon-stumbleupon"></span></div>
+
+    </li>
+    <li>
+      <div class="button-reddit" data-ga-social="[&quot;reddit&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=http%253A%252F%252Fwww.reddit.com%252Fsubmit%253Furl%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Farticles%25252F274dae83ed%25252Fjerrod-carmichael-s-love-at-the-store-tour\u0026video=274dae83ed&quot;,&quot;_blank&quot;,&quot;location=0,status=0,scrollbars=1,menubar=0,resizable=1,width=450,height=640&quot;]"><span class="fodicon-reddit"></span></div>
+    </li>
+
+    <li>
+      <div class="button-pinterest" data-ga-social="[&quot;pinterest&quot;,&quot;share&quot;,&quot;274dae83ed&quot;]" data-popup="[&quot;http://www.funnyordie.com/jump_to?url=http%253A%252F%252Fwww.pinterest.com%252Fpin%252Fcreate%252Fbutton%252F%253Furl%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Farticles%25252F274dae83ed%25252Fjerrod-carmichael-s-love-at-the-store-tour%2526media%253Dhttp%25253A%25252F%25252Fwww.funnyordie.com%25252Fthumbnails%25252F274dae83ed%25252Ffullsize%2526description%253DJerrod%252520Carmichael%25253A%252520Love%252520at%252520the%252520Store%252520%2525E2%252580%252593%252520Tour%252521\u0026video=274dae83ed&quot;,&quot;_blank&quot;,&quot;location=0,status=0,scrollbars=1,menubar=0,resizable=1,width=450,height=640&quot;]"><span class="fodicon-pinterest"></span></div>
+    </li>
+    <li>
+      <div class="button-email social-button-email js-email-button" href="/share/email_medium/429519" data-fod-url="http://www.funnyordie.com/articles/274dae83ed/jerrod-carmichael-s-love-at-the-store-tour">
+        <span class="fodicon-envelope"></span>
+      </div>
+    </li>
+  </ul>
+</div>
+      <div class="social-cover">
+          <a class="active" href="#" id="comments">
+            <fb:comments-count href="http://www.funnyordie.com/articles/274dae83ed/jerrod-carmichael-s-love-at-the-store-tour"></fb:comments-count><span>Comments</span>
+</a>          <a href="#" id="related">Browse Related</a>
+      </div>
+      <section id="carousel" class="inactive" data-carousel='discovery' data-ga-source="discovery-carousel">
+        
+
+<nav>
+  
+<div class="scrollable-container">
+  <div class="scrollbar-hider">
+    <div class="scrollable-region">
+      <div class="scrollable-content" style="width: 330px" data-scroll-increment="110">
+        
+    <!-- Discoverable playlists -->
+
+    <!-- Recommended by FOD Staff -->
+
+    <!-- Channels -->
+      
+<article class="tab channel">
+
+
+    <a class="hover-link" href="/jerrod_carmichael">
+      8+ more
+      <span class="see-all">View All &nbsp;&#9654;</span>
+</a>
+    <a class="head js-carousel-link" href="/carousel/274dae83ed/channel/1203497">
+      <img class="js-resrc" data-src="http://r.fod4.com/c=sq/o=80/http://p.fod4.com/p/channels/ewicu/profile/s=w1200/o=95/6QT6iS8WRwKhXcOJXyLt_jerrod-carmichael-facebook-avatar_600x600.jpg" src="http://w.fod4.com/assets/fodblank-0fb4ab3d788716fc05fa9946819695be.gif" />
+      <span class="break-word">Jerrod Carmichael</span>
+</a>
+
+</article>
+
+    <!-- Vaguely Related By FOD Computers -->
+      
+
+    
+<article class="tab generic-picturesandwords">
+
+
+    <a class="head js-carousel-link" href="/carousel/274dae83ed/related/PicturesAndWords">
+      <span>Vaguely Related<br />Pics & Words</span>
+</a>
+
+</article>
+
+
+      
+
+    
+<article class="tab generic-video">
+
+
+    <a class="head js-carousel-link" href="/carousel/274dae83ed/related/Video">
+      <span>Vaguely Related Videos</span>
+</a>
+
+</article>
+
+
+
+      </div>
+    </div>
+  </div>
+  <a href="#" class="scrollable-control right js-scroll"><span class="fodicon-chevron-right"></span></a>
+  <a href="#" class="scrollable-control left js-scroll disabled"><span class="fodicon-chevron-left"></span></a>
+</div></nav>
+
+<section>
+  
+<div class="scrollable-container">
+  <div class="scrollbar-hider">
+    <div class="scrollable-region">
+      <div class="scrollable-content" style="width: 0px" data-scroll-increment="290">
+        
+      </div>
+    </div>
+  </div>
+  <a href="#" class="scrollable-control right js-scroll"><span class="fodicon-chevron-right"></span></a>
+  <a href="#" class="scrollable-control left js-scroll disabled"><span class="fodicon-chevron-left"></span></a>
+</div>
+  <div class="fod-spinner position-centered">
+  <div class="fod-spinner-logo mega-fodicon fodicon-logo-abbr">
+    <div class="fod-spinner-o-wrap mega-fodicon fodicon-logo-o">
+      <div class="fod-spinner-o-spin mega-fodicon fodicon-logo-o">
+        <span class="mega-fodicon fodicon-logo-o"></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+</section>
+
+      </section>
+        <div class="fb-comments active" data-href="http://www.funnyordie.com/articles/274dae83ed/jerrod-carmichael-s-love-at-the-store-tour" data-colorscheme="light" data-num-posts="10"></div>
+    </div>
+
+  </section>
+
+  <div class="content" data-ga-source="channel-carousel">
+    
+  </div>
+
+  <div class="content">
+      <div class="content-page-mrec content-page-short-mrec">
+        <div class="ad-title"><small>Advertisement</small></div>
+        
+<div id="ad-e3e8b2748b69f26880b788bc0252b115" align="center" style="padding: 0; margin: 0; border: 0; overflow: hidden;" data-ad-hash='{ "id": "e3e8b2748b69f26880b788bc0252b115", "url": "http://ads.funnyordie.com/html.ng/site=funnyordie&fod_pos=300x100_spon&fod_viewkey=274dae83ed&fod_rollup=articles_show&params.styles=fs&page.allowcompete=no", "height": "100", "width": "300", "pos": "300x100_spon", "sync": "false" }'></div>
+
+      </div>
+
+        <div class="zerg-widget">
+  <h3>From Around the Web <span class="fodicon-globe"></span></h3>
+  <div id="zergnet-widget-16396" style="text-align:center;">
+    <a class="zerg-widget-link" href="http://www.zergnet.com/?w=16396" rel="nofollow" target="_blank"><b>ZergNet</b></a>
+  </div>
+  <script language="javascript" type="text/javascript">
+    (function() {
+      var zergnet = document.createElement('script');
+      zergnet.type = 'text/javascript'; zergnet.async = true;
+      zergnet.src = 'http://www.zergnet.com/zerg.js?id=16396';
+      var znscr = document.getElementsByTagName('script')[0];
+      znscr.parentNode.insertBefore(zergnet, znscr);
+    })();
+  </script>
+</div>
+
+
+  </div>
+
+</article>
+
+  <section class="js-infinite-container" >
+  <div class="js-infinite-item">
+    
+  
+    <h3 class="featured-media-header">Featured Today</h3>
+
+
+  </div>
+  <a class="infinite-more-link js-infinite-more-link" href="/?_rc=articles&amp;_v=20141003182333&amp;page=1">More</a>
+  <div class="infinite-loading-spinner">
+    <div class="fod-spinner ">
+  <div class="fod-spinner-logo mega-fodicon fodicon-logo-abbr">
+    <div class="fod-spinner-o-wrap mega-fodicon fodicon-logo-o">
+      <div class="fod-spinner-o-spin mega-fodicon fodicon-logo-o">
+        <span class="mega-fodicon fodicon-logo-o"></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>
+</section>
+  </div>
+  <footer id="footer">
+  <div class="content">
+    <ul class="footer-nav-list">
+      <li><a href="/about">About Us</a></li>
+      <li><a data-popup="true" href="/support/kb" rel="nofollow">Help / FAQs</a></li>
+      <li><a href="/about/terms">Terms of Use</a></li>
+      <li><a href="/about/privacy">Privacy Policy</a></li>
+      <li><a href="/about/advertising">Advertise</a></li>
+      <li>&nbsp;</li>
+      <li><a href="/browse/videos/all/all/most_recent/all_time">Most Recent Videos</a></li>
+      <li><a href="/browse/articles/all/all/most_recent/all_time">Most Recent Articles</a></li>
+      <li><a href="/browse/videos/all/all/most_viewed/all_time">Most Viewed Videos</a></li>
+      <li><a href="/browse/articles/all/all/most_viewed/all_time">Most Viewed Articles</a></li>
+      <li><a href="/browse/slideshows/all/all/most_viewed/all_time">Most Viewed Slideshows</a></li>
+      <li></li>
+    </ul>
+    <ul class="footer-nav-list">
+      <li><a href="/">Funny Videos</a></li>
+      <li><a href="/celebrity_videos">Celebrity Videos</a></li>
+      <li><a href="/videos"><span class="fodicon-logo-abbr"></span> Videos</a></li>
+      <li><a href="/articles"><span class="fodicon-logo-abbr"></span> Articles</a></li>
+      <li><a href="/images"><span class="fodicon-logo-abbr"></span> Images</a></li>
+      <li><a href="/billyonthestreet">Billy on the Street</a></li>
+      <li><a href="/between_two_ferns">Between Two Ferns</a></li>
+      <li><a href="/theoccasional">The Occassional</a></li>
+      <li><a href="/community">Community</a></li>
+      <li><a href="/drunkhistory">Drunk History</a></li>
+      <li><a href="/music">Music</a></li>
+    </ul>
+    <ul class="footer-celeb-list">
+      <li><a href="/will_ferrell">Will Ferrell</a></li>
+      <li><a href="/judd_apatow">Judd Apatow</a></li>
+      <li><a href="/adam_mckay">Adam McKay</a></li>
+      <li><a href="/chris_henchy">Chris Henchy</a></li>
+      <li><a href="/benstiller">Ben Stiller</a></li>
+      <li><a href="/charlize_theron">Charlize Theron</a></li>
+      <li><a href="/don_cheadle">Don Cheadle</a></li>
+      <li><a href="/emma_stone">Emma Stone</a></li>
+      <li><a href="/videos/5216488a3b/eva-longoria-sex-tape-from-perry-hilton">Eva Longoria</a></li>
+      <li><a href="/eva_mendes">Eva Mendes</a></li>
+    </ul>
+    <ul class="footer-celeb-list">
+      <li><a href="/alyssa_milano">Alyssa Milano</a></li>
+      <li><a href="/james_franco">James Franco</a></li>
+      <li><a href="/johnmayer">John Mayer</a></li>
+      <li><a href="/justin_bieber">Justin Bieber</a></li>
+      <li><a href="/kate_beckinsale">Kate Beckinsale</a></li>
+      <li><a href="/kristen_bell">Kristen Bell</a></li>
+      <li><a href="/lindsay_lohan">Lindsay Lohan</a></li>
+      <li><a href="/marion_cotillard">Marion Cotillard</a></li>
+      <li><a href="/natalie_portman">Natalie Portman</a></li>
+      <li><a href="/oliviamunn">Olivia Munn</a></li>
+    </ul>
+    <ul class="footer-celeb-list">
+      <li><a href="/nick_offerman">Nick Offerman</a></li>
+      <li><a href="/jackblack">Jack Black</a></li>
+      <li><a href="/paris_hilton">Paris Hilton</a></li>
+      <li><a href="/ron_howard">Ron Howard</a></li>
+      <li><a href="/ryan_reynolds">Ryan Reynolds</a></li>
+      <li><a href="/sarah_silverman">Sarah Silverman</a></li>
+      <li><a href="/selena_gomez">Selena Gomez</a></li>
+      <li><a href="/willarnett">Will Arnett</a></li>
+      <li><a href="/zac_efron">Zac Efron</a></li>
+      <li><a href="/zachgalifianakis">Zach Galifianakis</a></li>
+    </ul>
+  </div>
+  <small id="copyright-line">
+    Copyright &copy; 2014 Funny or Die Inc. All rights reserved. Part of the Turner Entertainment Digital Network.
+  </small>
+</footer>
+
+  <script src="http://w.fod4.com/assets/google_analytics-48a5b96ffa815ac1f0765a12985f10dc.js"></script>
+  <script data-turbolinks-eval="false" data-turbolinks-track="true" src="http://w.fod4.com/assets/application-328e0730924bc3fc2deb770213bfec17.js"></script>
+  <script data-turbolinks-eval="false" data-turbolinks-track="true" src="http://w.fod4.com/assets/fod_ad_utils-9144474a50fa785d3faafa2a25d8bd34.js"></script>
+  
+  <script async="async" data-turbolinks-eval="false" src="https://apis.google.com/js/client:plusone.js?onload=gplusLoadCallback"></script>
+<script async="async" data-turbolinks-eval="false" src="https://connect.facebook.net/en_US/all.js"></script>
+
+  
+<div id="ad-9f79cb497624e4bf56b28cdc506546f1" align="center" style="padding: 0; margin: 0; border: 0; overflow: hidden;" data-ad-hash='{ "id": "9f79cb497624e4bf56b28cdc506546f1", "url": "http://ads.funnyordie.com/html.ng/site=funnyordie&fod_pos=BG_Skin&fod_viewkey=274dae83ed&fod_rollup=articles_show&params.styles=fs&page.allowcompete=no", "height": "", "width": "", "pos": "BG_Skin", "sync": "true" }'></div>
+
+  
+  
+    <script type="text/javascript">
+      (function(){
+        var setMedia = function() {
+          FOD.currentMedia = new FOD.Media({
+            viewkey: "274dae83ed",
+            sponsored: false,
+            publishState: "published",
+            showing: true,
+            viewable: true,
+            votingAlowed: true,
+            playerPage: "http://www.funnyordie.com/articles/274dae83ed/jerrod-carmichael-s-love-at-the-store-tour"
+          });
+        }
+        setMedia();
+        $(document).one('page:fetch', function(){
+          FOD.currentMedia = null;
+        });
+        $(document.body).on('body:restore', function(){
+          setMedia();
+        });
+      })();
+      fb_post = {"method":"feed","name":"Jerrod Carmichael: Love at the Store – Tour!","picture":"http://p.fod4.com/p/media/274dae83ed/c=sq/s=w700/o=90/WxKtc84nRuJdfvGxMhHE_JC-BW.jpeg","link":"http://www.funnyordie.com/articles/274dae83ed/jerrod-carmichael-s-love-at-the-store-tour","description":"We're counting down to Jerrod Carmichael's first HBO special, 'Love at the Store,' with a mini-tour across the United States! Follow Jerrod on Facebook (facebook.com/JerrodCarmichael) for a behind-the-scenes look at the tour, and watch the premiere October 4th at 10 p.m. on HBO.","actions":[{"name":"See more articles","link":"http://www.funnyordie.com/"}]};
+    </script>
+
+  <script type="text/javascript">
+    (function() {
+      var touched = false;
+      GA.event('fod-player:onsite:article-embed', 'impression', '14c06b976f');
+      var videoMedium = new FOD.Media({
+        viewkey: '14c06b976f',
+        sponsored: false,
+        publishState: "published",
+        viewable: true,
+        votingAlowed: true,
+        playerPage: "http://www.funnyordie.com/videos/14c06b976f/jerrod-carmichael-love-at-the-store-official-trailer"
+      });
+      videojs('videoPlayer-14c06b976f', {
+        techOrder: ['html5'],
+        plugins: {
+          makeEmbed: { add_play_button: true }
+        }
+      }).ready(function() {
+        var player = this;
+
+        $(player.el()).append($('#14c06b976f-player-title'));
+        player.on('firstplay', function() {
+          videoMedium.touch();
+          player.heartBeat({
+            enabled: true,
+            viewkey: '14c06b976f',
+            playerName: 'fod-player:onsite:article-embed'
+          });
+          $.getScript('http://b.scorecardresearch.com/beacon.js', function() {
+            COMSCORE.beacon({
+              c1: 1,
+              c2: "6035215",
+              c5: "02",
+              c6: "&quot;Jerrod Carmichael: Love at the Store – Official Trailer&quot;"
+            });
+          });
+
+          videoCensus('Jerrod Carmichael: Love at the Store – Official Trailer');
+        });
+      });
+    })();
+  </script>
+<script type="text/javascript">
+  $(document.body).on('body:change', function() {
+    FOD.currentMedia.enableVotatron();
+    FOD.currentMedia.touch();
+  });
+</script>
+
+  <script type="text/javascript" charset="utf-8">
+      GA.setUploader("amyeicher");
+    ga('set', 'dimension5', 'amyeicher'); // Uploader
+        ga('set', 'metric1', '15'); //Days Since Published
+        ga('set', 'metric3', '1323553'); //Time Since Published
+
+  var page = window.location.pathname + window.location.search;
+  GA.page(page);
+</script>
+
+<!-- Snowplow starts plowing -->
+<script type="text/javascript">
+  (function (p, l, o, w, i, n, g) {
+    if (!p[i]) {
+      p.GlobalSnowplowNamespace = p.GlobalSnowplowNamespace || [];
+      p.GlobalSnowplowNamespace.push(i);
+      p[i] = function () {
+        (p[i].q = p[i].q || []).push(arguments)
+      };
+      p[i].q = p[i].q || [];
+      n = l.createElement(o);
+      g = l.getElementsByTagName(o)[0];
+      n.async = 1;
+      n.src = w;
+      g.parentNode.insertBefore(n, g)
+    }
+  }(window, document, "script", "//d1fc8wv8zag5ca.cloudfront.net/2.0.0/sp.js", "snowplow"));
+  window.snowplow('newTracker', 'cf', 'collector.funnyordie.com', {
+    // Initialise a tracker
+    appId: 'FOD-production',
+    // Site ID can be anything you want. Set it if you're tracking more than one site in this account
+    platform: 'web' });
+  window.snowplow('enableActivityTracking', 30, 30); // Ping every 30 seconds after 30 seconds
+  window.snowplow('enableLinkClickTracking');
+  window.snowplow('trackPageView', null);
+</script>
+<!-- Snowplow stops plowing -->
+
+
+  <!-- Begin comScore Tag -->
+<script type="text/javascript">
+  $.getScript('http://b.scorecardresearch.com/beacon.js', function() {
+    COMSCORE.beacon({
+      c1: 2,
+      c2: "6035215",
+      c4:"http://www.funnyordie.com/articles/274dae83ed/jerrod-carmichael-s-love-at-the-store-tour"
+    });
+  }).fail(function(jqxhr, settings, exception) {
+    console.error("Comscore Error: " + exception.message);
+  });
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035215&c3=&c4=http%3A%2F%2Fwww.funnyordie.com%2Farticles%2F274dae83ed%2Fjerrod-carmichael-s-love-at-the-store-tour&c5=&c6=&c15=&cj=1" style="display:none" width="0" height="0" alt="" />
+</noscript>
+<!-- End comScore Tag -->
+
+  <!-- PageGen: 2014-10-03 20:58:08 -0500 -->
+</body>
+</html>
+

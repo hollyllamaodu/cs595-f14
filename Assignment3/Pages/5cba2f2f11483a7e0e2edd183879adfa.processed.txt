@@ -1,0 +1,456 @@
+   #[1]publisher
+
+   [2]Kivy logo Kivy logo
+     * [3]Home
+     * [4]Contest
+     * [5]Download
+     * [6]Gallery
+     * [7]Support
+     * [8]About
+     * [9]Docs
+     * [10]Blog
+
+Kivy - Open source Python library for rapid development of applications
+that make use of innovative user interfaces, such as multi-touch apps.
+
+Cross platform
+
+   Kivy runs on Linux, Windows, OS X, Android and iOS. You can run the
+   same code on all supported platforms.
+
+   It can use natively most inputs, protocols and devices including
+   WM_Touch, WM_Pen, Mac OS X Trackpad and Magic Mouse, Mtdev, Linux
+   Kernel HID, TUIO. A multi-touch mouse simulator is included.
+
+Business Friendly
+
+   Kivy is 100% free to use, under an MIT license (starting from 1.7.2)
+   and LGPL 3 for the previous versions. The toolkit is professionally
+   developed, backed and used. You can use it in a commercial product.
+
+   The framework is stable and has a well documented API, plus a
+   programming guide to help you get started.
+
+GPU Accelerated
+
+   The graphics engine is built over OpenGL ES 2, using a modern and fast
+   graphics pipeline.
+
+   The toolkit comes with more than 20 widgets, all highly extensible.
+   Many parts are written in C using Cython, and tested with regression
+   tests.
+
+Be social !
+
+   [11]publisher
+
+Usage example
+
+   See how easy it is to create a simple Hello World application that just
+   shows an actionable button:
+from kivy.app import App
+from kivy.uix.button import Button
+
+class TestApp(App):
+    def build(self):
+        return Button(text='Hello World')
+
+TestApp().run()
+
+Result
+
+   Result of the example
+
+Download
+
+   The current version is 1.8.0, released on Jan 30th, 2014. [12]Read the
+   Changelog.
+   Operating System File Instructions Size
+   Windows 7 Windows 7, 8 (32/64 bit) [13]Kivy-1.8.0-py2.7-win32.zip
+   ([14]Mirror)
+   [15]Kivy-1.8.0-py3.3-win32.zip ([16]Mirror) [17]Installation for
+   Windows 126MB
+   129MB
+   MacOSX Mac OS X 10.7, 10.8, 10.9
+   (requires Python 2.7) [18]Kivy-1.8.0-osx.dmg ([19]Mirror)
+   [20]Installation for MacOSX 34 Mb
+   Linux Linux (tested Ubuntu > 13.04, 32/64 bit, Maegia, Arch)
+   [21]Kivy-1.8.0.tar.gz [22]Installation for Ubuntu 13 Mb
+   Ubuntu Ubuntu PPA
+
+   [23]Stable PPA
+   [24]Daily PPA
+   [25]How to use software from PPA 12 Mb
+   Opensuse Opensuse
+
+   [26]One-Click-Installation for Factory
+   [27]One-Click-Installation for 13.1
+   [28]One-Click-Installation for 12.3
+   [29]One-Click-Installation for 12.2
+   [30]One-Click-Installation for Tumbleweed
+
+   [31]Installation-guide for OpenSuSE
+   Unknown
+   Fedora Fedora
+
+   [32]Repository for Fedora 18
+   [33]Repository for Fedora 17
+   [34]Repository for Fedora 16
+
+   [35]Installation-guide for Fedora
+   Unknown
+   Mandriva Fedora
+
+   [36]Repository for Mandriva 2011
+   No documentation available Unknown
+   Android Android (>= 2.2, with OpenGL ES 2) [37]Kivy Laucher 1.7.1 (
+   [38]APK ) [39]Packaging for Kivy Launcher 13 Mb
+   Meego Meego [40]Kivy COBS Packages 12 Mb
+
+Android
+
+   Demo examples are published on the Android market:
+     * [41]Touchtracer
+     * [42]Showcase
+     * [43]Pictures
+
+   Create you own APK by following the documentation about [44]Packaging
+   for Android
+
+IOS
+
+   We haven't published our demos, but the winner of Kivy game contest #1
+   have been packaged for IOS: [45]Deflectouch on iTunes.
+
+   Read the documentation about [46]Packaging for IOS
+
+Virtual Machine
+
+   A Virtual Machine with Android SDK and NDK and all other pre-requisites
+   pre installed to ease apk generation:
+     * [47]Kivy Python for android VM
+     * Or select the [48]Torrent
+
+   Please note that we can't keep the image updated all the time, so if
+   you encounter issues, the first thing to do it to follow instructions
+   on the README file to update it.
+
+Source code
+
+git clone [49]http://github.com/kivy/kivy
+
+   Take a look at our instructions on [50]Installation of Development
+   version.
+
+Community Support
+
+     * Read our [51]documentation
+     * Report a bug or request a feature in our [52]issue tracker
+     * Ask your questions on the [53]Kivy users forums
+     * Or send a mail at [54]kivy-users@googlegroups.com
+
+   You can also try to contact us on IRC (online chat), but make sure to
+   [55]read the IRC rules before connecting. [56]Connect to Webchat
+
+Commercial Support
+
+   Available soon.
+
+Licenses
+
+   [57]Kivy logo have been done by Vincent Autin. The logo is placed under
+   [58][88x31.png]
+
+   All the screenshots on the website that came from the Kivy's examples
+   are under the Public Domain.
+
+   All the screenshots in the [59]Gallery are from their respective
+   owners. Contact them first if you want to use the content.
+
+About us
+
+   Kivy is a community project, led by professional software developers.
+   We are responsible for developing and supporting Kivy, alongside of the
+   community. We also work for companies that use Kivy for their
+   professional products.
+
+   Core developers
+
+          + Mathieu
+            [60]Mathieu Virbel [61]mail [62]google Plus [63]facebook
+            [64]twitter
+            He became a programming expert from working in IT for years
+            before starting with Kivy. He's French, and founded
+            [65]Melting Rocks.
+            On IRC, he's tito.
+          + Thomas
+            [66]Thomas Hansen [67]mail [68]google Plus [69]facebook
+            [70]twitter
+            He holds a BSc in Computer Science, pursues a PhD and
+            co-founded [71]fresk, a company using Kivy. He lives in the
+            US.
+            On IRC, he's hansent.
+          + Gabriel
+            [72]Gabriel Pettier [73]mail [74]google Plus [75]twitter
+            He is an Information Systems engineer and working at
+            [76]Tangible Display, an NUI/innovative interactions company.
+            He lives in France.
+            On IRC, he's tshirtman.
+          + Akshay
+            [77]Akshay Arora [78]mail [79]facebook
+            He is freelance developer. He is from India.
+            On IRC, he's qua-non.
+          + Brian
+            [80]Brian Knapp [81]mail [82]google Plus
+            He is a mobile/web developer for [83]Gitwit Creative, a
+            US-based product development firm.
+            On IRC he's knapper_tech.
+          + Jeff
+            [84]Jeff Pittman [85]mail [86]twitter
+            He has a Ph.D. in geology/paleontology, and has taught many
+            Earth Science courses. He likes py and js programming. He
+            lives in Louisiana. On IRC, he's geojeff.
+          + Ben
+            [87]Ben Rousch [88]mail [89]twitter [90]Google Plus
+            He is a Python, Android, and Linux lover who thinks tablets
+            will be everyone's computer in the future. He lives in
+            Michigan.
+            On IRC, he's brousch.
+          + kovak
+            [91]Jacob Kovac [92]mail [93]Google Plus
+            He is an independent game developer who is very interested in
+            creating game development tools for Android. He lives in Utah.
+            On IRC, he's kovak.
+          + Alexander
+            [94]Alexander Taylor [95]mail [96]Google Plus
+            He is a graduate student in physics, with a little time to
+            make fun graphical interfaces. He lives in the UK.
+            On IRC, he's inclement.
+          + Matt
+            Matthew Einhorn [97]mail
+            He is a developer using Kivy with Python to automate
+            scientific research. He lives in the eastern USA.
+            On IRC, he's matham.
+          + Richard
+            Richard Larkin [98]mail
+            Richard is a educational software developer (B.Sc, Hons) from
+            South Africa. He likes being silly, meditating, music and
+            hugging fluffy things. On IRC, he's ZenCODE.
+          + kived
+            Ryan Pessa [99]mail
+            He is a software developer in Kansas City. He enjoys being
+            well-bearded. He has a cat.
+            On IRC, he's kived.
+
+   Contributors
+
+          + Terje Skjaeveland (bionoid)
+          + George Sebastian (georgs)
+          + Gabriel Ortega
+          + Arnaud Waels (triselectif)
+          + Thomas Hirsch
+          + Joakim Gebart
+          + Rosemary Sebastian
+          + Jonathan Schemoul
+
+   Special thanks to
+
+          + Mark Hembrow, who is one of our first sponsor, by giving us a
+            Mac Mini. Which is currently used for all the build system:
+            unit test on Windows / MacOSX and Ubuntu + building the HTML
+            and PDF documentation.
+          + [100]Christopher Denter (dennda) who was a core-developer in
+            the first stage of the project. He contributed a lot by
+            improving the documentation, implementing the Kivy extension
+            system, pep8 hook and fixes, spelling provider. He also did 1
+            GSOC on the previous PyMT framework on implementing a virtual
+            keyboard with a better navigation.
+          + Edwin Marshall (aspidites) helped with quality and
+            documentation, as well as adding a few features.
+          + [101]Vincent Autin for his work as a designer for the project,
+            specially on the logo !
+
+   Many people have contributed to Kivy and we're always interested in
+   growing our community. If you want to help in terms of writing code,
+   improving documentation, testing, etc. or simply making a donation,
+   please do not hesitate to [102]contact us!
+
+Talks
+
+   Here is a list of talks about Kivy. (if you have made a talk, don't
+   hesitate to share it!)
+     * [103]Interfaces tactiles et mobiles avec Kivy. ([104]slides) 27
+       Octobre 2013 - Gabriel Pettier
+       Pycon-fr, Strasbourg, France
+     * [105]Our journey to Kivy ([106]slides) 3 Octobler 2013 - Richard
+       Larkin
+       PyconZA 2013 in Cape Town, South Africa
+     * [107]Utah Python August 2013 meeting 8 August 2013 - Jacob Kovac
+       Utah Python August 2013 meeting
+     * [talk-grdevday13-br.png] en [108]Kivy Intro and Tutorial
+       2 March 2013 - Ben Rousch
+       GrDevDay 2013 in Grad Rapids, MI, USA.
+     * [talk-ep2011-mv.png] en [109]OpenGL and Python on computer and
+       embed devices ([110]slides)
+       24 July 2012 - Mathieu Virbel
+       EuroPython 2012 in Florence, Italia.
+     * [talk-28apr12-ra.png] lt [111]Kivy - Python UI Library for Any OS
+       28 April 2012 - Rokas Aleksiūnas
+       PyCon LT 2012 in Vilnius
+     * [talk-28nov11-gp.png] fr [112]NIU en Python: Kivy
+       (Starting at 2:28:00 in the video)
+       28 November 2011, Gabriel Pettier
+       La Cantine in Paris, France
+     * [talk-oct11-ers.png] de [113]Spaß mit Natural User Interfaces und
+       Python
+       October 2011 - Ernesto Rico Schmidt
+       PyCon DE 2011
+     * [talk-sep11-kps.png] en [114]Quick Multitouch Apps using Kivy and
+       Python
+       September 2011 - KP Singh (kpsfoo), N Chadha
+       PyCon India 2011
+     * [talk-19jul11-mv.png] fr [115]GLES2 Python framework for NUI
+       19 July 2011 - Mathieu Virbel
+       RMLL 2011 in Strasbourg, France
+     * en [116]Lightning talk about Kivy
+       22 June 2011 - Mathieu Virbel
+       Europython 2011 in Florence, Italia
+
+   Get the [117]kivy.org source code
+
+   [118]Contact us
+
+   [119]Logo made by Vincent Autin
+
+   Hosted by [120]Ikse, thanks a lot Alexx!
+
+References
+
+   Visible links
+   1. https://plus.google.com/102482050431251779760/
+   2. http://kivy.org/
+   3. http://kivy.org/#home
+   4. http://kivy.org/#contest
+   5. http://kivy.org/#download
+   6. http://kivy.org/#gallery
+   7. http://kivy.org/#support
+   8. http://kivy.org/#aboutus
+   9. http://kivy.org/docs/gettingstarted/intro.html
+  10. http://kivy.org/planet
+  11. https://plus.google.com/102482050431251779760/
+  12. http://kivy.org/#changelog
+  13. http://kivy.org/downloads/1.8.0/Kivy-1.8.0-py2.7-win32.zip
+  14. https://googledrive.com/host/0B-ydZwFoA2uQLUV3NkVyUHRwbzg/Kivy-1.8.0-py2.7-win32.zip
+  15. http://kivy.org/downloads/1.8.0/Kivy-1.8.0-py3.3-win32.zip
+  16. https://googledrive.com/host/0B-ydZwFoA2uQLUV3NkVyUHRwbzg/Kivy-1.8.0-py3.3-win32.zip
+  17. http://kivy.org/docs/installation/installation-windows.html
+  18. http://kivy.org/downloads/1.8.0/Kivy-1.8.0-osx.dmg
+  19. https://googledrive.com/host/0B-ydZwFoA2uQLUV3NkVyUHRwbzg/Kivy-1.8.0-osx.dmg
+  20. http://kivy.org/docs/installation/installation-macosx.html
+  21. https://pypi.python.org/packages/source/K/Kivy/Kivy-1.8.0.tar.gz
+  22. http://kivy.org/docs/installation/installation-linux.html#ubuntu-11-10-or-newer
+  23. https://launchpad.net/~kivy-team/+archive/kivy
+  24. https://launchpad.net/~kivy-team/+archive/kivy-daily
+  25. https://launchpad.net/+help-soyuz/ppa-sources-list.html
+  26. http://software.opensuse.org/ymp/devel:languages:python/openSUSE_Factory/python-Kivy.ymp?base=openSUSE:Factory&query=python-Kivy
+  27. http://software.opensuse.org/ymp/devel:languages:python/openSUSE_13.1/python-Kivy.ymp?base=openSUSE:13.1&query=python-Kivy
+  28. http://software.opensuse.org/ymp/devel:languages:python/openSUSE_12.3/python-Kivy.ymp?base=openSUSE:12.3&query=python-Kivy
+  29. http://software.opensuse.org/ymp/devel:languages:python/openSUSE_12.2/python-Kivy.ymp?base=openSUSE:12.2&query=python-Kivy
+  30. http://software.opensuse.org/ymp/home:thopiekar:kivy/openSUSE_Tumbleweed/python-Kivy.ymp?base=openSUSE:12.2&query=python-Kivy
+  31. http://kivy.org/docs/installation/installation-linux.html#opensuse
+  32. http://download.opensuse.org/repositories/home:/thopiekar:/kivy/Fedora_18/
+  33. http://download.opensuse.org/repositories/home:/thopiekar:/kivy/Fedora_17/
+  34. http://download.opensuse.org/repositories/home:/thopiekar:/kivy/Fedora_16/
+  35. http://kivy.org/docs/installation/installation-linux.html#fedora
+  36. http://download.opensuse.org/repositories/home:/thopiekar:/kivy/Mandriva_2011/
+  37. https://market.android.com/details?id=org.kivy.pygame
+  38. http://kivy.googlecode.com/files/KivyLauncher-1.7.1.0.apk
+  39. http://kivy.org/docs/guide/packaging-android.html#packaging-your-application-for-kivy-launcher
+  40. https://build.pub.meego.com/package/show?package=kivy&project=home:thopiekar:kivy
+  41. https://market.android.com/details?id=org.kivy.touchtracer
+  42. https://market.android.com/details?id=org.kivy.showcase
+  43. https://market.android.com/details?id=org.kivy.pictures
+  44. http://kivy.org/docs/guide/packaging-android.html
+  45. http://itunes.apple.com/us/app/deflectouch/id505729681
+  46. http://kivy.org/docs/guide/packaging-ios.html
+  47. https://docs.google.com/uc?export=download&confirm=no_antivirus&id=0B1WO07-OL50_bTR0SElrLTZGWEU
+  48. http://kivy.org/torrents/Kivy_Python_for_android.7z.torrent
+  49. http://github.com/kivy/kivy
+  50. http://kivy.org/docs/installation/installation.html#development-version
+  51. http://kivy.org/docs/
+  52. http://github.com/kivy/kivy/issues
+  53. http://kivy.org/#forum
+  54. mailto:kivy-users@googlegroups.com
+  55. http://kivy.org/docs/contact.html
+  56. http://webchat.freenode.net/?nick=kvuser.&channels=kivy&uio=d4
+  57. http://kivy.org/#logo
+  58. http://creativecommons.org/licenses/by-nc-nd/3.0/
+  59. http://kivy.org/#gallery
+  60. http://txzone.net/
+  61. mailto:mat@kivy.org
+  62. https://plus.google.com/105862019548406441587/posts
+  63. http://facebook.com/mathieu.virbel
+  64. http://twitter.com/mathieuvirbel
+  65. http://meltingrocks.com/
+  66. http://blog.tehansen.de/
+  67. mailto:thomas@kivy.org
+  68. https://plus.google.com/116222302681747543460/posts
+  69. http://facebook.com/thomas.e.hansen
+  70. http://twitter.com/hansent
+  71. http://www.fresk.co/
+  72. http://blog.tshirtman.fr/
+  73. mailto:gabriel@kivy.org
+  74. https://plus.google.com/114549511678735020275/posts
+  75. http://twitter.com/tshirtman
+  76. http://tangibledisplay.com/
+  77. https://plus.google.com/111271939129335069945
+  78. mailto:akshay@kivy.org
+  79. http://www.facebook.com/profile.php?id=100001515324302
+  80. https://plus.google.com/118381863228368301389
+  81. mailto:knapp@kivy.org
+  82. https://plus.google.com/118381863228368301389/posts
+  83. http://www.gitwitcreative.com/
+  84. http://www.geojeff.org/
+  85. mailto:geojeff@geojeff.org
+  86. http://twitter.com/geojeff
+  87. http://www.clusterbleep.net/
+  88. mailto:brousch@gmail.com
+  89. http://twitter.com/brousch
+  90. https://plus.google.com/+BenRousch
+  91. https://plus.google.com/u/0/+JacobKovac/
+  92. mailto:kovac1066@gmail.com
+  93. https://plus.google.com/u/0/+JacobKovac/
+  94. http://inclem.net/
+  95. mailto:alexanderjohntaylor@gmail.com
+  96. https://plus.google.com/115630516041737549521
+  97. mailto:moiein2000@gmail.com
+  98. mailto:zenkey.zencode@gmail.com
+  99. mailto:dkived@gmail.com
+ 100. http://denter.org/
+ 101. http://vincentautin.fr/
+ 102. http://kivy.org/docs/contact.html
+ 103. http://canalc2.u-strasbg.fr/video.asp?idVideo=12342&voir=oui
+ 104. http://www.slideshare.net/GabrielPettier/pres-27623747
+ 105. http://youtu.be/URUZOegA57g
+ 106. https://github.com/Zen-CODE/kivybits/tree/master/PyCon/ZA 2013
+ 107. http://youtu.be/3gzZbsKlFMs
+ 108. https://speakerdeck.com/brousch/kivy-intro-and-tutorial-grdevday-2013
+ 109. http://www.youtube.com/watch?v=UjdU77m1228
+ 110. https://speakerdeck.com/u/mathieuvirbel/p/kivy-opengl-and-python-on-embed-computer
+ 111. http://www.youtube.com/watch?v=fc1GZXRWy_A
+ 112. http://lacantine.ubicast.eu/videos/python-conf/
+ 113. http://speakerdeck.com/u/nnrcschmdt/p/kivy-spass-mit-natural-user-interfaces-und-python
+ 114. http://in.pycon.org/2011/talks/68-quick-multitouch-apps-using-kivy-and-python
+ 115. https://speakerdeck.com/u/mathieuvirbel/p/kivy-gles2-python-framework-for-nui-fr
+ 116. http://txzone.net/2011/06/kivy-at-europython-lightning-explanation/
+ 117. http://github.com/kivy/kivy-website/
+ 118. http://kivy.org/docs/contact.html
+ 119. http://kivy.org/#logo
+ 120. http://ikse.net/
+
+   Hidden links:
+ 122. https://github.com/kivy
+ 123. https://www.youtube.com/user/kivyframework
+ 124. https://plus.google.com/+KivyOrg
+ 125. https://www.facebook.com/kivyframework
+ 126. https://twitter.com/kivyframework

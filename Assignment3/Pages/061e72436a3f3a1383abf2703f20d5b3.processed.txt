@@ -1,0 +1,499 @@
+   #[1]Python Software Foundation News - Atom [2]Python Software
+   Foundation News - RSS [3]Python Software Foundation News - Atom
+
+   [4]skip to main | [5]skip to sidebar
+
+[6]Python Software Foundation News
+
+   Announcements and requests from the non-profit [7]Python Software
+   Foundation.
+
+Tuesday, November 19, 2013
+
+[8]Congratulations to Barry Warsaw, Community Service Award Receipient
+
+   On Friday, November 15, the board of the Foundation voted for Barry
+   Warsaw to receive a Community Service Award for Q3 2013. Barry's
+   involvement in the Python community recently reached a significant
+   milestone, as he retired the Python 2.6 line with its final security
+   release ([9]2.6.9). Since 2007, Barry acted as the release manager for
+   2.6, an instrumental release for a number of reasons, including working
+   with the 3.x line to backport many features. He was simultaneously the
+   3.0 release manager at that time, which saw its first release two
+   months after 2.6 came out.
+   Barry's involvement in the community extends long beyond contributions
+   to the CPython project, into his work on the [10]GNU Mailman project.
+   He earned the [11]2008 Antonio Pizzagati Prize for Software in the
+   Public Interest for his work on Mailman, which has become the world's
+   most popular mailing list software, seen all around the web. It's rare
+   to find a mailing list out there that isn't managed by Mailman.
+   He has also been a contributor to the Debian and Ubuntu projects,
+   recently becoming a Debian Member in June. He has spent a good bit of
+   time on Ubuntu's shift to Python 3, mapping out dependencies and
+   working with upstream projects to ensure a quality port of their
+   codebase.
+   When he's not jamming on Python, he's jamming on a bass guitar. Check
+   out some of his music [12]here.
+   Congratulations, and thanks for all of your hard work!
+   Posted by Brian Curtin at [13]11/19/2013 10:49:00 AM
+   [14]Email This[15]BlogThis![16]Share to Twitter[17]Share to
+   Facebook[18]Share to Pinterest
+   Labels: [19]community service awards
+   Congratulations to Barry Warsaw, Community Service Award Receipient
+   On Friday, November 15, the board of the Foundation voted for Barry
+   Warsaw to receive a Community Service Award for Q3 2013. Barry's
+   involvement in the Python community recently reached a significant
+   milestone, as he retired the Python 2.6 line with its final security
+   release ([20]2.6.9). Since 2007, Barry acted as the release manager for
+   2.6, an instrumental release for a number of reasons, including working
+   with the 3.x line to backport many features. He was simultaneously the
+   3.0 release manager at that time, which saw its first release two
+   months after 2.6 came out.
+   Barry's involvement in the community extends long beyond contributions
+   to the CPython project, into his work on the [21]GNU Mailman project.
+   He earned the [22]2008 Antonio Pizzagati Prize for Software in the
+   Public Interest for his work on Mailman, which has become the world's
+   most popular mailing list software, seen all around the web. It's rare
+   to find a mailing list out there that isn't managed by Mailman.
+   He has also been a contributor to the Debian and Ubuntu projects,
+   recently becoming a Debian Member in June. He has spent a good bit of
+   time on Ubuntu's shift to Python 3, mapping out dependencies and
+   working with upstream projects to ensure a quality port of their
+   codebase.
+   When he's not jamming on Python, he's jamming on a bass guitar. Check
+   out some of his music [23]here.
+   Congratulations, and thanks for all of your hard work!
+   Please enable JavaScript to view the [24]comments powered by Disqus.
+   [25]blog comments powered by Disqus
+
+   [26]Newer Post [27]Older Post [28]Home
+   Subscribe to: [29]Post Comments (Atom)
+
+Around the Web
+
+   [30]Follow ThePSF on Twitter
+   [31][facebook.gif]
+
+Subscribe via email
+
+   Enter your email address:
+
+   ____________________
+   Subscribe
+
+   Delivered by [32]FeedBurner
+
+Blog Archive
+
+     * [33]►  [34]2014 (13)
+          + [35]►  [36]September (1)
+          + [37]►  [38]August (2)
+          + [39]►  [40]July (1)
+          + [41]►  [42]May (1)
+          + [43]►  [44]April (1)
+          + [45]►  [46]March (2)
+          + [47]►  [48]February (3)
+          + [49]►  [50]January (2)
+
+     * [51]▼  [52]2013 (18)
+          + [53]▼  [54]November (1)
+               o [55]Congratulations to Barry Warsaw, Community Service...
+          + [56]►  [57]September (2)
+          + [58]►  [59]August (1)
+          + [60]►  [61]July (1)
+          + [62]►  [63]June (1)
+          + [64]►  [65]April (1)
+          + [66]►  [67]March (5)
+          + [68]►  [69]February (3)
+          + [70]►  [71]January (3)
+
+     * [72]►  [73]2012 (21)
+          + [74]►  [75]December (3)
+          + [76]►  [77]November (2)
+          + [78]►  [79]October (2)
+          + [80]►  [81]September (1)
+          + [82]►  [83]August (1)
+          + [84]►  [85]July (1)
+          + [86]►  [87]June (2)
+          + [88]►  [89]May (4)
+          + [90]►  [91]April (1)
+          + [92]►  [93]March (1)
+          + [94]►  [95]January (3)
+
+     * [96]►  [97]2011 (55)
+          + [98]►  [99]December (2)
+          + [100]►  [101]November (1)
+          + [102]►  [103]October (7)
+          + [104]►  [105]September (5)
+          + [106]►  [107]August (2)
+          + [108]►  [109]July (1)
+          + [110]►  [111]June (3)
+          + [112]►  [113]May (8)
+          + [114]►  [115]April (8)
+          + [116]►  [117]March (13)
+          + [118]►  [119]February (2)
+          + [120]►  [121]January (3)
+
+     * [122]►  [123]2010 (35)
+          + [124]►  [125]December (4)
+          + [126]►  [127]November (1)
+          + [128]►  [129]October (3)
+          + [130]►  [131]September (2)
+          + [132]►  [133]August (1)
+          + [134]►  [135]July (8)
+          + [136]►  [137]June (6)
+          + [138]►  [139]May (2)
+          + [140]►  [141]April (4)
+          + [142]►  [143]March (2)
+          + [144]►  [145]January (2)
+
+     * [146]►  [147]2009 (21)
+          + [148]►  [149]December (1)
+          + [150]►  [151]October (1)
+          + [152]►  [153]September (6)
+          + [154]►  [155]August (4)
+          + [156]►  [157]July (4)
+          + [158]►  [159]June (1)
+          + [160]►  [161]May (2)
+          + [162]►  [163]April (1)
+          + [164]►  [165]February (1)
+
+     * [166]►  [167]2008 (23)
+          + [168]►  [169]December (1)
+          + [170]►  [171]November (1)
+          + [172]►  [173]October (1)
+          + [174]►  [175]August (3)
+          + [176]►  [177]July (1)
+          + [178]►  [179]May (3)
+          + [180]►  [181]April (1)
+          + [182]►  [183]March (5)
+          + [184]►  [185]February (4)
+          + [186]►  [187]January (3)
+
+     * [188]►  [189]2007 (26)
+          + [190]►  [191]December (3)
+          + [192]►  [193]November (2)
+          + [194]►  [195]October (6)
+          + [196]►  [197]September (1)
+          + [198]►  [199]August (1)
+          + [200]►  [201]July (1)
+          + [202]►  [203]June (2)
+          + [204]►  [205]May (1)
+          + [206]►  [207]April (1)
+          + [208]►  [209]March (2)
+          + [210]►  [211]February (3)
+          + [212]►  [213]January (3)
+
+     * [214]►  [215]2006 (39)
+          + [216]►  [217]December (3)
+          + [218]►  [219]November (4)
+          + [220]►  [221]October (5)
+          + [222]►  [223]September (4)
+          + [224]►  [225]August (4)
+          + [226]►  [227]July (3)
+          + [228]►  [229]May (7)
+          + [230]►  [231]April (6)
+          + [232]►  [233]March (3)
+
+Contributors
+
+     * [234]Brian Curtin
+     * [235]A.M. Kuchling
+     * [236]engelbert gruber
+     * [237]Jacob Kaplan-Moss
+     * [238]Jesse
+     * [239]Doug Napoleone
+     * [240]VanL
+     * [241]Jessica McKellar
+     * [242]Mike Driscoll
+     * [243]Alfonso de la Guarda Reyes
+     * [244]tp
+     * [245]Steve
+     * [246]David Goodger
+     * [247]Michael Foord
+     * [248]Anthony Scopatz
+     * [249]Doug Hellmann
+     * [250]timothydkiser
+     * [251]Marc-Andre Lemburg
+     * [252]Paulo Nuin
+     * [253]James Tauber
+
+Copyright
+
+   [254]Creative Commons License
+   The content of Python Software Foundation News by [255]Python Software
+   Foundation is licensed under a [256]Creative Commons
+   Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+   Based on a work at [257]pyfound.blogspot.com.
+
+References
+
+   Visible links
+   1. http://pyfound.blogspot.com/feeds/posts/default
+   2. http://pyfound.blogspot.com/feeds/posts/default?alt=rss
+   3. http://pyfound.blogspot.com/feeds/8156628118073709789/comments/default
+   4. http://pyfound.blogspot.com/2013/11/congratulations-to-barry-warsaw.html?utm_source=feedburner#main
+   5. http://pyfound.blogspot.com/2013/11/congratulations-to-barry-warsaw.html?utm_source=feedburner#sidebar
+   6. http://python.org/psf/
+   7. http://python.org/psf/
+   8. http://pyfound.blogspot.com/2013/11/congratulations-to-barry-warsaw.html
+   9. http://www.python.org/download/releases/2.6.9/
+  10. http://list.org/
+  11. http://www.tides.org/impact/awards-prizes/pizzigati-prize/winners/#warsaw
+  12. http://barry.warsaw.us/music.html
+  13. http://pyfound.blogspot.com/2013/11/congratulations-to-barry-warsaw.html
+  14. http://pyfound.blogspot.com/2013/11/&target=email
+  15. http://pyfound.blogspot.com/2013/11/&target=blog
+  16. http://pyfound.blogspot.com/2013/11/&target=twitter
+  17. http://pyfound.blogspot.com/2013/11/&target=facebook
+  18. http://pyfound.blogspot.com/2013/11/&target=pinterest
+  19. http://pyfound.blogspot.com/search/label/community service awards
+  20. http://www.python.org/download/releases/2.6.9/
+  21. http://list.org/
+  22. http://www.tides.org/impact/awards-prizes/pizzigati-prize/winners/#warsaw
+  23. http://barry.warsaw.us/music.html
+  24. http://disqus.com/?ref_noscript=pyfound.disqus.comhttp://pyfound.blogspot.com/2013/11/congratulations-to-barry-warsaw.html
+  25. http://disqus.com/
+  26. http://pyfound.blogspot.com/2014/01/support-python-software-foundation-in.html
+  27. http://pyfound.blogspot.com/2013/09/cloud-hpc-and-open-technologies.html
+  28. http://pyfound.blogspot.com/
+  29. http://pyfound.blogspot.com/feeds/8156628118073709789/comments/default
+  30. http://www.twitter.com/ThePSF
+  31. http://www.facebook.com/#!/pythonlang
+  32. http://feedburner.google.com/
+  33. javascript:void(0)
+  34. http://pyfound.blogspot.com/search?updated-min=2014-01-01T00:00:00-05:00&updated-max=2015-01-01T00:00:00-05:00&max-results=13
+  35. javascript:void(0)
+  36. http://pyfound.blogspot.com/2014_09_01_archive.html
+  37. javascript:void(0)
+  38. http://pyfound.blogspot.com/2014_08_01_archive.html
+  39. javascript:void(0)
+  40. http://pyfound.blogspot.com/2014_07_01_archive.html
+  41. javascript:void(0)
+  42. http://pyfound.blogspot.com/2014_05_01_archive.html
+  43. javascript:void(0)
+  44. http://pyfound.blogspot.com/2014_04_01_archive.html
+  45. javascript:void(0)
+  46. http://pyfound.blogspot.com/2014_03_01_archive.html
+  47. javascript:void(0)
+  48. http://pyfound.blogspot.com/2014_02_01_archive.html
+  49. javascript:void(0)
+  50. http://pyfound.blogspot.com/2014_01_01_archive.html
+  51. javascript:void(0)
+  52. http://pyfound.blogspot.com/search?updated-min=2013-01-01T00:00:00-05:00&updated-max=2014-01-01T00:00:00-05:00&max-results=18
+  53. javascript:void(0)
+  54. http://pyfound.blogspot.com/2013_11_01_archive.html
+  55. http://pyfound.blogspot.com/2013/11/congratulations-to-barry-warsaw.html
+  56. javascript:void(0)
+  57. http://pyfound.blogspot.com/2013_09_01_archive.html
+  58. javascript:void(0)
+  59. http://pyfound.blogspot.com/2013_08_01_archive.html
+  60. javascript:void(0)
+  61. http://pyfound.blogspot.com/2013_07_01_archive.html
+  62. javascript:void(0)
+  63. http://pyfound.blogspot.com/2013_06_01_archive.html
+  64. javascript:void(0)
+  65. http://pyfound.blogspot.com/2013_04_01_archive.html
+  66. javascript:void(0)
+  67. http://pyfound.blogspot.com/2013_03_01_archive.html
+  68. javascript:void(0)
+  69. http://pyfound.blogspot.com/2013_02_01_archive.html
+  70. javascript:void(0)
+  71. http://pyfound.blogspot.com/2013_01_01_archive.html
+  72. javascript:void(0)
+  73. http://pyfound.blogspot.com/search?updated-min=2012-01-01T00:00:00-05:00&updated-max=2013-01-01T00:00:00-05:00&max-results=21
+  74. javascript:void(0)
+  75. http://pyfound.blogspot.com/2012_12_01_archive.html
+  76. javascript:void(0)
+  77. http://pyfound.blogspot.com/2012_11_01_archive.html
+  78. javascript:void(0)
+  79. http://pyfound.blogspot.com/2012_10_01_archive.html
+  80. javascript:void(0)
+  81. http://pyfound.blogspot.com/2012_09_01_archive.html
+  82. javascript:void(0)
+  83. http://pyfound.blogspot.com/2012_08_01_archive.html
+  84. javascript:void(0)
+  85. http://pyfound.blogspot.com/2012_07_01_archive.html
+  86. javascript:void(0)
+  87. http://pyfound.blogspot.com/2012_06_01_archive.html
+  88. javascript:void(0)
+  89. http://pyfound.blogspot.com/2012_05_01_archive.html
+  90. javascript:void(0)
+  91. http://pyfound.blogspot.com/2012_04_01_archive.html
+  92. javascript:void(0)
+  93. http://pyfound.blogspot.com/2012_03_01_archive.html
+  94. javascript:void(0)
+  95. http://pyfound.blogspot.com/2012_01_01_archive.html
+  96. javascript:void(0)
+  97. http://pyfound.blogspot.com/search?updated-min=2011-01-01T00:00:00-05:00&updated-max=2012-01-01T00:00:00-05:00&max-results=50
+  98. javascript:void(0)
+  99. http://pyfound.blogspot.com/2011_12_01_archive.html
+ 100. javascript:void(0)
+ 101. http://pyfound.blogspot.com/2011_11_01_archive.html
+ 102. javascript:void(0)
+ 103. http://pyfound.blogspot.com/2011_10_01_archive.html
+ 104. javascript:void(0)
+ 105. http://pyfound.blogspot.com/2011_09_01_archive.html
+ 106. javascript:void(0)
+ 107. http://pyfound.blogspot.com/2011_08_01_archive.html
+ 108. javascript:void(0)
+ 109. http://pyfound.blogspot.com/2011_07_01_archive.html
+ 110. javascript:void(0)
+ 111. http://pyfound.blogspot.com/2011_06_01_archive.html
+ 112. javascript:void(0)
+ 113. http://pyfound.blogspot.com/2011_05_01_archive.html
+ 114. javascript:void(0)
+ 115. http://pyfound.blogspot.com/2011_04_01_archive.html
+ 116. javascript:void(0)
+ 117. http://pyfound.blogspot.com/2011_03_01_archive.html
+ 118. javascript:void(0)
+ 119. http://pyfound.blogspot.com/2011_02_01_archive.html
+ 120. javascript:void(0)
+ 121. http://pyfound.blogspot.com/2011_01_01_archive.html
+ 122. javascript:void(0)
+ 123. http://pyfound.blogspot.com/search?updated-min=2010-01-01T00:00:00-05:00&updated-max=2011-01-01T00:00:00-05:00&max-results=35
+ 124. javascript:void(0)
+ 125. http://pyfound.blogspot.com/2010_12_01_archive.html
+ 126. javascript:void(0)
+ 127. http://pyfound.blogspot.com/2010_11_01_archive.html
+ 128. javascript:void(0)
+ 129. http://pyfound.blogspot.com/2010_10_01_archive.html
+ 130. javascript:void(0)
+ 131. http://pyfound.blogspot.com/2010_09_01_archive.html
+ 132. javascript:void(0)
+ 133. http://pyfound.blogspot.com/2010_08_01_archive.html
+ 134. javascript:void(0)
+ 135. http://pyfound.blogspot.com/2010_07_01_archive.html
+ 136. javascript:void(0)
+ 137. http://pyfound.blogspot.com/2010_06_01_archive.html
+ 138. javascript:void(0)
+ 139. http://pyfound.blogspot.com/2010_05_01_archive.html
+ 140. javascript:void(0)
+ 141. http://pyfound.blogspot.com/2010_04_01_archive.html
+ 142. javascript:void(0)
+ 143. http://pyfound.blogspot.com/2010_03_01_archive.html
+ 144. javascript:void(0)
+ 145. http://pyfound.blogspot.com/2010_01_01_archive.html
+ 146. javascript:void(0)
+ 147. http://pyfound.blogspot.com/search?updated-min=2009-01-01T00:00:00-05:00&updated-max=2010-01-01T00:00:00-05:00&max-results=21
+ 148. javascript:void(0)
+ 149. http://pyfound.blogspot.com/2009_12_01_archive.html
+ 150. javascript:void(0)
+ 151. http://pyfound.blogspot.com/2009_10_01_archive.html
+ 152. javascript:void(0)
+ 153. http://pyfound.blogspot.com/2009_09_01_archive.html
+ 154. javascript:void(0)
+ 155. http://pyfound.blogspot.com/2009_08_01_archive.html
+ 156. javascript:void(0)
+ 157. http://pyfound.blogspot.com/2009_07_01_archive.html
+ 158. javascript:void(0)
+ 159. http://pyfound.blogspot.com/2009_06_01_archive.html
+ 160. javascript:void(0)
+ 161. http://pyfound.blogspot.com/2009_05_01_archive.html
+ 162. javascript:void(0)
+ 163. http://pyfound.blogspot.com/2009_04_01_archive.html
+ 164. javascript:void(0)
+ 165. http://pyfound.blogspot.com/2009_02_01_archive.html
+ 166. javascript:void(0)
+ 167. http://pyfound.blogspot.com/search?updated-min=2008-01-01T00:00:00-05:00&updated-max=2009-01-01T00:00:00-05:00&max-results=23
+ 168. javascript:void(0)
+ 169. http://pyfound.blogspot.com/2008_12_01_archive.html
+ 170. javascript:void(0)
+ 171. http://pyfound.blogspot.com/2008_11_01_archive.html
+ 172. javascript:void(0)
+ 173. http://pyfound.blogspot.com/2008_10_01_archive.html
+ 174. javascript:void(0)
+ 175. http://pyfound.blogspot.com/2008_08_01_archive.html
+ 176. javascript:void(0)
+ 177. http://pyfound.blogspot.com/2008_07_01_archive.html
+ 178. javascript:void(0)
+ 179. http://pyfound.blogspot.com/2008_05_01_archive.html
+ 180. javascript:void(0)
+ 181. http://pyfound.blogspot.com/2008_04_01_archive.html
+ 182. javascript:void(0)
+ 183. http://pyfound.blogspot.com/2008_03_01_archive.html
+ 184. javascript:void(0)
+ 185. http://pyfound.blogspot.com/2008_02_01_archive.html
+ 186. javascript:void(0)
+ 187. http://pyfound.blogspot.com/2008_01_01_archive.html
+ 188. javascript:void(0)
+ 189. http://pyfound.blogspot.com/search?updated-min=2007-01-01T00:00:00-05:00&updated-max=2008-01-01T00:00:00-05:00&max-results=26
+ 190. javascript:void(0)
+ 191. http://pyfound.blogspot.com/2007_12_01_archive.html
+ 192. javascript:void(0)
+ 193. http://pyfound.blogspot.com/2007_11_01_archive.html
+ 194. javascript:void(0)
+ 195. http://pyfound.blogspot.com/2007_10_01_archive.html
+ 196. javascript:void(0)
+ 197. http://pyfound.blogspot.com/2007_09_01_archive.html
+ 198. javascript:void(0)
+ 199. http://pyfound.blogspot.com/2007_08_01_archive.html
+ 200. javascript:void(0)
+ 201. http://pyfound.blogspot.com/2007_07_01_archive.html
+ 202. javascript:void(0)
+ 203. http://pyfound.blogspot.com/2007_06_01_archive.html
+ 204. javascript:void(0)
+ 205. http://pyfound.blogspot.com/2007_05_01_archive.html
+ 206. javascript:void(0)
+ 207. http://pyfound.blogspot.com/2007_04_01_archive.html
+ 208. javascript:void(0)
+ 209. http://pyfound.blogspot.com/2007_03_01_archive.html
+ 210. javascript:void(0)
+ 211. http://pyfound.blogspot.com/2007_02_01_archive.html
+ 212. javascript:void(0)
+ 213. http://pyfound.blogspot.com/2007_01_01_archive.html
+ 214. javascript:void(0)
+ 215. http://pyfound.blogspot.com/search?updated-min=2006-01-01T00:00:00-05:00&updated-max=2007-01-01T00:00:00-05:00&max-results=39
+ 216. javascript:void(0)
+ 217. http://pyfound.blogspot.com/2006_12_01_archive.html
+ 218. javascript:void(0)
+ 219. http://pyfound.blogspot.com/2006_11_01_archive.html
+ 220. javascript:void(0)
+ 221. http://pyfound.blogspot.com/2006_10_01_archive.html
+ 222. javascript:void(0)
+ 223. http://pyfound.blogspot.com/2006_09_01_archive.html
+ 224. javascript:void(0)
+ 225. http://pyfound.blogspot.com/2006_08_01_archive.html
+ 226. javascript:void(0)
+ 227. http://pyfound.blogspot.com/2006_07_01_archive.html
+ 228. javascript:void(0)
+ 229. http://pyfound.blogspot.com/2006_05_01_archive.html
+ 230. javascript:void(0)
+ 231. http://pyfound.blogspot.com/2006_04_01_archive.html
+ 232. javascript:void(0)
+ 233. http://pyfound.blogspot.com/2006_03_01_archive.html
+ 234. http://www.blogger.com/profile/14604644394514192040
+ 235. http://www.blogger.com/profile/14971120963699387108
+ 236. https://plus.google.com/103916922127569633396
+ 237. http://www.blogger.com/profile/01451152285284438702
+ 238. http://www.blogger.com/profile/07543015027323408421
+ 239. http://www.blogger.com/profile/07331585381804299154
+ 240. http://www.blogger.com/profile/15361575080931041976
+ 241. http://www.blogger.com/profile/13756992050921673361
+ 242. http://www.blogger.com/profile/06351908417200979114
+ 243. https://plus.google.com/105172091805567849283
+ 244. http://www.blogger.com/profile/07627402554307001461
+ 245. http://www.blogger.com/profile/15732819755000554717
+ 246. http://www.blogger.com/profile/06673699859175469861
+ 247. http://www.blogger.com/profile/06229713779852499022
+ 248. http://www.blogger.com/profile/03855116138400732464
+ 249. http://www.blogger.com/profile/01892352754222143463
+ 250. http://www.blogger.com/profile/15283545632469437380
+ 251. http://www.blogger.com/profile/05569570562799478047
+ 252. https://plus.google.com/116670685619813088895
+ 253. http://www.blogger.com/profile/02228533729754593753
+ 254. http://creativecommons.org/licenses/by-nc-sa/3.0/
+ 255. http://www.python.org/psf/
+ 256. http://creativecommons.org/licenses/by-nc-sa/3.0/
+ 257. http://pyfound.blogspot.com/
+
+   Hidden links:
+ 259. http://pyfound.blogspot.com/
+ 260. http://www.blogger.com/email-post.g?blogID=8520&postID=8156628118073709789
+ 261. http://www.blogger.com/post-edit.g?blogID=8520&postID=8156628118073709789&from=pencil
+ 262. http://pyfound.blogspot.com/2013/11/congratulations-to-barry-warsaw.html?utm_source=feedburner
+ 263. http://www.blogger.com/rearrange?blogID=8520&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=sidebar
+ 264. http://www.blogger.com/rearrange?blogID=8520&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebar
+ 265. http://www.blogger.com/rearrange?blogID=8520&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar
+ 266. http://www.blogger.com/rearrange?blogID=8520&widgetType=Profile&widgetId=Profile1&action=editWidget&sectionId=sidebar
+ 267. http://www.blogger.com/rearrange?blogID=8520&widgetType=HTML&widgetId=HTML4&action=editWidget&sectionId=sidebar

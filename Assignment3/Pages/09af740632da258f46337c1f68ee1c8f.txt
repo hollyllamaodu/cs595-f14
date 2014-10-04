@@ -1,0 +1,141 @@
+
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <title>Jfokus - proposals</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta name="keywords" content="Java, utveckling, javascript, scala, tdd, bdd, html5, konferens, stockholm"/>
+        <meta name="description" content="Jfokus is Swedens largest developer conference. Stockholm Waterfront Congress Centre, 2-4 February 2015"/>
+        <meta name="robots" content="all"/>
+        <meta name="googlebot" content="all"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1"/>
+        <link rel="stylesheet" type="text/css" href="css/style.css"/>
+        <!--[if LT IE 10]><link rel="stylesheet" href="css/ie.css"/><![endif]-->
+
+    </head>
+    <body>
+
+<!-- WRAP -->
+        <div id="wrap">
+<!-- HEADER -->
+            <header>
+                <div class="inner">
+                    <a id="menuBtn"><i></i><i></i><i></i></a>
+                    <div id="logo"><a href="index.jsp"></a></div>
+                    <span>2-4 February 2015</span>
+<!-- MENU -->
+                    <nav id="topMenu">
+                        <a href="proposals.jsp">CFP</a>
+                        <a href="video.jsp">Video</a>
+                        <a href="register.jsp">Register</a>
+                    </nav>
+<!-- /MENU -->
+
+                </div>
+            </header>
+<!-- / HEADER -->
+
+<!-- MENU -->
+            <section id="mainMenu">
+                <nav class="inner">
+                    <a href="proposals.jsp">CFP</a>
+                    <a href="video.jsp">Video</a>
+                    <a href="register.jsp">Register</a>
+                </nav>
+            </section>
+<!-- /MENU -->
+<section id="main"><div class="inner">
+<h2>
+	Propose presentation - Jfokus 2015</h2>
+<!--<p>
+	<img src="http://www.jfokus.se/userfiles/image/people/cfp_banner2014.jpg" /></p>-->
+<h4>Jfokus 2015 will consist of three full days 2-4 Feb 2015.</h4>
+<p>
+	The first day will be a university day with half-day presentations (3,5 hours) and 3-4 February will be&nbsp; regular conference days.</p>
+
+<p>
+	Here you can propose a presentation for Jfokus. We will get back to you as soon as we have decided which presentations that will be accepted for Jfokus 2015.<br />
+	<strong>The last day for submitting proposals is 30 September 2014</strong>.</p>
+<h4>
+	Speaker instructions</h4>
+<p>
+	Please read instructions below before posting a proposal.</p>
+<h4>
+	Presentation length</h4>
+<p>
+	A normal presentation slot is 45 minutes including 5 minutes for questions (e.g. actual presentation should be ~40 minutes). Between each presentation there is some time for speakers to switch, and for audience to switch session. Tutorial slots are 3-4 hours and short presentations (lightning talks) are about 10-15 minutes.</p>
+<h4>
+	Commercial policy</h4>
+<p>
+	Sessions are not to be used by individuals marketing or selling products, consulting, or other services. This policy does not prevent product users from referring to specific commercial products, nor does it prevent user roundtable discussions regarding specific products, but the focus on the presentation should not be product related.</p>
+<h4>
+	Propose presentation</h4>
+<p>
+	In order to propose a presentation you need to be registered. Submit your email address below and you will receive an email with further instructions.</p>
+<p></p>
+<form method=post>
+<p class="required"><label for="email">Email</label><input type="text" name="email" id="form-email" value=""/></p>
+<p><label> </label><input type="submit" name="save" value="Continue »"/></p>
+</form>
+</div></section>
+<!-- ABOUT -->
+            <section id="about">
+                <div class="inner">
+                    <div class="colThree">
+                        <h2>About</h2>
+                        <ul>
+                            <li><strong>When:</strong> 2-4 February 2015</li>
+                            <li><strong>What:</strong> Sweden's largest developer conference </li>
+                            <li><strong>Where:</strong> <a href="http://goo.gl/maps/rqO1i" target="_blank">Stockholm Waterfront Conference</a></li>
+                            <li><strong>Contact:</strong> jfokus2015 (a) jfokus.se </li>
+                        </ul>
+                    </div>
+                    <div class="colThree">
+                        <h2>Twitter</h2>
+                             <div class="tweet">
+<a class="twitter-timeline" href="https://twitter.com/Jfokus" data-widget-id="465814178637160449" data-chrome="nofooter noheader transparent" data-tweet-limit="3" width="300" height="300">Tweets by @Jfokus</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+
+                        </div>
+                    </div>
+                    <div class="colThree">
+                        <h2>Links</h2>
+                        <nav>
+                            <a href="">Archive</a>
+                            <nav>
+                                <a href="/jfokus14/index.jsp"  target="_blank">Jfokus 2014</a>
+                                <a href="/jfokus13/index.html" target="_blank">Jfokus 2013</a>
+                                <a href="/jfokus12/index.html" target="_blank">Jfokus 2012</a>
+                                <a href="/jfokus11/index.html" target="_blank">Jfokus 2011</a>
+                                <a href="/jfokus10/index.html" target="_blank">Jfokus 2010</a>
+                                <a href="/jfokus09/index.html" target="_blank">Jfokus 2009</a>
+                                <a href="/jfokus08/index.html" target="_blank">Jfokus 2008</a>
+                                <a href="/jfokus07/index.html" target="_blank">Jfokus 2007</a>
+                            </nav>
+                            <a href="https://www.youtube.com/watch?v=NCFxfgO2vZM" target="_blank">Watch promo video</a>
+                        </nav>
+                    </div>
+                </div>
+            </section>
+<!-- / ABOUT -->
+
+        </div>
+<!-- / WRAP -->
+
+<!-- FOOTER -->
+        <footer>
+            <div class="inner">
+
+           </div>
+        </footer>
+<!-- / FOOTER -->
+
+        <section><a href="#wrap" class="toplink">Back to the top of the page</a><section>
+        <script src="js/jfokus.min.js"></script>
+
+    </body>
+</html>
+<!-- [generated in 3 ms] -->
+

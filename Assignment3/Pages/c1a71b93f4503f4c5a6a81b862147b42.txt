@@ -1,0 +1,1247 @@
+
+
+
+
+
+
+		
+		
+		
+
+
+
+
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+
+		
+		
+
+
+
+
+
+
+
+<head>
+	<title>Register | JavaOne 2014</title>
+	<meta name="Title" content="Register | JavaOne 2014">
+	<meta name="Description" content="Sign up for JavaOne to get access to Java Champions and technical sessions, opportunities to talk to Java experts, and chances to connect with community members.">
+	<meta name="Keywords" content="JavaOne, 2014, Event, Register, ">	
+	<meta name="Language" content="en">
+	
+	
+
+	
+					
+	
+	
+		
+		
+	
+	<meta name='robots' content='Index, Follow'>
+
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<link href='//www.oracle.com/us/assets/event2.css' media="print, screen" rel="Stylesheet" type="text/css" />
+	<script type="text/javascript" src='//www.oracle.com/us/assets/jquery.js'></script>
+	<script type="text/javascript" src='//www.oracle.com/us/assets/event2.js'></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+</head>
+
+
+
+
+
+	
+		
+			
+				
+					
+		
+		
+					
+				
+	
+	
+
+	
+<body class='f08 f08m f08v1 f08x java1'>	
+	<!-- U08v0 -->
+	<div id="u08" class="u08 u08v0">
+		<div class="u08tempbreadcrumb">
+			<!-- Breadcrumbs -->
+			
+					
+					
+			
+
+
+
+
+ 
+ 
+	
+	
+	
+
+
+	
+	
+	
+		<!-- U03v0 -->
+		<div class="u03 u03v0" data-trackas="breadcrumb">
+			<div class="u03w1">
+				<ul>
+					
+									<li class="u03first"><a href="/javaone/index.html">Home</a></li>
+								
+									<li>Register</li>
+								
+				</ul>
+			</div>
+		</div>
+		<!-- /U03v0 -->
+	
+  
+
+
+		</div>
+		<!-- Header -->
+		
+				
+				
+		
+
+
+
+
+
+
+
+
+	
+			
+			
+				
+					
+					
+					
+					
+					
+					
+					
+					
+
+<!-- BEGIN: oWidget_C/_Raw-Text/Display-siteroot -->
+
+
+
+
+
+
+
+<div class="u08w1" data-trackas="header">
+    <div class="u08ologo"><a href="http://www.oracle.com/us/index.html">Oracle</a></div>
+    <div class="u08signin"><a target="_blank" href="https://oracleus.activeevents.com/2014/portal/login.ww">My Account</a></div>
+</div>
+
+
+<div class="u08w2">
+<div class="u08w3">
+<div class="u08logo u08-j1"><a href="/javaone/index.html">JavaOne</a></div>
+<div class="u08w4" data-trackas="hnav">
+
+<ul>
+    <li><a href="">Plan</a>
+        <div class="u08w8"><div class="u08w8col1">
+            <ul>
+                <li><a  target="_blank"   href="https://oracleus.activeevents.com/2014/portal/login.ww">My Account</a></li>
+                <li><a href="http://www.oracle.com/us/dm/108207-wwmk11054239mpp001-cif-w-1845718.html" target="_blank">Register Now</a></li>
+          
+            </ul>
+        </div></div>
+    </li>
+    <li><a href="#">Agenda</a>
+        <div class="u08w8"><div class="u08w8col1">
+        <ul><li><a href="/javaone/agenda/index.html">Agenda</a></li>
+        <li><a href="/javaone/rock-stars/index.html">Rockstar Wall of Fame</a></li>
+        <li><a href="/javaone/live/on-demand/index.html#javaone">Keynotes On Demand</a></li></ul>
+        </div></div>
+    </li>
+    <li><a href="#">Sessions</a>
+        <div class="u08w8"><div class="u08w8col1">
+        <ul>
+        <li><a href="https://oracleus.activeevents.com/2014/connect/search.ww?eventRef=javaone#loadSearch-event=null&searchPhrase=&searchType=session&tc=0&sortBy=&p=&i(10009)=10111">Content Catalog</a></li>
+        <li><a href="/javaone/program-committee/index.html">Program Committee</a></li>
+       
+        <li><a href="https://oracleus.activeevents.com/2014/connect/login.ww">Schedule Builder</a></li> 
+           <li><a href="/javaone/live/on-demand/index.html#javaone">Keynotes On Demand</a></li>
+         <li><a href="/javaone/call-for-papers/index.html">Call for Proposals </a></li>
+         
+        </ul>
+    </li>
+    <li class=""><a href="#">Exhibitor / Sponsor</a>
+        <div class="u08w8"><div class="u08w8col1">
+        
+            <ul>
+                <li><a href="/javaone/exhibit/index.html">Exhibit</a></li>
+                <li><a href="/javaone/sponsor/index.html">Sponsor</a></li>
+                <li><a href="/javaone/advertise/index.html">Advertise</a></li>
+            </ul>
+        </div>
+        </div>
+    </li>   
+    <li class=""><a href="#">Network</a>
+    <div class="u08w8"><div class="u08w8col1">
+        <ul>
+            <li><a href="http://www.facebook.com/javaone" target="_blank">Facebook</a></li>
+            <li><a href="http://twitter.com/JavaOneConf/" target="_blank">Twitter</a></li>
+            <li><a href="http://www.linkedin.com/groups/JavaOne-Conference-1749197" target="_blank">LinkedIn</a></li>
+            <li><a href="http://blogs.oracle.com/javaone/" target="_blank">Blog</a></li>
+        </ul>
+        </div>
+        </div>
+    </li>
+<!--
+    <li><div class="u08search"><a href="#">Search</a>
+        <div class="u08w10"><div class="u08w11"><form name="searchForm" alt="Secure Search" onSubmit="var kwd=document.searchForm.q.value; navTrack('oow','en','search',kwd);" action="https://search.oracle.com/search/search" method="get" target="_top">
+              <input name="start" value="1" type="hidden">
+              <input type="hidden" value="all" name="search_p_main_operator">
+              <input type="hidden" id="searchGroup" name="group" value="JavaOne">
+              <input type="text" id="searchbox" class="searchbox autoclear" value="Search" name="q">
+              <a onClick="var kwd=document.searchForm.q.value; navTrack('oow','en','search',kwd);" href="javascript:document.searchForm.submit()" class="u08gobutton" id="u08gobutton"></a>
+            </form></div>
+        </div></div>
+    </li>
+-->
+
+    <li>
+        <div class="u08register"><a href="http://www.oracle.com/us/dm/108207-wwmk11054239mpp001-cif-w-1845718.html" target="_blank">Register</a></div>
+    </li>
+</ul>
+</div>
+
+<div class="u08w5">
+    <div class="u08info">October 25 &#8211; 29, 2015 | San Francisco</div>
+    <div class="u08conf"><a href="http://www.oracle.com/openworld/index.html">Oracle OpenWorld</a>
+	</div>
+	<!--<div class="u08chat">
+		 <a rel="lightBox" href="https://oracle-open-world.custhelp.com/app/chat/chat_launch/source/openworld?iframe=true&amp;width=1000&amp;height=620">Chat Now</a>
+	</div> -->
+</div>
+
+
+</div>
+</div>
+
+<!-- END: oWidget_C/_Raw-Text/Display-siteroot -->
+
+
+				
+				
+		
+		
+
+
+	</div>
+	<!-- /U08v0 -->
+
+	<!-- Body goes here -->
+	
+			
+			
+	
+
+
+
+
+
+	
+	
+	
+		
+		
+
+	
+		
+		 		
+
+				
+
+
+
+
+
+	
+
+	
+	
+		
+		
+
+		<!-- BEGIN: oWidget_C/Raw-HTML/Display -->
+		
+
+		
+		
+			
+				
+			
+		
+
+		
+		
+               
+		
+		
+		
+			
+			
+				<div class="f09" id="f09">
+	<img alt="" class="f09bg" src="//www.oracle.com/us/assets/c12bg-generic-bg1-plan-2257708.jpg" /></div>
+<style type="text/css">
+.atarget{position:relative;display:block;top:-200px}</style>
+<a class="atarget" id="top" name="top"></a>
+<div class="f10">
+	<div class="f10w1">
+		<div class="f10w2">
+			<div class="c29 c29v3 c29v3alt">
+				<h1>
+					Registration</h1>
+			</div>
+			<div class="c61 c61v1">
+				<div class="c61w1">
+					<div class="c61w1z1">
+						<div class="c61w1z2">
+							<h1>
+								Register Now and Get the Most</h1>
+							<p>
+								When you sign up for JavaOne you get the most: access to Java Champions and technical sessions, opportunity to talk to Java experts, and chances to connect with community members from around the globe.</p>
+							<div class="obttn xxlbigbttn">
+								<a class="graphicbutton" href="//www.oracle.com/us/assets/openworld-2014-reg-pop-2167446.html?iframe=true&amp;width=560&amp;height=170" rel="LightBox">Register Now</a></div>
+						</div>
+					</div>
+				</div>
+				<div class="c61w2">
+					<div class="c61w2z1">
+						<h2>
+							Information</h2>
+						<ul class="listicons licon-white">
+							<li>
+								<a href="https://published-prd.activeevents.com/published/oracleus2014/files/12570/OpenWorld_JavaOne_2014_San_Francisco_How_To_Register_Final.pdf" target="_blank">Registration Instructions (PDF)</a></li>
+							<li>
+								<a href="https://published-prd.activeevents.com/published/oracleus2014/files/12587/2014_OpenWorld_JavaOne_San%20Francisco_REG_FAQs_final.pdf" target="_blank">FAQ&#39;s (PDF)</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			
+
+
+
+
+
+	
+
+	
+	
+		
+		
+
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+
+
+
+
+
+
+
+
+<div class="c59 c59v0" data-c59hide="HIDE SPONSORS" data-c59show="SHOW SPONSORS">
+ <div class="c59bannerRow">
+	<h4><strong>INNOVATION</strong></h4>
+  <a href="http://www.intel.com/" target="_blank"><img height="43px" src="//www.oracle.com/us/assets/c59-intel-1955240.png" alt="Intel" /></a></div>
+	<hr>
+<div class="c59bannerRow">
+<h4><strong>DIAMOND</strong></h4>
+				<a href="http://www.ibm.com/developerworks/java/" target="_blank"><img alt="IBM" height="43" src="//www.oracle.com/us/assets/14-ibm40-clr-2215788.png" /></a>
+                </div>
+<hr />
+<div class="c59bannerRow">
+<h4><strong>GOLD</strong></h4>
+				<a href="http://www.atlassian.com/" target="_blank"><img alt="Atlassian" height="43" src="//www.oracle.com/us/assets/14-atlassian40-clr-2252632.png" /></a>
+                </div>
+<hr />
+			<div class="c59bannerRow">
+				<h4>
+					<strong>SILVER</strong></h4>
+                    <a href="http://www.amd.com/en-us" target="_blank"><img alt="AMD" height="43" src="//www.oracle.com/us/assets/14-amd40-clr-2226336.png" /></a>
+				<a href="http://www.avaya.com/" target="_blank"><img alt="Avaya" height="43" src="//www.oracle.com/us/assets/14-avaya40-clr-2205028.png" /></a>
+                
+               <a href="http://www.github.com/" target="_blank"><img alt="Github" height="43" src="//www.oracle.com/us/assets/c59-github-2265242.png" /></a>
+                </div>
+			
+		
+		</div>
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+
+
+	
+	
+	
+
+
+			<div class="ct08">
+				<div class="ct08w1">
+					<ul class="ct08navtabs">
+						<li class="ct08selected">
+							<a href="#packages">Choose a Package</a></li>
+						<li>
+							<a href="#add-ons">More Packages/Add-Ons</a></li>
+						<li>
+							<a href="#benefits">Package Benefits</a></li>
+						<li>
+							<a href="#terms">Terms and Conditions</a></li>
+						<li>
+							<a href="#pass">Group Pass</a></li>
+						<li>
+							<a href="#letter">Visa Letter</a></li>
+					</ul>
+				</div>
+			</div>
+			<esi:include alt="/javaone/javaone-sponsor-bar-1983180.html" onerror="continue" src="/javaone/javaone-sponsor-bar-1983180.html"></esi:include></div>
+		<div class="f10w3">
+			<div class="c64 c64v11">
+				<div class="c64w1">
+					<div class="c64z1">
+						&nbsp;</div>
+					<div class="c64w13">
+						<div class="c64w14">
+							<a href="http://restlet.com/" target="_blank"><img alt="Restlet" src="//www.oracle.com/us/assets/restlet-126x73-clr-2202748.png" /></a></div>
+						<div class="c64w15">
+							<p>
+								Restlet is a Web API platform vendor, pioneer of RESTful web APIs. We provide cutting edge softwares to build web APIs including APISpark, our disruptive all-in-one PaaS.</p>
+						</div>
+					</div>
+				</div>
+				<div class="c64z2">
+					&nbsp;</div>
+			</div>
+			<div class="ct08 ct08v1">
+				<div class="ct08tabcontent">
+					<div class="ct08tabcontentitem" id="packages">
+						<div class="c62 c62v0">
+							<div class="c62w1">
+								<h3>
+									Choose a Package</h3>
+								<h4>
+									JavaOne $2,050</h4>
+								<p>
+									The cutoff for all registration deadlines is 11:59 p.m. (PT).</p>
+								<br />
+								<table>
+									<thead>
+										<tr>
+											<th>
+												&nbsp;</th>
+											<th>
+												Onsite
+												<p>
+													Sept. 27 &ndash; October 2, 2014</p>
+											</th>
+										</tr>
+										<tr>
+											<th>
+												JavaOne</th>
+											<td class="c22celltype1">
+												<h5 class="c62current">
+													$2,050</h5>
+												<div class="obttn xxlbigbttn">
+													<a class="graphicbutton" href="//www.oracle.com/us/assets/openworld-2014-reg-pop-2167446.html?iframe=true&amp;width=560&amp;height=170" rel="LightBox">Register</a></div>
+											</td>
+										</tr>
+										<tr>
+											<th>
+												JavaOne Government Rate*</th>
+											<td class="c22celltype1">
+												<h5 class="c62current">
+													$2,050</h5>
+												<div class="obttn xxlbigbttn">
+													<a class="graphicbutton" href="//www.oracle.com/us/assets/openworld-2014-reg-pop-2167446.html?iframe=true&amp;width=560&amp;height=170" rel="LightBox">Register</a></div>
+											</td>
+										</tr>
+										<tr>
+											<th>
+												JavaOne Government Rate without Appreciation Event*</th>
+											<td class="c22celltype1">
+												<h5 class="c62current">
+													$1,725</h5>
+												<div class="obttn xxlbigbttn">
+													<a class="graphicbutton" href="//www.oracle.com/us/assets/openworld-2014-reg-pop-2167446.html?iframe=true&amp;width=560&amp;height=170" rel="LightBox">Register</a></div>
+											</td>
+										</tr>
+										<tr>
+											<th>
+												Java University Pre-Conference Training</th>
+											<td class="c22celltype1">
+												<h5 class="c62current">
+													$800</h5>
+												<div class="obttn xxlbigbttn">
+													<a class="graphicbutton" href="//www.oracle.com/us/assets/openworld-2014-reg-pop-2167446.html?iframe=true&amp;width=560&amp;height=170" rel="LightBox">Register</a></div>
+											</td>
+										</tr>
+										<tr>
+											<th>
+												Oracle OpenWorld</th>
+											<td class="c22celltype1">
+												<h5 class="c62current">
+													$2,650</h5>
+												<div class="obttn xxlbigbttn">
+													<a class="graphicbutton" href="//www.oracle.com/us/assets/openworld-2014-reg-pop-2167446.html?iframe=true&amp;width=560&amp;height=170" rel="LightBox">Register</a></div>
+											</td>
+										</tr>
+										<tr>
+											<th>
+												Oracle OpenWorld Government Rate*</th>
+											<td class="c22celltype1">
+												<h5 class="c62current">
+													$2,650</h5>
+												<div class="obttn xxlbigbttn">
+													<a class="graphicbutton" href="//www.oracle.com/us/assets/openworld-2014-reg-pop-2167446.html?iframe=true&amp;width=560&amp;height=170" rel="LightBox">Register</a></div>
+											</td>
+										</tr>
+										<tr>
+											<th>
+												Discover</th>
+											<td class="c22celltype1">
+												<h5 class="c62current">
+													$125</h5>
+												<div class="obttn xxlbigbttn">
+													<a class="graphicbutton" href="//www.oracle.com/us/assets/openworld-2014-reg-pop-2167446.html?iframe=true&amp;width=560&amp;height=170" rel="LightBox">Register</a></div>
+											</td>
+										</tr>
+									</thead>
+								</table>
+							</div>
+						</div>
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<h4>
+									*Government Rate Eligibility</h4>
+								<p>
+									The government rate is open to bona fide employees of a national/federal, state, provincial, or local government entity, including public higher education institutions. <a class="showmore-link" href="#govt-id">Qualification Details</a></p>
+								<div class="showmore-content" id="govt-id">
+									<p>
+										US and Canadian attendees registering under the government rate will be required to show their employer-issued government ID or other proof of government employment during check-in at Moscone Center, Hilton San Francisco or San Francisco Marriott Marquis. Attendees outside the US and Canada registering under the government rate will be required to fax or e-mail proof of government employee status (copy of government photo ID or a letter on official government letterhead stating that they are an employee of that organization) to the JavaOne registration team in order to receive the discounted rate. Oracle may, at its sole discretion, charge the standard JavaOne conference rate to anyone not satisfying these requirements. Government discounts, with or without the appreciation event ticket, are available to those who qualify.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="ct08tabcontentitem" id="add-ons">
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<h3>
+									More Packages/Add-Ons</h3>
+								<p>
+									In addition to the core conference packages, add-on packages are available. If you used a priority code during registration to receive a complimentary conference pass and you choose to purchase an add-on package, you may need to provide payment information for the additional package(s).</p>
+								<hr />
+								<h4>
+									Add Oracle OpenWorld for an Additional <span class="cost-fr">$700</span></h4>
+								<p>
+									Add Oracle OpenWorld to your JavaOne registration for an additional US$700. You will have access to five days and more than 1,700 Oracle OpenWorld sessions, and much more.</p>
+								<p>
+									<a class="lnk-arrow lnk-block" href="/openworld/register/index.html" target="_blank">More Information</a></p>
+							</div>
+						</div>
+						<hr />
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<h4>
+									Student Registrations</h4>
+								<p>
+									Student registration passes are available at no cost to students taking a minimum of 6 units with a current student identification card. This offer applies only to accredited, nonprofit institutions of learning. You must be at least 18 years old to participate.</p>
+								<p>
+									What&#39;s Included</p>
+								<p>
+									Students get all of the benefits of a Discover pass, including Oracle OpenWorld and JavaOne keynotes and exhibition halls. Space permitting, students can also attend Oracle OpenWorld and JavaOne technical and Birds-of-a-Feather (BOF) sessions, hands-on labs, and tutorials.</p>
+								<p>
+									How to Get a Student Pass</p>
+								<p>
+									Make a PDF copy of your current student identification card and your 2014 fall class schedule. E-mail it to OpenWorldReg@gpj.com or JavaOneReg@gpj.com, or fax to +1.512.813.2402. Once your credentials have been verified you will be sent an e-mail with event registration.</p>
+							</div>
+						</div>
+						<hr />
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<h4>
+									Java University Pre-Conference Training <span class="cost-fr">$800</span></h4>
+								<p>
+									Make the most of your JavaOne conference experience with Java University. Java University takes place on Sunday, September 28, and offers several deep-dive training seminars that cover the most popular Java technology topics. Don&#39;t miss this opportunity to maximize your JavaOne experience in 2014.</p>
+							</div>
+						</div>
+						<hr />
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<h4>
+									Press and Bloggers</h4>
+								<p>
+									Press and blogger registration is subject to approval by Oracle corporate communications. When you register, your information will be forwarded through an approval process. Once approved, you will receive an e-mail confirming your registration and housing details (if applicable). Please be advised that Oracle OpenWorld and JavaOne 2014 events will be occupying the majority of hotel space in the San Francisco area. We recommend that you book your accommodations and flights as early as possible.</p>
+								<p>
+									Note for Bloggers: Please include the URL for your blog when registering for the event. Blogs should pertain to Oracle products and solutions and include multiple postings within the last month about the company in order to be considered for approval.</p>
+								<p>
+									Register for Press Oracle OpenWorld and JavaOne</p>
+							</div>
+						</div>
+						<hr />
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<h4>
+									Exhibitor Staff</h4>
+								<p>
+									To register as Exhibitor Staff, you&#39;ll need a registration priority code. If you do not already have this priority code, please contact the person from your company who is managing your exhibitor or sponsor participation at JavaOne. If you have any questions, please contact the Exhibitor Hotline at +1.650.506.0001 or e-mail <a href="mailto:partner-engagement_ww@oracle.com">partner-engagement_ww@oracle.com</a>. Note: If you are redeeming a complimentary pass by using a priority code provided by your company or a third party, you agree and acknowledge that your complete registration and housing information will be made available to the pass provider.</p>
+								<p>
+									<a class="lnk-arrow lnk-block" data-lbl="exhibitor-staff" data-trackas="registration" href="//www.oracle.com/us/assets/openworld-2014-reg-pop-2167446.html?iframe=true&amp;width=560&amp;height=170" rel="LightBox" target="_blank">Register for Exhibitor Staff<span> </span></a></p>
+							</div>
+						</div>
+						<hr />
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<h4>
+									Guest Package*<span class="e2hlght"> Sold Out</span></h4>
+								<p>
+									As a JavaOne attendee, your guest will have access to keynotes and exhibition halls at the conference and will be able to attend the following networking events:</p>
+								<ul class="mondo-grey listicons">
+									<li>
+										Taylor Street Caf&eacute; Open House</li>
+									<li>
+										Oracle Appreciation Event</li>
+									<li>
+										Conference meals (Monday through Thursday):
+										<p class="subtxt">
+											- Morning break</p>
+										<p class="subtxt">
+											- Lunch</p>
+										<p class="subtxt">
+											- Afternoon break</p>
+									</li>
+								</ul>
+								<p class="subtxt">
+									<em>*Full-conference attendees of JavaOne and Oracle OpenWorld get access to the Oracle Appreciation event as part of their package. Access for one additional person can be acquired by purchasing a JavaOne or Oracle OpenWorld Guest Package or an Oracle Appreciation Event Package. Conference attendees are limited to purchasing one Guest Package or one Appreciation Event Package. Anyone under the age of 21 will not be able to attend the Oracle Appreciation Event.</em></p>
+							</div>
+						</div>
+						<hr />
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<h4>
+									Oracle Appreciation Event Package*<span class="e2hlght"> Sold Out</span></h4>
+								<p>
+									The Oracle Appreciation Event is a perfect opportunity to network, celebrate, and rock out on Treasure Island. It will feature top acts in rock and roll, world-class cuisine, and a river of refreshments; Treasure Island will be transformed to celebrate Oracle customers and partners. Attendees of JavaOne and Oracle OpenWorld, may purchase an Oracle Appreciation Event package so that a friend or family member can join them at the Appreciation Event.</p>
+								<p class="subtxt">
+									<em>*Full-conference attendees of JavaOne and Oracle OpenWorld get access to the Oracle Appreciation event as part of their package. Access for one additional person can be acquired by purchasing a JavaOne or Oracle OpenWorld Guest Package or an Oracle Appreciation Event Package. Conference attendees are limited to purchasing one Guest Package or one Appreciation Event Package. Anyone under the age of 21 will not be able to attend the Oracle Appreciation Event. If you qualify for the government package, you can choose to register with or without the Oracle Appreciation Event.</em></p>
+							</div>
+						</div>
+						<hr />
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<h4>
+									Attendee Bag*<span class="cost-fr">$75</span></h4>
+								<p>
+									JavaOne and Oracle OpenWorld full-conference attendees receive these materials as part of their conference package. This add-on is for attendees who want to purchase an additional conference bag for a non-attending colleague, friend or family. The conference bag includes, but is not limited to, the following items:</p>
+								<ul class="mondo-grey listicons">
+									<li>
+										JavaOne logo bag</li>
+									<li>
+										Notebook</li>
+									<li>
+										Pen</li>
+									<li>
+										Water bottle</li>
+								</ul>
+								<p class="subtxt">
+									<em>*Package must be purchased in conjunction with a JavaOne or Oracle OpenWorld full-conference package and cannot be purchased as a standalone item.</em></p>
+							</div>
+						</div>
+						<hr />
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<h4>
+									Discover <span class="cost-fr">$75</span></h4>
+								<p>
+									Discover what JavaOne has to offer with access to five days of conference keynotes and the exhibition halls. *Discover is a standalone package and cannot be combined with JavaOne or Oracle OpenWorld packages. For more package benefits <a href="//www.oracle.com/javaone/register/index.html#benefits">click here</a>.</p>
+							</div>
+						</div>
+						<hr />
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<h4>
+									Carbon Offset Program<span class="cost-fr">$10</span></h4>
+								<p>
+									Oracle is making a financial commitment to offset 100% of carbon dioxide emissions from venue energy, ground shuttles, portable power generation, Oracle freight and event waste to landfill. We encourage attendees to join us and offset their hotel stay and travel to and from the event by making a small contribution to our carbon offset fund. This package offsets 2,000 pounds of greenhouse gas emissions&mdash;enough to balance one long-haul flight and three hotel nights. Funds collected from this add-on purchase will go toward <a href="http://www.terrapass.com/oracle-world/" target="_blank">TerraPass</a> carbon offset programs. This is an important part of running Oracle San Francisco 2014 as a sustainable conference and we thank you for your participation in helping us reach our goals. <strong><em class="e2hlght">Please note that this is voluntary, but you must opt-out if you do not wish to participate</em></strong>.</p>
+							</div>
+						</div>
+						<hr class="cg10" />
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<p>
+									<strong>Questions</strong><br />
+									Phone (Monday through Friday, 6:00 a.m. to 6:00 p.m. (PT)):<br />
+									1.866.382.7151 (US and Canada)<br />
+									+1.650.226.0820 (International)<br />
+									E-mail: <a href="mailto:OpenWorldReg@gpj.com">JavaOneReg@gpj.com</a></p>
+							</div>
+						</div>
+					</div>
+					<div class="ct08tabcontentitem" id="benefits">
+						<div class="c62 c62v1">
+							<div class="c62w1">
+								<h3>
+									Compare Packages</h3>
+								<table>
+									<thead>
+										<tr>
+											<th>
+												&nbsp;</th>
+											<th>
+												JavaOne</th>
+											<th>
+												Exhibitor Staff</th>
+											<th>
+												Discover</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<th>
+												Access to more than 450 JavaOne sessions, Hands-on Labs (HOLs), tutorials, and Birds-of-a-Feather (BOF) sessions</th>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62no">&nbsp;</span></td>
+											<td>
+												<span class="c62no">&nbsp;</span></td>
+										</tr>
+										<tr>
+											<th>
+												Keynotes for JavaOne and Oracle OpenWorld</th>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+										</tr>
+										<tr>
+											<th>
+												Oracle Users Forum</th>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62no">&nbsp;</span></td>
+											<td>
+												<span class="c62no">&nbsp;</span></td>
+										</tr>
+										<tr>
+											<th>
+												Oracle User Groups Pavilion</th>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+										</tr>
+										<tr>
+											<th>
+												Exhibition Hall&nbsp; and Java Hub at JavaOne&nbsp;</th>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+										</tr>
+										<tr>
+											<th>
+												Exhibition Halls and Oracle DEMOgrounds at Oracle OpenWorld</th>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+										</tr>
+										<tr>
+											<th>
+												Wireless Network and Social Avenue Centers</th>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+										</tr>
+										<tr>
+											<th>
+												JavaOne attendee bag</th>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62no">&nbsp;</span></td>
+											<td>
+												<span class="c62no">&nbsp;</span></td>
+										</tr>
+										<tr>
+											<th>
+												Duke&#39;s Cafe Open House</th>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62no">&nbsp;</span></td>
+											<td>
+												<span class="c62no">&nbsp;</span></td>
+										</tr>
+										<tr>
+											<th>
+												Oracle Appreciation Event</th>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62no">&nbsp;</span></td>
+											<td>
+												<span class="c62no">&nbsp;</span></td>
+										</tr>
+										<tr>
+											<th>
+												Oracle Technology Network&#39;s Tech Fest</th>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62no">&nbsp;</span></td>
+											<td>
+												<span class="c62no">&nbsp;</span></td>
+										</tr>
+										<tr>
+											<th>
+												CX Central Fest</th>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62no">&nbsp;</span></td>
+											<td>
+												<span class="c62no">&nbsp;</span></td>
+										</tr>
+										<tr>
+											<th>
+												Executive Solution sessions at Oracle OpenWorld</th>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+										</tr>
+										<tr>
+											<th>
+												Scene and Be Heard Theater presentations at Oracle OpenWorld</th>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+										</tr>
+										<tr>
+											<th>
+												Oracle Technology Network Lounge at Oracle OpenWorld, Moscone South</th>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+										</tr>
+										<tr>
+											<th>
+												Conference meals Monday through Thursday (morning break, lunch, afternoon break)</th>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62no">&nbsp;</span></td>
+											<td>
+												<span class="c62no">&nbsp;</span></td>
+										</tr>
+										<tr>
+											<th>
+												Exhibition Halls (extended hours)</th>
+											<td>
+												<span class="c62no">&nbsp;</span></td>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62no">&nbsp;</span></td>
+										</tr>
+										<tr>
+											<th>
+												Exhibitor lounges</th>
+											<td>
+												<span class="c62no">&nbsp;</span></td>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62no">&nbsp;</span></td>
+										</tr>
+										<tr>
+											<th>
+												Transportation to and from Moscone Center to some official conference hotels. Note: some hotels are within walking distance to Moscone Center. To get to the Zone, you need to transfer buses at Moscone West.</th>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+											<td>
+												<span class="c62yes">&nbsp;</span></td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+						</div>
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<p>
+									*For Oracle OpenWorld package benefits please <a href="/openworld/register/index.html#benefits" target="_blank">click here</a>.</p>
+							</div>
+						</div>
+					</div>
+					<div class="ct08tabcontentitem" id="terms">
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<h3>
+									Terms and Conditions</h3>
+								<p>
+									Per Oracle rules and regulations, every JavaOne attendee must register for the conference him/herself using his/her own Oracle.com single sign-on (SSO) login. If an attendee does not have an Oracle.com account already created, he/she must create one.</p>
+								<p>
+									JavaOne attendees must use their own badge while onsite at JavaOne. Badges are non-transferrable and <strong>may not</strong> be shared onsite. Any person found to be in violation of this policy will have their badge confiscated by event personnel and will be asked to leave the conference.</p>
+								<p>
+									Students are welcome at JavaOne 2014. They must be 18 years or older to attend any program or activity at the conference. If you&#39;re a student and interested in attending, details will be posted on the conference website soon.</p>
+								<p>
+									Anyone under the age of 21 will not be able to attend the Oracle Appreciation Event.</p>
+							</div>
+						</div>
+						<hr />
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<h4>
+									Substitutions</h4>
+								<p>
+									Substitutions must be requested by sending an e-mail to the JavaOne 2014 registration team at <a href="mailto:JavaOneReg@gpj.com">JavaOneReg@gpj.com</a> with the names of both the original and substitute registrants. <strong>All requests for substitutions must be received no later than 5:00 p.m. (PT) on September 26, 2014.</strong> Onsite substitutions will incur a $100 USD processing fee.</p>
+							</div>
+						</div>
+						<hr />
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<h4>
+									Cancellations</h4>
+								<p>
+									All cancellations must be received via an e-mail sent to the JavaOne 2014 registration team at JavaOneReg@gpj.com. Cancellation of travel and hotel reservations is the exclusive responsibility of the registrant.</p>
+								<p>
+									Note: Refund policy does not apply to packages where no registration fee has been paid. Refunds will not be given to attendees who do not pick up their badge credentials onsite.</p>
+								<ul class="mondo-grey listicons">
+									<li>
+										Full refund: Cancellations must be received <strong>August 8, 2014, 5:00 p.m. (PT)</strong>.</li>
+									<li>
+										50% refund: Cancellations must be received between<strong> August 8 and August 29, 2014, 5:00 p.m. (PT)</strong>.</li>
+									<li>
+										No refunds will be given for cancellations received after<strong> August 29, 2014, 5:00 p.m. (PT)</strong>.</li>
+									<li>
+										*No refunds are allowed for any group passes purchased.</li>
+								</ul>
+								<br />
+								<p>
+									Registration Add-On packages are subject to the cancellation dates and policies above. The following conditions also apply:</p>
+								<ul class="mondo-grey listicons">
+									<li>
+										Refunds will not be given if the Add-On package has been opened or accessed.</li>
+									<li>
+										Refunds will not be given for the conference materials Add-On package if those materials are picked up onsite.</li>
+								</ul>
+								<p>
+									Oracle reserves the right to refuse registration or admission to anyone for any reason. If Oracle cancels your registration, Oracle will provide a full refund.</p>
+							</div>
+						</div>
+						<hr />
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<h4>
+									ADA Information</h4>
+								<p>
+									Need special assistance onsite? Review the information below for your areas of interest. If you have any questions, please contact the Oracle OpenWorld 2014 Registration help desk (contact information below).</p>
+								<a class="lnk-arrow lnk-block" href="https://published-prd.activeevents.com/published/oracleus2014/files/12277/Oracle_2014_Special_Needs_Hearing_Impaired.pdf" target="_blank">Special needs hearing impaired (PDF)</a> <a class="lnk-arrow lnk-block" href="https://published-prd.activeevents.com/published/oracleus2014/files/13722/Special%20Needs%20-%20Wheelchair%20access%20text%202014%20final.pdf" target="_blank">Special needs wheelchair access (PDF)</a> <a class="lnk-arrow lnk-block" href="https://published-prd.activeevents.com/published/oracleus2014/files/12278/Oracle_2014_Special_Needs_Visually_Impaired.pdf" target="_blank">Special needs sight impaired (PDF)</a></div>
+						</div>
+						<hr />
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<h4>
+									Onsite Reprints for Lost Badges</h4>
+								<p>
+									If you lose your badge onsite, it can be reprinted for a processing fee of $75 USD. Just go to any registration counter and provide a valid photo ID.</p>
+							</div>
+						</div>
+						<hr />
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<h4>
+									Registration Deadlines</h4>
+								<p>
+									The cutoff for all registration deadlines is 11:59 p.m. (PT).</p>
+							</div>
+						</div>
+						<hr />
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<h4>
+									Questions?</h4>
+								<p>
+									If you have any further questions, please contact the JavaOne 2014 Registration and Housing help desk Monday through Friday, 6:00 a.m. to 6:00 p.m. (PT).</p>
+								<ul class="mondo-grey listicons">
+									<li>
+										1.866.382.7147 (US and Canada)</li>
+									<li>
+										+1.650.226.0820 (International)</li>
+								</ul>
+								<p>
+									Or e-mail <a href="mailto:JavaOneReg@gpj.com">JavaOneReg@gpj.com</a> or <a href="mailto:JavaOneHousing@gpj.com">JavaOneHousing@gpj.com</a>.</p>
+							</div>
+						</div>
+					</div>
+					<div class="ct08tabcontentitem" id="pass">
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<h3>
+									Group Pass Purchase</h3>
+								<p>
+									<a class="lnk-arrow lnk-block" href="https://myprofile.oracle.com/EndUser/faces/profile/createUser.jspx?nextURL=https://oracleus.activeevents.com/2014/portal/registration/GPPP" target="_blank">Register as a Group and Save</a></p>
+								<p>
+									If you plan to register five or more attendees for JavaOne 2014, take advantage of the group purchase option. Purchases must be prepaid by credit card; the purchaser will receive a priority code for each registration purchased. The purchaser can then give out the priority codes to whomever will be attending (from their company or user group, for example), and people can register at their convenience using the priority code that they have been given.</p>
+								<p>
+									Register between five to thirteen attendees and receive a savings of up to 20 percent off the price of each registration. Register 14 or more attendees and receive a savings of up to 28 percent off. The more passes you purchase, the greater the discount. Note: for convenience you can use the group purchase option to buy four registrations in a single credit card transaction, but only five or more registrations earn a discount.</p>
+								<p>
+									The following guidelines apply for group purchases:</p>
+								<ul class="mondo-grey listicons">
+									<li>
+										You can purchase five or more passes per order, but you will not receive a discount unless you purchase five or more passes.</li>
+									<li>
+										Discounts are not cumulative across multiple orders; discounts are based on the quantity being purchased for each individual order.</li>
+									<li>
+										Discounts are not cumulative across conference packages&mdash;they apply only to the quantity purchased per package per order. For example, the purchase of seven (7) full-conference passes to JavaOne and seven (7) passes to Oracle OpenWorld does not qualify for the 14-registration discount.</li>
+									<li>
+										If you purchased codes for more than one event, they should not be used together on the same registration record as group pass codes are not valid for any Add-On package(s). Any Add-On package(s) can be added/processed by contacting the help desk to purchase and add to your record.</li>
+									<li>
+										These group pass purchases cannot be combined with other offers/discounts.</li>
+									<li>
+										Government special rates are not offered within this discounted structure.</li>
+									<li>
+										Payment may only be made by credit card.</li>
+									<li>
+										NO refunds are allowed for any group passes purchased.</li>
+									<li>
+										For any group passes up to four there is no discount.</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="ct08tabcontentitem" id="letter">
+						<div class="c63 c63v0">
+							<div class="c63w1">
+								<h3>
+									Visa Invitation Letter</h3>
+								<p>
+									Within the registration process, you will be asked if you need a letter of invitation. Select &quot;Yes&quot;, please be prepared to provide your passport information. Once your registration is completed, visa letters will be processed as soon as the registration is <strong>paid in full</strong> and all of the required information has been received. Please note that visa letters <strong>will not</strong> be processed for Discover packages. Attendees are responsible for submitting the visa application to their local consulate or embassy.</p>
+								<p>
+									This information is intended for visitors traveling from outside the United States to attend JavaOne or Oracle OpenWorld 2014 in San Francisco, California from September 28 to October 2, 2014 and who will remain in the US only on a short-term basis. Note that a valid B-1 Business Visitor visa is required to enter the US, but citizens of &quot;Visa Waiver&quot; countries are exempt from having to obtain a US visa stamp.</p>
+								<p>
+									US Embassies and Consulates: <a href="http://www.usembassy.gov" target="_blank">http://www.usembassy.gov</a></p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+		
+		
+		
+
+		<!-- END: oWidget_C/Raw-HTML/Display -->
+	
+
+
+	
+	
+	
+
+ 									
+				 
+					
+		
+
+   	
+	
+  	
+	
+  	
+	
+  	
+	
+	
+
+
+
+	
+			
+			
+	
+
+
+
+
+
+
+
+
+	
+			
+			
+				
+					
+						  
+						  
+						  
+						  
+						  	
+							
+							
+
+<!-- BEGIN: oWidget_C/_Raw-Text/Display-siteroot -->
+
+
+
+
+
+
+
+<div id="u05" class="u05v4" data-trackas="footer">
+<div class="u05w1a" data-trackas="footer">
+<div class="u05w1">
+<div class="u05w2">
+<h5>About JavaOne</h5>
+<ul>
+    <li><a href="/javaone/location/index.html">Location</a></li>
+    <li><a href="/javaone/sustainability/index.html">Event Sustainability</a></li>
+   
+</ul>
+</div>
+
+<div class="u05w3">
+    <h5>Event Tools</h5>
+    <ul>
+        <li><a href="https://oracleus.activeevents.com/2014/connect/search.ww?eventRef=javaone#loadSearch-event=null&searchPhrase=&searchType=session&tc=0&sortBy=&p=&i(10009)=10111">Content Catalog</a></li>
+        <li><a href="https://oracleus.activeevents.com/2014/connect/login.ww">Schedule Builder</a></li>
+    </ul>
+    <h5>Oracle Conferences</h5>
+    <ul>
+        <li><a href="/openworld/index.html">Oracle OpenWorld</a></li>
+    </ul>
+    </div>
+    <div class="u05w4">
+    <h5>Connect</h5>
+    <div class="u05w9">
+    <ul>
+        <li><a href="http://www.facebook.com/javaone" target="_blank" class="u05facebooklinkcol">Facebook</a></li>
+        <li><a href="http://twitter.com/JavaOneConf/" target="_blank" class="u05twitterlinkcol">Twitter</a></li>
+        <li><a href="http://www.linkedin.com/groups/JavaOne-Conference-1749197" target="_blank" class="u05linkedinlinkcol">LinkedIn</a></li>
+        <li><a target="_blank" href="http://blogs.oracle.com/javaone/" class="u05bloglinkcol">Blog</a></li>
+    </ul>
+    </div>
+    </div>
+    <div class="u05w5"><!-- SB01v1 -->
+    <div class="sb01 sb01v1"><a href="http://www.oracle.com/us/dm/108207-wwmk11054239mpp001-cif-w-1845718.html" target="_blank"><img width="278" height="105" border="0" src="//www.oracle.com/us/assets/javaone-footer-register-423238.png" alt="Register Now"></a></div>
+    <!-- /SB01v1 -->   <!-- SB01v1 -->
+    <div class="sb01 sb01v1"><a href="/javaone/sponsor/index.html"><img width="278" height="105" border="0" src="//www.oracle.com/us/assets/javaone-footer-sponsor-423239.png" alt="Become a Sponsor"></a></div>
+    <!-- /SB01v1 --></div>
+    </div>
+    <div class="u05w7"><a class="u05-oraclelogo" href="http://www.oracle.com/us/index.html"><!--oracle--></a></div>
+    <div class="u05z3">&nbsp;</div>
+    <div class="u05w6">
+    <ul>
+        <li><a href="http://www.oracle.com/us/legal/index.html">Legal Notices</a></li>
+        <li><a href="http://www.oracle.com/us/legal/terms/index.html">Terms of Use</a></li>
+        <li><a href="http://www.oracle.com/us/legal/privacy/index.html">Privacy</a></li>
+    </ul>
+    </div>
+    </div>
+    </div>
+
+
+<!-- END: oWidget_C/_Raw-Text/Display-siteroot -->
+
+
+			
+						  
+						  
+						  
+						  
+						  
+
+
+
+
+
+	
+
+	
+	
+		
+		
+
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+
+
+
+
+
+
+
+
+
+<!-- SS_BEGIN_SNIPPET(fragment8,1)--><!-- Start SiteCatalyst code -->
+<script language="JavaScript" src="https://www.oracleimg.com/us/assets/metrics/ora_oow.js"></script>
+<!-- End SiteCatalyst code -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+
+
+	
+	
+	
+
+
+				
+				
+		
+		
+
+
+	<a name="top"></a>
+</body>
+</html>
+
+	

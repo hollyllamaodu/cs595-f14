@@ -1,0 +1,988 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+	<meta name="WT.qs_dlk" content="VC9XKwrIZ24AAEnFaZgAAAA6"/>
+
+	<meta name="WT.qs_shmv" content="lv20140820-allen.sf.quinstreet.net"/>
+	<meta http-equiv="Set-Cookie" content="WMUUID=VC9XKwrIZ24AAEnFaZgAAAA6; path=/;   domain=developer.com;"/>
+
+	<meta name="inject_params" content="WT.qs_dlk=VC9XKwrIZ24AAEnFaZgAAAA6&"/>
+
+	<meta http-equiv="Set-Cookie" content="inject_params=WT.qs_dlk=VC9XKwrIZ24AAEnFaZgAAAA6&; path=/;   domain=developer.com;"/>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> -->
+	<TITLE>Developer.com: Technical Information for Software Developers</TITLE>
+	<META NAME="description" CONTENT="Developer.com, the Flagship of the Developer.com Network, is the developer's source for in-depth programming tutorials and relevant development news across all major development platforms.">
+	<META NAME="keywords" CONTENT="Java, Open Source, JSF, Rails, Eclipse, Maven, Hibernate, Subversion, Servlet, Android, Jython, Python, Linux, Perl, clojure, Spring, JPA, Java EE, JDK, Java SE, Java ME, Ruby on Rails, PHP, Git, Cloud, Cloud Computing, Big data, BI, Business intelligence and analytics, Database, Mobile, Security, Microsoft">
+	
+	    <meta name='qs.quad.keywords'  content='{keywords:"95910|95850",nodes:"95910"}'>
+	<script language="javascript" src="http://e1.cdn.qnsr.com/cgi/b/95910/95850/tx.js"></script>
+    		
+	<META NAME="channel" CONTENT="Developer">
+
+		<link rel="icon" type="image/x-icon" href="http://www.developer.com/favicon.ico">
+
+	<meta name="application-name" content="Developer.com" />
+	<meta name="msapplication-tooltip" content="The Flagship of The Developer.com Network" />
+	<meta name="msapplication-starturl" content="http://www.developer.com/" />
+	<!-- end of Pinning settings --> 
+	<!-- Static Jump list task items -->
+	<meta name="msapplication-task" content="name=Go to Java Articles; action-uri=http://o1.qnsr.com/cgi/r?WT.qs_dlk=VC9XKwrIZ24AAEnFaZgAAAA6;;%3Bn=203%3Bc=821612%3Bs=9481%3Bx=7936%3Bf=201105061307380%3Bu=j%3Bq=1%3Bz=TIMESTAMP%3B; icon-uri=http://www.developer.com/favicon.ico" />
+	<meta name="msapplication-task" content="name=Go to Microsoft Articles; action-uri=http://o1.qnsr.com/cgi/r?WT.qs_dlk=VC9XKwrIZ24AAEnFaZgAAAA6;;%3Bn=203%3Bc=821613%3Bs=9481%3Bx=7936%3Bf=201105061310230%3Bu=j%3Bq=1%3Bz=TIMESTAMP%3B; icon-uri=http://www.developer.com/favicon.ico" />
+	<meta name="msapplication-task" content="name=Go to Open Source Articles; action-uri=http://o1.qnsr.com/cgi/r?WT.qs_dlk=VC9XKwrIZ24AAEnFaZgAAAA6;;%3Bn=203%3Bc=821614%3Bs=9481%3Bx=7936%3Bf=201105061312530%3Bu=j%3Bq=1%3Bz=TIMESTAMP%3B; icon-uri=http://www.developer.com/favicon.ico" />
+	<meta name="msapplication-task" content="name=Go to Daily Dev News; action-uri=http://o1.qnsr.com/cgi/r?WT.qs_dlk=VC9XKwrIZ24AAEnFaZgAAAA6;;%3Bn=203%3Bc=821615%3Bs=9481%3Bx=7936%3Bf=201105061315450%3Bu=j%3Bq=1%3Bz=TIMESTAMP%3B; icon-uri=http://www.developer.com/favicon.ico" />
+		
+	
+<script type="text/javascript">
+	(function() {
+		var useSSL = 'https:' == document.location.protocol;
+		var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+		document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+	})();
+</script>
+
+<script type="text/javascript">
+	var myBrowserWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+
+	function getDFPCookie(cname) {
+		var name = cname + "=";
+		var ca = document.cookie.split(';');
+		for (var i = 0; i < ca.length; i++) {
+			var c = ca[i].replace(/^\s+|\s+$/g, '');
+			if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+		}
+		return "";
+	}
+
+	var myWTDLK = getDFPCookie('WMUUID');
+	
+	eval(function(p,a,c,k,e,d){e=function(c){return c};if(!''.replace(/^/,String)){while(c--){d[c]=k[c]||c}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('0 2=1(\'2\');0 3=1(\'3\');0 6=1(\'6\');0 4=1(\'4\');0 5=1(\'5\');',7,7,'var|getDFPCookie|dn|jf|ir|noer|dr'.split('|'),0,{}));
+
+		googletag.defineSlot('/5055/b2b/dev/developer/imu', [[300,250],[300,600]], 'imu-1')
+						.addService(googletag.pubads()).setTargeting('pos', 'top');
+		googletag.defineSlot('/5055/b2b/dev/developer/imu', [[300,250],[300,600]], 'imu-2')
+						.addService(googletag.pubads()).setTargeting('pos', 'mid');
+		googletag.defineSlot('/5055/b2b/dev/developer/lb', [728,90], 'lb-1')
+						.addService(googletag.pubads()).setTargeting('pos', 'top');
+		googletag.defineSlot('/5055/b2b/dev/developer/lb', [728,90], 'lb-2')
+						.addService(googletag.pubads()).setTargeting('pos', 'low');
+		googletag.defineOutOfPageSlot('/5055/b2b/dev/developer/wa', 'wa-1')
+			.addService(googletag.pubads());
+		googletag.defineOutOfPageSlot('/5055/b2b/dev/developer/hero', 'hero-1')
+			.addService(googletag.pubads());
+
+		googletag.pubads().setTargeting('kw', ['Java', 'Open Source', 'JSF', 'Rails', 'Eclipse', 'Maven', 'Hibernate', 'Subversion', 'Servlet', 'Android', 'Jython', 'Python', 'Linux', 'Perl', 'clojure', 'Spring', 'JPA', 'Java EE', 'JDK', 'Java SE', 'Java ME', 'Ruby on Rails', 'PHP', 'Git', 'Cloud', 'Cloud Computing', 'Big data', 'BI', 'Business intelligence and analytics', 'Database', 'Mobile', 'Security', 'Microsoft']);
+		googletag.pubads().setTargeting('tax', ['development', 'purchase stage awareness']);
+		googletag.pubads().setTargeting('path', ['home']);
+		googletag.pubads().setTargeting('pagetype', 'index');
+		googletag.pubads().setTargeting('url', 'http://www.developer.com/');
+		if (myBrowserWidth < 641) {
+			googletag.pubads().setTargeting('pfm', 'mob');
+		} else {
+			googletag.pubads().setTargeting('pfm', 'des');
+		}
+		googletag.pubads().setTargeting('env', 'prod');
+		googletag.pubads().setTargeting('wtdlk', '' + myWTDLK + '');
+
+
+		eval(function(p,a,c,k,e,d){e=function(c){return c};if(!''.replace(/^/,String)){while(c--){d[c]=k[c]||c}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('0(5!=\'\'&&5!=\'2\'){1.3().4(\'5\',\'\'+5+\'\')}0(6!=\'\'&&6!=\'2\'){1.3().4(\'6\',\'\'+6+\'\')}0(9!=\'\'&&9!=\'2\'){1.3().4(\'9\',\'\'+9+\'\')}0(7!=\'\'&&7!=\'2\'){1.3().4(\'7\',\'\'+7+\'\')}0(8!=\'\'&&8!=\'2\'){1.3().4(\'8\',\'\'+8+\'\')}',10,10,'if|googletag|null|pubads|setTargeting|dn|jf|ir|noer|dr'.split('|'),0,{}))
+
+		googletag.pubads().enableSingleRequest();
+		googletag.pubads().collapseEmptyDivs();
+		googletag.pubads().enableSyncRendering();
+		googletag.disablePublisherConsole();
+
+		googletag.enableServices();
+</script>
+
+<script type="text/javascript">
+	var n_imu = 0;
+	var n_lb = 0;
+	var n_sky = 0;
+	var n_hero = 0;
+	var n_wa = 0;
+	var n_ciu = 0;
+	var n_siteskin = 0;
+	var n_button = 0;
+	var n_qmp = 0;
+	var n_m_lb = 0;
+	var n_m_imu = 0;
+	var n_m_hero = 0;
+	var n_st = 0;
+	
+	function displayDFPTag(tag) {
+		var this_tag_pos = 0;
+
+		if (tag.match(/^sponsor-logo.*/)) {
+			var temp = tag.split(":");
+			tag = temp[0];
+			this_tag_pos = temp[1];
+		}
+		
+		switch (tag) {
+			case "imu":
+				this_tag_pos = ++n_imu;
+				break;
+			case "lb":
+				this_tag_pos = ++n_lb;
+				break;
+			case "sky":
+				this_tag_pos = ++n_sky;
+				break;
+			case "hero":
+				this_tag_pos = ++n_hero;
+				break;
+			case "wa":
+				this_tag_pos = ++n_wa;
+				break;
+			case "ciu":
+				this_tag_pos = ++n_ciu;
+				break;
+			case "siteskin":
+				this_tag_pos = ++n_siteskin;
+				break;
+			case "button":
+				this_tag_pos = ++n_button;
+				break;
+			case "qmp":
+				this_tag_pos = ++n_qmp;
+				break;
+			case "m_lb":
+				this_tag_pos = ++n_m_lb;
+				break;
+			case "m_imu":
+				this_tag_pos = ++n_m_imu;
+				break;
+			case "m_hero":
+				this_tag_pos = ++n_m_hero;
+				break;
+			case "sponsor-logo":
+				break;
+			case "st":
+				this_tag_pos = ++n_st;
+				break;
+			default:
+				return "<!-- QS-DFP: Unknown tag '" + tag + "' requested -->";
+		}
+
+		var this_tag_div_id = tag + "-" + this_tag_pos;
+
+		tag_code = 	"<div id='" + this_tag_div_id + "'>\n" +
+					"	<scr" + "ipt type='text/javascript'>\n" +
+					"		googletag.display('" + this_tag_div_id + "');\n" +
+					"	</scr" + "ipt>\n" +
+					"</div>\n";
+
+		return tag_code;
+	}
+	
+	function refreshDFPTags() {
+		googletag.pubads().refresh();
+	}
+	
+	function hideQSDiv(element_id) {
+		if (document.getElementById) {
+			document.getElementById(element_id).style.visibility = "hidden";
+			document.getElementById(element_id).innerHTML = "";
+		}
+	}
+</script>
+	<link href="/stylesheets/styles.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+	<script type="text/javascript" src="/javascripts/common.js" ></script>
+	<script type="text/javascript" src="/javascripts/tabs.js" ></script>
+	<script type="text/javascript" src="/javascripts/hot_topics.js" ></script>
+	<script type="text/javascript" src="/javascripts/iepngfix_tilebg.js"></script>
+	<script type="text/javascript" src="/javascripts/feature_box.js"></script>
+
+<meta name="cache-creation-time" content="Fri Oct 3 19:01:49 PDT 2014" /></head>
+    <script>
+    window.webtrendsAsyncInit=function(){
+	var dcs=new Webtrends.dcs().init({
+	    dcsid:"dcs38irdn10000g0vc4171yva_9y7z",
+	    domain:"www.qsstats.com",
+	    timezone:-8,
+	    i18n:true,
+	    offsite:true,
+	    download:true,
+	    downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx,rar,gzip",
+	    anchor:true,
+	    javascript: true,
+	    onsitedoms:"developer.com",
+	    fpcdom:".developer.com",
+	    plugins:{
+		//hm:{src:"//s.webtrends.com/js/webtrends.hm.js"}
+	    }
+	    }).track();
+    };
+    (function(){
+	var s=document.createElement("script"); s.async=true; s.src="/imageserver/common/v10/webtrends.js";    
+	var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
+    }());
+    </script>
+    <noscript><img alt="dcsimg" id="dcsimg" width="1" height="1" src="//www.qsstats.com/dcs38irdn10000g0vc4171yva_9y7z/njs.gif?dcsuri=/index.php&amp;WT.js=No&amp;WT.tv=10.4.1&amp;dcssip=www.developer.com&amp;WT.qs_dlk=VC9XKwrIZ24AAEnFaZgAAAA6&"/></noscript>
+
+<body>
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "17199065" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=17199065&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!------ QUAD_AD 'interstitial' begin ------>
+<!-- QS-AD: 'wa' start -->
+<script language="JavaScript">
+	var my_tag = displayDFPTag("wa");
+	document.write(my_tag);
+</script>
+<!-- QS-AD: 'wa' end --><!------ QUAD_AD 'interstitial' end ------>
+<div class="wrapBody">
+    <!DOCTYPE html>
+<style type="text/css">
+<!--
+body { margin: 0; padding: 0;}
+.brandLogo a img { border: none;}
+.globalHeader { font: 100%/1.4 Arial, Helvetica, sans-serif; height: 25px; background-color: #111; background-image: url(/icom_includes/toolbars/globaltoolbar/img/header-bg.jpg); background-repeat: repeat-x;	background-position: center top;}
+.globalHeader .brandLogo { padding: 4px 0 0 .5em; float: left; }
+.globalHeader .brandLogo p { color: #666; font-family: Arial, sans-serif; font-size: 11px; padding: 0; margin: 0;}
+.globalHeader .login-register { text-align: right; padding: 4px .5em 0 .5em; /*float: right;*/}
+.globalHeader .login-register img{ cursor:pointer;}
+.globalHeader .logout { text-align: right;  }
+.globalHeader .logout .greeting span{ color: #797979; font-family: Arial, sans-serif; font-size: 13px; padding: 0; margin: 0;}
+.globalHeader .logout .greeting a{ color: #797979 !important; font-family: Arial, sans-serif; padding: 0; font-size: 13px; margin: 0;}
+.logout-link img{ cursor:pointer;margin-top:3px; margin-right:5px;}
+.clearfloat { clear:both; height:0;	font-size: 1px;	line-height: 0px;}
+-->
+</style>
+<div class="globalHeader" id="ITBE-ACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="ITBE-NonACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="Developer.com-ACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="Developer.com-NonACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="Developer.com-CustomToolbar" style="display:none;">
+</div>
+<div class="globalHeader" id="developerBrandForum" style="display:none;">
+</div>
+<div class="globalHeader" id="itbeBrandForum-CustomToolbar" style="display:none;">
+</div>
+<div class="globalHeader" id="itbeBrandForum" style="display:none;">
+</div>
+<div class="globalHeader" id="ZDE-ACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="ZDE-NonACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="BASELINE-ACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="BASELINE-NonACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="CINSIDER-ACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="CINSIDER-NonACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="CIOINSIGHT-ACLHeader" style="display:none;"> 
+</div>
+<div class="globalHeader" id="CIOINSIGHT-NonACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="EWEEK-ACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="EWEEK-NonACLHeader" style="display:none;">
+</div>
+<div class="globalHeader" id="WBG-ACLHeader" style="display:none;">
+</div>
+<script language="Javascript" src="/icom_includes/toolbars/globaltoolbar/scripts/brandingcode_new.js"></script>    
+<div id="header" class="dimMain">
+        <div class="logo">
+        <a href="/"><img src="/images0/developer_oldcolor.gif" width="304px" height="60px" border="0"/></a></div>
+    <div class="searchForm">
+        <form action="/search/result" id="cse-search-box">
+            <div style="width:344px;">
+                <input type="hidden" name="cx" value="partner-pub-8768004398756183:5787481041"/>
+                <input type="hidden" name="cof" value="FORID:10"/>
+                <input type="hidden" name="ie" value="UTF-8"/>
+                <input type="text" name="q" size="55" class="inputBox"/>
+                <button id="btnSearch" type="submit" name="sa" style="cursor:pointer; margin-left: 5px; vertical-align:middle; margin-bottom:18px; "></button>
+            </div>
+        </form>
+        <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+    </div>
+    <div style="margin-top:27px;">
+        <div style="float:left;padding-left: 10px;">
+                        <iframe src="http://www.facebook.com/plugins/like.php?href=http://www.developer.com/&amp;layout=button_count&amp;show_faces=false&amp;width=250&amp;action=like&amp;colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:80px; height:25px; margin-top:5px; margin-bottom: 0px"></iframe>
+        </div>
+        <div style="float: left; margin: 4px;">
+            <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.developer.com/" data-count="horizontal" data-via="DeveloperCom" data-text="Developer.com: Technical Information for Software Developers" data-size="small" ></a>
+            <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        </div>
+        <div style="float: left; margin: 4px;">
+            <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+            <g:plusone size="medium"></g:plusone>
+        </div>
+    </div>
+</div>
+
+<div id="headerBottomNav" class="dimMain">
+    <div class="deep_blue">
+        <ul class="myMenu">
+                            <li><a href="/java/" class="first">Java</a></li>
+                        <li><a href="/net/" class="first">Microsoft &amp; .NET</a></li>
+            <li id="wsHead" onMouseOver="setVisibility('ws', 'inline');" onMouseOut="setVisibility('ws','none');">
+                <a href="/ws/" class="sec">Mobile</a></li>
+            <li><a href="/ws/android/" class="sec">Android</a></li>
+            <li><a href="/open/" class="first">Open Source</a></li>
+            <li><a href="/services/" class="sec">Cloud</a></li>
+            <li><a href="/db/" class="first">Database</a></li>
+            <li><a href="/design/" class="first">Architecture</a></li>
+            <li><a href="/lang/" class="first">Other</a>
+                <ul>
+                    <li><a href="/project-center/cloud-development">Cloud Center</a></li>
+                    <li><a href="/mgmt/">Project Management</a></li>
+                    <li><a href="/lang/php/">PHP</a></li>
+                    <li><a href="/lang/perl/">Perl</a></li>
+                    <li><a href="/lang/rubyrails">Ruby</a></li>
+                    <li><a href="/lang/">Other Languages</a></li>
+                    <li><a href="/white_papers/">White papers</a></li>
+                </ul>
+            </li>
+            <!--<li><a href="/security/" class="sec">Security</a></li>
+            <li><a href="/mgmt/" class="sec">Project Management</a></li> -->
+            <li><a href="/research" class="sec"><span style="color:red;">NEW:</span> Research Center</a></li>
+        </ul>
+    </div>
+</div>
+<div style="float: left; width: 100%;">
+    				<div style="float: left;">
+				<div id="date_holder" class="clearfix">
+					<div class="date">October 3, 2014</div>
+					<div class="topic">
+						<span class="title">Hot Topics:</span>
+						<div id="hot_topics"><a href="#" class="prev">prev</a>
+							<div class="topics_list">
+								<div class="gr_l"></div>
+								<div class="list">
+									<ul>
+																			</ul>
+								</div>
+								<div class="gr_r"></div>
+							</div>
+						<a href="#" class="next">next</a></div>
+						<script type="text/javascript">
+							initHotTopics(document.getElementById("hot_topics"));
+						</script>
+					</div>
+				</div>
+				</div>
+    <div style="float: left;">
+	<form action="http://e-newsletters.developer.com/accountManagement" method="post" name="sub2nl">
+		<div class="newsletter_holder">Free Newsletters :
+			<select name="NLALKeys[]" class="dropdown">
+				<option value="1423" selected>Enterprise Development Update</option>
+				<option value="1463">Java/Open Source Update</option>
+				<option value="1473">Microsoft Tech Update</option>
+				<option value="1543">Web Development Update</option>
+			</select>
+			<a href="javascript:void(0);" onclick="document.forms['sub2nl'].submit(); return false;" class="button"><img src="/images0/search_button.png" alt="" width="29" height="26" border="0" /></a>
+		</div>
+	</form>
+</div>
+    <div style="margin-top: 8px;">
+        <a href="http://www.developer.com/developer/dev-25.xml" class="rss" title="rss feed" style="margin-right: 5px; vertical-align: top;">
+            <span style="font-size: 12px; font-weight: bold; padding-left: 5px;">RSS</span>
+            <span style="padding-left: 1px;">
+                <img src="/images0/feed-icon-14x14.png" width="14px" height="14px" alt="RSS feed" style="vertical-align: middle;">
+            </span>
+        </a>
+        <a target="_blank" href="http://www.devreader.com/">
+            <img border="0" title="Download our iPhone app" alt="Download our iPhone app" src="/images0/DR25x25.png">
+        </a>
+    </div>
+</div>
+    <div id="content">
+        <div class="col clearfix">
+            <div class="colLeft dimMainLeft">
+                <div class="android_link">
+                    <a href="/ws/android"><img src="/images0/android-dev-ad1.jpg" border="0" alt=""></a></div>
+                			<div id="featurebox">
+				<div class="wrap">
+					<!-- feature box items -->
+					<div class="feature_items">
+											<div id="feature-1" class="feature_item">
+							<div class="item_text">
+								<p class="heading"><a href="/java/working-with-generics-and-collections-in-java.html"><span>Working with Generics and Collections in Java</span></a></p>
+
+								<p><p>Leverage Generics and Collections in Java to store your data in memory for faster access and retrieval.</p></p>
+							</div>
+							<div class="item_image">
+									<img width="280" height="155" src="/imagesvr_ce/2284/soft-code_200x150-3.jpg" alt="feature 1 image" />
+							</div>
+						</div>
+											<div id="feature-2" class="feature_item">
+							<div class="item_text">
+								<p class="heading"><a href="/java/fun-with-d3.js-data-visualization-eye-candy-with-streaming-json.html"><span>Fun with D3.js: Data Visualization Eye Candy with Streaming JSON</span></a></p>
+
+								<p><p>At your next presentation, wow them with a bubble chart. It's nearly as precise as other charts, and a lot more fun.</p></p>
+							</div>
+							<div class="item_image">
+									<img width="280" height="155" src="/imagesvr_ce/9631/180407747_200x150.jpg" alt="feature 2 image" />
+							</div>
+						</div>
+											<div id="feature-3" class="feature_item">
+							<div class="item_text">
+								<p class="heading"><a href="/java/understanding-lambda-enabled-design-patterns.html"><span>Understanding Lambda-enabled Design Patterns</span></a></p>
+
+								<p><p>Implement lambda expressions from the perspective of a couple of standard design patterns.</p></p>
+							</div>
+							<div class="item_image">
+									<img width="280" height="155" src="/imagesvr_ce/3856/soft-code_200x150-12.jpg" alt="feature 3 image" />
+							</div>
+						</div>
+											<div id="feature-4" class="feature_item">
+							<div class="item_text">
+								<p class="heading"><a href="/design/validating-software-requirements.html"><span>Validating Software Requirements</span></a></p>
+
+								<p><p>Discover how to ensure that your software requirements are right.</p></p>
+							</div>
+							<div class="item_image">
+									<img width="280" height="155" src="/imagesvr_ce/7886/soft-code_200x150-5.jpg" alt="feature 4 image" />
+							</div>
+						</div>
+										</div>
+					<!-- //feature box items -->
+					<!-- feature box navigations -->
+					<div class="feature_nav">
+						<span class="next_label">Next:</span> 
+						<span class="next_title"></span>
+						<div class="nav">
+							<ul>
+															<li><a href="#feature-1" title="Working with Generics and Collections in Java">1</a></li>
+															<li><a href="#feature-2" title="Fun with D3.js: Data Visualization Eye Candy with Streaming JSON">2</a></li>
+															<li><a href="#feature-3" title="Understanding Lambda-enabled Design Patterns">3</a></li>
+															<li><a href="#feature-4" title="Validating Software Requirements">4</a></li>
+														</ul>
+						</div>
+					</div>
+					<!-- //feature box navigations -->
+				</div>
+			</div>
+			<script type="text/javascript">
+				initFeatureBox(document.getElementById("featurebox"));
+			</script>
+
+                <div class="vspace"></div>
+                <!-- top stories by section being -->
+                <div id="topStoriesBySection" class="section">
+                    <div class="sectionHeader">
+                        <h1>Top Developer Stories by Section</h1>
+                        <a href="#" class="more"></a>
+                    </div>
+                    <div class="sectionContent clearfix">
+                        <ul class="sectionItems">
+                            <div style="clear:both">
+                                						<li class="sectionItem">
+							<h3><a href="/java/">Java</a></h3>
+							<div class="arrowListing2">
+								<ul>
+									<li><span></span><a href="/java/working-with-generics-and-collections-in-java.html">Working with Generics and Collections in Java</a></li>
+									<li><span></span><a href="/java/fun-with-d3.js-data-visualization-eye-candy-with-streaming-json.html">Fun with D3.js: Data Visualization Eye Candy with Streaming JSON</a></li>
+									<li><span></span><a href="/java/understanding-lambda-enabled-design-patterns.html">Understanding Lambda-enabled Design Patterns</a></li>
+									<li><span></span><a href="/java/leveraging-design-patterns-for-productivity.html">Leveraging Design Patterns for Productivity</a></li>
+									<li><span></span><a href="/java/programming-with-member-references-in-netbeans-8.html">Programming with Member References in NetBeans 8</a></li>
+									<li><span></span><a href="/java/implementing-behavioral-patterns-in-java.html">Implementing Behavioral Patterns in Java</a></li>
+								</ul>
+							</div>
+							<a title="rss feed" class="rss" href="/java/dev-java-10.rss"><img width="12" height="12" alt="" src="/images0/rss.jpg"></a>
+							<a class="more" href="/java/">More Java...</a>
+						</li>
+						<li class="sectionItem">
+							<h3><a href="/net/">Microsoft & .NET</a></h3>
+							<div class="arrowListing2">
+								<ul>
+									<li><span></span><a href="/cloud/writing-applications-in-the-cloud-with-visual-studio-online.html">Writing Applications in the Cloud with Visual Studio Online</a></li>
+									<li><span></span><a href="/net/managing-the-testing-of-your-app-using-visual-studio-online.html">Managing the Testing of Your App Using Visual Studio Online</a></li>
+									<li><span></span><a href="/cloud/using-the-media-services-sdk-in-real-world-applications.html">Using the Media Services SDK in Real-World Applications</a></li>
+									<li><span></span><a href="/open/making-pull-requests-in-github.html">Making Pull Requests in GitHub</a></li>
+									<li><span></span><a href="/cloud/overview-of-azure-media-services.html">Overview of Azure Media Services</a></li>
+									<li><span></span><a href="/net/xbox-one-architecture-overview-for-developers.html">XBOX One – Architecture Overview for Developers</a></li>
+								</ul>
+							</div>
+							<a title="rss feed" class="rss" href="/net/dev-net-10.rss"><img width="12" height="12" alt="" src="/images0/rss.jpg"></a>
+							<a class="more" href="/net/">More Microsoft & .NET...</a>
+						</li>
+                            </div>
+                            <div style="clear:both">
+                                						<li class="sectionItem">
+							<h3><a href="/ws/">Mobile</a></h3>
+							<div class="arrowListing2">
+								<ul>
+									<li><span></span><a href="/ws/using-the-ionic-framework.html">Using the Ionic Framework</a></li>
+									<li><span></span><a href="/ws/other/developing-hybrid-apps-with-the-ionic-framework.html">Developing Hybrid Apps with the Ionic Framework</a></li>
+									<li><span></span><a href="/ws/android/migrating-from-eclipse-to-android-studio.html">Migrating From Eclipse to Android Studio</a></li>
+									<li><span></span><a href="/ws/xamarin-tips-from-the-trenches-compiling-and-emulation-for-ios-and-android.html">Xamarin Tips from the Trenches: Compiling and Emulation for iOS and Android</a></li>
+									<li><span></span><a href="/ws/android/the-new-xamarin-3-is-it-time-to-take-the-dive.html">The New Xamarin 3: Is it Time to Take the Dive?</a></li>
+									<li><span></span><a href="/net/beginners-guide-to-using-appstudio-for-building-windows-8-applications.html">Beginner’s Guide to Using AppStudio for Building Windows 8 Applications</a></li>
+								</ul>
+							</div>
+							<a title="rss feed" class="rss" href="/ws/dev-ws-10.rss"><img width="12" height="12" alt="" src="/images0/rss.jpg"></a>
+							<a class="more" href="/ws/">More Mobile...</a>
+						</li>
+						<li class="sectionItem">
+							<h3><a href="/daily_news/">Daily Developer News</a></h3>
+							<div class="arrowListing2">
+								<ul>
+									<li><span></span><a href="/daily_news/google-announces-physical-web-project.html">Google Announces Physical Web Project</a></li>
+									<li><span></span><a href="/daily_news/google-now-paying-up-to-15000-for-bugs.html">Google Now Paying up to $15,000 for Bugs</a></li>
+									<li><span></span><a href="/daily_news/rovio-slashes-130-jobs.html">Rovio Slashes 130 Jobs</a></li>
+									<li><span></span><a href="/daily_news/google-play-now-requires-developers-to-reveal-their-physical-addresses.html">Google Play Now Requires Developers to Reveal Their Physical Addresses</a></li>
+									<li><span></span><a href="/daily_news/report-ios-app-developers-spend-85-more-than-android-developers-for-every-app-install.html">Report: iOS App Developers Spend 85% More than Android Developers for Every App Install</a></li>
+									<li><span></span><a href="/daily_news/eclipse-foundation-launches-java-based-iot-stack.html">Eclipse Foundation Launches Java-Based IoT Stack</a></li>
+								</ul>
+							</div>
+							<a title="rss feed" class="rss" href="/daily_news/developer-nl_developer_dailynews-10.rss"><img width="12" height="12" alt="" src="/images0/rss.jpg"></a>
+							<a class="more" href="/daily_news/">More Daily Developer News...</a>
+						</li>
+                            </div>
+                            <div style="clear:both">
+                                						<li class="sectionItem">
+							<h3><a href="/services/">Cloud & Web Services</a></h3>
+							<div class="arrowListing2">
+								<ul>
+									<li><span></span><a href="/net/managing-the-testing-of-your-app-using-visual-studio-online.html">Managing the Testing of Your App Using Visual Studio Online</a></li>
+									<li><span></span><a href="/services/dev-cloud-5-tips-for-secure-environment.html">The Developer Cloud: 5 Tips for a Secure Environment</a></li>
+									<li><span></span><a href="/net/managing-projects-backlog-with-visual-studio-online.html">Managing Projects Backlog with Visual Studio Online</a></li>
+									<li><span></span><a href="/net/beginners-guide-to-visual-studio-online.html">Beginner's Guide to Visual Studio Online</a></li>
+									<li><span></span><a href="/services/getting-started-with-azure-hdinsight.html">Getting Started with Azure HDInsight</a></li>
+									<li><span></span><a href="/ws/using-windows-azure-blob-storage-to-store-windows-phone-app-data.html">Using Windows Azure Blob Storage to Store Windows Phone App Data</a></li>
+								</ul>
+							</div>
+							<a title="rss feed" class="rss" href="/services/dev-services-10.rss"><img width="12" height="12" alt="" src="/images0/rss.jpg"></a>
+							<a class="more" href="/services/">More Cloud & Web Services...</a>
+						</li>
+						<li class="sectionItem">
+							<h3><a href="/db/">Database</a></h3>
+							<div class="arrowListing2">
+								<ul>
+									<li><span></span><a href="/db/the-role-of-analytics-in-business-intelligence.html">The Role of Analytics in Business Intelligence</a></li>
+									<li><span></span><a href="/lang/php/test-better-deploy-faster-with-laravel.html">Test Better, Deploy Faster with Laravel</a></li>
+									<li><span></span><a href="/db/understanding-bi-components-and-data.html">Understanding BI Components and Data</a></li>
+									<li><span></span><a href="/lang/php/develop-faster-with-the-laravel-php-framework.html">Develop Faster with the Laravel PHP Framework</a></li>
+									<li><span></span><a href="/db/business-intelligence-an-overview.html">Business Intelligence – An Overview</a></li>
+									<li><span></span><a href="/net/writing-code-that-writes-code.html">Writing Code that Writes Code</a></li>
+								</ul>
+							</div>
+							<a title="rss feed" class="rss" href="/db/dev-db-10.rss"><img width="12" height="12" alt="" src="/images0/rss.jpg"></a>
+							<a class="more" href="/db/">More Database...</a>
+						</li>
+                            </div>
+                            <div style="clear:both">
+                                						<li class="sectionItem">
+							<h3><a href="/lang/php/">PHP</a></h3>
+							<div class="arrowListing2">
+								<ul>
+									<li><span></span><a href="/lang/php/test-better-deploy-faster-with-laravel.html">Test Better, Deploy Faster with Laravel</a></li>
+									<li><span></span><a href="/lang/php/develop-faster-with-the-laravel-php-framework.html">Develop Faster with the Laravel PHP Framework</a></li>
+									<li><span></span><a href="/lang/php/migrating-php-applications-to-run-on-windows-azure.html">Migrating PHP Applications to Run on Windows Azure</a></li>
+									<li><span></span><a href="/lang/php/the-state-of-php-in-2014.html">The State of PHP in 2014</a></li>
+								</ul>
+							</div>
+							<a title="rss feed" class="rss" href="/lang/php/dev-php-10.rss"><img width="12" height="12" alt="" src="/images0/rss.jpg"></a>
+							<a class="more" href="/lang/php/">More PHP...</a>
+						</li>
+						<li class="sectionItem">
+							<h3><a href="/open/">Open Source</a></h3>
+							<div class="arrowListing2">
+								<ul>
+									<li><span></span><a href="/java/working-with-generics-and-collections-in-java.html">Working with Generics and Collections in Java</a></li>
+									<li><span></span><a href="/java/fun-with-d3.js-data-visualization-eye-candy-with-streaming-json.html">Fun with D3.js: Data Visualization Eye Candy with Streaming JSON</a></li>
+									<li><span></span><a href="/java/understanding-lambda-enabled-design-patterns.html">Understanding Lambda-enabled Design Patterns</a></li>
+									<li><span></span><a href="/open/building-microservices-with-open-source-technologies.html">Building Microservices with Open Source Technologies</a></li>
+									<li><span></span><a href="/java/leveraging-design-patterns-for-productivity.html">Leveraging Design Patterns for Productivity</a></li>
+									<li><span></span><a href="/ws/using-the-ionic-framework.html">Using the Ionic Framework</a></li>
+								</ul>
+							</div>
+							<a title="rss feed" class="rss" href="/open/dev-open-10.rss"><img width="12" height="12" alt="" src="/images0/rss.jpg"></a>
+							<a class="more" href="/open/">More Open Source...</a>
+						</li>
+                            </div>
+                        </ul>
+                    </div>
+                </div>
+                <!-- top stories by section ends -->
+                <!-- newsest video section starts -->
+                <div id="videos" class="section" style="border-bottom: 2px solid #0021B5;">
+                    <div class="sectionHeader">
+                        <h2>Newest Developer Videos</h2>
+                        <a href="/video/" class="more">More...</a>
+                    </div>
+                    <div class="sectionContent">
+                        <style>
+  div.video_list p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+</style>
+<div class="video_list"><table align="center" border="0" cellpadding="0" cellspacing="0"><tr><td>
+        <div style="text-align:center;float:left;margin-right:2em;width:8em;">
+                <a href="javascript:NewWindow=window.open('http://videos.developer.com/video/?bcpid=86842592001&bclid=87185324001&bctid=1450219780001','myWindow','width=790,height=620,resizable=no');NewWindow.focus(); void(0);" class="mainheadline")"> <img src="http://assets.developer.com/icomvideothumbnails/dev_AndroidDev_tools2.jpg" style="border-style:none;"/> </a>
+                <br>
+                <span class="headline">
+                        <a style="color:#333333;font-size:11px;font-weight:bold;text-decoration:none;" href="javascript:NewWindow=window.open('http://videos.developer.com/video/?bcpid=86842592001&bclid=87185324001&bctid=1450219780001','myWindow','width=790,height=620,resizable=no');NewWindow.focus(); void(0);" class="mainheadline")">Building an Android Client to a RESTful Service</a>
+                </span>
+        </div>
+        <div style="text-align:center;float:left;margin-right:2em;width:8em;">
+                <a href="javascript:NewWindow=window.open('http://videos.developer.com/video/?bcpid=86842592001&bclid=87185324001&bctid=801096751001','myWindow','width=790,height=620,resizable=no');NewWindow.focus(); void(0);" class="mainheadline")"> <img src="http://assets.developer.com/icomvideothumbnails/dev_AndroidDev_tools.jpg" style="border-style:none;"/> </a>
+                <br>
+                <span class="headline">
+                        <a style="color:#333333;font-size:11px;font-weight:bold;text-decoration:none;" href="javascript:NewWindow=window.open('http://videos.developer.com/video/?bcpid=86842592001&bclid=87185324001&bctid=801096751001','myWindow','width=790,height=620,resizable=no');NewWindow.focus(); void(0);" class="mainheadline")">Android Development 101 - Development Tools</a>
+                </span>
+        </div>
+        <div style="text-align:center;float:left;margin-right:2em;width:8em;">
+                <a href="javascript:NewWindow=window.open('http://videos.developer.com/video/?bcpid=86842592001&bclid=87185324001&bctid=793834242001','myWindow','width=790,height=620,resizable=no');NewWindow.focus(); void(0);" class="mainheadline")"> <img src="http://assets.developer.com/icomvideothumbnails/dev_PHPUnit.jpg" style="border-style:none;"/> </a>
+                <br>
+                <span class="headline">
+                        <a style="color:#333333;font-size:11px;font-weight:bold;text-decoration:none;" href="javascript:NewWindow=window.open('http://videos.developer.com/video/?bcpid=86842592001&bclid=87185324001&bctid=793834242001','myWindow','width=790,height=620,resizable=no');NewWindow.focus(); void(0);" class="mainheadline")">Testing Your Web Forms with Zend_Test and PHPUnit</a>
+                </span>
+        </div>
+        <div style="text-align:center;float:left;margin-right:2em;width:8em;">
+                <a href="javascript:NewWindow=window.open('http://videos.developer.com/video/?bcpid=86842592001&bclid=87185324001&bctid=767998541001','myWindow','width=790,height=620,resizable=no');NewWindow.focus(); void(0);" class="mainheadline")"> <img src="http://assets.developer.com/icomvideothumbnails/dev_AndroidDev.jpg" style="border-style:none;"/> </a>
+                <br>
+                <span class="headline">
+                        <a style="color:#333333;font-size:11px;font-weight:bold;text-decoration:none;" href="javascript:NewWindow=window.open('http://videos.developer.com/video/?bcpid=86842592001&bclid=87185324001&bctid=767998541001','myWindow','width=790,height=620,resizable=no');NewWindow.focus(); void(0);" class="mainheadline")">Android Development 101 - Hello World</a>
+                </span>
+        </div>
+</td></tr></table></div>
+                    </div>
+                </div>
+                <!-- newest video section ends -->
+                <div class="clearfix"></div>
+            </div>
+            <div class="col colRight dimMainRight">
+	<div class="vspace" style="height:5px;"></div>
+		<div class="adsBox">
+	<!-- QS-AD: 'imu' start -->
+<script language="JavaScript">
+	var my_tag = displayDFPTag("imu");
+	document.write(my_tag);
+</script>
+<!-- QS-AD: 'imu' end -->	</div>
+	<div class="vspace"></div>
+		<div class="adsBox">
+		</div>
+	<div class="vspace"></div>
+					<div id="mostPopularStories" class="section">
+					<div class="sectionHeader">
+						<h2>Most Popular Developer Stories</h2>
+						<a href="#" class="more"></a>
+					</div>
+					<div class="sectionContent">
+						<div class="tabs">
+							<div class="tabsMenu clearfix">
+								<ul>
+									<li><a href="#mostPopularToday" class="selected">Today</a></li>
+									<li><a href="#mostPopularThisWeek">This Week</a></li>
+									<li><a href="#mostPopularAllTime">All-Time</a></li>
+								</ul>
+							</div>
+							<div class="tabsContents">
+								<div class="tabsContent selected" id="mostPopularToday">
+									<ul>
+				<li><a href="http://www.developer.com/java/data/article.php/3417381/Using-JDBC-with-MySQL-Getting-Started.htm"><span class="graytext">1</span> Using JDBC with MySQL, Getting Started</a></li>
+				<li><a href="http://www.developer.com/design/article.php/2109801/Creating-Use-Case-Diagrams.htm"><span class="graytext">2</span> Creating Use Case Diagrams</a></li>
+				<li><a href="http://www.developer.com/java/other/article.php/3556176/An-Introduction-to-Java-Annotations.htm"><span class="graytext">3</span> An Introduction to Java Annotations</a></li>
+				<li><a href="http://www.developer.com/java/other/article.php/3559931/Hibernate-Basics.htm"><span class="graytext">4</span> Hibernate Basics</a></li>
+				<li><a href="http://www.developer.com/net/asp/article.php/3096831/Using-ASPNET-To-Send-Email.htm"><span class="graytext">5</span> Using ASP.NET To Send Email</a></li>
+									</ul>
+								</div>
+								<div class="tabsContent" id="mostPopularThisWeek">
+									<ul>
+				<li><a href="http://www.developer.com/java/data/article.php/3417381/Using-JDBC-with-MySQL-Getting-Started.htm"><span class="graytext">1</span> Using JDBC with MySQL, Getting Started</a></li>
+				<li><a href="http://www.developer.com/lang/php/article.php/3896056/10-Experimental-PHP-Projects-Pushing-the-Envelope.htm"><span class="graytext">2</span> 10 Experimental PHP Projects Pushing the Envelope</a></li>
+				<li><a href="http://www.developer.com/java/other/article.php/3559931/Hibernate-Basics.htm"><span class="graytext">3</span> Hibernate Basics</a></li>
+				<li><a href="http://www.developer.com/java/other/article.php/3556176/An-Introduction-to-Java-Annotations.htm"><span class="graytext">4</span> An Introduction to Java Annotations</a></li>
+				<li><a href="http://www.developer.com/db/article.php/3379271/Oracle-Programming-with-PLSQL-Collections.htm"><span class="graytext">5</span> Oracle Programming with PL/SQL Collections</a></li>
+									</ul>
+								</div>
+								<div class="tabsContent" id="mostPopularAllTime">
+									<ul>
+				<li><a href="http://www.developer.com/java/data/article.php/3417381/Using-JDBC-with-MySQL-Getting-Started.htm"><span class="graytext">1</span> Using JDBC with MySQL, Getting Started</a></li>
+				<li><a href="http://www.developer.com/java/other/article.php/3559931/Hibernate-Basics.htm"><span class="graytext">2</span> Hibernate Basics</a></li>
+				<li><a href="http://www.developer.com/db/article.php/3379271/Oracle-Programming-with-PLSQL-Collections.htm"><span class="graytext">3</span> Oracle Programming with PL/SQL Collections</a></li>
+				<li><a href="http://www.developer.com/java/other/article.php/3556176/An-Introduction-to-Java-Annotations.htm"><span class="graytext">4</span> An Introduction to Java Annotations</a></li>
+				<li><a href="http://www.developer.com/design/article.php/2109801/Creating-Use-Case-Diagrams.htm"><span class="graytext">5</span> Creating Use Case Diagrams</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+	<!-- Code to put on site page to show pinning option --> 
+<!-- commented out 10/22 as per CR "CHG231107: Remove IE 9 Site pinning check" 
+<script type="text/javascript" language="javascript">
+	if(jQuery.browser.msie){
+		if(document.documentMode != undefined && document.documentMode==9){
+			if (!window.external.msIsSiteMode()) {
+				document.write('<div id="pinMeContainer"><img class="msPinSite" src="/images0/developer64x64.png" height="64" weight="64" /><br/><span id="pinMe">To Pin this site, drag this image to the left to your Windows Taskbar. Try it now!</span></div>'); 
+			}else {
+					try {
+					  if (window.external.msIsSiteMode()) {
+							jQuery.get('http://www.developer.com/latest_articles', function(data){
+								displayLatestNews(data);
+							});
+					  }
+				  } catch (ex) { }
+			}
+		}else{
+			document.write('<div id="pinMeContainer"><img class="msPinSite" src="/images0/developer64x64.png" height="64" weight="64" /><br/><span id="pinMe">Upgrade your browser to IE 9 to see the power of Site Pinning!</span></div>'); 	
+		}
+	}
+	function displayLatestNews(data){
+		try{
+			g_ext = window.external;
+			if(data.articles != undefined && data.articles.length){
+				g_ext.msSiteModeClearJumpList();
+				g_ext.msSiteModeCreateJumplist('Developer.com Latest News');
+				for(i=0; i<data.articles.length; i++){
+					g_ext.msSiteModeAddJumpListItem (data.articles[i].title, data.articles[i].link, 'http://www.developer.com/favicon.ico');
+				}
+				
+				var dt = new Date();
+				var updated = (dt.getMonth()+1) +"/"+(dt.getDay()+1)+"/"+dt.getFullYear()+" "+dt.toLocaleTimeString();
+
+				g_ext.msSiteModeAddJumpListItem ('Last updated - '+updated, 'http://www.developer.com/', 'http://www.developer.com//images0/refresh.ico');
+				g_ext.msSiteModeShowJumpList();
+			}
+		}catch(ex){ }
+	}
+</script>
+-->
+<!-- End of code to put on site page to show pinning option --> 	<div class="adsBox">
+	<!-- QS-AD: 'imu' start -->
+<script language="JavaScript">
+	var my_tag = displayDFPTag("imu");
+	document.write(my_tag);
+</script>
+<!-- QS-AD: 'imu' end -->	</div>
+	<div class="vspace"></div>
+						<div id="mostCommentedOn" class="section">
+					<div class="sectionHeader">
+						<h2>Most Commented On</h2>
+						<a href="#" class="more"></a>
+					</div>
+					<div class="sectionContent">
+						<div class="tabs">
+							<div class="tabsMenu clearfix">
+								<ul>
+									<li><a href="#mostCommentedOnThisWeek" class="selected">This Week</a></li>
+									<li><a href="#mostCommentedOnThisMonth">This Month</a></li>
+									<li><a href="#mostCommentedOnAllTime">All-Time</a></li>
+								</ul>
+							</div>
+							<div class="tabsContents">
+								<div class="tabsContent selected" id="mostCommentedOnThisWeek">
+									<ul>
+<li><a href="http://www.developer.com/article.php/3896056"><span class="graytext">1</span> 10 Experimental PHP Projects Pushing the<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Envelope</a></li><li><a href="http://www.developer.com/article.php/777761"><span class="graytext">2</span> Day 1: Learning the Basics of PL/SQL</a></li><li><a href="http://www.developer.com/article.php/3336751"><span class="graytext">3</span> C# Tip: Placing Your C# Application in the<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System Tray</a></li><li><a href="http://www.developer.com/article.php/641521"><span class="graytext">4</span> Logical Versus Physical Database Modeling</a></li><li><a href="http://www.developer.com/article.php/3896711"><span class="graytext">5</span> Is Ubuntu Contributing as Much as It Should to<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Free Software Projects?</a></li>									</ul>
+								</div>
+								<div class="tabsContent" id="mostCommentedOnThisMonth">
+									<ul>
+<li><a href="http://www.developer.com/article.php/777761"><span class="graytext">1</span> Day 1: Learning the Basics of PL/SQL</a></li><li><a href="http://www.developer.com/article.php/3894316"><span class="graytext">2</span> The 5 Developer Certifications You'll Wish You<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Had in 2015</a></li><li><a href="http://www.developer.com/article.php/3896056"><span class="graytext">3</span> 10 Experimental PHP Projects Pushing the<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Envelope</a></li><li><a href="http://www.developer.com/article.php/1495931"><span class="graytext">4</span> An Introduction to Struts</a></li><li><a href="http://www.developer.com/article.php/3894566"><span class="graytext">5</span> Inside Facebook's Open Source Infrastructure</a></li>									</ul>
+								</div>
+								<div class="tabsContent" id="mostCommentedOnAllTime">
+									<ul>
+<li><a href="http://www.developer.com/article.php/2109801"><span class="graytext">1</span> Creating Use Case Diagrams</a></li><li><a href="http://www.developer.com/article.php/777761"><span class="graytext">2</span> Day 1: Learning the Basics of PL/SQL</a></li><li><a href="http://www.developer.com/article.php/3336751"><span class="graytext">3</span> C# Tip: Placing Your C# Application in the<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System Tray</a></li><li><a href="http://www.developer.com/article.php/3096831"><span class="graytext">4</span> Using ASP.NET To Send Email</a></li><li><a href="http://www.developer.com/article.php/3417381"><span class="graytext">5</span> Using JDBC with MySQL, Getting Started</a></li>									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+	
+<div class="clearfix ebooksmore">
+  <div id="partners" class="section">
+    <div class="sectionHeader">
+		<h3>Recommended Partner Resources</h3>
+    </div>
+    <div class="sectionContent">
+      <ul class="noBullets">
+					<li><a href="http://o1.qnsr.com/cgi/r?WT.qs_dlk=VC9XKwrIZ24AAEnFaZgAAAA6;;;n=203;c=1412833;s=9272;x=7936;f=201401311259490;u=j;z=TIMESTAMP;">Cloud Computing Showcase for Developers</a></li>
+					<li><a href="http://o1.qnsr.com/cgi/r?WT.qs_dlk=VC9XKwrIZ24AAEnFaZgAAAA6;;;n=203;c=1412834;s=9272;x=7936;f=201401311301320;u=j;z=TIMESTAMP;">Mobile Development Center</a></li>
+					<li><a href="http://o1.qnsr.com/cgi/r?WT.qs_dlk=VC9XKwrIZ24AAEnFaZgAAAA6;;;n=203;c=1412836;s=9272;x=7936;f=201401311303220;u=j;z=TIMESTAMP;">HTML 5 Development Center</a></li>
+		      </ul>
+    </div>
+  </div>
+</div>	</div>
+            <div class="vspace clear"></div>
+            <div class="vspace clear"></div>
+                        <div style="text-align: center;">
+			<!-- QS-AD: 'lb' start -->
+<script language="JavaScript">
+	var my_tag = displayDFPTag("lb");
+	document.write(my_tag);
+</script>
+<!-- QS-AD: 'lb' end -->            </div>
+			<div align="center">
+				<a href="/sitemap.html">Sitemap</a> | <a href="/contactus">Contact Us</a>
+			</div>
+			<br/>
+			<FONT SIZE="-1" FACE="arial, helvetica">
+			<style type="text/css">
+#developerBrand-footer {
+	text-align:center; 
+	margin:0 auto; 
+}
+#footerlinks {
+	font-size:12px;
+	word-spacing:1px;
+}
+#footerlinks a {
+	color:#000000;
+	margin:5px 0 0 0;
+}
+#itbeBrand-footer {
+	text-align:center; 
+	margin:0 auto; 
+}
+#itbusinessedge-footer {
+	text-align:center; 
+	margin:0 auto; 
+}
+#footercopyright {
+	font-size:12px;
+	margin:5px 0 0 0;
+}
+#developerBrandForum-footer {
+	text-align:center; 
+	margin:0 auto; 
+}
+#itbeBrandForum-footer {
+	text-align:center; 
+	margin:0 auto; 
+}
+.footerLogoClass{
+	text-align:center; 
+	margin:0 auto; 
+}
+</style>
+<div id="developerBrand-footer" style="display:none">
+</div>
+<div id="itbeBrand-footer" style="display:none">
+</div>
+<div id="itbusinessedge-footer" style="display:none">
+</div>
+<div id="zde-footer" style="display:none" class="footerLogoClass">
+</div>
+<div id="baseline-footer" style="display:none" class="footerLogoClass">
+</div>
+<div id="cinsider-footer" style="display:none" class="footerLogoClass">
+</div>
+<div id="cioinsight-footer" style="display:none" class="footerLogoClass">
+</div>
+<div id="eweek-footer" style="display:none" class="footerLogoClass">
+</div>
+<div id="enterpriseappstoday-footer" style="display:none" class="footerLogoClass">
+</div>
+<div id="eseminar-footer" style="display:none" class="footerLogoClass">
+</div>
+<div id="wbg-footer" style="display:none" class="footerLogoClass">
+</div>
+<div id="developerBrandForum-footer" style="display:none">
+</div>
+<div id="itbeBrandForum-footer" style="display:none">
+</div>
+<script language="Javascript" src="/icom_includes/footers/scripts/footerbrandingcode.js"></script>
+<!-- Google Analytics -->
+<script src="/icom_includes/footers/scripts/ga.js"  type="text/javascript"></script>
+<script  type="text/javascript" >
+<!--     hide from no js browsers
+delete Array.prototype.itemValidation;
+delete Array.prototype.isArray;
+var superTracker = _gat._getTracker("UA-2838492-1");
+superTracker._initData();
+superTracker._trackPageview();
+
+-->
+</script>
+<script  type="text/javascript" >
+<!--     hide from no js browsers
+   var site_name =  location.hostname;
+   if ( site_name.indexOf("www.") != 0 ) {
+     site_name  = "www."+site_name ;
+   }
+   document.write("<SCR" + "IPT LANGUAGE='JavaScript1.2' SRC='/icom_includes/footers/sites/"+ site_name +".js' TYPE='text/javascript'><\/SCR" + "IPT>");
+-->
+</script>
+<script  type="text/javascript" >
+<!--hide from no js browsers
+   pageTracker._initData();
+   pageTracker._trackPageview();
+   // -->
+</script>
+<!-- End Google Analytics -->
+<!-- Begin CCM Tag --> 
+<script type="text/javascript"> 
+function getCookiesForML(cname) {
+	var name = cname + "=";
+	var ca = document.cookie.split(';');
+	for (var i = 0; i < ca.length; i++) {
+		var c = ca[i].replace(/^\s+|\s+$/g, '');
+		if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+	}
+	return "";
+}
+if(typeof mlProfileID != 'undefined'){
+	var mlEml = getCookiesForML('eml');
+	//--------DFP Topic Write Out -------------// 
+	// document.write('<scri' + 'pt src="//in.ml314.com/ctp.ashx?varname=_mlTopics&type=string&output=name&limit=3' + '&cb=' + Math.floor(Math.random() * 9876543) + '"></scri' + 'pt>');
+	window.onload = function () {
+		//--------CCM TAG -------------------// 
+		(function () { 
+		_ml = window._ml || {}; 
+		_ml.eid = '50027'; 
+		_ml.clid = mlProfileID; 
+		if(typeof mlEml != 'undefined')
+			_ml.em = mlEml;
+		else
+			_ml.em = '';
+		_ml.ht = 'shex';
+		if(typeof Webtrends != 'undefined'){		
+			if(typeof Webtrends.dcss.dcsobj_0.WT.co_f != 'undefined')
+				_ml.fp = Webtrends.dcss.dcsobj_0.WT.co_f; 
+			else
+				_ml.fp = '';
+		}
+		else
+		{
+			_ml.fp = '';
+		}
+		var s = document.getElementsByTagName('script')[0], cd = new Date(), mltag = document.createElement('script'); mltag.type = 'text/javascript'; mltag.async = true; mltag.src = '//ml314.com/tag.aspx?' + cd.getDate() + cd.getMonth() + cd.getFullYear(); s.parentNode.insertBefore(mltag, s); 
+		})(); 
+	}
+}
+</script> 
+<!-- End CCM Tag -->
+			</FONT>        </div>
+    </div>
+</div>
+
+<!-- Code for Action: QuinStreet - Developer Channel -->
+<!-- Begin Rocket Fuel Conversion Action Tracking Code Version 7 -->
+<img src='http://20502655p.rfihub.com/ca.gif?rb=3335&ca=20502655&ra=10032014_07:01:49_1016249316' height=0 width=0 style='display:none' alt='Rocket Fuel'/>
+<!-- End Rocket Fuel Conversion Action Tracking Code Version7 -->
+
+<!-- QS-AD: 'hero' start -->
+<script language="JavaScript">
+	var my_tag = displayDFPTag("hero");
+	document.write(my_tag);
+</script>
+<!-- QS-AD: 'hero' end -->
+</body>
+</html>

@@ -1,0 +1,267 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>JSF 2.3 has been approved | Java.net</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/default/files/java_adaptive_favicon_2.png" type="image/x-icon" />
+<meta name="description" content="Java.net is the source for Java Technology Collaboration." />
+<meta name="keywords" content="java,java.net,java technology collaboration,java collaboration,javafx,glassfiish,embedded,netbeans,GlassFish,Java Enterprise" />
+<link rel="canonical" href="http://weblogs.java.net/blog/mriem/archive/2014/09/23/jsf-23-has-been-approved" />
+<meta name="revisit-after" content="1 day" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_01b8c7c44a6a634d79d4538d4a3cdfd3.css" />
+  <style type="text/css">#container{width:100%;}.two-sidebars .content-inner{margin-left:240px; margin-right:240px;}.sidebar-first .content-inner{margin-left:240px; margin-right:0;}.sidebar-last .content-inner{margin-right:240px; margin-left:0;}#sidebar-first{width:240px;margin-left:-100%;}#sidebar-last{width:240px;margin-left:-240px;}</style>    <!--[if lte IE 6]><style type="text/css" media="all">@import "/sites/all/themes/java_adaptive/css/ie6.css";</style><![endif]-->
+    <!--[if IE 7]><style type="text/css" media="all">@import "/sites/all/themes/java_adaptive/css/ie7.css";</style><![endif]-->
+    <!--[if IE 8]><style type="text/css" media="all">@import "/sites/all/themes/java_adaptive/css/ie8.css";</style><![endif]-->
+
+</head>
+<body class="not-front not-logged-in article-type-blog two-sidebars section-blog page-node-930745">
+  <div id="container">
+
+    <div id="skip-nav" class="element-invisible">
+      <!-- To adjust the display of the skip link see the Advanced theme settings (General settings), and never use display:none! -->
+      <a href="#main-content">Skip to main content</a>
+    </div>
+
+        
+    
+          <div id="leaderboard"><div id="block-block-31"  class="block">
+  <div class="block-inner">
+
+    
+    <div class="content"><a href="https://java.net/people/login?original_uri=http://weblogs.java.net/blog/mriem/archive/2014/09/23/jsf-23-has-been-approved">Login</a><a href="https://java.net/people/new">Join Now</a><a href="https://java.net/projects/help/pages/Home" class="last">Help</a></div>
+
+    
+  </div>
+</div> <!-- /block -->
+</div> <!-- /leaderboard -->
+    
+    <div id="header" class="clearfix">
+
+              <div id="branding">
+
+                                    <div class="logo-site-name"><strong>
+                <span id="logo"><a href="/" rel="home"><img src="/sites/all/themes/java_adaptive/images/logo.png" alt="Java.net logo" title="Home page"/></a></span>                              </strong></div> <!-- /logo/site name -->
+                      
+                      <div id="site-slogan">The Source for Java Technology Collaboration</div> <!-- /slogan -->
+          
+        </div> <!-- /branding -->
+      
+              <div id="search-box" class="hide-label">
+        <!-- default search disabled  -->
+          <form action="/search/node" method="post" id="search-theme-form">
+            <div id="search">
+            <!-- Filter search by content type -->
+              <input type="hidden" value="search_form" id="edit-search-form" name="form_id" />
+              <div style="margin-left: -10px;" class="checks">
+                <span><input type="checkbox" name="type[forum]" id="edit-forums" value="forum" /> <span class="label">Forums</span></span>
+                <span><input type="checkbox" name="type[blog]" id="edit-blogs" value="blog" /> <span class="label">Blogs</span></span>
+                <span><input type="checkbox" name="projects" id="edit-projects" value="project" /> <span class="label">Projects</span></span>
+                <span><input type="checkbox" name="people" id="edit-people" value="people" /> <span class="label">People</span></span>
+              </div>
+            <!-- Search text field and submit -->
+              <input type="text" class="form-text" id="edit-search-theme-form-1" value="Search All" size="15" onclick="this.value = ''" onblur="if (!this.value) this.value = ''" name="keys" />
+              <input type="submit" value="" name="op" title="Search" class="form-submit" alt="Search" />
+              <!-- <input type="hidden" value="1541aa1dd84a1d3a7219c7e57f4a19c4" name="form_token" /> -->
+            </div>
+          </form>
+        </div> <!-- /search box -->
+      
+      
+    </div> <!-- /header -->
+
+    
+          <div id="primary" class="nav">
+        <div id="primary-inner">
+        <h2 class="element-invisible">Main Menu</h2>
+        <ul class="primary-links clearfix"><li class="menu-8209"><a href="/" title="Return to the java.net homepage">Home</a></li>
+<li class="menu-8210"><a href="/projects" title="View the projects hosted on java.net">Projects</a></li>
+<li class="menu-8211"><a href="/forums" title="Participate in the java.net forums">Forums</a></li>
+<li class="menu-8240"><a href="https://java.net/people" title="View all the people involved with java.net">People</a></li>
+<li class="menu-8241"><a href="/jugs/java-user-groups" title="Get involved in your local Java User Group (JUG)">Java User Groups</a></li>
+<li class="menu-19124"><a href="/community/jcp" title="Get involved with the Java Community Process!">JCP</a></li>
+</ul>
+        </div>
+      </div> <!-- /primary link menu -->
+        
+    
+    
+    
+    
+    <div id="columns"><div class="columns-inner clearfix">
+
+      <div id="content-column"><div class="content-inner">
+
+        
+                  <div id="content-top"><div id="block-block-20"  class="block">
+  <div class="block-inner">
+
+    
+    <div class="content"><div id="blog-author-top"><table><tr><td><div id="blog-author-body"><img align="left" src="/images/people/manfred_riem.jpg" border="0" /></div></td><td valign="top"><h2><a href="/blogs/mriem">Manfred Riem</a></h2><div id="blog-nav-links"><a href="/blog/mriem/archive/2014/09/22/presenting-javaone-2014">Presenting at JavaOne 2014</a> | <a href="/blogs/mriem">Main</a> | <a href="/blog/mriem/archive/2014/09/24/jsf-23-eg-its-way">JSF 2.3 EG is on its way!</a></div></td></tr></table><div id="blog-author-feedlink2"><a href="/blog/40353/feed"><img src="/misc/feed.png" border="0" /></a></div></div><div style="clear:both"></div><div style="border-bottom: 4px #eee solid;">&nbsp;</div></div>
+
+    
+  </div>
+</div> <!-- /block -->
+</div> <!-- /content-top -->
+        
+        <div id="main-content">
+
+                      <div id="main-content-header">
+              <h1 id="page-title">JSF 2.3 has been approved</h1>
+                          </div>
+          
+          
+          <div id="content">
+          <div class="article">
+
+    <div id="blog-submitted">Posted by <a href="/blog/mriem">mriem</a> on September 23, 2014 at 12:08 PM PDT</div> 
+  
+    <p>The ballot for JSF 2.3 has passed and we have approval. So now it is time to move forward with EG formation and from there it is off to work! How can you stay up to date to what is happening?</p>
+<p>1. Subscribe to the spec users list, see <a href="https://java.net/projects/javaserverfaces-spec-public/lists" title="https://java.net/projects/javaserverfaces-spec-public/lists">https://java.net/projects/javaserverfaces-spec-public/lists</a> and select the <a href="mailto:users@javaserverfaces-spec-public.java.net">users@javaserverfaces-spec-public.java.net</a> list<br />
+2. Keep track of the issues being resolved on the issue tracker, see <a href="https://java.net/jira/browse/JAVASERVERFACES_SPEC_PUBLIC" title="https://java.net/jira/browse/JAVASERVERFACES_SPEC_PUBLIC">https://java.net/jira/browse/JAVASERVERFACES_SPEC_PUBLIC</a><br />
+3. Try out our SNAPSHOT builds, see <a href="https://maven.java.net/content/repositories/snapshots/org/glassfish/javax.faces/" title="https://maven.java.net/content/repositories/snapshots/org/glassfish/javax.faces/">https://maven.java.net/content/repositories/snapshots/org/glassfish/java...</a> and look for 2.3.0-mXX-SNAPSHOT builds<br />
+4. Join the Mojarra users list if you have more questions specific to trying out the 2.3 runtime</p>
+<p>Enjoy!</p>
+    <div class="taxonomy"><span class="label" style="font-weight: bold; margin-right: 0.5em; float: left;">Related Topics &gt;&gt;</span>
+        <ul class="links inline"><li class="taxonomy_term_97"><a href="/blog-community/java-enterprise" rel="tag" title="">Java Enterprise</a></li>
+<li class="taxonomy_term_100"><a href="/community-associations/glassfish" rel="tag" title="This is a test description about the GlassFish community and what it is all about.
+">GlassFish</a></li>
+</ul>
+    </div>
+      <div class="node-links"><span class="label" style="font-weight: bold; margin-right: 0.5em; float: left;">Blog Links &gt;&gt;</span>
+  <ul class="links inline"><li class="comment_forbidden"><span><a href="/user/login?destination=comment%2Freply%2F930745%23comment-form">Login</a> or <a href="/user/register?destination=comment%2Freply%2F930745%23comment-form">register</a> to post comments</span></li>
+<li class="print_html"><a href="/print/930745" title="Display a printer-friendly version of this page." class="print-page" rel="nofollow">Printer-friendly version</a></li>
+<li class="blog_usernames_blog"><a href="/blogs/mriem" title="Read mriem&#039;s latest blog entries.">mriem&#039;s blog</a></li>
+<li class="statistics_counter"><span>1382 reads</span></li>
+</ul>
+  </div>
+  
+</div> <!-- /article -->
+          </div>
+
+        </div> <!-- /main-content -->
+
+          <!--  Begin SiteCatalyst code  -->
+  <script language="JavaScript" src="/images/s_code_remote.js"></script>
+  <!--  End SiteCatalyst code  -->
+      </div></div> <!-- /content-column -->
+
+              <div id="sidebar-first" class="sidebar"><div id="block-menu-menu-get-involved"  class="block">
+  <div class="block-inner">
+
+          <h2>Get Involved</h2>
+    
+    <div class="content"><ul class="menu">
+ <li class="leaf first"><a href="/about-javanet" title="About java.net">About Java.net</a></li>
+<li class="leaf"><a href="http://java.net/projects/adoptajsr/pages/Home" title="Adopt">Adopt a JSR</a></li>
+<li class="leaf"><a href="/create-project" title="Create a Project">Create a Project</a></li>
+<li class="leaf last"><a href="/javanet-linking-instructions" title="Link an offiste project">Link an Offsite Project</a></li>
+ </ul>
+</div>
+
+    
+  </div>
+</div> <!-- /block -->
+<div id="block-menu-menu-get-informed"  class="block">
+  <div class="block-inner">
+
+          <h2>Get Informed</h2>
+    
+    <div class="content"><ul class="menu">
+ <li class="leaf first"><a href="/articles" title="">Articles</a></li>
+<li class="leaf"><a href="/blogfront" title="">Blogs</a></li>
+<li class="leaf"><a href="/events" title="">Events</a></li>
+<li class="leaf"><a href="http://www.oracle.com/technetwork/java/javamagazine/index.html?origref=http://java.net/projects/java-magazine" title="Subscribe to Java Magazine">Java Magazine</a></li>
+<li class="leaf last"><a href="http://education.oracle.com/pls/web_prod-plq-dad/ou_product_category.getFamilyPage?p_family_id=48&amp;intcmp=WWOU11042412MPP012C010" title="Java Training and Certification at Oracle University">Oracle University</a></li>
+ </ul>
+</div>
+
+    
+  </div>
+</div> <!-- /block -->
+</div> <!-- /sidebar-first -->
+      
+              <div id="sidebar-last" class="sidebar"><div id="block-block-22"  class="block">
+  <div class="block-inner">
+
+          <h2>Recent Entries</h2>
+    
+    <div class="content"><a href="/blog/mriem/archive/2014/09/26/glassfish-41-available">Glassfish 4.1 is available!</a><br><br><a href="/blog/mriem/archive/2014/09/25/mvc-10-jsr-its-way">MVC 1.0 JSR is on its way!</a><br><br><a href="/blog/mriem/archive/2014/09/24/jsf-23-eg-its-way">JSF 2.3 EG is on its way!</a><br><br></div>
+
+    
+  </div>
+</div> <!-- /block -->
+<div id="block-block-19"  class="block">
+  <div class="block-inner">
+
+          <h2>Archives</h2>
+    
+    <div class="content"><a href="/blogarchive/mriem/201409">September 2014</a><br><a href="/blogarchive/mriem/201408">August 2014</a><br><a href="/blogarchive/mriem/201407">July 2014</a><br><a href="/blogarchive/mriem/201406">June 2014</a><br><a href="/blogarchive/mriem/201405">May 2014</a><br><a href="/blogarchive/mriem/201403">March 2014</a><br><a href="/blogarchive/mriem/201402">February 2014</a><br><a href="/blogarchive/mriem/201401">January 2014</a><br><a href="/blogarchive/mriem/201312">December 2013</a><br><a href="/blogarchive/mriem/201311">November 2013</a><br><a href="/blogarchive/mriem/201310">October 2013</a><br><a href="/blogarchive/mriem/201309">September 2013</a><br><a href="/blogarchive/mriem/201308">August 2013</a><br><a href="/blogarchive/mriem/201307">July 2013</a><br><a href="/blogarchive/mriem/201304">April 2013</a><br><a href="/blogarchive/mriem/201303">March 2013</a><br><a href="/blogarchive/mriem/201302">February 2013</a><br><a href="/blogarchive/mriem/201212">December 2012</a><br><a href="/blogarchive/mriem/201210">October 2012</a><br><a href="/blogarchive/mriem/201209">September 2012</a><br><a href="/blogarchive/mriem/201201">January 2012</a><br><a href="/blogarchive/mriem/201112">December 2011</a><br><a href="/blogarchive/mriem/201108">August 2011</a><br><a href="/blogarchive/mriem/201104">April 2011</a><br><a href="/blogarchive/mriem/201103">March 2011</a><br><a href="/blogarchive/mriem/200809">September 2008</a><br><a href="/blogarchive/mriem/200808">August 2008</a><br><a href="/blogarchive/mriem/200708">August 2007</a><br></div>
+
+    
+  </div>
+</div> <!-- /block -->
+</div> <!-- /sidebar-last -->
+      
+    </div></div> <!-- /columns -->
+
+          <div id="tertiary-content"><div id="block-menu-menu-footer-menu"  class="block">
+  <div class="block-inner">
+
+    
+    <div class="content"><ul class="menu">
+ <li class="leaf first"><a href="/contact" title="">Feedback</a></li>
+<li class="leaf"><a href="/javanet-faq" title="">FAQ</a></li>
+<li class="leaf"><a href="/javanet-web-site-terms-use" title="">Terms of Use</a></li>
+<li class="leaf"><a href="http://www.oracle.com/us/legal/privacy/index.html" title="">Privacy</a></li>
+<li class="leaf last"><a href="http://www.oracle.com/us/legal/third-party-trademarks/index.html" title="">Trademarks</a></li>
+ </ul>
+</div>
+
+    
+  </div>
+</div> <!-- /block -->
+</div> <!-- /tertiary-content -->
+    
+          <div id="footer">
+
+                  <div id="footer-region"><div id="block-block-27"  class="block">
+  <div class="block-inner">
+
+    
+    <div class="content"><div style="width: 59%; float: left;">
+<p>Your use of this web site or any of its content or software indicates your agreement to be bound by these <a href="/javanet-web-site-terms-use">Terms of Participation</a>.</p>
+<p>Copyright © 2014, Oracle and/or its affiliates. All rights reserved. Oracle and Java are registered trademarks of Oracle and/or its affiliates. Other names may be trademarks of their respective owners.</p>
+</div>
+
+<div style="width: 39%; float: left; text-align: right;">
+<div style="float: right;"><a href="http://www.oracle.com"><img src="/sites/all/themes/java_adaptive/images/oracle.png"></a><a href="http://kenai.com"><img src="/sites/all/themes/java_adaptive/images/kenai.png"></a><a href="http://www.cognisync.com"><img src="/sites/all/themes/java_adaptive/images/cognisync.png"></a><br />
+<div class="powered-by">Powered by Oracle, Project Kenai and Cognisync</div></div>
+</div></div>
+
+    
+  </div>
+</div> <!-- /block -->
+</div> <!-- /footer-region -->
+        
+        
+        
+      </div> <!-- /footer -->
+    
+
+  </div> <!-- /container -->
+  <script type="text/javascript" src="/sites/default/files/js/js_bcae3a6d55232798d05a96510776a6a0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "datetweaks": { "use_dropdown": true }, "fivestar": { "titleUser": "Your rating: ", "titleAverage": "Average: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Your vote has been saved.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 0, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 1, "disable_resize": 0, "disable_zoom": 0, "force_show_nav": 0, "show_caption": 1, "loop_items": 0, "node_link_text": "View Image Details", "node_link_target": 0, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 900, "iframe_height": 700, "iframe_border": 1, "enable_video": 0 }, "prettify": { "linenums": false, "match": ".content", "nocode": "no-code", "custom": [  ], "markup": { "code": true, "pre": true, "precode": true } }, "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1, "extExclude": "", "extInclude": "", "extAlert": 0, "extAlertText": "This link will take you to an external web site. We are not responsible for their content.", "mailtoClass": 0 }, "custom_search": { "form_target": "_self", "solr": 0 } });
+//--><!]]>
+</script>
+    <!--  Begin SiteCatalyst code  -->
+<script language="JavaScript">
+<!--
+var s_channel="other";
+//--></script>
+<!--  End SiteCatalyst code  -->
+  <script type="text/javascript" src="/sites/default/files/js/js_b3e2bce18ba18f60287bc0a6f455a2ed.js"></script>
+</body>
+</html>

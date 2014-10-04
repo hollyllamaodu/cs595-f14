@@ -1,0 +1,1970 @@
+<!--
+ This is the default body that is displayed when people visit the
+ tracker. The tag below lists the currently open issues. You may
+ replace it with a greeting message, or a different list of issues or
+ whatever. It's a good idea to have the issues on the front page though
+-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>
+  List of issues
+   - Python tracker
+</title>
+<link rel="shortcut icon" href="@@file/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="@@file/main.css" />
+<link rel="stylesheet" type="text/css" href="@@file/style.css" />
+<link rel="search" type="application/opensearchdescription+xml" href="@@file/osd.xml" title="Python bug tracker search" />
+<meta http-equiv="Content-Type"
+      content="text/html; charset=utf-8" />
+
+<script type="text/javascript">
+submitted = false;
+function submit_once() {
+    if (submitted) {
+        alert("Your request is being processed.\nPlease be patient.");
+        event.returnValue = 0;    // work-around for IE
+        return 0;
+    }
+    submitted = true;
+    return 1;
+}
+
+function help_window(helpurl, width, height) {
+    HelpWin = window.open('http://bugs.python.org/' + helpurl, 'RoundupHelpWindow', 'scrollbars=yes,resizable=yes,toolbar=no,height='+height+',width='+width);
+}
+</script>
+
+
+
+</head>
+<body>
+  <!--  Logo  -->
+  <h1 id="logoheader">
+    <a accesskey="1" href="." id="logolink">
+       <img src="@@file/python-logo.gif" alt="homepage" border="0" id="logo" /></a>
+  </h1>
+
+<div id="utility-menu">
+<!-- Search Box -->
+<div id="searchbox">
+    <form name="searchform" method="get" action="issue" id="searchform">
+      <div id="search">
+       <input type="hidden" name="@columns"
+              value="id,activity,title,creator,assignee,status,type" />
+       <input type="hidden" name="@sort" value="-activity" />
+       <input type="hidden" name="@filter" value="status" />
+       <input type="hidden" name="@action" value="searchid" />
+       <input type="hidden" name="ignore" value="file:content" />
+       <input class="input-text" id="search-text"
+              name="@search_text" size="10" />
+       <input type="submit" id="submit" value="search" name="submit" class="input-button" />
+       <input type="radio" name="status"
+              id="status_notresolved" value="-1,1,3" />
+       <label for="status_notresolved">open</label>
+       <input type="radio" name="status" checked="checked"
+              id="status_all" value="-1,1,2,3" />
+       <label for="status_all">all</label>
+      </div>
+     </form>
+</div>
+</div>
+
+
+<div id="left-hand-navigation">
+<!--  Main Menu NEED LEVEL TWO HEADER AND FOOTER -->
+<div id="menu">
+  <ul class="level-one">
+    <li><a href="http://python.org/" title="Go to the Python homepage">Python Home</a></li>
+    <li><a href="http://python.org/about" title="About The Python Language">About</a></li>
+    <li><a href="http://python.org/news" title="">News</a></li>
+    <li><a href="http://python.org/doc" title="">Documentation</a></li>
+    <li><a href="http://python.org/download" title="">Download</a></li>
+    <li><a href="http://python.org/community" title="">Community</a></li>
+    <li><a href="http://python.org/psf" title="Python Software Foundation">Foundation</a></li>
+    <li><a href="http://docs.python.org/devguide/" title="Python Core Language Development">Core Development</a></li>
+    <li class="selected"><a href="." class="selected" title="Python Issue Tracker">Issue Tracker</a>
+      <ul class="level-two">
+        <li>
+          <strong>Issues</strong>
+          <ul class="level-three">
+            
+            <li><a href="issue?@template=search&amp;status=1">Search</a></li>
+            <li><a href="issue?@action=random">Random Issue</a></li>
+            <li>
+              <form method="post" action="#">
+                <input type="submit" class="form-small"
+                       value="Show issue:" />
+                <input class="form-small" size="4" type="text" name="@number" />
+                <input type="hidden" name="@type" value="issue" />
+                <input type="hidden" name="@action" value="show" />
+              </form>
+            </li>
+          </ul>
+        </li>
+
+
+        <li>
+          <strong>Summaries</strong>
+          <ul class="level-three">
+            
+
+            
+
+            
+
+            <li>
+              <a href="issue?status=1&amp;@sort=-activity&amp;@columns=id,activity,title,creator,status&amp;@dispname=Issues with patch&amp;@startwith=0&amp;@group=priority&amp;keywords=2&amp;@action=search&amp;@filter=&amp;@pagesize=50">Issues with patch</a>
+            </li>
+
+            <li>
+              <a href="issue?status=1&amp;@sort=-activity&amp;@columns=id,activity,title,creator,status&amp;@dispname=Easy issues&amp;@startwith=0&amp;@group=priority&amp;keywords=6&amp;@action=search&amp;@filter=&amp;@pagesize=50">Easy issues</a>
+            </li>
+
+            <li>
+              <a href="issue?@template=stats">Stats</a>
+            </li>
+
+          </ul>
+        </li>
+
+
+        <li>
+          <strong>User</strong>
+          <form method="post" action="">
+          <ul class="level-three">
+            <li>
+                Login&nbsp;(OpenID&nbsp;possible)<br />
+                <a style="display:inline;width:0;margin:0"
+                   href="?@action=openid_login&amp;provider=Google">
+                  <img hspace="0" vspace="0" width="16"
+                       height="16"
+                       src="https://www.google.com/favicon.ico"
+                       alt="Google" title="Google" /></a>
+                <a style="display:inline;width:0;margin:0"
+                   href="?@action=openid_login&amp;provider=Launchpad">
+                  <img hspace="0" vspace="0" width="16"
+                       height="16"
+                       src="https://login.launchpad.net/favicon.ico"
+                       alt="Launchpad" title="Launchpad" /></a>
+                <input size="10" name="openid_identifier" style="background:url(@@file/openid-16x16.gif)
+                  center left no-repeat;padding-left:16px" /><br />
+                <input size="10" type="password" name="__login_password" /><br />
+                <input type="hidden" name="@action" value="Login" />
+                <input type="checkbox" name="remember" id="remember" />
+                <label for="remember">Remember me?</label><br />
+                <input class="form-small" type="submit"
+                       value="Login" /><br />
+                <input type="hidden" name="__came_from"
+                       value="" />
+                <input type="hidden" name="@columns" value="id,activity,title,creator,assignee,status,type,message_count"/>
+<input type="hidden" name="@sort" value="-activity"/>
+<input type="hidden" name="@group" value=""/>
+<input type="hidden" name="@filter" value="status"/>
+<input type="hidden" name="status" value="1,3"/>
+<input type="hidden" name="@pagesize" value="50"/>
+<input type="hidden" name="@startwith" value="0"/>
+            </li>
+            <li>
+                <a href="user?@template=register">Register</a>
+            </li>
+            <li><a href="user?@template=forgotten">Lost&nbsp;your&nbsp;login?</a></li>
+          </ul>
+          </form>
+        </li>
+
+        
+
+        
+
+        
+
+        <li>
+          <strong>Help</strong>
+          <ul class="level-three">
+            <li><a href="http://docs.python.org/devguide/triaging.html">
+                Tracker Documentation</a></li>
+            <li><a href="http://wiki.python.org/moin/TrackerDevelopment">
+                Tracker Development</a></li>
+            <li><a href="http://psf.upfronthosting.co.za/roundup/meta">
+                Report Tracker Problem</a></li>
+          </ul>
+        </li>
+
+      </ul>
+    </li>
+  </ul>
+</div> <!-- menu -->
+</div> <!-- left-hand-navigation -->
+
+<div id="content-body">
+<div id="body-main">
+<div id="content">
+<div id="breadcrumb">
+  List of issues
+  
+</div>
+ 
+ 
+
+
+
+
+
+
+ <table class="list">
+  <tr>
+   
+   <th>ID</th>
+   
+   <th>Activity</th>
+   
+   <th colspan="2">Title</th>
+   
+   
+   
+   <th>Status</th>
+   
+   <th>Creator</th>
+   <th>Assigned&nbsp;To</th>
+   
+   
+   <th>Type</th>
+   <th>Msgs</th>
+   
+  </tr>
+ 
+  
+
+  <tr class="odd">
+   
+   <td>22552</td>
+   
+   <td class="date">1/4 hour ago</td>
+   
+   <td>
+    <a href="issue22552">ctypes.LibraryLoader returns singleton objects, resulting in usage conflicts</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>Ivan.Pozdeev</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>crash</td>
+   <td>1</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>13378</td>
+   
+   <td class="date">an hour ago</td>
+   
+   <td>
+    <a href="issue13378">ET: add custom namespaces to serialization methods</a>
+   </td>
+   <td class="patch">
+     <img src="@@file/patch-icon.png" alt="has patch"
+          title="has patch" />
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>Nekmo</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>enhancement</td>
+   <td>18</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>19796</td>
+   
+   <td class="date">1 1/4 hours ago</td>
+   
+   <td>
+    <a href="issue19796">urllib2.HTTPError.reason is not documented as "Added in 2.7"</a>
+   </td>
+   <td class="patch">
+     <img src="@@file/patch-icon.png" alt="has patch"
+          title="has patch" />
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>moreati</td>
+   <td>docs@python</td>
+   
+   
+   <td>behavior</td>
+   <td>2</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>11501</td>
+   
+   <td class="date">1 1/2 hours ago</td>
+   
+   <td>
+    <a href="issue11501">distutils.archive_util should handle absence of zlib module</a>
+   </td>
+   <td class="patch">
+     <img src="@@file/patch-icon.png" alt="has patch"
+          title="has patch" />
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>nessita</td>
+   <td>eric.araujo</td>
+   
+   
+   <td>behavior</td>
+   <td>11</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>18216</td>
+   
+   <td class="date">1 1/2 hours ago</td>
+   
+   <td>
+    <a href="issue18216">gettext doesn't check MO versions</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>jwilk</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>&nbsp;</td>
+   <td>2</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>18119</td>
+   
+   <td class="date">1 1/2 hours ago</td>
+   
+   <td>
+    <a href="issue18119">urllib.FancyURLopener does not treat URL fragments correctly</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>takahashi.shuhei</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>behavior</td>
+   <td>2</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>18131</td>
+   
+   <td class="date">1 3/4 hours ago</td>
+   
+   <td>
+    <a href="issue18131">Tkinter Variables require a proper master</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>terry.reedy</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>behavior</td>
+   <td>2</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>18043</td>
+   
+   <td class="date">1 3/4 hours ago</td>
+   
+   <td>
+    <a href="issue18043">No mention of `match.regs` in `re` documentation</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>cool-RR</td>
+   <td>docs@python</td>
+   
+   
+   <td>behavior</td>
+   <td>2</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>18060</td>
+   
+   <td class="date">1 3/4 hours ago</td>
+   
+   <td>
+    <a href="issue18060">Updating _fields_ of a derived struct type yields a bad cif</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>lauri.alanko</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>crash</td>
+   <td>2</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>22515</td>
+   
+   <td class="date">2 hours ago</td>
+   
+   <td>
+    <a href="issue22515">Implement partial order on Counter</a>
+   </td>
+   <td class="patch">
+     <img src="@@file/patch-icon.png" alt="has patch"
+          title="has patch" />
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>cool-RR</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>enhancement</td>
+   <td>49</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>19895</td>
+   
+   <td class="date">2 hours ago</td>
+   
+   <td>
+    <a href="issue19895">Cryptic error when subclassing multiprocessing classes</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>Antony.Lee</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>&nbsp;</td>
+   <td>2</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>19695</td>
+   
+   <td class="date">2 hours ago</td>
+   
+   <td>
+    <a href="issue19695">Clarify how to use various import-related locks</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>brett.cannon</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>enhancement</td>
+   <td>2</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>17518</td>
+   
+   <td class="date">3 hours ago</td>
+   
+   <td>
+    <a href="issue17518">urllib2 cannnot handle https and BasicAuth via Proxy.</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>masato kawamura</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>crash</td>
+   <td>2</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>19119</td>
+   
+   <td class="date">3 hours ago</td>
+   
+   <td>
+    <a href="issue19119">duplicate test name in Lib/test/test_heapq.py</a>
+   </td>
+   <td class="patch">
+     <img src="@@file/patch-icon.png" alt="has patch"
+          title="has patch" />
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>xdegaye</td>
+   <td>rhettinger</td>
+   
+   
+   <td>behavior</td>
+   <td>10</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>7291</td>
+   
+   <td class="date">3 hours ago</td>
+   
+   <td>
+    <a href="issue7291">urllib2 cannot handle https with proxy requiring auth</a>
+   </td>
+   <td class="patch">
+     <img src="@@file/patch-icon.png" alt="has patch"
+          title="has patch" />
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>tsujikawa</td>
+   <td>orsenthil</td>
+   
+   
+   <td>&nbsp;</td>
+   <td>20</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>19865</td>
+   
+   <td class="date">3 hours ago</td>
+   
+   <td>
+    <a href="issue19865">create_unicode_buffer() fails on non-BMP strings on Windows</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>gergely.erdelyi</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>behavior</td>
+   <td>2</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>19745</td>
+   
+   <td class="date">3 hours ago</td>
+   
+   <td>
+    <a href="issue19745">TEST_DATA_DIR for out-of-tree builds</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>christian.heimes</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>behavior</td>
+   <td>2</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>19725</td>
+   
+   <td class="date">3 hours ago</td>
+   
+   <td>
+    <a href="issue19725">Richer stat object</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>pjenvey</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>enhancement</td>
+   <td>2</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>19511</td>
+   
+   <td class="date">3 hours ago</td>
+   
+   <td>
+    <a href="issue19511">lib2to3 Grammar file is no longer a Python 3 superset</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>ncoghlan</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>behavior</td>
+   <td>2</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>19482</td>
+   
+   <td class="date">3 hours ago</td>
+   
+   <td>
+    <a href="issue19482">_pickle build warnings on Fedora 19</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>ncoghlan</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>compile error</td>
+   <td>2</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>19476</td>
+   
+   <td class="date">3 hours ago</td>
+   
+   <td>
+    <a href="issue19476">Add a dedicated specification for module "reloading" to the language reference</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>eric.snow</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>enhancement</td>
+   <td>2</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>19453</td>
+   
+   <td class="date">3 hours ago</td>
+   
+   <td>
+    <a href="issue19453">pydoc.py doesn't detect IronPython, help(foo) can hang</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>owlmonkey</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>crash</td>
+   <td>2</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>8110</td>
+   
+   <td class="date">3 hours ago</td>
+   
+   <td>
+    <a href="issue8110">subprocess.py doesn't correctly detect Windows machines</a>
+   </td>
+   <td class="patch">
+     <img src="@@file/patch-icon.png" alt="has patch"
+          title="has patch" />
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>midnightdf</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>behavior</td>
+   <td>21</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>22550</td>
+   
+   <td class="date">4 hours ago</td>
+   
+   <td>
+    <a href="issue22550">issubclass can fail after module reloading</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>serhiy.storchaka</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>behavior</td>
+   <td>3</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>22526</td>
+   
+   <td class="date">4 hours ago</td>
+   
+   <td>
+    <a href="issue22526">file iteration SystemError for huge lines (2GiB+)</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>Jakub.Mateusz.Kowalski</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>behavior</td>
+   <td>6</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>22547</td>
+   
+   <td class="date">4 hours ago</td>
+   
+   <td>
+    <a href="issue22547">Implement an informative `BoundArguments.__repr__`</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>cool-RR</td>
+   <td>yselivanov</td>
+   
+   
+   <td>&nbsp;</td>
+   <td>10</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>15244</td>
+   
+   <td class="date">5 hours ago</td>
+   
+   <td>
+    <a href="issue15244">Support for opening files with FILE_SHARE_DELETE on Windows</a>
+   </td>
+   <td class="patch">
+     <img src="@@file/patch-icon.png" alt="has patch"
+          title="has patch" />
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>sbt</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>enhancement</td>
+   <td>9</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>18903</td>
+   
+   <td class="date">5 hours ago</td>
+   
+   <td>
+    <a href="issue18903">IDLE file-completion is case-sensitive in Windows</a>
+   </td>
+   <td class="patch">
+     <img src="@@file/patch-icon.png" alt="has patch"
+          title="has patch" />
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>westley.martinez</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>enhancement</td>
+   <td>8</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>14243</td>
+   
+   <td class="date">5 hours ago</td>
+   
+   <td>
+    <a href="issue14243">tempfile.NamedTemporaryFile not particularly useful on	Windows</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>dabrahams</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>enhancement</td>
+   <td>36</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>16700</td>
+   
+   <td class="date">5 hours ago</td>
+   
+   <td>
+    <a href="issue16700">Document that bytes OS API can returns unusable results on Windows</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>serhiy.storchaka</td>
+   <td>docs@python</td>
+   
+   
+   <td>enhancement</td>
+   <td>3</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>22546</td>
+   
+   <td class="date">5 hours ago</td>
+   
+   <td>
+    <a href="issue22546">Wrong default precision in documentation for format</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>Barium</td>
+   <td>docs@python</td>
+   
+   
+   <td>behavior</td>
+   <td>3</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>16066</td>
+   
+   <td class="date">6 hours ago</td>
+   
+   <td>
+    <a href="issue16066">Truncated POST data in CGI script on Windows 7</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>Alexander.Martin</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>behavior</td>
+   <td>4</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>22445</td>
+   
+   <td class="date">7 hours ago</td>
+   
+   <td>
+    <a href="issue22445">Memoryviews require more strict contiguous checks then necessary</a>
+   </td>
+   <td class="patch">
+     <img src="@@file/patch-icon.png" alt="has patch"
+          title="has patch" />
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>seberg</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>enhancement</td>
+   <td>18</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>8627</td>
+   
+   <td class="date">8 hours ago</td>
+   
+   <td>
+    <a href="issue8627">Unchecked PyErr_WarnPy3k return value in Objects/typeobject.c</a>
+   </td>
+   <td class="patch">
+     <img src="@@file/patch-icon.png" alt="has patch"
+          title="has patch" />
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>mark.dickinson</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>behavior</td>
+   <td>19</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>15108</td>
+   
+   <td class="date">8 hours ago</td>
+   
+   <td>
+    <a href="issue15108">ERROR: SystemError: ./../Objects/tupleobject.c:118: bad argument to internal function</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>pxd</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>behavior</td>
+   <td>10</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>22540</td>
+   
+   <td class="date">9 hours ago</td>
+   
+   <td>
+    <a href="issue22540">speed up isinstance and issubclass for the usual cases</a>
+   </td>
+   <td class="patch">
+     <img src="@@file/patch-icon.png" alt="has patch"
+          title="has patch" />
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>georg.brandl</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>performance</td>
+   <td>7</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>22536</td>
+   
+   <td class="date">9 hours ago</td>
+   
+   <td>
+    <a href="issue22536">subprocess should include filename in FileNotFoundError exception</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>charpov</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>behavior</td>
+   <td>1</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>17848</td>
+   
+   <td class="date">9 hours ago</td>
+   
+   <td>
+    <a href="issue17848">can't compile with clang and build a shared lib due to libffi</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>matrixsystem</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>compile error</td>
+   <td>3</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>22543</td>
+   
+   <td class="date">yesterday</td>
+   
+   <td>
+    <a href="issue22543">-W option cannot use non-standard categories</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>remram</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>behavior</td>
+   <td>4</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>19468</td>
+   
+   <td class="date">yesterday</td>
+   
+   <td>
+    <a href="issue19468">Relax the type restriction on reloaded modules</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>eric.snow</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>enhancement</td>
+   <td>3</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>21965</td>
+   
+   <td class="date">yesterday</td>
+   
+   <td>
+    <a href="issue21965">Add support for Memory BIO to _ssl</a>
+   </td>
+   <td class="patch">
+     <img src="@@file/patch-icon.png" alt="has patch"
+          title="has patch" />
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>geertj</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>enhancement</td>
+   <td>27</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>22544</td>
+   
+   <td class="date">yesterday</td>
+   
+   <td>
+    <a href="issue22544">Inconsistent cmath.log behaviour</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>pitrou</td>
+   <td>mark.dickinson</td>
+   
+   
+   <td>behavior</td>
+   <td>3</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>11975</td>
+   
+   <td class="date">yesterday</td>
+   
+   <td>
+    <a href="issue11975">Fix referencing of built-in types (list, int, ...)</a>
+   </td>
+   <td class="patch">
+     <img src="@@file/patch-icon.png" alt="has patch"
+          title="has patch" />
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>jonash</td>
+   <td>docs@python</td>
+   
+   
+   <td>enhancement</td>
+   <td>42</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>19915</td>
+   
+   <td class="date">yesterday</td>
+   
+   <td>
+    <a href="issue19915">int.bit_at(n) - Accessing a single bit in O(1)</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>anon</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>enhancement</td>
+   <td>51</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>11820</td>
+   
+   <td class="date">yesterday</td>
+   
+   <td>
+    <a href="issue11820">idle3 shell os.system swallows shell command output</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>Thekent</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>behavior</td>
+   <td>13</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>6171</td>
+   
+   <td class="date">yesterday</td>
+   
+   <td>
+    <a href="issue6171">IDLE - Class Browser selection in Ubuntu</a>
+   </td>
+   <td class="patch">
+     <img src="@@file/patch-icon.png" alt="has patch"
+          title="has patch" />
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>sirgimp</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>behavior</td>
+   <td>2</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>6804</td>
+   
+   <td class="date">yesterday</td>
+   
+   <td>
+    <a href="issue6804">IDLE: Detect Python files even if name doesn't end in .py</a>
+   </td>
+   <td class="patch">
+     <img src="@@file/patch-icon.png" alt="has patch"
+          title="has patch" />
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>ggenellina</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>enhancement</td>
+   <td>9</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>16198</td>
+   
+   <td class="date">yesterday</td>
+   
+   <td>
+    <a href="issue16198">IDLE - tabbing in a string always brings up file completion window</a>
+   </td>
+   <td class="patch">
+     <img src="@@file/patch-icon.png" alt="has patch"
+          title="has patch" />
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>roger.serwy</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>behavior</td>
+   <td>5</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="odd">
+   
+   <td>13220</td>
+   
+   <td class="date">yesterday</td>
+   
+   <td>
+    <a href="issue13220">print function unable while multiprocessing.Process is being run</a>
+   </td>
+   <td class="patch">
+     
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>Ben.thelen</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>behavior</td>
+   <td>5</td>
+   
+  </tr>
+
+ 
+ 
+  
+
+  <tr class="even">
+   
+   <td>13884</td>
+   
+   <td class="date">yesterday</td>
+   
+   <td>
+    <a href="issue13884">IDLE: Remove tear-off menu feature</a>
+   </td>
+   <td class="patch">
+     <img src="@@file/patch-icon.png" alt="has patch"
+          title="has patch" />
+   </td>
+   
+   
+   
+   <td>open</td>
+   
+   <td>mcgrete</td>
+   <td>&nbsp;</td>
+   
+   
+   <td>enhancement</td>
+   <td>8</td>
+   
+  </tr>
+
+ 
+</table>
+
+
+ <div class="navigation">
+     <span>
+         &nbsp;
+         
+     </span>
+     <span>
+         1..
+         50 out of
+         4590
+     </span>
+     <span>
+         <a href="issue?@startwith=50&amp;@pagesize=50&amp;@columns=id,activity,title,creator,assignee,status,type,message_count&amp;@sort=-activity&amp;@filter=status&amp;status=1,3">next &gt;&gt;</a>
+         &nbsp;
+     </span>
+   </div>
+
+
+
+<a href="issue?@action=export_csv&amp;@columns=id,activity,title,creator,assignee,status,type,message_count&amp;@sort=-activity&amp;@filter=status&amp;@pagesize=50&amp;@startwith=0&amp;status=1,3">Download as CSV</a>
+
+<form method="get" class="index-controls" action="issue">
+
+ <table class="form">
+  
+  <tr>
+   <th>
+    Sort on:
+   </th>
+   <td>
+    <select name="@sort0">
+     <option value="">- nothing -</option>
+     <option selected="selected" value="activity">activity</option>
+     <option value="actor">actor</option>
+     <option value="assignee">assignee</option>
+     <option value="components">components</option>
+     <option value="creation">creation</option>
+     <option value="creator">creator</option>
+     <option value="dependencies">dependencies</option>
+     <option value="files">files</option>
+     <option value="hgrepos">hgrepos</option>
+     <option value="id">id</option>
+     <option value="keywords">keywords</option>
+     <option value="message_count">message_count</option>
+     <option value="messages">messages</option>
+     <option value="nosy">nosy</option>
+     <option value="nosy_count">nosy_count</option>
+     <option value="priority">priority</option>
+     <option value="resolution">resolution</option>
+     <option value="severity">severity</option>
+     <option value="stage">stage</option>
+     <option value="status">status</option>
+     <option value="superseder">superseder</option>
+     <option value="title">title</option>
+     <option value="type">type</option>
+     <option value="versions">versions</option>
+    </select>
+   </td>
+   <th>Descending:</th>
+   <td><input type="checkbox" checked="checked"
+              name="@sortdir0" />
+   </td>
+  </tr>
+  
+  
+  <tr>
+   <th>
+    
+   </th>
+   <td>
+    <select name="@sort1">
+     <option value="">- nothing -</option>
+     <option value="activity">activity</option>
+     <option value="actor">actor</option>
+     <option value="assignee">assignee</option>
+     <option value="components">components</option>
+     <option value="creation">creation</option>
+     <option value="creator">creator</option>
+     <option value="dependencies">dependencies</option>
+     <option value="files">files</option>
+     <option value="hgrepos">hgrepos</option>
+     <option value="id">id</option>
+     <option value="keywords">keywords</option>
+     <option value="message_count">message_count</option>
+     <option value="messages">messages</option>
+     <option value="nosy">nosy</option>
+     <option value="nosy_count">nosy_count</option>
+     <option value="priority">priority</option>
+     <option value="resolution">resolution</option>
+     <option value="severity">severity</option>
+     <option value="stage">stage</option>
+     <option value="status">status</option>
+     <option value="superseder">superseder</option>
+     <option value="title">title</option>
+     <option value="type">type</option>
+     <option value="versions">versions</option>
+    </select>
+   </td>
+   <th>Descending:</th>
+   <td><input type="checkbox" name="@sortdir1" />
+   </td>
+  </tr>
+  
+  
+  <tr>
+   <th>
+    Group on:
+   </th>
+   <td>
+    <select name="@group0">
+     <option value="">- nothing -</option>
+     <option value="activity">activity</option>
+     <option value="actor">actor</option>
+     <option value="assignee">assignee</option>
+     <option value="components">components</option>
+     <option value="creation">creation</option>
+     <option value="creator">creator</option>
+     <option value="dependencies">dependencies</option>
+     <option value="files">files</option>
+     <option value="hgrepos">hgrepos</option>
+     <option value="id">id</option>
+     <option value="keywords">keywords</option>
+     <option value="message_count">message_count</option>
+     <option value="messages">messages</option>
+     <option value="nosy">nosy</option>
+     <option value="nosy_count">nosy_count</option>
+     <option value="priority">priority</option>
+     <option value="resolution">resolution</option>
+     <option value="severity">severity</option>
+     <option value="stage">stage</option>
+     <option value="status">status</option>
+     <option value="superseder">superseder</option>
+     <option value="title">title</option>
+     <option value="type">type</option>
+     <option value="versions">versions</option>
+    </select>
+   </td>
+   <th>Descending:</th>
+   <td><input type="checkbox" name="@groupdir0" />
+   </td>
+  </tr>
+  
+  
+  <tr>
+   <th>
+    
+   </th>
+   <td>
+    <select name="@group1">
+     <option value="">- nothing -</option>
+     <option value="activity">activity</option>
+     <option value="actor">actor</option>
+     <option value="assignee">assignee</option>
+     <option value="components">components</option>
+     <option value="creation">creation</option>
+     <option value="creator">creator</option>
+     <option value="dependencies">dependencies</option>
+     <option value="files">files</option>
+     <option value="hgrepos">hgrepos</option>
+     <option value="id">id</option>
+     <option value="keywords">keywords</option>
+     <option value="message_count">message_count</option>
+     <option value="messages">messages</option>
+     <option value="nosy">nosy</option>
+     <option value="nosy_count">nosy_count</option>
+     <option value="priority">priority</option>
+     <option value="resolution">resolution</option>
+     <option value="severity">severity</option>
+     <option value="stage">stage</option>
+     <option value="status">status</option>
+     <option value="superseder">superseder</option>
+     <option value="title">title</option>
+     <option value="type">type</option>
+     <option value="versions">versions</option>
+    </select>
+   </td>
+   <th>Descending:</th>
+   <td><input type="checkbox" name="@groupdir1" />
+   </td>
+  </tr>
+  
+  <tr><td colspan="4">
+              <input type="submit" value="Redisplay" />
+              <input type="hidden" name="@columns" value="id,activity,title,creator,assignee,status,type,message_count"/>
+<input type="hidden" name="@filter" value="status"/>
+<input type="hidden" name="status" value="1,3"/>
+<input type="hidden" name="@pagesize" value="50"/>
+<input type="hidden" name="@startwith" value="0"/>
+  </td></tr>
+ </table>
+</form>
+
+
+
+</div> <!-- content-body -->
+<div id="footer">
+<div id="credits">
+<a href="http://www.python.org/about/website">Website maintained by the Python community</a><br />
+
+<a href="http://www.upfrontsystems.co.za/" title="issue tracker hosting provided by Upfront Systems, South Africa">hosting by Upfront Systems</a> /
+  <a href="http://roundup.sf.net" title="Powered by the Roundup Issue Tracker">powered by Roundup</a>
+</div> <!-- credits -->
+Copyright &copy; 1990-2013, <a href="http://python.org/psf">Python Software Foundation</a><br />
+<a href="http://python.org/about/legal">Legal Statements</a>
+</div> <!-- footer -->
+</div> <!-- body-main -->
+</div> <!-- content -->
+
+
+
+</body>
+</html>
+
+

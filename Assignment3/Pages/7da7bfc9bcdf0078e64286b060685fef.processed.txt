@@ -1,0 +1,211 @@
+   #[1]publisher
+
+   [2]Jenkov.com
+   [3]Tutorials [4]Books [5]About
+
+   Java Concurrency
+    1 [6]Java Concurrency / Multithreading Tutorial
+    2 [7]Multithreading Benefits
+    3 [8]Multithreading Costs
+    4 [9]Creating and Starting Java Threads
+    5 [10]Race Conditions and Critical Sections
+    6 [11]Thread Safety and Shared Resources
+    7 [12]Thread Safety and Immutability
+    8 [13]Java Synchronized Blocks
+    9 [14]Java's Volatile Keyword
+   10 [15]Java ThreadLocal
+   11 [16]Thread Signaling
+   12 [17]Deadlock
+   13 [18]Deadlock Prevention
+   14 [19]Starvation and Fairness
+   15 [20]Nested Monitor Lockout
+   16 [21]Slipped Conditions
+   17 [22]Locks in Java
+   18 [23]Read / Write Locks in Java
+   19 [24]Reentrance Lockout
+   20 [25]Semaphores
+   21 [26]Blocking Queues
+   22 [27]Thread Pools
+   23 [28]Compare and Swap
+   24 [29]Anatomy of a Synchronizer
+   Get all my free tips & tutorials!
+   Connect with me, or sign up for my news letter or [30]RSS feed, and get
+   all my tips that help you become a more skilled and efficient
+   developer.
+   Newsletter
+   _______________  _______________  _______________
+   Yes, give me tips!
+
+Java ThreadLocal
+
+   Table of Contents
+     * [31]Creating a ThreadLocal
+     * [32]Accessing a ThreadLocal
+     * [33]Generic ThreadLocal
+     * [34]Initial ThreadLocal Value
+     * [35]Full ThreadLocal Example
+     * [36]InheritableThreadLocal
+
+   The ThreadLocal class in Java enables you to create variables that can
+   only be read and written by the same thread. Thus, even if two threads
+   are executing the same code, and the code has a reference to a
+   ThreadLocal variable, then the two threads cannot see each other's
+   ThreadLocal variables.
+
+Creating a ThreadLocal
+
+   Here is a code example that shows how to create a ThreadLocal variable:
+private ThreadLocal myThreadLocal = new ThreadLocal();
+
+   As you can see, you instantiate a new ThreadLocal object. This only
+   needs to be done once, and it doesn't matter which thread does that.
+   All threads will see the same ThreadLocal instance, but the values set
+   on the ThreadLocal via its set() method will only be visible to the
+   thread who set the value. Even if two different threads set different
+   values on the same ThreadLocal object, they cannot see each other's
+   values.
+
+Accessing a ThreadLocal
+
+   Once a ThreadLocal has been created you can set the value to be stored
+   in it like this:
+myThreadLocal.set("A thread local value");
+
+   You read the value stored in a ThreadLocal like this:
+String threadLocalValue = (String) myThreadLocal.get();
+
+   The get() method returns an Object and the set() method takes an Object
+   as parameter.
+
+Generic ThreadLocal
+
+   You can create a generic ThreadLocal so that you do not have to
+   typecast the value returned by get(). Here is a generic ThreadLocal
+   example:
+private ThreadLocal myThreadLocal = new ThreadLocal<String>();
+
+   Now you can only store strings in the ThreadLocal instance.
+   Additionally, you do not need to typecast the value obtained from the
+   ThreadLocal:
+myThreadLocal.set("Hello ThreadLocal");
+
+String threadLocalValue = myThreadLocal.get();
+
+Initial ThreadLocal Value
+
+   Since values set on a ThreadLocal object only are visible to the thread
+   who set the value, no thread can set an initial value on a ThreadLocal
+   using set() which is visible to all threads.
+
+   Instead you can specify an initial value for a ThreadLocal object by
+   subclassing ThreadLocal and overriding the initialValue() method. Here
+   is how that looks:
+private ThreadLocal myThreadLocal = new ThreadLocal<String>() {
+    @Override protected String initialValue() {
+        return "This is the initial value";
+    }
+};
+
+   Now all threads will see the same initial value when calling get()
+   before having called set() .
+
+Full ThreadLocal Example
+
+   Here is a fully runnable Java ThreadLocal example:
+public class ThreadLocalExample {
+
+
+    public static class MyRunnable implements Runnable {
+
+        private ThreadLocal<Integer> threadLocal =
+               new ThreadLocal<Integer>();
+
+        @Override
+        public void run() {
+            threadLocal.set( (int) (Math.random() * 100D) );
+
+            try {
+                Thread.sleep(2000);
+            } catch (InterruptedException e) {
+            }
+
+            System.out.println(threadLocal.get());
+        }
+    }
+
+
+    public static void main(String[] args) {
+        MyRunnable sharedRunnableInstance = new MyRunnable();
+
+        Thread thread1 = new Thread(sharedRunnableInstance);
+        Thread thread2 = new Thread(sharedRunnableInstance);
+
+        thread1.start();
+        thread2.start();
+    }
+
+}
+
+   This example creates a single MyRunnable instance which is passed to
+   two different threads. Both threads execute the run() method, and thus
+   sets different values on the ThreadLocal instance. If the access to the
+   set() call had been synchronized, and it had not been a ThreadLocal
+   object, the second thread would have overridden the value set by the
+   first thread.
+
+   However, since it is a ThreadLocal object then the two threads cannot
+   see each other's values. Thus, they set and get different values.
+
+InheritableThreadLocal
+
+   The InheritableThreadLocal class is a subclass of ThreadLocal. Instead
+   of each thread having its own value inside a ThreadLocal, the
+   InheritableThreadLocal grants access to values to a thread and all
+   child threads created by that thread.
+   Next:   Thread Signaling
+   Connect with me: Newsletter - Get all my free tips!
+                    _______________  _______________  _______________
+                    Yes, give me tips!
+
+References
+
+   Visible links
+   1. https://plus.google.com/108227213807945109821
+   2. http://jenkov.com/
+   3. http://tutorials.jenkov.com/
+   4. http://jenkov.com/books/index.html
+   5. http://jenkov.com/about/index.html
+   6. http://tutorials.jenkov.com/java-concurrency/index.html
+   7. http://tutorials.jenkov.com/java-concurrency/benefits.html
+   8. http://tutorials.jenkov.com/java-concurrency/costs.html
+   9. http://tutorials.jenkov.com/java-concurrency/creating-and-starting-threads.html
+  10. http://tutorials.jenkov.com/java-concurrency/race-conditions-and-critical-sections.html
+  11. http://tutorials.jenkov.com/java-concurrency/thread-safety.html
+  12. http://tutorials.jenkov.com/java-concurrency/thread-safety-and-immutability.html
+  13. http://tutorials.jenkov.com/java-concurrency/synchronized.html
+  14. http://tutorials.jenkov.com/java-concurrency/volatile.html
+  15. http://tutorials.jenkov.com/java-concurrency/threadlocal.html
+  16. http://tutorials.jenkov.com/java-concurrency/thread-signaling.html
+  17. http://tutorials.jenkov.com/java-concurrency/deadlock.html
+  18. http://tutorials.jenkov.com/java-concurrency/deadlock-prevention.html
+  19. http://tutorials.jenkov.com/java-concurrency/starvation-and-fairness.html
+  20. http://tutorials.jenkov.com/java-concurrency/nested-monitor-lockout.html
+  21. http://tutorials.jenkov.com/java-concurrency/slipped-conditions.html
+  22. http://tutorials.jenkov.com/java-concurrency/locks.html
+  23. http://tutorials.jenkov.com/java-concurrency/read-write-locks.html
+  24. http://tutorials.jenkov.com/java-concurrency/reentrance-lockout.html
+  25. http://tutorials.jenkov.com/java-concurrency/semaphores.html
+  26. http://tutorials.jenkov.com/java-concurrency/blocking-queues.html
+  27. http://tutorials.jenkov.com/java-concurrency/thread-pools.html
+  28. http://tutorials.jenkov.com/java-concurrency/compare-and-swap.html
+  29. http://tutorials.jenkov.com/java-concurrency/anatomy-of-a-synchronizer.html
+  30. http://feeds2.feedburner.com/jenkov-com
+  31. http://tutorials.jenkov.com/java-concurrency/threadlocal.html?utm_content=buffer2dae2#creating-a-threadlocal
+  32. http://tutorials.jenkov.com/java-concurrency/threadlocal.html?utm_content=buffer2dae2#accessing-a-threadlocal
+  33. http://tutorials.jenkov.com/java-concurrency/threadlocal.html?utm_content=buffer2dae2#generic-threadlocal
+  34. http://tutorials.jenkov.com/java-concurrency/threadlocal.html?utm_content=buffer2dae2#initial-threadlocal-value
+  35. http://tutorials.jenkov.com/java-concurrency/threadlocal.html?utm_content=buffer2dae2#full-threadlocal-example
+  36. http://tutorials.jenkov.com/java-concurrency/threadlocal.html?utm_content=buffer2dae2#inheritableThreadLocal
+
+   Hidden links:
+  38. http://tutorials.jenkov.com/java-concurrency/thread-signaling.html

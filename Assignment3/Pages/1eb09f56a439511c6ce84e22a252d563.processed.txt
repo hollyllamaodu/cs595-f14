@@ -1,0 +1,381 @@
+   dcsimg [p?c1=2&c2=17199065&cv=2.0&cj=1]
+
+   [1][developer_oldcolor.gif]
+   _______________________________________________________ (BUTTON)
+
+   IFRAME:
+   [2]http://www.facebook.com/plugins/like.php?href=http://www.developer.c
+   om/&layout=button_count&show_faces=false&width=250&action=like&colorsch
+   eme=light
+
+     * [3]Java
+     * [4]Microsoft & .NET
+     * [5]Mobile
+     * [6]Android
+     * [7]Open Source
+     * [8]Cloud
+     * [9]Database
+     * [10]Architecture
+     * [11]Other
+          + [12]Cloud Center
+          + [13]Project Management
+          + [14]PHP
+          + [15]Perl
+          + [16]Ruby
+          + [17]Other Languages
+          + [18]White papers
+     * [19]NEW: Research Center
+
+   October 3, 2014
+   Hot Topics:
+   [20]prev
+
+   [21]next
+   Free Newsletters : [Enterprise Development Update]
+   [22]RSS RSS feed [23]Download our iPhone app
+
+   [24]Working with Generics and Collections in Java
+
+   Leverage Generics and Collections in Java to store your data in memory
+   for faster access and retrieval.
+   feature 1 image
+
+   [25]Fun with D3.js: Data Visualization Eye Candy with Streaming JSON
+
+   At your next presentation, wow them with a bubble chart. It's nearly as
+   precise as other charts, and a lot more fun.
+   feature 2 image
+
+   [26]Understanding Lambda-enabled Design Patterns
+
+   Implement lambda expressions from the perspective of a couple of
+   standard design patterns.
+   feature 3 image
+
+   [27]Validating Software Requirements
+
+   Discover how to ensure that your software requirements are right.
+   feature 4 image
+   Next:
+     * [28]1
+     * [29]2
+     * [30]3
+     * [31]4
+
+Top Developer Stories by Section
+
+     * [32]Java
+          + [33]Working with Generics and Collections in Java
+          + [34]Fun with D3.js: Data Visualization Eye Candy with
+            Streaming JSON
+          + [35]Understanding Lambda-enabled Design Patterns
+          + [36]Leveraging Design Patterns for Productivity
+          + [37]Programming with Member References in NetBeans 8
+          + [38]Implementing Behavioral Patterns in Java
+       [39]More Java...
+     * [40]Microsoft & .NET
+          + [41]Writing Applications in the Cloud with Visual Studio
+            Online
+          + [42]Managing the Testing of Your App Using Visual Studio
+            Online
+          + [43]Using the Media Services SDK in Real-World Applications
+          + [44]Making Pull Requests in GitHub
+          + [45]Overview of Azure Media Services
+          + [46]XBOX One – Architecture Overview for Developers
+       [47]More Microsoft & .NET...
+     * [48]Mobile
+          + [49]Using the Ionic Framework
+          + [50]Developing Hybrid Apps with the Ionic Framework
+          + [51]Migrating From Eclipse to Android Studio
+          + [52]Xamarin Tips from the Trenches: Compiling and Emulation
+            for iOS and Android
+          + [53]The New Xamarin 3: Is it Time to Take the Dive?
+          + [54]Beginner’s Guide to Using AppStudio for Building Windows 8
+            Applications
+       [55]More Mobile...
+     * [56]Daily Developer News
+          + [57]Google Announces Physical Web Project
+          + [58]Google Now Paying up to $15,000 for Bugs
+          + [59]Rovio Slashes 130 Jobs
+          + [60]Google Play Now Requires Developers to Reveal Their
+            Physical Addresses
+          + [61]Report: iOS App Developers Spend 85% More than Android
+            Developers for Every App Install
+          + [62]Eclipse Foundation Launches Java-Based IoT Stack
+       [63]More Daily Developer News...
+     * [64]Cloud & Web Services
+          + [65]Managing the Testing of Your App Using Visual Studio
+            Online
+          + [66]The Developer Cloud: 5 Tips for a Secure Environment
+          + [67]Managing Projects Backlog with Visual Studio Online
+          + [68]Beginner's Guide to Visual Studio Online
+          + [69]Getting Started with Azure HDInsight
+          + [70]Using Windows Azure Blob Storage to Store Windows Phone
+            App Data
+       [71]More Cloud & Web Services...
+     * [72]Database
+          + [73]The Role of Analytics in Business Intelligence
+          + [74]Test Better, Deploy Faster with Laravel
+          + [75]Understanding BI Components and Data
+          + [76]Develop Faster with the Laravel PHP Framework
+          + [77]Business Intelligence – An Overview
+          + [78]Writing Code that Writes Code
+       [79]More Database...
+     * [80]PHP
+          + [81]Test Better, Deploy Faster with Laravel
+          + [82]Develop Faster with the Laravel PHP Framework
+          + [83]Migrating PHP Applications to Run on Windows Azure
+          + [84]The State of PHP in 2014
+       [85]More PHP...
+     * [86]Open Source
+          + [87]Working with Generics and Collections in Java
+          + [88]Fun with D3.js: Data Visualization Eye Candy with
+            Streaming JSON
+          + [89]Understanding Lambda-enabled Design Patterns
+          + [90]Building Microservices with Open Source Technologies
+          + [91]Leveraging Design Patterns for Productivity
+          + [92]Using the Ionic Framework
+       [93]More Open Source...
+
+Newest Developer Videos
+
+   [94]More...
+
+                      [95][dev_AndroidDev_tools2.jpg]
+            [96]Building an Android Client to a RESTful Service
+
+                       [97][dev_AndroidDev_tools.jpg]
+              [98]Android Development 101 - Development Tools
+
+                           [99][dev_PHPUnit.jpg]
+           [100]Testing Your Web Forms with Zend_Test and PHPUnit
+
+                         [101][dev_AndroidDev.jpg]
+                 [102]Android Development 101 - Hello World
+
+Most Popular Developer Stories
+
+     * [103]Today
+     * [104]This Week
+     * [105]All-Time
+
+     * [106]1 Using JDBC with MySQL, Getting Started
+     * [107]2 Creating Use Case Diagrams
+     * [108]3 An Introduction to Java Annotations
+     * [109]4 Hibernate Basics
+     * [110]5 Using ASP.NET To Send Email
+
+     * [111]1 Using JDBC with MySQL, Getting Started
+     * [112]2 10 Experimental PHP Projects Pushing the Envelope
+     * [113]3 Hibernate Basics
+     * [114]4 An Introduction to Java Annotations
+     * [115]5 Oracle Programming with PL/SQL Collections
+
+     * [116]1 Using JDBC with MySQL, Getting Started
+     * [117]2 Hibernate Basics
+     * [118]3 Oracle Programming with PL/SQL Collections
+     * [119]4 An Introduction to Java Annotations
+     * [120]5 Creating Use Case Diagrams
+
+Most Commented On
+
+     * [121]This Week
+     * [122]This Month
+     * [123]All-Time
+
+     * [124]1 10 Experimental PHP Projects Pushing the
+             Envelope
+     * [125]2 Day 1: Learning the Basics of PL/SQL
+     * [126]3 C# Tip: Placing Your C# Application in the
+             System Tray
+     * [127]4 Logical Versus Physical Database Modeling
+     * [128]5 Is Ubuntu Contributing as Much as It Should to
+             Free Software Projects?
+
+     * [129]1 Day 1: Learning the Basics of PL/SQL
+     * [130]2 The 5 Developer Certifications You'll Wish You
+             Had in 2015
+     * [131]3 10 Experimental PHP Projects Pushing the
+             Envelope
+     * [132]4 An Introduction to Struts
+     * [133]5 Inside Facebook's Open Source Infrastructure
+
+     * [134]1 Creating Use Case Diagrams
+     * [135]2 Day 1: Learning the Basics of PL/SQL
+     * [136]3 C# Tip: Placing Your C# Application in the
+             System Tray
+     * [137]4 Using ASP.NET To Send Email
+     * [138]5 Using JDBC with MySQL, Getting Started
+
+Recommended Partner Resources
+
+     * [139]Cloud Computing Showcase for Developers
+     * [140]Mobile Development Center
+     * [141]HTML 5 Development Center
+
+                       [142]Sitemap | [143]Contact Us
+
+   Rocket Fuel
+
+References
+
+   Visible links
+   1. http://www.developer.com/
+   2. http://www.facebook.com/plugins/like.php?href=http://www.developer.com/&layout=button_count&show_faces=false&width=250&action=like&colorscheme=light
+   3. http://www.developer.com/java/
+   4. http://www.developer.com/net/
+   5. http://www.developer.com/ws/
+   6. http://www.developer.com/ws/android/
+   7. http://www.developer.com/open/
+   8. http://www.developer.com/services/
+   9. http://www.developer.com/db/
+  10. http://www.developer.com/design/
+  11. http://www.developer.com/lang/
+  12. http://www.developer.com/project-center/cloud-development
+  13. http://www.developer.com/mgmt/
+  14. http://www.developer.com/lang/php/
+  15. http://www.developer.com/lang/perl/
+  16. http://www.developer.com/lang/rubyrails
+  17. http://www.developer.com/lang/
+  18. http://www.developer.com/white_papers/
+  19. http://www.developer.com/research
+  20. http://www.developer.com/
+  21. http://www.developer.com/
+  22. http://www.developer.com/developer/dev-25.xml
+  23. http://www.devreader.com/
+  24. http://www.developer.com/java/working-with-generics-and-collections-in-java.html
+  25. http://www.developer.com/java/fun-with-d3.js-data-visualization-eye-candy-with-streaming-json.html
+  26. http://www.developer.com/java/understanding-lambda-enabled-design-patterns.html
+  27. http://www.developer.com/design/validating-software-requirements.html
+  28. http://www.developer.com/#feature-1
+  29. http://www.developer.com/#feature-2
+  30. http://www.developer.com/#feature-3
+  31. http://www.developer.com/#feature-4
+  32. http://www.developer.com/java/
+  33. http://www.developer.com/java/working-with-generics-and-collections-in-java.html
+  34. http://www.developer.com/java/fun-with-d3.js-data-visualization-eye-candy-with-streaming-json.html
+  35. http://www.developer.com/java/understanding-lambda-enabled-design-patterns.html
+  36. http://www.developer.com/java/leveraging-design-patterns-for-productivity.html
+  37. http://www.developer.com/java/programming-with-member-references-in-netbeans-8.html
+  38. http://www.developer.com/java/implementing-behavioral-patterns-in-java.html
+  39. http://www.developer.com/java/
+  40. http://www.developer.com/net/
+  41. http://www.developer.com/cloud/writing-applications-in-the-cloud-with-visual-studio-online.html
+  42. http://www.developer.com/net/managing-the-testing-of-your-app-using-visual-studio-online.html
+  43. http://www.developer.com/cloud/using-the-media-services-sdk-in-real-world-applications.html
+  44. http://www.developer.com/open/making-pull-requests-in-github.html
+  45. http://www.developer.com/cloud/overview-of-azure-media-services.html
+  46. http://www.developer.com/net/xbox-one-architecture-overview-for-developers.html
+  47. http://www.developer.com/net/
+  48. http://www.developer.com/ws/
+  49. http://www.developer.com/ws/using-the-ionic-framework.html
+  50. http://www.developer.com/ws/other/developing-hybrid-apps-with-the-ionic-framework.html
+  51. http://www.developer.com/ws/android/migrating-from-eclipse-to-android-studio.html
+  52. http://www.developer.com/ws/xamarin-tips-from-the-trenches-compiling-and-emulation-for-ios-and-android.html
+  53. http://www.developer.com/ws/android/the-new-xamarin-3-is-it-time-to-take-the-dive.html
+  54. http://www.developer.com/net/beginners-guide-to-using-appstudio-for-building-windows-8-applications.html
+  55. http://www.developer.com/ws/
+  56. http://www.developer.com/daily_news/
+  57. http://www.developer.com/daily_news/google-announces-physical-web-project.html
+  58. http://www.developer.com/daily_news/google-now-paying-up-to-15000-for-bugs.html
+  59. http://www.developer.com/daily_news/rovio-slashes-130-jobs.html
+  60. http://www.developer.com/daily_news/google-play-now-requires-developers-to-reveal-their-physical-addresses.html
+  61. http://www.developer.com/daily_news/report-ios-app-developers-spend-85-more-than-android-developers-for-every-app-install.html
+  62. http://www.developer.com/daily_news/eclipse-foundation-launches-java-based-iot-stack.html
+  63. http://www.developer.com/daily_news/
+  64. http://www.developer.com/services/
+  65. http://www.developer.com/net/managing-the-testing-of-your-app-using-visual-studio-online.html
+  66. http://www.developer.com/services/dev-cloud-5-tips-for-secure-environment.html
+  67. http://www.developer.com/net/managing-projects-backlog-with-visual-studio-online.html
+  68. http://www.developer.com/net/beginners-guide-to-visual-studio-online.html
+  69. http://www.developer.com/services/getting-started-with-azure-hdinsight.html
+  70. http://www.developer.com/ws/using-windows-azure-blob-storage-to-store-windows-phone-app-data.html
+  71. http://www.developer.com/services/
+  72. http://www.developer.com/db/
+  73. http://www.developer.com/db/the-role-of-analytics-in-business-intelligence.html
+  74. http://www.developer.com/lang/php/test-better-deploy-faster-with-laravel.html
+  75. http://www.developer.com/db/understanding-bi-components-and-data.html
+  76. http://www.developer.com/lang/php/develop-faster-with-the-laravel-php-framework.html
+  77. http://www.developer.com/db/business-intelligence-an-overview.html
+  78. http://www.developer.com/net/writing-code-that-writes-code.html
+  79. http://www.developer.com/db/
+  80. http://www.developer.com/lang/php/
+  81. http://www.developer.com/lang/php/test-better-deploy-faster-with-laravel.html
+  82. http://www.developer.com/lang/php/develop-faster-with-the-laravel-php-framework.html
+  83. http://www.developer.com/lang/php/migrating-php-applications-to-run-on-windows-azure.html
+  84. http://www.developer.com/lang/php/the-state-of-php-in-2014.html
+  85. http://www.developer.com/lang/php/
+  86. http://www.developer.com/open/
+  87. http://www.developer.com/java/working-with-generics-and-collections-in-java.html
+  88. http://www.developer.com/java/fun-with-d3.js-data-visualization-eye-candy-with-streaming-json.html
+  89. http://www.developer.com/java/understanding-lambda-enabled-design-patterns.html
+  90. http://www.developer.com/open/building-microservices-with-open-source-technologies.html
+  91. http://www.developer.com/java/leveraging-design-patterns-for-productivity.html
+  92. http://www.developer.com/ws/using-the-ionic-framework.html
+  93. http://www.developer.com/open/
+  94. http://www.developer.com/video/
+  95. javascript:NewWindow=window.open('http://videos.developer.com/video/?bcpid=86842592001&bclid=87185324001&bctid=1450219780001','myWindow','width=790,height=620,resizable=no');NewWindow.focus(); void(0);
+  96. javascript:NewWindow=window.open('http://videos.developer.com/video/?bcpid=86842592001&bclid=87185324001&bctid=1450219780001','myWindow','width=790,height=620,resizable=no');NewWindow.focus(); void(0);
+  97. javascript:NewWindow=window.open('http://videos.developer.com/video/?bcpid=86842592001&bclid=87185324001&bctid=801096751001','myWindow','width=790,height=620,resizable=no');NewWindow.focus(); void(0);
+  98. javascript:NewWindow=window.open('http://videos.developer.com/video/?bcpid=86842592001&bclid=87185324001&bctid=801096751001','myWindow','width=790,height=620,resizable=no');NewWindow.focus(); void(0);
+  99. javascript:NewWindow=window.open('http://videos.developer.com/video/?bcpid=86842592001&bclid=87185324001&bctid=793834242001','myWindow','width=790,height=620,resizable=no');NewWindow.focus(); void(0);
+ 100. javascript:NewWindow=window.open('http://videos.developer.com/video/?bcpid=86842592001&bclid=87185324001&bctid=793834242001','myWindow','width=790,height=620,resizable=no');NewWindow.focus(); void(0);
+ 101. javascript:NewWindow=window.open('http://videos.developer.com/video/?bcpid=86842592001&bclid=87185324001&bctid=767998541001','myWindow','width=790,height=620,resizable=no');NewWindow.focus(); void(0);
+ 102. javascript:NewWindow=window.open('http://videos.developer.com/video/?bcpid=86842592001&bclid=87185324001&bctid=767998541001','myWindow','width=790,height=620,resizable=no');NewWindow.focus(); void(0);
+ 103. http://www.developer.com/#mostPopularToday
+ 104. http://www.developer.com/#mostPopularThisWeek
+ 105. http://www.developer.com/#mostPopularAllTime
+ 106. http://www.developer.com/java/data/article.php/3417381/Using-JDBC-with-MySQL-Getting-Started.htm
+ 107. http://www.developer.com/design/article.php/2109801/Creating-Use-Case-Diagrams.htm
+ 108. http://www.developer.com/java/other/article.php/3556176/An-Introduction-to-Java-Annotations.htm
+ 109. http://www.developer.com/java/other/article.php/3559931/Hibernate-Basics.htm
+ 110. http://www.developer.com/net/asp/article.php/3096831/Using-ASPNET-To-Send-Email.htm
+ 111. http://www.developer.com/java/data/article.php/3417381/Using-JDBC-with-MySQL-Getting-Started.htm
+ 112. http://www.developer.com/lang/php/article.php/3896056/10-Experimental-PHP-Projects-Pushing-the-Envelope.htm
+ 113. http://www.developer.com/java/other/article.php/3559931/Hibernate-Basics.htm
+ 114. http://www.developer.com/java/other/article.php/3556176/An-Introduction-to-Java-Annotations.htm
+ 115. http://www.developer.com/db/article.php/3379271/Oracle-Programming-with-PLSQL-Collections.htm
+ 116. http://www.developer.com/java/data/article.php/3417381/Using-JDBC-with-MySQL-Getting-Started.htm
+ 117. http://www.developer.com/java/other/article.php/3559931/Hibernate-Basics.htm
+ 118. http://www.developer.com/db/article.php/3379271/Oracle-Programming-with-PLSQL-Collections.htm
+ 119. http://www.developer.com/java/other/article.php/3556176/An-Introduction-to-Java-Annotations.htm
+ 120. http://www.developer.com/design/article.php/2109801/Creating-Use-Case-Diagrams.htm
+ 121. http://www.developer.com/#mostCommentedOnThisWeek
+ 122. http://www.developer.com/#mostCommentedOnThisMonth
+ 123. http://www.developer.com/#mostCommentedOnAllTime
+ 124. http://www.developer.com/article.php/3896056
+ 125. http://www.developer.com/article.php/777761
+ 126. http://www.developer.com/article.php/3336751
+ 127. http://www.developer.com/article.php/641521
+ 128. http://www.developer.com/article.php/3896711
+ 129. http://www.developer.com/article.php/777761
+ 130. http://www.developer.com/article.php/3894316
+ 131. http://www.developer.com/article.php/3896056
+ 132. http://www.developer.com/article.php/1495931
+ 133. http://www.developer.com/article.php/3894566
+ 134. http://www.developer.com/article.php/2109801
+ 135. http://www.developer.com/article.php/777761
+ 136. http://www.developer.com/article.php/3336751
+ 137. http://www.developer.com/article.php/3096831
+ 138. http://www.developer.com/article.php/3417381
+ 139. http://o1.qnsr.com/cgi/r?WT.qs_dlk=VC9XLArIZ24AAEm4WpkAAAAt;;;n=203;c=1412833;s=9272;x=7936;f=201401311259490;u=j;z=TIMESTAMP;
+ 140. http://o1.qnsr.com/cgi/r?WT.qs_dlk=VC9XLArIZ24AAEm4WpkAAAAt;;;n=203;c=1412834;s=9272;x=7936;f=201401311301320;u=j;z=TIMESTAMP;
+ 141. http://o1.qnsr.com/cgi/r?WT.qs_dlk=VC9XLArIZ24AAEm4WpkAAAAt;;;n=203;c=1412836;s=9272;x=7936;f=201401311303220;u=j;z=TIMESTAMP;
+ 142. http://www.developer.com/sitemap.html
+ 143. http://www.developer.com/contactus
+
+   Hidden links:
+ 145. http://twitter.com/share
+ 146. javascript:void(0);
+ 147. http://www.developer.com/ws/android
+ 148. http://www.developer.com/
+ 149. http://www.developer.com/java/dev-java-10.rss
+ 150. http://www.developer.com/net/dev-net-10.rss
+ 151. http://www.developer.com/ws/dev-ws-10.rss
+ 152. http://www.developer.com/daily_news/developer-nl_developer_dailynews-10.rss
+ 153. http://www.developer.com/services/dev-services-10.rss
+ 154. http://www.developer.com/db/dev-db-10.rss
+ 155. http://www.developer.com/lang/php/dev-php-10.rss
+ 156. http://www.developer.com/open/dev-open-10.rss
+ 157. http://www.developer.com/
+ 158. http://www.developer.com/

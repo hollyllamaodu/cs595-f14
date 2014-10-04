@@ -1,0 +1,245 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+  <title>Online Voter Registration</title>
+  <meta name = "viewport" content = "width = 600" />
+  <link href="//s3.amazonaws.com/rocky-assets/assets/jquery.qtip.min-1553346bafaa4873640a53fd898fb8e9.css" media="screen" rel="stylesheet" type="text/css" />
+  <link href="//s3.amazonaws.com/rocky-assets/assets/qtip-custom-53d068bcedfdcc50026d3cf0f0b0b3a0.css" media="screen" rel="stylesheet" type="text/css" />
+  <link href="//register.rockthevote.com/partners/1681/application.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="//register.rockthevote.com/partners/1681/registration.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="//register.rockthevote.com/partners/1681/partner.css" media="screen" rel="stylesheet" type="text/css" />
+  <!--[if !IE 7]>
+    <style type="text/css">
+      #container { display:table; height:100% }
+    </style>
+  <![endif]-->
+  <script src="//s3.amazonaws.com/rocky-assets/assets/application-756ef4bc33f7a001af5869e729adffa4.js" type="text/javascript"></script>
+<script src="//s3.amazonaws.com/rocky-assets/assets/registration-212d0bfb0560ab0d8df2bfbb800b7b7f.js" type="text/javascript"></script>
+  <script type="text/javascript" charset="utf-8">
+    $(document).ready(function() { hideErrors(); setTimeout('revealErrors();', 400); });
+  </script>
+  <script>
+$(document).ready(function() {
+  $('#registrant_javascript_disabled').remove();
+});
+</script>
+
+</head>
+<body>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-9489354-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+  <div id="container">
+
+    <div id="header" class="partner">
+      <div id="partner-logo">
+        <img alt="Headcountlogo_75x45px_1_" src="//register.rockthevote.com/system/logos/1681/header/HeadCountLogo_75x45px_1_.png" />
+      </div>
+      <div id="progress-bar">
+        <ol>
+          <li class="progress-title">Step:</li>
+          <li class="progress-current">1</li><li class="progress-todo">2</li><li class="progress-todo">3</li><li class="progress-todo">4</li><li class="progress-todo">5</li>
+        </ol>
+      </div>
+    </div>
+
+    <div id="main">
+      <div id="main_inner" class="step_1">
+        <h1>New Registrant</h1>
+<div id='other_language_link'>
+<script>
+  function followOtherLanguageLink() {
+    window.location = $("#other_language_link select").val()
+  }
+</script>
+<select onchange='followOtherLanguageLink();'>
+<option>Select Language</option>
+<option value='/registrants/new?locale=es&amp;partner=1681&amp;source=rtvansari'>
+En español
+</option>
+<option value='/registrants/new?locale=ko&amp;partner=1681&amp;source=rtvansari'>
+한국어
+</option>
+<option value='/registrants/new?locale=tl&amp;partner=1681&amp;source=rtvansari'>
+sa Tagalog
+</option>
+<option value='/registrants/new?locale=ilo&amp;partner=1681&amp;source=rtvansari'>
+Ilocano (ilo)
+</option>
+<option value='/registrants/new?locale=hi&amp;partner=1681&amp;source=rtvansari'>
+अँग्रेज़ी में
+</option>
+<option value='/registrants/new?locale=th&amp;partner=1681&amp;source=rtvansari'>
+ภาษาไทย
+</option>
+<option value='/registrants/new?locale=vi&amp;partner=1681&amp;source=rtvansari'>
+Bằng Tiếng Việt
+</option>
+<option value='/registrants/new?locale=zh&amp;partner=1681&amp;source=rtvansari'>
+简体中文
+</option>
+<option value='/registrants/new?locale=ja&amp;partner=1681&amp;source=rtvansari'>
+日本語
+</option>
+<option value='/registrants/new?locale=zh-tw&amp;partner=1681&amp;source=rtvansari'>
+繁體中文
+</option>
+<option value='/registrants/new?locale=ur&amp;partner=1681&amp;source=rtvansari'>
+انگریزی میں
+</option>
+<option value='/registrants/new?locale=bn&amp;partner=1681&amp;source=rtvansari'>
+বাংলা
+</option>
+</select>
+</div>
+<form accept-charset="UTF-8" action="/registrants" class="new_registrant" id="new_registrant" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div><input id="partner" name="partner" type="hidden" value="1681" />
+<input id="locale" name="locale" type="hidden" value="en" />
+<input id="source" name="source" type="hidden" value="rtvansari" />
+<input id="tracking" name="tracking" type="hidden" />
+<input id="short_form" name="short_form" type="hidden" />
+<input id="collectemailaddress" name="collectemailaddress" type="hidden" />
+<input id="registrant_under_18_ok" name="registrant[under_18_ok]" type="hidden" value="0" />
+
+
+<input id="registrant_javascript_disabled" name="registrant[javascript_disabled]" type="hidden" value="false" />
+
+  <ul class="flat">
+    <li class="width_f">
+      <h3><label for="registrant_email_address">Email Address</label></h3>
+      <div><input id="registrant_email_address" name="registrant[email_address]" type="text" /></div>
+      <div class="tooltip"><img alt="Help" class="tooltip" id="tooltip-email_address" onmouseout="this.src=&#x27;//s3.amazonaws.com/rocky-assets/assets/buttons/help_icon-3cd4404d5513cea5bf10e05c9fe2c985.gif&#x27;" onmouseover="this.src=&#x27;//s3.amazonaws.com/rocky-assets/assets/buttons/help_icon_over-ff10ee218a7e0630ac1ef0b833632f54.gif&#x27;" src="//s3.amazonaws.com/rocky-assets/assets/buttons/help_icon-3cd4404d5513cea5bf10e05c9fe2c985.gif" title="We will email you a copy of your voter registration form." /></div>
+      <span class="error"></span>
+    </li>
+  </ul>
+<ul class="flat">
+  <li class="width_f">
+    <h3><label for="registrant_home_zip_code">ZIP Code</label></h3>
+    <div><input id="registrant_home_zip_code" name="registrant[home_zip_code]" type="text" /></div>
+    <div class="tooltip"><img alt="Help" class="tooltip" id="tooltip-home_zip_code" onmouseout="this.src=&#x27;//s3.amazonaws.com/rocky-assets/assets/buttons/help_icon-3cd4404d5513cea5bf10e05c9fe2c985.gif&#x27;" onmouseover="this.src=&#x27;//s3.amazonaws.com/rocky-assets/assets/buttons/help_icon_over-ff10ee218a7e0630ac1ef0b833632f54.gif&#x27;" src="//s3.amazonaws.com/rocky-assets/assets/buttons/help_icon-3cd4404d5513cea5bf10e05c9fe2c985.gif" title="Enter ZIP code for the address where you live, even if you don&#x27;t receive mail there." /></div>
+    <span class="error"></span>
+  </li>
+</ul>
+<ul class="flat">
+  <li class="width_f">
+    <h3><label for="registrant_date_of_birth">Date of Birth</label></h3>
+    <div><input id="registrant_date_of_birth" name="registrant[date_of_birth]" type="text" /></div>
+    <div class="tooltip"><img alt="Help" class="tooltip" id="tooltip-date_of_birth" onmouseout="this.src=&#x27;//s3.amazonaws.com/rocky-assets/assets/buttons/help_icon-3cd4404d5513cea5bf10e05c9fe2c985.gif&#x27;" onmouseover="this.src=&#x27;//s3.amazonaws.com/rocky-assets/assets/buttons/help_icon_over-ff10ee218a7e0630ac1ef0b833632f54.gif&#x27;" src="//s3.amazonaws.com/rocky-assets/assets/buttons/help_icon-3cd4404d5513cea5bf10e05c9fe2c985.gif" title="On your voter registration application, you are required to indicate whether you will be 18 years old on or before election day.  However, many states allow you to register before your 18th birthday, so please &lt;a href=&quot;http://www.rockthevote.com/voter-registration/online-application-system/register-before-you-are-18-rules.html&quot;&gt;click here&lt;/a&gt; to see the rule for your state." /></div>
+      <span class="example">MM-DD-YYYY</span>
+  </li>
+</ul>
+
+<ul class="checkbox checkbox-step-1">
+  <li class="spacer">&nbsp;</li>
+  <li>
+    <h3>
+      <input name="registrant[us_citizen]" type="hidden" value="0" /><input id="registrant_us_citizen" name="registrant[us_citizen]" type="checkbox" value="1" /> <label for="registrant_us_citizen">I am a U.S. citizen.</label>
+      <span class="error"></span>
+    </h3>
+  </li>
+</ul>
+
+
+
+<ul class="checkbox checkbox-step-1">
+  <li class="spacer">&nbsp;</li>
+  <li>
+    <h3>
+      <input name="registrant[has_state_license]" type="hidden" value="0" /><input id="registrant_has_state_license" name="registrant[has_state_license]" type="checkbox" value="1" /> <label for="registrant_has_state_license">I have a drivers license or state ID card.</label>
+      <span class="error"></span>
+      
+    </h3>
+  </li>
+</ul>
+
+<ul class="checkbox checkbox-step-1">
+  <li class="spacer">&nbsp;</li>
+  <li>
+    <h3>
+      <input name="registrant[will_be_18_by_election]" type="hidden" value="0" /><input id="registrant_will_be_18_by_election" name="registrant[will_be_18_by_election]" type="checkbox" value="1" /> <label for="registrant_will_be_18_by_election">I will be 18 by the next election day.</label>
+      <span class="error"></span>
+      
+    </h3>
+  </li>
+</ul>
+
+
+
+<ul class="checkbox checkbox-step-1">
+  <li class="spacer">&nbsp;</li>
+  <li>
+    <h3>
+      <input name="registrant[first_registration]" type="hidden" value="0" /><input id="registrant_first_registration" name="registrant[first_registration]" type="checkbox" value="1" /> <label for="registrant_first_registration">I am registering to vote for the first time.</label>
+      <span class="error"></span>
+    </h3>
+  </li>
+</ul>
+
+<p><b>Note</b>: Some states offer online voter registration. <a href='http://www.rockthevote.com/voter-registration/online-application-system/online.html' target='_blank'>Learn more.</a> If you are an American citizen living abroad or a uniformed military voter, <a href='http://www.rockthevote.com/voting-is-easy/voting-rights/overseas-rights/overseas.html' target='_blank'>click here</a> to register to vote.</p>
+      <div class="button rollover_button">
+        <a class="button_next_step_en button_next_step" href="#">
+          <button type="submit" id="registrant_submit" >
+            <span>Next Step</span>
+          </button>
+        </a>
+      </div>
+
+</form>
+
+
+      </div>
+    </div>
+
+  </div>
+  <div id="sticky_footer">
+    <div id="footer">
+  <p>
+    <span id="powered_by_logo">
+      <a href="http://www.rockthevote.com" target="_blank">
+        <img alt="Rock The Vote" src="//s3.amazonaws.com/rocky-assets/assets/powered-by-rtv-logo-c8f34b57860d17010f96ea38debb2945.png" />
+      </a>
+    </span>
+    <span><a href="http://www.rockthevote.com/voter-registration/online-application-system/faq.html" target="_blank" title="FAQ">FAQ</a></span>
+    <span><a href="http://www.rockthevote.com/voter-registration/online-application-system/privacy.html" target="_blank" title="Privacy &amp; Security">Privacy &amp; Security</a></span>
+    <span><a href="http://www.rockthevote.com/voter-registration/online-application-system/contact.html" target="_blank" title="Contact Us">Contact Us</a></span>
+    <span><a href="http://www.rockthevote.com/voter-registration/online-application-system/about.html" target="_blank" title="About">About</a></span>
+    <span class="copyright">&copy; Copyright 2014, Rock the Vote</span>
+  </p>
+</div>
+
+  </div>
+
+
+  <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." :
+    "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost +
+    "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+  <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-1913089-11");
+    pageTracker._trackPageview();
+    } catch(err) {}
+  </script>
+
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";
+e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
+  "js-agent.newrelic.com/nr-100.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-3.newrelic.com","7c1dd36801","4891482","J1tfFUtfDQpVQB8TBwNdQhVLUQ8SQx1eBBU=",0,33,new Date().getTime(),"","","","",""]);</script></body>
+</html>

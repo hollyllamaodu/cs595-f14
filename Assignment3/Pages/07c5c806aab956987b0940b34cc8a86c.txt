@@ -1,0 +1,2369 @@
+
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+		<title>iOS 8 Hit By WiFi And Battery Life Complaints - Forbes</title>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta name="viewport" content="width=device-width, maximum-scale=2.0" />
+		<meta name="description" content="Reports are spreading of WiFi and battery life problems for iPhone 5S, iPad Air and iPad mini owners. Apple is yet to respond." />
+		<meta name="keywords" content="Mobile,Powering Productivity,Tech" />
+		<meta name="author" content="Gordon Kelly" />
+		<meta name="apple-itunes-app" content="app-id=588647136" />
+		<meta property="author" content="Gordon Kelly" />
+		<meta property="og:title" content="iOS 8 Hit By WiFi And Battery Life Complaints" />
+		<meta property="og:site_name" content="Forbes" />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/" />
+		<meta property="og:image" content="http://blogs-images.forbes.com/gordonkelly/files/2014/10/2014-09-22_16-40-201.png" />
+		<meta name="sailthru.image.full" content="http://blogs-images.forbes.com/gordonkelly/files/2014/10/2014-09-22_16-40-201.png" />
+		<meta property="og:description" content="Reports are spreading of WiFi and battery life problems for iPhone 5S, iPad Air and iPad mini owners. Apple is yet to respond." />
+		<meta property="fb:app_id" content="123694841080850" />
+		<meta property="article:published_time" content="2014-09-22" />
+		<meta name="date" content="2014-09-22" />
+		<meta property="article:author" content="http://www.forbes.com/sites/gordonkelly/" />
+		<meta name="sailthru.author" content="Gordon Kelly" />
+		<meta property="article:author" content="http://www.forbes.com/sites/gordonkelly/" />
+		<meta property="article:section" content="Mobile" />
+		<meta property="article:section" content="Powering Productivity" />
+		<meta property="article:section" content="Tech" />
+		<meta property="article:tag" content="Mobile" />
+		<meta property="article:tag" content="Powering Productivity" />
+		<meta property="article:tag" content="Tech" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:site" content="@forbes" />
+		<meta name="twitter:creator" content="@gordonkelly" />
+		<link rel="canonical"   href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/" />
+		<link rel="shortlink"   href="http://onforb.es/1C4Ya33" />
+	<script type="text/javascript" src="http://images.forbes.com/scripts/js_options.js"></script>
+	<script type="text/javascript">
+    	(function (){
+
+			window.displayedChannel = 'technology';
+			window.displayedSection = '';
+
+			// Check if welcome ad is not disabled
+			if(typeof forbes !== "undefined" && typeof forbes.js_options !== "undefined" && !forbes.js_options.welcome_ad_disable ){
+
+				var midnight = new Date(),
+					offset = -4 // if offset is not set, by default time is UTC 6:00am i.e EST 1am & EDT 12am for dailyWelcomeCookie expiration
+				;
+
+				if(midnight.getUTCHours() >= -offset)
+					midnight.setUTCDate(midnight.getUTCDate()+1)
+				;
+
+				midnight.setUTCHours(-offset);
+				midnight.setUTCMinutes(00);
+				midnight.setUTCSeconds(00);
+
+
+				var welcomeCookie = "welcomeAd=sessionCookie",
+					interstitial_cookie = '_forbes_exit_interstitial_timer',
+					tomorrow = new Date(),
+					month = tomorrow.getMonth(),
+					day = tomorrow.getDate(),
+					dailyWelcomeCookie = 'dailyWelcomeCookie=dailyCookie',
+					browser_user_agent = window.navigator.userAgent.toLowerCase(),
+					page_type = 'article',
+					swimlane = '',
+					brand_voice = 'false'
+				;
+
+				if ((document.cookie.indexOf(welcomeCookie)==-1 || document.cookie.indexOf(dailyWelcomeCookie) == -1)
+					&& (window.navigator.userAgent.indexOf("Mozilla")>-1)
+					&& (browser_user_agent.indexOf("googlebot")==-1)
+					&& (browser_user_agent.indexOf("google web preview")==-1)
+					&& (window.location.host.indexOf("forbes.com")!=-1)
+					&& (window.location.search.indexOf("partner=yahoo")==-1)
+					&& (window.location.search.indexOf("partner=msn")==-1)
+					&& (window.location.search.indexOf("partner=aol")==-1)
+					&& (window.location.search.indexOf("partner=omg")==-1)
+					&& (window.location.search.indexOf("partner=huffpo")==-1)
+					&& (window.location.search.indexOf('nowelcome')==-1)
+					&& (swimlane.indexOf("rico")!=0 || page_type != 'article')
+					&& brand_voice==='false'){
+
+					if(document.cookie.indexOf(welcomeCookie) == -1 ){
+						document.cookie = welcomeCookie +'__welcome'+(month+1)+day+'; path=/; domain=.forbes.com';
+					}
+
+					if(document.cookie.indexOf(dailyWelcomeCookie) == -1){
+						document.cookie = dailyWelcomeCookie+'_forDate'+(month+1)+day+'; path=/; domain=.forbes.com; expires=' + midnight.toGMTString();
+					}
+
+					// check if interstitial's cookie hasn't been set already
+					if(document.cookie.indexOf( interstitial_cookie ) == -1){
+
+						// it doesn't exist; let's create the interstitial cookie and set it
+						// with the current timestamp
+
+						var now = new Date(),
+							now_time = now.getTime(),
+							expiration_date = new Date()
+						;
+
+						expiration_date
+							.setDate( expiration_date.getDate() + 365)
+						;
+
+						// set interstitial cookie to the current time
+						document.cookie = interstitial_cookie + '='+ now_time +'; path=/; domain=.forbes.com; expires=' + expiration_date.toUTCString();
+					}
+
+					if (document.cookie.indexOf(welcomeCookie) != -1 || document.cookie.indexOf(dailyWelcomeCookie) != -1){
+
+						// this cookie is used by interstitial_ad.js to determine if the user received a
+						// welcome ad before viewing the current page.
+						document.cookie="last_welcomead_url"+ "=" +escape(document.URL)+";path=/; domain=.forbes.com";
+						document.cookie="referrer"+ "=" +escape(document.referrer)+";path=/; domain=.forbes.com";
+						document.cookie="toURL"+ "=" +escape(document.URL)+";path=/; domain=.forbes.com";
+						document.cookie="refURL"+ "=" +escape(document.referrer)+";path=/; domain=.forbes.com";
+						this.location='http://www.forbes.com/fdc/welcome_mjx.shtml';
+					}
+				}
+
+			}
+		})();
+	</script>
+        <script type="text/javascript">
+                var forbes = ( function( forbes_namespace ) {
+                forbes_namespace.user_meta = {
+            },
+            forbes_namespace.page_meta = {
+                            channel: "technology",
+
+                            primary_channel: "technology",
+
+
+
+
+
+                            sitepage: "forbes.com/technology/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/",
+                            author: {
+                                    natural_id: "blogAuthorId/blog/author/1017581",
+                                    user_id: "1017581",
+                                    display_name: "Gordon Kelly",
+                                    type: "individual"
+                            },
+         	                   post_id: 5993,
+            	                blog_id: 2907,
+                            natural_id: "blogAndPostId/blog/post/2907-5993",
+                            type: "blogslide",
+                            title: "iOS 8 Hit By WiFi And Battery Life Complaints",
+                            site_slug: "gordonkelly",
+							referrer: "",
+							content_id: "content_54204257e4b03b61661ea6f8",
+							blogtype : "individual",
+							authorType: "individual",
+							brandvoice: false,
+								simple_reach: {
+									iframe: true,
+									pid: "50e4a8434240cf5c4b000009",
+									url: "http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/",
+									title: "iOS 8 Hit By WiFi And Battery Life Complaints",
+									date: "2014-09-22T15:57:00Z",
+									authors: ["Gordon Kelly"],
+									channels: ["technology"],
+									tags: ["site::gordonkelly", "slot::" ,"Mobile","Powering Productivity","Tech"],
+									landing_url: ""
+								}
+                    };
+                    return forbes_namespace;
+            }( forbes || {} ) );
+        </script>
+	<script type='text/javascript'>
+
+	var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+  var gads = document.createElement('script');
+  gads.async = true;
+  gads.type = 'text/javascript';
+  var useSSL = 'https:' == document.location.protocol;
+  gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(gads, node);
+})();
+
+	</script>
+		<link rel="stylesheet" type="text/css" href="http://i.forbesimg.com/scripts/combined/css/global.43c99e597e708a164dfaacb2ef527fd6bb6121dd.css" />
+		<link rel="stylesheet" type="text/css" href="http://i.forbesimg.com/scripts/combined/css/article-responsive.5ee6df0094da8ce2145a5350e42ec6a7373915fa.css" />
+		<script type="text/javascript" src="http://i.forbesimg.com/scripts/combined/js/head.14cf7fb3a4053446bdebb499b3fa78ede856f5a5.js"></script>
+
+	<script type="text/javascript" src="http://i.forbesimg.com/assets/js/forbes/polar/vest_pocket_article.js"></script>
+	<script type="text/javascript" src="http://images.forbes.com/scripts/simple_reach.js"></script>
+
+
+	<!--[if lte IE 8]>
+		<link rel="stylesheet" type="text/css" href="//i.forbesimg.com/assets/css/forbes/article_responsive/article_ie_unbreaker.css">
+	<![endif]-->
+
+
+</head>
+
+<body class="body_article infinite follow_bar_disabled"
+	data-header-mode="default"
+	data-base-url="/"
+	data-stream-data-url="/pepe2/get_article.php"
+	data-max-stream-pages="3">
+
+	
+<header class="ar_global enable_sticky_header">
+
+	<span class="edittools-goggles-hitmask">
+		<span class="edittools-goggles-hitarea">
+			<span class="edittools-goggles-toggle attach-click" title="Toggle Edit Tools"></span>
+		</span>
+	</span>
+	<span class="edittools-goggles-rule"></span>
+
+	<div class="wrap">
+
+		<a href="/" class="default_logo_toggle logo_menu_toggle">
+			<span class="icon arrow"></span>
+		</a>
+
+		<div class="logo">
+			<a href="http://www.forbes.com/">
+				<img class="svg" alt="Forbes" src="/assets/img/forbes_logo/forbes_logo_white.svg" onerror="this.src='/assets/img/forbes_logo/forbes_logo_white.png'">
+				<img itemprop="logo" alt="Forbes" src="/assets/img/forbes_logo/forbes_logo.gif">
+			</a>
+		</div>
+		<div class="primary_feature">
+
+<article>
+
+
+		<div class="edittools-promoblock largeplusthree" data-et-context="headercoverstory" data-et-location-id="headercoverstory" data-et-panel-id="panel8">
+			<article data-et-content-id="4e7a0e2776e46f6dd8029dc4" class="promostory promostory-1">
+
+
+				<figure>
+					<a href="http://www.forbes.com/forbes-400/" class="featured_image editable editable-img  " data-ga-event="Header,LinkFollowed,magpromo" data-ga-event-trigger="click">
+
+
+						<img src="http://images.forbes.com/images/channels/headercoverstory_panel8_0_original-1412266450.png" alt="America's Richest People" />
+					</a>
+				</figure>
+
+				<div class="feature_label">
+					<span class="category editable editable-dek"><a href="http://www.forbes.com/forbes-400/">Forbes 400</a></span>
+						<span class="title editable editable-hed" data-ga-event="Header,LinkFollowed,magpromo" data-ga-event-trigger="click">
+							<a href="http://www.forbes.com/forbes-400/">
+									America's Richest People
+							</a>
+						</span>
+				</div>
+
+			</article>
+		</div>
+
+</article>
+		</div><!-- .primary_feature -->
+
+		<nav>
+			<ul class="main_categories">
+				<li data-id="new_posts">
+					<a href="http://www.forbes.com/real-time/" class="button" data-ga-event="Header,LinkFollowed,realtime" data-ga-event-trigger="click">
+						<span class="text">New Posts</span>
+					</a>
+				</li>
+				<li data-id="most_popular">
+					<a href="http://www.forbes.com/most-popular/" class="button" data-ga-event="Header,LinkFollowed,popular" data-ga-event-trigger="click">
+						<span class="text">Most Popular</span>
+					</a>
+				</li>
+				<li data-id="lists">
+					<a href="http://www.forbes.com/lists/" class="button" data-ga-event="Header,LinkFollowed,lists" data-ga-event-trigger="click">
+						<span class="text">Lists</span>
+					</a>
+				</li>
+				<li data-id="video">
+					<a href="http://www.forbes.com/video/" class="button" data-ga-event="Header,LinkFollowed,video" data-ga-event-trigger="click">
+						<span class="text">Video</span>
+					</a>
+				</li>
+				<li data-id="promo">
+					<a href="http://bit.ly/1aqPJ4p">
+						<span class="text">2 Free Issues of Forbes</span>
+					</a>
+				</li>
+				<li data-id="global_search">
+	<div class="header_search global_search_control typeahead_anchor">
+		<form class="form_global_search" action="/search/">
+			<div class="input_holder">
+				<input name="q" class="search_input" type="text" value="" placeholder="Search" data-placeholder-short="Search" data-placeholder-long="Search companies, people and lists" autocomplete="off">
+				<input class="form_submit" type="submit" value="submit">
+				<span class="loading_msg"></span>
+				<span class="loading_spinner"><img src="http://i.forbesimg.com/assets/img/loading_spinners/16px_grey.gif" height="16" width="16" alt=""></span>
+			</div>
+		</form>
+
+		<div class="typeahead_results_holder">
+			<div class="results"><ul></ul></div>
+		</div><!-- end div.typeahead_results_holder -->
+		
+	</div><!-- end li.search-->
+				</li>
+				<li data-id="user_info">
+
+<div class="user hover togglable collapsed">
+	<div class="account_wrapper">
+		<a class="button account toggle" href="http://blogs.forbes.com/account/" data-ga-event="Header,LinkFollowed,account" data-ga-event-trigger="click" data-content-outer=".toggle_dropdown" data-content-inner=".toggle_dropdown_content">
+			<img src="http://i.forbesimg.com/assets/img/anon_avatar.png" alt="">
+			<span class="icon arrow"></span>
+		</a>
+
+		<div class="toggle_dropdown">
+			<div class="toggle_dropdown_content rollover">
+				<div class="user_login clearfix">
+
+
+
+				<div class="one_column">
+
+					<div class="external_auth_options">
+						<h3>Log in with your social account:</h3>
+						<div id="gigya_accountdropdown_extralarge_div"></div>
+						<div class="clear"></div>
+					</div>
+
+					<hr class="dotted">
+
+					<h3>Or, you can
+						<a class="ajaxify unireg_login" href="http://blogs.forbes.com/account/login/" label="login">log in</a>
+						or
+						<a class="ajaxify unireg_register" href="http://blogs.forbes.com/account/register/" label="signup">sign up</a>
+						using Forbes.
+					</h3>
+				</div>
+
+
+				</div><!-- .user_login -->
+			</div><!-- .toggle_dropdown_content -->
+		</div><!-- .toggle_dropdown -->
+	</div><!-- .account_wrapper -->
+</div><!-- .user -->
+
+				</li>
+
+			</ul><!-- .main_categories -->
+		</nav>
+
+		<div class="secondary_features">
+<article data-id="1">
+
+			<div class="edittools-promoblock largeplusthree" data-et-context="headerfeature1" data-et-location-id="headerfeature1" data-et-panel-id="panel14">
+			<article data-et-content-id="content_542a325ee4b0563af2c47a8b" class="promostory promostory-1">
+
+
+				<figure>
+				<a href="http://www.forbes.com/sites/parmyolson/2014/09/30/how-jerry-yang-made-the-most-lucrative-bet-in-tech-history/" class="featured_image editable editable-img  " data-ga-event="Header,LinkFollowed,promo1" data-ga-event-trigger="click">
+
+
+                        <img src="http://images.forbes.com/images/channels/headerfeature1_panel14_0_original-1412266475.jpg" alt="Finding Alibaba: How Jerry Yang Made The Most Lucrative Bet In Silicon Valley History" />
+
+                </a>
+				</figure>
+
+            	<div class="title editable editable-hed">
+	            	<a href='http://www.forbes.com/sites/parmyolson/2014/09/30/how-jerry-yang-made-the-most-lucrative-bet-in-tech-history/' data-ga-event="Header,LinkFollowed,promo1" data-ga-event-trigger="click">
+	            			Finding Alibaba: How Jerry Yang Made The Most Lucrative Bet In Silicon Valley History
+	            	</a>
+            	</div>
+		</article>
+		</div>
+</article>
+
+
+<article data-id="2">
+
+			<div class="edittools-promoblock largeplusthree" data-et-context="headerfeature2" data-et-location-id="headerfeature2" data-et-panel-id="panel15">
+			<article data-et-content-id="content_5400f934e4b0bb45818b7499" class="promostory promostory-1">
+
+
+				<figure>
+				<a href="http://www.forbes.com/sites/nicolefisher/2014/08/30/the-most-interesting-man-revolutionizing-the-health-world/" class="featured_image editable editable-img  " data-ga-event="Header,LinkFollowed,promo2" data-ga-event-trigger="click">
+
+
+                        <img src="http://images.forbes.com/images/channels/headerfeature2_panel15_0_original-1412019265.jpg" alt="The Most Interesting Man Revolutionizing The Health World" />
+                </a>
+				</figure>
+
+            	<div class="title editable editable-hed">
+            		<a href='http://www.forbes.com/sites/nicolefisher/2014/08/30/the-most-interesting-man-revolutionizing-the-health-world/' data-ga-event="Header,LinkFollowed,promo2" data-ga-event-trigger="click">
+            				The Most Interesting Man Revolutionizing The Health World
+            		</a>
+            	</div>
+		</article>
+		</div>
+</article>
+
+
+<article data-id="3">
+
+			<div class="edittools-promoblock largeplusthree" data-et-context="headerfeature3" data-et-location-id="headerfeature3" data-et-panel-id="panel20">
+			<article data-et-content-id="content_53fd57bbe4b0bb45818b60c6" class="promostory promostory-1">
+
+				<figure>
+				<a href="http://www.forbes.com/sites/martinzwilling/2014/08/27/10-startup-calculated-risks-that-lead-to-success/" class="featured_image editable editable-img  " data-ga-event="Header,LinkFollowed,promo3" data-ga-event-trigger="click">
+
+
+                        <img src="http://images.forbes.com/images/channels/headerfeature3_panel20_0_original-1412019640.png" alt="10 Calculated Risks That Lead To Startup Success" />
+                </a>
+				</figure>
+
+            	<div class="title editable editable-hed">
+	            	<a href='http://www.forbes.com/sites/martinzwilling/2014/08/27/10-startup-calculated-risks-that-lead-to-success/' data-ga-event="Header,LinkFollowed,promo3" data-ga-event-trigger="click">
+		            		10 Calculated Risks That Lead To Startup Success
+	            	</a>
+	            </div>
+		</article>
+		</div>
+</article>
+		</div><!-- .secondary_features -->
+
+	</div><!-- .wrap -->
+</header>
+
+<header class="mini_header">
+	<div class="wrap">
+		<div class="logo">
+			<a href="/" class="logo_menu_toggle">
+				<img class="svg icon_expanded" alt="Forbes" src="/assets/img/forbes_logo/forbes_logo.svg" onerror="this.src='/assets/img/forbes_logo/forbes_logo.gif'">
+				<img class="svg icon_collapsed" alt="Forbes" src="/assets/img/forbes_logo/forbes_logo_white.svg" onerror="this.src='/assets/img/forbes_logo/forbes_logo_white.png'">
+				<span class="icon arrow"></span>
+			</a>
+		</div>
+
+
+		<div class="header_drawer togglable collapsed">
+			<div class="focused">
+				<div class="focused_inner">
+
+
+						<a href="http://www.forbes.com/sites/brucekasanoff/2014/10/03/jpmorgan-chase-breach-reveals-a-dire-talent-emergency/">
+							<span class="title"> JPMorgan Chase Breach Reveals A Dire Talent Emergency</span>
+
+								<span class="reason" data-reason="LI" >Active on LinkedIn <span class="icon"></span></span>
+					</a>
+
+				</div>
+				<div class="toggle" data-content-outer=".dropdown" data-content-inner=".dropdown_inner">
+					<div class="pointer"></div>
+				</div>
+			</div><!-- .featured -->
+
+
+			<div class="dropdown" style="height: 0px; opacity: 0;">
+				<div class="dropdown_inner">
+					<ul>
+
+
+
+
+
+
+
+
+
+
+
+
+								<li data-et-id="content_542c86d6e4b0563af2c48acd">
+									<a href="http://www.forbes.com/sites/larryhusten/2014/10/02/cholesterol-drugs-haunted-by-ghosts-of-past-present-and-future/">
+										<span class="title"> Cholesterol Drugs Haunted By Ghosts Of Past, Present, And Future</span>
+
+											<span class="reason" data-reason="PV-D">+32,537 views in last 24 hours</span>
+									</a>
+								</li>
+
+
+
+
+
+								<li data-et-id="content_542d3fabe4b0563af2c48bdb">
+									<a href="http://www.forbes.com/sites/retailwire/2014/10/02/walmarts-drive-through-grocery-concept-is-a-head-scratcher/">
+										<span class="title"> Walmart's Drive-Through Grocery Concept Is A Head Scratcher</span>
+
+											<span class="reason" data-reason="FB">Active on Facebook <span class="icon"></span></span>
+									</a>
+								</li>
+
+
+
+
+
+											<li>
+												<a href="http://www.forbes.com/sites/sap/2014/10/02/oxford-economics-research-can-companies-avoid-the-leadership-cliff/" data-ga-event="Header,HeaderExpandBrandvoiceClicked,SAP" data-ga-event-trigger="click">
+													<span class="title">		    <span class="advoice"><span class="brandvoice">SAP</span>&#8203;Voice: </span>
+ Oxford Economics Research: Can Companies Avoid the Leadership Cliff?</span>
+												</a>
+											</li>
+
+
+								<li data-et-id="content_5429e2ace4b0563af2c479a0">
+									<a href="http://www.forbes.com/sites/jamesmarshallcrotty/2014/09/29/if-massachusetts-were-a-country-its-students-would-rank-9th-in-the-world/">
+										<span class="title"> If Massachusetts Were A Country, Its Students Would Rank 9th In The World</span>
+
+											<span class="reason" data-reason="CM-D">+2 comments in last 24 hours</span>
+									</a>
+								</li>
+
+
+
+
+
+								<li data-et-id="content_542d8b43e4b0563af2c48f91">
+									<a href="http://www.forbes.com/sites/kenkam/2014/10/03/could-there-be-a-thousand-warren-buffetts/">
+										<span class="title"> Could There Be A Thousand Warren Buffetts?</span>
+
+											<span class="reason" data-reason="PV-D">+8,249 views in last 24 hours</span>
+									</a>
+								</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					</ul>
+					<div class="more">
+						<a href="/most-popular/">
+							<span class="icon">+</span>
+							<span class="label">More</span>
+						</a>
+					</div>
+
+				</div><!-- .dropdown_inner -->
+			</div><!-- .dropdown -->
+		</div>
+
+	</div><!-- .wrap -->
+</header><!-- .mini_header -->
+<div data-nav-ajax-url="/header/channels" class="ar_global_logo_rollover">
+	<div class="rollover rollover_box">
+
+	</div><!-- .rollover.rollover_box -->
+</div><!-- .ar_global_logo_rollover -->
+
+
+<div id="header_userinfo" class="clearfix">
+		<div class="login_header">
+		<!-- login header -->		<div class="gigya_chicklet_mask">			<div class="ribbon-item ribbon-item-gigya">				<div class="login_options">					<span>Connect</span>				</div>				<div id="gigyalogindiv" class="gigya_chicklet_holder"></div>			</div>		</div>		<span class="divider">|</span>		<div class="ribbon-item">			<a class="unireg_register ajaxify regbutton regbutton-signup" href="http://blogs.forbes.com/account/register/" title="Sign up for a Forbes account" data-ga-event="Account,Signup,headersignuptext" data-ga-event-trigger="click">Sign up</a>		</div>		<span class="divider">|</span>		<div class="ribbon-item">			<a class="unireg_login ajaxify regbutton regbutton-login" href="http://blogs.forbes.com/account/login/" title="Log in to your Forbes account" data-ga-event="Account,Login,headerlogintext" data-ga-event-trigger="click">Log in</a>		</div><!-- end login header -->
+		</div>
+	<div class="legal_header"><div class="ribbon-item"><a class="inlink inlink-topnav" href="http://blogs.forbes.com/help/">Help</a></div><span class="divider">|</span><div class="ribbon-item"><a onclick="(function(){var s=document.createElement('script');s.src='http://preferences.truste.com/js/buildJsFilev2.jsp?domain=forbes.com&amp;type=epref';s.onreadystatechange=function(){if(script.readyState=='loaded'||script.readyState=='complete'){view(trusteId);}};s.onload=function(){view(trusteId);};document.getElementsByTagName('head')[0].appendChild(s);})()">AdChoices</a></div><span class="divider">|</span><div class="ribbon-item"><a title="Terms and Conditions" href="/terms">Terms</a></div><span class="divider">|</span><div class="ribbon-item"><a title="Privacy Statement" href="http://www.forbes.com/fdc/privacy.html">Privacy</a></div></div>
+</div><!--end #header_userinfo -->
+
+	<div id="article_container_0" class="article_container container">
+
+		<!--start:ajax_content_inner-->
+
+		<div class="article_stats_data" data-stats='{&quot;user_meta&quot;:{},&quot;page_meta&quot;:{&quot;channel&quot;:&quot;technology&quot;,&quot;primary_channel&quot;:&quot;technology&quot;,&quot;primary_section&quot;:&quot;&quot;,&quot;displaychannel&quot;:&quot;technology&quot;,&quot;type&quot;:&quot;blogslide&quot;,&quot;template_type&quot;:&quot;standard&quot;,&quot;title&quot;:&quot;iOS 8 Hit By WiFi And Battery Life Complaints&quot;,&quot;site_slug&quot;:&quot;gordonkelly&quot;,&quot;blog_name&quot;:&quot;&quot;,&quot;preview&quot;:false,&quot;sitepage&quot;:&quot;forbes.com\/technology\/sites\/gordonkelly\/2014\/09\/22\/ios-8-wifi-and-battery-life-problems\/&quot;,&quot;author&quot;:{&quot;natural_id&quot;:&quot;blogAuthorId\/blog\/author\/1017581&quot;,&quot;user_id&quot;:&quot;1017581&quot;,&quot;display_name&quot;:&quot;Gordon Kelly&quot;,&quot;type&quot;:&quot;individual&quot;},&quot;post_id&quot;:&quot;5993&quot;,&quot;blog_id&quot;:&quot;2907&quot;,&quot;natural_id&quot;:&quot;blogAndPostId\/blog\/post\/2907-5993&quot;,&quot;content_id&quot;:&quot;content_54204257e4b03b61661ea6f8&quot;,&quot;blogtype&quot;:&quot;individual&quot;,&quot;authorType&quot;:&quot;individual&quot;,&quot;brandvoice&quot;:false,&quot;simple_reach&quot;:{&quot;iframe&quot;:true,&quot;pid&quot;:&quot;50e4a8434240cf5c4b000009&quot;,&quot;url&quot;:&quot;http:\/\/www.forbes.com\/sites\/gordonkelly\/2014\/09\/22\/ios-8-wifi-and-battery-life-problems\/&quot;,&quot;title&quot;:&quot;iOS 8 Hit By WiFi And Battery Life Complaints&quot;,&quot;date&quot;:&quot;2014-09-22T15:57:00Z&quot;,&quot;authors&quot;:&quot;Gordon Kelly&quot;,&quot;channels&quot;:&quot;technology&quot;,&quot;tags&quot;:[&quot;site::gordonkelly&quot;,&quot;slot::&quot;,&quot;Mobile&quot;,&quot;Powering Productivity&quot;,&quot;Tech&quot;],&quot;landing_url&quot;:&quot;&quot;}}}'></div>
+		<div class="article_dfp_data" data-dfp='{&quot;id&quot;:&quot;blogAndPostId\/blog\/post\/2907-5993&quot;,&quot;contrib&quot;:&quot;gordonkelly&quot;,&quot;displaychannel&quot;:&quot;technology&quot;,&quot;channel&quot;:&quot;Tech&quot;,&quot;section&quot;:&quot;Tech:Mobile,Business:Powering Productivity&quot;}'></div>
+
+		<div class="leaderboard"></div>
+
+
+	<div class="row">
+		<div class="col-sm-12">
+			<hr class="article_rule">
+		</div>
+	</div>
+
+	<section class="row" itemscope itemtype="http://schema.org/Article">
+		<div class="col-md-2 entity_block_wrapper">
+
+
+
+
+
+
+		<div class="article_entity entity_block">
+			<div class="type_article_block">
+				<div class="entity_preview">
+						<a class="avatar" href='http://www.forbes.com/sites/gordonkelly/'><img src="http://1.gravatar.com/avatar/135313297429b8a66b069508000b1134?s=136&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D136&amp;r=G" alt="Gordon Kelly" /></a>
+
+							<a class="user_name" href="http://www.forbes.com/sites/gordonkelly/">
+								<span itemprop="author">Gordon Kelly</span>
+							</a>
+							<span class="title">Contributor</span>
+
+
+
+
+
+
+    <div class="followable_block initializing" data-target-type="author" data-target-id="blogAuthorId/blog/author/1017581" data-object-json="{&quot;title&quot;:&quot;Gordon Kelly&quot;,&quot;avatar_src&quot;:&quot;http://1.gravatar.com/avatar/135313297429b8a66b069508000b1134?s=136&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D136&amp;r=G&quot;,&quot;follow_count&quot;:&quot;373&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ContribBylineFollow">
+
+    <div class="follow_unireg">
+		<a href="javascript://follow" class="follow_unireg_link">
+			<span class="option_follow">Follow</span>
+	
+			<span class="option_following">Following</span>
+	
+			<span class="option_unfollow">Unfollow</span>
+		</a>
+    </div>
+    </div>
+
+						<p class="preview_bio">
+								I write about technology's biggest companies
+
+							<span class="show_more_copy">full bio &rarr;</span>
+						</p>
+
+	            			<p class="disclaimer">Opinions expressed by Forbes Contributors are their own.</p>
+
+						<div class="social_icons">
+							<div class="label" style="display:none;">
+								<div class="arrow"></div>
+								<span class="text"></span>
+							</div>
+							<ul class="entity_links">
+
+								<li class="twitter">
+									<a target="blank" href="http://twitter.com/@gordonkelly">
+										<span>Follow Gordon Kelly on Twitter</span>
+									</a>
+								</li>
+
+
+
+			                    <li class="facebook">
+									<a target="blank" href="https://www.facebook.com/GordonKelly">
+										<span>Follow Gordon Kelly on Facebook</span>
+									</a>
+								</li>
+
+								<li class="linked_in">
+	    							<a target="blank" href="https://www.linkedin.com/in/gordonkelly">
+										<span>Follow Gordon Kelly on LinkedIn</span>
+									</a>
+								</li>
+
+
+							<li class="rss">
+								<a href="http://www.forbes.com/sites/gordonkelly/feed/">
+									<span>Gordon Kelly&#8217;s RSS Feed</span>
+								</a>
+							</li>
+
+
+								<li class="website">
+									<a target="blank" href="http://www.gordonkelly.com">
+										<span>Gordon Kelly&#8217;s Website</span>
+									</a>
+
+								<li class="profile">
+									<a href='http://www.forbes.com/sites/gordonkelly/'>
+										<span>Gordon Kelly&#8217;s Profile</span>
+									</a>
+								</li>
+
+
+							<!-- ADD IF DATA CHECK -->
+
+
+								<li class="email">
+									<a class="ajaxify launch_email_contrib" href="#"  data-enable-contact="true" data-contrib-name="Gordon Kelly" data-contrib-email= "gordon@gordonkelly.com"  data-user-name= ""  data-user-email= "">
+										<span>Contact Gordon Kelly</span>
+									</a>
+								</li>
+						</ul><!-- .entity_links -->
+					</div>
+
+
+				</div><!-- .entity_preview -->
+
+				<div class="entity_dive">
+
+					<div class="masked_content">
+
+						<nav class="toggles">
+							<ul>
+								<li data-mode="recent_posts">Recent Posts<span class="arrow"></span></li>
+								<li data-mode="popular_posts">Popular Posts<span class="arrow"></span></li>
+								<li data-mode="bio">Full Bio<span class="arrow"></span></li>
+							</ul>
+						</nav>
+
+						<div class="full_bio">
+							<p>I am an experienced freelance technology journalist. I write for Wired, The Next Web, TrustedReviews and the BBC in addition to Forbes. 
+<br><br>
+I began in b2b print journalism covering tech companies at the height of the dot com boom and switched to covering consumer technology as the iPod began to take off.  
+<br><br>
+A career highlight for me was being a founding member of TrustedReviews. It started in 2003 and we were repeatedly told websites could not compete with print! Within four years we were purchased by IPC Media (Time Warner's publishing division) to become its flagship tech title. 
+<br><br>
+What fascinates me are the machinations of technology's biggest companies. Got a pitch, tip or leak? Contact me on <a href="https://twitter.com/GordonKelly">Twitter </a>, <a href="https://plus.google.com/+GordonKelly/posts?rel=author">Google+</a>, my professional <a href="https://www.facebook.com/GordonKelly">Facebook page</a> or via email: gordonATgordonkelly.com. I don't bite.</p>
+
+							<!-- ADD IF DATA CHECK -->
+								<a class="ajaxify launch_email_contrib" href="#"  data-enable-contact="true" data-contrib-name="Gordon Kelly" data-contrib-email= ""  data-user-name= ""  data-user-email= "" >Contact Gordon Kelly</a>
+
+								<p class="disclaimer">The author is a Forbes contributor. The opinions expressed are those of the writer.</p>
+						</div>
+
+						<div class="entity_recent_posts">
+							Loading...
+						</div>
+
+						<div class="entity_popular_posts">
+							Loading...
+						</div>
+
+					</div><!-- .masked_content -->
+
+				</div><!-- .entity_dive -->
+
+				<div class="drawer_arrow_down"></div>
+
+			</div><!-- .type_article_block -->
+
+		</div><!-- .entity_block -->
+
+
+			<aside class="vp-wrapper">
+	<div class="vp-box vp-comment comment_bug comment_bug_2" style="display:none;">
+		<div class="wrapper">
+			<div class="info">
+				<a href="#comments_header" class="scroll_to">
+					<span class="comment_count">58</span>
+					Comments
+				</a>
+			</div>
+			<div class="called_out_sampling"></div>
+			<a href="#comments_header" class="scroll_to comment_calledout">46 called-out</a>
+		</div>
+		<div class="comment_teaser"></div>
+		<div class="no_comment_bugs_exist_yet" style="display:none;"></div>
+		<div class="comment_links">
+            <a href="#comment_reply" class="scroll_to post_your_comment">Comment Now</a>
+			<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2907-5993" data-object-json="{&quot;title&quot;:&quot;iOS 8 Hit By WiFi And Battery Life Complaints&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+			</div>
+		</div>
+	</div>
+				<div class="vp-box vp-polar-native" style="display: none;"> </div>
+			</aside>
+		</div>
+
+
+		<div class="article_content col-md-10 col-sm-12">
+
+
+<hgroup class="prevent_widows">
+
+			<!--   Reveal this link if the logged-in user has editing rights-->
+
+	<h5>
+
+		<a href="/technology" class="slug" itemprop="articleSection">Tech</a>
+
+	<time itemprop="datePublished" content="2014-09-22T11:57:00-04:00">9/22/2014 @ 11:57AM</time>
+
+		<span class="views">157,872 views</span>
+	</h5>
+
+		<h1 itemprop="headline">iOS 8 Hit By WiFi And Battery Life Complaints</h1>
+
+
+
+			<!-- Make individual group author appear -->
+
+	<div class="comment_links">
+		<a href="#comment_reply" class="scroll_to post_your_comment">Comment Now</a>
+		<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2907-5993" data-object-json="{&quot;title&quot;:&quot;iOS 8 Hit By WiFi And Battery Life Complaints&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+		</div>
+	</div>
+</hgroup>
+
+
+			<div class="article_body article" itemprop="articleBody">
+
+				<div class="body">
+
+					<div class="body_inner">
+
+
+
+						
+<p dir="ltr">Having <a href="http://www.forbes.com/sites/gordonkelly/2014/09/19/iphone-6-review/">reviewed the iPhone 6</a> and found iOS 8 to be a fast, fluid and error free experience it now seems many owners of older iPhones and iPads have not been so lucky.</p> 
+<p>&nbsp;</p> 
+<p dir="ltr">Bloggers <a href="http://tech.firstpost.com/news-analysis/apple-ios-8-problems-plague-users-shorter-battery-life-slower-wi-fi-speeds-and-more-235133.html">Tech 2</a> spotted this fast growing&nbsp;<a href="https://discussions.apple.com/thread/6546549">Apple Support Communities thread</a> citing ‘iOS 8 WiFi Problems’ with comments from iPhone 5S, iPad Air and iPad mini owners. The thread has also expanded to complaints about iOS 8 battery life problems, the performance of apps and even the loss of cell phone data.</p> 
+<div id="attachment_5994" class="wp-caption alignnone" style="width: 1053px">
+ <img class="size-full wp-image-5994" alt="Image courtesy of Apple" src="http://blogs-images.forbes.com/gordonkelly/files/2014/10/2014-09-22_16-40-201.png" />
+ <p class="wp-caption-text">Image courtesy of Apple</p>
+</div> 
+<p>&nbsp;</p> 
+<p dir="ltr">Notably user ‘Morac’ states:</p> 
+<p>&nbsp;</p> 
+<p dir="ltr">“Chatted with <a href="/companies/apple/">Apple</a> <span class="quotecard_hook" data-ticker="AAPL" data-exchange="NASDAQ" data-type="organization" data-naturalid="fred/company/280" data-quotes-closing="99.9" data-quotes-now="99.62"><span class="wrapper"><a href="/companies/apple/">Apple</a></span></span> support and they had me do a restore and set up as new. I did that since I’m seeing other glitches in iOS 8. It seemed to work after that, but I only tested for a few minutes and didn’t do the ping test (which I should have done as that would have given me a definitive answer). I then restored my backup and the issues returned. Apple support implied if restoring as new didn’t fix the problem, then it’s a hardware problem. Considering the number of reports about this, he can’t be correct.”</p> 
+<p>&nbsp;</p> 
+<p dir="ltr">So far Apple has not issued any formal response and no Apple staff have replied to the Support Communities thread which was started on September 20.</p> 
+<p dir="ltr"><a href="http://www.forbes.com/sites/gordonkelly/2014/09/08/iphone-6-why-apple-has-super-sized-the-iphone/">Read more:&nbsp;Why Apple Made Massive New iPhones</a></p> 
+<p>&nbsp;</p> 
+<div id="attachment_5892" class="wp-caption alignnone" style="width: 1950px">
+ <img class="size-large wp-image-5892" alt="iOS 8 on the iPhone 6" src="http://blogs-images.forbes.com/gordonkelly/files/2014/10/ios-8-1940x11271.png" />
+ <p class="wp-caption-text">iOS 8 on the iPhone 6</p>
+</div> 
+<p>&nbsp;</p> 
+<p dir="ltr"><strong>Comment</strong></p> 
+<p dir="ltr">Reports of this nature are not unusual with iOS updates. Apple’s control over hardware and software is typically cited as a major advantage for its fast and reliable iOS roll-outs, but there are still millions of variables such as app combinations and settings which can play havoc.</p> 
+<p>&nbsp;</p> 
+<p dir="ltr">As it stands I would play down Tech 2’s description that the software update “plagues users”. iOS 8 updates will run into the 100s of millions and one Communities Support thread – despite appearing popular – is not confirmation of a much wider problem.</p> 
+<p>&nbsp;</p> 
+<p dir="ltr">That said these aren’t the first problems we’ve seen with iOS 8. Notably iPhone 4S owners have <a href="http://www.ibtimes.co.uk/upgrading-iphone-4s-ios-8-performance-issues-everything-you-need-know-1466045">complained</a> about greatly reduced performance and on a scale which suggests Apple will need to release a software patch to address it in the near future.</p> 
+<p>&nbsp;</p> 
+<p dir="ltr">It is also widely reported that iOS 8 adoption has been <a href="http://www.cnet.com/news/ios-8-adoption-lags-behind-ios-7/">slower than that of iOS 7</a>&nbsp;(possibly due to iPhone 4S owners holding fire), but we will get a more accurate picture after greater time has passed.</p> 
+<p>&nbsp;</p> 
+<p dir="ltr">If you have had problems with your iOS 8 update – either along the same lines as the Support Community thread or otherwise – let us know.</p> 
+<p>&nbsp;</p> 
+<p dir="ltr">And for those who have upgraded to iOS 8 without a problem you can read about Amadou’s exploration of its <a href="http://www.forbes.com/sites/amadoudiallo/2014/09/18/apple-ios-8-top-new-features/">best new features</a>, Mark’s take on <a href="http://www.forbes.com/sites/markrogowsky/2014/09/18/8-misses-in-ios-8/">where it missed the mark</a> and my guide to the <a href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-the-best-apple-keyboard-replacements/">best third party keyboards</a>.</p> 
+<div></div> 
+<div>
+ <em>Update: Apple did not respond to requests to comment, but has released iOS 8.0.2. Unfortunately that now appears to be <a href="http://www.forbes.com/sites/gordonkelly/2014/10/02/ios-8-bluetooth-problems/">suffering from Bluetooth connectivity problems</a>.</em>
+</div> 
+<div></div> 
+<div>
+ ___
+</div> 
+<div></div> 
+<p><a class="twitter-follow-button" href="https://twitter.com/GordonKelly">Follow @GordonKelly</a></p> 
+<div></div> 
+<div>
+ <strong>More on Forbes</strong>
+</div> 
+<div></div> 
+<div> 
+ <div class="forbes_embedded_gallery">
+  <p><a class="gallery_embedded_launcher" href="http://www.forbes.com/pictures/fmdk45immg/iphone-6-and-apple-watch-7/">Apple Product Launch: iPhone 6 And Apple Watch</a></p>
+ </div> 
+</div> 
+<p class="sigfile"><em>Gordon Kelly is an experienced freelance technology journalist who has written for Wired, The Next Web, TrustedReviews and the BBC. He can be followed on&nbsp;his <a href="https://www.facebook.com/GordonKelly">Facebook Page</a></em></p>
+
+
+					</div>
+
+				</div>
+
+
+				<div class="sponsored_ad"></div>
+					<div class="media_net_related_links"></div>
+
+
+				<div class="event_tracking_scroll_latch" data-event="Article,ScrolledToEnd,end"></div>
+
+			</div><!-- .article_body.article -->
+
+    <div class="comment_bug" style="display:none;">
+        <div class="arrow_icon"></div>
+        <div class="bottom_border"></div>
+        <div class="wrapper">
+            <div class="called_out_sampling"></div>
+
+            <div class="info">
+                <a href="#comments_header" class="scroll_to">
+                    58 comments, 46 called-out
+                </a>
+            </div>
+                <a href="#comment_reply" class="scroll_to post_your_comment">Comment Now</a>
+				<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2907-5993" data-object-json="{&quot;title&quot;:&quot;iOS 8 Hit By WiFi And Battery Life Complaints&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+				</div>
+        </div>
+        <div class="comment_teaser"></div>
+        <div class="no_comment_bugs_exist_yet" style="display:none;">
+            <a href="#comment_reply" class="scroll_to post_first_comment">Comment Now</a>
+			<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2907-5993" data-object-json="{&quot;title&quot;:&quot;iOS 8 Hit By WiFi And Battery Life Complaints&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+			</div>
+    </div>
+    </div>
+
+
+<script type="text/javascript">
+
+function printArticle(url) {
+params = 'width='+screen.width;
+params += ', height='+screen.height;
+params += ', top=0, left=0'
+params += ', fullscreen=yes, scrollbars = yes, resizable=yes';
+
+slideWin = window.open(url, 'popup', params);
+if(window.focus) {
+slideWin.focus();
+}
+return false;
+}
+
+</script>
+
+<div class="article_actions">
+
+<div class="sub_links clearfix">
+
+
+
+<div class="widget print">
+<a href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/print/" target="_blank"><span class="icon"></span>Print</a>
+</div>
+
+<div class="widget corrections">
+<a href="#corrections"><span class="icon"></span>Report Corrections</a>
+</div>
+
+<div class="widget reprint">
+<a href="http://forbesreprints.magreprints.com/" target="_blank"><span class="icon"></span>Reprints &amp; Permissions</a>
+</div>
+
+</div>
+</div>
+
+			<div class="vestpocket_holder" style="display:none;">
+
+
+
+	<aside class="vestpocket" data-position="4" >
+
+
+
+
+
+        <div class="vp-box vp-article">
+            <a href="http://www.forbes.com/sites/gordonkelly/2014/09/09/iphone-6-vs-iphone-6-plus-what-is-the-difference/" class="thumb">
+                <span class="icon">
+                </span>
+                        <img src='http://blogs-images.forbes.com/gordonkelly/files/2014/09/2014-09-09_22-38-02.jpg' alt="" />
+            </a>
+			<h4>
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/09/iphone-6-vs-iphone-6-plus-what-is-the-difference/" class="vp_text">
+                    iPhone 6 vs iPhone 6 Plus: The Differences Between The New Apple iPhones
+				</a>
+			</h4>
+
+
+	            <cite class="box_byline clearfix">
+					<a href="http://www.forbes.com/sites/gordonkelly/">
+	                	<img src='http://1.gravatar.com/avatar/135313297429b8a66b069508000b1134?s=40&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' alt="Gordon Kelly" class="avatar" />
+
+	                    <strong>Gordon Kelly</strong>
+	                    <span class="desc">Contributor</span>
+	                </a>
+	            </cite>
+        </div>
+
+
+
+        <div class="vp-box vp-article">
+            <a href="http://www.forbes.com/sites/gordonkelly/2014/06/03/apple-made-one-massive-mistake-in-ios-8/" class="thumb">
+                <span class="icon">
+                </span>
+                        <img src='http://blogs-images.forbes.com/gordonkelly/files/2014/06/111.png' alt="" />
+            </a>
+			<h4>
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/06/03/apple-made-one-massive-mistake-in-ios-8/" class="vp_text">
+                    Apple Made One Massive Mistake In iOS 8
+				</a>
+			</h4>
+
+
+	            <cite class="box_byline clearfix">
+					<a href="http://www.forbes.com/sites/gordonkelly/">
+	                	<img src='http://1.gravatar.com/avatar/135313297429b8a66b069508000b1134?s=40&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' alt="Gordon Kelly" class="avatar" />
+
+	                    <strong>Gordon Kelly</strong>
+	                    <span class="desc">Contributor</span>
+	                </a>
+	            </cite>
+        </div>
+
+
+
+        <div class="vp-box vp-article">
+            <a href="http://www.forbes.com/sites/ewanspence/2014/09/19/apple-iphone-6-plus-review-size-really-does-matter/" class="thumb">
+                <span class="icon">
+                </span>
+                        <img src='http://blogs-images.forbes.com/ewanspence/files/2014/09/iphone6plus_feature-300x169.jpg' alt="" />
+            </a>
+			<h4>
+				<a href="http://www.forbes.com/sites/ewanspence/2014/09/19/apple-iphone-6-plus-review-size-really-does-matter/" class="vp_text">
+                    Apple iPhone 6 Plus Review: Size Really Does Matter
+				</a>
+			</h4>
+
+
+	            <cite class="box_byline clearfix">
+					<a href="http://www.forbes.com/sites/ewanspence/">
+	                	<img src='http://1.gravatar.com/avatar/d5b7092bcc3c5bbc172641b606d7f7c4?s=40&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' alt="Ewan Spence" class="avatar" />
+
+	                    <strong>Ewan Spence</strong>
+	                    <span class="desc">Contributor</span>
+	                </a>
+	            </cite>
+        </div>
+
+
+
+        <div class="vp-box vp-article">
+            <a href="http://www.forbes.com/sites/gordonkelly/2014/09/19/iphone-6-review/" class="thumb">
+                <span class="icon">
+                </span>
+                        <img src='http://blogs-images.forbes.com/gordonkelly/files/2014/09/IMG_20140919_090822.jpg' alt="" />
+            </a>
+			<h4>
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/19/iphone-6-review/" class="vp_text">
+                    Apple iPhone 6 Review: Bigger Is Better
+				</a>
+			</h4>
+
+
+	            <cite class="box_byline clearfix">
+					<a href="http://www.forbes.com/sites/gordonkelly/">
+	                	<img src='http://1.gravatar.com/avatar/135313297429b8a66b069508000b1134?s=40&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' alt="Gordon Kelly" class="avatar" />
+
+	                    <strong>Gordon Kelly</strong>
+	                    <span class="desc">Contributor</span>
+	                </a>
+	            </cite>
+        </div>
+
+
+    </aside>
+
+			</div><!-- .vestpocket_items -->
+
+		</div>
+
+	</section>
+
+
+	<section class="row">
+		<div class="col-md-10 col-md-offset-2 col-sm-12 col-sm-offset-0">
+
+
+
+	<div id="comments" class="comments_collection" data-selected-comment-id="" data-manage-comment-following-link="http://blogs.forbes.com/account/#accounttab-5" >
+
+		<div class="comment_form_orig_position">
+    <div class="comment_reply">
+            <div class="arrow"></div>
+            <form class="forbes_forms v1 comment_reply_form" name="commentForm" action="/wp-admin/admin-ajax.php" method="post" data-comment-nonce="" data-validation-rules-json="[{&quot;field_id&quot;:&quot;user_comment_textarea&quot;,&quot;rules&quot;:{&quot;required&quot;:true,&quot;notEqualTo&quot;:{&quot;attr&quot;:&quot;data-initial-text&quot;,&quot;caseSensitive&quot;:false,&quot;errorMsg&quot;:&quot;Please enter a comment to post.&quot;},&quot;between&quot;:{&quot;min&quot;:2,&quot;max&quot;:10000}}}]" data-reload-url="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/">
+                    <!-- the form action will be expecting all of the following hidden fields -->
+                    <input type='hidden' name='action' value='unireg_comments' autocomplete="off" />
+                    <input type='hidden' name='natural_id' value='blogAndPostId/blog/post/2907-5993' autocomplete="off" />
+                    <input type='hidden' name='comment_parent' value='0' autocomplete="off" />
+
+                    <h3 class="main">Post Your Comment</h3>
+                    <div class="reply_header" style="display:none;">
+                            <a href="#cancel" class="cancel_reply">Cancel reply</a>
+                            <h3>Post Your Reply</h3>
+                    </div>
+
+			
+            <div class="status_bar">
+                                    Please
+                                    <a class="ajaxify unireg_login" href="http://blogs.forbes.com/account/login/?redirect_to=http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/" title="Click to log in">log in</a>
+                                    or
+                                    <a class="ajaxify unireg_register" href="http://blogs.forbes.com/account/register/?redirect_to=http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/" title="Click to sign up">sign up</a>
+                                    to comment.
+                            </div>
+
+<div class="entity_block">
+                                    <a class="ajaxify avatar" href="http://blogs.forbes.com/account/login/?redirect_to=http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/" class="avatar" title="Click to log in or register">
+                                            <img src="http://i.forbesimg.com/assets/img/comments/no_profile_image.jpg" alt="">
+                                    </a>
+                            </div>
+
+                    <div class="input_holder_outer input_block">
+
+                            <div class="main_error_msg" style="display:none;">
+                                    <span class="icon"></span>
+                                    <span class="text"></span>
+                            </div>
+
+                            <div class="input_holder">
+
+                                    <textarea id="user_comment_textarea" class="initial_text user_comment" data-initial-text="Enter Your Comment" name="comment" cols="80" rows="10" autocomplete="off">Enter Your Comment</textarea>
+
+                                    <span class="error_msg"></span>
+
+										<div class="control_bar" style="display:none;">
+                                            <a class="fancy_button submit small" data-submit-button="true"><span class="outer"><span class="inner"><span class="icon"></span><span class="label">Submit Comment</span></span></span><span class="loading_spinner left" style="display:none;"><img src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" height="16" width="16" alt=""></span></a>
+                                            <input class="hidden_submit" type="submit" name="submit_hidden" value="Submit" id="idCommentForm_submit">
+                                    </div>
+                            </div>
+                    </div>
+
+                    <div class="clear"></div>
+
+                    <div class="moderation_info">
+                            <p>
+                                    Forbes writers have the ability to call out member comments they find particularly interesting. Called-out comments are highlighted across the Forbes network. You'll be notified if your comment is called out.
+                            </p>
+               		</div>
+            </form>
+    </div>
+		</div>
+
+
+			<div class="comments_header">
+				<h3>Comments</h3>
+				<ul class="tabs horznav cf">
+					<li class='active'>
+						<a href="/ajax/comment/calledout/1/?contentUri=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fgordonkelly%2F2014%2F09%2F22%2Fios-8-wifi-and-battery-life-problems%2F" rel="calledOut">Called-Out</a>
+						<div class="arrow"></div>
+					</li>
+					<li class=''>
+						<a href="/ajax/comment/general/1/?contentUri=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fgordonkelly%2F2014%2F09%2F22%2Fios-8-wifi-and-battery-life-problems%2F"  rel="allComments">Expand All Comments</a>
+						<div class="arrow"></div>
+					</li>
+				</ul>
+
+					<div class="comments_follow followable_block">
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2907-5993" data-object-json="{&quot;title&quot;:&quot;iOS 8 Hit By WiFi And Battery Life Complaints&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+					</div>
+			</div>
+
+			<div class="pagination_header" style="display:none;"></div>
+			<div class="comments_well" data-edit-post-link="" >
+	<ul class="comments_stream">
+
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-5993-2969" data-comment-wp-id="2969"  parent-id="" class="comment level0 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/retro3/">
+                    <img src="https://s.yimg.com/dh/ap/social/profile/profile_b192.png" alt="Andreas ." />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/retro3/">
+                    Andreas .
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Apple wants you to upgrade your device.</p> 
+<p>Baa Baa</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/?commentId=comment_blogAndPostId/blog/comment/2907-5993-2969" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-5993-2971" data-comment-wp-id="2971"  parent-id="" class="comment level0 calledOut" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/tonykatlubeck/">
+                    <img src="https://lh5.googleusercontent.com/-wVZYtR4cSEE/AAAAAAAAAAI/AAAAAAAFfHE/AWxAjtzjTUE/photo.jpg?sz=50" alt="Tony" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/tonykatlubeck/">
+                    Tony
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>The biggest issue that has impacted me is the Safari bug that prevents file uploads on mobile web sites. The main impact for most users is that they upload photos to WordPress or Facebook when using the mobile web, but it has also impacted internal web applications that I am maintaining at my company.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="on">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/?commentId=comment_blogAndPostId/blog/comment/2907-5993-2971" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-5993-2972" data-comment-wp-id="2972"  parent-id="blogAndPostId/blog/comment/2907-5993-2971" class="comment level1 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/tonykatlubeck/">
+                    <img src="https://lh5.googleusercontent.com/-wVZYtR4cSEE/AAAAAAAAAAI/AAAAAAAFfHE/AWxAjtzjTUE/photo.jpg?sz=50" alt="Tony" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/tonykatlubeck/">
+                    Tony
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Sorry, I meant to say that they can’t upload photos to mobile web sites.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/?commentId=comment_blogAndPostId/blog/comment/2907-5993-2972" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-5993-2973" data-comment-wp-id="2973"  parent-id="" class="comment level0 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/openthreads2/">
+                    <img src="http://pbs.twimg.com/profile_images/419954308319154177/NuQ_J--H_normal.jpeg" alt="OpenThreads" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/openthreads2/">
+                    OpenThreads
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Your headline is still: “iOS 8 Hit By WiFi And Battery Life Problems”, with no qualifiers despite the fact you write: “As it stands I would play down Tech 2’s description that the software update “plagues users”. iOS 8 updates will run into the 100s of millions and one Communities Support thread – despite appearing popular – is not confirmation of a much wider problem.”</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/?commentId=comment_blogAndPostId/blog/comment/2907-5993-2973" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-5993-2982" data-comment-wp-id="2982"  parent-id="blogAndPostId/blog/comment/2907-5993-2973" class="comment level1 calledOut author" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://www.forbes.com/sites/gordonkelly/">
+							<img src="http://1.gravatar.com/avatar/135313297429b8a66b069508000b1134?s=136&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D136&amp;r=G" alt="Gordon Kelly" />
+				</a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/gordonkelly/">
+                    Gordon Kelly</a><span class="desc">, Contributor</span>
+
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>You’re actually right. Irony being that since the post went live I’ve had many comments both on this article and to me on Twitter reiterating these problems. So now it is a problem, but I’ll made an edit.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="disabled">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/?commentId=comment_blogAndPostId/blog/comment/2907-5993-2982" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-5993-3135" data-comment-wp-id="3135"  parent-id="blogAndPostId/blog/comment/2907-5993-2982" class="comment level1 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/johnrichardson16/">
+                    <img src="https://graph.facebook.com/1158046421/picture?type=square" alt="John Richardson" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/johnrichardson16/">
+                    John Richardson
+                </a>
+
+
+   		<span class="timestamp">1 day ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Apple Support told me the same “millions of people are not having this problem” and “you can find confirmation of any diagnosis of any problem you make up on the internet” as ways of subtly blaming its customers for this bug.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/?commentId=comment_blogAndPostId/blog/comment/2907-5993-3135" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-5993-2974" data-comment-wp-id="2974"  parent-id="" class="comment level0 calledOut" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/bcwehman/">
+                    <img src="http://0.gravatar.com/avatar/cdb9e0335a6ee47fcc589873e9e5df63?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G" alt="BC Wehman" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/bcwehman/">
+                    BC Wehman
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>I’ve noticed a slow down in my Wifi speed on my 5S since upgrading. I wasn’t sure of the issue, but when I turn off Wifi and use Data only, Safari runs considerably quicker. The issue seems to be intermittent.</p> 
+<p>Also running into issue of apps, including iMessage, randomly closing during operation. No particular app seems to be the issue, it is random, but never happened prior to upgrade.</p> 
+<p>Have not contacted Apple support, as the issue is very new, but will follow up now.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="on">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/?commentId=comment_blogAndPostId/blog/comment/2907-5993-2974" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-5993-2975" data-comment-wp-id="2975"  parent-id="blogAndPostId/blog/comment/2907-5993-2974" class="comment level1 calledOut author" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://www.forbes.com/sites/gordonkelly/">
+							<img src="http://1.gravatar.com/avatar/135313297429b8a66b069508000b1134?s=136&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D136&amp;r=G" alt="Gordon Kelly" />
+				</a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/gordonkelly/">
+                    Gordon Kelly</a><span class="desc">, Contributor</span>
+
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Thanks BC, appreciate you taking the time to detail this. It does seem a lot of bugs are around and as feedback like yours builds I will present it to Apple.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="disabled">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/?commentId=comment_blogAndPostId/blog/comment/2907-5993-2975" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-5993-2976" data-comment-wp-id="2976"  parent-id="" class="comment level0 calledOut" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/robertruff/">
+                    <img src="http://1.gravatar.com/avatar/94a2b9628a7f94a3b43d7bb10b6b53de?s=40&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G" alt="Robert Ruff" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/robertruff/">
+                    Robert Ruff
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>I had problems with the iPad 2 losing WiFi. I have had no problems with the 4S yet. I have been using my personal hotspot with no issues as a work around.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="on">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/?commentId=comment_blogAndPostId/blog/comment/2907-5993-2976" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-5993-2977" data-comment-wp-id="2977"  parent-id="" class="comment level0 calledOut" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/emmagledson/">
+                    <img src="https://graph.facebook.com/572609637/picture?type=square" alt="Emma Gledson" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/emmagledson/">
+                    Emma Gledson
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Very interesting article about the ios8 update Gordon, the battery life on my 2 month old 5s is absolutely terrible now!</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="on">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/?commentId=comment_blogAndPostId/blog/comment/2907-5993-2977" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-5993-2984" data-comment-wp-id="2984"  parent-id="blogAndPostId/blog/comment/2907-5993-2977" class="comment level1 calledOut author" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://www.forbes.com/sites/gordonkelly/">
+							<img src="http://1.gravatar.com/avatar/135313297429b8a66b069508000b1134?s=136&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D136&amp;r=G" alt="Gordon Kelly" />
+				</a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/gordonkelly/">
+                    Gordon Kelly</a><span class="desc">, Contributor</span>
+
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Thanks Emma, the evidence does seem to be building.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="disabled">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/?commentId=comment_blogAndPostId/blog/comment/2907-5993-2984" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-5993-2978" data-comment-wp-id="2978"  parent-id="" class="comment level0 calledOut" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/sonny6/">
+                    <img src="http://0.gravatar.com/avatar/481a52a8af70d024126c0e71abc541c1?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G" alt="Sonny" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/sonny6/">
+                    Sonny
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>On an Apple Forum thread – Ipad mini with retina wifi extremely slow/dead after ios 8 update – several people discuss this same problem. They have come to discover that many of them had dual band routers and that their apple device, after the ios 8 update, wifi became extremely slow if it worked at all even though it showed it was connected. They found that the solution was to switch from 5 Ghz on the router to 2.4 Ghz – after doing so, the devices worked just fine, including my iPad Air after I switched to 2.4 Ghz. The trouble is, I want to connect at 5 Ghz. My other Apple devices (iPad 2 and iPhone 5) that I have not yet updated have been and still are doing just fine at 5 Ghz. Obviously, then, this is a bug in IOS 8 and not a hardware problem. I can only hope that Apple will realize and accept this FACT and fix the bug.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="on">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/?commentId=comment_blogAndPostId/blog/comment/2907-5993-2978" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-5993-2979" data-comment-wp-id="2979"  parent-id="blogAndPostId/blog/comment/2907-5993-2978" class="comment level1 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/robertruff/">
+                    <img src="http://1.gravatar.com/avatar/94a2b9628a7f94a3b43d7bb10b6b53de?s=40&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G" alt="Robert Ruff" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/robertruff/">
+                    Robert Ruff
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>I saw that mentioned elsewhere on the web. Great comment. Thanks.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/?commentId=comment_blogAndPostId/blog/comment/2907-5993-2979" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-5993-2983" data-comment-wp-id="2983"  parent-id="blogAndPostId/blog/comment/2907-5993-2978" class="comment level1 calledOut author" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://www.forbes.com/sites/gordonkelly/">
+							<img src="http://1.gravatar.com/avatar/135313297429b8a66b069508000b1134?s=136&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D136&amp;r=G" alt="Gordon Kelly" />
+				</a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/gordonkelly/">
+                    Gordon Kelly</a><span class="desc">, Contributor</span>
+
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Thanks Sonny, interesting spot and I’ll present this and the other comments readers have made with their problems to Apple.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="disabled">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/?commentId=comment_blogAndPostId/blog/comment/2907-5993-2983" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-5993-2985" data-comment-wp-id="2985"  parent-id="blogAndPostId/blog/comment/2907-5993-2983" class="comment level1 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/sonny6/">
+                    <img src="http://0.gravatar.com/avatar/481a52a8af70d024126c0e71abc541c1?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G" alt="Sonny" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/sonny6/">
+                    Sonny
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>I appreciate that, Gordon. Any help at all is appreciated!</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/?commentId=comment_blogAndPostId/blog/comment/2907-5993-2985" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-5993-2980" data-comment-wp-id="2980"  parent-id="" class="comment level0 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/ysosirius/">
+                    <img src="http://0.gravatar.com/avatar/c3f35cd741a8d966cea85af1a6d018ed?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G" alt="Y-So Sirius" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/ysosirius/">
+                    Y-So Sirius
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>This has and will happen every year. Best thing to do is only upgrade to the next iOS once or not at all.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/?commentId=comment_blogAndPostId/blog/comment/2907-5993-2980" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-5993-2981" data-comment-wp-id="2981"  parent-id="blogAndPostId/blog/comment/2907-5993-2980" class="comment level1 collapsable" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/robertruff/">
+                    <img src="http://1.gravatar.com/avatar/94a2b9628a7f94a3b43d7bb10b6b53de?s=40&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G" alt="Robert Ruff" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/robertruff/">
+                    Robert Ruff
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>Interesting idea. I never considered just being happy with the iOS that was designed for my device. That is a very valid solution. Apple said it was compatible and I thought it would be.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="off">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/?commentId=comment_blogAndPostId/blog/comment/2907-5993-2981" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+
+
+
+
+        <li data-comment-id="comment_blogAndPostId/blog/comment/2907-5993-2987" data-comment-wp-id="2987"  parent-id="" class="comment level0 calledOut" data-badges-advoice="">
+            <div class="entity_block">
+                <a class="avatar" href="http://blogs.forbes.com/people/carlos54/">
+                    <img src="http://0.gravatar.com/avatar/09f16b829995d1e55604648530a9d637?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G" alt="Carlos" />
+                </a>
+
+
+
+                <a class="user_name" href="http://blogs.forbes.com/people/carlos54/">
+                    Carlos
+                </a>
+
+
+   		<span class="timestamp">1 week ago</span>
+    	</div>
+
+    	<div class="comment_content">
+    		
+<p>I’ve also noticed a slow down in Wifi on my Ipad Air. Overall, just seems to be running slower since the upgrade. I’m disappointed and hope Apple will fix these bugs.</p>
+
+    	</div>
+
+
+
+    	<div class="comment_controls" data-called-out-state="on">
+			<div class="right_col">
+				<a href="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/?commentId=comment_blogAndPostId/blog/comment/2907-5993-2987" class="permalink">Permalink</a>
+    			<a href="#" class="flag_link">Flag</a>
+    		</div>
+				<a href="#" class="reply">Reply</a>
+        </div>
+    </li>
+	</ul>
+
+
+		<nav class="pagination forbesui">
+			<ul>
+    <li class="prev disabled">
+            <a href="" ><span class="icon">&nbsp;</span></a>
+    </li>
+
+                <li class="page active">
+                        <a href="/ajax/comment/calledout/1/?contentUri=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fgordonkelly%2F2014%2F09%2F22%2Fios-8-wifi-and-battery-life-problems%2F">1</a>
+                </li>
+
+
+                <li class="page">
+                        <a href="/ajax/comment/calledout/2/?contentUri=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fgordonkelly%2F2014%2F09%2F22%2Fios-8-wifi-and-battery-life-problems%2F">2</a>
+                </li>
+                <li class="page">
+                        <a href="/ajax/comment/calledout/3/?contentUri=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fgordonkelly%2F2014%2F09%2F22%2Fios-8-wifi-and-battery-life-problems%2F">3</a>
+                </li>
+                <li class="page">
+                        <a href="/ajax/comment/calledout/4/?contentUri=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fgordonkelly%2F2014%2F09%2F22%2Fios-8-wifi-and-battery-life-problems%2F">4</a>
+                </li>
+
+
+                <li class="page">
+                        <a href="/ajax/comment/calledout/5/?contentUri=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fgordonkelly%2F2014%2F09%2F22%2Fios-8-wifi-and-battery-life-problems%2F">5</a>
+                </li>
+
+    <li class="next">
+            <a href="/ajax/comment/calledout/2/?contentUri=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fgordonkelly%2F2014%2F09%2F22%2Fios-8-wifi-and-battery-life-problems%2F" ><span class="icon">&nbsp;</span></a>
+    </li>
+			</ul>
+		</nav>
+			</div>
+
+
+
+
+
+    <div class="followable_block initializing" data-target-type="article" data-target-id="blogAndPostId/blog/post/2907-5993" data-object-json="{&quot;title&quot;:&quot;iOS 8 Hit By WiFi And Battery Life Complaints&quot;,&quot;avatar_src&quot;:&quot;&quot;,&quot;follow_count&quot;:&quot;&quot;}" data-type-advoice="false" data-target-name="" data-tracking-link-name="articleLink_ArticleCommentsFollow">
+
+    <div class="follow_unireg">
+	<a href="javascript://follow" class="follow_unireg_link">
+		<span class="option_follow">
+			<span class="icon"></span><span class="text">Follow Comments</span>
+		</span>
+
+		<span class="option_following">
+			<span class="icon"></span><span class="text">Following Comments</span>
+		</span>
+
+		<span class="option_unfollow">
+			<span class="icon"></span><span class="text">Unfollow Comments</span>
+		</span>
+	</a>
+	<span class="follow_count"></span>
+	<span class="loadingstate"><img class="loadingstateimg" src="http://i.forbesimg.com/assets/img/loading_spinners/16px_on_transparent.gif" alt="" width="16" height="16" /></span>
+    </div>
+    </div>
+
+	</div><!-- .comments_collection -->
+		</div>
+	</section>
+
+
+	<div class="speed_bump">
+
+		<section class="row">
+		<div id="grv-personalization-13-1412388925134"></div>
+			<script type='text/javascript'>
+			  //<![CDATA[
+			    (function(){
+			    var containerId = "grv-personalization-13-1412388925134";
+			    window.gravityInsightsParams = {
+			      'type': 'content',
+			      'action': '',
+			      'site_guid': 'df51572e4a248537619f3b6b11928388'
+			    };
+			    var adServerReq,bUrl,cburl,doUseGravityUserGuid,includeJs,jq,pfurl,type,ug,wlPrefix,wlUrl,_ref,_ref1,_ref2;includeJs=function(a){var b;b=document.createElement("script");b.async=!0;b.src=a;a=document.getElementsByTagName("script")[0];return a.parentNode.insertBefore(b,a)};bUrl="";ug=(doUseGravityUserGuid=!0===gravityInsightsParams.useGravityUserGuid?1:0)?"":gravityInsightsParams.user_guid||(null!=(_ref=/grvinsights=([^;]+)/.exec(document.cookie))?_ref[1]:void 0)||"";
+			    wlUrl=(wlPrefix="https:"===location.protocol?"https://secure-api.gravity.com/v1/api/intelligence":"http://rma-api.gravity.com/v1/api/intelligence",jq=(null!=(_ref1=window.jQuery)?null!=(_ref2=_ref1.fn)?_ref2.jquery:void 0:void 0)||"",type="iframe",adServerReq=gravityInsightsParams.ad||"",cburl=gravityInsightsParams.cburl||"",pfurl=gravityInsightsParams.pfurl||"",""+wlPrefix+"/wl?jq="+jq+"&sg="+gravityInsightsParams.site_guid+"&ug="+ug+"&ugug="+doUseGravityUserGuid+"&id="+containerId+"&pl=13"+
+			    ("&type="+type+"&ad="+adServerReq+"&cburl=")+encodeURIComponent(cburl)+"&pfurl="+encodeURIComponent(pfurl)+("&x="+(new Date).getTime())+("undefined"!==typeof forceArticleIds&&null!==forceArticleIds&&forceArticleIds.join?"&ai="+forceArticleIds.join(","):"")+("undefined"!==typeof apids&&null!==apids&&""!==apids?"&apids="+encodeURIComponent(apids):""));bUrl&&includeJs(bUrl);wlUrl&&(window.gravityInsightsParams.sidebar&&(window.gravityInsightsParams.wlStartTime=(new Date).getTime()),includeJs(wlUrl));})();
+			  //]]>
+			</script>
+	</section>
+
+	</div> <!-- .speed_bump -->
+
+
+	<!--start:gigya_settings-->
+	<div class="gigya_settings" style="display:none;">
+		<div class="gigya_shortLink" data-value="http://onforb.es/1C4Ya33"></div>
+		<div class="gigya_canonicalLink" data-value="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/"></div>
+		<div class="gigya_title" data-value='{&quot;generic&quot;:&quot;iOS 8 Hit By WiFi And Battery Life Complaints - Forbes&quot;,&quot;twitter&quot;:&quot;iOS 8 Hit By WiFi And Battery Life Complaints&quot;}'></div>
+		<div class="gigya_cid" data-value="blogAndPostId/blog/post/2907-5993"></div>
+		<div class="gigya_buttonContainerPrefixArray" data-value="gigya_share_button,gigya_inline_share_button"></div>
+		<div class="gigya_counterContainerPrefixArray" data-value="gigya_share_counter,gigya_inline_share_counter"></div>
+		<div class="gigya_counterDisplayArray" data-value="tall,medium"></div>
+		<div class="gigya_grecobarEnabled" data-value="false"></div>
+		<div class="gigya_twitterVia" data-value="forbes"></div>
+		<div class="gigya_twitterHashtags" data-value=""></div>
+		<div class="gigya_twitterRelated" data-value="forbes,@gordonkelly"></div>
+	</div>
+	<!--end:gigya_settings-->
+
+		<!--end:ajax_content_inner-->
+
+		<!-- must appear once on the page -->
+		<div id="contentad9177"></div>
+
+	</div><!-- .article_container.container -->
+
+	<!--sticky_sharing-->
+    <div class="sticky_sharing_bg"></div>
+    <div data-sharing-url="http://www.forbes.com/sites/gordonkelly/2014/09/22/ios-8-wifi-and-battery-life-problems/" data-sharing-native="true" class="sticky_sharing sticky_sharing_v2" style="display:none;">
+        <div class="share_tab">
+            <div class="share_icon" data-icon="s"></div>
+            <div class="share_count">Share</div>
+        </div>
+        <div class="control_wrapper">
+            <div class="position_reference">
+                <div class="label">
+                    Share this page
+                </div>
+                <div class="controls">
+
+	<!-- Gigya Share divs for gigya_share_button and gigya_share_counter -->
+
+	<div class="share_option">
+		<div class="gy gigyacounter facebook gigya_share_counter" id="gigya_share_counter_facebook"></div><div class="box-bottom"></div>
+		<div class="gigya_share_button-facebook" id="gigya_share_button_facebook"></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter twitter gigya_share_counter" id="gigya_share_counter_twitter"></div><div class="box-bottom"></div>
+		<div class="gy gigyabutton twitter gigya_share_button-twitter" id="gigya_share_button_twitter"></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter linkedin gigya_share_counter" id="gigya_share_counter_linkedin"></div><div class="box-bottom"></div>
+		<div class="gy gigyabutton linkedin gigya_share_button-linkedin" id="gigya_share_button_linkedin"></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter reddit gigya_share_counter" id="gigya_share_counter_reddit" ></div><div class="box-bottom"></div>
+		<div class="gy gigyabutton reddit gigya_share_button-reddit" id="gigya_share_button_reddit" ></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter google gigya_share_button-google" id="gigya_share_button_google" ><div id="gigya_share_button_inner_google" ></div></div>
+	</div>
+
+	<div class="share_option">
+		<div class="gy gigyacounter stumbleupon gigya_share_counter" id="gigya_share_counter_stumbleupon"></div><div class="box-bottom"></div>
+		<div class="gy gigyabutton stumbleupon gigya_share_button-stumbleupon" id="gigya_share_button_stumbleupon"></div>
+	</div>
+
+	<div class="share_option gigya_inline_share_button-email_gig_containerParent">
+		<div class="gigya_inline_share_button-email_icon" id="gigya_inline_share_button_email_icon"></div>
+		<div class="gigya_inline_share_button-email" id="gigya_inline_share_button_email"></div>
+	</div>
+                </div>
+            </div>
+        </div>
+    </div><!-- .sticky_sharing_v2 -->
+
+	<div class="loading_spinner_holder" id="page_loading_spinner">
+		<div id="pagespinner"></div>
+	</div>
+
+        
+<footer class="universal-footer">
+	<div class="footer-center">
+
+		<!-- END EDITORIAL PROMOTIONS -->
+
+		<section class="lower-footer-links clearfix">
+
+
+			<div class="channels">
+				<ul data-et-context="footer" data-et-location="footernav" class="edittools-list">
+					<li class="home">
+						<a href="http://www.forbes.com/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Forbes</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="14" data-et-location="footernav" data-et-item-type="topic">
+						<a href="http://www.forbes.com/business/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Business</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="7" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/investing/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Investing</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="8" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/technology/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Technology</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="13" data-et-location="footernav" data-et-item-type="topic">
+						<a href="http://www.forbes.com/entrepreneurs/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Entrepreneurs</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="9" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/opinion/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Op/Ed</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="10" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/leadership/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Leadership</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="11" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/lifestyle/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Lifestyle</a>
+					</li>
+					<li class="editable edittools-item" data-et-item_id="12" data-et-location="footernav" data-et-item-type="link">
+						<a href="http://www.forbes.com/lists/" data-ga-event="Footer,LinkFollowed,channel" data-ga-event-trigger="click">Lists</a>
+					</li>
+				</ul>
+			</div>
+
+
+			<div class="conferences footer-list fleft">
+				<h5><a href="http://www.forbes.com/conferences/">Conferences</a></h5>
+
+				<ul data-et-context="footer" data-et-location="footerconferences" class="edittools-list">
+
+						<li class="editable edittools-item" data-et-item_id="15" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/under30-2014.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Under 30 Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="16" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://forbesglobalceoconference.com/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Global CEO Conference</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="14" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/cio-2014.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes CIO Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="1" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/cmo-2014.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes CMO Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="11" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/ReinventingAmerica-Indy.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Reinventing America: The Innovation Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="3" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2014/healthcare-2014.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Healthcare Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="5" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/conferences/2015/ReinventingAmerica-Chicago.html" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Reinventing America Summit</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="8" data-et-location="footerconferences" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/sites/forbespr/2014/07/09/forbes-and-svg-partners-will-host-forbes-reinventing-america-the-agtech-summit-july-2015-in-salinas-valley/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Reinventing America: The AgTech Summit</a>
+	        			</li>
+				</ul>
+			</div>
+			<div class="products_newsletter footer-list fleft">
+				<h5>Education</h5>
+				<ul>
+					<li><a href="http://www.ashford.edu/degrees/online/business.htm/" target="_blank" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Forbes School of Business at Ashford University</a></li>
+				</ul>
+
+				
+
+			<!-- <div class="products_newsletter footer-list fleft">  -->
+				<h5><a href="http://www.newsletters.forbes.com/">Newsletters</a></h5>
+
+				<ul data-et-context="footer" data-et-location="footernewsletters" class="edittools-list">
+
+						<li class="editable edittools-item" data-et-item_id="1" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/newsletters/forbes-investor/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Investor</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="2" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="https://www.specialsituationsurvey.com/newsletters/sss/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Special Situation Survey</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="3" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/newsletters/forbes-dividend-investor/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Dividend Investor</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="5" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="http://www.forbes.com/newsletters/forbes-premium-income-report/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Premium Income Report</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="6" data-et-location="footernewsletters" data-et-item-type="link">
+	            			<a href="http://onforb.es/1dK9tEh" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Investing Newsletters</a>
+	        			</li>
+				</ul>
+			<!-- </div> -->
+				
+			</div>		
+
+			<div class="company-info footer-list fleft">
+				<h5>Products</h5>
+
+				<ul data-et-context="footer" data-et-location="footerproducts" class="edittools-list">
+
+						<li class="editable edittools-item" data-et-item_id="3" data-et-location="footerproducts" data-et-item-type="link">
+	            			<a href="https://www.forbesid.com/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Identity Protection</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="4" data-et-location="footerproducts" data-et-item-type="link">
+	            			<a href="http://www.forbesmagazine.com/newsfeeds/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Forbes Newsfeeds</a>
+	        			</li>
+						<li class="editable edittools-item" data-et-item_id="5" data-et-location="footerproducts" data-et-item-type="link">
+	            			<a href="http://forbesreprints.magreprints.com/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Reprints & Permissions</a>
+	        			</li>
+				</ul>
+				
+				<h5>Company Info</h5>
+				<ul>
+					<li><a href="http://www.forbesmedia.com/" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Advertise</a></li>
+					<li><a href="http://www.forbes.com/sites/forbespr/" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click" class="exit_trigger_set ga_tracked">Forbes Press Room</a></li>
+					<li><a href="https://www2.apply2jobs.com/forbes/" target="_blank" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Forbes Careers</a></li>
+					<li><a href="http://www.forbes.com/fdc/contact.html" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Contact Us</a></li>
+					<li><a href="http://www.forbes.com/fdc/sitemap.html" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Sitemap</a></li>
+					<li><a href="http://blogs.forbes.com/help/" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Help</a></li>
+				</ul>
+			</div>
+				<div class="publications fleft">
+			<div class="clearfix">
+           		<a href="http://www.forbes.com/forbes" data-ga-event="Footer,LinkFollowed,magazine" data-ga-event-trigger="click" class="exit_trigger_set ga_tracked"><img src="http://images.forbes.com/media/current_covers/forbes_120x160.jpg" alt="Forbes Magazine"></a>
+            	<a href="http://www.forbes.com/forbes-life-magazine" data-ga-event="Footer,LinkFollowed,magazine" data-ga-event-trigger="click" class="exit_trigger_set ga_tracked"><img src="http://images.forbes.com/media/current_covers/forbeslife_120x160.jpg" alt="ForbesLife"></a>
+            	<a href="http://www.forbes.com/forbesasia/" data-ga-event="Footer,LinkFollowed,magazine" data-ga-event-trigger="click" class="exit_trigger_set ga_tracked"><img src="http://images.forbes.com/media/current_covers/forbesasia_120x160.jpg" alt="ForbesAsia"></a>
+            </div>
+				
+				<ul class="subscriptions">
+					<ul data-et-context="footer" data-et-location="footermagazine" class="edittools-list">
+							<li class="editable edittools-item" data-et-item_id="6" data-et-location="footermagazine" data-et-item-type="link">
+	            				<a href="https://subs.forbesmagazine.com/servlet/OrdersGateway?cds_mag_code=FRB&cds_page_id=150007" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">2 Free Issues</a>
+	        				</li>
+							<li class="editable edittools-item" data-et-item_id="4" data-et-location="footermagazine" data-et-item-type="link">
+	            				<a href="http://www.forbesmagazine.com/" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Subscriber Services</a>
+	        				</li>
+							<li class="editable edittools-item" data-et-item_id="5" data-et-location="footermagazine" data-et-item-type="link">
+	            				<a href="https://subs.forbesmagazine.com/loc/FRB/IZEG101" data-ga-event="Footer,LinkFollowed,conferences" data-ga-event-trigger="click">Gift Subscription</a>
+	        				</li>
+					</ul>
+				</ul>
+
+				<div class="affiliate-sites">
+					<ul>
+						<li><a href="http://www.forbeschina.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes China</a></li>
+						<li><a href="http://www.forbesindia.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes India</a></li>
+						<li><a href="http://www.forbes.co.il/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Israel</a></li>
+						<li><a href="http://www.forbes.com.mx/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Mexico</a></li>
+						<li><a href="http://www.forbesmiddleeast.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Middle East</a></li>
+					</ul>
+					<ul>
+						<li><a href="http://www.forbes.pl/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Poland</a></li>
+						<li><a href="http://www.forbes.ro/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Romania</a></li>
+						<li><a href="http://www.forbesrussia.ru/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Russia</a></li>
+						<li><a href="http://forbesmagazine.es/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">Forbes Spain</a></li>
+					</ul>
+					<ul>
+						<li><a href="http://www.realclear.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear</a></li>
+						<li><a href="http://www.realclearpolitics.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear Politics</a></li>
+						<li><a href="http://www.realclearmarkets.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear Markets</a></li>
+						<li><a href="http://www.realclearworld.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear World</a></li>
+						<li><a href="http://www.realclearsports.com/" target="_blank" data-ga-event="Footer,LinkFollowed,site" data-ga-event-trigger="click">RealClear Sports</a></li>
+					</ul>
+				</div>
+			</div>
+
+        </section>
+
+		
+		<section class="legalese clearfix">
+			<small>2014 Forbes.com LLC&#153; &nbsp; All Rights Reserved</small>
+			<ul>
+				<li><a href="/terms" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Terms and Conditions</a></li>
+				<li><a href="http://www.forbes.com/fdc/privacy.html" data-ga-event="Footer,LinkFollowed,companyinfo" data-ga-event-trigger="click">Privacy Statement</a></li>
+				<li><a href="http://corporate.morningstar.com/us/asp/subject.aspx?xmlfile=5501.xml" target="_blank" data-ga-event="Footer,LinkFollowed,partner" data-ga-event-trigger="click">Market Data by Morningstar</a></li>
+				<li><a onclick="(function(){forbes.event_tracking.track_ga_event(['Footer','LinkFollowed','partner']);var s=document.createElement('script');s.src='http://preferences.truste.com/js/buildJsFilev2.jsp?domain=forbes.com&amp;type=epref';s.onreadystatechange=function(){if(script.readyState=='loaded'||script.readyState=='complete'){view(trusteId);}};s.onload=function(){view(trusteId);};document.getElementsByTagName('head')[0].appendChild(s);})()" style="cursor:pointer;" target="_blank">AdChoices</a></li>
+			</ul>
+		</section>
+	</div>
+</footer>
+
+<!-- Start: footer assets -->
+
+<!--@foot.populate footer_data=pageData.footerData! /-->
+        <script type="text/javascript">
+            //<![CDATA[
+                var ppi_AjaxURI = '/wp-admin/admin-ajax.php'
+                	,imagesBaseCdn = 'http://i.forbesimg.com'
+					,followBarLocation = 'channel_3'; 
+            //]]>
+        </script>
+    <!--Start: Gigya Configs-->
+        <script type="text/javascript">
+            var gigya_conf = {
+                siteName: 'forbes.com',
+                APIkey: '3_8Fcn29ZQ5lcRRr8BsC6Y2q8eRKPl567JTM6IWXsqW4eqW57_fNx29GDl9YdzZLvH',
+                connectWithoutLoginBehavior: 'alwaysLogin',
+                enabledProviders: 'facebook,twitter,linkedin,googleplus,yahoo,messenger,wordpress,aol,blogger,openid,foursquare,typepad'
+            };
+
+            (function() {
+				var po = document.createElement('script');
+				po.type = 'text/javascript';
+				//po.async = true;
+				po.src = 'http://cdn.gigya.com/js/socialize.js?apiKey=3_8Fcn29ZQ5lcRRr8BsC6Y2q8eRKPl567JTM6IWXsqW4eqW57_fNx29GDl9YdzZLvH';
+
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(po, s);
+			})();
+
+			(function() {
+				var po = document.createElement('script');
+				po.type = 'text/javascript';
+				//po.async = true;
+				po.src = 'http://cdn.gigya.com/js/gigyaGAIntegration.js';
+
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(po, s);
+			})();
+        </script>
+    <!--End: Giya Configs -->
+	<script type="text/javascript">
+		var google_tag_channel = "tech,business";
+		var google_tag_section = "tech:mobile,business:powering productivity";
+		var google_tag_swimlane = "";
+		var google_tag_specialslot = "";
+		var google_tag_article_special_slot = "";
+		var google_tag_display_channel = "technology";
+		var google_tag_display_section = "";
+		var google_tag_zone = "article-new";
+		var google_tag_article_id = "blogAndPostId/blog/post/2907-5993";
+	</script>
+		<script type="text/javascript" src="http://i.forbesimg.com/scripts/combined/js/global.f8a7171d037be437df925c263f993ecd24694cc2.js"></script>
+		<script type="text/javascript" src="http://i.forbesimg.com/scripts/combined/js/article-responsive.485f3ed6bcb0df03dc3d2010f0f59a268d0f50d0.js"></script>
+<span class="lazy_load_js" data-files="http://i.forbesimg.com/scripts/combined/js/globallazy.8da0470d609bcf7bc1c2f94a0826d4b633a62b6a.js"></span>
+    <script type="text/javascript">
+        forbes.bootstrap.init();
+    </script>
+
+
+    <script type="text/javascript">
+        if ( typeof window.JSON === 'undefined' ) {
+            document.write('<script src="http://i.forbesimg.com/assets/js/core/jquery.json-2.2.js"><\/script>');
+        }
+    </script>
+<!-- End: footer assets -->
+
+<div class="current_page_threshold"></div>
+
+</body>
+</html>

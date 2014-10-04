@@ -1,0 +1,522 @@
+   [1]BT
+
+     * [2]Contribute
+     * [3]About Us
+     * [4]About You
+     * [5]Purpose Index
+
+     * Exclusive updates on:
+     *
+     *
+     *
+     *
+     *
+
+   Facilitating the spread of knowledge and innovation in professional
+   software development
+
+   Search______________ Submit
+
+   [6]Login
+     * [7]En |
+     * [8]中文 |
+     * [9]日本 |
+     * [10]Fr |
+     * [11]Br
+
+   942,295 Sep unique visitors
+     * [12]Development
+          + [13]Java
+          + [14].Net
+          + [15]Cloud
+          + [16]Mobile
+          + [17]HTML5
+          + [18]JavaScript
+          + [19]Ruby
+          + [20]DSLs
+          + [21]Python
+          + [22]PHP
+          + [23]API
+
+Featured in
+
+       [24]All in Development
+     * [25]Architecture
+       & Design
+          + [26]Architecture
+          + [27]Modeling
+          + [28]Scalability/Performance
+          + [29]DDD
+          + [30]BDD
+          + [31]AOP
+          + [32]Patterns
+          + [33]Security
+          + [34]Cloud
+          + [35]SOA
+
+Featured in
+
+       [36]All in Architecture & Design
+     * [37]Process & Practices
+          + [38]Agile
+          + [39]Leadership
+          + [40]Collaboration
+          + [41]Agile Techniques
+          + [42]Methodologies
+          + [43]Continuous Integration
+          + [44]Lean/Kanban
+
+Featured in
+
+       [45]All in Process & Practices
+     * [46]Operations & Infrastructure
+          + [47]Hadoop
+          + [48]Performance
+          + [49]Big Data
+          + [50]DevOps
+          + [51]Cloud
+          + [52]APM
+          + [53]Virtualization
+          + [54]NoSQL
+
+Featured in
+
+       [55]All in Operations & Infrastructure
+     * [56]Enterprise Architecture
+          + [57]Enterprise Architecture
+          + [58]BPM
+          + [59]Business/IT Alignment
+          + [60]Architecture Documentation
+          + [61]IT Governance
+          + [62]SOA
+
+Featured in
+
+       [63]All in Enterprise Architecture
+
+   [64]San Francisco 2014
+   Nov 3 - Nov 7
+
+   [65]London 2015
+   Mar 2 - Mar 6
+     * [66]Mobile
+     * [67]HTML5
+     * [68]JavaScript
+     * [69]APM
+     * [70]NoSQL
+     * [71]Cloud
+     * [72]Agile
+     * [73]PHP
+
+   [74]All topics
+   [75]Your opinion matters-InfoQ Survey
+   You are here: [76]InfoQ Homepage [77]Presentations JavaEE 7 In
+   Practice: Blueprints Reborn
+   [78]You are now in FULL VIEW
+   CLOSE FULL VIEW
+
+   JavaEE 7 In Practice: Blueprints Reborn
+   Recorded at:
+   by [79]Edward Burns on Sep 20, 2014 |
+     * Share
+     * [80]Share
+     * |
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     * [81]"Read later"
+     * [82]"My Reading List"
+
+     * View Presentation
+     *
+     *
+     *
+
+     * Download
+     * [83]MP3
+     * |
+     * [84]Slides
+
+   01:11:14
+
+   Summary
+   Ed Burns demos using WebSockets, JSON-P, JavaAPI for RESTful Web
+   Services (JAX-RS), JSF, Contexts and Dependency Injection (CDI), Bean
+   Validation, Expression Language in a CargoTracker application.
+
+Bio
+
+   Ed Burns is a consulting member at Oracle. He is the author/coauthor of
+   four books: Secrets of the Rock Star Programmers, JavaServer Faces: The
+   Complete Reference, JavaServer Faces 2.0: The Complete Reference, and
+   Hudson Continuous Integration in Practice. He has spoken at JavaOne,
+   W-JAX, JAX, GlobalCode, JSF Days, CONFESS, DOAG, numerous Java User
+   Group meetings and the NFJS Java Symposium.
+
+   DEVNEXUS is the Southeast’s most exciting conference for professional
+   software developers working with languages, tools, frameworks &
+   methodologies connected to the Java platform. With attendance of over
+   1200 people, 10 tracks provide a fantastic learning experience for Core
+   Java, Web, Cloud, Mobile, Data & Integration, HTML5, JavaScript,
+   Alternative Languages, Agile & Architecture, UX/Git/DevOps.
+     * Sections
+     * [85]Development
+     * Topics
+     * [86]DevNexus 2014
+     * [87]Java7
+     * [88]Java EE
+     * [89]Patterns
+     * [90]JAX-RS
+     * [91]Java Web Frameworks
+     * [92]Dependency Injection
+     * [93]Design Pattern
+     * [94]Java
+     * [95]Design
+     * [96]WebSocket
+     * [97]Web Beans
+     * [98]JSON
+     * [99]Markup Languages
+     * [100]DevNexus
+     * [101]JSF
+
+   Related Editorial
+
+   Related Vendor Content
+
+[102]5 OAuth Essentials for API Access Control
+
+[103]5 Pillars of API Management
+
+[104]NoSQL Evaluator's Guide
+
+[105]REST Easy: API Design, Evolution, and Connection
+
+[106]Start your FREE TRIAL of AppDynamics Pro
+
+   Related Sponsor
+   [107][VCR_Box_new_Q42014.png]
+
+
+   [108]AppDynamics is the [109]next-generation application performance
+   management solution that simplifies the management of complex,
+   business-critical apps.
+
+Hello stranger!
+
+   You need to [110]Register an InfoQ account or [111]Login or login to
+   post comments. But there's so much more behind being registered.
+
+Get the most out of the InfoQ experience.
+
+Tell us what you think
+
+   ____________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Allowed html: a,b,br,blockquote,i,li,pre,u,ul,p
+   [ ] Email me replies to any of my messages in this thread
+   [BUTTON Input] (not implemented)____________
+   Community comments
+   [112]Close
+
+by
+
+   on
+     * View
+     * [113]Reply
+     * [114]Back to top
+
+   [115]Close Subject ____________________ Your Reply [116]Quote original
+   message
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Allowed html: a,b,br,blockquote,i,li,pre,u,ul,p
+   [ ] Email me replies to any of my messages in this thread
+   [BUTTON Input] (not implemented)____________ Cancel
+   [117]Close Subject ____________________ Your Reply
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Allowed html: a,b,br,blockquote,i,li,pre,u,ul,p
+   [ ] Email me replies to any of my messages in this thread
+
+   [BUTTON Input] (not implemented)_____ Cancel
+   [118]Close
+
+   OK
+   [119]Discuss
+     * Popular
+     * [120]10 days
+     * [121]40 days
+     * [122]6 months
+
+   Sponsored Links
+     * [123]Home
+     * [124]All topics
+     * [125]QCon Conferences
+     * [126]About us
+     * [127]About You
+     * [128]Contribute
+     * [129]Purpose Index
+     * [130]Create account
+     * [131]Login
+
+     * QCons Worldwide
+     * [javascript] [132]Shanghai 2014
+       Oct 16-18, 2014
+     * [javascript] [133]San Francisco 2014
+       Nov 3-7, 2014
+     * [javascript] [134]London 2015
+       Mar 2-6, 2015
+     * [javascript] [135]São Paulo 2015
+       Mar 23-27, 2015
+     * [javascript] [136]Beijing 2015
+       Apr 23-25, 2015
+     * [javascript] [137]Tokyo 2015,
+       Apr 2015
+     * [javascript] [138]New York 2015
+       Jun 8-12, 2015
+
+InfoQ Weekly Newsletter
+
+   Subscribe to our Weekly email newsletter to follow all new content on
+   InfoQ
+
+   Your email here_____ Subscribe
+
+     * [139]Your personalized RSS
+     * [140]For daily content and announcements
+     * [141]For major community updates
+     * [142]For weekly community updates
+
+   Personalize Your Main Interests
+
+       [X] Development
+       [X] Architecture & Design
+       [X] Process & Practices
+       [X] Operations & Infrastructure
+       [X] Enterprise Architecture
+
+   This affects what content you see on the homepage & your RSS feed.
+   Click preferences to access more fine-grained personalization.
+   General Feedback
+   [143]feedback@infoq.com
+   Bugs
+   [144]bugs@infoq.com
+   Advertising
+   [145]sales@infoq.com
+   Editorial
+   [146]editors@infoq.com
+   InfoQ.com and all content copyright © 2006-2014 C4Media Inc. InfoQ.com
+   hosted at [147]Contegix, the best ISP we've ever worked with.
+   [148]Privacy policy
+   [149]BT
+
+   [150]Close Email ____________________ Password ____________________
+   Submit
+   [151]Login with Google
+   [152]Login with Twitter
+   [153]Login with Facebook
+   [154]Login with Microsoft
+
+   [155]Forgot password ?
+   InfoQ Account Email ____________________ (BUTTON) Send Email
+
+   [156]Back to login
+   Resend Activation ____________________ (BUTTON) Resend
+
+   [157]Back to login
+
+   [158]Don't have a username ?
+
+   [159]REGISTER HERE
+
+References
+
+   Visible links
+   1. http://www.infoq.com/int/bt
+   2. http://www.infoq.com/contribute
+   3. http://www.infoq.com/aboutus
+   4. http://www.infoq.com/aboutyou
+   5. http://www.infoq.com/purpose
+   6. http://www.infoq.com/presentations/javaee-7-blueprints
+   7. http://www.infoq.com/presentations/javaee-7-blueprints
+   8. http://www.infoq.com/cn/
+   9. http://www.infoq.com/jp/
+  10. http://www.infoq.com/fr/
+  11. http://www.infoq.com/br/
+  12. http://www.infoq.com/development/
+  13. http://www.infoq.com/java/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  14. http://www.infoq.com/dotnet/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  15. http://www.infoq.com/cloud-computing/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  16. http://www.infoq.com/mobile/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  17. http://www.infoq.com/HTML5Topic/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  18. http://www.infoq.com/javascript/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  19. http://www.infoq.com/ruby/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  20. http://www.infoq.com/dsl/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  21. http://www.infoq.com/python/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  22. http://www.infoq.com/Topic_PHP/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  23. http://www.infoq.com/api/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  24. http://www.infoq.com/development/
+  25. http://www.infoq.com/architecture-design/
+  26. http://www.infoq.com/architecture/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  27. http://www.infoq.com/Modeling/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  28. http://www.infoq.com/performance-scalability/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  29. http://www.infoq.com/domain-driven-design/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  30. http://www.infoq.com/Behavior-Driven-Development/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  31. http://www.infoq.com/AOP/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  32. http://www.infoq.com/DesignPattern/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  33. http://www.infoq.com/Security/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  34. http://www.infoq.com/cloud-computing/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  35. http://www.infoq.com/soa/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  36. http://www.infoq.com/architecture-design/
+  37. http://www.infoq.com/process-practices/
+  38. http://www.infoq.com/agile/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  39. http://www.infoq.com/Leadership/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  40. http://www.infoq.com/team-collaboration/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  41. http://www.infoq.com/agile_techniques/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  42. http://www.infoq.com/methodologies/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  43. http://www.infoq.com/continuous_integration/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  44. http://www.infoq.com/lean/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  45. http://www.infoq.com/process-practices/
+  46. http://www.infoq.com/operations-infrastructure/
+  47. http://www.infoq.com/hadoop/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  48. http://www.infoq.com/performance/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  49. http://www.infoq.com/bigdata/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  50. http://www.infoq.com/devops/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  51. http://www.infoq.com/cloud-computing/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  52. http://www.infoq.com/apm/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  53. http://www.infoq.com/virtualization/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  54. http://www.infoq.com/NoSQL/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  55. http://www.infoq.com/operations-infrastructure/
+  56. http://www.infoq.com/enterprise-architect/
+  57. http://www.infoq.com/enterprise-architecture/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  58. http://www.infoq.com/bpm/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  59. http://www.infoq.com/business_it_alignment/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  60. http://www.infoq.com/Architecture-Documentation/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  61. http://www.infoq.com/Governance/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  62. http://www.infoq.com/soa/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  63. http://www.infoq.com/enterprise-architect/
+  64. http://qconsf.com/?utm_source=infoq&utm_medium=header&utm_campaign=infoqheader
+  65. http://qconlondon.com/?utm_source=infoq&utm_medium=header&utm_campaign=infoqheader
+  66. http://www.infoq.com/mobile/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  67. http://www.infoq.com/HTML5Topic/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  68. http://www.infoq.com/javascript/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  69. http://www.infoq.com/apm/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  70. http://www.infoq.com/NoSQL/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  71. http://www.infoq.com/cloud-computing/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  72. http://www.infoq.com/agile/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  73. http://www.infoq.com/php/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk
+  74. http://www.infoq.com/topics
+  75. https://www.surveymonkey.com/s/FRXSFK5
+  76. http://www.infoq.com/?utm_source=infoq&utm_medium=breadcrumbs_feature&utm_campaign=breadcrumbs
+  77. http://www.infoq.com/presentations?utm_source=infoq&utm_medium=breadcrumbs_feature&utm_campaign=breadcrumbs
+  78. javascript:;
+  79. http://www.infoq.com/author/Edward-Burns
+  80. http://www.addthis.com/bookmark.php?v=250&username=infoq
+  81. http://www.infoq.com/presentations/javaee-7-blueprints
+  82. http://www.infoq.com/showbookmarks.action
+  83. javascript:;
+  84. javascript:;
+  85. http://www.infoq.com/development
+  86. http://www.infoq.com/devnexus-2014
+  87. http://www.infoq.com/Java7
+  88. http://www.infoq.com/javaee5
+  89. http://www.infoq.com/patterns
+  90. http://www.infoq.com/jax-rs
+  91. http://www.infoq.com/Java-web-frameworks
+  92. http://www.infoq.com/DependencyInjection
+  93. http://www.infoq.com/DesignPattern
+  94. http://www.infoq.com/java
+  95. http://www.infoq.com/Design
+  96. http://www.infoq.com/WebSocket
+  97. http://www.infoq.com/webbeans
+  98. http://www.infoq.com/json
+  99. http://www.infoq.com/MarkupLanguages
+ 100. http://www.infoq.com/DevNexus
+ 101. http://www.infoq.com/JSF
+ 102. http://www.infoq.com/vendorcontent/show.action?vcr=2988&utm_source=infoq&utm_medium=VCR&utm_campaign=vcr_presentations_click
+ 103. http://www.infoq.com/vendorcontent/show.action?vcr=2994&utm_source=infoq&utm_medium=VCR&utm_campaign=vcr_presentations_click
+ 104. http://www.infoq.com/vendorcontent/show.action?vcr=2982&utm_source=infoq&utm_medium=VCR&utm_campaign=vcr_presentations_click
+ 105. http://www.infoq.com/vendorcontent/show.action?vcr=3031&utm_source=infoq&utm_medium=VCR&utm_campaign=vcr_presentations_click
+ 106. http://www.infoq.com/infoq/url.action?i=5918&t=f
+ 107. http://www.infoq.com/infoq/url.action?i=5921&t=f
+ 108. http://www.infoq.com/infoq/url.action?i=5920&t=f
+ 109. http://www.infoq.com/infoq/url.action?i=5919&t=f
+ 110. http://www.infoq.com/reginit.action
+ 111. javascript:;
+ 112. javascript:;
+ 113. javascript:;
+ 114. http://www.infoq.com/presentations/javaee-7-blueprints
+ 115. javascript:;
+ 116. http://www.infoq.com/presentations/javaee-7-blueprints
+ 117. javascript:;
+ 118. javascript:;
+ 119. http://www.infoq.com/presentations/javaee-7-blueprints#theCommentsSection
+ 120. javascript:;
+ 121. javascript:;
+ 122. javascript:;
+ 123. http://www.infoq.com/
+ 124. http://www.infoq.com/topics
+ 125. http://www.qconferences.com/
+ 126. http://www.infoq.com/aboutus
+ 127. http://www.infoq.com/aboutyou
+ 128. http://www.infoq.com/contribute
+ 129. http://www.infoq.com/purpose
+ 130. http://www.infoq.com/reginit.action
+ 131. http://www.infoq.com/presentations/javaee-7-blueprints
+ 132. http://www.qconshanghai.com/
+ 133. http://qconsf.com/?utm_source=infoq&utm_medium=listing&utm_campaign=footer
+ 134. http://www.qconlondon.com/?utm_source=infoq&utm_medium=listing&utm_campaign=footer
+ 135. http://www.qconsp.com/?utm_source=infoq&utm_medium=listing&utm_campaign=footer
+ 136. http://www.qconbeijing.com/
+ 137. http://qcontokyo.com/
+ 138. http://qconnewyork.com/?utm_source=infoq&utm_medium=listing&utm_campaign=footer
+ 139. http://www.infoq.com/presentations/javaee-7-blueprints
+ 140. http://twitter.com/infoq
+ 141. http://www.facebook.com/InfoQ
+ 142. https://plus.google.com/104892343728609932454
+ 143. mailto:feedback@infoq.com
+ 144. mailto:bugs@infoq.com
+ 145. mailto:sales@infoq.com
+ 146. mailto:editors@infoq.com
+ 147. http://www.contegix.com/
+ 148. http://www.infoq.com/privacypolicy
+ 149. http://www.infoq.com/int/bt
+ 150. http://www.infoq.com/presentations/javaee-7-blueprints
+ 151. http://www.infoq.com/social/googleLogin.action?fl=login
+ 152. http://www.infoq.com/social/twitterLogin.action?fl=login
+ 153. http://www.infoq.com/social/facebookLogin.action?fl=login
+ 154. http://www.infoq.com/social/liveLogin.action?fl=login
+ 155. http://www.infoq.com/presentations/javaee-7-blueprints
+ 156. http://www.infoq.com/presentations/javaee-7-blueprints
+ 157. http://www.infoq.com/presentations/javaee-7-blueprints
+ 158. http://www.infoq.com/reginit.action?
+ 159. http://www.infoq.com/reginit.action?
+
+   Hidden links:
+ 161. http://twitter.com/infoq
+ 162. http://www.facebook.com/InfoQ
+ 163. http://www.linkedin.com/company/infoq
+ 164. https://plus.google.com/104892343728609932454
+ 165. http://www.infoq.com/presentations/javaee-7-blueprints%0D
+ 166. http://www.infoq.com/
+ 167. http://devnexus.com/
+ 168. javascript:;
+ 169. javascript:;
+ 170. javascript:;
+ 171. http://devnexus.com/
+ 172. javascript:void(0)
+ 173. http://www.infoq.com/newsletter_sample.html

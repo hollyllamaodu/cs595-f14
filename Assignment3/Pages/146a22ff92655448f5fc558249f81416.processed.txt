@@ -1,0 +1,642 @@
+   #[1]Java Code Geeks RSS Feed [2]Java Code Geeks Atom Feed [3]Java Code
+   Geeks » Hello World! What Every CS Student Should Know About the First
+   Job Comments Feed [4]Don’t You Know that Support is the Most Important
+   Part of a Developer’s Job? [5]Having fun with Git
+
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+     * [6]Home
+     * [7]Tutorials
+          + [8]Java Tutorials
+               o [9]Core Java
+               o [10]Enterprise Java
+                    # [11]Spring Tutorials
+               o [12]Desktop Java
+          + [13]Android Tutorials
+               o [14]Android Core
+               o [15]Android Games
+          + [16]Scala Tutorials
+          + [17]DevOps Tutorials
+     * [18]Join Us
+          + [19]JCG
+          + [20]W4G
+               o [21]Submission Guidelines
+               o [22]Terms & Conditions
+     * [23]About
+          + [24]About JCGs
+          + [25]Advertising
+          + [26]Terms of Use
+          + [27]Privacy Policy
+     * [28]Resources
+          + [29]Software
+          + [30]Our Projects
+     * [31]Examples
+     * [32]Job Board
+     * [33]Whitepapers
+     * [34]Academy
+
+   [35]Java Code Geeks
+     * [36]Java
+          + [37]Core Java
+          + [38]Enterprise Java
+          + [39]Desktop Java
+     * [40]Android
+          + [41]Android Core
+          + [42]Android Games
+     * [43]JVM Languages
+          + [44]JRuby
+          + [45]Ceylon
+          + [46]Scala
+          + [47]Groovy
+          + [48]Clojure
+     * [49]Software Development
+     * [50]Agile
+     * [51]DevOps
+     * [52]Communications
+     * [53]Career
+     * [54]Misc
+     * [55]Meta JCG
+          + [56]Best Of The Week
+
+   Search this site..._ Go
+   You are here: [57]Home [58]Career Hello World! What Every CS Student
+   Should Know About the First Job
+   October 4, 9448 2:12 pm
+   Dave Fecak
+
+About [59]Dave Fecak
+
+   Dave Fecak has been recruiting software engineers for start-ups since
+   1998 and he has served as the founder and president of the Philadelphia
+   Area Java Users’ Group since 2000. Dave is often cited and published on
+   career topics for technology professionals, and he blogs at
+   JobTipsForGeeks.com.
+     * [60][web.png]
+     * [61][twitter.png]
+     * [62][facebook.png]
+     * [63][linkedin.png]
+     * [64][google.png]
+
+Hello World! What Every CS Student Should Know About the First Job
+
+   by [65]Dave Fecak on October 14th, 2013 | Filed in: [66]Career
+
+   Anyone involved with hiring entry-level technology professionals (or
+   reads posts on Reddit’s [67]cscareerquestions forum) is aware that
+   students are being prepared by schools for how to do work in the
+   industry, but are often ill-prepared on how to find work in the
+   industry.  There is a major difference between the two, and many grads
+   are being edged out on jobs by equally or even less-qualified peers who
+   were just a bit more proactive about their career. If you think finding
+   a job is only about internships and GPAs, please keep reading.
+
+   Some students feel that if they aren’t working 10 hours a day building
+   the next Twitter from their dorm room, or if they didn’t intern at
+   Google or Amazon, that they will struggle to find work.  This is hardly
+   the case, and I assure you that if you do a few things during your
+   college years (that require a minimal time investment and no money),
+   you will be several steps ahead when it is time to apply for your first
+   job.
+
+   Everyone knows about finding internships, good grades, and putting
+   together a solid résumé.  But there’s more to it than that for today’s
+   grads.  Here are some things that college freshmen (or even high school
+   students) that intend to pursue a career in technology can do to give
+   themselves a head start on the competition.
+
+   [68]imgres
+
+   I tend to find that college students and even early career candidates
+   often have Facebook, Google +, and Twitter accounts, but no LinkedIn
+   profile.  But I thought LinkedIn was a place to signup only when I was
+   about to start looking for a job?  Nope.  LinkedIn is your [69][DEL:
+   Rolodex :DEL]  (forgot my audience) address book of professional
+   contacts, and there are plenty of reasons to start building that
+   database and network even before you are a full professional.
+
+   Did you intern with a company last summer?  Connect to your co-workers
+   on LinkedIn. Did you interview for an internship, but didn’t get the
+   job?  Connect with your interviewers on LinkedIn.  Did some industry
+   professionals come to campus and speak to your class?  Connect with
+   them on LinkedIn.  Did a recent grad or classmate start a business?
+   Got a favorite professor?  Connect!
+
+   Beyond just the ability to connect like you do on Facebook or Google +,
+   LinkedIn also has thousands of virtual networking groups that include a
+   wide range of specific and general topics.  Many of these groups are
+   related directly to employment, and most of them are monitored (and
+   sometimes infested) by recruiters that could be valuable connections to
+   make before graduation.
+
+   Once your profile is completed with your experience and any relevant
+   technical buzzwords to attract recruiters or hiring professionals, you
+   may expect to receive connection invites and blurbs on job
+   opportunities.  Having more connections means that you will appear in
+   more searches, but most in the industry still use some discretion in
+   connecting.
+
+   I don’t want to overstate the importance of LinkedIn as I think too
+   much is often made of the site by so-called “social media experts”, and
+   endorsements have become a running joke, but industry pros that you
+   don’t know well are more likely to accept a LinkedIn connection than a
+   friend request on Facebook. Graduating college with anywhere from 50 to
+   500 LinkedIn connections gives you a place to start your job search
+   that is infinitely more productive that applications to random jobs on
+   Monster or Craigslist.
+
+   [70]octocat
+
+   I write about GitHub so much that even I’m sick of watching myself
+   write about GitHub (where’s my t-shirt?!). If LinkedIn is your
+   professional address book, GitHub is a combination of your sketch pad,
+   notebook, and even a [71][DEL: Trapper Keeper :DEL]  folder (did it
+   again) to file past assignments.  There are other code repo sites out
+   there, but GitHub is the leader today.
+
+   What’s so great about GitHub?  First, by using it you’ll learn how to
+   use the Git tool itself and how version control works to some degree,
+   which has value in itself (and another Skills entry for your résumé).
+   You can also take advantage of [72]GitHub Pages, which gives you free
+   hosting and customizable themes for a web page that you can have up in
+   minutes. More importantly, your GitHub account is perhaps one of the
+   best ways to demonstrate your experience to potential employers.
+
+   If you are going to be writing some bits of code for various school
+   projects, even if they are small and generic exercises like FizzBuzz or
+   Conway’s Game of LIfe, why not retain those as potential work samples
+   at GitHub?  As your skills improve, you can go back and refactor and
+   optimize your code so that it is representative of your current ability
+   level.
+
+   Once you develop some comfort level with your coding skills, you can
+   explore some other public repos and start contributing to open source
+   projects or even start your own.  You don’t need to have some
+   substantial GitHub account upon graduation in order to get a job, but
+   there is no reason not to keep your code all in a safe place for others
+   to view down the line.  A GitHub account has quickly become a common
+   request from many employers in the industry, so having these samples
+   available can make a significant difference.
+
+   [73]so-logo
+
+   Stack Overflow is a question and answer site used by a large percentage
+   of the programming world to help themselves and others.  It has a
+   massive collection of past threads that is like a FAQ for the tech
+   world, as well as many unique threads that would be considered Rarely
+   Asked Questions.  The site’s gamification model allows participants to
+   earn reputation points for highly rated questions and answers, and
+   those points can serve as yet another potential indicator of your
+   knowledge as an entry-level candidate.
+
+   Can I really get a job based on some arbitrary internet points I earned
+   through asking or answering questions?  Of course not.  But again, it
+   serves as an indicator of your interest in the profession, the time you
+   invest in your craft, and your willingness to both seek and provide
+   answers with others in the industry.
+
+   I wouldn’t suggest spending hundreds of hours on the site in order to
+   accrue a massive point total, but checking out the questions being
+   asked and chiming in when appropriate has value.  The questions and
+   trends will also give you a finger on the pulse of the industry, and
+   perhaps ideas as to which languages or technologies may be lacking a
+   pulse.
+
+   [74]logo
+
+   Users’ groups and Meetups are another way to demonstrate your interest
+   while learning. You attend class because you have to (or are supposed
+   to anyway), but you attend Meetups because you want to.  I have managed
+   a users’ group for almost 14 years that met on a college campus for
+   several years, and many of the student attendees now have highly
+   successful careers.  In addition to the ability to hear informative
+   presentations and group discussions, Meetups are perhaps the most
+   useful way for students to meet industry pros that may be incredible
+   resources during your first job search.  (If you haven’t figured this
+   out on your own, connect with your fellow Meetup members on LinkedIn.)
+
+   If you can’t get to group meetings due to location, there may even be
+   some users’ groups and Meetups that happen right on your college
+   campus.  None at your school, eh?  That’s too bad.  If only there were
+   a group on campus…  Congratulations, you are now the founder (and
+   chapter president, of course) of the Springfield University Python
+   Meetup!
+
+Conclusion
+
+   Creating a profile in any of these sites takes minutes and has no cost.
+    With LinkedIn you can start making connections in seconds, and logging
+   in even once a month to accept and send connection requests is pretty
+   standard.  Using GitHub for your coding assignments or projects will
+   become second nature, and exploring other repos can be done as time
+   permits.  Stack Overflow is something you can visit once a week or as
+   necessary, and over time you will build reputation while learning.  A
+   user group or meetup is typically a monthly meeting.  All this adds up
+   to just a couple extra hours a month, which is a small investment for
+   the rewards it can provide.
+
+   Reference: [75]Hello World! What Every CS Student Should Know About the
+   First Job from our [76]JCG partner Dave Fecak at the [77]Job Tips For
+   Geeks blog.
+
+Do you want to know how to develop your skillset to become a Java Rockstar?
+
+   Subscribe to our newsletter to start Rocking right now!
+
+      To get you started we give you two of our best selling eBooks for FREE!
+
+   JPA Mini Book
+
+      Learn how to leverage the power of JPA in order to create robust and
+      flexible Java applications. With this Mini Book, you will get
+   introduced to JPA and smoothly transition to more advanced concepts.
+
+JVM Troubleshooting Guide
+
+   The Java virtual machine is really the foundation of any Java EE
+   platform. Learn how to master it with this advanced guide!
+   Email address: ____________________ Sign up!
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Given email address is already subscribed, thank you!
+   Oops. Something went wrong. Please try again later.
+   Please provide a valid email address.
+   Thank you, your sign-up request was successful! Please check your
+   e-mail inbox.
+   Please complete the CAPTCHA.
+   Please fill in the required fields.
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+One Response to "Hello World! What Every CS Student Should Know About the
+First Job"
+
+    1. [78]Siphamandla Sibiya says:
+       [79]April 6th, 2014 at 6:12 pm
+       This is very informative thanks a million
+       [80]Reply
+
+Leave a Reply
+
+   [81]Click here to cancel reply.
+
+   ______________________ Name (Required)
+
+   ______________________ Mail (will not be published) (Required)
+
+   ______________________ Website
+
+
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+
+   3 × __ = eighteen
+
+   [ ] Notify me of followup comments via e-mail. You can also
+   [82]subscribe without commenting.
+
+   [X] Sign me up for the newsletter!
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Submit Comment
+
+Newsletter
+
+   39689 insiders are already enjoying weekly updates and complimentary
+   whitepapers!
+
+   Join them now to gain exclusive access to the latest news in the Java
+   world, as well as insights about Android, Scala, Groovy and other
+   related technologies.
+
+   Email address: ____________________
+   Sign up
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Given email address is already subscribed, thank you!
+   Oops. Something went wrong. Please try again later.
+   Please provide a valid email address.
+   Thank you, your sign-up request was successful! Please check your
+   e-mail inbox.
+   Please complete the CAPTCHA.
+   Please fill in the required fields.
+
+Join Us
+
+   Join Us
+   With 819,138 monthly unique visitors and over 500 authors we are placed
+   among the top Java related sites around. Constantly being on the
+   lookout for partners; we encourage you to join us. So If you have a
+   blog with unique and interesting content then you should check out our
+   [83]JCG partners program. You can also be a [84]guest writer for Java
+   Code Geeks and hone your writing skills!
+
+[85]RSS [86]Carrer Opportunities
+
+     * [87]Backend Java Software Engineer, Senior Job ( FULL-TIME )
+       October 1st, 2014
+     * [88]Senior Java Software Developer – Fin Tech – SF ( FULL-TIME )
+       September 30th, 2014
+     * [89]Cap/IT Perf Mgmt Specialist – Optum Technology ( FULL-TIME )
+       September 30th, 2014
+     * [90]Senior Software Developer – Java – Node.js – BackEnd (
+       FULL-TIME ) September 30th, 2014
+     * [91]Experienced Java and JavaScript developer required ( FULL-TIME
+       ) September 30th, 2014
+
+Tags
+
+   [92]Akka [93]Apache Camel [94]Apache Hadoop [95]Apache Maven [96]Apache
+   Tomcat [97]Big Data [98]Cloud [99]Concurrency [100]Databases
+   [101]Design Patterns [102]Eclipse [103]Git [104]Google Guava
+   [105]Gradle [106]Grails [107]IDE [108]Java 7 [109]Java 8 [110]Java EE6
+   [111]JavaFX [112]JAXB [113]JBoss Hibernate [114]JMS [115]JPA [116]JSF
+   [117]JSON [118]JUnit [119]JVM [120]Lambdas [121]Logging [122]MongoDB
+   [123]News [124]NoSQL [125]Oracle GlassFish [126]Performance [127]Play
+   Framework [128]Project Management [129]RESTful Web Services
+   [130]Security [131]Spring [132]Spring Data [133]Spring MVC [134]SQL
+   [135]Testing [136]XML
+
+Knowledge Base
+
+     * [137]Academy
+     * [138]Examples
+     * [139]Resources
+     * [140]Tutorials
+     * [141]Whitepapers
+
+Partners
+
+     * [142]Mkyong
+
+The Code Geeks Network
+
+     * [143]Java Code Geeks
+     * [144].NET Code Geeks
+     * [145]Web Code Geeks
+
+Hall Of Fame
+
+     * [146]“Android Full Application Tutorial” series
+     * [147]GWT 2 Spring 3 JPA 2 Hibernate 3.5 Tutorial
+     * [148]Android Game Development Tutorials
+     * [149]Android Google Maps Tutorial
+     * [150]Android Location Based Services Application – GPS location
+     * [151]Funny Source Code Comments
+     * [152]Java Best Practices – Vector vs ArrayList vs HashSet
+     * [153]Android JSON Parsing with Gson Tutorial
+     * [154]Android Quick Preferences Tutorial
+
+About Java Code Geeks
+
+   JCGs (Java Code Geeks) is an independent online community focused on
+   creating the ultimate Java to Java developers resource center; targeted
+   at the technical architect, technical team lead (senior developer),
+   project manager and junior developers alike. JCGs serve the Java, SOA,
+   Agile and Telecom communities with daily news written by domain
+   experts, articles, tutorials, reviews, announcements, code snippets and
+   open source projects.
+   [155]Java Code Geeks and all content copyright © 2010-2014,
+   [156]Exelixis Media Ltd | [157]Terms of Use | [158]Privacy Policy |
+   [159]ContactAll trademarks and registered trademarks appearing on
+   [160]Java Code Geeks are the property of their respective owners.Java
+   is a trademark or registered trademark of Oracle Corporation in the
+   United States and other countries.[161]Java Code Geeks is not connected
+   to Oracle Corporation and is not sponsored by Oracle Corporation.
+
+   Do you want to know how to develop your skillset and become a ...
+   Java Rockstar?
+
+   [162]YES!Make me a Java Rockstar [163]NO,I'll stick to my gut on this
+   [164]Close this popup
+   Subscribe to our newsletter to start Rocking right now!
+
+   To get you started we give you two of our best selling eBooks for FREE!
+
+     * ____________________
+
+   (BUTTON) Subscribe Now!
+   [165]Close this popup
+   Get ready to Rock!
+   You can download the complementary eBooks using the links below:
+   [166]Close
+
+References
+
+   Visible links
+   1. http://www.javacodegeeks.com/feed/
+   2. http://www.javacodegeeks.com/feed/atom/
+   3. http://www.javacodegeeks.com/2013/10/hello-world-what-every-cs-student-should-know-about-the-first-job.html/feed/
+   4. http://www.javacodegeeks.com/2013/10/dont-you-know-that-support-is-the-most-important-part-of-a-developers-job.html
+   5. http://www.javacodegeeks.com/2013/10/having-fun-with-git.html
+   6. http://www.javacodegeeks.com/
+   7. http://www.javacodegeeks.com/tutorials/
+   8. http://www.javacodegeeks.com/tutorials/java-tutorials/
+   9. http://www.javacodegeeks.com/tutorials/java-tutorials/core-java-tutorials/
+  10. http://www.javacodegeeks.com/tutorials/java-tutorials/enterprise-java-tutorials/
+  11. http://www.javacodegeeks.com/tutorials/java-tutorials/enterprise-java-tutorials/spring-tutorials/
+  12. http://www.javacodegeeks.com/tutorials/java-tutorials/desktop-java-tutorials/
+  13. http://www.javacodegeeks.com/tutorials/android-tutorials/
+  14. http://www.javacodegeeks.com/tutorials/android-tutorials/android-core-tutorials/
+  15. http://www.javacodegeeks.com/tutorials/android-tutorials/android-game-tutorials/
+  16. http://www.javacodegeeks.com/tutorials/scala-tutorials/
+  17. http://www.javacodegeeks.com/tutorials/devops-tutorials/
+  18. http://www.javacodegeeks.com/join-us/
+  19. http://www.javacodegeeks.com/join-us/jcg/
+  20. http://www.javacodegeeks.com/join-us/w4g/
+  21. http://www.javacodegeeks.com/join-us/w4g/submission-guidelines/
+  22. http://www.javacodegeeks.com/join-us/w4g/terms-conditions/
+  23. http://www.javacodegeeks.com/about/
+  24. http://www.javacodegeeks.com/about/about-jcgs/
+  25. http://www.javacodegeeks.com/about/advertising/
+  26. http://www.javacodegeeks.com/about/terms-of-use/
+  27. http://www.javacodegeeks.com/about/privacy-policy/
+  28. http://www.javacodegeeks.com/resources/
+  29. http://www.javacodegeeks.com/resources/software/
+  30. http://www.javacodegeeks.com/resources/our-projects/
+  31. http://examples.javacodegeeks.com/
+  32. http://jobs.javacodegeeks.com/
+  33. http://www.javacodegeeks.com/whitepapers/
+  34. http://academy.javacodegeeks.com/
+  35. http://www.javacodegeeks.com/
+  36. http://www.javacodegeeks.com/java/
+  37. http://www.javacodegeeks.com/java/core-java/
+  38. http://www.javacodegeeks.com/java/enterprise-java/
+  39. http://www.javacodegeeks.com/java/desktop-java/
+  40. http://www.javacodegeeks.com/android/
+  41. http://www.javacodegeeks.com/android/android-core/
+  42. http://www.javacodegeeks.com/android/android-games/
+  43. http://www.javacodegeeks.com/jvm-languages/
+  44. http://www.javacodegeeks.com/jvm-languages/jruby/
+  45. http://www.javacodegeeks.com/jvm-languages/ceylon/
+  46. http://www.javacodegeeks.com/jvm-languages/scala/
+  47. http://www.javacodegeeks.com/jvm-languages/groovy/
+  48. http://www.javacodegeeks.com/jvm-languages/clojure/
+  49. http://www.javacodegeeks.com/software-development/
+  50. http://www.javacodegeeks.com/agile/
+  51. http://www.javacodegeeks.com/devops/
+  52. http://www.javacodegeeks.com/communications/
+  53. http://www.javacodegeeks.com/career/
+  54. http://www.javacodegeeks.com/misc/
+  55. http://www.javacodegeeks.com/meta-jcg/
+  56. http://www.javacodegeeks.com/meta-jcg/best-of-the-week/
+  57. http://www.javacodegeeks.com/
+  58. http://www.javacodegeeks.com/career/
+  59. http://www.javacodegeeks.com/author/Dave-Fecak/
+  60. http://jobtipsforgeeks.com/
+  61. http://www.twitter.com/fecak
+  62. http://www.facebook.com/JobTipsForGeeks
+  63. http://www.linkedin.com/in/davefecak
+  64. https://plus.google.com/108075540009238662651?rel=author
+  65. http://www.javacodegeeks.com/author/Dave-Fecak/
+  66. http://www.javacodegeeks.com/career/
+  67. http://www.reddit.com/r/cscareerquestions/
+  68. http://linkedin.com/
+  69. http://en.wikipedia.org/wiki/Rolodex
+  70. http://github.com/
+  71. http://en.wikipedia.org/wiki/Trapper_Keeper
+  72. http://pages.github.com/
+  73. http://stackoverflow.com/
+  74. http://meetup.com/
+  75. http://jobtipsforgeeks.com/2013/10/10/helloworld/
+  76. http://www.javacodegeeks.com/jcg
+  77. http://jobtipsforgeeks.com/
+  78. http://N/A
+  79. http://www.javacodegeeks.com/2013/10/hello-world-what-every-cs-student-should-know-about-the-first-job.html/comment-page-1/#comment-8613
+  80. http://www.javacodegeeks.com/2013/10/hello-world-what-every-cs-student-should-know-about-the-first-job.html?utm_content=buffer41ae7&replytocom=8613#respond
+  81. http://www.javacodegeeks.com/2013/10/hello-world-what-every-cs-student-should-know-about-the-first-job.html?utm_content=buffer41ae7#respond
+  82. http://www.javacodegeeks.com/comment-subscriptions/?srp=18012&sra=s
+  83. http://www.javacodegeeks.com/join-us/jcg
+  84. http://www.javacodegeeks.com/join-us/w4g
+  85. http://feeds.feedburner.com/JobsJavaCodeGeeks
+  86. http://jobs.javacodegeeks.com/
+  87. http://jobs.javacodegeeks.com/job/backend-java-software-engineer-senior-job/
+  88. http://jobs.javacodegeeks.com/job/senior-java-software-developer-fin-tech-sf/
+  89. http://jobs.javacodegeeks.com/job/capit-perf-mgmt-specialist-optum-technology/
+  90. http://jobs.javacodegeeks.com/job/senior-software-developer-java-node-js-backend/
+  91. http://jobs.javacodegeeks.com/job/experienced-java-and-javascript-developer-required/
+  92. http://www.javacodegeeks.com/tag/akka/
+  93. http://www.javacodegeeks.com/tag/apache-camel/
+  94. http://www.javacodegeeks.com/tag/apache-hadoop/
+  95. http://www.javacodegeeks.com/tag/apache-maven/
+  96. http://www.javacodegeeks.com/tag/apache-tomcat/
+  97. http://www.javacodegeeks.com/tag/big-data/
+  98. http://www.javacodegeeks.com/tag/cloud/
+  99. http://www.javacodegeeks.com/tag/concurrency/
+ 100. http://www.javacodegeeks.com/tag/databases/
+ 101. http://www.javacodegeeks.com/tag/design-patterns/
+ 102. http://www.javacodegeeks.com/tag/eclipse/
+ 103. http://www.javacodegeeks.com/tag/git/
+ 104. http://www.javacodegeeks.com/tag/google-guava/
+ 105. http://www.javacodegeeks.com/tag/gradle/
+ 106. http://www.javacodegeeks.com/tag/grails/
+ 107. http://www.javacodegeeks.com/tag/ide/
+ 108. http://www.javacodegeeks.com/tag/java-7/
+ 109. http://www.javacodegeeks.com/tag/java-8/
+ 110. http://www.javacodegeeks.com/tag/java-ee6/
+ 111. http://www.javacodegeeks.com/tag/javafx/
+ 112. http://www.javacodegeeks.com/tag/jaxb/
+ 113. http://www.javacodegeeks.com/tag/jboss-hibernate/
+ 114. http://www.javacodegeeks.com/tag/jms/
+ 115. http://www.javacodegeeks.com/tag/jpa/
+ 116. http://www.javacodegeeks.com/tag/jsf/
+ 117. http://www.javacodegeeks.com/tag/json/
+ 118. http://www.javacodegeeks.com/tag/junit/
+ 119. http://www.javacodegeeks.com/tag/jvm/
+ 120. http://www.javacodegeeks.com/tag/lambdas/
+ 121. http://www.javacodegeeks.com/tag/logging/
+ 122. http://www.javacodegeeks.com/tag/mongodb/
+ 123. http://www.javacodegeeks.com/tag/news/
+ 124. http://www.javacodegeeks.com/tag/nosql/
+ 125. http://www.javacodegeeks.com/tag/oracle-glassfish/
+ 126. http://www.javacodegeeks.com/tag/performance/
+ 127. http://www.javacodegeeks.com/tag/play-framework/
+ 128. http://www.javacodegeeks.com/tag/project-management/
+ 129. http://www.javacodegeeks.com/tag/restful-web-services/
+ 130. http://www.javacodegeeks.com/tag/security/
+ 131. http://www.javacodegeeks.com/tag/spring/
+ 132. http://www.javacodegeeks.com/tag/spring-data/
+ 133. http://www.javacodegeeks.com/tag/spring-mvc/
+ 134. http://www.javacodegeeks.com/tag/sql/
+ 135. http://www.javacodegeeks.com/tag/testing/
+ 136. http://www.javacodegeeks.com/tag/xml/
+ 137. http://academy.javacodegeeks.com/
+ 138. http://examples.javacodegeeks.com/
+ 139. http://www.javacodegeeks.com/p/resources.html
+ 140. http://www.javacodegeeks.com/tutorials/
+ 141. http://www.javacodegeeks.com/whitepapers/
+ 142. http://www.mkyong.com/
+ 143. http://www.javacodegeeks.com/
+ 144. http://www.dotnetcodegeeks.com/
+ 145. http://www.webcodegeeks.com/
+ 146. http://www.javacodegeeks.com/2010/10/android-full-application-tutorial.html
+ 147. http://www.javacodegeeks.com/2010/05/gwt-2-spring-3-jpa-2-hibernate-35-2.html
+ 148. http://www.javacodegeeks.com/2011/06/android-game-development-tutorials.html
+ 149. http://www.javacodegeeks.com/2011/02/android-google-maps-tutorial.html
+ 150. http://www.javacodegeeks.com/2010/09/android-location-based-services.html
+ 151. http://www.javacodegeeks.com/2011/07/funny-source-code-comments.html
+ 152. http://www.javacodegeeks.com/2010/08/java-best-practices-vector-arraylist.html
+ 153. http://www.javacodegeeks.com/2011/01/android-json-parsing-gson-tutorial.html
+ 154. http://www.javacodegeeks.com/2011/01/android-quick-preferences-tutorial.html
+ 155. http://www.javacodegeeks.com/
+ 156. http://www.exelixismedia.com/
+ 157. http://www.javacodegeeks.com/about/terms-of-use/
+ 158. http://www.javacodegeeks.com/about/privacy-policy/
+ 159. mailto:support@javacodegeeks.com
+ 160. http://www.javacodegeeks.com/
+ 161. http://www.javacodegeeks.com/
+ 162. http://www.javacodegeeks.com/2013/10/hello-world-what-every-cs-student-should-know-about-the-first-job.html?utm_content=buffer41ae7
+ 163. http://www.javacodegeeks.com/2013/10/hello-world-what-every-cs-student-should-know-about-the-first-job.html?utm_content=buffer41ae7
+ 164. http://www.javacodegeeks.com/2013/10/hello-world-what-every-cs-student-should-know-about-the-first-job.html?utm_content=buffer41ae7
+ 165. http://www.javacodegeeks.com/2013/10/hello-world-what-every-cs-student-should-know-about-the-first-job.html?utm_content=buffer41ae7
+ 166. http://www.javacodegeeks.com/2013/10/hello-world-what-every-cs-student-should-know-about-the-first-job.html?utm_content=buffer41ae7
+
+   Hidden links:
+ 168. http://feeds.feedburner.com/JavaCodeGeeks
+ 169. http://feedburner.google.com/fb/a/mailverify?uri=JavaCodeGeeks&loc=en_US
+ 170. http://eepurl.com/xRlkj
+ 171. http://twitter.com/javacodegeeks
+ 172. http://www.facebook.com/javacodegeeks
+ 173. http://www.linkedin.com/groups/Java-Code-Geeks-3810709
+ 174. https://plus.google.com/+JavaCodeGeeks
+ 175. http://www.facebook.com/sharer.php?u=http://www.javacodegeeks.com/2013/10/hello-world-what-every-cs-student-should-know-about-the-first-job.html&t=Hello%20World!%20What%20Every%20CS%20Student%20Should%20Know%20About%20the%20First%20Job
+ 176. http://twitter.com/home?status=Hello%20World!%20What%20Every%20CS%20Student%20Should%20Know%20About%20the%20First%20Job%20-%20http://www.javacodegeeks.com/2013/10/hello-world-what-every-cs-student-should-know-about-the-first-job.html
+ 177. https://plus.google.com/share?url=http://www.javacodegeeks.com/2013/10/hello-world-what-every-cs-student-should-know-about-the-first-job.html
+ 178. http://del.icio.us/post?url=http://www.javacodegeeks.com/2013/10/hello-world-what-every-cs-student-should-know-about-the-first-job.html&title=Hello%20World!%20What%20Every%20CS%20Student%20Should%20Know%20About%20the%20First%20Job
+ 179. http://www.stumbleupon.com/submit?url=http://www.javacodegeeks.com/2013/10/hello-world-what-every-cs-student-should-know-about-the-first-job.html&title=Hello%20World!%20What%20Every%20CS%20Student%20Should%20Know%20About%20the%20First%20Job
+ 180. http://www.linkedin.com/shareArticle?mini=true&url=http://www.javacodegeeks.com/2013/10/hello-world-what-every-cs-student-should-know-about-the-first-job.html&title=Hello%20World!%20What%20Every%20CS%20Student%20Should%20Know%20About%20the%20First%20Job&source=
+ 181. http://digg.com/submit?url=http://www.javacodegeeks.com/2013/10/hello-world-what-every-cs-student-should-know-about-the-first-job.html&title=Hello%20World!%20What%20Every%20CS%20Student%20Should%20Know%20About%20the%20First%20Job
+ 182. http://reddit.com/submit?url=http://www.javacodegeeks.com/2013/10/hello-world-what-every-cs-student-should-know-about-the-first-job.html&title=Hello%20World!%20What%20Every%20CS%20Student%20Should%20Know%20About%20the%20First%20Job
+ 183. mailto:?Subject=Hello%20World!%20What%20Every%20CS%20Student%20Should%20Know%20About%20the%20First%20Job&body=http://www.javacodegeeks.com/2013/10/hello-world-what-every-cs-student-should-know-about-the-first-job.html
+ 184. http://a3ab771892fd198a96736e50.javacodegeeks.netdna-cdn.com/wp-content/uploads/2013/06/JVM_Troubleshooting_Guide.pdf
+ 185. http://a3ab771892fd198a96736e50.javacodegeeks.netdna-cdn.com/wp-content/uploads/2013/06/JPA_Mini_Book.pdf

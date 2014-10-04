@@ -1,0 +1,903 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="js no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]-->
+<html lang="en-US" />
+<html xmlns="http://www.w3.org/1999/xhtml"  xml:lang="en" lang="en"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>
+TED-Ed Blog&raquo; Blog Archive
+ &raquo; Is it actually ironic? 3 TED-Ed Lessons on irony</title>
+<link rel="icon" href="http://blog.ed.ted.com/wordpress/wp-content/themes/ted-education/images/fav.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://blog.ed.ted.com/wordpress/wp-content/themes/ted-education/images/fav.ico" />
+<link rel="alternate" type="application/rss+xml" title="TED-Ed Blog RSS Feed" href="http://blog.ed.ted.com/feed/" />
+<link rel="pingback" href="http://blog.ed.ted.com/wordpress/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="TED-Ed Blog &raquo; Feed" href="http://blog.ed.ted.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TED-Ed Blog &raquo; Comments Feed" href="http://blog.ed.ted.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TED-Ed Blog &raquo; Is it actually ironic? 3 TED-Ed Lessons on irony Comments Feed" href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/feed/" />
+<link rel='stylesheet' id='jetpack-subscriptions-css'  href='http://blog.ed.ted.com/wordpress/wp-content/plugins/jetpack/modules/subscriptions/subscriptions.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-widgets-css'  href='http://blog.ed.ted.com/wordpress/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003' type='text/css' media='all' />
+<link rel='stylesheet' id='teded_style-css'  href='http://blog.ed.ted.com/wordpress/wp-content/themes/ted-education/style.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='sharedaddy-css'  href='http://blog.ed.ted.com/wordpress/wp-content/plugins/jetpack/modules/sharedaddy/sharing.css?ver=2.9.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://blog.ed.ted.com/wordpress/wp-includes/js/comment-reply.min.js?ver=3.6'></script>
+<script type='text/javascript' src='http://blog.ed.ted.com/wordpress/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://blog.ed.ted.com/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blog.ed.ted.com/wordpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blog.ed.ted.com/wordpress/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='4 TED-Ed Lessons to watch on Constitution Day' href='http://blog.ed.ted.com/2014/09/16/4-ted-ed-lessons-to-watch-on-constitution-day/' />
+<link rel='next' title='From 3D Printing to endangered sharks: 5 must-see TED-Ed Club videos' href='http://blog.ed.ted.com/2014/09/19/from-3d-printing-to-endangered-sharks-5-must-see-ted-ed-club-videos/' />
+<meta name="generator" content="WordPress 3.6" />
+<link rel='canonical' href='http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/' />
+<link rel='shortlink' href='http://wp.me/p4ewUQ-15r' />
+<style type='text/css'>img#wpstats{display:none}</style>
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Is it actually ironic? 3 TED-Ed Lessons on irony" />
+<meta property="og:url" content="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/" />
+<meta property="og:description" content="How many times have you heard the phrase &quot;That&#039;s so ironic,&quot; and wondered, &quot;Wait ... is it?&quot; The term is used a lot in our cultural vocabulary and often incorrectly. In response to this confusion, ..." />
+<meta property="article:published_time" content="2014-09-18T19:42:23+00:00" />
+<meta property="article:modified_time" content="2014-09-18T19:42:47+00:00" />
+<meta property="article:author" content="http://blog.ed.ted.com/author/jessicateded/" />
+<meta property="og:site_name" content="TED-Ed Blog" />
+<meta property="og:image" content="http://blog.ed.ted.com/wordpress/wp-content/uploads/2014/09/Screen-Shot-2014-09-18-at-11.21.48-AM-copy.png" />
+<meta name="twitter:site" content="@jetpack" />
+<meta name="twitter:image:src" content="http://blog.ed.ted.com/wordpress/wp-content/uploads/2014/09/Screen-Shot-2014-09-18-at-11.21.48-AM-copy.png?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+</head>
+
+<body class="single single-post postid-4181 single-format-standard ted-ed">
+
+
+
+<div id="header">
+
+	  <noscript>
+	    <iframe src="http://ed.ted.com/blog_header?parent=http://blog.ed.ted.com/" frameborder="0" height="164" width="100%" scrolling="no"style="border:0; padding: 0; margin: 0;" ></iframe>
+	  </noscript>
+	</div>
+	<script>
+	  var iframe = document.createElement('iframe');
+	  iframe.src = "http://ed.ted.com/blog_header?parent=" + document.URL;
+	  iframe.frameborder = "0";
+	  iframe.height = "164";
+	  iframe.width = "100%";
+	  iframe.scrolling = "no";
+	  iframe.style.border = "0";
+	  iframe.style.padding = "0";
+	  iframe.style.margin = "0";
+	  document.getElementById('header').appendChild(iframe);
+	</script>
+	
+	</header>
+</div>
+<!--Chiusura del div Header -->
+
+<div id="container">
+<div id="sidebar">
+
+        <!-- Popular Posts -->
+        
+        <h3 >Subscribe to TED-Ed Blog</h3>
+        <ul>    
+				<li class="nobullet"><img class="icon2" src="http://blog.ed.ted.com/wordpress/wp-content/themes/ted-education/images/mail_16.png" alt="Subscribe!" width="16" height="16" /> <a href="http://feedburner.google.com/fb/a/mailverify?uri=tededucation&amp;loc=en_US" target="_blank">Subscribe by Email</a></li>
+                <li class="nobullet"><img class="icon2" src="http://blog.ed.ted.com/wordpress/wp-content/themes/ted-education/images/rss_16.png" alt="Subscribe!" width="16" height="16" /> <a href="http://blog.ed.ted.com/feed/">RSS Feed</a> </li>
+
+				<br><br>
+		        <h3 >Get Social with TED-Ed</h3>
+                <li class="nobullet"><a href="https://twitter.com/TED_Ed" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @TED_Ed</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></li>
+                <li class="nobullet">
+<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2Ftededucation&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:21px; margin: 6px 0 -6px;" allowTransparency="true"></iframe></li>
+				<li class="nobullet">
+					<a href="http://www.youtube.com/subscription_center?add_user_id=sooa4yRKGN_zEE8iknghZA&feature=creators_cornier-http%3A//s.ytimg.com/yt/img/creators_corner/Subscribe_to_my_videos/YT_Subscribe_123x19_red.png" target="_top"><img src="http://s.ytimg.com/yt/img/creators_corner/Subscribe_to_my_videos/YT_Subscribe_123x19_red.png" alt="Subscribe to TED-Ed on YouTube" style="margin: 2px 0 4px;"/></a><img src="http://www.youtube-nocookie.com/gen_204?feature=creators_cornier-http%3A//s.ytimg.com/yt/img/creators_corner/Subscribe_to_my_videos/YT_Subscribe_123x19_red.png" style="display: none;"/></li>
+        </ul>
+        				<h3>  Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://blog.ed.ted.com/2014/10/03/exploring-the-animal-kingdom-7-ted-ed-lessons-on-our-favorite-furry-and-not-so-furry-friends/" title="Exploring the animal kingdom: 7 TED-Ed Lessons on our favorite furry (and not-so-furry) friends">Exploring the animal kingdom: 7 TED-Ed Lessons on our favorite furry (and not-so-furry) friends</a>
+						</li>
+					<li>
+				<a href="http://blog.ed.ted.com/2014/10/02/the-power-of-storytelling-ted-speaker-drew-dudley-hosts-ted-ed-club-workshop/" title="The power of storytelling: TED Speaker Drew Dudley hosts TED-Ed Club workshop">The power of storytelling: TED Speaker Drew Dudley hosts TED-Ed Club workshop</a>
+						</li>
+					<li>
+				<a href="http://blog.ed.ted.com/2014/09/25/dig-numbers-a-reading-list-for-math-lovers/" title="Love numbers? A reading list for math enthusiasts">Love numbers? A reading list for math enthusiasts</a>
+						</li>
+					<li>
+				<a href="http://blog.ed.ted.com/2014/09/23/how-to-bring-tedxyouth-to-your-community/" title="How to bring TEDxYouth to your community">How to bring TEDxYouth to your community</a>
+						</li>
+					<li>
+				<a href="http://blog.ed.ted.com/2014/09/23/how-do-you-animate-a-thing-like-cosmic-rays-the-story-behind-a-tedxcern-ted-ed-lesson-2/" title="How do you animate a thing like cosmic rays? The story behind a TEDxCERN TED-Ed lesson">How do you animate a thing like cosmic rays? The story behind a TEDxCERN TED-Ed lesson</a>
+						</li>
+				</ul>
+		<h3>  Categories</h3>		<ul>
+	<li class="cat-item cat-item-11"><a href="http://blog.ed.ted.com/category/archive/" title="View all posts filed under Archive">Archive</a>
+</li>
+	<li class="cat-item cat-item-61"><a href="http://blog.ed.ted.com/category/clubs/" title="View all posts filed under Clubs">Clubs</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="http://blog.ed.ted.com/category/education/" title="View all posts filed under Education">Education</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="http://blog.ed.ted.com/category/general/" title="View all posts filed under General">General</a>
+</li>
+	<li class="cat-item cat-item-33"><a href="http://blog.ed.ted.com/category/interview-meet-the-animator/" title="View all posts filed under Interview-Meet the Animator">Interview-Meet the Animator</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://blog.ed.ted.com/category/interview-meet-the-educator/" title="View all posts filed under Interview-Meet the Educator">Interview-Meet the Educator</a>
+</li>
+	<li class="cat-item cat-item-35"><a href="http://blog.ed.ted.com/category/just-one-more-thing/" title="View all posts filed under Just one more thing">Just one more thing</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="http://blog.ed.ted.com/category/list/" title="View all posts filed under List">List</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="http://blog.ed.ted.com/category/production-photos/" title="View all posts filed under Production Photos">Production Photos</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="http://blog.ed.ted.com/category/programs/" title="View all posts filed under Programs">Programs</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="http://blog.ed.ted.com/category/science/" title="View all posts filed under Science">Science</a>
+</li>
+	<li class="cat-item cat-item-64"><a href="http://blog.ed.ted.com/category/ted-ed-club-facilitators-in-the-field/" title="View all posts filed under TED-ED Club Facilitators in the Field">TED-ED Club Facilitators in the Field</a>
+</li>
+	<li class="cat-item cat-item-62"><a href="http://blog.ed.ted.com/category/the-long-and-short-of-it/" title="View all posts filed under The long and short of it">The long and short of it</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://blog.ed.ted.com/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a>
+</li>
+		</ul>
+
+</div>
+
+<div id="content">
+						<div id="post">
+				<h1 > <a class="corner" href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/" rel="bookmark" title="Permanent Link to Is it actually ironic? 3 TED-Ed Lessons on irony">
+						Is it actually ironic? 3 TED-Ed Lessons on irony						</a> </h1>
+				<div class="edit">
+						<ul>
+
+								<li>	18										September,
+										2014										// </li>
+								<li>
+										<a href="http://blog.ed.ted.com/category/education/" title="View all posts in Education" rel="category tag">Education</a>, <a href="http://blog.ed.ted.com/category/general/" title="View all posts in General" rel="category tag">General</a>, <a href="http://blog.ed.ted.com/category/list/" title="View all posts in List" rel="category tag">List</a>								//</li>
+								<li>Posted By
+												Jessica Ruby								</li>
+																<li class="com_left">
+										<a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comments" title="Comment on Is it actually ironic? 3 TED-Ed Lessons on irony">35 Comments</a>								</li>
+						</ul>
+				</div>
+				<p><img class="alignnone size-large wp-image-4209" alt="Screen Shot 2014-09-18 at 11.21.48 AM copy" src="http://blog.ed.ted.com/wordpress/wp-content/uploads/2014/09/Screen-Shot-2014-09-18-at-11.21.48-AM-copy-575x322.png" width="575" height="322" /></p>
+<p>How many times have you heard the phrase &#8220;That&#8217;s so ironic,&#8221; and wondered, &#8220;Wait &#8230; is it?&#8221; The term is used a lot in our cultural vocabulary and often incorrectly. In response to this confusion, TED-Ed Educator Christopher Warner wanted to set the record straight: What is irony? How is it used in everyday language or as a dramatic device? Is rain on your wedding day truly ironic? And why is irony so prevalent and useful? Focusing on three types of irony (situational, dramatic, verbal), Christopher Warner pieces together what is truly ironic.</p>
+<p><span id="more-4181"></span></p>
+<p><a href="http://ed.ted.com/lessons/situational-irony-the-opposite-of-what-you-think-christopher-warner">Situational irony: The opposite of what you think</a></p>
+<p>Let&#8217;s begin with the basics: Something is ironic if and only if it is the exact opposite of what you would expect.</p>
+<p><iframe src="//www.youtube.com/embed/tqg6RO8c_W0" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></p>
+<p><a href="http://ed.ted.com/lessons/in-on-a-secret-that-s-dramatic-irony-christopher-warner">In on a secret? That’s dramatic irony </a></p>
+<p>You’re in a movie theater, watching the new horror flick. The audience knows something that the main character does not. The audience sees the character&#8217;s actions are not in his best interest. What&#8217;s that feeling &#8212; the one that makes you want to shout at the screen? This widely used storytelling device is dramatic irony.</p>
+<p><iframe src="//www.youtube.com/embed/RZFYuX84n1U" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></p>
+<p><a href="http://ed.ted.com/lessons/what-is-verbal-irony-christopher-warner">What is verbal irony?</a></p>
+<p>At face value, the lines between verbal irony, sarcasm, and compliments can be blurry. After all, the phrase &#8216;That looks nice&#8217; could be all three depending on the circumstances. Verbal irony is used most often and most casually.</p>
+<p><iframe src="//www.youtube.com/embed/IiR-bnCHIYo" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" class="share-facebook sd-button share-icon" href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?share=facebook" title="Share on Facebook" id="sharing-facebook-4181"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow" class="share-twitter sd-button share-icon" href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?share=twitter" title="Click to share on Twitter" id="sharing-twitter-4181"><span>Twitter</span></a></li><li class="share-email"><a rel="nofollow" class="share-email sd-button share-icon" href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?share=email" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul></div></div></div>		</div>
+
+	  
+		 
+<!-- You can start editing here. -->
+<h3 class="fpost">35 Responses to &#8220;Is it actually ironic? 3 TED-Ed Lessons on irony&#8221;</h3>
+
+ 
+	<div class="navigation">
+		<div class="alignleft"></div>
+		<div class="alignright"></div>
+	</div>
+ 
+	<ol class="commentlist">
+				<li class="comment even thread-even depth-1 parent" id="comment-321745">
+				<div id="div-comment-321745" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/d88ac1374de4fdb119550254e5cb9f83?s=48&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn"><a href='http://parentsconnectes.com' rel='external nofollow' class='url'>Blandine</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-321745">
+			September 19, 2014 at 7:26 am</a>		</div>
+
+		<p>Excellent. The 3rd video is perfect to explain how parents, teachers etc&#8230; should absolutely not talk with children. The sarcasm is a verbal violence that we must just take out from our langage.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=321745#respond' onclick='return addComment.moveForm("div-comment-321745", "321745", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-2 parent" id="comment-323958">
+				<div id="div-comment-323958" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/6ca7eeaf667901ca5790668c76544539?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Isabel D.</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-323958">
+			September 19, 2014 at 6:47 pm</a>		</div>
+
+		<p>I agree with you, but partly. It is true that using irony when talking to kids is not a very good idea, since they do not own the ability to understand it and it may be misunderstood. But when we are referring to adults or even some mature teenagers, it is a little bit different. </p>
+<p>Sarcasm might be aggressive, yes. Nevertheless, we can decide how much attitude we want to leave behind it. Devices such as sarcasm make our language richer. That is my point of view.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=323958#respond' onclick='return addComment.moveForm("div-comment-323958", "323958", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-3 parent" id="comment-324722">
+				<div id="div-comment-324722" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/00faefcd51f17bf885cfc6eea7017792?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Kim Hatfield</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-324722">
+			September 20, 2014 at 2:21 am</a>		</div>
+
+		<p>I disagree.  Kids do understand irony and sarcasm. I now teach Pre-K, but even when I taught two and three year olds, they exhibited irony at times. In a lesson on animals, I explained that people are animals too. One of the children rolled his eyes and said, &#8220;Yeah, I&#8217;m a pig!&#8221;. The others gleefully joined in with &#8220;I&#8217;m a horse!&#8221;, &#8220;I&#8217;m a dog!&#8221;etc. I certainly would never use it to mock a child, but they can be more aware and attuned to adults&#8217; speech than you would assume.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=324722#respond' onclick='return addComment.moveForm("div-comment-324722", "324722", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-4" id="comment-332269">
+				<div id="div-comment-332269" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/6ca7eeaf667901ca5790668c76544539?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Isabel D.</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-332269">
+			September 21, 2014 at 7:48 am</a>		</div>
+
+		<p>Well, I definitely made a mistake by saying kids do not understand it. You have a point there, but I did not want to mean exactly that. Kids are able to understand what irony is and know how to use it in their own situations and relations with others. However, what I really meant was that sometimes adults use a very subtle irony, which MAY be difficult to notice for a kid. I think they need to be talked clearly since we are trying to teach them everyday and every moment.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=332269#respond' onclick='return addComment.moveForm("div-comment-332269", "332269", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment even depth-3" id="comment-339697">
+				<div id="div-comment-339697" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/4bfa6e9dad046d6c632b8535050555bc?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Susan</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-339697">
+			September 22, 2014 at 2:20 pm</a>		</div>
+
+		<p>I completely disagree that children don&#8217;t have the ability to understand irony and sarcasm.  When my daughter was as young as two years old, she understood it when she heard it, found it funny, and used it herself&#8230; appropriately, I might add.  However, I have a sister-in-law, who&#8217;s a few years older than I am, that can&#8217;t recognize it that easily.  So, that leads me to believe it&#8217;s a personality/sense of humor thing and has nothing at all to do with how old someone is.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=339697#respond' onclick='return addComment.moveForm("div-comment-339697", "339697", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt depth-2 parent" id="comment-328152">
+				<div id="div-comment-328152" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/d616965cf610a6445a11a7c8aae92143?s=48&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Bruce Mount</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-328152">
+			September 20, 2014 at 12:41 pm</a>		</div>
+
+		<p>I find sarcasm hilarious, especially among good friends.  I guess the environment in which we grow up shapes whether we think of it as &#8220;verbal violence&#8221; or &#8220;poking fun&#8221;, as the video describes it.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=328152#respond' onclick='return addComment.moveForm("div-comment-328152", "328152", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-3" id="comment-333539">
+				<div id="div-comment-333539" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/530a8fc1d90ef4eb40ffed922b6e42e5?s=48&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn"><a href='http://www.patdeadman.com' rel='external nofollow' class='url'>Chris Winston</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-333539">
+			September 21, 2014 at 3:29 pm</a>		</div>
+
+		<p>Sarcasm has it&#8217;s limits.  I find it to be an excuse for some that don&#8217;t have an intelligent comment so throw out what THEY think is funny.  It gets very old.</p>
+<p>Then, there&#8217;s the good friend that you know LOVES you and NEVER wants to hurt you, especially with words.</p>
+<p>Example:  I have a garden that is in terrible shape due to neglect and wind and laziness on my part.  My friend was in town and hadn&#8217;t seen our home before and wandered outside and came back from the &#8220;garden&#8221; area.  </p>
+<p>I said, &#8220;Oh, did you see the garden?&#8221;  She replied &#8220;THRIVING!!!!!!!&#8221;</p>
+<p>It was hilarious because it was true and it DOES look terrible.</p>
+<p>Just my thoughts&#8230;..</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=333539#respond' onclick='return addComment.moveForm("div-comment-333539", "333539", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt depth-2" id="comment-328886">
+				<div id="div-comment-328886" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/c39289cbe43ae8563f70928602ced6dd?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">John Stringer</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-328886">
+			September 20, 2014 at 3:23 pm</a>		</div>
+
+		<p><em>You&#8217;re absolutely right.</em> But why stop with just sarcasm? We could ban books with words we don&#8217;t like and require tape to cover the mouths of anyone whose opinions differ with our own! </p>
+<p>Sorry. Just testing out my newfound knowledge.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=328886#respond' onclick='return addComment.moveForm("div-comment-328886", "328886", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1 parent" id="comment-323669">
+				<div id="div-comment-323669" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/c31db0c940d1f4fafa6215be3cccade1?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Amanda Niello</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-323669">
+			September 19, 2014 at 5:02 pm</a>		</div>
+
+		<p>This is great! There should be a TED-ED video for the overused word &#8220;literally&#8221;.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=323669#respond' onclick='return addComment.moveForm("div-comment-323669", "323669", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-2" id="comment-324230">
+				<div id="div-comment-324230" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/ccdaad1f50b2bcf86b25a6f45c6775c2?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Nicole</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-324230">
+			September 19, 2014 at 8:55 pm</a>		</div>
+
+		<p>Absolutely!</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=324230#respond' onclick='return addComment.moveForm("div-comment-324230", "324230", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even depth-2" id="comment-324336">
+				<div id="div-comment-324336" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/4348465b0980ba1b9ad540a219b800eb?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Christine</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-324336">
+			September 19, 2014 at 10:04 pm</a>		</div>
+
+		<p>I was literally thinking the same thing.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=324336#respond' onclick='return addComment.moveForm("div-comment-324336", "324336", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt depth-2" id="comment-324478">
+				<div id="div-comment-324478" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/0e983a229b99a6fb7bc2af95966d031d?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">miw</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-324478">
+			September 19, 2014 at 11:35 pm</a>		</div>
+
+		<p>Literally this.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=324478#respond' onclick='return addComment.moveForm("div-comment-324478", "324478", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even depth-2" id="comment-324637">
+				<div id="div-comment-324637" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/025dd0a695c531acc0b45d6f391e320f?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Eric</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-324637">
+			September 20, 2014 at 1:12 am</a>		</div>
+
+		<p>You&#8217;re welcome: <a href="http://m.youtube.com/watch?v=TZBn8-UUQeI" rel="nofollow">http://m.youtube.com/watch?v=TZBn8-UUQeI</a></p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=324637#respond' onclick='return addComment.moveForm("div-comment-324637", "324637", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt depth-2" id="comment-328247">
+				<div id="div-comment-328247" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/a680db88ca4cce3988e7beb4d6847500?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Karen</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-328247">
+			September 20, 2014 at 1:01 pm</a>		</div>
+
+		<p>The overuse of &#8220;literally&#8221; was just explained &#8211; it&#8217;s a widespread use of verbal irony.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=328247#respond' onclick='return addComment.moveForm("div-comment-328247", "328247", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even depth-2" id="comment-329072">
+				<div id="div-comment-329072" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/1db3a29fd3d830ef2ab1ab3f62b05ad0?s=48&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">David</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-329072">
+			September 20, 2014 at 4:10 pm</a>		</div>
+
+		<p>I agree. You literally ready my mind.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=329072#respond' onclick='return addComment.moveForm("div-comment-329072", "329072", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt depth-2" id="comment-329140">
+				<div id="div-comment-329140" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/b56e0844ff8747b0735b34c491114914?s=48&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Tiffany H</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-329140">
+			September 20, 2014 at 4:28 pm</a>		</div>
+
+		<p>Literally.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=329140#respond' onclick='return addComment.moveForm("div-comment-329140", "329140", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even depth-2" id="comment-329325">
+				<div id="div-comment-329325" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/b2e480427348b98c4eb303f26599793b?s=48&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">saz</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-329325">
+			September 20, 2014 at 5:22 pm</a>		</div>
+
+		<p>literally</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=329325#respond' onclick='return addComment.moveForm("div-comment-329325", "329325", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt depth-2" id="comment-330206">
+				<div id="div-comment-330206" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/3918f3edd973143d70e47831b58d9139?s=48&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Sharon</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-330206">
+			September 20, 2014 at 9:56 pm</a>		</div>
+
+		<p>That is literally the best idea I&#8217;ve heard all day</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=330206#respond' onclick='return addComment.moveForm("div-comment-330206", "330206", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even depth-2" id="comment-332852">
+				<div id="div-comment-332852" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/98a7571647e212eaa5025d44c25667a9?s=48&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Jordan</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-332852">
+			September 21, 2014 at 11:06 am</a>		</div>
+
+		<p>I literally died of laughter when I read your comment &#8230;</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=332852#respond' onclick='return addComment.moveForm("div-comment-332852", "332852", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt thread-even depth-1 parent" id="comment-323742">
+				<div id="div-comment-323742" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/42acd01edb6aa1ecfe222621ac46bce2?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">brent geppert</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-323742">
+			September 19, 2014 at 5:29 pm</a>		</div>
+
+		<p>is it ironic that TED is using kids cartoons to describe figures of speech to adults?  <img src='http://blog.ed.ted.com/wordpress/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=323742#respond' onclick='return addComment.moveForm("div-comment-323742", "323742", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-2" id="comment-324125">
+				<div id="div-comment-324125" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/82ff2a245f1398a0765d29d1c2086e59?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Artur Crisóstomo</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-324125">
+			September 19, 2014 at 8:06 pm</a>		</div>
+
+		<p>Yes, that should be situational irony. <img src='http://blog.ed.ted.com/wordpress/wp-includes/images/smilies/icon_wink.gif' alt=';)' class='wp-smiley' /> </p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=324125#respond' onclick='return addComment.moveForm("div-comment-324125", "324125", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1 parent" id="comment-323795">
+				<div id="div-comment-323795" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/8835f330c5ee500ff6422b01057dd556?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Kevin J</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-323795">
+			September 19, 2014 at 5:44 pm</a>		</div>
+
+		<p>It&#8217;s ironic that your patient attempt to put people straight on the definition of &#8216;ironic&#8217; is misconceived and will in all likelyhood make people misunderstand the true meaning of &#8216;ironic&#8217;.</p>
+<p>A fundamental element of irony is that there must be an intent which is confounded, despite considerable effort being made to achieve the opposite result.</p>
+<p>In the &#8216;cakewalk&#8217; example, despite the chap&#8217;s cake-walking qualifications there would still these would only neutralise the expectation of a fall, not  make it &#8216;the opposite&#8217; of expectation.  Therefore, even by your own definition, the fall and mess would not be ironic.</p>
+<p>Now, had he insisted on helpers, training and a health and safety assessment, then slipped on the H&amp;S forms, THAT would have been ironic.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=323795#respond' onclick='return addComment.moveForm("div-comment-323795", "323795", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-2" id="comment-332363">
+				<div id="div-comment-332363" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/b1525b8f29baa3274443fc2eef2c65c8?s=48&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Lisa</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-332363">
+			September 21, 2014 at 8:10 am</a>		</div>
+
+		<p>Thank you! Somebody understands irony. The videos are a well meaning but Failed attempt at explaining irony.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=332363#respond' onclick='return addComment.moveForm("div-comment-332363", "332363", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt thread-even depth-1 parent" id="comment-323814">
+				<div id="div-comment-323814" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/e69cac7b1a37473c9d564e8a8b3710ba?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Scholes</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-323814">
+			September 19, 2014 at 5:48 pm</a>		</div>
+
+		<p>How would you classify the following? Please ignore the erroneous attribution.</p>
+<p>A post promoting serenity and positivity cites Virginia Woolf saying &#8220;there is no problem which a hot bath would not fix!&#8221;<br />
+Isn&#8217;t it multiply ironic given the fact that Virginia Woolf drowned herself?</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=323814#respond' onclick='return addComment.moveForm("div-comment-323814", "323814", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-2" id="comment-324721">
+				<div id="div-comment-324721" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/926dd1e6906f4b41d15638666d9f48cc?s=48&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">tartar</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-324721">
+			September 20, 2014 at 2:21 am</a>		</div>
+
+		<p>Absolutely, its always after the fact when something is found.  It happens with all the great ones; Twain, Poe, and that&#8217;s only mentionable few.  Its hard to write in irony as a display of true irony, it is the readers that catch it inadvertently. And then, come to find out, its just a coincidence that&#8217;s a paradox; one of those things that is true, yet so mysterious that it cannot be explained.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=324721#respond' onclick='return addComment.moveForm("div-comment-324721", "324721", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1 parent" id="comment-323851">
+				<div id="div-comment-323851" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/005f20f71264115a1646d29ce3a05fd4?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Ian</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-323851">
+			September 19, 2014 at 6:02 pm</a>		</div>
+
+		<p>Wrong, wrong, wrong.</p>
+<p>Opposites, contrariness and sarcasm the traits of Hollywood comedies that just aren&#8217;t funny. This is not irony.</p>
+<p>Imagine your son was scared of flying. He had to travel several hundred miles to get to university, so he took the train to avoid being killed in an aeroplane crash. He was killed when an aeroplane fell out of the sky and hit his train. That&#8217;s irony.</p>
+<p>I suggest you watch Blackadder and get a master class on Irony, sarcasm and contrariness.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=323851#respond' onclick='return addComment.moveForm("div-comment-323851", "323851", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-2 parent" id="comment-323910">
+				<div id="div-comment-323910" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/42acd01edb6aa1ecfe222621ac46bce2?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">brent geppert</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-323910">
+			September 19, 2014 at 6:24 pm</a>		</div>
+
+		<p>Ok that makes sense.  I have a question though: does the plane have to hit the train in order for it to be irony?  Wouldn&#8217;t it still be ironic that he took the train thinking it safer than flying only to later die in a train wreck?  Maybe what you&#8217;re describing is double irony?</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=323910#respond' onclick='return addComment.moveForm("div-comment-323910", "323910", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-3" id="comment-330888">
+				<div id="div-comment-330888" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/1efbc132488a61fe29672cf146985db2?s=48&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn"><a href='http://www.smcgregor.com' rel='external nofollow' class='url'>Scott McGregor</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-330888">
+			September 21, 2014 at 2:20 am</a>		</div>
+
+		<p>Consider this treatment for a screenplay:  Your son gets on the train.  There&#8217;s a freezing rain ice storm going on.  They are de-icing planes at the airport, but the weather is so bad most pilots aren&#8217;t willing to fly.  One seemingly over confident hotdog pilot decides to take off anyway.  He&#8217;s flying the plane that is going to the city where your son is going to school &#8212; indeed this would be the flight your son would be on, if your son weren&#8217;t afraid of flying.  </p>
+<p>The train is now on its way, and your son looks at the horrible weather and is congratulating himself that he didn&#8217;t take a risk on flying under these conditions.   </p>
+<p>The pilot takes off.  There is ice on the wings, and he&#8217;s having problems gaining altitude and maintaining control.   Several times the plane seems to be diving uncontrollably and passengers are looking terrified.   The plan passes the train, just a few feet overhead, traveling  right along the train tracks, struggling to gain altitude.   The pilot watches as his directional instruments and compass seem to be frozen as well.  So he starts following the train tracks to stay on course.   What else can go wrong?!</p>
+<p>We see a crack developing along one wing.  Suddenly, we hear a snap, and we watch as the huge piece falls off the plane and tumbles toward the ground.  </p>
+<p>But it turns out it is just a piece of the ice.  The slab of ice hurtles to the ground, and the plane, now free from the extra weight starts climbing.  The instruments start working, and the pilot is able to climb above the clouds and get to the destination airport on time.   The plane and passengers now seem safe.  Disaster averted!</p>
+<p>But that slab of ice falls on a railroad switch.  It hits the switch just  a few moments before the train, still moving at top speed gets there.  The switch diverts the train off the main track onto a short unmaintained siding.  There is no time at that speed for the engineer to react, and the train runs off the end of the end of the siding, over a river embankment and then into a rapid river with chunks of ice floating by.  The river is deep, the current swift, and everyone aboard, including your son dies.  </p>
+<p>When the pilot  gets to his destination, he stops in the airport bar, and watches the news, while he he checks his voice mail. The first message  is from his wife telling him, that she is sorry but because of the weather she couldn&#8217;t get to the airport before he left and didn&#8217;t get to give him a goodbye kiss  on their anniversary.  So, as a surprise, she is going to take the train and meet him in the destination city for a surprise second honeymoon celebration. She&#8217;s even booked the same room they celebrated their original honeymoon in and she will meet him there.   </p>
+<p>While he is listening to this message, the TV News is reporting on the train wreck. And he is in shock.  As the first message ends,  the phone says there is a 2nd message, this time from his daughter, and he&#8217;s dreading that she called to tell him that his wife&#8217;s body has been found.   </p>
+<p>But it is not,  his daughter is calling to say that Mom missed the train, so she is driving.   </p>
+<p>That&#8217;s situational irony,  and it&#8217;s dramatic, but is it dramatic irony?   Since the audience didn&#8217;t know what was going to happen, probably not&#8230;</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=330888#respond' onclick='return addComment.moveForm("div-comment-330888", "330888", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1 parent" id="comment-323964">
+				<div id="div-comment-323964" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/4e67871bd20f041c0e9405fd38ad0b19?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Gustavo</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-323964">
+			September 19, 2014 at 6:50 pm</a>		</div>
+
+		<p>I think the third video misses out on two other types of verbal irony, namely hyperbole and understatement. They are also considered irony, as what is said is not exactly what is meant, but it&#8217;s not exactly the opposite either.</p>
+<p>Two examples: &#8220;I have told you a million times already&#8221; would be hyperbole and &#8220;We&#8217;re in a little bit of trouble&#8221; when there&#8217;s actually a big trouble would be understatement.</p>
+<p>Does someone else have more details on this?</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=323964#respond' onclick='return addComment.moveForm("div-comment-323964", "323964", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-2" id="comment-324139">
+				<div id="div-comment-324139" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/82ff2a245f1398a0765d29d1c2086e59?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Artur Crisóstomo</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-324139">
+			September 19, 2014 at 8:14 pm</a>		</div>
+
+		<p>I think it is disputable if hyperbole and understatement are a form of irony. For me, they&#8217;re not, even though they are contrasting with reality.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=324139#respond' onclick='return addComment.moveForm("div-comment-324139", "324139", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-327118">
+				<div id="div-comment-327118" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/26e7ec1ddb5b88361ca30e2800d74552?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Xenia</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-327118">
+			September 20, 2014 at 8:50 am</a>		</div>
+
+		<p>The term irony has its roots in the Greek comic character Eiron, a clever underdog who by his wit repeatedly triumphs over the boastful character Alazon. The Socratic irony of the Platonic dialogues derives from this comic origin.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=327118#respond' onclick='return addComment.moveForm("div-comment-327118", "327118", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt thread-even depth-1" id="comment-327189">
+				<div id="div-comment-327189" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/fe6d86429978690d78e7b7936af6719a?s=48&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Bambi Planet</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-327189">
+			September 20, 2014 at 9:04 am</a>		</div>
+
+		<p>What about post-irony?</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=327189#respond' onclick='return addComment.moveForm("div-comment-327189", "327189", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-327530">
+				<div id="div-comment-327530" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/4524b3818ee28653edfb961f10bf9344?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Ironman</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-327530">
+			September 20, 2014 at 10:23 am</a>		</div>
+
+		<p>Brilliant!</p>
+<p>What this fails to grasp is that only north Americans have problems understanding irony or sarcasm.</p>
+<p>The same nation(s) that have military bases all over the world, and yet the worst fundamental grasp of geography amongst first world states.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=327530#respond' onclick='return addComment.moveForm("div-comment-327530", "327530", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt thread-even depth-1" id="comment-334903">
+				<div id="div-comment-334903" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/2c21d23f18fd1d0755207995413e889d?s=48&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Kahli</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-334903">
+			September 21, 2014 at 11:45 pm</a>		</div>
+
+		<p>I think the second example in the situational irony video is not ironic, but it is agesist.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=334903#respond' onclick='return addComment.moveForm("div-comment-334903", "334903", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-340044">
+				<div id="div-comment-340044" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/13361953a2156c5835954ceffc843b01?s=48&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Carl</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blog.ed.ted.com/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#comment-340044">
+			September 22, 2014 at 4:11 pm</a>		</div>
+
+		<p>The problem is that expectations vary among different people, so you can&#8217;t universally say one thing is or isn&#8217;t ironic. It may be ironic to you but not to someone else because you had different expectations. Using the cake example, you may expect that a character in a sitcom carrying a precarious cake would inevitably drop it in a dramatic moment because you&#8217;ve watched enough sitcoms that feature similar scenes. So it may be ironic to you if the character doesn&#8217;t actually drop the cake. For even more irony, you could have another character conspire to have the cake dropped by giving it to the clumsiest character in the show and then that person ironically isn&#8217;t clumsy when carrying the cake, in direct contrast with the conspiring character&#8217;s expectation.</p>
+
+		<div class="reply">
+			<a class='comment-reply-link' href='/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/?replytocom=340044#respond' onclick='return addComment.moveForm("div-comment-340044", "340044", "respond", "4181")'>Reply</a>		</div>
+				</div>
+		</li><!-- #comment-## -->
+	</ol>
+ 
+	<div class="navigation">
+		<div class="alignleft"></div>
+		<div class="alignright"></div>
+	</div>
+								<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://blog.ed.ted.com/wordpress/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes">Your email address will not be published. Required fields are marked <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">You may use these <abbr title="HyperText Markup Language">HTML</abbr> tags and attributes:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Post Comment" />
+							<input type='hidden' name='comment_post_ID' value='4181' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="1833a2020c" /></p><p class="comment-subscription-form"><input type="checkbox" name="subscribe_comments" id="subscribe_comments" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-label" for="subscribe_comments">Notify me of follow-up comments by email.</label></p><p class="comment-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog">Notify me of new posts by email.</label></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="197"/></p>					</form>
+							</div><!-- #respond -->
+								</div>
+</div>
+</div>
+<!--end container-->
+
+<!-- FOOTER  -->
+<footer id="footer" class="container">
+	<iframe frameborder="0" height="87" id="header" src="http://ed.ted.com/blog_footer" style="border:0; padding: 0; margin: 0;" width="100%" scrolling="no"></iframe>
+	
+	<li class="nobullet">
+			</li>
+
+  
+</footer>
+<!--Google Analytics From Dashboard-->
+	<div style="display:none">
+	<div class="grofile-hash-map-d88ac1374de4fdb119550254e5cb9f83">
+	</div>
+	<div class="grofile-hash-map-6ca7eeaf667901ca5790668c76544539">
+	</div>
+	<div class="grofile-hash-map-00faefcd51f17bf885cfc6eea7017792">
+	</div>
+	<div class="grofile-hash-map-4bfa6e9dad046d6c632b8535050555bc">
+	</div>
+	<div class="grofile-hash-map-d91171835fa99a0b2c154ff78c359d3c">
+	</div>
+	<div class="grofile-hash-map-530a8fc1d90ef4eb40ffed922b6e42e5">
+	</div>
+	<div class="grofile-hash-map-c39289cbe43ae8563f70928602ced6dd">
+	</div>
+	<div class="grofile-hash-map-c31db0c940d1f4fafa6215be3cccade1">
+	</div>
+	<div class="grofile-hash-map-ccdaad1f50b2bcf86b25a6f45c6775c2">
+	</div>
+	<div class="grofile-hash-map-4348465b0980ba1b9ad540a219b800eb">
+	</div>
+	<div class="grofile-hash-map-0e983a229b99a6fb7bc2af95966d031d">
+	</div>
+	<div class="grofile-hash-map-186e2496add12f9796155fd5d4abf03c">
+	</div>
+	<div class="grofile-hash-map-a680db88ca4cce3988e7beb4d6847500">
+	</div>
+	<div class="grofile-hash-map-1db3a29fd3d830ef2ab1ab3f62b05ad0">
+	</div>
+	<div class="grofile-hash-map-b56e0844ff8747b0735b34c491114914">
+	</div>
+	<div class="grofile-hash-map-b2e480427348b98c4eb303f26599793b">
+	</div>
+	<div class="grofile-hash-map-3918f3edd973143d70e47831b58d9139">
+	</div>
+	<div class="grofile-hash-map-98a7571647e212eaa5025d44c25667a9">
+	</div>
+	<div class="grofile-hash-map-42acd01edb6aa1ecfe222621ac46bce2">
+	</div>
+	<div class="grofile-hash-map-82ff2a245f1398a0765d29d1c2086e59">
+	</div>
+	<div class="grofile-hash-map-8835f330c5ee500ff6422b01057dd556">
+	</div>
+	<div class="grofile-hash-map-b1525b8f29baa3274443fc2eef2c65c8">
+	</div>
+	<div class="grofile-hash-map-e69cac7b1a37473c9d564e8a8b3710ba">
+	</div>
+	<div class="grofile-hash-map-926dd1e6906f4b41d15638666d9f48cc">
+	</div>
+	<div class="grofile-hash-map-005f20f71264115a1646d29ce3a05fd4">
+	</div>
+	<div class="grofile-hash-map-1efbc132488a61fe29672cf146985db2">
+	</div>
+	<div class="grofile-hash-map-4e67871bd20f041c0e9405fd38ad0b19">
+	</div>
+	<div class="grofile-hash-map-1788621f002006b5d9d5a361b1966a47">
+	</div>
+	<div class="grofile-hash-map-fe6d86429978690d78e7b7936af6719a">
+	</div>
+	<div class="grofile-hash-map-4524b3818ee28653edfb961f10bf9344">
+	</div>
+	<div class="grofile-hash-map-2c21d23f18fd1d0755207995413e889d">
+	</div>
+	<div class="grofile-hash-map-13361953a2156c5835954ceffc843b01">
+	</div>
+	</div>
+
+	<script type="text/javascript">
+		WPCOM_sharing_counts = {"http:\/\/blog.ed.ted.com\/2014\/09\/18\/is-it-actually-ironic-3-ted-ed-lessons-on-irony\/":4181}	</script>
+		<script type="text/javascript">
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+			<div id="sharing_email" style="display: none;">
+		<form action="/2014/09/18/is-it-actually-ironic-3-ted-ed-lessons-on-irony/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+			
+			
+			<img style="float: right; display: none" class="loading" src="http://blog.ed.ted.com/wordpress/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type='text/javascript' src='http://blog.ed.ted.com/wordpress/wp-content/plugins/akismet/_inc/form.js?ver=3.0.2'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201440'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2014Octaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blog.ed.ted.com/wordpress/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var recaptcha_options = {"lang":"en"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blog.ed.ted.com/wordpress/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=20121205'></script>
+
+	<script src="http://stats.wordpress.com/e-201440.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:2.9.3',blog:'62568468',post:'4181',tz:'0'});
+	var load_cmc = function(){linktracker_init(62568468,4181,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script>
+
+</body>
+
+</html>

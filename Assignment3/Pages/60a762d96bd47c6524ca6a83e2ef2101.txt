@@ -1,0 +1,568 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<!-- Page Info -->
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="description" content="Blogs.Oracle.Com - The Oracle Mobile Platform Blog">
+  <meta name="keywords" content="blogs, oracle, blogs.oracle, blogging, bloggers">
+		            <title>Developing MAF Applications with OEPE (The Oracle Mobile Platform Blog)</title>
+                           <meta http-equiv="Content-Language" content="en" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="imagetoolbar" content="no" />
+
+        
+            <link rel="alternate" type="application/atom+xml" title="Recent Entries (Atom)"  href="https://blogs.oracle.com/mobile/feed/entries/atom" />
+    <link rel="alternate" type="application/rss+xml"  title="Recent Entries (RSS)"   href="https://blogs.oracle.com/mobile/feed/entries/rss" />
+    <link rel="alternate" type="application/atom+xml" title="Recent Comments (Atom)" href="https://blogs.oracle.com/mobile/feed/comments/atom" />
+    <link rel="alternate" type="application/rss+xml"  title="Recent Comments (RSS)"  href="https://blogs.oracle.com/mobile/feed/comments/rss" />
+
+    
+    
+<!-- Stylesheets -->
+<link rel="stylesheet" href="https://blogs.oracle.com/mobile/resource/4corporate-2col/theme.css" type="text/css" media="screen" />
+
+<!-- Favicon -->
+<link rel="shortcut icon" href="https://blogs.oracle.com/mobile/resource/4corporate-2col/favicon.gif" />    	</head>
+	<body>
+		<div id="container" class="two-columns"> <!-- Note: Change the class from "two-columns" to "three-columns" if needed -->
+			
+			<!-- Header -->
+			<div id="header">
+				<ul id="nav">
+					<li id="logo"><h6><a href="http://www.oracle.com">Oracle</a></h6></li>
+					<li class="current"><a href="/">Blogs Home</a></li>
+					<li><a href="http://www.oracle.com/us/products/index.html">Products &amp; Services</a></li>
+					<li><a href="http://www.oracle.com/technetwork/indexes/downloads/index.html">Downloads</a></li>
+					<li><a href="http://www.oracle.com/us/support/index.html">Support</a></li>
+					<li><a href="http://www.oracle.com/us/partnerships/index.html">Partners</a></li>
+					<li><a href="http://www.oracle.com/us/community/index.html">Communities</a></li>
+					<li><a href="http://www.oracle.com/us/corporate/index.html">About</a></li>
+                                            <li id="signIn"><a href="/roller-ui/login-redirect.rol">Login</a></li>
+                    				</ul>
+				<div id="jumbotron">
+					<h4>Oracle Blog</h4>
+          <h5><a href="https://blogs.oracle.com/mobile/">The Oracle Mobile Platform Blog</a></h5>
+          <h5 class="subhead">Simplifying Enterprise Mobility</h5>
+				</div>
+                																										</div>
+			
+			<!-- Content -->
+			<div id="content">
+                <div id="mainColumn">
+                    
+                    <!-- Previous and Next Entries -->
+                    <div id="pager">
+                                                    &laquo; <a href="https://blogs.oracle.com/mobile/entry/integrating_cordova_plugin_with_oracle1">Integrating Cordova...</a> |  
+                <a href="/mobile/">Main</a>
+                | <a href="https://blogs.oracle.com/mobile/entry/property_change_and_provider_change">Property Change and...</a> &raquo;
+                        </div>
+
+                    <!-- Entries -->
+				    
+                <div class="day">
+
+
+	<div class="entry" id="developing_maf_applications_with_oepe">
+
+	<h3 class="entry-title">
+			Developing MAF Applications with OEPE
+	    </h3>
+
+    <h4 class="entry-meta">By Sydney-Oracle on <a href="#">Sep 09, 2014</a></h4>
+
+    <div class="entry-body">
+                                        	<div style="text-align: center;"> 
+    <p><b><font face="georgia, times new roman, times, serif">Developing MAF Applications </font></b></p> 
+    <p><b><font face="georgia, times new roman, times, serif">with</font></b></p> 
+    <p><b><font face="georgia, times new roman, times, serif"></font></b><font face="georgia, times new roman, times, serif"><b>Oracle Enterprise Pack for Eclipse -&nbsp;</b></font><b><font face="georgia, times new roman, times, serif">OEPE</font></b></p> 
+    <p style="text-align: left;"><font face="georgia, times new roman, times, serif">As previously mentioned in Blog Entry &quot;<a href="https://blogs.oracle.com/oepe/entry/android_and_ios_development_comes" title="Android and iOS development comes to OEPE 12.13.1">Android and iOS development comes to OEPE 12.13.1</a>&quot;, &nbsp;MAF development has&nbsp;certainly&nbsp;come to&nbsp;</font>Oracle Enterprise Pack for Eclipse (<span style="font-family: georgia, 'times new roman', times, serif;">OEPE). In many ways the development&nbsp;experience</span><span style="font-family: georgia, 'times new roman', times, serif;">&nbsp;is very smooth and it has a clean interface.</span></p> 
+    <p style="text-align: left;">I can understand the development community preference and mass adoption of this IDE and for those of us who have become familiar with JDeveloper, here are some points to get you started and introduce you to the Eclipse development experience with MAF.</p> 
+    <p style="text-align: left;"><b>Getting started ... OEPE Download</b></p> 
+    <p style="text-align: left;">&nbsp;As with the JDeveloper installation, OEPE should be <a href="http://www.oracle.com/technetwork/developer-tools/eclipse/downloads/index.html" title="OEPE OTN Download Page">downloaded</a> and installed if a supported version of Eclipse is not already installed. I will use the &quot;Happy Path&quot; in this entry as the <a href="http://docs.oracle.com/cd/E50457_02/12131/OEPUG/install.htm" title="OEPE Installation Guide">documentation</a> does a great job in describing the various installation options.</p> 
+    <p style="text-align: left;">As the download page states there are two versions of the OEPE but you should download your platform version &nbsp;of the &nbsp;12.1.3.1.1 with Oracle Mobile Application Framework (MAF). This distribution provides the traditional OEPE feature set with additional design time tools for mobile application development, the MAF runtime, and MAF sample applications. i.e. No need to update your installation afterwards with the MAF component extensions.</p> 
+    <p style="text-align: left;"><b>Getting started ... OEPE SDK Configuration</b></p> 
+    <p style="text-align: left;">&nbsp;Working with OEPE for MAF is similar to JDeveloper and as such you first steps will be to configure OEPE with the path to your Mobile SDKs, provide any keystore information for Android or provisioning profiles for iOS projects.</p> 
+    <p style="text-align: left;">The process is similar to what we've been used, except it provides some smart wizards to get us through the process. From the Preferences menu option, drill down to Oracle -&gt; Mobile Application Framework and add you SDK settings.</p> 
+    <p><b>IOS SDK Configuration</b></p> 
+    <p> <img src="https://blogs.oracle.com/mobile/resource/OEPE4MAF/MAF_SDK_IOS_sm2.png" alt="MAF IOS SDK" align="middle" /></p> 
+    <p><b>Android SDK Configuration</b></p> 
+    <p><img src="https://blogs.oracle.com/mobile/resource/OEPE4MAF/MAF_SDK_Android_sm2.png" alt="MAF Android SDK settings" align="middle" /><br /></p> 
+    <p> </p> 
+    <p style="text-align: left;">Notice the <b>ADD</b>&nbsp;button on each screen which allows support of multiple SDKs, keystores, or provisioning profiles. </p> 
+    <p> </p> 
+    <p> </p> 
+    <p style="text-align: left;"> <b>Getting Started ... Running a Sample ( O! I mean, an Example :D )</b></p> 
+    <p style="text-align: left;">&nbsp;A good place to start is by verifying your configuration by deploying a MAF Sample Application. This is another small but nice difference in the OEPE user experience. To Open and Run a sample, simple create a new MAF Example. No need to find and then extract the samples to a project folder.</p> 
+    <p style="text-align: left;">Create a New MAF Example Application, if this menu option is not showing yet, then just select Example and then you should find the MAF Example template selection item. Clicking next presents a selection of examples to choose from and I would suggest for your first MAF Workspace to select them all and have them conveniently located in a single location. &nbsp;<span style="text-align: center;">Once you've selected the example you may create a Run or Debug Configuration to deploy and test your application to a configured target.</span></p> 
+    <p><b>New MAF Example</b></p> 
+    <p><img src="https://blogs.oracle.com/mobile/resource/OEPE4MAF/MAF_New_Examples.png" alt="Create a New MAF Example Application" align="middle" /><br /></p> 
+    <p><br /></p> 
+    <p> </p> 
+    <p style="text-align: left;">The first thing you will notice after the application wizard is finished is 3 sets of folders and not just 2. The wizard generates the standard projects we are used to; The Application, &amp; the ViewController or simply View projects. What is new is a new deployment project, or more correctly as per the documentation, the top-level assembly project.&nbsp;</p> 
+    <p> </p> 
+    <p><b>OEPE MAF Application Projects</b></p> 
+    <p><img src="https://blogs.oracle.com/mobile/resource/OEPE4MAF/MAF_Example_Project_Folders.png" alt="OEPE MAF Project Folders" align="middle" /> </p> 
+    <p> </p> 
+    <p style="text-align: left;">&nbsp;The assembly project holds all the related packaging and deployment artifacts. &nbsp;Some of the files we have had to search for in the application resources view in JDeveloper, such as default images, application, logging or connections settings which lived in the various META-INF directories, now have a respectable consolidated area.</p> 
+    <p style="text-align: left;">When you are ready to Run or Debug your mobile app then this is the project to choose to have it deployed to your test simulator, emulator, device or production package. To ensure that all is well with your environment I would suggested running one of the examples now.</p> 
+    <p> </p> 
+    <p style="text-align: left;"> </p> 
+    <p style="text-align: left;"><b>Getting Started ... Deploying a MAF Application in OEPE</b> </p> 
+    <p style="text-align: left;">&nbsp;In this process we don't talk about deploying an application but running one on a configured target configuration. To do this, select your top-assembly project (!Application &amp;&amp; !View) and select Run As or Debug As from the context menu. The configuration will defined the target to build and deploy the application.&nbsp;</p> 
+    <p style="text-align: left;">Create a configuration for each of your target by select the assembly project, target platform, type of target with the required settings. The Advanced options are used to further refine the application settings found under the Jdeveloper Application properties -&gt; Deployment Profile -&gt; Target (Android || IOS) Profile -&gt; Target&nbsp;&nbsp;(Android || IOS)&nbsp;Options -&gt; Application Images.</p> 
+    <p><b>Run Configuration for IOS</b></p> 
+    <p><img src="https://blogs.oracle.com/mobile/resource/OEPE4MAF/MAF_Run_Configuration_sm.png" alt="IOS Run Configuration" /> </p> 
+    <p> </p> 
+    <p style="text-align: left;">Once defined, simply click run. </p> 
+    <p style="text-align: left;">To run a configuration afterwards, simply select it from under the Debug or Run icons in the IDE.&nbsp;<img src="https://blogs.oracle.com/mobile/resource/OEPE4MAF/MAF_Debug_Run_icons.png" alt="Run and Debug Icons" /></p> 
+    <p> </p> 
+    <p style="text-align: left;">I'll cover configuring the Debugger later, if it proves problematic for the community but from my brief encounter, debugging is quite nice under eclipse and there is no need to open a secondary application to view the log file being created or using the Android Monitor to filter out your application messages.&nbsp;</p> 
+    <p> </p> 
+    <p style="text-align: left;"><b>Getting Started ... Creating a MAF Application in OEPE</b></p> 
+    <p style="text-align: left;">So, what should you know about creating a MAF application in OEPE is that it is fairly similar to creating one in Jdeveloper, with the exception that you have the assembly project. You have different perspectives to perform the various tasks based on the type of component you are working on. You have the same relationship between the Application and the View projects with some small differences; such as the new MAF folder which houses the Data Control Manager, the editor interface for the DataControl.dcx file.</p> 
+    <p><img src="https://blogs.oracle.com/mobile/resource/OEPE4MAF/MAF_Assembly_Proj_MAF_folder_sm.png" alt="MAF Assembly Project" /> <img src="https://blogs.oracle.com/mobile/resource/OEPE4MAF/MAF_Projects_MAF_folder_sm2.png" alt="MAF Application &amp; View Projects" /></p> 
+    <p> </p> 
+    <p style="text-align: left;">In the assembly project the MAF folder displays the MAF Application Editor, the editor for the maf-application.xml. This project also exposes the application resource and other configuration files, normally in the resources view in JDeveloper and the hidden .adf folder of the application.</p> 
+    <p style="text-align: left;">After the creation wizard is complete you will have everything you need to start developing your MAF application, except the connections.xml file which is used to keep track of your application resource links. The easiest way to create this file is from the MAF Application Editor. Once the editor is open, select the security component or tab, for lack of a better term, and you will find a hyper link for the connections.xml file which is also used to store URL White Lists. Simply select the link and you will be prompted to create the connections.xml.</p> 
+    <p><b>Create Connections.xml&nbsp;</b></p> 
+    <p><img src="https://blogs.oracle.com/mobile/resource/OEPE4MAF/MAF_Application_Editor_sm2.png" alt="Create Connections.xml from the MAF Application Editor" align="middle" /> </p> 
+    <p> </p> 
+    <p style="text-align: left;">Getting this created was the easy part and for &nbsp;SOAP based resources this ease of use continues but for those focused on the consumption of Restful services, you will have to create the connection entry manually. I will provide a sample connect entry at the end for those of you who do not have access to Jdeveloper and the Rest Data Control wizard. </p> 
+    <p style="text-align: left;">This feature will be released in a future version of OEPE for MAF but once the connection URL has been added, consuming, transforming and exposing the Restful services and data is the same process and APIs.<span style="text-align: right;"> </span></p> 
+    <p style="text-align: left;">Some other differences to mention are:</p> 
+    <p> </p> 
+    <ul> 
+      <li style="text-align: left;">The Palette area combines the Component and Data Control perspectives in Jdeveloper</li> 
+      <li style="text-align: left;">The Structure pane is called Outline, which shows the xml document format and not the component type icons, which make it easier to develop pages/views as in JDeverloper. You can still edit your page/view in this manner but be careful to read the component text and its level before dropping your new component onto the page.</li> 
+      <li style="text-align: left;">Flow actions, defined in your task flow, are only listed in the &quot;Select a Value&quot; / &quot;Select an Outcome&quot; screen and not in the drop down list of the action property. The pulldown only list &quot;__back&quot;, the default return action</li> 
+      <li style="text-align: left;">The Console window has multiple views and you will need to click / select it to switch between the build/deployment view and the running application log view</li> 
+      <li style="text-align: left;">To debug your application you need to configure a Remote Java Application configuration to connect to the Debug port connection property</li> 
+      <li style="text-align: left;">To Debug your application, start the application first then the debugger</li> 
+    </ul> 
+    <p> </p> 
+    <p> </p> 
+    <p style="text-align: center;"> <b>Summary</b></p> 
+    <p style="text-align: left;">&nbsp;To wrap up, I'd just like to say that OEPE development experience for MAF is good and only lacks a few wizards found in JDeveloper. It supports multiple SDK environments and versions as well as keystone and provisioning profiles, which will come in handy for customer development projects.</p> 
+    <p style="text-align: left;">The integrated log console view is great as well as the debugger for the application's java code. The only negative exception is the lack of wizard to add Rest URL connections, which I hope we will see released soon. For a first release this is great start and I look forward to seeing what the future holds for both OEPE and MAF development.<span style="text-align: center;"> </span></p> 
+    <p style="text-align: left;">Please add your experiences and comments, so the PMs can keep improving OEPE and MAF in general.<span style="text-align: center;"> </span></p> 
+    <p style="text-align: left;">Regards Sydney&nbsp;</p> 
+    <p><b>Sample Connections.xml with a Rest URL connection defined</b></p> 
+    <address> 
+      <div style="text-align: left;"><span style="font-size: x-small;">&lt;References xmlns=&quot;http://xmlns.oracle.com/adf/jndi&quot;&gt;</span></div><font size="1"> 
+        <div style="text-align: left;">&nbsp; &lt;Reference name=&quot;SampleRestServicesURL&quot; className=&quot;oracle.adf.model.connection.rest.RestConnection&quot; xmlns=&quot;&quot;&gt;</div></font><font size="1"> 
+        <div style="text-align: left;">&nbsp; &nbsp; &lt;Factory className=&quot;oracle.adf.model.connection.rest.RestConnectionFactory&quot;/&gt;</div></font><font size="1"> 
+        <div style="text-align: left;">&nbsp; &nbsp; &lt;RefAddresses&gt;</div></font><font size="1"> 
+        <div style="text-align: left;">&nbsp; &nbsp; &nbsp; &lt;XmlRefAddr addrType=&quot;SampleRestServicesURL&quot;&gt;</div></font><font size="1"> 
+        <div style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;Contents&gt;</div></font><font size="1"> 
+        <div style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;restconnection name=&quot;SampleRestServicesURL&quot;</div></font><font size="1"> 
+        <div style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; url=&quot;http://127.0.0.1:7101/SampleRestServices/SampleRestServices/&quot;/&gt;</div></font><font size="1"> 
+        <div style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;/Contents&gt;</div></font><font size="1"> 
+        <div style="text-align: left;">&nbsp; &nbsp; &nbsp; &lt;/XmlRefAddr&gt;</div></font><font size="1"> 
+        <div style="text-align: left;">&nbsp; &nbsp; &lt;/RefAddresses&gt;</div></font><font size="1"> 
+        <div style="text-align: left;">&nbsp; &lt;/Reference&gt;</div></font><font size="1"> 
+        <div style="text-align: left;">&lt;/References&gt;&nbsp;</div></font> 
+    </address> 
+    <p> </p> 
+    <p style="text-align: left;"> </p> 
+    <p> </p> 
+    <p> </p> 
+    <p style="text-align: left;"> </p> 
+  </div>
+        
+    </div>
+
+    <div class="entry-footer">
+        <p class="entry-category">Category: Oracle MAF</p>
+        <p class="entry-tags">Tags:    
+    	    <a href="https://blogs.oracle.com/mobile/tags/maf" rel="tag">maf</a> 
+  	    <a href="https://blogs.oracle.com/mobile/tags/oepe" rel="tag">oepe</a> 
+    
+ </p>
+        <p class="entry-links">
+        <a href="https://blogs.oracle.com/mobile/entry/developing_maf_applications_with_oepe">Permanent link to this entry</a>
+                        </p>
+    </div>
+
+	    
+	</div>
+
+</div>    
+    
+                                
+                    <!-- Previous and Next Entries -->
+                    <div id="pagerBottom">
+                                                    &laquo; <a href="https://blogs.oracle.com/mobile/entry/integrating_cordova_plugin_with_oracle1">Integrating Cordova...</a> |  
+                <a href="/mobile/">Main</a>
+                | <a href="https://blogs.oracle.com/mobile/entry/property_change_and_provider_change">Property Change and...</a> &raquo;
+                        </div> 
+                    
+                    <!-- Comments -->
+                                                <a name="comments"></a>
+    <div class="comments" id="comments">
+
+            <div class="comments-head">Comments:</div>
+            
+    <br/>
+        </div>
+                        
+    <div class="comments-form">
+    <div class="comments-head">Post a Comment:</div>
+    <a name="comment-form"></a>
+
+
+    
+    <form method="post" action="https://blogs.oracle.com/mobile/entry/developing_maf_applications_with_oepe" focus="name" 
+        name="commentForm" onsubmit="fixURL(this); return validateComments(this)">    
+        <input type="hidden" name="method" value="post" />
+
+        <ul>
+            <li>
+                <label class="desc">Name:</label>
+                <input type="text" name="name" class="text large" value="" size="50" maxlength="255" />
+            </li>
+
+            <li><label class="desc">E-Mail:</label>
+                <input type="text" name="email" class="text large" value="" size="50" maxlength="255" />
+            </li>
+
+            <li><label class="desc">URL:</label>
+                <input type="text" name="url" class="text large" value="" size="50" maxlength="255" />
+            </li>
+
+                    <li><input type="checkbox" class="checkbox" id="notify" name="notify" />
+                <label for="notify" class="choice">Notify me by email of new comments</label>
+            </li>
+                    <li>
+                <input type="checkbox" class="checkbox" id="rememberInfo" name="rememberInfo" />
+                <label for="rememberInfo" class="choice">Remember Information?</label>
+            </li>
+            <li>
+                <label class="desc">Your Comment:</label>
+             
+            <textarea name="content" class="textarea large" cols="40" rows="10"></textarea>
+
+            </li>
+            <li class="info">
+                <span class="comments-syntax-indicator">
+                HTML Syntax:
+                                    <span class="disabled">NOT allowed</span>
+                                </span>
+            </li>
+            <li class="info">
+               <script type="text/javascript" src="/theme/scripts/clientSideInclude.js"></script>
+               <div id="commentAuthenticator"></div>
+            </li>
+            <li>
+               <input type="button" class="button" name="post" value="&nbsp;Preview&nbsp;"
+                  onclick="this.form.method.value='preview';this.form.submit()" />
+               <input type="submit" class="button" name="post" value="&nbsp;Post&nbsp;" />
+            </li>
+        </ul>
+
+    </form>
+
+    <script type="text/javascript" src="/theme/scripts/roller.js"></script>
+    <script type="text/javascript">
+    clientSideInclude('commentAuthenticator', '/CommentAuthenticatorServlet');
+
+    var author = getCookie("commentAuthor");
+    var email = getCookie("commentEmail");
+    var url = getCookie("commentUrl");
+    // check each field - IE will render "null"
+   
+    if (author) {
+        document.forms['commentForm'].name.value = author;
+    }else{
+        document.forms['commentForm'].name.value = "guest";
+    }
+
+    if (email) {
+        document.forms['commentForm'].email.value = email;
+    }
+    if (url) {
+        document.forms['commentForm'].url.value = url;
+    }
+
+    if (author || email || url) {
+        document.forms['commentForm'].rememberInfo.checked = true;
+    }
+
+    function fixURL(theForm) {
+        if (theForm.url.value != "" &&
+            theForm.url.value.indexOf("http://") == -1) { //prepend http://
+            theForm.url.value = "http://"+theForm.url.value;
+        }
+        saveUserInformation(theForm);
+    }
+
+    function saveUserInformation(theForm) {
+        if (theForm.rememberInfo.checked) {
+            rememberUser(theForm);
+        } else {
+            forgetUser(theForm);
+        }
+    }
+
+    function validateComments(theForm) {
+        if (theForm.content.value == "") {
+            alert("Please enter a comment.");
+            theForm.content.focus();
+            return false;
+        }
+ 
+        if (document.forms['commentForm'].name.value=="" ) {
+        document.forms['commentForm'].name.value = "guest";
+        }
+
+    }
+    </script>
+
+
+    </div>
+                    				</div>
+
+                <!-- Sidebar -->
+                           <!-- Right Sidebar -->
+<div id="rightColumn">
+
+<!-- About -->
+  <div id="aboutSection">    
+    <h5 class="section-title">About</h5>
+    <div class="section-body">
+                  <p>This blog is is dedicated to announcements,tips and tricks and other items related to developing, integrating, securing, and managing mobile applications using <a href="http://www.oracle.com/mobileplatform">Oracle's Mobile Platform</a>. It is created and maintained by the Oracle Mobile product development team. 
+<br>
+<br>
+<a href="https://blogs.oracle.com/mobile/resource/archive.html">Archive of past entries</a>
+<br>
+<br><a target="_blank" href="https://pinboard.in/u:OracleADF/t:mobile">Even More Mobile Development Blogs</a>
+<br><br>
+<a href="http://www.ateam-oracle.com/?cat=1447">Oracle A-Team Site - Mobile Related Entries</a>
+<br><br>
+<a href="http://java.net/projects/smuenchadf/pages/ADFMobile#ADF_Mobile">Code samples from the Community</a>
+<br><br>
+<a href="https://blogs.oracle.com/fusionmiddleware">Fusion Middleware Blogs</a></p>
+            </div>
+  </div>  
+<!-- End About -->
+
+<!-- Search -->
+  <div id="searchSection">  
+    <h5 class="section-title">Search</h5>
+    <div class="section-body">
+        <script type="text/javascript">
+    function prepareSearchForm() {
+        document.getElementById("searchForm").searchQuery.name = "oq";
+        document.getElementById("searchFilter").innerHTML = "<input type='hidden' id='searchFilteredQuery' name='q' value=''>" +
+                "<br /><input type='checkbox' id='searchScope' checked='true' /><label for='searchScope'>Search only this blog</label>";
+    }
+    function submitSearchForm() {
+        var form = document.getElementById("searchForm");
+        var query = form.searchQuery.value;
+        var urlSearchOp = form.searchOp.value; //searchOp
+        var urlGroup = form.searchGroup.value; //group
+         
+        if (query == null || query == "") {
+            return false;
+        }
+        var filter = " weblog:mobile";
+        var curUrl = window.location.href;
+        if (form.searchScope.checked && form.searchQuery.value.indexOf(filter) == -1) {
+            form.searchFilteredQuery.value = form.searchQuery.value + filter;
+        }
+        else {
+            form.searchFilteredQuery.value = form.searchQuery.value;
+        }
+
+        						 form.action="https://search.oracle.com/search/search";
+				
+        window.location = form.action + "?search_p_main_operator=" + urlSearchOp + "&group=" + urlGroup +"&q=" + form.searchFilteredQuery.value;
+        return false;
+    }
+</script>
+<form id="searchForm" action="http://search.oracle.com/search/search"
+      onsubmit="return submitSearchForm();" method="get">
+    <input type="hidden" id="searchOp" name="search_p_main_operator" value="all" />
+    <input type="hidden" id="searchGroup" name="group" value="Blogs" />
+    <label for="searchQuery" title="Enter search term">Enter search term:</label>
+    <br />
+    <input type="text" id="searchQuery" name="q" class="text" alt="Enter Search Term" />
+    <input type="image" class="input-image" id="searchSubmit" alt="Submit Search" title="Submit Search" src="https://blogs.oracle.com/mobile/resource/search-button.gif" />
+    <span id="searchFilter">
+    <noscript>Search filtering requires JavaScript</noscript>
+    </span>
+</form>
+<script type="text/javascript">prepareSearchForm();</script>
+    </div>
+  </div>    
+<!-- End Search -->
+
+<!-- Recent Posts -->
+  <div id="recentSection">  
+                <h5 class="section-title">Recent Posts</h5>
+        <div class="section-body">
+            <ul>
+                                    <li><a href="https://blogs.oracle.com/mobile/entry/changes_to_apple_app_store">Changes to Apple App Store validation criteria</a></li>
+                                    <li><a href="https://blogs.oracle.com/mobile/entry/new_mobile_application_framework_version">New Oracle Mobile Application Framework Version (2.0.1) Now Available</a></li>
+                                    <li><a href="https://blogs.oracle.com/mobile/entry/get_your_hands_on_oracle">Get your hands on Oracle Mobile Development at Open World!</a></li>
+                                    <li><a href="https://blogs.oracle.com/mobile/entry/mobilizing_e_business_suite_with">Mobilizing E-Business Suite with Oracle MAF and FMW at OOW 14</a></li>
+                                    <li><a href="https://blogs.oracle.com/mobile/entry/property_change_and_provider_change">Property Change and Provider Change events in Oracle MAF</a></li>
+                                    <li><a href="https://blogs.oracle.com/mobile/entry/developing_maf_applications_with_oepe">Developing MAF Applications with OEPE</a></li>
+                                    <li><a href="https://blogs.oracle.com/mobile/entry/integrating_cordova_plugin_with_oracle1">Integrating Cordova Plugin with Oracle MAF - iOS Calendar Plugin</a></li>
+                                    <li><a href="https://blogs.oracle.com/mobile/entry/new_maf_episode_on_listeners">New MAF Episode on Listeners and Events.</a></li>
+                                    <li><a href="https://blogs.oracle.com/mobile/entry/ukoug_running_mobile_focused_special">UKOUG Running Mobile Focused Special Interest Group</a></li>
+                                    <li><a href="https://blogs.oracle.com/mobile/entry/everything_you_need_to_know">Everything you need to know about Oracle MAF security features</a></li>
+                            </ul>
+        </div>
+      </div>    
+<!-- End Recent Posts -->
+
+
+<!-- Top Tags -->
+  <div id="tagsSection">  
+            <h5 class="section-title">Top Tags</h5>
+    <div class="tags section-body">
+        <ul class="tag-cloud">
+                    <li><a href="https://blogs.oracle.com/mobile/tags/12" title="1" class="weight-1">12</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/12c" title="1" class="weight-1">12c</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/4.3" title="1" class="weight-1">4.3</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/adf" title="33" class="weight-5">adf</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/andriod" title="1" class="weight-1">andriod</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/android" title="21" class="weight-4">android</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/apn" title="1" class="weight-1">apn</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/app" title="1" class="weight-1">app</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/apple" title="2" class="weight-1">apple</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/application" title="1" class="weight-1">application</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/appstore" title="1" class="weight-1">appstore</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/architecture" title="1" class="weight-1">architecture</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/bus" title="4" class="weight-2">bus</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/charts" title="1" class="weight-1">charts</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/configuration" title="1" class="weight-1">configuration</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/debugging" title="1" class="weight-1">debugging</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/design" title="1" class="weight-1">design</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/disable" title="1" class="weight-1">disable</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/dojo" title="1" class="weight-1">dojo</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/eclipse" title="2" class="weight-1">eclipse</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/enable" title="1" class="weight-1">enable</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/event" title="1" class="weight-1">event</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/events" title="1" class="weight-1">events</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/feature" title="1" class="weight-1">feature</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/fff" title="1" class="weight-1">fff</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/framework" title="1" class="weight-1">framework</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/gcm" title="1" class="weight-1">gcm</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/google" title="1" class="weight-1">google</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/hands" title="1" class="weight-1">hands</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/html5" title="1" class="weight-1">html5</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/hudson" title="1" class="weight-1">hudson</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/ios" title="20" class="weight-4">ios</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/ios7" title="1" class="weight-1">ios7</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/ipad" title="3" class="weight-2">ipad</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/iphone" title="3" class="weight-2">iphone</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/java" title="1" class="weight-1">java</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/javascript" title="1" class="weight-1">javascript</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/jdeveloper" title="2" class="weight-1">jdeveloper</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/jquery" title="1" class="weight-1">jquery</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/lab" title="1" class="weight-1">lab</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/listview" title="1" class="weight-1">listview</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/maf" title="7" class="weight-3">maf</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/mobile" title="42" class="weight-5">mobile</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/oepe" title="3" class="weight-2">oepe</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/oow" title="2" class="weight-1">oow</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/oracle" title="2" class="weight-1">oracle</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/rest" title="2" class="weight-1">rest</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/service" title="4" class="weight-2">service</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/soap" title="2" class="weight-1">soap</a></li>
+                    <li><a href="https://blogs.oracle.com/mobile/tags/xcode" title="2" class="weight-1">xcode</a></li>
+                </ul>
+    </div>
+    </div>    
+<!-- End Top Tags -->
+    
+
+<!-- Categories -->
+  <div id="categoriesSection">
+    <h5 class="section-title">Categories</h5>
+    <div class="section-body">
+                        <ul class="rCategory">
+                                                            <li><a href="https://blogs.oracle.com/mobile/category/Oracle">Oracle</a></li>
+            <ul class="rCategory">
+                                                                            <li><a href="https://blogs.oracle.com/mobile/category/Oracle/ADF+Mobile">ADF Mobile</a></li>
+                                                                                                            <li><a href="https://blogs.oracle.com/mobile/category/Oracle/OSB">OSB</a></li>
+                                                                                                            <li><a href="https://blogs.oracle.com/mobile/category/Oracle/Oracle+MAF">Oracle MAF</a></li>
+                                                                        </ul>
+                                    </ul>
+        </div>
+  </div>
+<!-- End Categories -->
+
+
+<!-- Archives -->
+   <div id="archiveSection">
+    <h5 class="section-title">Archives</h5>
+    <div class="section-body">
+        <table cellspacing="0" border="0"  summary="Blog Archive Calendar" class="hCalendarTable"><tr><td colspan="7" align="center" class="hCalendarMonthYearRow"><a href="/mobile/date/201409" title="Prev" class="hCalendarNavBar">&laquo;</a> October 2014</td></tr><tr><th class="hCalendarDayNameRow" align="center">Sun</th><th class="hCalendarDayNameRow" align="center">Mon</th><th class="hCalendarDayNameRow" align="center">Tue</th><th class="hCalendarDayNameRow" align="center">Wed</th><th class="hCalendarDayNameRow" align="center">Thu</th><th class="hCalendarDayNameRow" align="center">Fri</th><th class="hCalendarDayNameRow" align="center">Sat</th></tr><tr><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDay"><div class="hCalendarDayTitle">1</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">2</div></td><td class="hCalendarDayCurrent"><div class="hCalendarDayTitle">3</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">4</div></td></tr><tr><td class="hCalendarDay"><div class="hCalendarDayTitle">5</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">6</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">7</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">8</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">9</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">10</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">11</div></td></tr><tr><td class="hCalendarDay"><div class="hCalendarDayTitle">12</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">13</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">14</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">15</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">16</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">17</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">18</div></td></tr><tr><td class="hCalendarDay"><div class="hCalendarDayTitle">19</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">20</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">21</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">22</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">23</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">24</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">25</div></td></tr><tr><td class="hCalendarDay"><div class="hCalendarDayTitle">26</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">27</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">28</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">29</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">30</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">31</div></td><td class="hCalendarDayNotInMonth">&nbsp;</td></tr><tr><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td></tr><tr class="hCalendarNextPrev"><td colspan="7" align="center"><a href="/mobile/" class="hCalendarNavBar">Today</a></td></tr></table>
+    </div>
+  </div>
+<!-- End Archives -->
+
+<!-- Bookmarks -->
+   <div id="bookmarkSection">
+              </div>    
+<!-- End Bookmarks -->
+
+<!-- Blog and Author Menu -->
+   <div id="menuSection">
+    <h5 class="section-title">Menu</h5>
+    <div class="section-body">
+            <ul class="rNavigationBar">
+        <li class="rNavItem">
+            <a href="/"><span>Blogs Home</span></a>
+        </li>
+        <li class="rNavItem">
+            <a href="https://blogs.oracle.com/mobile/"><span>Weblog</span></a>
+        </li>
+                                                                                                                            <li class="rNavItem">
+                    <a href="/roller-ui/login-redirect.rol"><span>Login</span></a>
+                </li>
+                        </ul>
+            </div>
+  </div>    
+<!-- End Blog and Author Menu -->
+
+    
+<!-- Feeds -->
+   <div id="feedsSection">   
+    <h5 class="section-title">Feeds</h5>
+    <div class="section-body">
+        <b>RSS</b>
+            <ul class="rFeeds">
+    <li><a href="https://blogs.oracle.com/mobile/feed/entries/rss">All</a></li>
+                        <li><a href="https://blogs.oracle.com/mobile/feed/entries/rss?cat=%2FOracle">/Oracle</a></li>
+        <li><a href="https://blogs.oracle.com/mobile/feed/comments/rss">Comments</a></li>
+    </ul>
+        <b>Atom</b>    
+            <ul class="rFeeds">
+    <li><a href="https://blogs.oracle.com/mobile/feed/entries/atom">All</a></li>
+                        <li><a href="https://blogs.oracle.com/mobile/feed/entries/atom?cat=%2FOracle">/Oracle</a></li>
+        <li><a href="https://blogs.oracle.com/mobile/feed/comments/atom">Comments</a></li>
+    </ul>
+    </div>
+  </div>          
+<!-- End Feeds -->    
+    
+</div>    			</div>
+
+			<!-- Footer -->
+			<div id="footer">
+				<p>The views expressed on this blog are those of the author and do not necessarily reflect the views of Oracle. <a href="http://www.oracle.com/html/terms.html">Terms of Use</a> | <a href="http://www.oracle.com/html/privacy.html">Your Privacy Rights</a> | <span id='teconsent'><script type='text/javascript' src='https://consent.truste.com/notice?domain=oracle.com&c=teconsent&language=en&text=true'></script>   </span>  </p>
+			</div>
+			<!-- Omniture Script --> 
+<!-- Start SiteCatalyst code -->
+
+<script language="JavaScript" src="/main/resource/resources/ora_blogs.js"></script>
+
+<!-- End SiteCatalyst code -->
+		</div>
+	</body>
+</html>

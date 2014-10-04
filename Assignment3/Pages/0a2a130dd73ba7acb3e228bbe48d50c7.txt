@@ -1,0 +1,446 @@
+<!DOCTYPE HTML>
+<html itemscope itemtype="http://schema.org/ImageGallery" lang="en-US">
+<head>
+<title>John Malkovich re-creates iconic portraits - CNN.com</title>
+<meta charset="UTF-8"/>
+<meta content="2014-09-23T20:49:54Z" http-equiv="last-modified"/>
+<meta content="index,follow" name="robots"/>
+<meta content="noarchive" name="googlebot"/>
+<meta content="width=1024" name="viewport"/>
+<meta content="John Malkovich re-creates iconic portraits" itemprop="headline" name="title" property="og:title"/>
+<meta content="" itemprop="description" name="description"/>
+<meta content="" itemprop="keywords" name="keywords"/>
+<meta content="" name="news_keywords"/>
+<meta content="news" itemprop="genre" name="medium"/>
+<meta content="en-US" itemprop="inLanguage"/>
+<meta content="showbiz" name="section"/>
+<meta content="" name="subsection"/>
+<meta content="2014-09-23T17:34:58Z" itemprop="datePublished" name="pubdate"/>
+<meta content="2014-09-23T20:49:54Z" itemprop="dateModified" name="lastmod"/>
+<meta content="2014-09-23T17:34:58Z" itemprop="dateCreated"/>
+<meta content="http://www.cnn.com/2014/09/23/showbiz/gallery/john-malkovich-iconic-portraits" itemprop="url" property="og:url"/>
+<meta property="vr:canonical" content="http://www.cnn.com/2014/09/23/showbiz/gallery/john-malkovich-iconic-portraits">
+<meta content="CNN" itemprop="sourceOrganization" property="og:site_name"/>
+<meta content="http://i2.cdn.turner.com/cnn/dam/assets/140923114928-01-dorothea-lange---migrant-mother-nipomo-california-1936-video-tease.jpg" itemprop="thumbnailUrl"/>
+<meta content="690014395" property="fb:admins"/>
+<meta content="80401312489" property="fb:app_id"/>
+<meta content="129343697106537" property="fb:page_id"/>
+<meta name="twitter:card" content="gallery" />
+<meta name="twitter:site" content="@CNNPhotos"/>
+<meta name="twitter:site:id" content="399649186"/>
+<meta name="twitter:creator" content="@cnnshowbiz"/>
+<meta name="twitter:creator:id" content="110458336"/>
+<meta name="twitter:title" content="John Malkovich re-creates iconic portraits" />
+<meta name="twitter:description" content=""/>
+<meta name="twitter:url" content="http://www.cnn.com/2014/09/23/showbiz/gallery/john-malkovich-iconic-portraits/index.html"/>
+<meta name="twitter:image0" content="http://i2.cdn.turner.com/cnn/dam/assets/140923114928-01-dorothea-lange---migrant-mother-nipomo-california-1936-large-main.jpg"/>
+<meta name="twitter:image1" content="http://i2.cdn.turner.com/cnn/dam/assets/140923114942-02-yousuf-karsh---ernest-hemingway-1957-large-main.jpg"/>
+<meta name="twitter:image2" content="http://i2.cdn.turner.com/cnn/dam/assets/140923114959-03-albert-watson---alfred-hitchcock-with-goose-1973-large-main.jpg"/>
+<meta name="twitter:image3" content="http://i2.cdn.turner.com/cnn/dam/assets/140923115018-04-korda-che-972-large-main.jpg"/>
+<link href="http://www.cnn.com/2014/09/23/showbiz/gallery/john-malkovich-iconic-portraits/index.html" rel="canonical"/>
+<link href="https://plus.google.com/u/0/b/117515799321987910349/117515799321987910349/posts" rel="publisher"/>
+<link href="http://i2.cdn.turner.com/cnn/dam/assets/140923114928-01-dorothea-lange---migrant-mother-nipomo-california-1936-video-tease.jpg" itemprop="image" rel="image_src" type="image/jpg"/>
+<link href="http://z.cdn.turner.com/cnn/tmpl_asset/static/gallery/782/css/gallerylib-min.css" rel="stylesheet" type="text/css"/>
+<script>
+var cnnShareUrl="%2F2014%2F09%2F23%2Fshowbiz%2Fgallery%2Fjohn-malkovich-iconic-portraits%2Findex.html",
+cnnShareTitle="John%20Malkovich%20re-creates%20iconic%20portraits",
+cnnShareDesc="",
+cnn_edtnswtchver="www",
+galleryPath="http://i.cdn.turner.com/cnn/.element/img/3.0/gallery/",
+cnn_gallery_images=[],
+cnn_shareconfig = [];
+cnn_gallery_images[0]={};
+cnn_gallery_images[0].caption="Actor and director John Malkovich teamed up with photographer Sandro Miller for an upcoming exhibition in which Malkovich poses in re-creations of iconic photographs. The exhibition, \"Malkovich, Malkovich, Malkovich: Homage to Photographic Masters,\" will take place in November at the Catherine Edelman Gallery in Chicago. Here, Malkovich poses in a re-creation of the \"Migrant Mother\" portrait that was originally shot by photographer Dorothea Lange in 1936.";
+cnn_gallery_images[0].uri="http://i2.cdn.turner.com/cnn/dam/assets/140923114928-01-dorothea-lange---migrant-mother-nipomo-california-1936-horizontal-large-gallery.jpg";
+cnn_gallery_images[0].suri="http://i2.cdn.turner.com/cnn/dam/assets/140923114928-01-dorothea-lange---migrant-mother-nipomo-california-1936-topics.jpg";
+cnn_gallery_images[0].head="John Malkovich re-creates iconic portraits";
+cnn_gallery_images[0].height="552";
+cnn_gallery_images[1]={};
+cnn_gallery_images[1].caption="Malkovich poses as author Ernest Hemingway based on Yousuf Karsh\'s portrait of Hemingway in 1957.";
+cnn_gallery_images[1].uri="http://i2.cdn.turner.com/cnn/dam/assets/140923114942-02-yousuf-karsh---ernest-hemingway-1957-horizontal-large-gallery.jpg";
+cnn_gallery_images[1].suri="http://i2.cdn.turner.com/cnn/dam/assets/140923114942-02-yousuf-karsh---ernest-hemingway-1957-topics.jpg";
+cnn_gallery_images[1].head="John Malkovich re-creates iconic portraits";
+cnn_gallery_images[1].height="552";
+cnn_gallery_images[2]={};
+cnn_gallery_images[2].caption="Malkovich is director Alfred Hitchcock in this re-creation of Albert Watson\'s photo in 1973.";
+cnn_gallery_images[2].uri="http://i2.cdn.turner.com/cnn/dam/assets/140923114959-03-albert-watson---alfred-hitchcock-with-goose-1973-horizontal-large-gallery.jpg";
+cnn_gallery_images[2].suri="http://i2.cdn.turner.com/cnn/dam/assets/140923114959-03-albert-watson---alfred-hitchcock-with-goose-1973-topics.jpg";
+cnn_gallery_images[2].head="John Malkovich re-creates iconic portraits";
+cnn_gallery_images[2].height="552";
+cnn_gallery_images[3]={};
+cnn_gallery_images[3].caption="Malkovich poses as revolutionary figure Che Guevara. The iconic Guevara portrait was taken in 1960 by Alberton Korda.";
+cnn_gallery_images[3].uri="http://i2.cdn.turner.com/cnn/dam/assets/140923115018-04-korda-che-972-horizontal-large-gallery.jpg";
+cnn_gallery_images[3].suri="http://i2.cdn.turner.com/cnn/dam/assets/140923115018-04-korda-che-972-topics.jpg";
+cnn_gallery_images[3].head="John Malkovich re-creates iconic portraits";
+cnn_gallery_images[3].height="552";
+cnn_gallery_images[4]={};
+cnn_gallery_images[4].caption="Malkovich and Miller re-created this famous portrait of artist Salvador Dali, which was taken by Philippe Halsman in 1954.";
+cnn_gallery_images[4].uri="http://i2.cdn.turner.com/cnn/dam/assets/140923115037-05-philippe-halsman---salvador-dal-1954-horizontal-large-gallery.jpg";
+cnn_gallery_images[4].suri="http://i2.cdn.turner.com/cnn/dam/assets/140923115037-05-philippe-halsman---salvador-dal-1954-topics.jpg";
+cnn_gallery_images[4].head="John Malkovich re-creates iconic portraits";
+cnn_gallery_images[4].height="552";
+cnn_gallery_images[5]={};
+cnn_gallery_images[5].caption="Malkovich posed as both subjects in the re-creation of Diane Arbus\' \"Identical Twins\" photo from 1967.";
+cnn_gallery_images[5].uri="http://i2.cdn.turner.com/cnn/dam/assets/140923115052-06-diane-arbus---identical-twins-roselle-new-jersey-1967-horizontal-large-gallery.jpg";
+cnn_gallery_images[5].suri="http://i2.cdn.turner.com/cnn/dam/assets/140923115052-06-diane-arbus---identical-twins-roselle-new-jersey-1967-topics.jpg";
+cnn_gallery_images[5].head="John Malkovich re-creates iconic portraits";
+cnn_gallery_images[5].height="552";
+cnn_gallery_images[6]={};
+cnn_gallery_images[6].caption="Malkovich is legendary boxer Muhammad Ali in this re-creation based on Carl Fischer\'s work in 1968.";
+cnn_gallery_images[6].uri="http://i2.cdn.turner.com/cnn/dam/assets/140923115103-07-carl-fischer-muhammad-ali-new-york-1967-horizontal-large-gallery.jpg";
+cnn_gallery_images[6].suri="http://i2.cdn.turner.com/cnn/dam/assets/140923115103-07-carl-fischer-muhammad-ali-new-york-1967-topics.jpg";
+cnn_gallery_images[6].head="John Malkovich re-creates iconic portraits";
+cnn_gallery_images[6].height="552";
+cnn_gallery_images[7]={};
+cnn_gallery_images[7].caption="Malkovich mimics the \"American Gothic, Washington D.C.\" photo that was taken by Gordon Parks in 1942.";
+cnn_gallery_images[7].uri="http://i2.cdn.turner.com/cnn/dam/assets/140923115113-08-gordon-parks---american-gothic-washington-d-c--1942-horizontal-large-gallery.jpg";
+cnn_gallery_images[7].suri="http://i2.cdn.turner.com/cnn/dam/assets/140923115113-08-gordon-parks---american-gothic-washington-d-c--1942-topics.jpg";
+cnn_gallery_images[7].head="John Malkovich re-creates iconic portraits";
+cnn_gallery_images[7].height="552";
+cnn_gallery_images[8]={};
+cnn_gallery_images[8].caption="Malkovich becomes Jack Nicholson\'s Joker character from the \"Batman\" movie in 1989. This is based on an original image by Herb Ritts.";
+cnn_gallery_images[8].uri="http://i2.cdn.turner.com/cnn/dam/assets/140923115124-09-ritts-nicholson-1294-js-horizontal-large-gallery.jpg";
+cnn_gallery_images[8].suri="http://i2.cdn.turner.com/cnn/dam/assets/140923115124-09-ritts-nicholson-1294-js-topics.jpg";
+cnn_gallery_images[8].head="John Malkovich re-creates iconic portraits";
+cnn_gallery_images[8].height="552";
+cnn_gallery_images[9]={};
+cnn_gallery_images[9].caption="Malkovich, covered in bees, re-creates the \"Ronald Fischer, Beekeeper\" photo taken by Richard Avedon in 1981.";
+cnn_gallery_images[9].uri="http://i2.cdn.turner.com/cnn/dam/assets/140923115133-10-richard-avedon---ronald-fisher-beekeeper-davis-california-may-9-1981-horizontal-large-gallery.jpg";
+cnn_gallery_images[9].suri="http://i2.cdn.turner.com/cnn/dam/assets/140923115133-10-richard-avedon---ronald-fisher-beekeeper-davis-california-may-9-1981-topics.jpg";
+cnn_gallery_images[9].head="John Malkovich re-creates iconic portraits";
+cnn_gallery_images[9].height="552";
+cnn_gallery_images[10]={};
+cnn_gallery_images[10].caption="Malkovich and a model pose as John Lennon and Yoko Ono from Annie Leibovitz\'s 1980 photo.";
+cnn_gallery_images[10].uri="http://i2.cdn.turner.com/cnn/dam/assets/140923115146-11-annie-leibovitz---john-lennon-and-yoko-ono-1980-horizontal-large-gallery.jpg";
+cnn_gallery_images[10].suri="http://i2.cdn.turner.com/cnn/dam/assets/140923115146-11-annie-leibovitz---john-lennon-and-yoko-ono-1980-topics.jpg";
+cnn_gallery_images[10].head="John Malkovich re-creates iconic portraits";
+cnn_gallery_images[10].height="552";
+cnn_gallery_images[11]={};
+cnn_gallery_images[11].caption="Malkovich transforms into Andy Warhol\'s \"Green Marilyn\" from 1962.";
+cnn_gallery_images[11].uri="http://i2.cdn.turner.com/cnn/dam/assets/140923115157-12-andy-warhol---green-marilyn-1962-horizontal-large-gallery.jpg";
+cnn_gallery_images[11].suri="http://i2.cdn.turner.com/cnn/dam/assets/140923115157-12-andy-warhol---green-marilyn-1962-topics.jpg";
+cnn_gallery_images[11].head="John Malkovich re-creates iconic portraits";
+cnn_gallery_images[11].height="552";
+cnn_gallery_images[12]={};
+cnn_gallery_images[12].caption="Malkovich and Miller also re-created Warhol\'s \"Self Portrait with Fright Wig\" from 1986.";
+cnn_gallery_images[12].uri="http://i2.cdn.turner.com/cnn/dam/assets/140923115209-13-andy-warhol---self-portrait-fright-wig-1986-horizontal-large-gallery.jpg";
+cnn_gallery_images[12].suri="http://i2.cdn.turner.com/cnn/dam/assets/140923115209-13-andy-warhol---self-portrait-fright-wig-1986-topics.jpg";
+cnn_gallery_images[12].head="John Malkovich re-creates iconic portraits";
+cnn_gallery_images[12].height="552";
+cnn_gallery_images[13]={};
+cnn_gallery_images[13].caption="Malkovich is author Truman Capote in this re-creation of an Irving Penn original in 1948.";
+cnn_gallery_images[13].uri="http://i2.cdn.turner.com/cnn/dam/assets/140923115220-14-irving-penn---truman-capote-new-york-1948-horizontal-large-gallery.jpg";
+cnn_gallery_images[13].suri="http://i2.cdn.turner.com/cnn/dam/assets/140923115220-14-irving-penn---truman-capote-new-york-1948-topics.jpg";
+cnn_gallery_images[13].head="John Malkovich re-creates iconic portraits";
+cnn_gallery_images[13].height="552";
+cnn_gallery_images[14]={};
+cnn_gallery_images[14].caption="Malkovich is Albert Einstein in a re-creation of the classic Arthur Sasse shot in 1951.";
+cnn_gallery_images[14].uri="http://i2.cdn.turner.com/cnn/dam/assets/140923115230-15-arthur-sasse---albert-einstein-sticking-out-his-tongue-1951-horizontal-large-gallery.jpg";
+cnn_gallery_images[14].suri="http://i2.cdn.turner.com/cnn/dam/assets/140923115230-15-arthur-sasse---albert-einstein-sticking-out-his-tongue-1951-topics.jpg";
+cnn_gallery_images[14].head="John Malkovich re-creates iconic portraits";
+cnn_gallery_images[14].height="552";
+cnn_gallery_images[15]={};
+cnn_gallery_images[15].caption="Malkovich mimics Bert Stern\'s \"Marilyn in Pink Roses\" (1962).";
+cnn_gallery_images[15].uri="http://i2.cdn.turner.com/cnn/dam/assets/140923115241-16-stern-monroe-roses-js-horizontal-large-gallery.jpg";
+cnn_gallery_images[15].suri="http://i2.cdn.turner.com/cnn/dam/assets/140923115241-16-stern-monroe-roses-js-topics.jpg";
+cnn_gallery_images[15].head="John Malkovich re-creates iconic portraits";
+cnn_gallery_images[15].height="552";
+cnn_gallery_images[16]={};
+cnn_gallery_images[16].caption="Malkovich appears as artist Pablo Picasso. It\'s based on an Irving Penn photo from 1957.";
+cnn_gallery_images[16].uri="http://i2.cdn.turner.com/cnn/dam/assets/140923115253-17-irving-penn---pablo-picasso-cannes-france-1957-horizontal-large-gallery.jpg";
+cnn_gallery_images[16].suri="http://i2.cdn.turner.com/cnn/dam/assets/140923115253-17-irving-penn---pablo-picasso-cannes-france-1957-topics.jpg";
+cnn_gallery_images[16].head="John Malkovich re-creates iconic portraits";
+cnn_gallery_images[16].height="552";
+cnn_gallery_images[17]={};
+cnn_gallery_images[17].caption="Malkovich is dressed as designer Jean Paul Gaultier in this re-creation of Pierre et Gilles\' work in 1990.";
+cnn_gallery_images[17].uri="http://i2.cdn.turner.com/cnn/dam/assets/140923115310-18-pierre-et-gilles---jean-paul-gaultier-1990-horizontal-large-gallery.jpg";
+cnn_gallery_images[17].suri="http://i2.cdn.turner.com/cnn/dam/assets/140923115310-18-pierre-et-gilles---jean-paul-gaultier-1990-topics.jpg";
+cnn_gallery_images[17].head="John Malkovich re-creates iconic portraits";
+cnn_gallery_images[17].height="552";
+cnn_gallery_images[18]={};
+cnn_gallery_images[18].caption="Malkovich becomes Bette Davis smoking a cigarette in this re-creation of Victor Skrebneski\'s 1971 portrait.";
+cnn_gallery_images[18].uri="http://i2.cdn.turner.com/cnn/dam/assets/140923115328-19-victor-skrebneski---bette-davis-actor-08-november-1971-los-angeles-studio-horizontal-large-gallery.jpg";
+cnn_gallery_images[18].suri="http://i2.cdn.turner.com/cnn/dam/assets/140923115328-19-victor-skrebneski---bette-davis-actor-08-november-1971-los-angeles-studio-topics.jpg";
+cnn_gallery_images[18].head="John Malkovich re-creates iconic portraits";
+cnn_gallery_images[18].height="552";
+cnn_gallery_images[19]={};
+cnn_gallery_images[19].caption="Bundled in a \"Fur Hood,\" Malkovich transforms into rocker Mick Jagger as Jagger was seen in David Bailey\'s 1964 portrait. <a href=\'http://www.cnn.com/2013/09/01/world/gallery/iconic-images/\'\>Related: 25 of the most iconic photographs</a\>";
+cnn_gallery_images[19].uri="http://i2.cdn.turner.com/cnn/dam/assets/140923115341-20-david-bailey---mick-jagger-fur-hood-1964-horizontal-large-gallery.jpg";
+cnn_gallery_images[19].suri="http://i2.cdn.turner.com/cnn/dam/assets/140923115341-20-david-bailey---mick-jagger-fur-hood-1964-topics.jpg";
+cnn_gallery_images[19].head="John Malkovich re-creates iconic portraits";
+cnn_gallery_images[19].height="552";
+</script>
+<script type="text/javascript" src="http://z.cdn.turner.com/cnn/tmpl_asset/static/gallery/782/js/gallerylib-min.js"></script>
+<script src="http://cdn.optimizely.com/js/131788053.js"></script>
+<script>
+cnn_metadata.friendly_name = cnnShareTitle;
+cnn_metadata.section = ["entertainment", "ent : news"];
+cnn_metadata.business.cnn.page.photo_gallery = cnn_metadata.friendly_name;
+cnn_metadata.template_type = 'interactive';
+cnn_metadata.template_type_content = 'gallery';
+cnn_metadata.full_gallery ='1';
+cnn_metadata.business.cnn.page.branding_ad= "Style";
+if(!Object.isUndefined(cnn_gallery_images[0])) {
+cnn_metadata.business.cnn.page.photo_slide = cnn_gallery_images[0].uri;
+}
+var cnn_gallerymaxheight = "552";
+</script>
+<style>
+.cnn_dyncntnt1 { height:552px; }
+</style>
+</head>
+<body>
+<div id="cnn_mOvrlycntr"></div>
+<div class="fb_reset" id="fb-root"><div style="position:absolute;top:-10000px;height:0pt;width:0pt;"></div></div>
+<div id="cnn_hdr"> <div id="cnn_hdr-prompt" style="display:none"><div class="hdr-wrap" id="cnn_hdr-promptcntnt"></div></div> <div id="cnn_hdr-main"> <div class="hdr-wrap"> <div id="hdr-banner"> <a href="/SHOWBIZ/" id="hdr-banner-title"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/global/header/us/hdr-entertainment.gif" alt="CNN Entertainment" border="0" height="82" style="margin-right: 80px;" width="376"/></a> </div> <div id="hdr-editions"> <ul> <li class="no-pad-left"><span><a href="javascript:cnn_initeditionhtml(3);" class="cnn_hdr-editionlnk">SET EDITION</a>: &nbsp;U.S.</span></li> <li><a id="cnn_switchEdition_intl" href="http://edition.cnn.com/?hpt=ed_Intl" title="CNN INTERNATIONAL">INTERNATIONAL</a></li> <li><a href="http://mexico.cnn.com/?hpt=ed_Mexico" hreflang="es" title="CNN M&#201;XICO">M&#201;XICO</a></li> <li class="no-border"><a href="http://arabic.cnn.com/?hpt=ed_Arabic" hreflang="ar" title="CNN ARABIC">ARABIC</a></li> </ul> <div class="cnn_clear"></div><div style="padding-top:2px"> <ul> <li class="no-pad-left no-border no-pad-right"><span><a href="/CNN/Programs" class="cnn_hdr-editionlnk">TV</a>: &nbsp;</span></li> <li class="no-pad-left"><a href="/cnn/programs/" title="CNN TV programming schedule">CNN</a></li> <li><a href="/cnni/" title="CNN International TV programming schedule">CNNi</a></li> <li><a href="http://cnnespanol.cnn.com/" hreflang="es" title="CNN in Spanish">CNN en Espa&#241;ol</a></li> <li class="no-border"><a href="http://www.hlntv.com">HLN</a></li> </ul> </div> </div> <div id="hdr-auth"> <ul> <li><a href="javascript:void(0);" onclick="showOverlay('profile_signup_overlay');return false;" title="Sign up">Sign up</a></li> <li class="no-border no-pad-right"><a href="javascript:void(0);" onclick="showOverlay('profile_signin_overlay');return false;" title="Log in">Log in</a></li> </ul> </div> <div id="hdr-search"> <form method="get" action="http://www.cnn.com/search/" onsubmit="return cnnSearch(this);"> <div class="ftr-search-datacntr"> <div class="ftr-search-tfield"><input id="hdr-search-box" maxlength="100" name="query" size="12" type="text" value=""/></div> <div class="ftr-search-sicon"><input alt="Search" height="21" src="http://i.cdn.turner.com/cnn/.e/img/3.0/search/btn_search_hp_text.gif" type="image" width="55"/></div> </div> <input name="primaryType" type="hidden" value="mixed"/><input name="sortBy" type="hidden" value="relevance"/><input name="intl" type="hidden" value="false"/> </form> </div> </div> </div> <div id="cnn_hdr-nav"> <ul id="us-menu"> <li class="no-border"><a href="/?hpt=sitenav" class="nav-media no-border" id="nav-home" title=""><span>Home</span></a></li> <li class="no-border"><a href="/video/?hpt=sitenav" class="nav-media no-border" id="nav-video" title="Video Breaking News Videos from CNN.com"><span>TV &amp; Video</span></a></li> <li class=""><a href="/US/?hpt=sitenav" class="" id="nav-us" title="U.S. News, Headlines, Stories, and Video from CNN.com"><span>U.S.</span></a></li> <li class=""><a href="/WORLD/?hpt=sitenav" class="" id="nav-world" title="World News International Headlines Stories and Video from CNN.com"><span>World</span></a></li> <li class=""><a href="/POLITICS/?hpt=sitenav" class="" id="nav-politics" title="Election and Politics News from CNN.com"><span>Politics</span></a></li> <li class=""><a href="/JUSTICE/?hpt=sitenav" class="" id="nav-justice" title="Justice News Courts Celebrity Docket and Law News from CNN.com"><span>Justice</span></a></li> <li class=""><a href="/SHOWBIZ/" class="nav-on" id="nav-entertainment" title="Entertainment News Celebrities Movies and TV from CNN.com">Entertainment</a></li> <li class=""><a href="/TECH/?hpt=sitenav" class="" id="nav-tech" title="Technology Computers Internet and Personal Tech News from CNN.com"><span>Tech</span></a></li> <li class=""><a href="/HEALTH/?hpt=sitenav" class="" id="nav-health" title="Health News Medicine Diet Fitness and Parenting from CNN.com"><span>Health</span></a></li> <li class=""><a href="/LIVING/?hpt=sitenav" class="" id="nav-living" title="Living News Personal Work and Home from CNN.com"><span>Living</span></a></li> <li class=""><a href="/TRAVEL/?hpt=sitenav" class="" id="nav-travel" title="Travel News Vacations Destinations and Video from CNN.com"><span>Travel</span></a></li> <li class=""><a href="/OPINION/?hpt=sitenav" class="" id="nav-opinion" title="Opinion Editorial Analysis and Insight from CNN.com"><span>Opinion</span></a></li> <li class="cnn-blue"><a href="http://ireport.cnn.com/?hpt=sitenav" class="" id="nav-ireport" title="CNN iReport &#8211; Share your story, discuss the issues with CNN.com"><span>iReport</span></a></li> <li class="cnn-blue"><a href="http://money.cnn.com/?hpt=sitenav" class="" id="nav-money" title="Business financial personal finance news from CNNMoney"><span>Money</span><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/global/header/money/nav-arrow.gif" width="3" height="5" alt="" /></a></li> <li class=""><a href="http://bleacherreport.com/?utm_source=cnn.com&utm_medium=referral&utm_campaign=cnn-nav" class="" id="nav-sports" title="The latest sports news and insights on all of your teams and today's hot topics from Bleacher Report (BleacherReport.com)."><span>Sports</span><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/global/header/nav-arrow.gif" width="3" height="5" alt="" /></a></li> <!--include virtual="/.element/ssi/www/misc/3.0/header/menu.bleacher.html"--> </ul> </div> </div>
+<div align="center"><div class="cnn_maincntnr">
+<div class="cnn_contentarea">
+<!-- this is where the breaking news CSI code will go -->
+<div id="cnnBannerContainer" class="cnn_www_banner" data-vr-zone="breakingbanner" data-vr-contentbox=""></div>
+<script type="text/javascript">
+CSIManager.getInstance().call('/.element/ssi/www/breaking_news/3.0/banner.html','','cnnBannerContainer',cnnRenderDomesticBanner);
+</script>
+<div id="cnnSetEditionContainer"></div>
+<div id="cnnMakeHPContainer"></div>
+
+<div class="cnn_storyarea">
+<style type="text/css">
+/* STORY PAGE SPECIFIC CSS */
+.cnn_stryspccvrgehdr { background:#fff url('http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bg_speccov_hdr.gif') 0px 0px repeat-x; }
+.cnn_stryspcvh1 { position:relative; height:74px;background:transparent url('http://i.cdn.turner.com/cnn/.element/ssi/story/3.0/banner/intl.style.inc/style.jpg') 50% 0px no-repeat;overflow:hidden; }
+.cnn_stryspcvh2 { font:bold 10px/12px arial;color:#666;padding:0 0 2px 0; }
+.cnn_stryspcvh3 { font-family:arial, helvetica, sans-serif; font-weight:bold; font-size:18px; line-height:21px; }
+.cnn_stryspcvh4 { position:absolute; z-index:1000; float:left;margin:30px 0 0 10px;display:inline; }
+.cnn_stryspcvh5 { float:right;margin:30px 10px 0 0;display:inline;text-align:right; }
+.cnn_stryspcvh20 { padding:0 0 2px 0; }
+.cnn_stryspccvrgebot { height:3px; background:#e6e6e6; }
+.cnn_stryspccvh6 { width:100%; height:74px; text-align:center; left:0; }
+.cnn_stryspccvh6 a { display:block; margin:0 auto; width:451px; height:74px; }
+</style>
+<!--[if lte IE 7]>
+<style type="text/css">
+.cnn_stryspcvh4 { position:static; }
+.cnn_stryspccvh6 { position:static; float:left; width:172px; font-size:10px; margin-left:130px; top:0; }
+.cnn_stryspccvrgebot { font-size:3px; overflow:hidden;}
+/*.cnn_stryspccvrgehdr { width:980px; } */
+/*.cnn_stryspccvh6 { background:red; }*/
+</style>
+<![endif]-->
+<div class="cnn_stryspccvrgehdr">
+<div class="cnn_stryspcvh1">
+<div class="cnn_stryspcvh5">
+<div class="cnn_stryspcvh2">
+<!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=bst&cnn_position=143x31_spon1&cnn_rollup=special_reports&cnn_section=cnn_style&page.allowcompete=no&params.styles=fs|CALLOUT -->
+<!-- ADSPACE: special_reports/cnn_style/bst/spon1.143x31 -->
+<div id="ad-67baf0985e8d4075" align="center" style="padding: 0; margin: 0; border: 0;"></div>
+<script type="text/javascript">
+cnnad_createAd("67baf0985e8d4075","http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=bst&cnn_position=143x31_spon1&cnn_rollup=special_reports&cnn_section=cnn_style&page.allowcompete=no&params.styles=fs","31","143", null, "");
+cnnad_registerSpace("67baf0985e8d4075","143","31");
+</script>
+<!-- ADSPACE-END -->
+</div>
+</div>
+<div class="cnn_stryspcvh4">
+<div class="cnn_stryspcvh2">Part of complete coverage on</div>
+<div class="cnn_stryspcvh3"><a href="/SPECIALS/style/">CNN Style</a>
+</div>
+</div>
+<div class="cnn_stryspccvh6"><a href="/SPECIALS/style/" style="width:451px;"></a></div>
+<div class="cnn_clear"></div>
+</div>
+</div>
+<div class="cnn_stryspccvrgebot"></div>
+<div class="cnn_strybtntools">
+<div id="cnn_sharebar1">
+<div class="c_sharebar_cntr c_sharebar_loading">
+<div class="c_sharelftcol">
+<div class="c_sharetitle">SHARE THIS</div>
+<div class="c_sharebtns">
+<ul>
+<li class="c_sharebtn c_sharebtnfb"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar1', 'facebook');"></a></li>
+<li class="c_sharebtn c_sharebtntwtr"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar1', 'twitter');"></a></li>
+<li class="c_sharebtn c_sharebtngplus"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar1', 'googleplus');"></a></li>
+<li class="c_sharebtn c_sharebtnlnkn"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar1', 'linkedin');"></a></li>
+</ul>
+<div class="cnn_clear"></div>
+</div>
+<div class="fb-like" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false" data-action="recommend" href="http://www.cnn.com/2014/09/23/showbiz/gallery/john-malkovich-iconic-portraits/index.html"></div>
+</div><!-- /c_sharelftcol -->
+<div class="c_sharedivcol"></div>
+<div class="c_shareweb c_sharergtcol">
+<ul>
+<li class="cnn_sswdgtweb1"><a href="#" onclick="if(typeof CleanPrintPrintHtml!='undefined' && CleanPrintPrintHtml) CleanPrintPrintHtml(); else window.print(); return false;">Print</a></li>
+<li class="cnn_sswdgtweb2"><a href="#" onclick="return(ET());">Email</a></li>
+<li class="cnn_sswdgtweb3"><a href="javascript:void(0);" onclick="$j('#cnn_sharebarmore1').toggle();">More sharing</a>
+<div id="cnn_sharebarmore1" class="sharebar_othersites sharebar_othersitesl" style="display:none;">
+<div class="shareProp">
+<div class="sharebutton_reddit" title="Reddit"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar1', 'reddit');">Reddit</a></div>
+</div>
+<div class="shareProp">
+<div class="sharebutton_stumbleupon" title="StumbleUpon"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar1', 'stumbleupon');">StumbleUpon</a></div>
+</div>
+<div class="shareProp">
+<div class="sharebutton_delicious" title="Delicious"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar1', 'delicious');">Delicious</a></div>
+</div>
+</div>
+</li>
+</ul>
+</div><!-- /c_sharergtcol -->
+<div class="cnn_clear"></div>
+</div>
+</div>
+</div>
+<script>
+/* push in config for this share instance */
+cnn_shareconfig.push({
+"id" : "cnn_sharebar1",
+"url" : "http://www.cnn.com/2014/09/23/showbiz/gallery/john-malkovich-iconic-portraits/index.html",
+"title" : "John Malkovich re-creates iconic portraits"
+});
+</script>
+<h1>John Malkovich re-creates iconic portraits</h1>
+<div class="cnn_stryathrtmp" style="width:250px;float:left;"></div>
+<div class="cnn_clear"></div>
+<div id="cnn_dyncntnt">
+<div class="cnn_dyncntnt2a">
+<div class="cnn_dyncntnt2b">
+<a href="javascript:void(0);" onclick="prev();">&lt;&lt; Previous</a> &nbsp; <a href="javascript:void(0);" onclick="nxt();">Next &gt;&gt;</a>
+</div>
+<div class="cnn_clear"></div>
+</div>
+<div class="cnn_dyncntnt1">
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/140923114928-01-dorothea-lange---migrant-mother-nipomo-california-1936-horizontal-large-gallery.jpg" width="980" height="552" alt="Actor and director John Malkovich teamed up with photographer Sandro Miller for an upcoming exhibition in which Malkovich poses in re-creations of iconic photographs. The exhibition, &quot;Malkovich, Malkovich, Malkovich: Homage to Photographic Masters,&quot; will take place in November at the Catherine Edelman Gallery in Chicago. Here, Malkovich poses in a re-creation of the &quot;Migrant Mother&quot; portrait that was originally shot by photographer Dorothea Lange in 1936." border="0"/>
+</div>
+<a href="javascript:void(0);"><span id="leftOverlay"></span></a>
+<a href="javascript:void(0);"><span id="rightOverlay"></span></a>
+<div class="cnn_dyncntnt2"><p>Actor and director John Malkovich teamed up with photographer Sandro Miller for an upcoming exhibition in which Malkovich poses in re-creations of iconic photographs. The exhibition, "Malkovich, Malkovich, Malkovich: Homage to Photographic Masters," will take place in November at the Catherine Edelman Gallery in Chicago. Here, Malkovich poses in a re-creation of the "Migrant Mother" portrait that was originally shot by photographer Dorothea Lange in 1936.</p></div>
+</div>
+<div class="cnn_dyncntntnav">
+<div class="cnn_dyncnav1">
+<a href="javascript:void(0);" id="leftDoubleArrow_Link" onclick="slideLeft();"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/gallery/left.nav.double.arrow.default.png" alt="" border="0" height="54" id="leftDoubleArrow" width="18"/></a>
+<a href="javascript:void(0);" id="leftSingleArrow_Link" onclick="prev();"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/gallery/left.nav.arrow.default.png" alt="" border="0" height="54" id="leftSingleArrow" style="margin-left:-2px;" width="18"/></a>
+</div>
+<div class="cnn_dyncnav2" id="cnn_dyncnav" style="height:66px;"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavb"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavc"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavd"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnave"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavf"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavg"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavh"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavi"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavj"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavk"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavl"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavm"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavn"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavo"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavp"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavq"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavr"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavs"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavt"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavu"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavv"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavw"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavx"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavy"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavz"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavaa"></div>
+<div class="hidden cnn_dyncnav2" id="cnn_dyncnavbb"></div>
+<div class="cnn_dyncnav3">
+<a href="javascript:void(0);" id="rightSingleArrow_Link" onclick="nxt();"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/gallery/right.nav.arrow.default.png" alt="" border="0" height="54" id="rightSingleArrow" width="18"/></a>
+<a href="javascript:void(0);" id="rightDoubleArrow_Link" onclick="slideRight();"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/gallery/right.nav.double.arrow.default.png" alt="" border="0" height="54" id="rightDoubleArrow" style="margin-left:-2px;" width="18"/></a>
+</div>
+<div class="cnn_clear"></div>
+</div>
+<div class="cnn_adcntr">
+<div class="cnn_adcntr728x90t">
+<div><!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=bst&cnn_position=728x90_top&cnn_rollup=special_reports&cnn_section=cnn_style&page.allowcompete=no&params.styles=fs|CALLOUT -->
+<!-- ADSPACE: special_reports/cnn_style/bst/top.728x90 -->
+<div id="ad-149288dd0d5f263c" align="center" style="padding: 0; margin: 0; border: 0;"></div>
+<script type="text/javascript">
+cnnad_createAd("149288dd0d5f263c","http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=bst&cnn_position=728x90_top&cnn_rollup=special_reports&cnn_section=cnn_style&page.allowcompete=no&params.styles=fs","90","728", null, "");
+cnnad_registerSpace("149288dd0d5f263c","728","90");
+</script>
+<!-- ADSPACE-END --></div>
+<div class="cnn_adtitle"></div>
+</div>
+</div>
+<div class="cnn_dyncntntbtm1"><div class="cnn_strybtmcntnt"></div></div>
+<div class="cnn_clear"></div>
+<div class="cnn_outBrainPaid">
+<div class="OUTBRAIN" data-src='http://www.cnn.com//2014/09/23/showbiz/gallery/john-malkovich-iconic-portraits/index.html' data-widget-id="AR_7" data-ob-template="cnn" ></div>
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+</div>
+<div class="cnn_outBrainOrganic">
+<div class="OUTBRAIN" data-src='http://www.cnn.com//2014/09/23/showbiz/gallery/john-malkovich-iconic-portraits/index.html' data-widget-id="AR_11" data-ob-template="cnn" ></div>
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+</div>
+<div class="cnn_pad20top"></div>
+</div>
+</div>
+</div></div>
+<div align="center"> <div class="cnn_pad6top"></div> <div class='cnn_containerwht' style='width:990px'> <div id="cnn_ftrcntnt"><div class="clearfix" id="cnn_ftrcntntinner"> <div class="cnn_ftrdivl1"></div> <div id="pmWeatherFooter" style="visibility:visible"><p><strong></strong></p></div> <div id="ftr-search"> <form action="http://www.cnn.com/search/" method="get" onsubmit="return cnnSearch(this);"> <div class="ftr-search-datacntr"> <div class="ftr-search-tfield"><input id="ftr-search-box" maxlength="100" name="query" size="12" type="text" value=""/></div> <div class="ftr-search-sicon"><input alt="Search" src="http://i.cdn.turner.com/cnn/.e/img/3.0/search/search_btn_footer.gif" type="image"/></div> </div> <input id="cnnFtrSrchType" name="primaryType" type="hidden" value="mixed"/> <input name="sortBy" type="hidden" value="relevance"/> <input name="intl" type="hidden" value="false"/> <div class="cnn_ftrggle"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/global/footer/pngs/footer_google.png" alt="Powered by Google" border="0" class="cnn_ie6png" height="13" width="88"/></div> </form> </div> <div class="cnn_clear"></div> <div class="cnn_divline" style="background-color:#ebebeb;margin-top:3px"></div> <div class="cnn_ftrnvlnks"> <div><a href="/">Home</a> | <a href="/video/">Video</a> | <a href="/US/">U.S.</a> | <a href="/WORLD/">World</a> | <a href="/POLITICS/">Politics</a> | <a href="/JUSTICE/">Justice</a> | <a href="/SHOWBIZ/">Entertainment</a> | <a href="/TECH/">Tech</a> | <a href="/HEALTH/">Health</a> | <a href="/LIVING/">Living</a> | <a href="/TRAVEL/">Travel</a> | <a href="/OPINION/">Opinion</a> | <a href="http://ireport.cnn.com/?cnn=yes">iReport</a> | <a href="http://money.cnn.com/?cnn=yes">Money</a> | <a href="http://bleacherreport.com/?utm_source=cnn.com&utm_medium=referral&utm_campaign=cnn-footer">Sports</a></div> <div><a href="/tools/index.html">Tools &amp; widgets</a> | <a href="/services/rss/">RSS</a> | <a href="/services/podcasting/">Podcasts</a> | <a href="/exchange/blogs/index.html">Blogs</a> | <a href="/mobile/">CNN mobile</a> | <a href="/profile/">My profile</a> | <a href="/profile/">E-mail alerts</a> | <a href=" /macalerts/">Desktop Alerts</a> | <a href="http://www.turnerstoreonline.com/">CNN shop</a> | <a href="/sitemap/">Site map</a> | <a href="/feedback/">Contact us</a> </div> </div> <div class="cnn_ftrdivl2"></div> <div class="cnn_ftrlnggcntr"> <div><a href="/espanol/" hreflang="es" title="CNN in Spanish">CNN en ESPA&Ntilde;OL</a> | <a href="http://mexico.cnn.com" hreflang="es">CNN M&eacute;xico</a> | <a href="http://www.cnnchile.com" hreflang="es">CNN Chile</a> | <a href="http://www.cnnexpansion.com" hreflang="es">CNN Expansi&oacute;n</a></div> <div><a href="http://arabic.cnn.com/" hreflang="ar" title="CNN Arabic">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a> | <a href="http://www.cnn.co.jp/" hreflang="ja" title="CNN Japan">&#26085;&#26412;&#35486;</a> | <a href="http://www.cnnturk.com/" hreflang="tr" title="CNN Turkey">T&uuml;rk&ccedil;e</a></div> <div><a href="/CNN/Programs/" title="CNN TV programming schedule">CNN TV</a> | <a href="/HLN/">HLN</a> | <a href="http://transcripts.cnn.com/TRANSCRIPTS/">Transcripts</a> | </div> </div> <div class="cnn_ftrlgcpy"> <div><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/global/footer/pngs/footer_cnn_logo.png" alt="CNN" border="0" class="cnn_ie6png" height="11" width="23"/>&copy; Cable News Network. <a href="http://www.turner.com/" class="cnn_ftrtbslink">Turner Broadcasting System, Inc.</a> All Rights Reserved.</div> <div class="cnn_ftrlgcpy1"><a href="/interactive_legal.html" rel="nofollow">Terms of service</a> | <a href="/privacy.html" rel="nofollow">Privacy guidelines</a> | <a id="cnn_cnsnt_trst"><script type="text/javascript" src="//consent.truste.com/notice?domain=turner.com&c=cnn_cnsnt_trst&text=true&country=us"></script></a><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/global/misc/logo_ad_choices_footer.png" alt="" border="0" class="cnn_ie6png" height="12" style="margin:0pt 0pt 0pt 4px;" width="12"/> | <a href="/services/advertise/main.html" rel="nofollow">Advertise with us</a> | <a href="/about/" rel="nofollow">About us</a> | <a href="http://www.turner.com/careers/">Work for us</a> | <a href="/help/" rel="help">Help</a></div> <div class="cnn_ftrlgcpy1"><a href="http://www.cnnnewsource.com" rel="nofollow">CNN Newsource</a> | <a href="http://www.cnnimagesource.com" rel="nofollow">License Footage</a></div><div class="cnn_clear"></div> </div><div class="cnn_clear"></div> </div></div> </div> </div> <script src="http://z.cdn.turner.com/cnn/tmpl_asset/static/www_global/967/js/globallib-min.js"></script> <script src="http://content.dl-rms.com/rms/mother/5721/nodetag.js"></script> <script src="http://icompass.insightexpressai.com/97.js"></script> <script> if(ms_isLoggedIn()){CNN_setCookie('CNN_member',true,854400,'/',document.domain);} </script> <div id="csimanagerdiv"></div> <div id="csimanagerdivdelayed"></div>
+<!--jsmd-->
+<script src="http://z.cdn.turner.com/cnn/.e/js/libs/jsmd-66.min.js"></script>
+
+<script>
+var jsmd=_jsmd.init(),pageURL=location.href.toLowerCase();
+if (pageURL.indexOf("/.element/ssi/ads.iframes/")==-1&&pageURL.indexOf("/doubleclick/dartiframe.html")==-1&&pageURL.indexOf("/search/")==-1){
+if (_jsmd.plugin.gQuery("refresh")){
+jsmd.trackMetrics("dynamic-autoRefresh","autorefresh","cnn-autorefresh");
+} else if (_jsmd.plugin.gQuery("is_LR")){
+} else if (cnn_metadata.template_type_content!="gallery"){
+jsmd.send();
+}
+}
+</script>
+<!--/jsmd-->
+<script>
+/*globals FOOTERTOOLS*/
+$j(window).load(function () {
+'use strict';
+FOOTERTOOLS.init();
+});
+</script><script>
+/*globals cnnsocial */
+/* configure apis to load and specify their callbacks */
+cnnsocial.setapiconfig([
+{
+'site' : 'facebook',
+'success' : function() {
+/* trigger connect-cnnsocial.js calls */
+window.cnn_fbAsyncInit();
+}
+},
+{ 'site' : 'twitter' }
+]);
+<!--Visual Revenue Reader Response Tracking Script (v6) -->
+var _vrq = _vrq || [];
+var vrId = 6;
+if(cnn_edtnswtchver === 'edition'){
+vrId = 396;
+}
+_vrq.push(['id', vrId]);
+_vrq.push(['automate', false]);
+_vrq.push(['track', function(){}]);
+(function(d, a){
+var s = d.createElement(a),
+x = d.getElementsByTagName(a)[0];
+s.async = true;
+s.src = 'http://a.visualrevenue.com/vrs.js';
+x.parentNode.insertBefore(s, x);
+})(document, 'script');
+<!-- End of VR RR Tracking Script - All rights reserved -->
+/* add the multiple config instance for sharebars */
+cnnsocial.share.setconfig(cnn_shareconfig);
+$j(document).ready(function () {
+'use strict';
+loadChartbeat("showbiz", "");
+/* initialize cnnsocial */
+cnnsocial.init();
+});
+</script><script>initializeCnnGallery(2);</script>
+</body>
+</html>

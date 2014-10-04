@@ -1,0 +1,914 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns="http://www.w3.org/1999/xhtml"> <head> <title>Is the iPhone 6 Plus bendable? - Sep. 24, 2014 </title> <link rel="image_src" href="http://i2.cdn.turner.com/money/dam/assets/140924092356-iphone-6-plus-620xa.jpg" /> <link rel="canonical" href="http://money.cnn.com/2014/09/24/technology/mobile/apple-iphone-bend/index.html" /> <link rel="shortlink" href="http://cnnmon.ie/1rn4lvT" /> <meta name="date" content="2014-09-24 09:45:50" /> <meta name="title" content="Is the iPhone 6 Plus bendable?" /> <meta name="description" content="Some iPhone 6 Plus users have reported that the new Apple device bends after being carried in a pants pocket for a prolonged period of time. " /> <meta name="keywords" content="iphone, iphone 6 plus, smartphone, apple, #bendgate, cnnmoney, ben rooney" /> <meta name="news_keywords" content="iphone, iphone 6 plus, smartphone, apple, #bendgate, cnnmoney, ben rooney" /> <meta name="author" content="Ben Rooney" /> <meta name="section" content="technology" /> <meta name="subsection" content="mobile" /> <meta property="og:title" content="Is the iPhone 6 Plus bendable?" /> <meta property="og:type" content="article" /> <meta property="og:url" content="http://money.cnn.com/2014/09/24/technology/mobile/apple-iphone-bend/index.html" /> <meta property="og:image" content="http://i2.cdn.turner.com/money/dam/assets/140924092356-iphone-6-plus-620xa.jpg" /> <meta property="og:site_name" content="CNNMoney" /> <meta property="og:description" content="Some iPhone 6 Plus users have reported that the new Apple device bends after being carried in a pants pocket for a prolonged period of time. " /> <meta property="fb:app_id" content="521848191196480"/>
+ <meta name="twitter:card" content="summary"> <meta name="twitter:site" content="@CNNMoney"> <meta name="twitter:url" content="http://money.cnn.com/2014/09/24/technology/mobile/apple-iphone-bend/index.html"> <meta name="twitter:title" content="Is the iPhone 6 Plus bendable?"> <meta name="twitter:description" content="Some iPhone 6 Plus users have reported that the new Apple device bends after being carried in a pants pocket for a prolonged period of time. "> <meta name="twitter:image" content="http://i2.cdn.turner.com/money/dam/assets/140924092356-iphone-6-plus-120x90.jpg"> <meta name="DC.date.issued" content="2014-09-24T09:45:50" /> <meta property="vr:type" content="Article" /> <meta property="vr:category" content="mobile" /> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> <link href='http://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic' rel='stylesheet' type='text/css'> <link rel="stylesheet" type="text/css" href="http://z.cdn.turner.com/money/tmpl_asset/static/style/50/css/cnnmoney.story-min.css" /> <script type="text/javascript" src="http://z.cdn.turner.com/money/tmpl_asset/static/script/73/js/cnnmoney.main-min.js"></script> <script type="text/javascript" src="http://z.cdn.turner.com/money/.e/script/jquery/1.11.1/jquery.min.js"></script> <script type="text/javascript" src="http://z.cdn.turner.com/money/.e/script/jquery.migrate/jquery.migrate.min.js"></script> <script language="JavaScript" type="text/javascript">var cnnSiteWideCurrDate = new Date(2014, 9, 3);</script> <!--[if lt IE 9]>
+	<script src="http://z.cdn.turner.com/money/.element/script/html5shiv/3.7.0/html5shiv.js"></script>
+<![endif]-->
+
+<!--// Optimizely script include -->
+<script src="//cdn.optimizely.com/js/59492907.js"></script>
+
+<!--// Outbrain VR: generic //-->
+<script type="text/javascript">
+var _vrq_automate = false;
+if(location.pathname == '/' || location.pathname == '/index.html') {_vrq_automate = true;}
+var _vrq = _vrq || []; 
+_vrq.push(['id', 454]); 
+_vrq.push(['automate', _vrq_automate]); 
+_vrq.push(['track', function(){}]); 
+(function(d, a){
+	var s = d.createElement(a),
+	x = d.getElementsByTagName(a)[0];
+	s.async = true;
+	s.src = 'http://a.visualrevenue.com/vrs.js';
+	x.parentNode.insertBefore(s, x);}
+)(document, 'script');
+</script> 
+
+<style>
+.socLinks .cm,
+.cmmtcount {display: none;}
+#cnnBody {z-index:2;position:relative;}
+</style> <script type="text/javascript"> var cnnActivePlayer = null; var cnnPlayers = []; var vidConfig = []; </script> <script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+<script type="text/javascript">
+document.adoffset = 0;
+</script>
+<script type="text/javascript" src="http://i.cdn.turner.com/money/fn_adspaces/cnn_adspaces.js"></script>
+<script> 
+cnnad_newTileIDGroup(new Array('970x418_top', '475x900_rgt', '728x90_top', '300x250_rgt', '336x600_rgt', '336x280_rgt')); 
+</script>   </head> <body class="cnn-story"> <header id="cnnHeader" class="moneyTechNav"> <!--script language="JavaScript" src="http://i.cdn.turner.com/money/.element/ssi/javascript/1.1/cnnhat_section.js"></script-->
+<div id="top-nav">
+	<div class="inner-shell">
+ 		<a class="cnn-link" href="http://cnn.com"><span class="cnn-logo icon"></span> Homepage</a>
+		<ul class="utils horizontal-list">
+			<li class="headerSubscribe no-border first-child">
+				<div class="intl_edition">
+					<dl class="edtn_dropdown">
+   						<dt>
+   							<a class="dropdownSelect">U.S.</a>
+   						</dt>
+				        <dd>
+				            <ul>
+				                <li><a id="international">International</a></li>
+				            </ul>
+				        </dd>
+     				</dl>
+    			</div>
+			</li>
+			<li class="username" style="display: none;"></li>
+			<li class="status">
+				<a href="javascript:void(0)" class="cnnLogin">Log In</a>
+			</li>
+			<li class="status" style="display: none;">
+				<a href="javascript:void(0)" class="cnnLogout">Log Out</a>
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	</div> <!-- end .inner-shell -->
+</div> <!-- end #top-nav -->
+<div id="banner">
+	<div class="inner-shell">
+		<a class="icon cnnmoney-logo" href="/" rel="home">
+			<h1 class="visuallyhidden">CNNMoney</h1>
+		</a>
+		<nav class="content-type-nav">
+     		<ul class="horizontal-list">
+				<li>
+					<a href="/video">
+						<span class="video icon"></span>
+						Video
+						<div class="clearfix"></div>
+					</a>
+				</li>
+				<li>	
+					<a href="https://portfolio.money.cnn.com?utm_medium=CNN_Nav">
+						<span class="portfolio icon"></span>
+						Portfolio
+						<div class="clearfix"></div>
+					</a>
+				</li>
+				<li id="search-box">
+					<form name="quoteForm" action="http://searchapp.cnn.com/money-search/validate.jsp" method="get">
+						<input type="text" id="symb" name="symbols" id="txtSearchBox" title="Enter symbol or keyword">
+						<button id="search_button" class="search icon" type="submit"></button>
+					</form>
+				</li>
+			</ul>
+			<div class="clearfix"></div>
+     	</nav>
+ 	</div> <!-- end .inner-shell -->
+</div> <!-- end #banner -->
+ <div id="main-menu">
+ 	<div class="inner-shell">
+     	<nav class="sections-nav">
+     		<ul class="megamenu mm-item-link-hover horizontal-list">
+				<li class="mm-item first-child">
+					<a class="mm-item-link" id="navhome" href="/">
+						Home
+						<span class="pipe"></span>
+					</a>
+				</li>
+				<li class="mm-item">
+					<a class="mm-item-link" id="navbiznews" href="/news/">
+						Business
+						<span class="pipe"></span>
+					</a>
+					<div class="mm_dropdown mm-item-content">
+						<div id="flyout_news" class="mm-content-base">
+							<!--include virtual="/.element/ssi/auto/5.0/navigation/flyout.news.html"-->
+						</div>
+					</div>
+				</li>
+				<li class="mm-item">
+					<a class="mm-item-link" id="navmarkets" href="/markets/">
+						Markets
+						<span class="pipe"></span>
+					</a>
+					<div class="mm_dropdown mm-item-content">
+						<div id="flyout_markets" class="mm-content-base">
+							<!--include virtual="/.element/ssi/auto/5.0/navigation/flyout.markets.html"-->
+						</div>
+					</div>
+				</li>
+				<li class="mm-item">
+					<a class="mm-item-link" id="navinvesting" href="/investing/">
+						Investing
+						<span class="pipe"></span>
+					</a>
+		        	<div class="mm_dropdown mm-item-content">
+		          		<div id="flyout_investing" class="mm-content-base"> 
+		                </div>
+		        	</div>
+		      	</li>
+				<li class="mm-item">
+					<a class="mm-item-link" id="navecon" href="/news/economy/">
+						Economy
+						<span class="pipe"></span>
+					</a>
+					<div class="mm_dropdown mm-item-content">
+						<div id="flyout_economy" class="mm-content-base">
+							<!--include virtual="/.element/ssi/auto/5.0/navigation/flyout.economy.html"-->
+						</div>
+					</div>
+				</li>
+				<li class="mm-item">
+					<a class="mm-item-link" id="navtech" href="/technology/">
+						Tech
+						<span class="pipe"></span>
+					</a>
+					<div class="mm_dropdown mm-item-content">
+						<div id="flyout_tech" class="mm-content-base">
+							<!--include virtual="/.element/ssi/auto/5.0/navigation/flyout.tech.html"-->
+						</div>
+					</div>
+				</li>
+				<li class="mm-item">
+					<a class="mm-item-link" id="navpf" href="/pf/">
+						Personal Finance
+						<span class="pipe"></span>
+					</a>
+					<div class="mm_dropdown mm-item-content">
+						<div id="flyout_pf" class="mm-content-base">
+							<!--include virtual="/.element/ssi/auto/5.0/navigation/flyout.pf.html"-->
+						</div>
+					</div>
+				</li>
+				<li class="mm-item">
+					<a class="mm-item-link" id="navsmbiz" href="/smallbusiness/">
+						Small Business
+						<span class="pipe"></span>
+					</a>
+					<div class="mm_dropdown mm-item-content">
+						<div id="flyout_smallbusiness" class="mm-content-base">
+							<!--include virtual="/.element/ssi/auto/5.0/navigation/flyout.smallbusiness.html"-->
+						</div>
+					</div>
+				</li>
+				<li class="mm-item">
+					<a class="mm-item-link" id="navluxury" href="/luxury/">
+						Luxury
+						<span class="pipe"></span>
+					</a>
+					<div class="mm_dropdown mm-item-content">
+						<div id="flyout_luxury" class="mm-content-base">
+							<!--include virtual="/.element/ssi/auto/5.0/navigation/flyout.luxury.html"-->
+						</div>
+					</div>
+				</li>
+				<li class="mm-item last-child">
+					<a class="mm-item-link" id="navmedia" href="/media/">
+						Media
+					</a>
+					<div class="mm_dropdown mm-item-content">
+						<div id="flyout_media" class="mm-content-base">
+							<!--include virtual="/.element/ssi/auto/5.0/navigation/flyout.media.html"-->
+						</div>
+					</div>
+				</li>
+				<li id="mm-share-twitter" class="social-nav-item">
+					<a onclick="eventLogger.social_track('twt-tweet', 'http://money.cnn.com');" href="https://twitter.com/cnnmoney" target="_blank" class="twitter icon"><span class="visuallyhidden">Twitter</span></a>
+				</li>
+				<li id="mm-like-facebook" class="social-nav-item">
+					<a onclick="eventLogger.social_track('fb-like', 'http://money.cnn.com');" href="https://www.facebook.com/cnnmoney" target="_blank" class="facebook icon"><span class="visuallyhidden">Facebook</span></a>
+				</li>
+			</ul>
+			<div class="clearfix"></div>
+     	</nav>
+    </div> <!-- end .inner-shell -->
+</div> <!-- end #main-menu --> <nav id="subnav">
+	<div class="inner-shell">
+		<ul class="horizontal-list">
+			<li><a href="/technology/mobile/">Mobile</a></li>
+			<li><a href="/technology/security/">Security</a></li>
+			<li><a href="/technology/social/">Social</a></li>
+			<li><a href="/technology/innovationnation/">Innovation Nation</a></li>
+			<li><a href="/technology/enterprise/">Enterprise</a></li>
+			<li><a href="/technology/tech30/">Tech30</a></li>
+			<li><a href="/interactive/">Interactive</a></li>
+			<li class="last-child"><a href="/video/technology/">Video</a></li>
+		</ul>
+	</div>
+</nav>
+ </header> <div id="adBanner"><!-- ADSPACE: technology/mobile/top.970x418 -->
+<div id="ad-399f933995aaa913" align="center" style="padding: 0; margin: 0; border: 0;">
+<script type="text/javascript">cnnad_createAd("399f933995aaa913","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_pagetype=story_sync&cnn_money_position=970x418_top&cnn_money_rollup=technology&cnn_money_section=mobile&params.styles=fs&page.allowcompete=no","418","970");</script>
+</div>
+<!-- ADSPACE-END --></div> <div id="cnnBody"> <div class="cnnCol_main js-social-anchor-start"> <div class="cnnm_sharebar" id="smt_floater"></div> <div id="storycontent" > <div class="breadcrumb"> </div> <div class="hed_side"> <a href="/"> <div class="source cnnmoney"></div> </a> <div class="cmmtcount"> <a href="/2014/09/24/technology/mobile/apple-iphone-bend/index.html" class="money-social money-get-comments"></a>&nbsp;<a href="#comments">comments</a> </div> </div> <h1>Is the iPhone 6 Plus bendable?</h1> <span class="cnnbyline js-vid-byline-"><span class="byline">By Ben Rooney</span>&nbsp; <a href="https://twitter.com/intent/user?screen_name=ben_rooney" class="soc-twtname">@ben_rooney</a> </span> <span class="cnnDateStamp">September 24, 2014: 11:56 AM ET</span> <div class="clearFloat"></div> <div class="cnnm_sharebar" id="smt_secondary"></div> <!--storytext--> <div id="storytext"> <script type="text/javascript"> vidConfig.push({ videoArray : [ {id : "/video/technology/2014/09/24/iphone-6-plus-bend.cnnmoney", hed: "Does the iPhone 6 Plus bend? CNN tests."} ], loc : 'top', playerprofile : 'story', playerid : 'cvp_story_0', divid : 'vid0', hedtarget : '#cnnplayer0 .cnnHeadline' }); jQuery(document).ready(function() { VideoPlayerManager.playVideos('cvp_story_0'); }); </script> <div class="cnnplayer" id="cnnplayer0"> <div class="cnnVidplayer"> <a class="summaryImg" id="vid0" href="/video/technology/2014/09/24/iphone-6-plus-bend.cnnmoney" onclick="javascript:VideoPlayerManager.playVideos('cvp_story_0'); return false;"> <img src="http://i2.cdn.turner.com/money/dam/assets/140924185720-iphone-6-plus-bend-00003707-620x348.jpg" width="620" height="348" alt="Does the iPhone 6 Plus bend? CNN tests." border="0" /> <span class="video_playbtn">&nbsp;</span> </a> </div> <div class="cnnVidFooter"> <div class="js-vid-hed-cvp_story_0 cnnHeadline">Does the iPhone 6 Plus bend? CNN tests.</div> <div class="js-vid-countdown-cvp_story_0 countdown"></div> </div> </div> <!-- main --> <div class="cnnm_sharebar" id="smt_main"></div> <div class="cnnStorySource"> NEW YORK (CNNMoney) </div> <h2>If you just bought an iPhone 6 Plus and you like to wear tight pants, beware. ...maybe.</h2> <p> There are reports circulating online claiming that the new, larger iPhone bends when owners carried them in their pockets for long periods of time. Ironically, the reports came the same day that <a href='http://www.squaretrade.com/press/iphone-6-earns-best-score-ever-iphone-6-plus-not-far-behind' target='_blank'>smartphone warranty provider SquareTrade</a> called the <a href='http://money.cnn.com/2014/09/22/technology/mobile/apple-iphone-sales/?iid=EL'>iPhone 6 and iPhone 6 Plus</a> the "most durable smartphones ever." </p> <div id="ie_column"> <div id="quigo220"><!-- ADSPACE: technology/quigo/ctr.220x200 -->
+<div id="ad-121f148185b65ec8" align="center" style="padding: 0; margin: 0; border: 0;">
+<script type="text/javascript">cnnad_createAd("121f148185b65ec8","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_position=220x200_ctr&cnn_money_rollup=technology&cnn_money_section=quigo&params.styles=fs&page.allowcompete=no","200","220");</script>
+</div>
+<!-- ADSPACE-END --></div> </div> <p> It's impossible to say whether reports of bending iPhone 6 Pluses are a sign of a systemic design flaw, a defect in a limited number of devices or even a hoax. CNNMoney was not able to replicate the issue in several attempts to bend the iPhone 6 Plus. </p> <p> <span>Apple</span> <span>(<span class='inlink_chart'><a href='http://money.cnn.com/quote/quote.html?symb=AAPL&amp;source=story_quote_link' class='inlink'>AAPL</a></span>, <a href='http://money.cnn.com/technology/tech30/index.html'>Tech30</a>)</span> did not immediately respond to a request for comment. </p> <p> <a href='http://money.cnn.com/2014/09/24/technology/iphone-6-china/index.html?iid=Lead'><span class='inStoryHeading'>Related: Chinese smugglers make big bucks on iPhone 6</span></a> </p> <p> One report Apple blog <a href='http://www.macrumors.com/2014/09/23/iphone-6-plus-bending-pockets/' target='_blank'>MacRumors</a> shows photos of iPhone 6 Plus devices that appear slightly warped. The owner claimed the curvature appeared after carrying the device in the front pocket of his pants for several hours. </p> <p> Other reports have been posted to <span>Twitter</span> <span>(<span class='inlink_chart'><a href='http://money.cnn.com/quote/quote.html?symb=TWTR&amp;source=story_quote_link' class='inlink'>TWTR</a></span>, <a href='http://money.cnn.com/technology/tech30/index.html'>Tech30</a>)</span> under the hashtag #BendGate -- although many are clearly Photoshopped images. </p> <p> YouTube video posted by Unbox Therapy shows a man appearing to bend the iPhone 6 Plus using his hands to apply pressure to a point near the buttons on the side of the device. </p> <script type="text/javascript"> vidConfig.push({ videoArray : [ {id : "/video/technology/2014/09/24/iphone-6-bend-complaints.cnnmoney", hed: "iPhone 6 Plus users complain it bends"} ], playerprofile : 'story', playerid : 'cvp_story_1', divid : 'vid1', hedtarget : '#cnnplayer1 .cnnHeadline' }); </script> <div class="cnnplayer" id="cnnplayer1"> <div class="cnnVidplayer"> <a class="summaryImg" id="vid1" href="/video/technology/2014/09/24/iphone-6-bend-complaints.cnnmoney" onclick="javascript:VideoPlayerManager.playVideos('cvp_story_1'); return false;"> <img src="http://i2.cdn.turner.com/money/dam/assets/140924113317-iphone-6-620x348.png" width="620" height="348" alt="iPhone 6 Plus users complain it bends" border="0" /> <span class="video_playbtn">&nbsp;</span> </a> </div> <div class="cnnVidFooter"> <div class="js-vid-hed-cvp_story_1 cnnHeadline">iPhone 6 Plus users complain it bends</div> <div class="js-vid-countdown-cvp_story_1 countdown"></div> </div> </div> <p> Lewis Hilsenteger, the Internet personality who posted the video, insisted that bending the device was just a matter of strength. </p> <p> "Grab it in the middle with the glass facing out and give it everything you have," he told CNNMoney in an email. "It'll bend." </p> <p> On Twitter, some iPhone fans suggested that the jumbo smartphone is just not compatible with skinny jeans. There's also a camp that argues that if you own a $750 smartphone, you shouldn't sit on it. </p> <p> <a href='/2014/09/24/technology/mobile/iphone-bluetooth/index.html' target='_blank'><span class='inStoryHeading'>Related: iPhone 6 has car Bluetooth problems</span></a> </p> <p> Last year, there were some reports that the iPhone 5S could bend. So this isn't an entirely new issue for Apple -- if the reports are accurate. </p> <p> CNNMoney received a test model and several staffers tried and failed to change its shape using brute force. (Though we might not have been trying hard enough: We are required to return the device to Apple in working condition.) </p> <p> The iPhone 6 Plus is significantly larger and thinner than the traditional iPhone. It's also made of aluminum, which is a naturally flexible material. <a href="#TOP" class="story_endoftext"></a> </p> <div id="storyFooter"></div> <div class="clearfix"></div> <div class="storytimestamp"> First Published: September 24, 2014: 9:45 AM ET </div> </div> <!--/storytext--> <div class="foot"> <div id="postedin"></div> <div class="clearFloat"></div> </div> </div> <div id="quigo628"><!-- ADSPACE: technology/quigo/bot.628x215 -->
+<div id="ad-c6de9fcd10923c2e" align="center" style="padding: 0; margin: 0; border: 0;">
+<script type="text/javascript">cnnad_createAd("c6de9fcd10923c2e","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_position=628x215_bot&cnn_money_rollup=technology&cnn_money_section=quigo&params.styles=fs&page.allowcompete=no","215","628");</script>
+</div>
+<!-- ADSPACE-END --></div> <div id="taboola-thumbs-1r"></div> 
+<div id="OB_div"></div> <a name="comments"></a> <div class="mod-disqus"> <div class="boxHeading">Join the Conversation</div> <div id="adComments"><!-- ADSPACE: technology/social_media/commenting/mid.475x60 -->
+<div id="ad-64f1ab75b78bc5ac" align="center" style="padding: 0; margin: 0; border: 0;">
+<script type="text/javascript">cnnad_createAd("64f1ab75b78bc5ac","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_position=475x60_mid&cnn_money_rollup=technology&cnn_money_section=social_media&cnn_money_subsection=commenting&params.styles=fs&page.allowcompete=no","60","475");</script>
+</div>
+<!-- ADSPACE-END --></div>
+ <div id="disqus_thread"></div>
+ </div> </div> <div class="cnnCol_side"> <div class="mod-mostpop" data-vr-zone="Most Popular RR module">
+    <div id="most-popular" class="rr-mod-standard">
+	<div class="boxHeading">Most Popular</div>
+	
+	<table cellpadding="0" cellspacing="0" border="0">
+	<tr data-vr-contentbox >
+		<td class="cnnHeadline">
+			<img src="http://i2.cdn.turner.com/money/dam/assets/141003180215-cvs-size-small-124x70.jpg" width="124" height="70">
+			<a href="http://money.cnn.com/2014/10/03/news/cvs-size-small/index.html?iid=TL_Popular">CVS sanctioned for skimping on product sizes</a>
+		</td>
+	</tr>
+	<tr data-vr-contentbox >
+		<td class="cnnHeadline">
+			<img src="http://i2.cdn.turner.com/money/dam/assets/141003072215-bernanke-refinance-124x70.jpg" width="124" height="70">
+			<a href="http://money.cnn.com/2014/10/03/real_estate/bernanke-refinance/index.html?iid=TL_Popular">Ben Bernanke can't refinance: Tough lending standards</a>
+		</td>
+	</tr>
+	<tr data-vr-contentbox class="lastItem">
+		<td class="cnnHeadline">
+			<img src="http://i2.cdn.turner.com/money/dam/assets/141003034124-hk-matters-124x70.jpg" width="124" height="70">
+			<a href="http://money.cnn.com/2014/10/03/news/economy/hong-kong-matters-china/index.html?iid=TL_Popular">This is why Hong Kong matters</a>
+		</td>
+	</tr>
+	</table>
+</div>
+
+</div> <div id="adsquare"><!-- ADSPACE: technology/mobile/rgt.336x600 -->
+<div id="ad-db20df9b71c0dd44" align="center" style="padding: 0; margin: 0; border: 0;">
+<script type="text/javascript">cnnad_createAd("db20df9b71c0dd44","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_pagetype=story_sync&cnn_money_position=336x600_rgt&cnn_money_rollup=technology&cnn_money_section=mobile&params.styles=fs&page.allowcompete=no","600","336");</script>
+</div>
+<!-- ADSPACE-END --></div> ﻿<div id="mod-myinvestments" class="portStandalone"><iframe scrolling="no" src="http://portfolio.money.cnn.com/widget/standard/height250/techstory?iid=Tech_PT" frameborder="0" width="276" height="250" marginheight="0" marginwidth="0" id="portfolioLogin" ></iframe></div>
+ <style>
+#gdWidget {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 17px;
+}
+
+#gdWidget .widgetBody {
+    width: 300px;
+    max-height: 500px;
+    overflow: hidden;
+    position: relative;
+}
+
+#gdWidget .ie8 .widgetBody {
+    min-width: 300px;
+}
+
+#gdWidget * {
+    font-family: Lato, Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+#gdWidget h2 {
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+}
+
+#gdWidget h2,#gdWidget h3,.data {
+    font-size: 12px;
+}
+
+#gdWidget div.col1 {
+    float: left;
+    padding: 0;
+    width: 54%;
+}
+
+#gdWidget div.col2 {
+    float: left;
+    padding: 5px 0 0;
+    width: 95px;
+}
+
+#gdWidget ul.categories {
+    font-size: 11px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#gdWidget ul.categories li {
+    margin-top: 3px;
+}
+
+#gdWidget .logo {
+    float: left;
+    height: 30px;
+    width: 12%;
+}
+
+#gdWidget .logo a > img {
+    border: 1px solid #dedede;
+    height: 28px;
+    width: 28px;
+}
+
+#gdWidget .searchFormWrapper {
+    color: #515151;
+    font-size: 13px;
+    left: 0;
+    line-height: 13.5px;
+    padding: 10px 10px 0;
+    width: 100%;
+}
+
+#gdWidget .ie8 .searchFormWrapper {
+    padding-top: 3px;
+}
+
+#gdWidget .defaultWidgetBody .searchFormWrapper {
+    bottom: auto;
+    left: auto;
+    position: relative;
+}
+
+#gdWidget .searchFormWrapper form {
+    border-bottom: 1px solid #DAE0E6;
+    overflow: hidden;
+    padding-bottom: 10px;
+}
+
+#gdWidget .defaultWidgetBody .searchFormWrapper form {
+    border-bottom: none;
+}
+
+#gdWidget .widgetBody .searchFormWrapper #gd_jsform .inputWrapper {
+    width: 100%;
+}
+
+#gdWidget .widgetBody .searchFormWrapper #gd_jsform .inputWrapper fieldset {
+    border: none;
+    float: left;
+    margin: 0 2.5% 0 0;
+    padding: 0;
+    width: 35%;
+}
+
+#gdWidget .defaultWidgetBody.widgetBody .searchFormWrapper #gd_jsform .inputWrapper fieldset {
+    margin-top: 8px;
+    width: 88%;
+}
+
+#gdWidget .widgetBody .searchFormWrapper #gd_jsform .sbutton {
+    padding-top: 2px;
+    float: right;
+}
+
+#gdWidget .defaultWidgetBody.widgetBody .searchFormWrapper #gd_jsform .sbutton {
+    float: left;
+    margin-top: 12px;
+    padding-top: 4px;
+}
+
+#gdWidget .searchFormWrapper fieldset input[type=text] {
+    border: 1px solid #b2b2b2;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    font-size: 11px;
+    height: 24px;
+    margin: 4px 0 0;
+    padding: 0 3px;
+    width: 100%;
+}
+
+#gdWidget .ie8 .searchFormWrapper fieldset input[type=text] {
+    padding: 3px 3px 9px;
+}
+
+#gdWidget .searchFormWrapper fieldset input[type=submit] {
+    border-radius: 3px;
+}
+
+#gdWidget .defaultSearchForm fieldset {
+    margin-top: 5px;
+    width: 87%;
+}
+
+#gdWidget .defaultSearchForm fieldset input[type=submit] {
+    border-radius: 3px;
+    margin-top: 0;
+    width: 80px;
+}
+
+#gdWidget .footer {
+    font-size: 11px;
+    height: 12px;
+    padding: 10px 0;
+    width: 90px;
+    float: left;
+}
+
+#gdWidget .ie8 .footer {
+    bottom: 1px;
+}
+
+#gdWidget .ffwin .footer {
+    bottom: 1px;
+}
+
+#gdWidget .footer a {
+    color: #0065C4;
+    text-decoration: none;
+}
+
+#gdWidget .footer .seeMoreLink {
+    float: left;
+    margin-left: 10px;
+    width: 63%;
+}
+
+#gdWidget .footer a.gdLogo {
+    border: 0;
+    display: inline-block;
+    float: right;
+    margin: -4px 10px 0 0;
+}
+
+#gdWidget .defaultWidgetBody .footer {
+    border-top: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#gdWidget .defaultWidgetBody .footer a.gdLogo {
+    display: block;
+    float: none;
+    height: 100%;
+    margin: -2px 0 0;
+}
+
+#gdWidget #Wrapper {
+    text-align: left;
+    width: 100%;
+}
+
+#gdWidget #Header,#gdWidget #Footer,#gdWidget #Content {
+    width: 100%;
+}
+
+#gdWidget #Header {
+    top: 0;
+    padding: 0 0 18px;
+}
+
+#gdWidget #Content {
+    bottom: 30px;
+    overflow: auto;
+    padding: 0;
+    top: 23px;
+}
+
+#gdWidget #ContentWrapper {
+    height: 100%;
+    width: 100%;
+}
+
+#gdWidget #Footer {
+    bottom: 0;
+    height: 30px;
+}
+
+#gdWidget a,#gdWidget a:link,#gdWidget a:visited,#gdWidget a:hover {
+    color: #004276;
+    text-decoration: none;
+}
+
+#gdWidget .defaultSearchForm a.gdLogo {
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+
+#gdWidget a.greyButton {
+    background: none repeat scroll 0 0 #F6F6F6;
+    border: 1px solid #DEDEDE;
+    color: #B4B4B4;
+    display: block;
+    font-size: 9px;
+    height: 8px;
+    line-height: 9px;
+    margin-top: 12px;
+    padding: 4px;
+    text-transform: uppercase;
+    width: 90px;
+}
+
+#gdWidget a.greyButton:hover {
+    border: 1px solid #000;
+    color: #000;
+}
+
+#gdWidget h1.defaultSearchH1 {
+    padding: 0;
+}
+
+#gdWidget h1 {
+    font-family: Lato, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 21px;
+    margin: 0;
+    padding: 0;
+}
+
+#gdWidget .headerWrapper {
+    padding: 15px 10px 0;
+}
+
+#gdWidget .headerWrapper h1 {
+    padding: 0 0 11px;
+}
+
+#gdWidget h2,#gdWidget h3,#gdWidget .data {
+    font-size: 12px;
+}
+
+#gdWidget h2 {
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+}
+
+#gdWidget .searchFormWrapper #gd_jsform fieldset {
+    border: medium none;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+#gdWidget .defaultSearchForm #gd_jsform fieldset {
+    margin-top: 8px;
+    width: 82%;
+}
+
+#gdWidget .defaultSearchForm.searchFormWrapper #gd_jsform fieldset input[type=text] {
+    border: 1px solid #B2B2B2;
+    font-size: 11px;
+    height: 24px;
+    margin: 0 10px 0 0;
+    padding: 6px 3px 5px;
+    width: 100%;
+}
+
+#gdWidget .ie8 .defaultSearchForm.searchFormWrapper #gd_jsform fieldset input[type=text] {
+    height: 14px;
+}
+
+#gdWidget .defaultSearchForm fieldset input[type=submit] {
+    border-radius: 3px 3px 3px 3px;
+    margin-top: 0;
+    width: 80px;
+}
+
+#gdWidget .defaultSearchForm #searchButton {
+    height: 22px;
+    margin-left: 5px;
+    vertical-align: top;
+}
+
+#gdWidget .defaultSearchForm #gd_jsform .sbutton {
+    background-color: #C40505;
+    border: medium none;
+    border-radius: 3px 3px 3px 3px;
+    color: #FAFAFA;
+    cursor: pointer;
+    font-size: 12px;
+    height: 24px;
+    margin: 4px 0 0;
+    padding: 5px 10px;
+    width: 80px;
+}
+
+#gdWidget div.col1 {
+    float: left;
+    width: 58%;
+}
+
+#gdWidget div.col2 {
+    float: left;
+    padding: 0;
+    width: 95px;
+}
+
+#gdWidget ul.categories {
+    font-size: 11px;
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+
+#gdWidget ul.categories li {
+    margin-bottom: 5px;
+}
+
+#gdWidget .cnnWrapper {
+    clear: both;
+}
+
+.widgetBody,
+.widgetBody h1 {
+  border: none !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+}
+</style>
+
+
+<div id="gdWidget">
+  <div class="cnnWrapper">
+    <div class="defaultWidgetBody widgetBody">
+       <div class="boxHeading">Search for Jobs</div>
+      
+      <div id="Content">
+            <div id="ContentWrapper">
+          <div class="col1 searchFormWrapper defaultSearchForm">
+            <div class="h2">Millions of job openings!</div>
+    <form id="gd_jsform" class="clear" target="_job" action="http://jobsearch.money.cnn.com">
+      <div class="inputWrapper">
+          <fieldset>
+          <input id="keyword" class="sbox keyword" type="text" name="q" placeholder="Job title">
+          </fieldset>
+          <fieldset>
+          <input id="location" class="sbox location" type="text" name="l" placeholder="Location">
+          </fieldset>
+      </div>
+      <input class="sbutton" value="Search" id="searchButton" alt="Submit button" type="submit">
+    </form>
+          </div>
+          <div class="col2">
+            <ul class="categories">
+              <li><a href="http://jobsearch.money.cnn.com/accounting-jobs-I0,10.html" target="_blank">Accounting</a></li>
+              <li><a href="http://jobsearch.money.cnn.com/finance-jobs-I0,7.html" target="_blank">Finance</a></li>
+              <li><a href="http://jobsearch.money.cnn.com/marketing-jobs-I0,9.html" target="_blank">Marketing</a></li>
+              <li><a href="http://jobsearch.money.cnn.com/engineering-jobs-I0,11.html" target="_blank">Engineering</a></li>
+              <li><a href="http://jobsearch.money.cnn.com/management-jobs-I0,10.html" target="_blank">Management</a></li>
+              <li><a href="http://jobsearch.money.cnn.com/sales-jobs-I0,5.html" target="_blank">Sales</a></li>
+            </ul>
+      
+            <a href="http://jobsearch.money.cnn.com" class="greyButton" target="_blank">See All Jobs&nbsp;&nbsp;&#9654;</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="clear"></div>
+      
+      <div id="Footer" class="footer">
+        <a class="gdLogo" href="http://www.glassdoor.com/index.htm" target="_blank" style="background: url(http://jobsearch.money.cnn.com/images/gd-logo-lg.gif) no-repeat center center" border="0"></a>
+      </div>
+    </div>
+  </div>
+</div> <div id="mod-galleries" class="mod-spFeatstories"> <div class="boxHeading">Hot List</div> <div class="summaryBlock "> <a href="/video/pf/2014/10/01/speeding-ticket-magnet-cars.cnnmoney/index.html" class="summaryImg"> <img src="http://i2.cdn.turner.com/money/dam/assets/141001170748-speeding-ticket-magnet-cars-00003926-120x90.jpg" width="120" height="90" alt="Unlikely speeding ticket magnets" border="0" /> <span class="video_playbtn">&nbsp;</span> </a> <div class="cnnHeadline"> <a href="/video/pf/2014/10/01/speeding-ticket-magnet-cars.cnnmoney/index.html" > Unlikely speeding ticket magnets </a> </div> <!--[if lt IE 7]><div class="clearFloat"></div><![endif]--> </div> <div class="summaryBlock "> <a href="/video/technology/2014/10/03/meet-the-company-protecting-the-worlds-best-athletes.cnnmoney/index.html" class="summaryImg"> <img src="http://i2.cdn.turner.com/money/dam/assets/141003101113-meet-the-company-protecting-the-worlds-best-athletes-00001208-120x90.jpg" width="120" height="90" alt="This company is protecting the NFL &amp; NBA" border="0" /> <span class="video_playbtn">&nbsp;</span> </a> <div class="cnnHeadline"> <a href="/video/technology/2014/10/03/meet-the-company-protecting-the-worlds-best-athletes.cnnmoney/index.html" > This company is protecting the NFL &amp; NBA </a> </div> <!--[if lt IE 7]><div class="clearFloat"></div><![endif]--> </div> <div class="summaryBlock "> <a href="/video/luxury/2014/10/01/this-dollar-coin-is-actually-worth-two-million-dollars.cnnmoney/index.html" class="summaryImg"> <img src="http://i2.cdn.turner.com/money/dam/assets/141001175019-this-dollar-coin-is-actually-worth-two-million-dollars-00000628-120x90.jpg" width="120" height="90" alt="This dollar is actually worth $2 million" border="0" /> <span class="video_playbtn">&nbsp;</span> </a> <div class="cnnHeadline"> <a href="/video/luxury/2014/10/01/this-dollar-coin-is-actually-worth-two-million-dollars.cnnmoney/index.html" > This dollar is actually worth $2 million </a> </div> <!--[if lt IE 7]><div class="clearFloat"></div><![endif]--> </div> <div class="summaryBlock "> <a href="/video/technology/2014/09/29/t-isis-recruiting-on-teen-social-networks.cnnmoney/index.html" class="summaryImg"> <img src="http://i2.cdn.turner.com/money/dam/assets/140929220052-t-isis-recruiting-on-teen-social-networks-00022701-120x90.jpg" width="120" height="90" alt="ISIS recruiting on teen social networks" border="0" /> <span class="video_playbtn">&nbsp;</span> </a> <div class="cnnHeadline"> <a href="/video/technology/2014/09/29/t-isis-recruiting-on-teen-social-networks.cnnmoney/index.html" > ISIS recruiting on teen social networks </a> </div> <!--[if lt IE 7]><div class="clearFloat"></div><![endif]--> </div> <div class="summaryBlock lastItem"> <a href="/2014/09/30/investing/olive-garden-taste-test/index.html" class="summaryImg"> <img src="http://i2.cdn.turner.com/money/dam/assets/140930110055-olive-garden-food-taste-test-starboard-00020313-120x90.jpg" width="120" height="90" alt="Olive Garden food flunks CNNMoney taste test" border="0" /> </a> <div class="cnnHeadline"> <a href="/2014/09/30/investing/olive-garden-taste-test/index.html" > Olive Garden food flunks CNNMoney taste test </a> </div> <!--[if lt IE 7]><div class="clearFloat"></div><![endif]--> </div> </div>
+<!-- BEGIN: Taboola Widget Wrapper -->
+<div id="taboola-widget-wrapper">
+	<!-- BEGIN: Taboola Widget -->
+	<div id="taboola-right-rail"></div>
+	<!-- END: Taboola Widget -->
+</div>
+<div class="clearFloat"></div>
+<!-- END: Taboola Widget Wrapper -->
+ </div> <div class="clearFloat"></div> </div> <footer id="cnnFooter" class="js-social-anchor-end"> <script language="javascript" type="text/javascript"> var cnnBrandingValue = ""; var cnnAuthor = "Ben Rooney"; var cnnSource = "CNN"; var cnnPublishDate = "2014-09-24"; var cnnContentType = "article"; var cnnOmniture_videoopps = "2"; </script> <script language="JavaScript"> if(window.btnDone) btnDone(); </script>  <div id="csiIframe"></div> <!-- ADSPACE: technology/survey/survey.1x1 -->
+<div id="ad-b7bcafa6816d7fd0" align="center" style="padding: 0; margin: 0; border: 0;">
+<script type="text/javascript">cnnad_createAd("b7bcafa6816d7fd0","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_position=1x1_survey&cnn_money_rollup=technology&params.styles=fs&page.allowcompete=no","1","1");</script>
+</div>
+<!-- ADSPACE-END --> <script>
+	function getCookie( check_name ) {
+		var a_all_cookies = document.cookie.split( ';' );
+		var a_temp_cookie = '';
+		var ck_name = '';
+		var cookie_value = '';
+		var b_cookie_found = false; 
+		for ( i = 0; i < a_all_cookies.length; i++ ) {
+			a_temp_cookie = a_all_cookies[i].split( '=' );
+			ck_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+			if ( ck_name == check_name ) {
+				b_cookie_found = true;
+				if ( a_temp_cookie.length > 1 )	{
+					cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') );
+				}
+				return cookie_value;
+				break;
+			}
+			a_temp_cookie = null;
+			ck_name = '';
+		}
+		if ( !b_cookie_found ) {
+			return null;
+		}
+	}			
+	function setCookie(c_name,value) {
+		var exdate=new Date();
+		exdate.setDate(exdate.getDate()+365);
+		document.cookie=c_name+ "=" +escape(value) + ";expires="+exdate.toUTCString()+";path=/;domain=cnn.com";
+		return;
+	}
+	function checkCookie(set_value) {
+		if(getCookie('CNNMoneyEdition')==null || getCookie('CNNMoneyEdition')==""){
+			setCookie('CNNMoneyEdition', set_value);
+		}
+		return;
+	}
+	try {
+		checkCookie('domestic');
+	}
+	catch(e){}			
+</script>
+<div class="inner-shell">
+	<a class="icon cnnmoney-logo" href="/" rel="home">
+		<span class="visuallyhidden">CNNMoney</span>
+	</a>
+	<nav>
+		<ul>
+			<li>
+				<div class="listHeader"> About CNNMoney</div>
+				<ul>
+					<li><a rel="nofollow" href="/services/speakup/speakup.html">Contact Us</a></li>
+					<li><a rel="nofollow" target="new" href="/services/advertise/">Advertise with Us</a></li>
+					<li><a rel="nofollow" href="/profile/">User Preferences</a></li>
+                    <li><a rel="nofollow" href="/services/closed-captioning.html">Closed Captioning</a></li>
+				</ul>
+			</li>
+			<li>
+				<div class="listHeader"> Content</div>
+				<ul>
+					<li><a href="/news/">Business</a></li>
+					<li><a href="/data/markets/">Markets</a></li>
+					<li><a href="/investing/">Investing</a></li>
+					<li><a href="/news/economy/">Economy</a></li>
+					<li><a href="/technology/">Tech</a></li>
+					<li><a href="/pf/">Personal Finance</a></li>
+					<li><a href="/smallbusiness/">Small Business</a></li>
+					<li><a href="/luxury/">Luxury</a></li>
+					<li><a href="/media/">Media</a></li>
+					<li><a href="/video/">Video</a></li>
+					<li><a href="/interactive/">Interactive</a></li>
+				</ul>
+			</li>
+			<li>
+				<div class="listHeader"> Site Tools</div>
+				<ul>
+					<li><a href="/services/sitemap/">Site Map</a></li>
+					<li><a rel="nofollow" href="http://markets.money.cnn.com/secure/watchlist/">Watchlist</a></li>
+					<li><a href="https://portfolio.money.cnn.com/">Portfolio</a></li>
+					<li><a target="new" href="http://jobsearch.money.cnn.com/a/all-jobs/list">Job Search</a></li>
+					<li><a href="http://realestate.money.cnn.com/">Real Estate Search</a></li>
+					<li><a href="/pf/loan_center/">Mortgage and Savings Center</a></li>
+					<li><a href="/tools/">Calculators</a></li>
+					<li><a href="/news/corrections/">Corrections</a></li>
+					<li><a href="/profile/">Market Data Alerts</a></li>
+					<li><a href="/profile/">News Alerts</a></li>
+				</ul>
+			</li>
+			<li class="lastItem">
+				<div class="listHeader"> Stay Connected</div>
+				<ul>
+					<li><a rel="nofollow" href="/profile/">My Account</a></li>
+					<li><a rel="nofollow" href="/services/mobile/">Mobile Site &amp; Apps</a></li>
+					<li><a target="new" href="http://facebook.com/cnnmoney">Facebook</a></li>
+					<li><a target="new" href="http://twitter.com/cnnmoney">Twitter</a></li>
+					<li><a target="new" href="http://www.linkedin.com/today/money.cnn.com">LinkedIn</a></li>
+					<li><a target="new" href="http://www.youtube.com/CNNMoney">YouTube</a></li>
+					<li><a href="/services/rss/">RSS Feeds</a></li>
+					<li><a href="/profile/">Newsletters</a></li>
+					<li><a href="http://cnnmoneytech.tumblr.com/">Tumblr</a></li>
+                    <li><a href="https://plus.google.com/115995105609774588517/" rel="publisher" target="_blank">Google+</a></li>
+				</ul>
+			</li>
+		</ul>
+	</nav>
+	<div class="disclaimer" id="marketCopyright">
+		Market indexes are shown in real time, except for the DJIA, which is delayed by two minutes. All times are ET. <a href="http://money.cnn.com/services/disclaimer.html">Disclaimer</a>
+Morningstar: &#169; 2014  Morningstar, Inc.  All Rights Reserved. <a href="http://money.cnn.com/services/disclaimer.html">Disclaimer</a> 
+The Dow Jones Indexes<sup>SM</sup> are proprietary to and distributed by Dow Jones &amp; Company, Inc. and have been licensed for use.  All content of the Dow Jones Indexes<sup>SM</sup> &#169; 2014 is proprietary to Dow Jones &amp; Company, Inc. 
+Chicago Mercantile Association. The market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. 
+FactSet Research Systems Inc. 2014. All rights reserved. Most stock quote data provided by BATS. 
+	</div>
+	<div class="copyright"> 
+		        &copy; 2014 Cable News Network. A Time Warner Company. All Rights Reserved. <a href="/services/terms.html" rel="nofollow"> Terms</a> under which this service is provided to you. <a href="/services/privacy/"> Privacy Policy</a>. <a id="trusteLink"><script type="text/javascript" src="http://consent.truste.com/notice?domain=turner.com&c=trusteLink&text=true"></script> </a> <img src="http://i2.cdn.turner.com/money/.element/img/1.0/services/advertise/adchoiceslogo_footer.png" width="12" height="12" />.
+	</div>
+</div>
+<script>
+if (window.location.hostname === "ref2.money.cnn.com") {
+    var cnnOmniture_prodenv = false;
+}
+else if (window.location.hostname === "dev.money.cnn.com") {
+    var cnnOmniture_prodenv = false;
+}
+else if (window.location.hostname === "train.money.cnn.com") {
+    var cnnOmniture_prodenv = false;
+}
+else if (window.location.hostname === "stage.money.cnn.com") {
+    var cnnOmniture_prodenv = false;
+}
+else { 
+    var cnnOmniture_prodenv = true;
+}
+</script>
+
+<script language="JavaScript" src="http://z.cdn.turner.com/money/.element/script/4.0/omniture/jsmd.js?20140915123456789"></script>
+<script language="JavaScript"><!--
+if (window.location.pathname.indexOf(".element") == -1 && window.location.href.indexOf("?fb_xd_fragment#?=&") == -1) {
+    var jsmd=_jsmd.init();
+    jsmd.send();
+}
+//--></script>
+
+<script type="text/javascript" src="http://z.cdn.turner.com/money/.element/script/6.0/newsbeat/newsbeat.js"></script>
+	
+<!--BIZO Page TAG-->
+<img src="http://www.bizographics.com/collect/?fmt=gif&pid=311" width="1" height="1" border="0" alt="">
+<!--/BIZO Page TAG-->
+
+	
+<!-- STILL NEEDED? -->
+<script language="JavaScript">
+	var R = new String(document.referrer);
+	var serveAd=1;
+	if(R.length > 0)
+	{
+		if (R.indexOf("yahoo.com") >= 0)
+			serveAd=0;
+	}
+	if(serveAd)
+	{
+		/* dynamic logic */
+		document.write('<scr'+'ipt src="http://content.dl-rms.com/rms/mother/8101/nodetag.js"></scr'+'ipt>');
+		/* ADSPACE: ros/popunders/bot.1x1 */
+		cnnad_createAd("229469","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_position=1x1_bot&params.styles=fs","1","1");
+		try { selectSurvey(); }	catch(e){}
+	}
+</script>
+	
+	
+	
+<!-- Start Quantcast Delivery Tag : Publisher Specific -->
+<script type="text/javascript">
+_qoptions = {qacct:"p-5dyPa639IrgIw"};
+document.write( '<scr'+'ipt src="http://pixel.quantserve.com/seg/'+_qoptions.qacct+'.js;fpa='+_quantgc('__qca')+'" type="text/javascript"></scr'+'ipt>');
+</script>
+<!-- End Quantcast Delivery Tag -->
+	
+
+<!-- Start Quantcast Measurement tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">
+_qacct="p-5dyPa639IrgIw";
+quantserve();
+</script>
+<noscript>
+	<a href="http://www.quantcast.com/p-5dyPa639IrgIw" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-5dyPa639IrgIw.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast Measurement tag -->
+
+	
+<!-- Begin: www.iperceptions.com -->
+<script src="http://ips-invite.iperceptions.com/webValidator.aspx?sdfc=8903e7fe-104983-4d96497c-d068-4528-a4f9-0dbb51a45963&lID=1&loc=STUDY&cD=90&rF=False&iType=1&domainname=0" type="text/javascript" defer="defer"></script>
+<!-- End: www.iperceptions.com -->
+
+
+ <!-- ADSPACE: technology/over.1x1 --><div id="ad-ac78f951ebfc079f" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript">
+cnnad_renderAd("http://ads.cnn.com/js.ng/site=cnn_money&cnn_money_position=1x1_over&cnn_money_rollup=technology&page.allowcompete=no", "ac78f951ebfc079f");
+</script></div>
+<!-- ADSPACE-END -->
+ <img src="http://i.cdn.turner.com/money/video/bvp/images/1.gif" alt="" width="0" height="0" border="0" vspace="0" hspace="0" name="OmnitureTrack" id="OmnitureTrack" align="right"> <img src="http://i.cdn.turner.com/money/images/1.gif" alt="" width="0" height="0" border="0" vspace="0" hspace="0" name="cookieCrumb" id="cookieCrumb" align="right"> <script type="text/javascript"> var urlPre="http://markets.money.cnn.com/"; var cnnDomain="http://money.cnn.com/"; var cookieDomain="cnn.com"; var tzOffset= -240; </script> <script type="text/javascript" src="http://z.cdn.turner.com/xslo/cvp/ads/freewheel/js/fwjslib_1.1.js?version=1.1"></script> <script type="text/javascript" src="http://z.cdn.turner.com/xslo/cvp/js/cvp/2.8.1.2/cvp.min.js"></script> <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({doNotHash:true});</script> <script type='text/javascript' src='http://i.cdn.turner.com/xslo/aspen/js/1.3/aspenweb_1.3.0.min.js'></script> <script type="text/javascript" src="http://z.cdn.turner.com/money/tmpl_asset/static/script/73/js/cnnmoney.story-min.js"></script><!--// Nativo/Post Release //--> <!--// Nativo/Post Release //-->
+<script type="text/javascript" src="http://a.postrelease.com/serve/load.js?async=true" async="async"></script> </footer> </body> </html>

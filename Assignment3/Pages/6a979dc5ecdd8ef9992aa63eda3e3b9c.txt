@@ -1,0 +1,5076 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="lt-ie10 ie8" lang="en data-scribe-reduced-action-queue="true""><![endif]-->
+<!--[if IE 9]><html class="lt-ie10 ie9" lang="en data-scribe-reduced-action-queue="true""><![endif]-->
+<!--[if gt IE 9]><!--><html lang="en" data-scribe-reduced-action-queue="true"><!--<![endif]-->
+  <head>
+    
+    
+    
+    
+    
+    
+    
+    <meta charset="utf-8">
+    
+    
+  <script id="swift_action_queue">
+    (function(){function m(a){a||(a=window.event);if(!a)return!1;a.timestamp=(new Date).getTime();!a.target&&a.srcElement&&(a.target=a.srcElement);if(document.documentElement.getAttribute("data-scribe-reduced-action-queue")){var b=a.target;while(b&&b!=document
+.body){if(b.tagName=="A")return;b=b.parentNode}}r("all",s(a));if(!q(a)){r("direct",a);return!0}document.addEventListener||(a=s(a));a.preventDefault=a.stopPropagation=a.stopImmediatePropagation=function(){};if(i){f.push(a);r("captured",a)}else r("ignored",a
+);return!1}function n($){p();for(var a=0,b;b=f[a];a++){var d=$(b.target),e=d.closest("a")[0];if(b.type=="click"&&e){var g=$.data(e,"events"),i=g&&g.click,j=!e.hostname.match(c)||!e.href.match(/#$/);if(!i&&j){window.location=e.href;continue}}d.trigger(b)}window
+.swiftActionQueue.wasFlushed=!0}function o(){for(var a in j){if(a=="all")continue;var b=j[a];for(var c=0;c<b.length;c++)console.log("actionQueue",u(b[c]))}}function p(){clearTimeout(g);for(var a=0,b;b=e[a];a++)document["on"+b]=null}function q(a){if(!a.target
+)return!1;var b=a.target,e=(b.tagName||"").toLowerCase();if(a.metaKey)return!1;if(a.shiftKey&&e=="a")return!1;if(b.hostname&&!b.hostname.match(c))return!1;if(a.type.match(d)&&w(b))return!1;if(e=="label"){var f=b.getAttribute("for");if(f){var g=document.getElementById
+(f);if(g&&v(g))return!1}else for(var i=0,j;j=b.childNodes[i];i++)if(v(j))return!1}return!0}function r(a,b){b.bucket=a;j[a].push(b)}function s(a){var b={};for(var c in a)b[c]=a[c];return b}function t(a){while(a&&a!=document.body){if(a.tagName=="A")return a;
+a=a.parentNode}}function u(b){var c=[];b.bucket&&c.push("["+b.bucket+"]");c.push(b.type);var d=b.target,e=t(d),f="",g,i,j=b.timestamp&&b.timestamp-a;if(b.type==="click"&&e){g=e.className.trim().replace(/\s+/g,".");i=e.id.trim();f=/[^#]$/.test(e.href)?" ("+
+e.href+")":"";d='"'+e.innerText.replace(/\n+/g," ").trim()+'"'}else{g=d.className.trim().replace(/\s+/g,".");i=d.id.trim();d=d.tagName.toLowerCase();b.keyCode&&(d=String.fromCharCode(b.keyCode)+" : "+d)}c.push(d+f+(i&&"#"+i)+(!i&&g?"."+g:""));j&&c.push(j);
+return c.join(" ")}function v(a){var b=(a.tagName||"").toLowerCase();return b=="input"&&a.getAttribute("type")=="checkbox"}function w(a){var b=(a.tagName||"").toLowerCase();return b=="textarea"||b=="input"&&a.getAttribute("type")=="text"||a.getAttribute("contenteditable"
+)=="true"}var a=(new Date).getTime(),b=1e4,c=/^([^\.]+\.)*twitter\.com$/,d=/^key/,e=["click","keydown","keypress","keyup"],f=[],g=null,i=!0,j={captured:[],ignored:[],direct:[],all:[]};for(var k=0,l;l=e[k];k++)document["on"+l]=m;g=setTimeout(function(){i=!1
+},b);window.swiftActionQueue={buckets:j,flush:n,logActions:o,wasFlushed:!1}})();
+  </script>
+  <script id="composition_state">
+    (function(){function a(a){a.target.setAttribute("data-in-composition","true")}function b(a){a.target.removeAttribute("data-in-composition")}if(document.addEventListener){document.addEventListener("compositionstart",a,!1);document.addEventListener("compositionend"
+,b,!1)}})();
+  </script>
+
+    <link rel="stylesheet" href="https://abs.twimg.com/a/1412373788/css/t1/twitter_core.bundle.css">
+    <link rel="stylesheet" href="https://abs.twimg.com/a/1412373788/css/t1/twitter_logged_out.bundle.css">
+
+
+      <title>TED Talks on Twitter: &quot;Stunning photos that show the effects of climate change: http://t.co/78uTonvbiE #Climate2014 http://t.co/ucIvgyz9OC&quot;</title>
+      <meta name="robots" content="NOODP">
+  
+
+
+
+<meta name="msapplication-TileImage" content="//abs.twimg.com/favicons/win8-tile-144.png"/>
+<meta name="msapplication-TileColor" content="#00aced"/>
+
+  <link href="//abs.twimg.com/favicons/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+
+  <meta name="swift-page-name" id="swift-page-name" content="permalink">
+
+    <link rel="canonical" href="https://twitter.com/TEDTalks/status/514487157562810368">
+  <link rel="alternate" hreflang="x-default" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368">
+  <link rel="alternate" hreflang="fr" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=fr"><link rel="alternate" hreflang="en" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=en"><link rel="alternate" hreflang="ar" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=ar"><link rel="alternate" hreflang="ja" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=ja"><link rel="alternate" hreflang="es" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=es"><link rel="alternate" hreflang="de" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=de"><link rel="alternate" hreflang="it" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=it"><link rel="alternate" hreflang="id" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=id"><link rel="alternate" hreflang="pt" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=pt"><link rel="alternate" hreflang="ko" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=ko"><link rel="alternate" hreflang="tr" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=tr"><link rel="alternate" hreflang="ru" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=ru"><link rel="alternate" hreflang="nl" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=nl"><link rel="alternate" hreflang="fil" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=fil"><link rel="alternate" hreflang="ms" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=ms"><link rel="alternate" hreflang="zh-tw" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=zh-tw"><link rel="alternate" hreflang="zh-cn" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=zh-cn"><link rel="alternate" hreflang="hi" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=hi"><link rel="alternate" hreflang="no" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=no"><link rel="alternate" hreflang="sv" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=sv"><link rel="alternate" hreflang="fi" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=fi"><link rel="alternate" hreflang="da" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=da"><link rel="alternate" hreflang="pl" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=pl"><link rel="alternate" hreflang="hu" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=hu"><link rel="alternate" hreflang="fa" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=fa"><link rel="alternate" hreflang="he" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=he"><link rel="alternate" hreflang="ur" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=ur"><link rel="alternate" hreflang="th" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=th"><link rel="alternate" hreflang="uk" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=uk"><link rel="alternate" hreflang="ca" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=ca"><link rel="alternate" hreflang="el" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=el"><link rel="alternate" hreflang="eu" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=eu"><link rel="alternate" hreflang="cs" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=cs"><link rel="alternate" hreflang="gl" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=gl"><link rel="alternate" hreflang="ro" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=ro"><link rel="alternate" hreflang="en-gb" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=en-gb"><link rel="alternate" hreflang="vi" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=vi"><link rel="alternate" hreflang="bn" href="https://twitter.com/TEDTalks/status/514487157562810368?screen_name=TEDTalks&amp;photo_id=1&amp;id=514487157562810368&amp;lang=bn">
+
+      <link rel="alternate" type="application/json+oembed" href="https://api.twitter.com/1/statuses/oembed.json?id=514487157562810368" title="TED Talks on Twitter: &quot;Stunning photos that show the effects of climate change: http://t.co/78uTonvbiE #Climate2014 http://t.co/ucIvgyz9OC&quot;">
+  <link rel="alternate" type="text/xml+oembed" href="https://api.twitter.com/1/statuses/oembed.xml?id=514487157562810368" title="TED Talks on Twitter: &quot;Stunning photos that show the effects of climate change: http://t.co/78uTonvbiE #Climate2014 http://t.co/ucIvgyz9OC&quot;">
+
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Twitter">
+          <link rel="stylesheet" href="https://abs.twimg.com/a/1412373788/css/t1/twitter_more_1.bundle.css">
+      <link rel="stylesheet" href="https://abs.twimg.com/a/1412373788/css/t1/twitter_more_2.bundle.css">
+
+  </head>
+  <body class="three-col logged-out user-style-TEDTalks" 
+data-fouc-class-names="swift-loading"
+ dir="ltr">
+      <script id="swift_loading_indicator">
+        document.body.className=document.body.className+" "+document.body.getAttribute("data-fouc-class-names");
+      </script>
+    <div id="doc" class="route-permalink">
+        <div class="topbar js-topbar    ">
+  <div id="banners" class="js-banners">
+  </div>
+  <div class="global-nav" data-section-term="top_nav">
+    <div class="global-nav-inner">
+      <div class="container">
+
+        
+        <ul class="nav js-global-actions"><li class="home" data-global-action="t1home">
+              <a class="nav-logo-link" href="/" data-nav="front">
+                <span class="Icon Icon--bird"><span class="visuallyhidden">Twitter</span></span>
+              </a>
+          </li></ul>
+        <div class="pull-right">
+            <div role="search">
+  <form class="t1-form form-search js-search-form" action="/search" id="global-nav-search">
+    <label class="visuallyhidden" for="search-query">Search query</label>
+    <input class="search-input" type="text" id="search-query" placeholder="Search Twitter" name="q" autocomplete="off" spellcheck="false">
+    <span class="search-icon js-search-action">
+      <button type="submit" class="Icon Icon--search nav-search">
+        <span class="visuallyhidden">Search Twitter</span>
+      </button>
+    </span>
+      
+
+
+<div role="listbox" class="dropdown-menu typeahead">
+  <div aria-hidden="true" class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <div role="presentation" class="dropdown-inner js-typeahead-results">
+    <div role="presentation" class="typeahead-saved-searches">
+  <h3 id="saved-searches-heading" class="typeahead-category-title saved-searches-title">Saved searches</h3>
+  <ul role="presentation" class="typeahead-items saved-searches-list">
+    
+    <li role="presentation" class="typeahead-item typeahead-saved-search-item">
+      <span class="icon close" aria-hidden="true"><span class="visuallyhidden">Remove</span></span>
+      <a role="option" aria-describedby="saved-searches-heading" class="js-nav" href="" data-search-query="" data-query-source="" data-ds="saved_search" tabindex="-1"></a>
+    </li>
+  </ul>
+</div>
+
+    <ul role="presentation" class="typeahead-items typeahead-topics">
+  
+  <li role="presentation" class="typeahead-item typeahead-topic-item">
+    <a role="option" class="js-nav" href="" data-search-query="" data-query-source="typeahead_click" data-ds="topics" tabindex="-1">
+    </a>
+  </li>
+</ul>
+
+
+    
+
+
+<ul role="presentation" class="typeahead-items typeahead-accounts js-typeahead-accounts">
+  
+  <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-account-item js-selectable">
+    
+    <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+      <img class="avatar size24" alt="">
+      <span class="typeahead-user-item-info">
+        <span class="fullname"></span>
+        <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small"><span class="u-hiddenVisually">Verified account</span></span>
+</span>
+        <span class="username"><s>@</s><b></b></span>
+      </span>
+    </a>
+  </li>
+  <li role="presentation" class="js-selectable typeahead-accounts-shortcut js-shortcut"><a role="option" class="js-nav" href="" data-search-query="" data-query-source="typeahead_click" data-shortcut="true" data-ds="account_search"></a></li>
+</ul>
+
+    <ul role="presentation" class="typeahead-items typeahead-trend-locations-list">
+  
+  <li role="presentation" class="typeahead-item typeahead-trend-locations-item"><a role="option" class="js-nav" href="" data-ds="trend_location" data-search-query="" tabindex="-1"></a></li>
+</ul>
+    <div role="presentation" class="typeahead-user-select">
+  <div role="presentation" class="typeahead-empty-suggestions">
+    Suggested users
+  </div>
+  <ul role="presentation" class="typeahead-items typeahead-selected js-typeahead-selected">
+    
+    <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-selected-item js-selectable">
+      
+      <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+        <img class="avatar size24" alt="">
+        <span class="typeahead-user-item-info">
+          <span class="select-status deselect-user js-deselect-user Icon Icon--close"></span>
+          <span class="select-status select-disabled Icon Icon--unfollow"></span>
+          <span class="fullname"></span>
+          <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small"><span class="u-hiddenVisually">Verified account</span></span>
+</span>
+          <span class="username"><s>@</s><b></b></span>
+        </span>
+      </a>
+    </li>
+    <li role="presentation" class="typeahead-selected-end"></li>
+  </ul>
+
+  <ul role="presentation" class="typeahead-items typeahead-accounts js-typeahead-accounts">
+    
+    <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-account-item js-selectable">
+      
+      <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+        <img class="avatar size24" alt="">
+        <span class="typeahead-user-item-info">
+          <span class="select-status deselect-user js-deselect-user Icon Icon--close"></span>
+          <span class="select-status select-disabled Icon Icon--unfollow"></span>
+          <span class="fullname"></span>
+          <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small"><span class="u-hiddenVisually">Verified account</span></span>
+</span>
+          <span class="username"><s>@</s><b></b></span>
+        </span>
+      </a>
+    </li>
+    <li role="presentation" class="typeahead-accounts-end"></li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+  </form>
+</div>
+
+          <ul class="nav secondary-nav language-dropdown"><li class="dropdown js-language-dropdown">
+              <a href="#supported_languages" class="dropdown-toggle js-dropdown-toggle">
+                <small>Language:</small> <span class="js-current-language">English</span> <b class="caret"></b>
+              </a>
+              <div class="dropdown-menu">
+                <div class="dropdown-caret right">
+                  <span class="caret-outer"> </span>
+                  <span class="caret-inner"></span>
+                </div>
+                <ul id="supported_languages">
+                    <li><a href="?lang=id" data-lang-code="id" title="Indonesian" class="js-language-link js-tooltip">Bahasa Indonesia</a></li>
+                    <li><a href="?lang=msa" data-lang-code="msa" title="Malay" class="js-language-link js-tooltip">Bahasa Melayu</a></li>
+                    <li><a href="?lang=cs" data-lang-code="cs" title="Czech" class="js-language-link js-tooltip">Čeština</a></li>
+                    <li><a href="?lang=da" data-lang-code="da" title="Danish" class="js-language-link js-tooltip">Dansk</a></li>
+                    <li><a href="?lang=de" data-lang-code="de" title="German" class="js-language-link js-tooltip">Deutsch</a></li>
+                    <li><a href="?lang=en-gb" data-lang-code="en-gb" title="English UK" class="js-language-link js-tooltip">EnglishUK</a></li>
+                    <li><a href="?lang=es" data-lang-code="es" title="Spanish" class="js-language-link js-tooltip">Español</a></li>
+                    <li><a href="?lang=fil" data-lang-code="fil" title="Filipino" class="js-language-link js-tooltip">Filipino</a></li>
+                    <li><a href="?lang=fr" data-lang-code="fr" title="French" class="js-language-link js-tooltip">français</a></li>
+                    <li><a href="?lang=it" data-lang-code="it" title="Italian" class="js-language-link js-tooltip">Italiano</a></li>
+                    <li><a href="?lang=hu" data-lang-code="hu" title="Hungarian" class="js-language-link js-tooltip">Magyar</a></li>
+                    <li><a href="?lang=nl" data-lang-code="nl" title="Dutch" class="js-language-link js-tooltip">Nederlands</a></li>
+                    <li><a href="?lang=no" data-lang-code="no" title="Norwegian" class="js-language-link js-tooltip">Norsk</a></li>
+                    <li><a href="?lang=pl" data-lang-code="pl" title="Polish" class="js-language-link js-tooltip">Polski</a></li>
+                    <li><a href="?lang=pt" data-lang-code="pt" title="Portuguese" class="js-language-link js-tooltip">Português</a></li>
+                    <li><a href="?lang=ro" data-lang-code="ro" title="Romanian" class="js-language-link js-tooltip">română</a></li>
+                    <li><a href="?lang=fi" data-lang-code="fi" title="Finnish" class="js-language-link js-tooltip">Suomi</a></li>
+                    <li><a href="?lang=sv" data-lang-code="sv" title="Swedish" class="js-language-link js-tooltip">Svenska</a></li>
+                    <li><a href="?lang=vi" data-lang-code="vi" title="Vietnamese" class="js-language-link js-tooltip">Tiếng Việt</a></li>
+                    <li><a href="?lang=tr" data-lang-code="tr" title="Turkish" class="js-language-link js-tooltip">Türkçe</a></li>
+                    <li><a href="?lang=ru" data-lang-code="ru" title="Russian" class="js-language-link js-tooltip">Русский</a></li>
+                    <li><a href="?lang=uk" data-lang-code="uk" title="Ukrainian" class="js-language-link js-tooltip">Українська мова</a></li>
+                    <li><a href="?lang=he" data-lang-code="he" title="Hebrew" class="js-language-link js-tooltip">עִבְרִית</a></li>
+                    <li><a href="?lang=ar" data-lang-code="ar" title="Arabic" class="js-language-link js-tooltip">العربية</a></li>
+                    <li><a href="?lang=fa" data-lang-code="fa" title="Farsi" class="js-language-link js-tooltip">فارسی</a></li>
+                    <li><a href="?lang=hi" data-lang-code="hi" title="Hindi" class="js-language-link js-tooltip">हिन्दी</a></li>
+                    <li><a href="?lang=bn" data-lang-code="bn" title="Bengali" class="js-language-link js-tooltip">বাংলা</a></li>
+                    <li><a href="?lang=th" data-lang-code="th" title="Thai" class="js-language-link js-tooltip">ภาษาไทย</a></li>
+                    <li><a href="?lang=ko" data-lang-code="ko" title="Korean" class="js-language-link js-tooltip">한국어</a></li>
+                    <li><a href="?lang=ja" data-lang-code="ja" title="Japanese" class="js-language-link js-tooltip">日本語</a></li>
+                    <li><a href="?lang=zh-cn" data-lang-code="zh-cn" title="Simplified Chinese" class="js-language-link js-tooltip">简体中文</a></li>
+                    <li><a href="?lang=zh-tw" data-lang-code="zh-tw" title="Traditional Chinese" class="js-language-link js-tooltip">繁體中文</a></li>
+                </ul>
+              </div>
+              <div class="js-front-language">
+                <form action="/sessions/change_locale" class="t1-form language" method="POST">
+                  <input type="hidden" name="lang"> <input type="hidden" name="redirect">
+                  <input type="hidden" name="authenticity_token" value="aa197fbc1213e29d20f61dca5ca804a1f0dbfaa6">
+                </form>
+              </div>
+            </li></ul><ul class="nav secondary-nav session-dropdown" id="session"><li class="dropdown js-session">
+              <a href="/login" class="dropdown-toggle js-dropdown-toggle dropdown-signin" id="signin-link" data-nav="login">
+                <small>Have an account?</small> Sign in <span class="caret"></span>
+              </a>
+              <a href="https://twitter.com/signup?context=login" class="dropdown-signup" id="signup-link" data-nav="signup">
+                <small>New to Twitter?</small> <span class="emphasize"> Join Today &raquo;</span>
+              </a>
+              <div class="dropdown-menu dropdown-form" id="signin-dropdown">
+                <div class="dropdown-caret right"> <span class="caret-outer"></span> <span class="caret-inner"></span> </div>
+                <div class="signin-dialog-body"> <form action="https://twitter.com/sessions" class="t1-form js-signin signin" method="post">
+  <fieldset>
+    <legend id="signin-form-legend" class="visuallyhidden">Sign In</legend>
+    <div class="textbox">
+  <label class="t1-label username js-username">
+      <span>Phone, email or username</span>
+    <input class="js-username-field email-input js-initial-focus" type="text" name="session[username_or_email]" autocomplete="on">
+  </label>
+  <label class="t1-label password js-password">
+    <span>Password</span>
+    <input class="js-password-field" type="password" value="" name="session[password]">
+  </label>
+</div>
+
+    <div class="subchck">
+  <button type="submit" class="btn submit">Sign in</button>
+  <label class="t1-label remember">
+    <input type="checkbox" value="1" name="remember_me" checked="checked">
+    <span>Remember me</span>
+  </label>
+</div>
+
+<input type="hidden" name="scribe_log">
+<input type="hidden" name="redirect_after_login" value="/TEDTalks/status/514487157562810368/photo/1">
+<input type="hidden" value="aa197fbc1213e29d20f61dca5ca804a1f0dbfaa6" name="authenticity_token"/>
+
+  </fieldset>
+  <div class="divider"></div>
+  <p class="footer-links">
+    <a class="forgot" href="/account/begin_password_reset">Forgot password?</a><br />
+    <a class="mobile has-sms" href="/account/complete">Already using Twitter via text message?</a>
+  </p>
+</form>
+ </div>
+              </div>
+            </li></ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+        <div id="page-outer">
+          <div id="page-container" class="AppContent wrapper wrapper-permalink white">
+              
+
+
+
+
+
+                
+<style id="user-style-TEDTalks">
+
+
+
+
+
+  a,
+  a:hover,
+  a:focus,
+  a:active {
+    color: #FF2B06;
+  }
+
+  .u-textUserColor,
+  .u-textUserColorHover:hover,
+  .u-textUserColorHover:focus {
+    color: #FF2B06 !important;
+  }
+
+  .u-borderUserColor,
+  .u-borderUserColorHover:hover,
+  .u-borderUserColorHover:focus {
+    border-color: #FF2B06 !important;
+  }
+
+  .u-bgUserColor,
+  .u-bgUserColorHover:hover,
+  .u-bgUserColorHover:focus {
+    background-color: #FF2B06 !important;
+  }
+
+  .u-boxShadowInsetUserColorHover:hover,
+  .u-boxShadowInsetUserColorHover:focus {
+    box-shadow: inset 0 0 0 5px #FF2B06 !important;
+  }
+
+
+
+  .u-textUserColorLight {
+    color: #FFAA9B !important;
+  }
+
+  .u-borderUserColorLight,
+  .u-borderUserColorLightFocus:focus,
+  .u-borderUserColorLightHover:hover,
+  .u-borderUserColorLightHover:focus {
+    border-color: #FFAA9B !important;
+  }
+
+  .u-bgUserColorLight {
+    background-color: #FFAA9B !important;
+  }
+
+
+  .u-boxShadowUserColorLighterFocus:focus {
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.05), inset 0 1px 2px rgba(255,43,6,0.25) !important;
+  }
+
+
+  .u-textUserColorLightest {
+    color: #FFE9E6 !important;
+  }
+
+  .u-borderUserColorLightest {
+    border-color: #FFE9E6 !important;
+  }
+
+  .u-bgUserColorLightest {
+    background-color: #FFE9E6 !important;
+  }
+
+
+  .u-textUserColorLighter {
+    color: #FFCAC0 !important;
+  }
+
+  .u-borderUserColorLighter {
+    border-color: #FFCAC0 !important;
+  }
+
+  .u-bgUserColorLighter {
+    background-color: #FFCAC0 !important;
+  }
+
+
+  .u-bgUserColorDarkHover:hover {
+    background-color: #CC2204 !important;
+  }
+
+  .u-borderUserColorDark {
+    border-color: #CC2204 !important;
+  }
+
+
+  .u-bgUserColorDarkerActive:active {
+    background-color: #991903 !important;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a,
+.btn-link,
+.btn-link:focus,
+.icon-btn,
+
+
+
+.pretty-link b,
+.pretty-link:hover s,
+.pretty-link:hover b,
+.pretty-link:focus s,
+.pretty-link:focus b,
+/* Account Group */
+.metadata a:hover,
+.metadata a:focus,
+
+.account-group:hover .fullname,
+.account-group:focus .fullname,
+.account-summary:focus .fullname,
+
+.message .message-text a,
+.stats a strong,
+.plain-btn:hover,
+.plain-btn:focus,
+.dropdown.open .user-dropdown.plain-btn,
+.open > .plain-btn,
+#global-actions .new:before,
+.module .list-link:hover,
+.module .list-link:focus,
+
+.UserCompletion-step:hover,
+
+.stats a:hover,
+.stats a:hover strong,
+.stats a:focus,
+.stats a:focus strong,
+
+.profile-modal-header .fullname a:hover,
+.profile-modal-header .username a:hover,
+.profile-modal-header .fullname a:focus,
+.profile-modal-header .username a:focus,
+
+.story-article:hover .metadata,
+.story-article .metadata a:focus,
+
+.find-friends-sources li:hover .source,
+
+
+
+
+
+.stream-item a:hover .fullname,
+.stream-item a:focus .fullname,
+
+.stream-item .view-all-supplements:hover,
+.stream-item .view-all-supplements:focus,
+
+.tweet .time a:hover,
+.tweet .time a:focus,
+.tweet-actions a,
+.tweet .details.with-icn b,
+.tweet .details.with-icn .Icon,
+.tweet .tweet-geo-text a:hover,
+
+.stream-item:hover .original-tweet .expand-action-wrapper,
+.stream-item .original-tweet.focus .expand-action-wrapper,
+.opened-tweet.original-tweet  .expand-action-wrapper,
+
+.stream-item:hover .original-tweet .details b,
+.stream-item .original-tweet.focus .details b,
+.stream-item.open .original-tweet .details b,
+
+.simple-tweet:hover .details b,
+.simple-tweet.focus .details b,
+.simple-tweet.open .details b,
+.simple-tweet:hover .details .expand-action-wrapper,
+.simple-tweet.focus .details .expand-action-wrapper,
+.simple-tweet.open .details .collapse-action-wrapper,
+.simple-tweet:hover .details .simple-details-link,
+.simple-tweet.focus .details .simple-details-link,
+
+.client-and-actions a:hover,
+.client-and-actions a:focus,
+
+.dismiss-promoted:hover b,
+
+.tweet .context .pretty-link:hover s,
+.tweet .context .pretty-link:hover b,
+.tweet .context .pretty-link:focus s,
+.tweet .context .pretty-link:focus b,
+
+.list .username a:hover,
+.list .username a:focus,
+.list-membership-container .create-a-list,
+.list-membership-container .create-a-list:hover,
+
+
+
+.story-header:hover .view-tweets,
+.card .list-details a:hover,
+.card .list-details a:focus,
+.card .card-body:hover .attribution,
+.card .card-body .attribution:focus,
+.events-card .card-body:hover .attribution,
+.events-card .card-body .attribution:focus,
+.new-tweets-bar,
+.onebox .soccer ul.ticker a:hover,
+.onebox .soccer ul.ticker a:focus,
+
+
+
+.discover-item-actions a,
+
+
+
+.disco-stream-item.disco_exp_actions_on_btm .more-tweet-actions .btn-link,
+.disco-stream-item.disco_exp_actions_on_btm_without_stats .more-tweet-actions .btn-link,
+
+
+
+.remove-background-btn,
+
+
+
+.stream-item-activity-me .latest-tweet .tweet-row a:hover,
+.stream-item-activity-me .latest-tweet .tweet-row a:focus,
+.stream-item-activity-me .latest-tweet .tweet-row a:hover b,
+.stream-item-activity-me .latest-tweet .tweet-row a:focus b {
+    color: #FF2B06;
+}
+
+
+
+  #global-actions > li > a {
+    border-bottom-color: #FF2B06;
+  }
+
+  #global-actions > li:hover > a,
+  #global-actions > li > a:focus,
+  .nav.right-actions > li > a:hover,
+  .nav.right-actions > li > button:hover,
+  .nav.right-actions > li > a:focus,
+  .nav.right-actions > li > button:focus {
+    color: #FF2B06;
+  }
+
+
+  /* hover state for photo select button*/
+  .photo-selector:not(.disabled):hover .btn,
+  .icon-btn:hover,
+  .icon-btn:active,
+  .icon-btn.active,
+  .icon-btn.enabled {
+    border-color: #FF2B06;
+    border-color: rgba(255,43,6,.5);
+    color: #FF2B06;
+  }
+
+  /* hover state for photo select button*/
+  .photo-selector:not(.disabled):hover .btn,
+  .icon-btn:hover {
+    background-image: linear-gradient(rgba(255,255,255,0), rgba(255,43,6,.1));
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00FFFFFF', endColorstr='#19FF2B06'); /* IE8-9 */
+  }
+
+  .icon-btn.disabled,
+  .icon-btn.disabled:hover,
+  .icon-btn[disabled],
+  .icon-btn[aria-disabled=true] {
+    color: #FF2B06;
+  }
+
+  /* tweet-btn can have primary-btn class as well so the following rules ensure that the correct background color is applied */
+  .tweet-btn,
+  .tweet-btn:focus {
+    background-color: #FF2B06;
+    background: rgba(255,43,6,.8);
+  }
+
+  .tweet-btn:hover,
+  .tweet-btn:active,
+  .tweet-btn.active {
+    background-color: #FF2B06;
+  }
+
+  .tweet-btn.btn.disabled,
+  .tweet-btn.btn.disabled:hover,
+  .tweet-btn.btn[disabled],
+  .tweet-btn.btn[aria-disabled=true] {
+    background: #FF2B06;
+  }
+
+  .btn:focus,
+  .btn.focus,
+  .Button:focus {
+    box-shadow:
+      0 0 0 1px #fff,
+      0 0 0 3px rgba(255, 43, 6, 0.5);
+  }
+
+  .selected-stream-item:focus {
+    box-shadow: 0 0 0 3px rgba(255, 43, 6, 0.5);
+  }
+
+  /**
+   * 1. Bring actionable tweet to top when active to ensure border
+   *    highlighting wraps entire tweet. Value must be at least at if not
+   *    higher than the z-index value of ProfileHeading to ensure first
+   *    tweet in timeline receives border on all four sides.
+   */
+
+  .ProfileTweet.is-actionable,
+  .js-stream-item.is-selected:focus .ProfileTweet,
+  .js-stream-item.is-selected:focus .ProfileCard,
+  .QuoteTweet:hover,
+  .QuoteTweet:focus,
+  .QuoteTweet:active {
+    border-color: rgba(255, 43, 6, 0.5);
+    z-index: 1; /* 1 */
+  }
+
+  .global-dm-nav.new.with-count .dm-new {
+    background: #FF2B06;
+  }
+
+  .navy-seal-experiment .global-dm-nav.new.with-count .dm-new {
+    background: #fff;
+  }
+
+  .navy-seal-experiment .global-dm-nav.new.with-count .dm-new .count-inner {
+    background: #FF2B06;
+  }
+
+  .global-nav .people .count .count-inner {
+    background: #FF2B06;
+  }
+
+  .dropdown-menu li > a:hover,
+  .dropdown-menu li > a:focus,
+  .dropdown-menu .dropdown-link:hover,
+  .dropdown-menu .dropdown-link:focus,
+  .dropdown-menu li:hover .dropdown-link,
+  .dropdown-menu li:focus .dropdown-link,
+  .dropdown-menu .typeahead-recent-search-item.selected,
+  .dropdown-menu .typeahead-saved-search-item.selected,
+  .dropdown-menu .selected a,
+  .dropdown-menu .dropdown-link.selected {
+    background-color: #FF2B06;
+  }
+
+/* give tweet boxes 10% of the users link color as background */
+.home-tweet-box,
+.dm-tweetbox,
+.WebToast-box--altColor,
+.content-main .conversations-enabled .expansion-container .inline-reply-tweetbox {
+  background-color: #FFE9E6;
+}
+
+.conversations-enabled .inline-reply-caret .caret-inner {
+  border-bottom-color: #FFE9E6;
+}
+.top-timeline-tweetbox .timeline-tweet-box .tweet-form.condensed .tweet-box {
+  color: #FF2B06;
+}
+/* give tweet box containers an outline using the users link color */
+.home-tweet-box,
+.top-timeline-tweetbox .timeline-tweet-box {
+  border-color: #FFCAC0 !important;
+}
+/* give tweet boxes an outline using the users link color */
+.tweet-box[contenteditable="true"] {
+  border-color: rgba(255,43,6,0.25);
+}
+
+input:focus,
+textarea:focus,
+div[contenteditable="true"]:focus,
+div[contenteditable="true"].fake-focus {
+  border-color: #FF7F69;
+  box-shadow: inset 0 0 0 1px rgba(255, 43, 6, 0.7);
+}
+
+.currently-dragging.modal-enabled .modal .tweet-box,
+.currently-dragging:not(.modal-enabled) .tweet-content .tweet-box,
+body.supports-drag-and-drop .tweet-form.upload-photo-hover.drag-and-drop .tweet-box,
+.tweet-box[contenteditable="true"]:focus {
+  border-color: #FFAA9B;
+  box-shadow: none;
+}
+
+
+
+
+s,
+.pretty-link:hover s,
+.pretty-link:focus s,
+.stream-item-activity-me .latest-tweet .tweet-row a:hover s,
+.stream-item-activity-me .latest-tweet .tweet-row a:focus s {
+    color: #FF7F69;
+}
+
+
+
+.vellip,
+.vellip:before,
+.vellip:after,
+.conversation-module > li:after,
+.conversation-module > li:before {
+    background-color: #FF7F69;
+}
+
+
+
+
+.tweet .sm-reply,
+.tweet .sm-rt,
+.tweet .sm-fav,
+.tweet .sm-image,
+.tweet .sm-video,
+.tweet .sm-audio,
+.tweet .sm-geo,
+.tweet .sm-in,
+.tweet .sm-trash,
+.tweet .sm-more,
+.tweet .sm-page,
+.tweet .sm-embed,
+.tweet .sm-summary,
+.tweet .sm-chat,
+
+.timelines-navigation .active .profile-nav-icon,
+.timelines-navigation .profile-nav-icon:hover,
+.timelines-navigation .profile-nav-link:focus .profile-nav-icon,
+
+.sm-top-tweet,
+
+.metadata a.tweet-geo-text:hover .sm-geo,
+
+
+.discover-item .js-action-card-search:hover .sm-search,
+.discover-item .js-action-card-search:focus .sm-search {
+    background-color: #FF2B06;
+}
+
+
+
+.tweet-action-icons .tweet .tweet-actions .sm-reply, .tweet-action-icons .tweet.opened-tweet .tweet-actions .sm-reply,
+.tweet-action-icons .tweet .tweet-actions .sm-rt, .tweet-action-icons .tweet.opened-tweet .tweet-actions .sm-rt,
+.tweet-action-icons .tweet .tweet-actions .sm-fav, .tweet-action-icons .tweet.opened-tweet .tweet-actions .sm-fav,
+.tweet-action-icons .tweet .tweet-actions .sm-trash, .tweet-action-icons .tweet.opened-tweet .tweet-actions .sm-trash,
+.tweet-action-icons .tweet .tweet-actions .sm-more, .tweet-action-icons .tweet.opened-tweet .tweet-actions .sm-more {
+    background-color: #FF7F69;
+}
+
+.persistent-tweet-actions.tweet-action-icons .tweet:hover .tweet-actions .sm-reply,
+.persistent-tweet-actions.tweet-action-icons .tweet:hover .tweet-actions .sm-rt,
+.persistent-tweet-actions.tweet-action-icons .tweet:hover .tweet-actions .sm-fav,
+.persistent-tweet-actions.tweet-action-icons .tweet:hover .tweet-actions .sm-trash,
+.persistent-tweet-actions.tweet-action-icons .tweet:hover .tweet-actions .sm-more {
+    background-color: #FF7F69;
+}
+
+.tweet-action-icons .stream .tweet .tweet-actions .sm-reply:hover, .tweet-action-icons .stream .tweet .tweet-actions a:focus .sm-reply,
+.tweet-action-icons .stream .tweet .tweet-actions .sm-rt:hover, .tweet-action-icons .stream .tweet .tweet-actions a:focus .sm-rt,
+.tweet-action-icons .stream .tweet .tweet-actions .sm-fav:hover, .tweet-action-icons .stream .tweet .tweet-actions a:focus .sm-fav,
+.tweet-action-icons .stream .tweet .tweet-actions .sm-trash:hover, .tweet-action-icons .stream .tweet .tweet-actions a:focus .sm-trash,
+.tweet-action-icons .stream .tweet .tweet-actions .sm-more:hover, .tweet-action-icons .stream .tweet .tweet-actions a:focus .sm-more {
+    background-color: #FF2B06;
+}
+
+
+.enhanced-mini-profile .mini-profile .profile-summary {
+  background-image: url(https://pbs.twimg.com/profile_banners/15492359/1398269484/mobile);
+}
+
+.wrapper-profile .profile-card.profile-header .profile-header-inner {
+  background-image: url(https://pbs.twimg.com/profile_banners/15492359/1398269484/web);
+}
+
+  #global-tweet-dialog .modal-header {
+    border-bottom: solid 1px rgba(255, 43, 6, .25);
+  }
+
+  #global-tweet-dialog .modal-tweet-form-container {
+    background-color: #FF2B06;
+    background: rgba(255, 43, 6, .1);
+  }
+
+  .inline-reply-tweetbox {
+    background-color: #FFE9E6;
+  }
+
+</style>
+
+  
+<style id="user-style-TEDTalks-bg-img" class="js-user-style-bg-img">
+  body.user-style-TEDTalks {
+        background-image: url(https://pbs.twimg.com/profile_background_images/795046705/a71fe1893e3a1561abba1bff053e9328.gif);
+      background-position: center 40px;
+      background-attachment: fixed;
+      background-repeat: repeat;
+        background-repeat: no-repeat;
+
+      background-color: #000000;
+  }
+
+    body.user-style-TEDTalks .enhanced-mini-profile .mini-profile .profile-summary {
+      background-image: url(https://pbs.twimg.com/profile_banners/15492359/1398269484/web);
+    }
+
+    body.user-style-TEDTalks .wrapper-profile .profile-card.profile-header .profile-header-inner {
+      background-image: url(https://pbs.twimg.com/profile_banners/15492359/1398269484/web);
+    }
+
+    .DashboardProfileCard-bg {
+      background-image: url(https://pbs.twimg.com/profile_banners/15492359/1398269484/600x200);
+    }
+
+    body.user-style-TEDTalks .profile-canopy .bg-img {
+      background-image: url(https://pbs.twimg.com/profile_banners/15492359/1398269484/web_retina);
+    }
+
+</style>
+
+
+<div role="main" class="permalink light-inline-actions  has-replies">
+
+      
+  <div class="permalink-inner permalink-tweet-container">
+
+
+    <div class="tweet permalink-tweet js-actionable-user js-actionable-tweet js-original-tweet
+      
+ opened-tweet
+
+
+ has-cards
+ has-native-media
+
+
+ with-social-proof
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+      preexpanded" data-associated-tweet-id="514487157562810368" 
+data-tweet-id="514487157562810368"
+
+
+data-item-id="514487157562810368"
+
+
+ data-screen-name="TEDTalks" data-name="TED Talks" data-user-id="15492359"
+
+
+ data-has-native-media="true"
+ data-has-cards="true"
+
+  data-card-type="photo"
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+      
+        <div class="content clearfix">
+          <div class="permalink-header">
+              
+
+    
+    <div class="follow-bar">
+      <div class="user-actions btn-group not-following  " data-user-id="15492359"
+    data-screen-name="TEDTalks" data-name="TED Talks" data-protected="false">
+
+
+
+    
+      
+
+
+
+    <button class="user-actions-follow-button js-follow-btn follow-button btn" type="button">
+  <span class="button-text follow-text">
+     <span class="Icon Icon--follow"></span> Follow 
+    
+  </span>
+  <span class="button-text following-text">
+     Following
+    
+  </span>
+  <span class="button-text unfollow-text">
+     Unfollow
+    
+  </span>
+  <span class="button-text blocked-text">Blocked</span>
+  <span class="button-text unblock-text">Unblock</span>
+  <span class="button-text pending-text">Pending</span>
+  <span class="button-text cancel-text">Cancel</span>
+</button>
+
+
+
+</div>
+
+    </div>
+
+
+              <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/TEDTalks" data-user-id="15492359">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/3278476079/cb1f8cb5c856e6b5dfb9f79558b5728c_bigger.png" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>TED Talks<span class="Icon Icon--verified Icon--small"><span class="u-hiddenVisually">Verified account</span></span>
+</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>TEDTalks</b></span>
+      
+
+  </a>
+
+            
+            <small class="time">
+  <a href="/TEDTalks/status/514487157562810368" class="tweet-timestamp js-permalink js-nav js-tooltip" title="11:51 AM - 23 Sep 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1411498271" data-time-ms="1411498271000" data-long-form="true">Sep 23</span></a>
+</small>
+
+          </div>
+        </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0">Stunning photos that show the effects of climate change: <a href="http://t.co/78uTonvbiE" rel="nofollow" dir="ltr" data-expanded-url="http://on.ted.com/c0RvU" class="twitter-timeline-link" target="_blank" title="http://on.ted.com/c0RvU" ><span class="tco-ellipsis"></span><span class="invisible">http://</span><span class="js-display-url">on.ted.com/c0RvU</span><span class="invisible"></span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span></span></a> <a href="/hashtag/Climate2014?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>Climate2014</b></a> <a href="http://t.co/ucIvgyz9OC" class="twitter-timeline-link u-hidden" data-pre-embedded="true" dir="ltr" >pic.twitter.com/ucIvgyz9OC</a></p>
+
+
+
+      
+      <div class="stream-item-footer">
+
+
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      <div class="permalink-footer">
+        
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+  </div>
+
+
+        <div class="js-tweet-details-fixer tweet-details-fixer">
+
+
+            <div class="cards-media-container js-media-container"><div data-card-url="//twitter.com/TEDTalks/status/514487157562810368/photo/1" data-card-type="photo" class="cards-base cards-multimedia" data-element-context="platform_photo_card">
+
+
+  <a class="media media-thumbnail twitter-timeline-link is-preview" data-url="https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg:large" data-resolved-url-large="https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg:large" href="//twitter.com/TEDTalks/status/514487157562810368/photo/1">
+    <div class="">
+          <img src="https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg" alt="Embedded image permalink" width="1024" height="682">
+    </div>
+
+  </a>
+
+  <div class="cards-content">
+    <div class="byline">
+      
+    </div>
+    
+  </div>
+  
+</div>
+
+
+
+
+</div>
+
+
+
+  <div class="js-machine-translated-tweet-container"></div>
+    <div class="js-tweet-stats-container tweet-stats-container ">        
+
+<ul class="stats">
+    <li class="js-stat-count js-stat-retweets stat-count">
+      <a tabindex=0 role="button"
+          class="request-retweeted-popup"
+          data-activity-popup-title="445 retweets"
+>
+          
+          Retweets <strong>445</strong>
+      </a>
+    </li>
+
+    <li class="js-stat-count js-stat-favorites stat-count">
+      <a tabindex=0 role="button"
+          class="request-favorited-popup"
+          data-activity-popup-title="315 favorites"
+>
+          
+          Favorites <strong>315</strong>
+      </a>
+    </li>
+
+  <li class="avatar-row js-face-pile-container">
+      <a class="js-profile-popup-actionable js-user-tipsy js-tooltip" href="/Nidhi__Parikh" data-user-id="285318784" original-title="nidhi" title="nidhi">
+  <img class="avatar size24 js-user-profile-link" src="https://pbs.twimg.com/profile_images/378800000365803538/13440e40d2301a7b1203d7c74a437b3f_normal.jpeg" alt="nidhi">
+</a>
+      <a class="js-profile-popup-actionable js-user-tipsy js-tooltip" href="/IcelandicTimes" data-user-id="2735522120" original-title="Icelandic Times" title="Icelandic Times">
+  <img class="avatar size24 js-user-profile-link" src="https://pbs.twimg.com/profile_images/505290098770853888/g2Mt72vI_normal.jpeg" alt="Icelandic Times">
+</a>
+      <a class="js-profile-popup-actionable js-user-tipsy js-tooltip" href="/erik_petersen" data-user-id="90338702" original-title="erik petersen" title="erik petersen">
+  <img class="avatar size24 js-user-profile-link" src="https://pbs.twimg.com/profile_images/538425399/erik_pic1_normal.jpg" alt="erik petersen">
+</a>
+      <a class="js-profile-popup-actionable js-user-tipsy js-tooltip" href="/KokolDejan" data-user-id="957768098" original-title="Dejan Kokol" title="Dejan Kokol">
+  <img class="avatar size24 js-user-profile-link" src="https://pbs.twimg.com/profile_images/2869569085/21d53f66b4b6d3f83883baf98d7f4bf3_normal.gif" alt="Dejan Kokol">
+</a>
+      <a class="js-profile-popup-actionable js-user-tipsy js-tooltip" href="/NZ__Em" data-user-id="1069789975" original-title="Emily Dyer" title="Emily Dyer">
+  <img class="avatar size24 js-user-profile-link" src="https://pbs.twimg.com/profile_images/485631298040369152/MuFXTiRF_normal.jpeg" alt="Emily Dyer">
+</a>
+      <a class="js-profile-popup-actionable js-user-tipsy js-tooltip" href="/AlfonsoJMateos" data-user-id="1520526056" original-title="Alfonso" title="Alfonso">
+  <img class="avatar size24 js-user-profile-link" src="https://pbs.twimg.com/profile_images/503504175708504065/XhU2PV2a_normal.jpeg" alt="Alfonso">
+</a>
+      <a class="js-profile-popup-actionable js-user-tipsy js-tooltip" href="/UniRdg_Sust" data-user-id="113068420" original-title="Clean &amp; Green" title="Clean &amp; Green">
+  <img class="avatar size24 js-user-profile-link" src="https://pbs.twimg.com/profile_images/1326039612/UoR-twitter-modern-green_normal.png" alt="Clean &amp; Green">
+</a>
+      <a class="js-profile-popup-actionable js-user-tipsy js-tooltip" href="/SophiaRoud" data-user-id="1508481044" original-title="Sophia Roud" title="Sophia Roud">
+  <img class="avatar size24 js-user-profile-link" src="https://pbs.twimg.com/profile_images/482745275027427329/h5HfCxQy_normal.jpeg" alt="Sophia Roud">
+</a>
+      <a class="js-profile-popup-actionable js-user-tipsy js-tooltip" href="/a2anduaga" data-user-id="1462843537" original-title="Ales Anduaga" title="Ales Anduaga">
+  <img class="avatar size24 js-user-profile-link" src="https://pbs.twimg.com/profile_images/3764002137/f3b26077f569b9ddafc96651fa73bf8e_normal.jpeg" alt="Ales Anduaga">
+</a>
+  </li>
+</ul>
+
+
+    </div>
+
+  <div class="client-and-actions">
+  <span class="metadata">
+    <span>11:51 AM - 23 Sep 2014</span>
+
+    
+
+        
+        
+        
+
+  </span>
+</div>
+
+
+</div>
+
+      </div>
+    </div>
+
+  </div>
+
+
+
+    
+
+<div class="replies-to  permalink-inner permalink-replies" data-component-context="replies">
+    <div class="tweets-wrapper">
+      <div id="descendants">
+          <div class="stream-container "
+    
+    
+    data-max-position="" data-min-position=""
+    >
+
+    <div class="stream permalink-stream">
+      <ol class="stream-items js-navigable-stream" id="stream-items-id">
+
+
+
+
+
+
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+ has-cards
+ has-native-media
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="514487882602803200"
+
+
+data-item-id="514487882602803200"
+
+
+ data-screen-name="circa13579" data-name="Paul Shugarman" data-user-id="69660988"
+
+
+ data-has-native-media="true"
+ data-has-cards="true"
+
+  data-card-type="photo"
+  
+  
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;            &lt;div class=&quot;cards-media-container js-media-container&quot;&gt;&lt;div data-card-url=&quot;//twitter.com/TEDTalks/status/514487157562810368/photo/1&quot; data-card-type=&quot;photo&quot; class=&quot;cards-base cards-multimedia&quot; data-element-context=&quot;platform_photo_card&quot;&gt;&#10;&#10;&#10;  &lt;a class=&quot;media media-thumbnail twitter-timeline-link is-preview&quot; data-url=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg:large&quot; data-resolved-url-large=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg:large&quot; href=&quot;//twitter.com/TEDTalks/status/514487157562810368/photo/1&quot;&gt;&#10;    &lt;div class=&quot;&quot;&gt;&#10;          &lt;img src=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg&quot; alt=&quot;Embedded image permalink&quot; width=&quot;1024&quot; height=&quot;682&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;/a&gt;&#10;&#10;  &lt;div class=&quot;cards-content&quot;&gt;&#10;    &lt;div class=&quot;byline&quot;&gt;&#10;      &#10;    &lt;/div&gt;&#10;    &#10;  &lt;/div&gt;&#10;  &#10;&lt;/div&gt;&#10;&#10;&#10;&#10;&#10;&lt;/div&gt;&#10;&#10;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;11:54 AM - 23 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/circa13579/status/514487882602803200&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;        &#10;        &#10;        &#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="TEDTalks NadineHack"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/circa13579" data-user-id="69660988">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/378800000365658286/88a8732cb060ab01a1c018ab3b8770f3_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Paul Shugarman</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>circa13579</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/circa13579/status/514487882602803200" class="tweet-timestamp js-permalink js-nav js-tooltip" title="11:54 AM - 23 Sep 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1411498444" data-time-ms="1411498444000" data-long-form="true">Sep 23</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0">“<a href="/TEDTalks" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>TEDTalks</b></a>: Stunning photos that show the effects of climate change: <a href="http://t.co/pRcmwTY3jB" rel="nofollow" dir="ltr" data-expanded-url="http://on.ted.com/c0RvU" class="twitter-timeline-link" target="_blank" title="http://on.ted.com/c0RvU" ><span class="tco-ellipsis"></span><span class="invisible">http://</span><span class="js-display-url">on.ted.com/c0RvU</span><span class="invisible"></span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span></span></a> <a href="/hashtag/Climate2014?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>Climate2014</b></a> <a href="http://t.co/AzTdHJ1xUO" class="twitter-timeline-link u-hidden" data-pre-embedded="true" dir="ltr" >pic.twitter.com/AzTdHJ1xUO</a>” <a href="/NadineHack" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>NadineHack</b></a></p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/circa13579/status/514487882602803200">
+          <span class="details-icon js-icon-container">
+              <span class="Icon Icon--photo"></span>
+
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              View photo
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Hide photo
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+ has-cards
+ has-native-media
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="514488015704825856"
+
+
+data-item-id="514488015704825856"
+
+
+ data-screen-name="PRIFFLET" data-name="Philippe RIFFLET" data-user-id="454007971"
+
+
+ data-has-native-media="true"
+ data-has-cards="true"
+
+  data-card-type="photo"
+  
+  
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;            &lt;div class=&quot;cards-media-container js-media-container&quot;&gt;&lt;div data-card-url=&quot;//twitter.com/TEDTalks/status/514487157562810368/photo/1&quot; data-card-type=&quot;photo&quot; class=&quot;cards-base cards-multimedia&quot; data-element-context=&quot;platform_photo_card&quot;&gt;&#10;&#10;&#10;  &lt;a class=&quot;media media-thumbnail twitter-timeline-link is-preview&quot; data-url=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg:large&quot; data-resolved-url-large=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg:large&quot; href=&quot;//twitter.com/TEDTalks/status/514487157562810368/photo/1&quot;&gt;&#10;    &lt;div class=&quot;&quot;&gt;&#10;          &lt;img src=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg&quot; alt=&quot;Embedded image permalink&quot; width=&quot;1024&quot; height=&quot;682&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;/a&gt;&#10;&#10;  &lt;div class=&quot;cards-content&quot;&gt;&#10;    &lt;div class=&quot;byline&quot;&gt;&#10;      &#10;    &lt;/div&gt;&#10;    &#10;  &lt;/div&gt;&#10;  &#10;&lt;/div&gt;&#10;&#10;&#10;&#10;&#10;&lt;/div&gt;&#10;&#10;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;11:54 AM - 23 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/PRIFFLET/status/514488015704825856&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;        &#10;        &#10;        &#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="TEDTalks"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/PRIFFLET" data-user-id="454007971">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/2783413016/5d99f5ea5b0a447aaa139175997b1f74_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Philippe RIFFLET</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>PRIFFLET</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/PRIFFLET/status/514488015704825856" class="tweet-timestamp js-permalink js-nav js-tooltip" title="11:54 AM - 23 Sep 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1411498476" data-time-ms="1411498476000" data-long-form="true">Sep 23</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0">“<a href="/TEDTalks" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>TEDTalks</b></a>: Stunning photos that show the effects of climate change: <a href="http://t.co/MyUKoOZY8y" rel="nofollow" dir="ltr" data-expanded-url="http://on.ted.com/c0RvU" class="twitter-timeline-link" target="_blank" title="http://on.ted.com/c0RvU" ><span class="tco-ellipsis"></span><span class="invisible">http://</span><span class="js-display-url">on.ted.com/c0RvU</span><span class="invisible"></span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span></span></a> <a href="/hashtag/Climate2014?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>Climate2014</b></a> <a href="http://t.co/UjoW5dTuVg" class="twitter-timeline-link u-hidden" data-pre-embedded="true" dir="ltr" >pic.twitter.com/UjoW5dTuVg</a>”</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/PRIFFLET/status/514488015704825856">
+          <span class="details-icon js-icon-container">
+              <span class="Icon Icon--photo"></span>
+
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              View photo
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Hide photo
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+ has-cards
+ has-native-media
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="514488491989008384"
+
+
+data-item-id="514488491989008384"
+
+
+ data-screen-name="somcity" data-name="SoMa SoM" data-user-id="190101631"
+
+
+ data-has-native-media="true"
+ data-has-cards="true"
+
+  data-card-type="photo"
+  
+  
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;            &lt;div class=&quot;cards-media-container js-media-container&quot;&gt;&lt;div data-card-url=&quot;//twitter.com/TEDTalks/status/514487157562810368/photo/1&quot; data-card-type=&quot;photo&quot; class=&quot;cards-base cards-multimedia&quot; data-element-context=&quot;platform_photo_card&quot;&gt;&#10;&#10;&#10;  &lt;a class=&quot;media media-thumbnail twitter-timeline-link is-preview&quot; data-url=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg:large&quot; data-resolved-url-large=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg:large&quot; href=&quot;//twitter.com/TEDTalks/status/514487157562810368/photo/1&quot;&gt;&#10;    &lt;div class=&quot;&quot;&gt;&#10;          &lt;img src=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg&quot; alt=&quot;Embedded image permalink&quot; width=&quot;1024&quot; height=&quot;682&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;/a&gt;&#10;&#10;  &lt;div class=&quot;cards-content&quot;&gt;&#10;    &lt;div class=&quot;byline&quot;&gt;&#10;      &#10;    &lt;/div&gt;&#10;    &#10;  &lt;/div&gt;&#10;  &#10;&lt;/div&gt;&#10;&#10;&#10;&#10;&#10;&lt;/div&gt;&#10;&#10;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;11:56 AM - 23 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/somcity/status/514488491989008384&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;        &#10;        &#10;        &#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="TEDTalks"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/somcity" data-user-id="190101631">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/2408725693/image_bigger.jpg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>SoMa SoM</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>somcity</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/somcity/status/514488491989008384" class="tweet-timestamp js-permalink js-nav js-tooltip" title="11:56 AM - 23 Sep 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1411498589" data-time-ms="1411498589000" data-long-form="true">Sep 23</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/hashtag/Nature?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>Nature</b></a> <img class="twitter-emoji" src="https://abs.twimg.com/emoji/v1/72x72/1f60a.png" draggable="false" alt="😊" title="Smiling face with smiling eyes" aria-label="Emoji: Smiling face with smiling eyes"><img class="twitter-emoji" src="https://abs.twimg.com/emoji/v1/72x72/1f60e.png" draggable="false" alt="😎" title="Smiling face with sunglasses" aria-label="Emoji: Smiling face with sunglasses"><img class="twitter-emoji" src="https://abs.twimg.com/emoji/v1/72x72/270c.png" draggable="false" alt="✌️" title="Victory hand" aria-label="Emoji: Victory hand">“<a href="/TEDTalks" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>TEDTalks</b></a>: Stunning photos that show the effects of climate change: <a href="http://t.co/chJU2g73Ei" rel="nofollow" dir="ltr" data-expanded-url="http://on.ted.com/c0RvU" class="twitter-timeline-link" target="_blank" title="http://on.ted.com/c0RvU" ><span class="tco-ellipsis"></span><span class="invisible">http://</span><span class="js-display-url">on.ted.com/c0RvU</span><span class="invisible"></span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span></span></a> <a href="/hashtag/Climate2014?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>Climate2014</b></a> <a href="http://t.co/kZ8VeRjBtV" class="twitter-timeline-link u-hidden" data-pre-embedded="true" dir="ltr" >pic.twitter.com/kZ8VeRjBtV</a>”</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/somcity/status/514488491989008384">
+          <span class="details-icon js-icon-container">
+              <span class="Icon Icon--photo"></span>
+
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              View photo
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Hide photo
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="514488603687534593"
+
+
+data-item-id="514488603687534593"
+
+
+ data-screen-name="outiar" data-name="Sancho Panza" data-user-id="589073948"
+
+
+
+
+
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;11:56 AM - 23 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/outiar/status/514488603687534593&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="TEDTalks"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/outiar" data-user-id="589073948">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/487125646556938240/qnF3k_dH_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Sancho Panza</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>outiar</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/outiar/status/514488603687534593" class="tweet-timestamp js-permalink js-nav js-tooltip" title="11:56 AM - 23 Sep 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1411498616" data-time-ms="1411498616000" data-long-form="true">Sep 23</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/TEDTalks" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>TEDTalks</b></a> the actual title is Yann Arthus-Bertrand: A wide-angle view of fragile Earth</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/outiar/status/514488603687534593">
+          <span class="details-icon js-icon-container">
+            
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              
+                <span class="expand-action-wrapper">
+                  Expand
+                </span>
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Collapse
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+ has-cards
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="514488783694487553"
+
+
+data-item-id="514488783694487553"
+
+
+ data-screen-name="Sarah_Guan" data-name="Sarah Guan" data-user-id="2486965077"
+
+
+
+ data-has-cards="true"
+
+data-card2-type="summary_large_image"
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;        &lt;div class=&quot;card2 js-media-container&quot; data-card2-name=&quot;summary_large_image&quot;&gt;&#10;    &#10;&lt;div class=&quot;js-macaw-cards-iframe-container&quot;&#10;  data-src=&quot;/i/cards/tfw/v1/514488783694487553?cardname=summary_large_image&quot;&#10;  data-autoplay-src=&quot;/i/cards/tfw/v1/514488783694487553?cardname=summary_large_image&quot;&#10;  data-card-name=&quot;summary_large_image&quot;&#10;  data-card-url=&quot;http://t.co/HM2On3YdxD&quot;&#10;  data-publisher-id=&quot;15492359&quot;&#10;  data-creator-id=&quot;&quot;&#10;  data-amplify-content-id=&quot;&quot;&#10;  data-amplify-playlist-url=&quot;&quot; &gt;&#10;&lt;/div&gt;&#10;&#10;&lt;/div&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;11:57 AM - 23 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/Sarah_Guan/status/514488783694487553&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="TEDTalks"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/Sarah_Guan" data-user-id="2486965077">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/512113547778609152/BD5Ptn4b_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Sarah Guan</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>Sarah_Guan</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/Sarah_Guan/status/514488783694487553" class="tweet-timestamp js-permalink js-nav js-tooltip" title="11:57 AM - 23 Sep 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1411498659" data-time-ms="1411498659000" data-long-form="true">Sep 23</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0">Photojournalism for the environment. RT <a href="/TEDTalks" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>TEDTalks</b></a>: Stunning photos show the effects of climate change: <a href="http://t.co/HM2On3YdxD" rel="nofollow" dir="ltr" data-expanded-url="http://on.ted.com/c0RvU" class="twitter-timeline-link" target="_blank" title="http://on.ted.com/c0RvU" ><span class="tco-ellipsis"></span><span class="invisible">http://</span><span class="js-display-url">on.ted.com/c0RvU</span><span class="invisible"></span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span></span></a> <a href="/hashtag/Climate2014?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>Climate2014</b></a></p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/Sarah_Guan/status/514488783694487553">
+          <span class="details-icon js-icon-container">
+              <span class="Icon Icon--summary"></span>
+
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              View summary
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Hide summary
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+ has-cards
+ has-native-media
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="514489864348504064"
+
+
+data-item-id="514489864348504064"
+
+
+ data-screen-name="ReporterPhoenix" data-name="Colin Tom" data-user-id="268982264"
+
+
+ data-has-native-media="true"
+ data-has-cards="true"
+
+  data-card-type="photo"
+  
+  
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;            &lt;div class=&quot;cards-media-container js-media-container&quot;&gt;&lt;div data-card-url=&quot;//twitter.com/TEDTalks/status/514487157562810368/photo/1&quot; data-card-type=&quot;photo&quot; class=&quot;cards-base cards-multimedia&quot; data-element-context=&quot;platform_photo_card&quot;&gt;&#10;&#10;&#10;  &lt;a class=&quot;media media-thumbnail twitter-timeline-link is-preview&quot; data-url=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg:large&quot; data-resolved-url-large=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg:large&quot; href=&quot;//twitter.com/TEDTalks/status/514487157562810368/photo/1&quot;&gt;&#10;    &lt;div class=&quot;&quot;&gt;&#10;          &lt;img src=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg&quot; alt=&quot;Embedded image permalink&quot; width=&quot;1024&quot; height=&quot;682&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;/a&gt;&#10;&#10;  &lt;div class=&quot;cards-content&quot;&gt;&#10;    &lt;div class=&quot;byline&quot;&gt;&#10;      &#10;    &lt;/div&gt;&#10;    &#10;  &lt;/div&gt;&#10;  &#10;&lt;/div&gt;&#10;&#10;&#10;&#10;&#10;&lt;/div&gt;&#10;&#10;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;12:01 PM - 23 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/ReporterPhoenix/status/514489864348504064&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;        &#10;        &#10;        &#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="TEDTalks"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/ReporterPhoenix" data-user-id="268982264">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/3037833205/2a00ca7ec58ced7eae60eb2d5d6cbfa9_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Colin Tom</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>ReporterPhoenix</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/ReporterPhoenix/status/514489864348504064" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:01 PM - 23 Sep 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1411498917" data-time-ms="1411498917000" data-long-form="true">Sep 23</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0">MT “<a href="/TEDTalks" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>TEDTalks</b></a>:&#10;Stunning photos that show the effects of <a href="/hashtag/climatechange?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>climatechange</b></a>:&#10;<a href="http://t.co/ZdBhW9hnaJ" rel="nofollow" dir="ltr" data-expanded-url="http://on.ted.com/c0RvU" class="twitter-timeline-link" target="_blank" title="http://on.ted.com/c0RvU" ><span class="tco-ellipsis"></span><span class="invisible">http://</span><span class="js-display-url">on.ted.com/c0RvU</span><span class="invisible"></span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span></span></a> <a href="/hashtag/Climate2014?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>Climate2014</b></a>&#10;<a href="http://t.co/QeGXgvvBV0" class="twitter-timeline-link u-hidden" data-pre-embedded="true" dir="ltr" >pic.twitter.com/QeGXgvvBV0</a>”</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/ReporterPhoenix/status/514489864348504064">
+          <span class="details-icon js-icon-container">
+              <span class="Icon Icon--photo"></span>
+
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              View photo
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Hide photo
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="514490343036039168"
+
+
+data-item-id="514490343036039168"
+
+
+ data-screen-name="alan_poirier" data-name="Alan Poirier" data-user-id="24782816"
+
+
+
+
+
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;12:03 PM - 23 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/alan_poirier/status/514490343036039168&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="TEDTalks Negation2010"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/alan_poirier" data-user-id="24782816">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/98660875/Alan_poirier_bw__bigger.jpg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Alan Poirier</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>alan_poirier</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/alan_poirier/status/514490343036039168" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:03 PM - 23 Sep 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1411499031" data-time-ms="1411499031000" data-long-form="true">Sep 23</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/TEDTalks" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>TEDTalks</b></a> <a href="/Negation2010" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>Negation2010</b></a> Gosh, another wonky white guy going on about climate change.</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/alan_poirier/status/514490343036039168">
+          <span class="details-icon js-icon-container">
+            
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              
+                <span class="expand-action-wrapper">
+                  Expand
+                </span>
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Collapse
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="514491576052367360"
+
+
+data-item-id="514491576052367360"
+
+
+ data-screen-name="manuncut8" data-name="thomas russo" data-user-id="2478483001"
+
+
+
+
+
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;12:08 PM - 23 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/manuncut8/status/514491576052367360&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="TEDTalks Peoples_Climate"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/manuncut8" data-user-id="2478483001">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/467257511674789889/8HhmLQXk_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>thomas russo</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>manuncut8</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/manuncut8/status/514491576052367360" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:08 PM - 23 Sep 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1411499325" data-time-ms="1411499325000" data-long-form="true">Sep 23</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/TEDTalks" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>TEDTalks</b></a> <a href="/Peoples_Climate" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>Peoples_Climate</b></a> we all r going to die. who cares?</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/manuncut8/status/514491576052367360">
+          <span class="details-icon js-icon-container">
+            
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              
+                <span class="expand-action-wrapper">
+                  Expand
+                </span>
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Collapse
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="514495931816116224"
+
+
+data-item-id="514495931816116224"
+
+
+ data-screen-name="Stelisette" data-name="Lisette" data-user-id="1597178300"
+
+
+
+
+
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;12:26 PM - 23 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/Stelisette/status/514495931816116224&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="TEDTalks peterboghossian"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/Stelisette" data-user-id="1597178300">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/461498014800949248/dY-uUaR6_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Lisette</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>Stelisette</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/Stelisette/status/514495931816116224" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:26 PM - 23 Sep 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1411500363" data-time-ms="1411500363000" data-long-form="true">Sep 23</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/TEDTalks" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>TEDTalks</b></a> we don&#39;t want to believe what we know... And we like to pretend to know things we don&#39;t know! As <a href="/peterboghossian" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>peterboghossian</b></a> would say</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/Stelisette/status/514495931816116224">
+          <span class="details-icon js-icon-container">
+            
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              
+                <span class="expand-action-wrapper">
+                  Expand
+                </span>
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Collapse
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+ has-cards
+ has-native-media
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="514500008977383424"
+
+
+data-item-id="514500008977383424"
+
+
+ data-screen-name="AfricaGreenMedi" data-name="Africa Green Media" data-user-id="1327504387"
+
+
+ data-has-native-media="true"
+ data-has-cards="true"
+
+  data-card-type="photo"
+  
+  
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;            &lt;div class=&quot;cards-media-container js-media-container&quot;&gt;&lt;div data-card-url=&quot;//twitter.com/TEDTalks/status/514487157562810368/photo/1&quot; data-card-type=&quot;photo&quot; class=&quot;cards-base cards-multimedia&quot; data-element-context=&quot;platform_photo_card&quot;&gt;&#10;&#10;&#10;  &lt;a class=&quot;media media-thumbnail twitter-timeline-link is-preview&quot; data-url=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg:large&quot; data-resolved-url-large=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg:large&quot; href=&quot;//twitter.com/TEDTalks/status/514487157562810368/photo/1&quot;&gt;&#10;    &lt;div class=&quot;&quot;&gt;&#10;          &lt;img src=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg&quot; alt=&quot;Embedded image permalink&quot; width=&quot;1024&quot; height=&quot;682&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;/a&gt;&#10;&#10;  &lt;div class=&quot;cards-content&quot;&gt;&#10;    &lt;div class=&quot;byline&quot;&gt;&#10;      &#10;    &lt;/div&gt;&#10;    &#10;  &lt;/div&gt;&#10;  &#10;&lt;/div&gt;&#10;&#10;&#10;&#10;&#10;&lt;/div&gt;&#10;&#10;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;12:42 PM - 23 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/AfricaGreenMedi/status/514500008977383424&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;        &#10;        &#10;        &#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="TEDTalks"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/AfricaGreenMedi" data-user-id="1327504387">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/433614972644380672/VwTLgZbP_bigger.png" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Africa Green Media</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>AfricaGreenMedi</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/AfricaGreenMedi/status/514500008977383424" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:42 PM - 23 Sep 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1411501335" data-time-ms="1411501335000" data-long-form="true">Sep 23</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0">“<a href="/TEDTalks" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>TEDTalks</b></a>: Stunning photos that show the effects of climate change: <a href="http://t.co/JEWybD11Ry" rel="nofollow" dir="ltr" data-expanded-url="http://on.ted.com/c0RvU" class="twitter-timeline-link" target="_blank" title="http://on.ted.com/c0RvU" ><span class="tco-ellipsis"></span><span class="invisible">http://</span><span class="js-display-url">on.ted.com/c0RvU</span><span class="invisible"></span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span></span></a> <a href="/hashtag/Climate2014?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>Climate2014</b></a> <a href="http://t.co/F4z6F6lXrC" class="twitter-timeline-link u-hidden" data-pre-embedded="true" dir="ltr" >pic.twitter.com/F4z6F6lXrC</a>”</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/AfricaGreenMedi/status/514500008977383424">
+          <span class="details-icon js-icon-container">
+              <span class="Icon Icon--photo"></span>
+
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              View photo
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Hide photo
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+ has-cards
+ has-native-media
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="514501814520410112"
+
+
+data-item-id="514501814520410112"
+
+
+ data-screen-name="lceja" data-name="Luceli" data-user-id="45512006"
+
+
+ data-has-native-media="true"
+ data-has-cards="true"
+
+  data-card-type="photo"
+  
+  
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;            &lt;div class=&quot;cards-media-container js-media-container&quot;&gt;&lt;div data-card-url=&quot;//twitter.com/TEDTalks/status/514487157562810368/photo/1&quot; data-card-type=&quot;photo&quot; class=&quot;cards-base cards-multimedia&quot; data-element-context=&quot;platform_photo_card&quot;&gt;&#10;&#10;&#10;  &lt;a class=&quot;media media-thumbnail twitter-timeline-link is-preview&quot; data-url=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg:large&quot; data-resolved-url-large=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg:large&quot; href=&quot;//twitter.com/TEDTalks/status/514487157562810368/photo/1&quot;&gt;&#10;    &lt;div class=&quot;&quot;&gt;&#10;          &lt;img src=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg&quot; alt=&quot;Embedded image permalink&quot; width=&quot;1024&quot; height=&quot;682&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;/a&gt;&#10;&#10;  &lt;div class=&quot;cards-content&quot;&gt;&#10;    &lt;div class=&quot;byline&quot;&gt;&#10;      &#10;    &lt;/div&gt;&#10;    &#10;  &lt;/div&gt;&#10;  &#10;&lt;/div&gt;&#10;&#10;&#10;&#10;&#10;&lt;/div&gt;&#10;&#10;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;12:49 PM - 23 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/lceja/status/514501814520410112&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;        &#10;        &#10;        &#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="TEDTalks"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/lceja" data-user-id="45512006">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/484164344683302913/EXcSMqYX_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Luceli</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>lceja</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/lceja/status/514501814520410112" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:49 PM - 23 Sep 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1411501766" data-time-ms="1411501766000" data-long-form="true">Sep 23</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0">“<a href="/TEDTalks" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>TEDTalks</b></a>: Stunning photos that show the effects of climate change: <a href="http://t.co/5BjEMXrOUs" rel="nofollow" dir="ltr" data-expanded-url="http://on.ted.com/c0RvU" class="twitter-timeline-link" target="_blank" title="http://on.ted.com/c0RvU" ><span class="tco-ellipsis"></span><span class="invisible">http://</span><span class="js-display-url">on.ted.com/c0RvU</span><span class="invisible"></span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span></span></a> <a href="/hashtag/Climate2014?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>Climate2014</b></a> <a href="http://t.co/dD2k46Wgyn" class="twitter-timeline-link u-hidden" data-pre-embedded="true" dir="ltr" >pic.twitter.com/dD2k46Wgyn</a>”/Oh My<img class="twitter-emoji" src="https://abs.twimg.com/emoji/v1/72x72/1f631.png" draggable="false" alt="😱" title="Face screaming in fear" aria-label="Emoji: Face screaming in fear"></p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/lceja/status/514501814520410112">
+          <span class="details-icon js-icon-container">
+              <span class="Icon Icon--photo"></span>
+
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              View photo
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Hide photo
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+ has-cards
+ has-native-media
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="514501975506182144"
+
+
+data-item-id="514501975506182144"
+
+
+ data-screen-name="katkaletzing" data-name="Katka Letzing" data-user-id="474093271"
+
+
+ data-has-native-media="true"
+ data-has-cards="true"
+
+  data-card-type="photo"
+  
+  
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;            &lt;div class=&quot;cards-media-container js-media-container&quot;&gt;&lt;div data-card-url=&quot;//twitter.com/TEDTalks/status/514487157562810368/photo/1&quot; data-card-type=&quot;photo&quot; class=&quot;cards-base cards-multimedia&quot; data-element-context=&quot;platform_photo_card&quot;&gt;&#10;&#10;&#10;  &lt;a class=&quot;media media-thumbnail twitter-timeline-link is-preview&quot; data-url=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg:large&quot; data-resolved-url-large=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg:large&quot; href=&quot;//twitter.com/TEDTalks/status/514487157562810368/photo/1&quot;&gt;&#10;    &lt;div class=&quot;&quot;&gt;&#10;          &lt;img src=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg&quot; alt=&quot;Embedded image permalink&quot; width=&quot;1024&quot; height=&quot;682&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;/a&gt;&#10;&#10;  &lt;div class=&quot;cards-content&quot;&gt;&#10;    &lt;div class=&quot;byline&quot;&gt;&#10;      &#10;    &lt;/div&gt;&#10;    &#10;  &lt;/div&gt;&#10;  &#10;&lt;/div&gt;&#10;&#10;&#10;&#10;&#10;&lt;/div&gt;&#10;&#10;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;12:50 PM - 23 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/katkaletzing/status/514501975506182144&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;        &#10;        &#10;        &#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="TEDTalks"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/katkaletzing" data-user-id="474093271">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/473918221788405760/TNjYC2V4_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Katka Letzing</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>katkaletzing</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/katkaletzing/status/514501975506182144" class="tweet-timestamp js-permalink js-nav js-tooltip" title="12:50 PM - 23 Sep 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1411501804" data-time-ms="1411501804000" data-long-form="true">Sep 23</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0">interesting <a href="/TEDTalks" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>TEDTalks</b></a>: Stunning photos that show the effects of climate change: <a href="http://t.co/zPEIPD3O2Y" rel="nofollow" dir="ltr" data-expanded-url="http://on.ted.com/c0RvU" class="twitter-timeline-link" target="_blank" title="http://on.ted.com/c0RvU" ><span class="tco-ellipsis"></span><span class="invisible">http://</span><span class="js-display-url">on.ted.com/c0RvU</span><span class="invisible"></span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span></span></a> <a href="/hashtag/Climate2014?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>Climate2014</b></a> <a href="http://t.co/MwByOKwoGJ" class="twitter-timeline-link u-hidden" data-pre-embedded="true" dir="ltr" >pic.twitter.com/MwByOKwoGJ</a></p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/katkaletzing/status/514501975506182144">
+          <span class="details-icon js-icon-container">
+              <span class="Icon Icon--photo"></span>
+
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              View photo
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Hide photo
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+ has-cards
+ has-native-media
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="514509964778692608"
+
+
+data-item-id="514509964778692608"
+
+
+ data-screen-name="AfricaGreenMedi" data-name="Africa Green Media" data-user-id="1327504387"
+
+
+ data-has-native-media="true"
+ data-has-cards="true"
+
+  data-card-type="photo"
+  
+  
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;            &lt;div class=&quot;cards-media-container js-media-container&quot;&gt;&lt;div data-card-url=&quot;//twitter.com/TEDTalks/status/514487157562810368/photo/1&quot; data-card-type=&quot;photo&quot; class=&quot;cards-base cards-multimedia&quot; data-element-context=&quot;platform_photo_card&quot;&gt;&#10;&#10;&#10;  &lt;a class=&quot;media media-thumbnail twitter-timeline-link is-preview&quot; data-url=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg:large&quot; data-resolved-url-large=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg:large&quot; href=&quot;//twitter.com/TEDTalks/status/514487157562810368/photo/1&quot;&gt;&#10;    &lt;div class=&quot;&quot;&gt;&#10;          &lt;img src=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg&quot; alt=&quot;Embedded image permalink&quot; width=&quot;1024&quot; height=&quot;682&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;/a&gt;&#10;&#10;  &lt;div class=&quot;cards-content&quot;&gt;&#10;    &lt;div class=&quot;byline&quot;&gt;&#10;      &#10;    &lt;/div&gt;&#10;    &#10;  &lt;/div&gt;&#10;  &#10;&lt;/div&gt;&#10;&#10;&#10;&#10;&#10;&lt;/div&gt;&#10;&#10;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;1:21 PM - 23 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/AfricaGreenMedi/status/514509964778692608&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;        &#10;        &#10;        &#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="TEDTalks"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/AfricaGreenMedi" data-user-id="1327504387">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/433614972644380672/VwTLgZbP_bigger.png" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Africa Green Media</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>AfricaGreenMedi</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/AfricaGreenMedi/status/514509964778692608" class="tweet-timestamp js-permalink js-nav js-tooltip" title="1:21 PM - 23 Sep 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1411503709" data-time-ms="1411503709000" data-long-form="true">Sep 23</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0">“<a href="/TEDTalks" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>TEDTalks</b></a>: Stunning photos that show the effects of climate change: <a href="http://t.co/JEWybD11Ry" rel="nofollow" dir="ltr" data-expanded-url="http://on.ted.com/c0RvU" class="twitter-timeline-link" target="_blank" title="http://on.ted.com/c0RvU" ><span class="tco-ellipsis"></span><span class="invisible">http://</span><span class="js-display-url">on.ted.com/c0RvU</span><span class="invisible"></span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span></span></a> <a href="/hashtag/Climate2014?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>Climate2014</b></a> <a href="http://t.co/F4z6F6lXrC" class="twitter-timeline-link u-hidden" data-pre-embedded="true" dir="ltr" >pic.twitter.com/F4z6F6lXrC</a>”</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/AfricaGreenMedi/status/514509964778692608">
+          <span class="details-icon js-icon-container">
+              <span class="Icon Icon--photo"></span>
+
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              View photo
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Hide photo
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+ has-cards
+ has-native-media
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="514509964845805568"
+
+
+data-item-id="514509964845805568"
+
+
+ data-screen-name="edoardogeraldi" data-name="Edoardo Geraldi" data-user-id="118116958"
+
+
+ data-has-native-media="true"
+ data-has-cards="true"
+
+  data-card-type="photo"
+  
+  
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;            &lt;div class=&quot;cards-media-container js-media-container&quot;&gt;&lt;div data-card-url=&quot;//twitter.com/TEDTalks/status/514487157562810368/photo/1&quot; data-card-type=&quot;photo&quot; class=&quot;cards-base cards-multimedia&quot; data-element-context=&quot;platform_photo_card&quot;&gt;&#10;&#10;&#10;  &lt;a class=&quot;media media-thumbnail twitter-timeline-link is-preview&quot; data-url=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg:large&quot; data-resolved-url-large=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg:large&quot; href=&quot;//twitter.com/TEDTalks/status/514487157562810368/photo/1&quot;&gt;&#10;    &lt;div class=&quot;&quot;&gt;&#10;          &lt;img src=&quot;https://pbs.twimg.com/media/ByPTV8AIQAEOku3.jpg&quot; alt=&quot;Embedded image permalink&quot; width=&quot;1024&quot; height=&quot;682&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;/a&gt;&#10;&#10;  &lt;div class=&quot;cards-content&quot;&gt;&#10;    &lt;div class=&quot;byline&quot;&gt;&#10;      &#10;    &lt;/div&gt;&#10;    &#10;  &lt;/div&gt;&#10;  &#10;&lt;/div&gt;&#10;&#10;&#10;&#10;&#10;&lt;/div&gt;&#10;&#10;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;1:21 PM - 23 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/edoardogeraldi/status/514509964845805568&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;        &#10;        &#10;        &#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="TEDTalks"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/edoardogeraldi" data-user-id="118116958">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/1645455080/edo_bigger.jpg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Edoardo Geraldi</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>edoardogeraldi</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/edoardogeraldi/status/514509964845805568" class="tweet-timestamp js-permalink js-nav js-tooltip" title="1:21 PM - 23 Sep 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1411503709" data-time-ms="1411503709000" data-long-form="true">Sep 23</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0">“<a href="/TEDTalks" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>TEDTalks</b></a>: Stunning photos that show the effects of climate change: <a href="http://t.co/NJ4vo01iYi" rel="nofollow" dir="ltr" data-expanded-url="http://on.ted.com/c0RvU" class="twitter-timeline-link" target="_blank" title="http://on.ted.com/c0RvU" ><span class="tco-ellipsis"></span><span class="invisible">http://</span><span class="js-display-url">on.ted.com/c0RvU</span><span class="invisible"></span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span></span></a> <a href="/hashtag/Climate2014?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>Climate2014</b></a> <a href="http://t.co/QBKktgfgKD" class="twitter-timeline-link u-hidden" data-pre-embedded="true" dir="ltr" >pic.twitter.com/QBKktgfgKD</a>”</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/edoardogeraldi/status/514509964845805568">
+          <span class="details-icon js-icon-container">
+              <span class="Icon Icon--photo"></span>
+
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              View photo
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Hide photo
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="514527372511432705"
+
+
+data-item-id="514527372511432705"
+
+
+ data-screen-name="roo_urban" data-name="Urban_Roo" data-user-id="1196516336"
+
+
+
+
+
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;2:30 PM - 23 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/roo_urban/status/514527372511432705&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="TEDTalks SenatorWong TonyAbbottMHR JoeHockey"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/roo_urban" data-user-id="1196516336">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/3284077138/62d1dc36100b70012f48dbf4ec3de387_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Urban_Roo</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>roo_urban</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/roo_urban/status/514527372511432705" class="tweet-timestamp js-permalink js-nav js-tooltip" title="2:30 PM - 23 Sep 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1411507859" data-time-ms="1411507859000" data-long-form="true">Sep 23</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/TEDTalks" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>TEDTalks</b></a> <a href="/SenatorWong" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>SenatorWong</b></a> I would suggest to <a href="/TonyAbbottMHR" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>TonyAbbottMHR</b></a> <a href="/JoeHockey" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>JoeHockey</b></a> et al, in the light of all your current policies: WATCH &amp; weep...</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/roo_urban/status/514527372511432705">
+          <span class="details-icon js-icon-container">
+            
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              
+                <span class="expand-action-wrapper">
+                  Expand
+                </span>
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Collapse
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="514567805845241857"
+
+
+data-item-id="514567805845241857"
+
+
+ data-screen-name="douglasrasbash" data-name="douglas rasbash" data-user-id="1013221658"
+
+
+
+
+
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;5:11 PM - 23 Sep 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/douglasrasbash/status/514567805845241857&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="TEDTalks FemiOke"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/douglasrasbash" data-user-id="1013221658">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/3013163672/3e8fd6e68f72b5493da2be80714c1dfa_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>douglas rasbash</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>douglasrasbash</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/douglasrasbash/status/514567805845241857" class="tweet-timestamp js-permalink js-nav js-tooltip" title="5:11 PM - 23 Sep 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1411517499" data-time-ms="1411517499000" data-long-form="true">Sep 23</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/TEDTalks" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>TEDTalks</b></a> <a href="/FemiOke" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>FemiOke</b></a> Thank you for sharing this. Pictures really do speak a thousand words.</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/douglasrasbash/status/514567805845241857">
+          <span class="details-icon js-icon-container">
+            
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              
+                <span class="expand-action-wrapper">
+                  Expand
+                </span>
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Collapse
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+
+
+
+
+
+
+
+
+
+
+
+</ol>
+      <ol class="hidden-replies-container"></ol>
+    </div>
+  </div>
+
+      </div>
+    </div>
+</div>
+
+
+
+
+</div>
+
+
+
+<div class="permalink-footer">
+      <div class="SignupCallOut js-signup-call-out
+  
+   SignupCallOut--wide">
+  <div class="SignupCallOut-header">
+    <h3 class="SignupCallOut-title u-textBreak">
+          Don’t miss any updates from <b>TED Talks</b>
+
+
+
+    </h3>
+  </div>
+  <form action="https://twitter.com/signup" method="post" class="SignupForm
+   SignupForm--wide u-cf">
+  <div class="SignupForm-inputsContainer">
+    <div class="SignupForm-input SignupForm-name">
+      <input class="js-initial-focus" type="text" autocomplete="off" name="user[name]" maxlength="20" placeholder="Full name">
+    </div><div class="SignupForm-input SignupForm-email">
+      <input class="email-input" type="text" autocomplete="off" name="user[email]" placeholder="Email">
+    </div><div class="SignupForm-input SignupForm-password">
+      <input type="password" name="user[user_password]" placeholder="Password">
+    </div>
+  </div>
+    <input name="follow" type="hidden" value="TEDTalks">
+  <input type="hidden" value="permalink" name="context">
+  <input type="hidden" value="aa197fbc1213e29d20f61dca5ca804a1f0dbfaa6" name="authenticity_token"/>
+  <input name="follows" type="hidden" value="">
+  <input type="submit" class="SignupForm-submit btn primary-btn" value="Sign up for Twitter">
+</form>
+</div>
+
+    <div class="Footer module roaming-module Footer--slim">
+  <div class="flex-module">
+    <div class="flex-module-inner js-items-container">
+      <ul class="u-cf">
+        <li class="Footer-item Footer-copyright copyright">&copy; 2014 Twitter</li>
+        <li class="Footer-item"><a class="Footer-link" href="/about">About</a></li>
+        <li class="Footer-item"><a class="Footer-link" href="//support.twitter.com">Help</a></li>
+          <li class="Footer-item"><a class="Footer-link" href="//support.twitter.com/articles/20170451">Ads info</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+</div>
+<div id="sensitive_flag_dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-small draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Flag this media</h3>
+      </div>
+      <div class="modal-body">
+        <p class="sensitive-title">This has already been marked as containing sensitive content.</p>
+        <label class="t1-label checkbox" for="sensitive-illegal-checkbox">
+          <input type="checkbox" id="sensitive-illegal-checkbox" value="illegal">
+          Flag this as containing potentially illegal content.
+        </label>
+      </div>
+      <div class="modal-footer">
+        <button id="submit_flag_confirmation" type="button" class="btn">Submit</button>
+        <button id="cancel_flag_confirmation" type="button" class="btn primary-btn js-close">Cancel</button>
+
+        <div class="sensitive-confirmation">
+          <a class="sensitive-learn-more" target="_blank" href="//support.twitter.com/articles/20069937">Learn more about flagging media</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal-overlay"></div>
+</div>
+
+
+
+          </div>
+        </div>
+      
+    </div>
+    <div class="alert-messages hidden" id="message-drawer">
+    <div class="message ">
+  <div class="message-inside">
+    <span class="message-text"></span>
+      <a role="button" class="Icon Icon--close Icon--medium dismiss" href="#">
+        <span class="visuallyhidden">Dismiss</span>
+      </a>
+  </div>
+</div>
+</div>
+
+    
+
+<div class="gallery-overlay"></div>
+<div class="Gallery">
+  <div class="Gallery-closeTarget"></div>
+  <div class="Gallery-content">
+    <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--large">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+    <div class="Gallery-media"></div>
+    <div class="GalleryNav GalleryNav--prev">
+      <span class="GalleryNav-handle GalleryNav-handle--prev">
+        <span class="Icon Icon--caretLeft Icon--large">
+          <span class="u-hiddenVisually">
+            Previous
+          </span>
+        </span>
+      </span>
+    </div>
+    <div class="GalleryNav GalleryNav--next">
+      <span class="GalleryNav-handle GalleryNav-handle--next">
+        <span class="Icon Icon--caretRight Icon--large">
+          <span class="u-hiddenVisually">
+            Next
+          </span>
+        </span>
+      </span>
+    </div>
+    <div class="GalleryTweet"></div>
+  </div>
+</div>
+
+
+
+<div class="modal-overlay"></div>
+
+
+
+
+<div id="goto-user-dialog" class="modal-container">
+  <div class="modal modal-small draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+
+      <div class="modal-header">
+        <h3 class="modal-title">Go to a person's profile</h3>
+      </div>
+
+      <div class="modal-body">
+        <div class="modal-inner">
+          <form class="t1-form goto-user-form">
+            <input class="input-block username-input" type="text" placeholder="Start typing a name to jump to a profile" aria-label="User">
+            
+
+
+<div role="listbox" class="dropdown-menu typeahead">
+  <div aria-hidden="true" class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <div role="presentation" class="dropdown-inner js-typeahead-results">
+    <div role="presentation" class="typeahead-saved-searches">
+  <h3 id="saved-searches-heading" class="typeahead-category-title saved-searches-title">Saved searches</h3>
+  <ul role="presentation" class="typeahead-items saved-searches-list">
+    
+    <li role="presentation" class="typeahead-item typeahead-saved-search-item">
+      <span class="icon close" aria-hidden="true"><span class="visuallyhidden">Remove</span></span>
+      <a role="option" aria-describedby="saved-searches-heading" class="js-nav" href="" data-search-query="" data-query-source="" data-ds="saved_search" tabindex="-1"></a>
+    </li>
+  </ul>
+</div>
+
+    <ul role="presentation" class="typeahead-items typeahead-topics">
+  
+  <li role="presentation" class="typeahead-item typeahead-topic-item">
+    <a role="option" class="js-nav" href="" data-search-query="" data-query-source="typeahead_click" data-ds="topics" tabindex="-1">
+    </a>
+  </li>
+</ul>
+
+
+    
+
+
+<ul role="presentation" class="typeahead-items typeahead-accounts js-typeahead-accounts">
+  
+  <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-account-item js-selectable">
+    
+    <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+      <img class="avatar size24" alt="">
+      <span class="typeahead-user-item-info">
+        <span class="fullname"></span>
+        <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small"><span class="u-hiddenVisually">Verified account</span></span>
+</span>
+        <span class="username"><s>@</s><b></b></span>
+      </span>
+    </a>
+  </li>
+  <li role="presentation" class="js-selectable typeahead-accounts-shortcut js-shortcut"><a role="option" class="js-nav" href="" data-search-query="" data-query-source="typeahead_click" data-shortcut="true" data-ds="account_search"></a></li>
+</ul>
+
+    <ul role="presentation" class="typeahead-items typeahead-trend-locations-list">
+  
+  <li role="presentation" class="typeahead-item typeahead-trend-locations-item"><a role="option" class="js-nav" href="" data-ds="trend_location" data-search-query="" tabindex="-1"></a></li>
+</ul>
+    <div role="presentation" class="typeahead-user-select">
+  <div role="presentation" class="typeahead-empty-suggestions">
+    Suggested users
+  </div>
+  <ul role="presentation" class="typeahead-items typeahead-selected js-typeahead-selected">
+    
+    <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-selected-item js-selectable">
+      
+      <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+        <img class="avatar size24" alt="">
+        <span class="typeahead-user-item-info">
+          <span class="select-status deselect-user js-deselect-user Icon Icon--close"></span>
+          <span class="select-status select-disabled Icon Icon--unfollow"></span>
+          <span class="fullname"></span>
+          <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small"><span class="u-hiddenVisually">Verified account</span></span>
+</span>
+          <span class="username"><s>@</s><b></b></span>
+        </span>
+      </a>
+    </li>
+    <li role="presentation" class="typeahead-selected-end"></li>
+  </ul>
+
+  <ul role="presentation" class="typeahead-items typeahead-accounts js-typeahead-accounts">
+    
+    <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-account-item js-selectable">
+      
+      <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+        <img class="avatar size24" alt="">
+        <span class="typeahead-user-item-info">
+          <span class="select-status deselect-user js-deselect-user Icon Icon--close"></span>
+          <span class="select-status select-disabled Icon Icon--unfollow"></span>
+          <span class="fullname"></span>
+          <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small"><span class="u-hiddenVisually">Verified account</span></span>
+</span>
+          <span class="username"><s>@</s><b></b></span>
+        </span>
+      </a>
+    </li>
+    <li role="presentation" class="typeahead-accounts-end"></li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+          </form>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+  <div id="retweet-tweet-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+
+      <div class="modal-header">
+        <h3 class="modal-title">Retweet this to your followers?</h3>
+      </div>
+
+      <div class="tweet-loading">
+  <div class="spinner-bigger"></div>
+</div>
+
+      <div class="modal-body modal-tweet"></div>
+
+      <div class="modal-footer">
+        <button class="btn cancel-action js-close">Cancel</button>
+        <button class="btn primary-btn retweet-action">Retweet</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div id="delete-tweet-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+
+      <div class="modal-header">
+        <h3 class="modal-title">Are you sure you want to delete this Tweet?</h3>
+      </div>
+
+      <div class="tweet-loading">
+  <div class="spinner-bigger"></div>
+</div>
+
+      <div class="modal-body modal-tweet"></div>
+
+      <div class="modal-footer">
+        <button class="btn cancel-action js-close">Cancel</button>
+        <button class="btn primary-btn delete-action">Delete</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div id="block-user-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+
+      <div class="modal-header">
+        <h3 class="modal-title">Block</h3>
+      </div>
+
+      <div class="tweet-loading">
+  <div class="spinner-bigger"></div>
+</div>
+
+      <div class="modal-body modal-tweet"></div>
+
+      <div class="modal-footer">
+        <button class="btn cancel-action js-close">Cancel</button>
+        <button class="btn primary-btn block-action">Block</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+  
+  
+
+     <div id="geo-disabled-dropdown">
+      <div class="dropdown-menu" tabindex="-1">
+  <div class="dropdown-caret">
+    <span class="caret-outer"></span>
+    <span class="caret-inner"></span>
+  </div>
+  <ul>
+    <li class="geo-not-enabled-yet">
+      <h2>Add a location to your Tweets</h2>
+      <p>
+        When you tweet with a location, Twitter stores that location.&#32;
+        You can switch location on/off before each Tweet and always have the option to delete your location history.
+        <a href="http://support.twitter.com/forums/26810/entries/78525" target="_blank">Learn more</a>
+      </p>
+      <div>
+        <button type="button" class="geo-turn-on btn primary-btn">Turn location on</button>
+        <button type="button" class="geo-not-now btn-link">Not now</button>
+      </div>
+    </li>
+  </ul>
+</div>
+    </div>
+
+  <div id="geo-enabled-dropdown">
+    <div class="dropdown-menu" tabindex="-1">
+  <div class="dropdown-caret">
+    <span class="caret-outer"></span>
+    <span class="caret-inner"></span>
+  </div>
+  <ul>
+    <li class="geo-query-location">
+      <input type="text" autocomplete="off" placeholder="Search for a neighborhood or city">
+      <span class="icon generic-search"></span>
+    </li>
+    <li class="geo-dropdown-status"></li>
+    <li class="dropdown-link geo-turn-off-item geo-focusable">
+      <span class="icon close"></span>Turn off location
+    </li>
+  </ul>
+</div>
+  </div>
+
+
+  <div id="profile_popup" class="modal-container ProfilePopupContainer--bellbird">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-small draggable">
+    <div class="modal-content clearfix">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Profile summary</h3>
+      </div>
+
+      <div class="modal-body profile-modal">
+
+      </div>
+
+      <div class="loading">
+        <span class="spinner-bigger"></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div id="list-membership-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-small draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Your lists</h3>
+      </div>
+      <div class="modal-body">
+        <div class="list-membership-content"></div>
+        <span class="spinner lists-spinner" title="Loading&hellip;"></span>
+      </div>
+    </div>
+  </div>
+</div>
+  <div id="list-operations-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-medium draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Create a new list</h3>
+      </div>
+      <div class="modal-body">
+        
+<div class="list-editor">
+  <div class="field">
+    <label class="t1-label" for="list-name">List name</label>
+    <input id="list-name" type="text" class="text" name="name" value="" />
+  </div>
+  <hr/>
+
+  <div class="field">
+    <label class="t1-label" for="list-description">Description</label>
+    <textarea id="list-description" name="description"></textarea>
+    <span class="help-text">Under 100 characters, optional</span>
+  </div>
+  <hr/>
+
+  <fieldset class="field">
+    <legend class="t1-legend">Privacy</legend>
+    <div class="options">
+      <label class="t1-label" for="list-public-radio">
+        <input class="radio" type="radio" name="mode" id="list-public-radio" value="public" checked="checked"  />
+        <b>Public</b> &middot; Anyone can follow this list
+      </label>
+      <label class="t1-label" for="list-private-radio">
+        <input class="radio" type="radio" name="mode" id="list-private-radio" value="private"  />
+        <b>Private</b> &middot; Only you can access this list
+      </label>
+    </div>
+  </fieldset>
+  <hr/>
+
+  <div class="list-editor-save">
+    <button type="button" class="btn btn-primary update-list-button" data-list-id="">Save list</button>
+  </div>
+
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div id="activity-popup-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content clearfix">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+
+      <div class="modal-header">
+        <h3 class="modal-title"></h3>
+      </div>
+
+      <div class="modal-body">
+        <div class="tweet-loading">
+  <div class="spinner-bigger"></div>
+</div>
+
+        <div class="activity-tweet modal-tweet clearfix"></div>
+        <div class="loading">
+          <span class="spinner-bigger"></span>
+        </div>
+        <div class="activity-content clearfix"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  <div id="embed-tweet-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-medium draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Embed this Tweet</h3>
+      </div>
+      <div class="modal-body">
+        <div class="embed-code-container">
+  <p>Add this Tweet to your website by copying the code below. <a href="//dev.twitter.com/docs/embedded-tweets">Learn more</a></p>
+  <form class="t1-form">
+
+    <div class="embed-destination-wrapper">
+      <div class="embed-overlay embed-overlay-spinner"><div class="embed-overlay-content"></div></div>
+      <div class="embed-overlay embed-overlay-error">
+        <p class="embed-overlay-content">Hmm, there was a problem reaching the server. <button type="button" class="btn-link retry-embed">Try again?</button></p>
+      </div>
+      <textarea class="embed-destination js-initial-focus"></textarea>
+      <div class="embed-options">
+        <div class="embed-include-parent-tweet">
+          <label class="t1-label" for="include-parent-tweet">
+            <input type="checkbox" id="include-parent-tweet" class="include-parent-tweet" checked>
+            Include parent Tweet
+          </label>
+        </div>
+        <div class="embed-include-card">
+          <label class="t1-label" for="include-card">
+            <input type="checkbox" id="include-card" class="include-card" checked>
+            Include media
+          </label>
+        </div>
+      </div>
+    </div>
+  </form>
+  <div class="embed-preview">
+    <h3>Preview</h3>
+  </div>
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+  <div id="signup-dialog" class="SignupDialog modal-container u-textCenter">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-large draggable">
+    <div class="SignupDialog-content modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Sign up for Twitter</h3>
+      </div>
+      <div class="SignupDialog-body modal-body">
+        <div class="SignupDialog-bird">
+          <span class="Icon Icon--bird Icon--large"></span>
+        </div>
+        <h2 class="SignupDialog-heading">Not on Twitter? Sign up, tune into the things you care about, and get updates as they happen.</h2>
+        <div class="SignupDialog-form">
+          <form action="https://twitter.com/signup" method="post" class="SignupForm
+  ">
+  <div class="SignupForm-inputsContainer">
+    <div class="SignupForm-input SignupForm-name">
+      <input class="js-initial-focus" type="text" autocomplete="off" name="user[name]" maxlength="20" placeholder="Full name">
+    </div><div class="SignupForm-input SignupForm-email">
+      <input class="email-input" type="text" autocomplete="off" name="user[email]" placeholder="Email">
+    </div><div class="SignupForm-input SignupForm-password">
+      <input type="password" name="user[user_password]" placeholder="Password">
+    </div>
+  </div>
+  <input type="hidden" value="" name="context">
+  <input type="hidden" value="aa197fbc1213e29d20f61dca5ca804a1f0dbfaa6" name="authenticity_token"/>
+  <input name="follows" type="hidden" value="">
+  <input type="submit" class="SignupForm-submit btn primary-btn" value="Sign up for Twitter">
+</form>
+        </div>
+      </div>
+      <div class="SignupDialog-footer modal-footer u-textCenter">
+        Have an account? <a class="SignupDialog-signinLink" href="/login">Sign in &raquo;</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div id="sms-codes-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-medium draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Two-way (sending and receiving) short codes:</h3>
+      </div>
+      <div class="modal-body">
+        
+<table id="sms_codes" cellpadding="0" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Country</th>
+      <th>Code</th>
+      <th>For customers of</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>United States</td>
+      <td>40404</td>
+      <td>(any)</td>
+    </tr>
+    <tr>
+      <td>Canada</td>
+      <td>21212</td>
+      <td>(any)</td>
+    </tr>
+    <tr>
+      <td>United Kingdom</td>
+      <td>86444</td>
+      <td>Vodafone, Orange, 3, O2</td>
+    </tr>
+    <tr>
+      <td>Brazil</td>
+      <td>40404</td>
+      <td>Nextel, TIM</td>
+    </tr>
+    <tr>
+      <td>Haiti</td>
+      <td>40404</td>
+      <td>Digicel, Voila</td>
+    </tr>
+    <tr>
+      <td>Ireland</td>
+      <td>51210</td>
+      <td>Vodafone, O2</td>
+    </tr>
+    <tr>
+      <td>India</td>
+      <td>53000</td>
+      <td>Bharti Airtel, Videocon, Reliance</td>
+    </tr>
+    <tr>
+      <td>Indonesia</td>
+      <td>89887</td>
+      <td>AXIS, 3, Telkomsel, Indosat, XL Axiata</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Italy</td>
+      <td>4880804</td>
+      <td>Wind</td>
+    </tr>
+    <tr>
+      <td>3424486444</td>
+      <td>Vodafone</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="3">
+        &raquo; <a class="js-initial-focus" target="_blank" href="http://support.twitter.com/articles/14226-how-to-find-your-twitter-short-code-or-long-code">See SMS short codes for other countries</a>
+      </td>
+    </tr>
+  </tfoot>
+</table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="leadgen-confirm-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Confirmation</h3>
+      </div>
+      <div class="modal-body">
+        <div class="leadgen-card-container">
+          <div class="media">
+            <iframe
+              class="cards2-promotion-iframe"
+              scrolling="no"
+              frameborder="0"
+              src="">
+            </iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+<div id="create-custom-timeline-dialog" class="modal-container"></div>
+<div id="edit-custom-timeline-dialog" class="modal-container"></div>
+<div id="curate-dialog" class="modal-container"></div>
+
+
+    <div class="hidden" id="hidden-content">
+  <iframe aria-hidden="true" class="tweet-post-iframe" name="tweet-post-iframe"></iframe>
+  <iframe aria-hidden="true" class="dm-post-iframe" name="dm-post-iframe"></iframe>
+  <form class="t1-form media-upload-form" method="post">
+    <input type="hidden" name="authenticity_token" class="auth-token">
+    <input type="hidden" name="iframe_callback" class="iframe-callback">
+    <input type="hidden" name="media" class="media">
+    <input type="hidden" name="upload_id" class="upload-id">
+    <input type="hidden" name="origin" class="origin">
+  </form>
+
+</div>
+
+    
+    <div id="spoonbill-outer"></div>
+  </body>
+</html>
+  <input type="hidden" id="init-data" class="json-data" value="{&quot;profileHoversEnabled&quot;:false,&quot;permalinkOverlayEnabled&quot;:false,&quot;baseFoucClass&quot;:&quot;swift-loading&quot;,&quot;bodyFoucClassNames&quot;:&quot;swift-loading&quot;,&quot;macawSwift&quot;:true,&quot;assetsBasePath&quot;:&quot;https:\/\/abs.twimg.com\/a\/1412373788\/&quot;,&quot;assetVersionKey&quot;:&quot;4280e6&quot;,&quot;environment&quot;:&quot;production&quot;,&quot;formAuthenticityToken&quot;:&quot;aa197fbc1213e29d20f61dca5ca804a1f0dbfaa6&quot;,&quot;loggedIn&quot;:false,&quot;screenName&quot;:null,&quot;fullName&quot;:null,&quot;userId&quot;:null,&quot;allowAdsPersonalization&quot;:true,&quot;scribeBufferSize&quot;:3,&quot;pageName&quot;:&quot;permalink&quot;,&quot;sectionName&quot;:&quot;permalink&quot;,&quot;scribeParameters&quot;:{},&quot;recaptchaApiUrl&quot;:&quot;https:\/\/www.google.com\/recaptcha\/api\/js\/recaptcha_ajax.js&quot;,&quot;internalReferer&quot;:null,&quot;geoEnabled&quot;:false,&quot;typeaheadData&quot;:{&quot;accounts&quot;:{&quot;enabled&quot;:false,&quot;localQueriesEnabled&quot;:false,&quot;remoteQueriesEnabled&quot;:false,&quot;limit&quot;:6,&quot;typeaheadExperiments&quot;:[]},&quot;contacts&quot;:{&quot;enabled&quot;:false},&quot;trendLocations&quot;:{&quot;enabled&quot;:false},&quot;savedSearches&quot;:{&quot;enabled&quot;:false,&quot;items&quot;:[]},&quot;dmAccounts&quot;:{&quot;enabled&quot;:false,&quot;localQueriesEnabled&quot;:false,&quot;remoteQueriesEnabled&quot;:false,&quot;onlyDMable&quot;:true},&quot;mediaTagAccounts&quot;:{&quot;enabled&quot;:false,&quot;localQueriesEnabled&quot;:true,&quot;remoteQueriesEnabled&quot;:false,&quot;onlyShowUsersWithCanMediaTag&quot;:false,&quot;currentUserId&quot;:-1},&quot;selectedUsers&quot;:{&quot;enabled&quot;:false},&quot;prefillUsers&quot;:{&quot;enabled&quot;:false},&quot;topics&quot;:{&quot;enabled&quot;:false,&quot;localQueriesEnabled&quot;:false,&quot;remoteQueriesEnabled&quot;:false,&quot;prefetchLimit&quot;:500,&quot;limit&quot;:4},&quot;concierge&quot;:{&quot;enabled&quot;:false,&quot;localQueriesEnabled&quot;:false,&quot;remoteQueriesEnabled&quot;:false,&quot;prefetchLimit&quot;:500,&quot;limit&quot;:6,&quot;typeaheadExperiments&quot;:[]},&quot;recentSearches&quot;:{&quot;enabled&quot;:false},&quot;hashtags&quot;:{&quot;enabled&quot;:false,&quot;localQueriesEnabled&quot;:false,&quot;remoteQueriesEnabled&quot;:false,&quot;prefetchLimit&quot;:500},&quot;showSearchAccountSocialContext&quot;:false,&quot;showTypeaheadTopicSocialContext&quot;:false,&quot;showDebugInfo&quot;:false,&quot;useThrottle&quot;:true,&quot;accountsOnTop&quot;:false,&quot;remoteDebounceInterval&quot;:300,&quot;remoteThrottleInterval&quot;:300,&quot;reverseBoldingEnabled&quot;:false,&quot;tweetContextEnabled&quot;:false,&quot;fullNameMatchingInCompose&quot;:true,&quot;topicsWithFiltersEnabled&quot;:false,&quot;typeaheadExperiments&quot;:[]},&quot;pushStatePageLimit&quot;:500000,&quot;routes&quot;:{&quot;profile&quot;:&quot;\/&quot;},&quot;pushState&quot;:true,&quot;viewContainer&quot;:&quot;#page-container&quot;,&quot;asyncSocialProof&quot;:false,&quot;dragAndDropPhotoUpload&quot;:true,&quot;href&quot;:&quot;\/TEDTalks\/status\/514487157562810368\/photo\/1&quot;,&quot;searchPathWithQuery&quot;:&quot;\/search?q=query&amp;src=typd&quot;,&quot;timelineCardsGallery&quot;:true,&quot;mediaGrid&quot;:true,&quot;deciders&quot;:{&quot;pushState&quot;:true,&quot;disable_profile_popup&quot;:false,&quot;hqImageUploads&quot;:false,&quot;mqImageUploads&quot;:false,&quot;largeHeaderImageUpload&quot;:true,&quot;dynamicLoadMediaForward&quot;:true,&quot;scribeActionQueue&quot;:false,&quot;scribeReducedActionQueue&quot;:true,&quot;custom_timeline_curation&quot;:false,&quot;multi_compose&quot;:true,&quot;enableMacawNymizerConversionLanding&quot;:false,&quot;promoted_video_logging_enabled&quot;:true,&quot;dm_convo&quot;:false,&quot;enable_media_tag_prefetch&quot;:true,&quot;bellbirdNavigationReorg&quot;:false,&quot;useHtml5Webcam&quot;:false,&quot;enableInlineEditingOnLegacyBrowsers&quot;:true,&quot;bulkUnfollowEnabled&quot;:false,&quot;swift_contacts_typeahead&quot;:false},&quot;experiments&quot;:{},&quot;permalinkCardsGallery&quot;:false,&quot;toasts_dm&quot;:false,&quot;toasts_spoonbill&quot;:false,&quot;toasts_timeline&quot;:false,&quot;toasts_dm_poll_scale&quot;:60,&quot;uploadDomain&quot;:&quot;upload.twitter.com&quot;,&quot;lifelineAlertEnabled&quot;:false,&quot;freezeDashboard&quot;:false,&quot;passwordResetAdvancedLoginForm&quot;:true,&quot;enableActivity&quot;:true,&quot;tweetId&quot;:&quot;514487157562810368&quot;,&quot;endpoint&quot;:&quot;\/i\/TEDTalks\/conversation\/514487157562810368&quot;,&quot;overlayCapable&quot;:false,&quot;permalinkCardsGallery&quot;:true,&quot;showRelatedTweets&quot;:false,&quot;initialState&quot;:{&quot;title&quot;:&quot;TED Talks on Twitter: \&quot;Stunning photos that show the effects of climate change: http:\/\/t.co\/78uTonvbiE #Climate2014 http:\/\/t.co\/ucIvgyz9OC\&quot;&quot;,&quot;section&quot;:null,&quot;module&quot;:&quot;app\/pages\/permalink&quot;,&quot;cache_ttl&quot;:300,&quot;body_class_names&quot;:&quot;three-col logged-out user-style-TEDTalks&quot;,&quot;doc_class_names&quot;:&quot;route-permalink&quot;,&quot;route_name&quot;:&quot;permalink&quot;,&quot;page_container_class_names&quot;:&quot;AppContent wrapper wrapper-permalink white&quot;,&quot;ttft_navigation&quot;:false}}">
+
+  
+
+    <input type="hidden" class="swift-boot-module" value="app/pages/permalink">
+  <input type="hidden" id="swift-module-path" value="https://abs.twimg.com/c/swift/en">
+
+  
+    <script src="https://abs.twimg.com/c/swift/en/init.4ad65c5fcd8a58c77c4bcc481df2e62317fac6f5.js" async></script>
+

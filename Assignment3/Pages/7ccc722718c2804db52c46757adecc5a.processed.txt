@@ -1,0 +1,520 @@
+   dcsimg [p?c1=2&c2=17199065&cv=2.0&cj=1]
+
+   [1][developer_oldcolor.gif]
+   _______________________________________________________ (BUTTON)
+
+   IFRAME:
+   [2]http://www.facebook.com/plugins/like.php?href=http://www.developer.c
+   om/java/programming-with-member-references-in-netbeans-8.html&layout=bu
+   tton_count&show_faces=false&width=250&action=like&colorscheme=light
+
+     * [3]Java
+     * [4]Microsoft & .NET
+     * [5]Mobile
+     * [6]Android
+     * [7]Open Source
+     * [8]Cloud
+     * [9]Database
+     * [10]Architecture
+     * [11]Other
+          + [12]Cloud Center
+          + [13]Project Management
+          + [14]PHP
+          + [15]Perl
+          + [16]Ruby
+          + [17]Other Languages
+          + [18]White papers
+     * [19]NEW: Research Center
+
+   October 3, 2014
+   Hot Topics:
+   [20]prev
+
+   [21]next
+   Free Newsletters : [Enterprise Development Update]
+   [22]RSS RSS feed [23]Download our iPhone app
+   [24]Developer.com
+   [25]Java
+   [26]Read More in Java »
+
+Programming with Member References in NetBeans 8
+
+     * September 15, 2014
+     * By Developer.com Staff
+     * [27]Send Email »
+
+   [28]Tweet
+
+   By Walter Nyland
+
+
+   Lambdas, introduced in Java 8, have provoked such a storm of
+   discussion, translated into new books, articles, and further research,
+   that their more compact cousins appear to have been left standing
+   somewhat forlornly along the sidelines. This article will discuss these
+   new compact expression styles introduced in Java 8 together with
+   lambdas, collectively known as "member references", which are either
+   "method references" or "constructor references." Migrating from lambdas
+   to member references should be exactly your piece of cake if you like
+   your code even sparser and even more devoid of ceremony than the code
+   that lambdas leave you with in cutting back the boilerplate from your
+   Java code.
+
+   When you compare it to human speech, member references are somewhat
+   like dropping the majority of the letters of words and, instead,
+   referring to them by the one or two letters that you know your hearer
+   understands to refer to complete words known to both parties. At first,
+   this mode of speaking is extremely dense and almost like a dialect in
+   itself. However, once familiarized with it, devoid of verbosity,
+   conversation can be extremely quick and to the point.
+     * [29]Post a comment
+     * [30]Email Article
+     * [31]Print Article
+     * [32]Share Articles [arrow_down_red.gif]
+          + [33]Digg
+          + [34]del.icio.us
+          + [35]Slashdot
+          + [36]DZone
+          + [37]Reddit
+          + [38]StumbleUpon
+          + [39]Facebook
+          + [40]FriendFeed
+          + [41]Furl
+          + [42]Newsvine
+          + [43]Google
+          + [44]LinkedIn
+          + [45]MySpace
+          + [46]Technorati
+          + [47]Twitter
+          + [48]YahooBuzz
+
+   Ignoring tools where they exist to simplify learning is foolish. Taking
+   NetBeans IDE as a guide to learning about member references is a
+   logical path to take because the same team of developers implementing
+   member references in Java have provided the related code analyzers in
+   NetBeans IDE.
+
+   We begin by looking at method references, after which we deal with
+   constructor references.
+
+Method References
+
+   To begin learning about method references, let's take as a point of
+   departure the Greeting class, shown below. It has two different kinds
+   of methods, a static factory method createGreeting and an overridden
+   instance method toString. Via method references in Java 8, we can learn
+   how to refer to these two methods in new ways to initialize variables
+   with them, to pass them around, and to execute them.
+
+   NB01
+
+Related Articles
+
+     * [49]New Core Features in Java 8
+     * [50]Start Using Java Lambda Expressions
+
+   Code segment 1
+
+   Member references, like lambdas, operate specifically in the context of
+   functional interfaces, the concept of which also is new in Java 8. The
+   familiar Runnable class and the ActionListener have, retrospectively,
+   been functional interfaces all along because they each provide a single
+   abstract method. Java 8 comes with new functional operations, two of
+   which we will use to illustrate the relevance of member references in
+   this article:
+     * java.util.function.Function<P,R>: The Function interface represents
+       a method that receives a parameter of type "P" and returns a result
+       of type "R".
+     * java.util.function.Supplier<R>: The Supplier interface represents a
+       method that receives no parameters and returns a result of type
+       "R".
+
+   Below you see an implementation of the Function interface making use of
+   the Greeting class shown above. When a parameter of type String is
+   received, the Function returns a result of type Greeting by referring
+   to its method createGreeting. In NetBeans IDE, notice the yellow
+   underline and the yellow lightbulb in the left sidebar, informing you
+   that the IDE is aware of a better way to express the Function
+   implementation. It is not wrong to use anonymous inner classes in Java
+   8 and therefore, as you can see below, no red error mark is shown and
+   no compiler error will occur. However, NetBeans IDE, via the yellow
+   lightbulb, is able to offer to help you make the optional conversion to
+   either lambda expressions or, in this case, because reference is made
+   to the method createGreeting, to method references.
+
+   NB02
+
+   Code segment 2
+
+   When you press Alt-Enter or click the lightbulb, the IDE shows that the
+   anonymous inner class can either be expressed as a lambda expression or
+   as a member reference.
+
+   NB03
+
+   Code segment 3
+
+   By invoking the proposal to let the IDE convert the anonymous class to
+   a lambda expression, the following code is automatically created for
+   you.
+
+   NB04
+
+   Code segment 4
+
+   Lambda expressions are discussed in our previous article
+   [51]Programming with Lambdas in NetBeans 8, so we will not discuss them
+   again here, because we're only using them here to contrast them with
+   member references. However, note that an alternative, slightly more
+   verbose but possibly more readable, style for stating the lambda
+   expression is offered, too, as shown below.
+
+   NB05
+
+   Code segment 5
+
+   Here is the result of writing the lambda expression as a block, where a
+   return statement declares the right side of the lambda expression more
+   clearly, but less succinctly than in the default lambda expression.
+
+   NB06
+
+   Code segment 6
+
+   Having shown the lambda expressions that can be used in the context of
+   our Greeting class, let's now contrast them with method references. As
+   you can see below, the IDE can convert the anonymous inner class to a
+   member reference.
+
+   NB03-7
+
+   Code segment 7
+
+   Take careful note of the symbol that is used to express a member
+   reference. Instead of the "->" symbol, a "::" is used instead, as shown
+   below.
+
+   NB07
+
+   Code segment 8
+
+   While still referencing the createGreeting method, as done by the
+   lambda expressions earlier, the code is considerably more compact,
+   though, until you are used to the style, considerably more dense. To
+   unpack it, look at it carefully and notice it is in the form
+   Object::Method. The object here, Greeting, contains the method
+   createGreeting, which we want to reference. Also notice that, to make
+   the code even more compact, the parentheses of the createGreeting
+   method are omitted.
+
+   Not only can the static factory method createGreeting be referenced via
+   a method reference, but the instance method toString, or any other
+   instance method, can be expressed via method references too, as you can
+   see below.
+
+   NB08
+
+   Code segment 9
+
+   Above, notice that we are referring to a method that is held by an
+   instance of Greeting. At the point that we refer to the toString
+   method, the Greeting instance does not yet exist. Later, in the apply
+   method, the Greeting instance is created. An alternative style, where
+   you want to refer to methods of existing instances is expressed below,
+   where you see that the Greeting is declared and an instance is
+   initialized, after which reference is made to one of its methods.
+   Instead of the Function interface, here we use the Supplier interface
+   (described above), because we do not want to convert types; instead, we
+   only want to return the result of a method invocation on a Greeting
+   instance.
+
+   NB09
+
+   Code segment 10
+
+   Note that, where relevant, super::toString and this::toString are also
+   acceptable constructs.
+
+Constructor References
+
+   Switching our focus to constructor references, we rewrite the Greeting
+   class. Firstly, we remove the static factory method; secondly, we add a
+   default constructor. Now we have two constructors, enabling us to learn
+   how to use constructor references in Java 8 to refer to them and to
+   execute them.
+
+   NB10
+
+   Code segment 11
+
+   Below, following similar patterns to those introduced in the section on
+   method references above, are the three new ways introduced in Java 8
+   for referencing constructors, each of which we will now look at more
+   closely.
+
+   NB11
+
+   Code segment 12
+
+   Above, three different constructor reference examples are shown, each
+   discussed below, in turn.
+    1. The format of a constructor reference is Object:: new, where Object
+       is always the name of the class that defines the constructor. The
+       method name is always the standard Java new keyword. Here, we
+       initialize a variable of type Supplier<Greeting> with the Greeting
+       class default constructor. The compiler knows that we mean the
+       default constructor and not the parameterized constructor because
+       greetingFactory1, which is the context of the constructor
+       reference, is of type Supplier<Greeting>. The Supplier<Greeting>
+       type does not allow parameters and therefore the compiler assumes
+       the reference is the default constructor.
+    2. In the second example, the context is greetingFactory2, which is of
+       type Function<String,Greeting>, which allows parameters of, in this
+       case, type String. Therefore, this constructor reference enables us
+       to obtain the reference of the parameterized constructor that
+       accepts a String parameter.
+    3. The final example is concerned with an array constructor reference.
+       As can be seen here, we can create an Array an Greeting objects.
+       The Function<int,Greeting[]> variable type allows a parameter of
+       type Integer, and a Greeting[] return type. Notice that square
+       brackets are used in the variable type definition, as well as in
+       the constructor reference itself.
+
+   In this article, we have discussed member references, a new construct
+   introduced in Java 8 together with lambda expressions. Moreover, we
+   have discussed the topic in the context of the code analyzers
+   introduced in NetBeans 8, which help to quickly identify and convert
+   anonymous inner classes to member references. Of these, the most
+   powerful is a batch tool that lets you search through all your code and
+   identify all anonymous inner classes that can be converted to lambda
+   expressions or member references:
+
+   NB12
+
+   Code segment 13
+
+   By using the above tool, the IDE analyzes a scope, such as all
+   projects, or the current project, or a package, or file, and suggests
+   code that can be rewritten to use lambda expressions or member
+   references. Not only is this useful for learning about member
+   references, it makes migrating your code to the new compact coding
+   styles made possible in Java 8 a breeze.
+   Tags: [52]NetBeans, [53]Java 8, [54]lambda expressions
+
+   Please enable Javascript in your browser, before you post the comment!
+   Now Javascript is disabled.
+   0 Comments [55](click to add your comment)
+   [icon_comment.png] Comment and Contribute
+
+
+   ______________________ Your name/nickname
+
+   ______________________ Your email
+
+   ______________________ Subject
+
+
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   (Maximum characters: 1200). You have 1200 characters left.
+
+   IFRAME:
+   [56]http://api.recaptcha.net/noscript?k=6LeI_LkSAAAAAKKj8A30rX0r1Hi4DEf
+   qve2GYRgA
+
+
+   ________________________________________
+   ________________________________________
+   ________________________________________
+
+   Submit Your Comment  [ajax-loader.gif]
+
+
+Most Popular Developer Stories
+
+     * [57]Today
+     * [58]This Week
+     * [59]All-Time
+
+     * [60]1 Using JDBC with MySQL, Getting Started
+     * [61]2 An Introduction to Java Annotations
+     * [62]3 MIDP Programming with J2ME
+     * [63]4 An Introduction to JSP Standard Template Library (JSTL)
+     * [64]5 Debugging a Java Program with Eclipse
+
+     * [65]1 Using JDBC with MySQL, Getting Started
+     * [66]2 An Introduction to Java Annotations
+     * [67]3 An Introduction to JSP Standard Template Library (JSTL)
+     * [68]4 MIDP Programming with J2ME
+     * [69]5 Debugging a Java Program with Eclipse
+
+     * [70]1 Using JDBC with MySQL, Getting Started
+     * [71]2 An Introduction to Java Annotations
+     * [72]3 An Introduction to JSP Standard Template Library (JSTL)
+     * [73]4 MIDP Programming with J2ME
+     * [74]5 Debugging a Java Program with Eclipse
+
+Most Commented On
+
+     * [75]This Week
+     * [76]This Month
+     * [77]All-Time
+
+     * [78]1 10 Experimental PHP Projects Pushing the
+             Envelope
+     * [79]2 Day 1: Learning the Basics of PL/SQL
+     * [80]3 C# Tip: Placing Your C# Application in the
+             System Tray
+     * [81]4 Logical Versus Physical Database Modeling
+     * [82]5 Is Ubuntu Contributing as Much as It Should to
+             Free Software Projects?
+
+     * [83]1 Day 1: Learning the Basics of PL/SQL
+     * [84]2 The 5 Developer Certifications You'll Wish You
+             Had in 2015
+     * [85]3 10 Experimental PHP Projects Pushing the
+             Envelope
+     * [86]4 An Introduction to Struts
+     * [87]5 Inside Facebook's Open Source Infrastructure
+
+     * [88]1 Creating Use Case Diagrams
+     * [89]2 Day 1: Learning the Basics of PL/SQL
+     * [90]3 C# Tip: Placing Your C# Application in the
+             System Tray
+     * [91]4 Using ASP.NET To Send Email
+     * [92]5 Using JDBC with MySQL, Getting Started
+
+Recommended Partner Resources
+
+     * [93]Cloud Computing Showcase for Developers
+     * [94]Mobile Development Center
+     * [95]HTML 5 Development Center
+
+   IFRAME:
+   [96]http://www.developer.com/sl/assetlisting/?wsn=www.developer.com&wpu
+   =/java/programming-with-member-references-in-netbeans-8.html&lurl=http:
+   //o1.qnsr.com/cgi/r?WT.qs_dlk=VC9XLQrIZ3MAAGGAMnQAAAAE;;;n=203;c=139707
+   0;s=9487;x=7936;f=201309171321110;u=j;z=TIMESTAMP;k=http://www.develope
+   r.com/ebooks&wpos=AssetListing&lyt=l9&title=Top White Papers and
+   Webcasts&css=http://www.developer.com/hqb2b/css/qmp/qmp_default.css&wi=
+   21181110
+
+                        [97]Sitemap | [98]Contact Us
+
+   Rocket Fuel
+
+References
+
+   Visible links
+   1. http://www.developer.com/
+   2. http://www.facebook.com/plugins/like.php?href=http://www.developer.com/java/programming-with-member-references-in-netbeans-8.html&layout=button_count&show_faces=false&width=250&action=like&colorscheme=light
+   3. http://www.developer.com/java/
+   4. http://www.developer.com/net/
+   5. http://www.developer.com/ws/
+   6. http://www.developer.com/ws/android/
+   7. http://www.developer.com/open/
+   8. http://www.developer.com/services/
+   9. http://www.developer.com/db/
+  10. http://www.developer.com/design/
+  11. http://www.developer.com/lang/
+  12. http://www.developer.com/project-center/cloud-development
+  13. http://www.developer.com/mgmt/
+  14. http://www.developer.com/lang/php/
+  15. http://www.developer.com/lang/perl/
+  16. http://www.developer.com/lang/rubyrails
+  17. http://www.developer.com/lang/
+  18. http://www.developer.com/white_papers/
+  19. http://www.developer.com/research
+  20. http://www.developer.com/java/programming-with-member-references-in-netbeans-8.html
+  21. http://www.developer.com/java/programming-with-member-references-in-netbeans-8.html
+  22. http://www.developer.com/java/dev-java-10.rss
+  23. http://www.devreader.com/
+  24. http://www.developer.com/
+  25. http://www.developer.com/java
+  26. http://www.developer.com/java/archives
+  27. http://www.developer.com/feedback/java/programming-with-member-references-in-netbeans-8.html
+  28. https://twitter.com/share
+  29. http://www.developer.com/java/programming-with-member-references-in-netbeans-8.html#comment_form
+  30. http://www.developer.com/e-mail/java/programming-with-member-references-in-netbeans-8.html
+  31. http://www.developer.com/print/java/programming-with-member-references-in-netbeans-8.html
+  32. http://www.developer.com/java/programming-with-member-references-in-netbeans-8.html
+  33. javascript:void(0)
+  34. javascript:void(0)
+  35. javascript:void(0)
+  36. javascript:void(0)
+  37. javascript:void(0)
+  38. javascript:void(0)
+  39. javascript:void(0)
+  40. javascript:void(0)
+  41. javascript:void(0)
+  42. javascript:void(0)
+  43. javascript:void(0)
+  44. javascript:void(0)
+  45. javascript:void(0)
+  46. javascript:void(0)
+  47. javascript:void(0)
+  48. javascript:void(0)
+  49. http://www.developer.com/java/new-core-features-in-java-8.html
+  50. http://www.developer.com/java/start-using-java-lambda-expressions.html
+  51. http://www.developer.com/java/programming-with-lambdas-in-netbeans-8.html
+  52. http://www.developer.com/tags/NetBeans-4670.htm
+  53. http://www.developer.com/tags/Java-8-110870.htm
+  54. http://www.developer.com/tags/lambda-expressions-1998910.htm
+  55. http://www.developer.com/java/programming-with-member-references-in-netbeans-8.html#comment_form
+  56. http://api.recaptcha.net/noscript?k=6LeI_LkSAAAAAKKj8A30rX0r1Hi4DEfqve2GYRgA
+  57. http://www.developer.com/java/programming-with-member-references-in-netbeans-8.html#mostPopularToday
+  58. http://www.developer.com/java/programming-with-member-references-in-netbeans-8.html#mostPopularThisWeek
+  59. http://www.developer.com/java/programming-with-member-references-in-netbeans-8.html#mostPopularAllTime
+  60. http://www.developer.com/java/data/article.php/3417381/Using-JDBC-with-MySQL-Getting-Started.htm
+  61. http://www.developer.com/java/other/article.php/3556176/An-Introduction-to-Java-Annotations.htm
+  62. http://www.developer.com/java/j2me/article.php/1561591/MIDP-Programming-with-J2ME.htm
+  63. http://www.developer.com/java/ejb/article.php/1447551/An-Introduction-to-JSP-Standard-Template-Library-JSTL.htm
+  64. http://www.developer.com/java/other/article.php/2221711/Debugging-a-Java-Program-with-Eclipse.htm
+  65. http://www.developer.com/java/data/article.php/3417381/Using-JDBC-with-MySQL-Getting-Started.htm
+  66. http://www.developer.com/java/other/article.php/3556176/An-Introduction-to-Java-Annotations.htm
+  67. http://www.developer.com/java/ejb/article.php/1447551/An-Introduction-to-JSP-Standard-Template-Library-JSTL.htm
+  68. http://www.developer.com/java/j2me/article.php/1561591/MIDP-Programming-with-J2ME.htm
+  69. http://www.developer.com/java/other/article.php/2221711/Debugging-a-Java-Program-with-Eclipse.htm
+  70. http://www.developer.com/java/data/article.php/3417381/Using-JDBC-with-MySQL-Getting-Started.htm
+  71. http://www.developer.com/java/other/article.php/3556176/An-Introduction-to-Java-Annotations.htm
+  72. http://www.developer.com/java/ejb/article.php/1447551/An-Introduction-to-JSP-Standard-Template-Library-JSTL.htm
+  73. http://www.developer.com/java/j2me/article.php/1561591/MIDP-Programming-with-J2ME.htm
+  74. http://www.developer.com/java/other/article.php/2221711/Debugging-a-Java-Program-with-Eclipse.htm
+  75. http://www.developer.com/java/programming-with-member-references-in-netbeans-8.html#mostCommentedOnThisWeek
+  76. http://www.developer.com/java/programming-with-member-references-in-netbeans-8.html#mostCommentedOnThisMonth
+  77. http://www.developer.com/java/programming-with-member-references-in-netbeans-8.html#mostCommentedOnAllTime
+  78. http://www.developer.com/article.php/3896056
+  79. http://www.developer.com/article.php/777761
+  80. http://www.developer.com/article.php/3336751
+  81. http://www.developer.com/article.php/641521
+  82. http://www.developer.com/article.php/3896711
+  83. http://www.developer.com/article.php/777761
+  84. http://www.developer.com/article.php/3894316
+  85. http://www.developer.com/article.php/3896056
+  86. http://www.developer.com/article.php/1495931
+  87. http://www.developer.com/article.php/3894566
+  88. http://www.developer.com/article.php/2109801
+  89. http://www.developer.com/article.php/777761
+  90. http://www.developer.com/article.php/3336751
+  91. http://www.developer.com/article.php/3096831
+  92. http://www.developer.com/article.php/3417381
+  93. http://o1.qnsr.com/cgi/r?WT.qs_dlk=VC9XLQrIZ3MAAGGAMnQAAAAE;;;n=203;c=1412833;s=9272;x=7936;f=201401311259490;u=j;z=TIMESTAMP;
+  94. http://o1.qnsr.com/cgi/r?WT.qs_dlk=VC9XLQrIZ3MAAGGAMnQAAAAE;;;n=203;c=1412834;s=9272;x=7936;f=201401311301320;u=j;z=TIMESTAMP;
+  95. http://o1.qnsr.com/cgi/r?WT.qs_dlk=VC9XLQrIZ3MAAGGAMnQAAAAE;;;n=203;c=1412836;s=9272;x=7936;f=201401311303220;u=j;z=TIMESTAMP;
+  96. http://www.developer.com/sl/assetlisting/?wsn=www.developer.com&wpu=/java/programming-with-member-references-in-netbeans-8.html&lurl=http://o1.qnsr.com/cgi/r?WT.qs_dlk=VC9XLQrIZ3MAAGGAMnQAAAAE;;;n=203;c=1397070;s=9487;x=7936;f=201309171321110;u=j;z=TIMESTAMP;k=http://www.developer.com/ebooks&wpos=AssetListing&lyt=l9&title=Top White Papers and Webcasts&css=http://www.developer.com/hqb2b/css/qmp/qmp_default.css&wi=21181110
+  97. http://www.developer.com/sitemap.html
+  98. http://www.developer.com/contactus
+
+   Hidden links:
+ 100. http://twitter.com/share
+ 101. javascript:void(0);
+ 102. http://www.developer.com/java/programming-with-member-references-in-netbeans-8.html
+ 103. http://www.developer.com/java/programming-with-member-references-in-netbeans-8.html

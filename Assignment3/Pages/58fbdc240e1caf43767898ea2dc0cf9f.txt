@@ -1,0 +1,551 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Smoky Mountains Information: Your Smokies News: Great Smoky Mountains National Park Firefly Festival in Gatlinburg</title>
+<link rel="shortcut icon" href="http://www.yoursmokies.com/i/favicon.ico" />
+<link rel="icon" href="http://www.yoursmokies.com/i/animated_favicon1.gif" type="image/gif" />
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+
+
+
+
+<script type="text/javascript">(function() { var b=window,f="chrome",g="tick",k="jstiming";(function(){function d(a){this.t={};this.tick=function(a,d,c){var e=void 0!=c?c:(new Date).getTime();this.t[a]=[e,d];if(void 0==c)try{b.console.timeStamp("CSI/"+a)}catch(h){}};this[g]("start",null,a)}var a;b.performance&&(a=b.performance.timing);var n=a?new d(a.responseStart):new d;b.jstiming={Timer:d,load:n};if(a){var c=a.navigationStart,h=a.responseStart;0<c&&h>=c&&(b[k].srt=h-c)}if(a){var e=b[k].load;0<c&&h>=c&&(e[g]("_wtsrt",void 0,c),e[g]("wtsrt_","_wtsrt",h),e[g]("tbsd_","wtsrt_"))}try{a=null,
+b[f]&&b[f].csi&&(a=Math.floor(b[f].csi().pageT),e&&0<c&&(e[g]("_tbnd",void 0,b[f].csi().startE),e[g]("tbnd_","_tbnd",c))),null==a&&b.gtbExternal&&(a=b.gtbExternal.pageT()),null==a&&b.external&&(a=b.external.pageT,e&&0<c&&(e[g]("_tbnd",void 0,b.external.startE),e[g]("tbnd_","_tbnd",c))),a&&(b[k].pt=a)}catch(p){}})();b.tickAboveFold=function(d){var a=0;if(d.offsetParent){do a+=d.offsetTop;while(d=d.offsetParent)}d=a;750>=d&&b[k].load[g]("aft")};var l=!1;function m(){l||(l=!0,b[k].load[g]("firstScrollTime"))}b.addEventListener?b.addEventListener("scroll",m,!1):b.attachEvent("onscroll",m);
+ })();</script><script type="text/javascript">var a="indexOf",b="&m=1",e="(^|&)m=",f="?",g="?m=1";function h(){var c=window.location.href,d=c.split(f);switch(d.length){case 1:return c+g;case 2:return 0<=d[1].search(e)?null:c+b;default:return null}}var k=navigator.userAgent;if(-1!=k[a]("Mobile")&&-1!=k[a]("WebKit")&&-1==k[a]("iPad")||-1!=k[a]("Opera Mini")||-1!=k[a]("IEMobile")){var l=h();l&&window.location.replace(l)};
+</script><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Blogger" />
+<link rel="icon" type="image/vnd.microsoft.icon" href="http://www.blogger.com/favicon.ico"/>
+<link rel="alternate" type="application/atom+xml" title="Smoky Mountains Information: Your Smokies News - Atom" href="http://yoursmokies.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Smoky Mountains Information: Your Smokies News - RSS" href="http://yoursmokies.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Smoky Mountains Information: Your Smokies News - Atom" href="http://www.blogger.com/feeds/25685307/posts/default" />
+<link rel="alternate" type="application/atom+xml" title="Smoky Mountains Information: Your Smokies News - Atom" href="http://yoursmokies.blogspot.com/feeds/8075289970006344674/comments/default" />
+<link rel="stylesheet" type="text/css" href="https://www.blogger.com/static/v1/v-css/50269083-blog_controls.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.blogger.com/dyn-css/authorization.css?targetBlogID=25685307&zx=8687f9d1-13bb-46fe-926e-d898a58a0ffa"/>
+
+<style type="text/css">
+
+body {background:#013300; margin:0; padding:20px 10px; text-align:center;   font:x-small/1.5em Arial,Sans-serif; color:#333; font-size/* */:/**/small; font-size: /**/small;   }
+
+/* Page Structure
+----------------------------------------------- */
+/* The images which help create rounded corners depend on the 
+   following widths and measurements. If you want to change 
+   these measurements, the images will also need to change.
+   */
+@media all { #content { width:740px; margin:0 auto; text-align:left; }
+#main { width:485px; float:left; background:#fff url("http://www.meancash.com/iblog/mainbottom.gif") no-repeat left bottom; margin:15px 0 0; padding:0 0 10px; color:#000; font-size:97%; line-height:1.5em; }
+#main2 { float:left; width:100%; background:url("http://www.meancash.com/iblog/maintop.gif") no-repeat left top; padding:10px 0 0; }
+#main3 { background:url("http://www.meancash.com/iblog/rails.gif") repeat-y; padding:0; }
+#sidebar { width:240px; float:right; margin:15px 0 0; font-size:97%; line-height:1.5em; }
+  }
+@media handheld { #content { width:90%; }
+#main { width:100%; float:none; background:#fff; }
+#main2 { float:none; background:none; }
+#main3 { background:none; padding:0; }
+#sidebar {width:100%; float:none; }
+  }
+
+/* Links
+----------------------------------------------- */
+a:link { color:#013300; font-weight:bold;}
+a:visited { color:#000cc; font-weight:bold;}
+a:hover { color:#c63; font-weight:bold; }
+a img { border-width:0; }
+
+/* Blog Header
+----------------------------------------------- */
+@media all { #header { background:url(http://www.yoursmokies.com/i/yoursmokiesblog.jpg) no-repeat left top; margin:0 0 0; padding:8px 0 0; color:#fff; }
+#header div { padding:0 15px 8px; }
+  }
+@media handheld { #header { background:#339933; }
+#header div { background:none; }
+  }
+#blog-title { margin:0; padding:10px 30px 5px; font-size:200%; line-height:1.2em; }
+#blog-title a { text-decoration:none; color:#fff; }
+#description { margin:0; padding:5px 30px 10px; font-size:94%; line-height:1.5em;  }
+#beige {background-color: #edf0e8; padding: 5px; border:solid 1px #000000; }
+#beige2 {background-color: #edf0e8; padding: 5px; border:solid 1px #000000; }
+/* Posts
+----------------------------------------------- */
+.date-header { margin:0 28px 0 43px; font-size:85%; line-height:2em; text-transform:uppercase; letter-spacing:.2em; color:#357; }
+.post { margin:.3em 0 25px; padding:0 13px; border:1px dotted #bbb; border-width:1px 0; }
+.post-title { margin:0; font-size:135%; line-height:1.5em; background:url("http://www.meancash.com/iblog/icon_arrow.gif") no-repeat 10px .5em; display:block; border:1px dotted #bbb; border-width:0 1px 1px; padding:2px 14px 2px 29px; color:#333; }
+a.title-link, .post-title strong { text-decoration:none; display:block; }
+a.title-link:hover { background-color:#ded; color:#000; }
+.post-body { border:1px dotted #bbb; border-width:0 1px 1px; border-bottom-color:#fff; padding:10px 14px 1px 24px; }
+html>body .post-body { border-bottom-width:0; }
+.post p { margin:0 0 .75em; }
+p.post-footer { background:#ded; margin:0; padding:2px 14px 2px 29px; border:1px dotted #bbb; border-width:1px; border-bottom:1px solid #eee; font-size:100%; line-height:1.5em; color:#666; text-align:right; }
+html>body p.post-footer { border-bottom-color:transparent; }
+p.post-footer em { display:block; float:left; text-align:left; font-style:normal; }
+a.comment-link {
+  /* IE5.0/Win doesn't apply padding to inline elements,
+     so we hide these two declarations from it */
+  background/* */:/**/url("http://www.meancash.com/iblog/icon_comment.gif") no-repeat 0 45%; padding-left:14px;  }
+html>body a.comment-link {
+  /* Respecified, for IE5/Mac's benefit */
+  background:url("http://www.meancash.com/iblog/icon_comment.gif") no-repeat 0 45%; padding-left:14px; }
+.post img { margin:0 0 5px 0; padding:4px; border:0px solid #ccc; }
+blockquote { margin:.75em 0; border:1px dotted #ccc; border-width:1px 0; padding:5px 15px; color:#666; }
+.post blockquote p { margin:.5em 0; }
+
+
+/* Comments
+----------------------------------------------- */
+#comments { margin:-25px 13px 0; border:1px dotted #ccc; border-width:0 1px 1px; padding:20px 0 15px 0; }
+#comments h4 { margin:0 0 10px; padding:0 14px 2px 29px; border-bottom:1px dotted #ccc; font-size:120%; line-height:1.4em; color:#333; }
+#comments-block { margin:0 15px 0 9px; }
+.comment-data { background:url("http://www.meancash.com/iblog/icon_comment.gif") no-repeat 2px .3em; margin:.5em 0; padding:0 0 0 20px; color:#666; }
+.comment-poster { font-weight:bold; }
+.comment-body { margin:0 0 1.25em; padding:0 0 0 20px; }
+.comment-body p { margin:0 0 .5em; }
+.comment-timestamp { margin:0 0 .5em; padding:0 0 .75em 20px; color:#666; }
+.comment-timestamp a:link { color:#666; }
+.deleted-comment { font-style:italic; color:gray; }
+
+/* Profile
+----------------------------------------------- */
+@media all {
+  #profile-container { background:#ccddcc url("http://www.meancash.com/iblog/profilebottom.gif") no-repeat left bottom; margin:0 0 15px; padding:0 0 10px; color:#000; }
+#profile-container h2 { background:url("http://www.meancash.com/iblog/profiletop.gif") no-repeat left top; padding:10px 15px .2em; margin:0; border-width:0; font-size:115%; line-height:1.5em; color:#000; }
+  }
+@media handheld {
+  #profile-container { background:#ccddcc; }
+  #profile-container h2 { background:none; }
+  }
+.profile-datablock { margin:0 15px .5em; border-top:1px dotted #aba; padding-top:8px; }
+.profile-img {display:inline;}
+.profile-img img { float:left; margin:0 10px 5px 0; border:4px solid #fff; }
+.profile-data strong { display:block; }
+#profile-container p { margin:0 15px .5em; }
+#profile-container .profile-textblock { clear:left; }
+#profile-container a { color:#258; }
+.profile-link a { background:url("http://www.meancash.com/iblog/icon_profile.gif") no-repeat 0 .1em; padding-left:15px; font-weight:bold; }
+ul.profile-datablock { list-style-type:none; }
+
+
+/* Sidebar Boxes
+----------------------------------------------- */
+@media all {
+  .box { background:#CCDDCC url("http://www.meancash.com/iblog/profiletop.gif") no-repeat left top; margin:0 0 15px; padding:10px 0 0; color:#000; }
+  .box2 { background:url("http://www.meancash.com/iblog/profilebottom.gif") no-repeat left bottom; padding:0 13px 8px; }
+  .box3 { background:#CCDDCC; }
+    }
+@media handheld { 
+  .box { background:#CCDDCC; }
+  .box2 { background:none; }
+
+  }
+.sidebar-title { margin:0; padding:0 0 .2em; border-bottom:1px dotted #9b9; font-size:115%; line-height:1.5em; color:#333; }
+.box ul { margin:.5em 0 1.25em; padding:0 0px; list-style:none; }
+.box ul li { background:url("http://www.meancash.com/iblog/icon_arrow_sm.gif") no-repeat 2px .25em; margin:0; padding:0 0 3px 16px; margin-bottom:3px; border-bottom:1px dotted #eee; line-height:1.4em; }
+.box p { margin:0 0 .6em; }
+
+
+/* Footer
+----------------------------------------------- */
+#footer { clear:both; margin:0; padding:15px 0 0; }
+@media all { #footer div { url("http://www.meancash.com/iblog/corners_cap_top.gif") no-repeat left top; padding:8px 0 0; color:#fff; }
+#footer div div { background:url("http://www.yoursmokies.com/i/yoursmokiesblogfooterz.jpg") no-repeat left bottom; padding:8px 15px 8px; }
+  }
+@media handheld { #footer div { background:#339933; }
+#footer div div { background:none; }
+  }
+#footer hr {display:none;}
+#footer p {margin:0;}
+#footer a {color:#fff;}
+</style>
+<!-- --><style type="text/css">@import url(https://www.blogger.com/static/v1/v-css/navbar/3334278262-classic.css);
+div.b-mobile {display:none;}
+</style>
+
+</head>
+
+<body><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+        gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+          if (gapi.iframes && gapi.iframes.getContext) {
+            gapi.iframes.getContext().openChild({
+                url: 'https://www.blogger.com/navbar.g?targetBlogID\07525685307\46blogName\75Smoky+Mountains+Information:+Your+Smo...\46publishMode\75PUBLISH_MODE_BLOGSPOT\46navbarType\75BLUE\46layoutType\75CLASSIC\46searchRoot\75http://yoursmokies.blogspot.com/search\46blogLocale\75en\46v\0752\46homepageUrl\75http://yoursmokies.blogspot.com/\46vt\75-3780554577928554410',
+                where: document.getElementById("navbar-iframe-container"),
+                id: "navbar-iframe"
+            });
+          }
+        });
+      </script>
+<!-- Begin #content - Centers all content and provides edges for floated columns -->
+<div id="content">
+
+<!-- Blog Header -->
+
+<div id="header"><div>
+
+<p id="description">
+<h1 align="center">Smoky Mountains Information: Your Smokies News</h1><p>The Smoky Mountains in Tennessee and North Carolina offer the perfect blend of natural beauty and activities the whole family can enjoy. Find peace and solitude as well as diverse plants and animals in The Great Smoky Mountains National Park - you just have to know where to look! Naturalists, professional photographers, historians, locals, guides and travel industry professionals have all contributed to make Your Smokies News the best Smoky Mountain information source.</p>
+</div></div>
+
+
+<!-- Begin #main - Contains main-column blog content -->
+<div id="main"><div id="main2"><div id="main3">
+
+
+<h2 class="date-header">Saturday, June 06, 2009</h2>
+
+
+<!-- Begin .post -->
+<div class="post"><a name="8075289970006344674"></a>
+
+
+
+<h3 class="post-title">
+Great Smoky Mountains National Park Firefly Festival in Gatlinburg
+</h3>
+
+
+<div class="post-body"><p><div style="clear:both;"></div><p><strong>Come out and join the Firefly Festival in <a href="http://www.yoursmokies.com/smokiesareagatlinburgtn.html">Gatlinburg Tennessee</a> where you will be able to meet a firefly expert, see an insect zoo, meet a local nature author, and enjoy some music, food and drink while learning about fireflies and some of the other fascinating creatures that comprise the amazing biodiversity of the <a href="http://www.yoursmokies.com/smokymountainsnationalpark.html">Great Smoky Mountains National Park!</a></strong></p><p>It's all happening at the Happy Hiker store in Gatlinburg Tennessee near traffic light #10 on June 12, 2009 from 10 am - 6 pm.</p><p><strong>Related Smokies Fireflies News Stories</strong></p>
+<h3><font size="2"><a href="http://www.yoursmokies.com/firefliesinthesmokies.html">Synchronized Fireflies in the Great Smoky Mountains</a></font></h3><ul>
+<li><a href="http://yoursmokies.blogspot.com/2014/04/2014-firefly-viewing-dates-in-great.html">2014 Firefly Viewing Dates in the Great Smoky Mountain National Park.</a></li>
+<li><a href="http://yoursmokies.blogspot.com/2012/05/firefly-season-past-peak-in-parts-of.html">Where and When to see Synchronous Fireflies in the Smokies in 2013</a></li>
+<li><a href="http://yoursmokies.blogspot.com/2012/05/firefly-season-past-peak-in-parts-of.html">Synchronous Fireflies Emerge Too Early for Visitors In The Great Smoky Mountains national park</a></li><li><a href="http://yoursmokies.blogspot.com/2010/06/synchronous-fireflies-and-their.html">Synchronous fireflies and their admirers are about to invade the Great Smoky Mountains national park</a></li><li><a href="http://yoursmokies.blogspot.com/2008/06/great-smoky-mountains-national-park.html">Great Smoky Mountains National park synchronous firefly</a></li><li><a href="http://yoursmokies.blogspot.com/2008/06/great-smoky-mountains-fireflies-big-hit.html">Great Smoky Mountains Fireflies has 900 visitors first night</a></li><li><a href="http://yoursmokies.blogspot.com/2008/06/synchronized-fireflies-in-great-smoky.html">Synchronized Fireflies in Great Smoky Mountains national parks Elkmont a huge disappointment</a></li></ul><div style="clear:both; padding-bottom:0.25em"></div><p class="blogger-labels">Labels: <a rel='tag' href="http://yoursmokies.blogspot.com/search/label/biodiversity">biodiversity</a>, <a rel='tag' href="http://yoursmokies.blogspot.com/search/label/Firefly%20Festival">Firefly Festival</a>, <a rel='tag' href="http://yoursmokies.blogspot.com/search/label/Gatlinburg">Gatlinburg</a>, <a rel='tag' href="http://yoursmokies.blogspot.com/search/label/Great%20Smoky%20Mountains%20National%20Park">Great Smoky Mountains National Park</a>, <a rel='tag' href="http://yoursmokies.blogspot.com/search/label/Happy%20Hiker">Happy Hiker</a>, <a rel='tag' href="http://yoursmokies.blogspot.com/search/label/Tennessee">Tennessee</a></p></p>
+
+<!-- Facebook Post Button BEGIN -->
+<div align="center"><br /><g:plusone size="small"></g:plusone><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="sltrib" rel="nofollow">Tweet</a>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like show_faces="false" layout="button_count" height="35" action = 'like' font = '' colorscheme = 'light' rel="nofollow" target="_blank"></fb:like><script>function fbs_click() {u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script><style> html .fb_share_link { padding:2px 0 0 20px; height:16px; background:url(http://static.ak.facebook.com/images/share/facebook_share_icon.gif?6:26981) no-repeat top left; }</style><a rel="nofollow" href="http://www.facebook.com/share.php?u=<url>" onclick="return fbs_click()" target="_blank" class="fb_share_link">Share</a>
+<br />&nbsp;</div>
+<!-- Facebook Post Button END -->
+
+</div>
+<p class="post-footer">
+<em>posted by Smokies Hiker @ <a href="http://yoursmokies.blogspot.com/2009/06/great-smoky-mountains-national-park.html" title="permanent link">9:57 PM</a></em> &nbsp;
+
+<a class="comment-link" href="http://www.blogger.com/comment.g?blogID=25685307&amp;postID=8075289970006344674"location.href=http://www.blogger.com/comment.g?blogID=25685307&postID=8075289970006344674;>0 comments</a>
+
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=25685307&postID=8075289970006344674" title="Email Post"><img class="icon-action" alt="" src="http://img2.blogblog.com/img/icon18_email.gif" height="13" width="18"/></a></span><span class="item-control blog-admin pid-399118914"><a style="border:none;" href="http://www.blogger.com/post-edit.g?blogID=25685307&postID=8075289970006344674&from=pencil" title="Edit Post"><img class="icon-action" alt="" src="http://img2.blogblog.com/img/icon18_edit_allbkg.gif" height="18" width="18"></a></span>
+
+
+
+</p>
+</div>
+<!-- End .post -->
+
+<!-- Begin #comments -->
+
+<div id="comments">
+<a name="comments"></a>
+<h4>0 Comments:</h4>
+<dl id="comments-block">
+</dl>
+<p class="comment-timestamp"><a class="comment-link" href="http://www.blogger.com/comment.g?blogID=25685307&postID=8075289970006344674">Post a Comment</a></p>
+	    
+
+
+
+<p style="padding-left:20px;">
+<a href="http://yoursmokies.blogspot.com/">&lt;&lt; Home</a>
+</p>
+</div>
+
+
+<!-- End #comments -->
+
+
+</div></div></div>
+<!-- End #main -->
+
+<!-- Begin #sidebar -->
+<div id="sidebar">
+
+<!-- Begin .box -->
+<div class="box"><div class="box2"><div class="box3">
+ 
+
+<div align="center"><a href="http://yoursmokies.blogspot.com/"><img src="http://www.yoursmokies.com/i/yoursmokiesnewslogo.jpg"  border="1" alt="Your Smokies News Information" width="200" height="133" /><br />Smoky Mountains News Home</a></div><br />
+
+<h2 class="sidebar-title" align="center">Your Smokies Popular Links:</h2>
+<ul>
+<li><a href="http://www.yoursmokies.com/">Smoky Mountains Information</a></li>
+<li><a href="http://www.yoursmokies.com/smokymountainsnationalpark.html">National Park Information</a></li>
+<li><a href="http://www.yoursmokies.com/smokies-weather-reports.html">Smokies Weather Reports</a></li>
+<li><a href="http://www.yoursmokies.com/smokymountainsnationalparkroadconditions.html">GSM National Park Roads&nbsp;&nbsp;<img src="http://www.yoursmokies.com/i/gsmnproadconditions.gif" width="18" height="18" alt="National Park Road Conditions" style="border:0" /></a>
+<li><a href="http://www.yoursmokies.com/smokiescabins.html">Smoky Mountain Lodging&nbsp;<img src="http://www.yoursmokies.com/i/cabin.gif" width="18" height="18" alt="Cabins and Chalets in Smoky mountains" style="border:0" /></a></li>
+<li><a href="http://www.yoursmokies.com/smokymountainsnationalparkcamping.html">GSMNP Camping Campsites</a></li>
+<li><a href="http://www.yoursmokies.com/handicappedaccessible.html">Handicapped Accessibility&nbsp;&nbsp;<img src="http://www.yoursmokies.com/i/handicappedaccessible.gif" alt="Smoky Mountains Handicapped Accessibility Guide" height="16" width="16" border="0" /></a></li>
+<li><a href="http://www.yoursmokiesdirectory.com/">Smoky Mountains Directory</a></li>
+<li><a href="http://www.yoursmokies.com/smokies-sitesearch.html">Search Your Smokies&nbsp;&nbsp;<img src="http://www.yoursmokies.com/i/searchicon.jpg" width="18" height="18" alt="Search Smoky Mountains" style="border:0" /></a></li>
+</ul>
+<div class="cse-branding-form" align="center">
+    <form action="http://www.yoursmokies.com/smokies-site-search.html" id="cse-search-box">
+      <div>
+        <input type="hidden" name="cx" value="partner-pub-8700809208022223:2v3la7cxdos" />
+        <input type="hidden" name="cof" value="FORID:10" />
+        <input type="hidden" name="ie" value="ISO-8859-1" />
+        <input type="text" name="q" size="28" />
+        <input type="submit" name="sa" value="Search Your Smokies" />
+</div></form></div>
+
+<ul>
+<li><a href="http://www.yoursmokies.com/smokies-mailing-list.html" target="_blank">Smokies Mailing List Sign up</a></li>
+<li><a href="http://feeds.feedburner.com/yoursmokiesblog" title="Subscribe to my feed" rel="alternate" type="application/rss+xml">Subscribe to Your Smokies&nbsp;<img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="Subscribe to Feed" style="border:0"/></a></li>
+<li><script>function fbs_click() {u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script><style> html .fb_share_link { padding:2px 0 0 20px; height:16px; background:url(http://static.ak.facebook.com/images/share/facebook_share_icon.gif?6:26981) no-repeat top left; }</style><a rel="nofollow" href="http://www.facebook.com/share.php?u=<url>" onclick="return fbs_click()" target="_blank" class="fb_share_link">Share this site on Facebook</a></li>
+
+</ul>
+
+
+<div align="center">
+<div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like show_faces="false" layout="button_count" height="35" action = 'like' font = '' colorscheme = 'light' rel="nofollow" target="_blank"></fb:like>&nbsp;&nbsp;<g:plusone size="medium"></g:plusone><br />
+</div></div>
+
+
+
+
+
+<h2 class="sidebar-title">Previous Your Smokies News:</h2>
+<ul id="recently">
+
+<li><a href="http://yoursmokies.blogspot.com/2009/05/20-year-old-hiker-drowns-in-great-smoky.html">20 year old hiker Drowns in the Great Smoky Mounta...</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2009/05/guns-are-still-not-allowed-in-great.html">Guns are still not allowed in the Great Smoky Moun...</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2009/05/invasion-of-non-native-exotic-plant.html">Invasion of the non native exotic plant species in...</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2009/05/synchronized-firefly-show-in-great.html">Synchronized firefly show in Great Smoky Mountains...</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2009/05/celebrating-ferns-of-smokies-in-great.html">Celebrating Ferns of the Smokies in Great Smoky Mo...</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2009/05/blog-post.html">International Biodiversity Day  in  the Great Smok...</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2009/05/ramsey-cascades-hiking-trail-will-have.html">Ramsey Cascades Hiking Trail Will Have Partial Clo...</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2009/05/where-will-64-million-dollars-given-to.html">Where will the $64 million dollars given to the Gr...</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2009/05/great-smoky-mountains-national-park_12.html">Great Smoky Mountains National Park Official Writt...</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2009/05/great-smoky-mountains-national-park_11.html">Great Smoky Mountains national park host tourism w...</a></li>
+
+</ul>
+
+<div align="center"><a href="http://www.yoursmokiesnews.com">Your Smokies News Home</a><br /><br />
+<img src="http://www.yoursmokies.com/i/smokymountaininfallleaf.jpg"  border="1" alt="Your Smokies News and Weather" width="200" height="133" />
+<br /><a href="http://www.yoursmokies.com">Your Smokies Home Page</a><br /><br /></div>
+
+<div id="twitter_div">
+<h2 class="sidebar-title">Smokies Hiker Updates</h2>
+<ul id="twitter_update_list"></ul>
+<a href="http://twitter.com/smokieshiker" id="twitter-link" style="display:block;text-align:right;">Follow us on Twitter</a><br />
+</div>
+
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/smokieshiker" data-chrome="transparent"  data-widget-id="346026034132574208">Tweets by @smokieshiker</a>
+<script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+
+
+
+</div>
+<br />
+
+<h2 class="sidebar-title">Your Smokies News Archives</h2>
+<ul class="archive-list">
+
+<li><a href="http://yoursmokies.blogspot.com/2006_07_01_archive.html">July 2006</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2006_08_01_archive.html">August 2006</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2006_10_01_archive.html">October 2006</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2006_11_01_archive.html">November 2006</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2006_12_01_archive.html">December 2006</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2007_01_01_archive.html">January 2007</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2007_02_01_archive.html">February 2007</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2007_03_01_archive.html">March 2007</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2007_04_01_archive.html">April 2007</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2007_05_01_archive.html">May 2007</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2007_09_01_archive.html">September 2007</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2007_10_01_archive.html">October 2007</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2007_11_01_archive.html">November 2007</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2007_12_01_archive.html">December 2007</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2008_01_01_archive.html">January 2008</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2008_02_01_archive.html">February 2008</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2008_03_01_archive.html">March 2008</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2008_04_01_archive.html">April 2008</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2008_05_01_archive.html">May 2008</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2008_06_01_archive.html">June 2008</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2008_07_01_archive.html">July 2008</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2008_08_01_archive.html">August 2008</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2008_09_01_archive.html">September 2008</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2008_10_01_archive.html">October 2008</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2008_11_01_archive.html">November 2008</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2008_12_01_archive.html">December 2008</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2009_01_01_archive.html">January 2009</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2009_02_01_archive.html">February 2009</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2009_03_01_archive.html">March 2009</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2009_04_01_archive.html">April 2009</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2009_05_01_archive.html">May 2009</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2009_06_01_archive.html">June 2009</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2009_07_01_archive.html">July 2009</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2009_08_01_archive.html">August 2009</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2009_09_01_archive.html">September 2009</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2009_10_01_archive.html">October 2009</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2009_11_01_archive.html">November 2009</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2009_12_01_archive.html">December 2009</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2010_01_01_archive.html">January 2010</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2010_02_01_archive.html">February 2010</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2010_03_01_archive.html">March 2010</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2010_05_01_archive.html">May 2010</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2010_06_01_archive.html">June 2010</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2010_11_01_archive.html">November 2010</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2011_04_01_archive.html">April 2011</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2011_06_01_archive.html">June 2011</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2011_09_01_archive.html">September 2011</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2011_10_01_archive.html">October 2011</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2011_11_01_archive.html">November 2011</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2012_03_01_archive.html">March 2012</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2012_05_01_archive.html">May 2012</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2012_10_01_archive.html">October 2012</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2012_12_01_archive.html">December 2012</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2013_01_01_archive.html">January 2013</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2013_03_01_archive.html">March 2013</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2013_04_01_archive.html">April 2013</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2013_05_01_archive.html">May 2013</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2013_08_01_archive.html">August 2013</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2013_10_01_archive.html">October 2013</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2014_02_01_archive.html">February 2014</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2014_04_01_archive.html">April 2014</a></li>
+
+<li><a href="http://yoursmokies.blogspot.com/2014_09_01_archive.html">September 2014</a></li>
+
+
+</ul>
+
+<div align="center"><img src="http://www.yoursmokies.com/i/cadescovefield.jpg"  border="1" alt="Your Smokies Blog" width="200" height="133" /></div>
+<div align="center"><br /><b>We Strongly Support</b><br /><img src="http://www.yoursmokies.com/i/friends-of-smokies.gif" border="0" height="122" width="161" alt="Friends of the Smokies" /><br /><a href="http://www.yoursmokies.com/friendsofsmokies.html">Friends of Smokies</a><br /><br />
+<img src="http://www.yoursmokies.com/i/discoverlifeinamerialogosmall.gif" border="0" height="106" width="192" alt="Discover Life In America - the ATBI" /><br /><a href="http://www.yoursmokies.com/discoverlifeinamericasmokies.html">Discover Life In America</a><br />
+
+</div>
+<br />
+
+
+
+<div id="beige">
+
+<div align="center">
+<br />
+<a href="http://yoursmokies.blogspot.com/2007/05/have-your-smokies-news-on-your-web-site.html">Smokies News on Your Site</a><br /><br />
+<a href="http://www.yoursmokies.com/smokiesadvertise.html">Advertise on Your Smokies</a><br /><br />
+<a href="http://www.meancash.com/siteuse.html" target_blank">Use of Your Smokies News Site</a><br /><br />
+<br />
+<b>Your Smokies designed by:</b><br /><a href="http://www.meanseo.com/">Mean SEO: Internet Marketing<br />and Web Site Design Company</a><br /></div><br />
+
+<!-- End .box -->
+
+</div></div></div>
+ 
+</div>
+
+<!-- End #sidebar -->
+
+<!-- Begin #footer -->
+<div id="footer"><div><div align="center"><hr />
+<table width="740" background="http://www.yoursmokies.com/i/yoursmokiesblogfooter.jpg" ><tr><td align="center">
+<p><font color="#000000"><b>Your Smokies: North Carolina and Tennessee Smoky Mountains information on: The Great Smoky Mountain National Park, activities, boating, camping, dining, fishing, golfing, gyms, health clubs, hiking, local history, horseback riding, honeymoons, lodging, real estate, vacation rentals, weather, weddings, and local businesses, churches and organizations in the NC and TN Smoky Mountains. Your Smokies: The Smokies - your way!</b></font><br /><br />
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Your Smokies Copyright 2014 &copy; Mean Cash Inc, All rights reserved. No reproduction without written consent.</b></font></p></td></tr></table>
+</div></div></div>
+<!-- End #footer -->
+</div>
+
+<!-- End #content -->
+
+
+<script type="text/javascript">
+sc_project=1618451; 
+sc_invisible=1; 
+sc_partition=15; 
+sc_security="42f5534e"; 
+</script>
+
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div
+class="statcounter"><a title="Smoky Mountains Smokies" class="statcounter" href="http://www.statcounter.com/"><img
+class="statcounter"
+src="http://c16.statcounter.com/1618451/0/42f5534e/1/"
+alt="Smoky Mountains New Smokies" /></a></div></noscript>
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">stLight.options({publisher: "bc4c1a4c-b390-41f2-bba7-ad04aaf02278", doNotHash: false, doNotCopy: false, hashAddressBar: true});</script>
+<script>
+var options={ "publisher": "bc4c1a4c-b390-41f2-bba7-ad04aaf02278", "position": "right", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["facebook", "googleplus", "twitter", "digg", "reddit", "stumbleupon", "linkedin", "pinterest", "email", "sharethis"]}};
+var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+</script>
+
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/common/js/2858158682-csitail.js"></script>
+<script type="text/javascript">BLOG_initCsi('classic_blogspot');</script></body>
+</html>

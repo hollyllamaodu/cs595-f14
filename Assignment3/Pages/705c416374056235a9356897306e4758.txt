@@ -1,0 +1,39 @@
+<!DOCTYPE html><!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" ng-app="thoughtsApp" ng-controller="Meta"> <![endif]--><!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" ng-app="thoughtsApp" ng-controller="Meta"> <![endif]--><!--[if IE 8]>         <html class="no-js lt-ie9" ng-app="thoughtsApp" ng-controller="Meta"> <![endif]--><!--[if gt IE 8]><!--><html class="no-js" ng-app="thoughtsApp" ng-controller="Meta"><!--<![endif]--><head><meta charset="utf-8"><title meta-title="">Forbes Quotes</title><meta name="description" content="{{meta.description}}"><meta name="keywords" content="{{meta.keywords}}"><link rel="canonical" href="{{meta.canonical}}"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"><meta name="fragment" content="!"><base href="/quotes/"><meta name="prerender-status-code" content="{{meta.code}}" ng-if="meta.code === 404"><!-- facebook og --><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"><meta property="fb:app_id" content="123694841080850"><meta property="og:type" content="article"><meta property="og:url" content="{{meta.canonical}}"><meta property="og:title" content="{{meta.title}}"><meta property="og:description" content="{{meta.description}}"><meta property="og:image" content="image URL here"><!-- twitter card--><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@forbes"><meta name="twitter:title" content="{{meta.title}}"><meta name="twitter:description" content="{{meta.description}}"><meta name="twitter:image:src" content="image URL here"><!-- Place favicon.ico and apple-touch-icon.png in the root directory --><link rel="stylesheet" href="http://images.forbes.com/quotes/styles/62eb34cd.main.css"><script>var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			(function() {
+				var gads = document.createElement('script');
+				gads.async = true;
+				gads.type = 'text/javascript';
+				var useSSL = 'https:' == document.location.protocol;
+				gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+				var node = document.getElementsByTagName('script')[0];
+				node.parentNode.insertBefore(gads, node); 
+			})();
+
+			if (window.angular && window.angular.bootstrap) {
+				$q.break();
+			}</script><body><!--[if lt IE 7]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]--><!-- Add your site or application content here --><div class="page-content" fbs-breakpoint-monitor=""><div class="page-container clearfix"><div class="layout clearfix"><div class="left-section scroll" ng-controller="Sidebar" ng-include="" src="template_path"></div><div class="right-section anim"><!-- Header bar --><header ng-controller="Header" ng-include="" src="template_path"></header><!-- Main content --><div class="main-content scroll clearfix" ng-view="" scroll-detection="" bindonce=""></div></div></div></div></div><!--[if lt IE 9]>
+	<script src="http://images.forbes.com/quotes/scripts/4d08494f.ie_vendor.js"></script>
+	<![endif]--><script src="http://images.forbes.com/quotes/scripts/74112103.vendor.js"></script><script src="http://images.forbes.com/quotes/scripts/31b8cac1.scripts.js"></script><div id="comscore"></div><script type="text/javascript">$(window).on("touchstart", function(e){});
+		var _comscore = _comscore || [],
+			comscore_track = {
+				getEl: function() {
+					comscore_track.el = comscore_track.el || document.getElementById("comscore");
+					return comscore_track.el;
+				},
+				push: function() {
+					_comscore.push({ c1: "2", c2: "6872493" });
+					(function() {
+						var s = document.createElement("script"),
+							el = comscore_track.getEl();
+						el.innerHTML = "";
+						s.async = true;
+						s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+						
+						el.appendChild(s);
+
+					})();
+				}
+			};</script>

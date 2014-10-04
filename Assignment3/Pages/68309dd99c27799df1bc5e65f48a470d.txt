@@ -1,0 +1,1422 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+
+
+	<head>
+
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+
+
+
+		<meta name="viewport" content="initial-scale=0.783673, user-scalable=no" id="viewport">
+
+
+
+		<title>Creator Commentary: The Return of Chef - Season 10: Creator Commentary Collection | South Park Studios</title>
+		<meta name="description" content="Watch the Creator Commentary: The Return of Chef video from the Season 10: Creator Commentary collection of video clips and episodes created by South Park Studios." />
+
+		<link rel="canonical" href="http://southpark.cc.com/clips/v6oucx/creator-commentary-the-return-of-chef" />
+
+		
+		
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<link rel="image_src" href="http://2.images.southparkstudios.com/default/image.jpg?quality=0.8" />
+	
+
+		<meta property="fb:app_id" content="137822872980280" />
+		<meta property="og:type" content="video.tv_show" />
+		<meta property="og:title" content="Collection" />
+		<meta property="og:description" content="Watch the Creator Commentary: The Return of Chef video from the Season 10: Creator Commentary collection of video clips and episodes created by South Park Studios." />
+		<meta property="og:url" content="http://southpark.cc.com/collections/1466/season-10-creator-commentary/1?xrs=synd_facebook_s10-commentary" />
+		<meta property="og:image" content="http://2.images.southparkstudios.com/default/image.jpg?quality=0.8" />
+ 	
+
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:site" content="@SouthPark" />
+		<meta name="twitter:title" content="Collection" />
+		<meta name="twitter:description" content="Watch the Creator Commentary: The Return of Chef video from the Season 10: Creator Commentary collection of video clips and episodes created by South Park Studios." />
+		<meta name="twitter:image" content="http://2.images.southparkstudios.com/default/image.jpg?quality=0.8" />
+
+
+
+		<link id="sheet-normalize" rel="stylesheet" type="text/css" href="/sitewide/css/normalize.css">
+		<link id="sheet-fonts" rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+
+
+		
+
+		<!--[if lte IE 8]>
+		<link id="sheet-main-ie8" rel="stylesheet" type="text/css" href="/sitewide/css/main-ie8.css">
+		<![endif]-->
+		
+
+		<!--[if gte IE 9]><!-->
+		
+		
+		<link id="sheet-main" rel="stylesheet" type="text/css" href="/sitewide/css/main.css">
+		
+
+		<!--<![endif]-->
+
+
+
+
+
+
+
+		<script type="text/javascript">
+		var isIE = /*@cc_on!@*/!1;  // [Boolean]
+		if(!isIE)
+			document.domain = "southpark.cc.com";
+		</script>
+
+		<!--[if !IE]><!-->
+		<script type="text/javascript" src="/sitewide/js/mobileDetect.js"></script>
+		<script type="text/javascript">
+
+
+
+
+			// set the viewport as soon as possible to prevent device flickering
+			if (mobileDetect.isAny() && !mobileDetect.isIpad() && !mobileDetect.isAndroidTablet()) {
+				// TODO redirect to mobile site
+			} else if (mobileDetect.isIpad() || mobileDetect.isAndroidTablet()) {
+				document.write('<link id="sheet-breakpoint-tablet" rel="stylesheet" type="text/css" href="/sitewide/css/breakpoint-tablet.css" disabled>');
+				document.head.parentNode.className += ' tablet';
+
+				if (mobileDetect.isAndroidTablet()) {
+					document.head.parentNode.className += ' android';
+				}
+			} else {
+				document.write('<link id="sheet-breakpoint-desktop-mobile" rel="stylesheet" type="text/css" href="/sitewide/css/breakpoint-desktop.css">');
+			}
+
+
+		</script>
+		<!--<![endif]-->
+
+		<!--[if IE]>
+		<link id="sheet-breakpoint-desktop-mobile" rel="stylesheet" type="text/css" href="/sitewide/css/breakpoint-desktop-mobile.css">
+		<script type="text/javascript" src="/sitewide/js/mobileDetect.js"></script>
+		<![endif]-->
+
+		<!--[if lt IE 9]>
+		<script src="/sitewide/js/vendor/jquery-1.10.2.min.js"></script>
+		<![endif]-->
+		<!--[if gte IE 9]><!-->
+		<script src="/sitewide/js/vendor/jquery-2.0.2.min.js"></script>
+		<!--<![endif]-->
+
+
+
+		<!--[if gte IE 9]>
+		<style type="text/css">
+			.gradient {
+				filter: none !important;
+			}
+		</style>
+		<![endif]-->
+
+
+
+
+
+		<!--[if lt IE 9]>
+		<script type="text/javascript" src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+
+
+
+	<script type="text/javascript" src="//connect.facebook.net/en_US/all.js#xfbml=1&appId=137822872980280"></script>
+
+	<script type="text/javascript">
+		window.rootUrl = '/sitewide/';
+
+		var CONFIG = {
+			base_url     : '/sitewide/',
+			
+			userIsAuthed : 
+false
+
+
+		};
+
+		var USER_QUEUE =
+
+
+
+[]
+
+
+;
+
+		if (window.self !== window.parent) {
+			window.parent.CONFIG.userIsAuthed = CONFIG.userIsAuthed;
+			window.parent.USER_QUEUE = USER_QUEUE;
+		}
+	</script>
+	</head>
+	<body
+					data-page="player"
+				class=""
+		data-collection-api-url="http://southpark.cc.com/feeds/"
+		data-queue-api-url="http://southpark.cc.com/feeds/"
+
+		data-now-playing="5e03af7b-0973-4fad-b98a-90933ea3f258"
+>
+		
+
+		<h1 style="display: none;">Creator Commentary: The Return of Chef - Season 10: Creator Commentary Collection | South Park Studios</h1>
+
+
+		<div class="iframe-overlay">
+			<div class="loading-text">Loading...</div>
+		</div>
+
+
+
+		<div id="container">
+
+
+			
+			<div id="sidebar" class="iframe">
+								<iframe src="/iframes/sidebar" id="sidebar-iframe" frameborder="0" scrolling="no"></iframe>
+							</div>
+
+
+
+			<div id="main" class="iframe">
+
+
+
+				
+<!-- No leaderboard today, folks -->
+
+
+
+
+
+				
+				<section id="main_content" class="content player">
+					
+
+
+					<div class="shadows"></div>
+
+
+
+					
+					<div class="loader">
+						<div class="container clearfix">
+							<div></div>
+							<div></div>
+							<div></div>
+							<div></div>
+							<div></div>
+							<div></div>
+							<div></div>
+							<div></div>
+						</div>
+					</div>
+
+					
+					<header id="main_header">
+<section class="nav with-sub-nav
+ powered-by-hulu
+	
+" data-moduletracking="SPS_top-nav">
+	<div class="mobile-menu">
+		<a href="" id="menu-anchor">&nbsp;</a>
+	</div>
+	<!-- asdf -->
+<nav class="main-nav" id="header-main-nav">
+	<header>
+		<span class="logo beta" id="nav-logo-beta">
+			<a href="/"></a>
+			<div class="powered-by">
+				Powered by&nbsp;<a href="http://www.hulu.com/"><img src="/sitewide/img/hulu-logo.png"/></a>
+			</div>
+		</span>
+
+	</header>
+
+	<ul>
+
+
+		<li class="episodes active">
+			<a href="/full-episodes">Full Episodes</a>
+		</li>
+
+
+		<li class="wiki">
+			<a href="/wiki">Wiki</a>
+		</li>
+
+
+		<li class="blog">
+			<a href="/blog">Blog</a>
+		</li>
+
+
+		<li class="avatars">
+			<a href="/avatar">Avatar</a>
+		</li>
+
+
+		<li class="games">
+			<a href="/games">Games</a>
+		</li>
+
+
+		<li class="forum">
+			<a href="/forum">Forum</a>
+		</li>
+
+
+		<li class="shop">
+			<a href="/shop">Shop</a>
+		</li>
+
+
+		<li class="schedule">
+			<a href="/schedule">Schedule</a>
+		</li>
+		<li class="more">
+			<span>More &#x25BE;</span>
+			<ul>
+			</ul>
+		</li>
+	</ul>
+</nav>
+
+
+<nav class="main-sub-nav">
+	<div class="arrow"></div>
+	<div class="container clearfix Array">
+		<ul class="videos">
+
+			<li class="episodes">
+				<a href="/full-episodes">Episodes</a>
+			</li>
+
+			<li class="clips">
+				<a href="/clips">Clips</a>
+			</li>
+
+			<li class="collections active">
+				<a href="/collections">Collections</a>
+			</li>
+		</ul>
+	</div>
+</nav>
+
+
+
+
+
+
+
+
+	<section class="greeting">
+		<nav class="main-nav">
+			<div>
+				<span class="welcome"><span>Stranger</span></span>
+				<span class="messages"><a class="login-auth" href="#login">Sign in, buddy.</a></span>
+			</div>
+			<a href="/profile/" class="sub-nav-arrow-target" data-view="profileCollections" data-sub-nav="profile"><img src="http://2.images.southparkstudios.com/default/expression_default.png?height=34&quality=0.8"/></a>
+		</nav>
+	</section>
+
+
+	<section class="menu" id="header-menu-nav">
+		<span class="search icon-search"></span>
+		<span class="queue">0</span>
+	</section>
+
+
+
+
+
+	<section class="search-container">
+		<form method="get" action="http://southpark.cc.com/search" id="search_form">
+			<input type="text" name="keywords" id="keywords" placeholder="Enter a keyword or search by your favorite South Park quote"/>
+			<button class="icon-search"></button>
+		</form>
+		<div class="arrow"></div>
+	</section>
+
+
+
+
+
+	<section class="queue-container offline scroll-area" data-allow-desktop-expand="true" data-collapse-on-window-click="true">
+ 		<div class="outer-area">
+			<!-- <div class="scrollbar">
+ 				<div class="scroll-thumb" draggable="true"></div>
+			</div> -->
+ 
+ 			<div class="inner-area">
+				<section class="">
+ 					<header class="content-header clearfix">
+						<h4>please login or register</h4>
+						<p>Our queue is available only to registered users.<br>
+							Please <a class="login-auth" href="#login">Login or Register</a> in order to use this feature.</p>
+ 					</header>
+ 				</section>
+ 			</div>
+ 		</div>
+	</section>
+
+
+
+</section>
+
+
+
+
+<!-- No callout -->
+					</header>
+
+					
+					<section class="page-content player  with-mobile-ad-header with-mobile-ad-footer">
+						
+
+
+
+
+
+						
+
+<div class="player collections" data-view="player">
+<script type="text/javascript">		
+		window.playerConfig = {
+			playerVars : {
+				flashVars : {
+				}
+			},
+			containerID : 'player_page_player'
+		};
+	</script>
+
+	<section class="featured">
+		<div class="video">
+			<span class="season hide" itemprop="partOfSeason" itemscope itemtype="http://schema.org/TVSeason">
+													<span itemprop="name" class="name">Season 10</span>
+							</span>
+			<div class="series" itemprop="partOfTVSeries" itemscope itemtype="http://schema.org/TVSeries">
+				<span class="episode hide" itemprop="episode" itemscope itemtype="http://schema.org/TVEpisode">
+			        <span itemprop="name">South Park</span> 
+		        							<span itemprop="episodeNumber">s10e01</span>
+								    </span>
+				<span class="name hide" itemprop="name">South Park</span>
+				<span class="author hide" itemprop="author">Trey Parker</span>
+				<span class="author hide" itemprop="author">Matt Stone</span>
+				<div id="player_page_player" data-url="/feeds/upnext/5e03af7b-0973-4fad-b98a-90933ea3f258" data-mgid="mgid:arc:video:southparkstudios.com:5e03af7b-0973-4fad-b98a-90933ea3f258" data-huluid="60436111" data-beacon-url="http://activities.niagara.comedycentral.com/register/southpark/clips/mgid:arc:video:comedycentral.com:5e03af7b-0973-4fad-b98a-90933ea3f258?additionalPayload=d1fh0k" data-source="1466" data-position="1" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+					
+					
+					
+	<meta itemprop="url" content="http://southpark.cc.com/"/>
+
+
+	<meta itemprop="name" content="Creator Commentary: The Return of Chef"/>
+
+
+	<meta itemprop="thumbnailUrl" content="http://southparkstudios.mtvnimages.com/images/shows/south-park/commentary-thumbnails/season-10/s10e01-creator-commentary-the-return-of-chef_16x9.jpg?"/>
+
+
+        	<meta itemprop="description" content="Co-creators Trey Parker and Matt Stone recall how tough it was to do season 10 because of all the controversy surrounding the previous season and discuss the events that lead them to comment on Scientology again."/>
+
+
+	<meta itemprop="uploadDate" content="2014-08-28"/>
+
+
+	<meta itemprop="duration" content="T5M27S"/>
+
+
+					
+					
+					
+					<div class="transcript">
+	<div class="act">
+			</div>
+
+					</div>
+					
+
+					
+					<div id="videoPlayerComponent"></div>
+				</div>
+			
+			</div>
+		</div>
+	</section>
+
+	<section id="endcap-container" class="hidden"></section>
+
+	<section class="actions clearfix" data-moduletracking="SPS_playerbar">
+		
+
+		<h5 class="title">Creator Commentary: The Return of Chef</h5>
+		
+
+		<!-- <span data-toggle="More Info &nbsp;" class="icon-chevron-info open">Less Info &nbsp;</span> -->
+		<div class="buttons icons">
+	
+
+		<a class="button icon-black" href='#' title="Dim the lights" data-moduletracking="addto_dim">
+			<img style="width:21px;" src="/sitewide/img/icon-black.png"/>
+		</a>
+	
+
+
+	
+	
+	
+	<div id="share-button-container" title="Share this" data-moduletracking=" addto_share">
+		<button class="icon-share" id="share-popover"></button>
+
+ 
+
+
+
+
+ 					<div class="social" id="share-buttons" data-itemid="5e03af7b-0973-4fad-b98a-90933ea3f258">
+ 						<a href="#" class="item facebook" data-title="Season 10: Creator Commentary" data-text="Trey and Matt go behind-the-scenes of The Return of Chef" data-image="http://1.images.southparkstudios.com/images/shows/south-park/commentary-thumbnails/season-10/s10e01-creator-commentary-the-return-of-chef_16x9.jpg?quality=0.8" data-url="http://southpark.cc.com/collections/1466/season-10-creator-commentary/1"></a>
+ 						<a href="#" class="item twitter" data-title="Season 10: Creator Commentary" data-text="Trey and Matt go behind-the-scenes of The Return of Chef" data-image="http://1.images.southparkstudios.com/images/shows/south-park/commentary-thumbnails/season-10/s10e01-creator-commentary-the-return-of-chef_16x9.jpg?quality=0.8" data-url="http://southpark.cc.com/collections/1466/season-10-creator-commentary/1"></a>
+						<a href="#" class="item email" data-title="South Park: Season 10: Creator Commentary" data-text="Trey and Matt go behind-the-scenes of The Return of Chef" data-image="http://1.images.southparkstudios.com/images/shows/south-park/commentary-thumbnails/season-10/s10e01-creator-commentary-the-return-of-chef_16x9.jpg?quality=0.8" data-url="http://southpark.cc.com/collections/1466/season-10-creator-commentary/1"></a>
+						<a href="#" class="item googleplus" data-title="Season 10: Creator Commentary" data-text="Trey and Matt go behind-the-scenes of The Return of Chef" data-image="http://1.images.southparkstudios.com/images/shows/south-park/commentary-thumbnails/season-10/s10e01-creator-commentary-the-return-of-chef_16x9.jpg?quality=0.8" data-url="http://southpark.cc.com/collections/1466/season-10-creator-commentary/1"></a>
+ 					</div>
+	</div>
+	<a class="button icon-comment desktop-only-inline" data-moduletracking="addto_comment" href="#fb-comments" title="Comment"></a>
+	
+	<a class="button icon-wiki" data-moduletracking="addto_wiki"  href="http://southpark.cc.com/wiki/The_Return_of_Chef" title="Read wiki"></a>
+	
+	<button class="icon-addto collection" data-guid="5e03af7b-0973-4fad-b98a-90933ea3f258" title="Add To..."></button>
+</div>
+	</section>
+
+	
+	<section class="more-info clearfix">
+		<article>
+			<header>
+				
+
+					<h6 class="additional">
+						<a class='season' href="http://southpark.cc.com/full-episodes/s10e01-the-return-of-chef">The Return of Chef</a>
+						<span class='air-date'>s10e01</span>
+					</h6>
+			</header>
+			<p class="">Trey and Matt go behind-the-scenes of The Return of Chef</p>
+		</article>
+					<div id="adComponent"></div>
+			</section><section class="collection-info clearfix  tab">
+					<header class="mobile">
+				<h3>You are watching</h3>
+				
+				<h2>Season 10: Creator Commentary</h2>
+				<h4>
+					<img src="http://southparkstudios.mtvnimages.com/avatar/forum_expression/default/1549545.png?height=34" />
+					<span>A collection by </span><span class="name">South Park Studios</span>
+				</h4>
+			</header>
+				
+
+			<section class="single-row module carousel clearfix" 
+				data-count="14"
+				data-url="/feeds/collection/videos/1466/{resultsPerPage}/{currentPage}/json"
+				data-results-per-page="12"
+				data-current-page="1"
+			    data-sort="playlist"
+			    data-theme="white-on-black">
+				<span class="ticker" id=""><span id="ticker-position">1</span> of <span id="ticker-total">14</span></span>
+				<header class="carousel-header">
+	<h2 class="white ">
+					
+			</h2>
+	
+
+			
+
+</header>
+
+
+
+
+<div class="elastislide-wrapper elastislide-horizontal">
+	<div class="elastislide-carousel">
+		
+		<ul class="elastislide-list">
+			
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/clips/v6oucx/creator-commentary-the-return-of-chef">Creator Commentary: The Return of Chef</a>
+
+		
+	
+				</li>
+	
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/clips/ta149c/creator-commentary-smug-alert">Creator Commentary: Smug Alert!</a>
+
+		
+	
+				</li>
+	
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/clips/99u0pj/creator-commentary-cartoon-wars-part-i">Creator Commentary: Cartoon Wars Part I</a>
+
+		
+	
+				</li>
+	
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/clips/05e7ya/creator-commentary-cartoon-wars-part-ii">Creator Commentary: Cartoon Wars Part II</a>
+
+		
+	
+				</li>
+	
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/clips/hze5sr/creator-commentary-a-million-little-fibers">Creator Commentary: A Million Little Fibers</a>
+
+		
+	
+				</li>
+	
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+	
+				</li>
+	
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+	
+				</li>
+	
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+	
+				</li>
+	
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+	
+				</li>
+	
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+	
+				</li>
+	
+					</ul>
+	</div>
+</div>
+
+
+			</section>
+		
+
+		
+
+		
+					<header>
+				<h3>You are watching</h3>
+				<h2>Season 10: Creator Commentary</h2>
+				<h4>
+					<img src="http://southparkstudios.mtvnimages.com/avatar/forum_expression/default/1549545.png?height=34" />
+					<span>A collection by </span><span class="name">South Park Studios</span>
+				</h4>
+			</header>
+			</section>
+	
+	<section class="player-bottom-spacer"></section><section class="module random-video clearfix" data-moduletracking="SPS_Randomcoll">
+	 	<a class="random-episode" href="/full-episodes/random"><img src="/sitewide/img/random-icon.png"/>&nbsp;&nbsp;&nbsp;Watch Random Episode</a>
+	</section>
+	<div class="view-gradient"></div>
+
+
+	
+
+		
+					<section class="grid-container">
+				<section class=" module grid clearfix "
+					
+				     data-url="/feeds/carousel/video/fba639b0-ae4d-49b0-9d5d-addb27823f4b/{resultsPerPage}/{currentPage}/json/%21airdate/{relatedItemId}"
+				     data-results-per-page="30"
+				     data-current-page="1"
+				     data-sort="!airdate"
+				     data-filter="season-10"
+					>
+											
+
+	<section class="episodeFilters clearfix" >
+		<div class="seasonPagination">
+			<div class="leader textGBook">SORT BY SEASON</div>
+			<nav>
+				<!-- h3>Season</h3 -->
+																												<span data-value="promotion-0" data-title="Free Episodes" class=" seasonFilter">
+						<a href="/full-episodes/promotion-0?sort=!airdate" data-value="promotion-0" data-title="Free Episodes">Free Episodes</a>
+					</span>
+																																<span data-value="season-1" data-title="Season 1" class=" seasonFilter">
+						<a href="/full-episodes/season-1?sort=!airdate" data-value="season-1" data-title="Season 1">1</a>
+					</span>
+																																<span data-value="season-2" data-title="Season 2" class=" seasonFilter">
+						<a href="/full-episodes/season-2?sort=!airdate" data-value="season-2" data-title="Season 2">2</a>
+					</span>
+																																<span data-value="season-3" data-title="Season 3" class=" seasonFilter">
+						<a href="/full-episodes/season-3?sort=!airdate" data-value="season-3" data-title="Season 3">3</a>
+					</span>
+																																<span data-value="season-4" data-title="Season 4" class=" seasonFilter">
+						<a href="/full-episodes/season-4?sort=!airdate" data-value="season-4" data-title="Season 4">4</a>
+					</span>
+																																<span data-value="season-5" data-title="Season 5" class=" seasonFilter">
+						<a href="/full-episodes/season-5?sort=!airdate" data-value="season-5" data-title="Season 5">5</a>
+					</span>
+																																<span data-value="season-6" data-title="Season 6" class=" seasonFilter">
+						<a href="/full-episodes/season-6?sort=!airdate" data-value="season-6" data-title="Season 6">6</a>
+					</span>
+																																<span data-value="season-7" data-title="Season 7" class=" seasonFilter">
+						<a href="/full-episodes/season-7?sort=!airdate" data-value="season-7" data-title="Season 7">7</a>
+					</span>
+																																<span data-value="season-8" data-title="Season 8" class=" seasonFilter">
+						<a href="/full-episodes/season-8?sort=!airdate" data-value="season-8" data-title="Season 8">8</a>
+					</span>
+																																<span data-value="season-9" data-title="Season 9" class=" seasonFilter">
+						<a href="/full-episodes/season-9?sort=!airdate" data-value="season-9" data-title="Season 9">9</a>
+					</span>
+																																<span data-value="season-10" data-title="Season 10" class="active seasonFilter">
+						<a href="/full-episodes/season-10?sort=!airdate" data-value="season-10" data-title="Season 10">10</a>
+					</span>
+																																<span data-value="season-11" data-title="Season 11" class=" seasonFilter">
+						<a href="/full-episodes/season-11?sort=!airdate" data-value="season-11" data-title="Season 11">11</a>
+					</span>
+																																<span data-value="season-12" data-title="Season 12" class=" seasonFilter">
+						<a href="/full-episodes/season-12?sort=!airdate" data-value="season-12" data-title="Season 12">12</a>
+					</span>
+																																<span data-value="season-13" data-title="Season 13" class=" seasonFilter">
+						<a href="/full-episodes/season-13?sort=!airdate" data-value="season-13" data-title="Season 13">13</a>
+					</span>
+																																<span data-value="season-14" data-title="Season 14" class=" seasonFilter">
+						<a href="/full-episodes/season-14?sort=!airdate" data-value="season-14" data-title="Season 14">14</a>
+					</span>
+																																<span data-value="season-15" data-title="Season 15" class=" seasonFilter">
+						<a href="/full-episodes/season-15?sort=!airdate" data-value="season-15" data-title="Season 15">15</a>
+					</span>
+																																<span data-value="season-16" data-title="Season 16" class=" seasonFilter">
+						<a href="/full-episodes/season-16?sort=!airdate" data-value="season-16" data-title="Season 16">16</a>
+					</span>
+																																<span data-value="season-17" data-title="Season 17" class=" seasonFilter">
+						<a href="/full-episodes/season-17?sort=!airdate" data-value="season-17" data-title="Season 17">17</a>
+					</span>
+																																<span data-value="season-18" data-title="Season 18" class=" seasonFilter">
+						<a href="/full-episodes/season-18?sort=!airdate" data-value="season-18" data-title="Season 18">18</a>
+					</span>
+																<span class="disabled">19</span>
+																<span class="disabled">20</span>
+										</nav>
+
+		</div>
+	</section>
+
+										<header class="carousel-header">
+	<h2 class="white ">
+					
+
+			
+
+				<b>					Season 10
+				</b><span class="hidden">(<span id="number-of"></span> episodes)</span>
+			
+
+			</h2>
+	
+
+			
+
+</header>
+
+
+
+	<div class="elastislide-wrapper elastislide-horizontal grid clearfix">
+		
+		
+		<div class="thumbs clearfix">
+			<ul>
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/full-episodes/s01e01-cartman-gets-an-anal-probe">Cartman Gets an Anal Probe</a>
+
+		
+	
+				</li>
+	
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/full-episodes/s01e02-weight-gain-4000">Weight Gain 4000</a>
+
+		
+	
+				</li>
+	
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/full-episodes/s01e03-volcano">Volcano</a>
+
+		
+	
+				</li>
+	
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/full-episodes/s01e04-big-gay-als-big-gay-boat-ride">Big Gay Al's Big Gay Boat Ride</a>
+
+		
+	
+				</li>
+	
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/full-episodes/s01e05-an-elephant-makes-love-to-a-pig">An Elephant Makes Love to a Pig</a>
+
+		
+	
+				</li>
+	
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+	
+				</li>
+	
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+	
+				</li>
+	
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+	
+				</li>
+	
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+	
+				</li>
+	
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+	
+				</li>
+	
+						</ul>
+		</div>
+					<div class="paginator buttons clearfix">
+				<button class="hidden load-more more center">VIEW MORE</button>
+			</div>
+			</div>
+
+
+				</section>
+			</section>
+			
+
+
+	
+
+		
+					<section class=" module carousel desktopCarousel clearfix "
+					
+				     data-url="/feeds/carousel/video/473fef35-48a7-434c-afc6-207874c7f1a3/{resultsPerPage}/{currentPage}/json/playlist/5fb41fa0-ecfd-11e0-aca6-0026b9414f30/{relatedItemId}"
+					 data-count="11"
+				     data-results-per-page="14"
+				     data-current-page="1"
+				     data-sort="playlist"
+				     data-filter="5fb41fa0-ecfd-11e0-aca6-0026b9414f30"
+					>
+
+				<header class="carousel-header">
+	<h2 class="white with-item-title">
+		
+			Related Clips 
+from <b>The Return of Chef</b>
+
+			</h2>
+	
+
+			
+
+</header>
+
+
+
+
+<div class="elastislide-wrapper elastislide-horizontal">
+	<div class="elastislide-carousel">
+		
+		<ul class="elastislide-list">
+			
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/clips/104278/super-adventure-club">Super Adventure Club</a>
+
+		
+	
+				
+								
+					<a class="carouselseo" href="http://southpark.cc.com/clips/104279/sac-history">S.A.C. History</a>
+
+		
+	
+						</li>
+			
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/clips/104280/death-of-chef">Death of Chef</a>
+
+		
+	
+				
+								
+					<a class="carouselseo" href="http://southpark.cc.com/clips/155181/chef-returns">Chef Returns</a>
+
+		
+	
+						</li>
+			
+										<li class="placeholder">
+	
+					<a class="carouselseo" href="http://southpark.cc.com/clips/155183/first-taste-of-new-chef">First Taste of New Chef</a>
+
+		
+	
+				
+								
+					<a href="">
+				
+			</a>
+		
+	
+						</li>
+			
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+	
+				
+								
+					<a href="">
+				
+			</a>
+		
+	
+						</li>
+			
+										<li class="placeholder">
+	
+					<a href="">
+				
+			</a>
+		
+	
+				
+								
+					<a href="">
+				
+			</a>
+		
+	
+						</li>
+			
+					</ul>
+	</div>
+</div>
+
+
+			</section>
+			<a name="fb-comments" class="anchor"></a>
+<section style="background:#FFF;" class="comments">
+	<header>
+		<h2>Post a Comment<span style="font-size:10pt;font-weight:normal;text-transform:none;">&nbsp;&nbsp;or report a problem with this video <a style="color:#2ac4e0;" href="#" onclick="oo_feedback.show();">here</a></span></h2>
+		
+		<h4><a href="#">Back to Top</a></h4>
+	</header>
+	<div class="fb-comments" data-href="http://southpark.cc.com/collections/1466/season-10-creator-commentary/1" data-width="1290"></div>
+</section>
+</div>
+
+
+						
+
+
+
+
+
+					</section>
+
+					
+					<footer data-moduletracking="SPS_Footer">
+<section class="footer module links clearfix">
+	<div class="row clearfix clearfix">
+		<div class="column legal">
+			<section>
+				<header>
+					<span class="logo"><img src="/sitewide/img/logo.png"></span>
+				</header>
+
+				<article>
+					<p>&copy;2014 South Park Digital Studios LLC.</p>
+					<p>All Rights Reserved.</p>
+				</article>
+				
+				<article>
+					<p>South Park &copy;2014 Comedy Partners.</p>
+					<p>All Rights Reserved. Comedy Central.</p>
+				</article>
+				
+				<article>
+					<p>South Park and all related titles, logos and characters are trademarks of Comedy Partners.</p>
+				</article>
+			</section>
+			<div class="tos-links low">
+				<nav>
+					<a href="/about/web-credits">Web Credits</a>
+					<a href="/about/legal/privacy-policy">Privacy Policy /<br/>Your Privacy Rights</a>
+					<a href="/about/show-disclaimer">Show Disclaimer</a>
+					<a href="/about/legal/copyright-compliance-policy">Copyright Policy</a>
+					<a href="/about/legal/terms-of-use">Terms of Use</a>
+					<a href="/about/legal/video-privacy-terms">Video Privacy Terms</a>
+					<a href="mailto:info@southparkstudios.com">Tech Support</a>
+					<a href="http://media.viacom.com/accessibility/">Closed Captioning</a>
+					<a href="javascript:oo_feedback.show()">Feedback</a>
+					<a href="/about/legal/ad-choices">Ad Choices <img src="/sitewide/img/ad-choices.png" /></a>
+				</nav>
+			</div>
+		</div>
+		<div class="column-wrap">
+		<div class="column video">
+			<nav>
+				<header>
+					<h3>Video</h3>
+				</header>
+				<ul>
+					<li><a href="http://southpark.cc.com/full-episodes/s11e11-imaginationland-episode-ii">Imaginationland, Episode II</a></li>
+					<li><a href="http://southpark.cc.com/full-episodes/s18e02-gluten-free-ebola">Gluten Free Ebola</a></li>
+					<li><a href="http://southpark.cc.com/full-episodes/s18e02-gluten-free-ebola">Gluten Free Ebola</a></li>
+					<li><a href="http://southpark.cc.com/clips/w558t5/south-park-1802-gluten-free-ebola-act-2">South Park 1802: Gluten Free Ebola - Act 2</a></li>
+					<li><a href="http://southpark.cc.com/clips/dzppfr/south-park-1802-gluten-free-ebola-act-3">South Park 1802: Gluten Free Ebola - Act 3</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="column blog">
+			<nav>
+				<header>
+					<h3>Blog</h3>
+				</header>
+				<ul>
+					<li><a href="http://southpark.cc.com/blog/2014/10/03/new-go-fund-yourself-shirts-up-in-the-shop">New Shirts Up in the Shop!</a></li>
+					<li><a href="http://southpark.cc.com/blog/2014/10/02/watch-gluten-free-ebola-now">Watch “Gluten Free Ebola” Now!</a></li>
+					<li><a href="http://southpark.cc.com/blog/2014/10/02/season-12-creator-commentary-with-matt-and-trey">“Season 12: Creator Commentary” with Matt and Trey</a></li>
+					<li><a href="http://southpark.cc.com/blog/2014/10/01/gluten-free-ebola-hits-south-park-tonight">“Gluten Free Ebola” Hits South Park TONIGHT!</a></li>
+					<li><a href="http://southpark.cc.com/blog/2014/10/01/go-fund-yourself-live-tweet-tonight">“Go Fund Yourself” Live Tweet Tonight</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="column wiki">
+			<nav>
+				<header>
+					<h3>Wiki</h3>
+				</header>
+				<ul>
+					<li><a href="http://southpark.cc.com/wiki/Gluten_Free_Ebola">Gluten Free Ebola</a></li>
+					<li><a href="http://southpark.cc.com/wiki/Gary_Harrison_Sr.">Gary Harrison Sr.</a></li>
+					<li><a href="http://southpark.cc.com/wiki/Jimmy_Valmer">Jimmy Valmer</a></li>
+					<li><a href="http://southpark.cc.com/wiki/Wendy_Testaburger">Wendy Testaburger</a></li>
+					<li><a href="http://southpark.cc.com/wiki/Bebe_Stevens">Bebe Stevens</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="column general">
+			<nav>
+				<header>
+					<h3>General</h3>
+				</header>
+				<ul>
+					<li><a href="/about/creator-bios">Creator Bios</a></li>
+					<li><a href="/about/cast-and-crew">Cast & Crew Credits</a></li>
+				</ul>
+			</nav>
+		</div>
+			<div class="column viacom low">
+				<article>&nbsp;</article>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="footer module tos clearfix">
+	<div class="row clearfix">
+		<div class="tos-links high">
+			<nav>
+				<ul>
+
+					<li><a href="/about/web-credits">Web Credits</a></li>
+					<li><a href="/about/legal/privacy-policy">Privacy Policy /<br/>Your Privacy Rights</a></li>
+					<li><a href="/about/show-disclaimer">Show Disclaimer</a></li>
+					<li><a href="/about/legal/copyright-compliance-policy">Copyright Policy</a></li>
+					<li><a href="/about/legal/terms-of-use">Terms of Use</a></li>
+					<li><a href="/about/legal/video-privacy-terms">Video Privacy Terms</a></li>
+					<li><a href="mailto:info@southparkstudios.com">Tech Support</a></li>
+					<li><a href="http://media.viacom.com/accessibility/">Closed Captioning</a></li>
+					<li><a href="javascript:oo_feedback.show()">Feedback</a></li>
+					<li><a href="/about/legal/ad-choices">Ad Choices <img src="/sitewide/img/ad-choices.png" /></a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="viacom high">
+			<article>&nbsp;</article>
+		</div>
+	</div>
+</section>
+<section class="footer module social clearfix" data-normal-anchors="true">
+	<hr/>
+	<div class="row clearfix">
+		<div>
+			<nav>
+				<div>
+
+					<a href="http://www.facebook.com/SouthPark"><span class="item facebook"></span></a>
+					<a href="http://www.twitter.com/SouthPark"><span class="item twitter"></span></a>
+					<a href="http://instagram.com/southpark"><span class="item instagram"></span></a>
+					<a href="https://plus.google.com/u/0/b/110774087608778002908/"><span class="item googleplus"></span></a>
+				</div>
+			</nav>
+		</div>
+	</div>
+</section>
+
+					</footer>
+				</section>
+
+				
+
+
+
+				
+
+				
+
+				<script type="text/javascript">VideoPlayerType = "Hulu";</script>
+
+	
+
+
+
+	
+
+				<script type="text/javascript" data-main="/sitewide/js/app/main-packaged.js" src="/sitewide/js/require.js"></script>
+			</div><!-- /#main -->
+		</div>
+
+		<!-- iframe site manager -->
+		<div class="creator-overlay" id="skeleton-modal" style="display:none" data-url="/" data-collection-detail-url="/collections/{collectionId}">
+		<div class="modal-container">
+			<div class="modal">
+				<div class="header">
+					<button class="close">
+						<span class="icon-close-circle"></span>
+					</button>
+				</div>
+				<div class="content"></div>
+			</div>
+		</div>
+		</div>
+
+		<!-- reporting -->
+
+ 
+
+
+
+
+
+
+
+		<script type="text/javascript">
+var codaCallUrl = "http://btg.mtvnservices.com/aria/coda.html?site=southpark.cc.com&Ads_DFP=1&Ads=0";
+var repoCallUrl = "http://repo.comedycentral.com/feeds/websites/southpark.cc.com/pages?url=%2Fcollections%2F1466%2Fseason-10-creator-commentary%2F1%3Fxrs%3Dsynd_facebook_s10-commentary&pageType=collection_player&cmsPageId=b501f7ec-209f-4589-90aa-9d1c1e55335d&itemId=5e03af7b-0973-4fad-b98a-90933ea3f258";
+		</script>
+		<script src="/sitewide/js/vendor-ads-v2.js"></script>
+		<script type="text/javascript">
+			//dfpp ads support
+			$Crabapple.repo.init(codaCallUrl, repoCallUrl, false);
+			//fire off the on coda loaded event to auto load the ads and send out the page tracking
+			$Crabapple.repo.doFullPageLoadWithCustomAdFunc(function(){
+				/* self.placeAds(); */
+				$('[data-adsize]').each(function() {
+					/* self.placeAd($(this)); */
+					var elm = $(this);
+					
+					elm.empty();
+					if (elm.css('display') == 'none') return;
+					
+					//set the ad size
+					if(elm.attr('data-adsize') == 0){
+						//ignore bad ads
+						return;
+					}
+					elm.attr('data-ad-sizes',elm.attr('data-adsize'));
+			
+					//setup the keyvalues
+					var keyValues = elm.attr('data-keys');
+					var campaignValue = elm.attr('data-campaign');
+					if(campaignValue){
+	    				//sponsor=
+						if(keyValues){
+	    					keyValues += ",sponsor="+campaignValue;
+						} else {
+	    					keyValues = "sponsor="+campaignValue
+						}
+					}
+				
+					if(keyValues) {
+	    				elm.attr('data-ad-keyvalues', keyValues);
+					}
+	    	
+					//place ad (convert back to domElement)
+					$Crabapple.repo.loadSingleAd(elm[0]);
+				});
+			});
+		</script>
+
+
+		<div class="ad pointofentryad" data-adsize="6x6"></div>
+
+
+
+
+<!--
+OnlineOpinion v5.7
+Released: 3/6/2013. Compiled 03/06/2013 01:59:16 PM -0600
+Branch: master 8d549bbb6d7ff935b4572cf4e62e305e6cd843d7
+Components: Full
+The following code is Copyright 1998-2013 Opinionlab, Inc.  All rights reserved. Unauthorized use is prohibited. This product and other products of OpinionLab, Inc. are protected by U.S. Patent No. 6606581, 6421724, 6785717 B1 and other patents pending. http://www.opinionlab
+-->
+<!-- MAIN OL STYLESHEET -->
+<link rel="stylesheet" type="text/css" href="/onlineopinionV5/oo_style.css" />
+<!-- MAIN OL ENGINE -->
+<script language="javascript" type="text/javascript" charset="windows-1252" src="/onlineopinionV5/oo_COMBINED.js"></script>
+
+
+
+<noscript>This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.</noscript>
+<!-- END: OnlineOpinion v5.7 -->
+
+<!-- Include these files just before the close body </body> tag -->
+
+
+
+		<script src="http://activities.niagara.comedycentral.com/register/southpark/playlist/1466" type="text/javascript"></script>
+
+
+		<!-- geoblock -->
+
+
+
+
+
+
+	<div id="geoblockmsg">
+		<div data-moduletracking="SPS_Terms">
+			<h1>Welcome to the all new southpark.cc.com!</h1>
+			<h2>We've Updated Our Terms</h2>
+
+			<p>Before you agree to this Site's updated <a target="_new" href="/about/legal/terms-of-use">Terms of Use</a>, updated <a target="_new" href="/about/legal/privacy-policy">Privacy Policy</a> and <a target="_new" href="/about/legal/video-privacy-terms">Video Privacy Terms</a>, please read them and also check out some of the <a target="_new" href="/about/legal/summary-of-significant-updates">updates</a> (such as your options if you pursue a claim).</p>
+			
+			<a class="geoblockclosebtn" href="javascript:closePopupMessage()">Agree &amp; Continue</a>
+		</div>
+
+		<style type="text/css">
+#geoblockmsg {
+	background: url('/sitewide/img/messages/background.png') 0 0 repeat;
+	position: fixed;
+	top: 0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	z-index:10010;
+}
+
+#geoblockmsg > div {
+	background: url('/sitewide/img/messages/cookies/background.png') 0 0 no-repeat;
+	padding: 10px;
+	width: 464px;
+	height: 252px;
+	margin: 100px auto 0 auto;
+}
+
+#geoblockmsg > div h1 {
+	font-family: 'Arial Black';
+	font-size: 36px;
+	line-height: 36px;
+	letter-spacing: -2px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+#geoblockmsg > div h2 {
+	font-family: 'Arial Black';
+	font-size: 20px;
+	margin: 5px 0;
+	letter-spacing: -1px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+#geoblockmsg > div p {
+	font-size: 12px;
+	text-align: center;
+	color: #ccc;
+}
+
+#geoblockmsg > div p a {
+	font-weight: bold;
+	text-decoration: underline;
+	color: #fc0;
+}
+
+#geoblockmsg > div > a {
+	background: url('/sitewide/img/messages/cookies/button.png');
+	display: block;
+	margin: 0 auto;
+	width: 249px;
+	height: 42px;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: uppercase;
+	line-height: 42px;
+	text-align: center;
+	color: #ffcc00;
+}
+		</style>
+		
+		<script type="text/javascript">
+function closePopupMessage()
+{
+	// Set cookie
+	var CookieDate = new Date;
+	CookieDate.setFullYear(CookieDate.getFullYear()+2);
+	document.cookie = 'SPS_hulu_acknowledged=true; expires=' + CookieDate.toGMTString( ) + '; path=/; domain=southpark.cc.com';
+
+	// Hide popup
+	var elem = document.getElementById("geoblockmsg");
+	elem.parentNode.removeChild(elem);
+}
+		</script>
+	</div>
+
+	
+
+
+
+		<!-- experimental -->
+
+
+
+		<!-- PAGEOK -->
+	</body>
+</html>

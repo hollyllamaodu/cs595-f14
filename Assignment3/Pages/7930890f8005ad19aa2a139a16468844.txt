@@ -1,0 +1,920 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Shawn Achor: Work happier | Playlist | TED.com</title>
+<meta content="Shawn Achor: Work happier | Playlist | TED.com" name="title" />
+<meta content="app-id=376183339,app-argument=http://www.ted.com/playlists/137/shawn_achor_work_happier?awesm=on.ted.com_tiv2&amp;utm_medium=on.ted.com-twitter&amp;utm_source=direct-on.ted.com&amp;utm_content=awesm-publisher&amp;utm_campaign=" name="apple-itunes-app" />
+<meta content="Shawn Achor made our brains do a backflip with his TED Talk on how happiness leads to better work -- not the other way around. Here, he picks talks to make business positive." name="description" />
+<meta content="work, work" name="keywords" />
+<meta content="video" name="medium" />
+<meta content="Shawn Achor" name="author" />
+<meta content="Shawn Achor: Work happier" property="og:title" />
+<meta content="http://assets.tedcdn.com/images/playlists/shawn_achor_268x268.jpg" property="og:image" />
+<meta content="Shawn Achor made our brains do a backflip with his TED Talk on how happiness leads to better work -- not the other way around. Here, he picks talks to make business positive." property="og:description" />
+<meta content="video.other" property="og:type" />
+<meta content="8587" property="video:duration" />
+<meta content="1403881480" property="video:release_date" />
+<meta content="work" property="video:tag" />
+<link href="http://assets2.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED Live" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="http://assets2.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="http://assets2.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="#000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="http://www.ted.com/playlists/137/shawn_achor_work_happier?awesm=on.ted.com_tiv2&amp;utm_medium=on.ted.com-twitter&amp;utm_source=direct-on.ted.com&amp;utm_content=awesm-publisher&amp;utm_campaign=" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="http://assets2.tedcdn.com/stylesheets/global-ie.css?1412378249">
+<link rel="stylesheet" href="http://assets2.tedcdn.com/stylesheets/playlist-ie.css?1412378249">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="http://assets2.tedcdn.com/stylesheets/global.css?1412378249">
+<link rel="stylesheet" href="http://assets2.tedcdn.com/stylesheets/playlist.css?1412378249">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1412378250,"playerPath":"/assets/player.swf?ver=","playerBuster":"62fd0fbefb7e6c5deaa3998ed80a6148","assetHost":"http://assets2.tedcdn.com","authHost":"https://auth.ted.com","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"https://auth.ted.com/users/new"};
+  TED.signOutUrl += '?referer=http://' + location.host + '/session/logout';
+  
+  require = {"baseUrl":"http://assets2.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"deps":["jquery","libs"],"paths":{"Cookies":"Cookies.js?b331f247439cf974333a98958d35790d","talks":"talks.js?653ced96ffe02596277da3c59d0e1b65","menuAim":"menuAim.js?2dae90e87689e70126a38328bac9a5ee","waypoints":"waypoints.js?70444276da7d7de57b7c670dc053f1f5","SwipeView.js.src":"SwipeView.js.src.js?9a048263972115536ed447f9c0b7d904","tedx":"tedx.js?29ee00f16d24c8a9cc2a3762cd88defc","touchPunch":"touchPunch.js?8d8e80c9502ede60cfdca9f3c654b846","lodash.js.src":"lodash.js.src.js?e42fbb6429290cb8f1b3177a20c86ab8","Swipe.js.src":"Swipe.js.src.js?9ce5a91df31873e94034bafb36759f30","settings":"settings.js?618c32593949dd4809f915ab3006fbcc","deferLink":"deferLink.js?7c2c69b4b8525c3951ddd0148d300a67","Swipe":"Swipe.js?b0efdd231fcfc83ba3f1cf2074dd4599","pages":"pages.js?0d8924feae6c554498af6408d91537f3","hbs.js.src":"hbs.js.src.js?383bfd8b45dc085082110336e7a826ab","pages/dynamic/fellows_newsletter":"pages/dynamic/fellows_newsletter.js?24af5a4eb67097121fd50abd78d170d1","pages/dynamic/dummy":"pages/dynamic/dummy.js?db40c2c843286b433bfd906e6c74f1b3","pages/dynamic/tedx_newsletter":"pages/dynamic/tedx_newsletter.js?802eaca7a51b6332dd80f7a554daf78a","touchPunch.js.src":"touchPunch.js.src.js?00c1f406e9b515a126a9a464ea2db914","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","swfobject":"libs.js?b43746fe30499f7a78f21bea9d8dbf71","SwipeView":"SwipeView.js?4b94a494c40e841c1b64d10c2f43c853","spinjs.js.src":"spinjs.js.src.js?4f5885262e8544079071bf4876566be7","moment.js.src":"moment.js.src.js?49f7c993eafe9006c9121dd4f414aa6d","Mailcheck":"Mailcheck.js?3188371e023df82df4255791b16b4309","Modernizr":"Modernizr.js?08cd3d9d0df1143464d1ca8ce01fed50","deferLink.js.src":"deferLink.js.src.js?62251a9223be6510052e464550b2716f","flot.js.src":"flot.js.src.js?cd34175824ba61510cc84ab527a02ab8","Mailcheck.js.src":"Mailcheck.js.src.js?73fd8de859b896b01c3eda3b211a49cd","jquery.js.src":"jquery.js.src.js?91515770ce8c55de23b306444d8ea998","transit.js.src":"transit.js.src.js?5df97516555623ced0cdebca2e49b18a","ZeroClipboard.js.src":"ZeroClipboard.js.src.js?0debda99a99a8aacce20868f914def7d","dashboard":"dashboard.js?bc18ddf21b8d517837f918635a21e810","core":"core.js?e21e33f8526aa8b3011f628aa5c7205b","libs":"libs.js?b43746fe30499f7a78f21bea9d8dbf71","waypoints.js.src":"waypoints.js.src.js?f302b99ffb6e3606e9eb7ca7d82a0264","dashboard_sessions":"dashboard_sessions.js?aa5730b1ae3a3f513f81278703c1e2c2","playlists":"playlists.js?f73fc2d45b6aa6b7a85e34d724dae647","hbs":"hbs.js?81ed2381e266e540509c1124e6c423c0","jquery":"jquery.js?68536979118413dde508955a0465932a","flot":"flot.js?d5f97ad33963eab9a1de935acd21a2b6","autosize":"autosize.js?1d0b25d78083a95f718a6a69bf464fa5","autosize.js.src":"autosize.js.src.js?7ec00b3f7d46dc6064efd13a60c303c6","swatch":"swatch.js?6f8bb4635599239252623d91176b6d59","search":"search.js?897442a17181e98158a6b31195a5d56b","moment":"moment.js?2b426fc38e37807575b82742f8634203","numeral.js.src":"numeral.js.src.js?c0e90e3e9f126d77a564afce7b9201b3","home":"home.js?71e752da4ff7e9635d20fa6eeed54751","Backbone":"Backbone.js?15324957f9dc8675b28abe736b5cff10","depot.js.src":"depot.js.src.js?b18fddcb76b2bf61cde8dcf459879846","spinjs":"spinjs.js?a27156cd455804600428f00e724ab532","talk":"talk.js?e5b13ec99bb5d6d6bfb9e10308a3ad8d","jqueryujs.js.src":"jqueryujs.js.src.js?c0fce2780e510ebff366b58215d71a46","jqueryujs":"libs.js?b43746fe30499f7a78f21bea9d8dbf71","menuAim.js.src":"menuAim.js.src.js?1b5d9275feea9a1d3bb9ff94d25366fe","global":"global.js?60665046a85d48b6b1a2dc5b6233edb0","depot":"depot.js?429a4bc85cfbcc083d5278526d66123d","Cookies.js.src":"Cookies.js.src.js?c9dd9a474a04929b74b9d363f8dfcf8e","profiles":"profiles.js?fa4d2d41b1983904dc79de35ef1eb70b","Modernizr.js.src":"Modernizr.js.src.js?5bc88f4d7b86ab7371f2426944495bd5","numeral":"numeral.js?a222da10e94e967e928aca44d69ce0f5","lodash":"libs.js?b43746fe30499f7a78f21bea9d8dbf71","transit":"transit.js?3cb9f56818f9edfb48155659995c5c3b","swfobject.js.src":"swfobject.js.src.js?8c2ec4bc2c9a39bc3f4ff92223077cf6","surprise_me":"surprise_me.js?230976cd352837acbf8cd4b5163b542c","ZeroClipboard":"ZeroClipboard.js?c825395dcbb627a0b4169e10b44b0764","Backbone.js.src":"Backbone.js.src.js?bad03324ce6bc1c8effa5d3b4e3c2750","dq.js.src":"dq.js.src.js?20900afc0ab80dbb330fcde67664a6a3","dq":"libs.js?b43746fe30499f7a78f21bea9d8dbf71"}};
+</script>
+<script async="async" data-main="playlists" src="http://assets2.tedcdn.com/javascripts/core.js?1412378249"></script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','//www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script></head>
+<body class='playlists-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav'>
+<ul class='nav__menu'>
+<li class='nav__item nav__item--disabled'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='https://auth.ted.com/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks/browse" href="/talks/browse" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">Collections of themed talks queued up to view</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='read' href='#' role='menuitem'>
+Read
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="read" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">ideas.ted.com</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="read" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="read" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="read" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="read" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/discuss" href="/participate/discuss" role="menuitem"><span class="nav__item__title">Discuss</span><div class="nav__item__info">Join an online conversation</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Detail about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-us" href="/about/partner-with-us" role="menuitem"><span class="nav__item__title">Partner with us</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><div class='main playlists-main' role='main'>
+<script>
+  __ga('set', "dimension5", 137);
+</script>
+<div class='talk-hero talk-hero--unactivated' id='talk-hero'>
+<div class='talk-hero__contents'>
+<div class='talk-hero__banner'>
+<div class='player'>
+<div class='player__container'>
+<div class='talk-pip'>
+<div class='talk-pip__container'>
+<div class='player__container__placeholder'></div>
+</div>
+</div>
+<div class='player__container__cursor-killer'></div>
+<div class='controls--mini'></div>
+</div>
+</div>
+<div class='talk-hero__poster' style='background-image:url(http://img.tedcdn.com/r/assets.tedcdn.com/images/playlists/shawn_achor.jpg?ll=1&amp;quality=89&amp;w=500)'>
+</div>
+<script>
+  function talkHeroPlay() {
+    document.getElementById('talk-hero').className += ' talk-hero--early-request';
+  }
+</script>
+<a class='talk-hero__play' href='#' onclick='talkHeroPlay()' ontouchend='talkHeroPlay()' title='Play talk'>
+<div class='g-button-play talk-hero__play__button'></div>
+</a>
+<div class='talk-hero__early-request'>
+<div class='talk-hero__early-request__content'>
+Loading&hellip;
+</div>
+</div>
+<div class='talk-hero__tools'>
+<div class='talk-hero__tools__list'>
+<div class='talk-hero__tools__list__actions module'>
+<a class='talk-hero__tools__tool watch-later-button' href='#' id='talk-hero-wl'>
+<i class="icon icon_circle-watchlater talk-hero__tools__icon watch-later-button__icon"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+<a class='talk-hero__tools__tool favorite-button' href='#' id='talk-hero-favorite'>
+<i class="icon icon_circle-favorite talk-hero__tools__icon favorite-button__icon"></i>
+<span class='favorite-button__label'>
+Favorite
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class='talk-hero__details'>
+<div class='talk-hero__details__table talk-hero__details__image'>
+<div class='talk-hero__details__cell'>
+<img class='talk-hero__details__image__content' src='http://img.tedcdn.com/r/assets.tedcdn.com/images/playlists/shawn_achor.jpg?ll=1&amp;quality=89&amp;w=500'>
+</div>
+</div>
+<div class='talk-hero__details__table'>
+<div class='talk-hero__details__cell'>
+<h1>
+<div class='playlist-hero__preable'>
+Playlist
+(8 talks)
+</div>
+<div class='talk-hero__title playlist-hero__title'>
+Shawn Achor: Work happier
+</div>
+</h1>
+<div class='playlist-hero__description'>
+Shawn Achor made our brains do a backflip with his TED Talk on how happiness leads to better work -- not the other way around. Here, he picks talks to make business positive.
+</div>
+<ul class='sl show-lg playlist-hero__tools'>
+<li class='playlist-hero__tool playlist-hero__tool--play'>
+<a class='play-button playlist-hero__tool__link' href='#' onclick='talkHeroPlay()' ontouchend='talkHeroPlay()'>
+<i class="icon icon_circle-play play-button__icon"></i>
+<span class='play-button__label'>Watch now</span>
+</a>
+</li>
+<li class='playlist-hero__tool'>
+<a class='watch-later-button playlist-hero__tool__link' href='#' id='playlist-hero-wl'>
+<i class="icon icon_circle-watchlater watch-later-button__icon"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+</li>
+<li class='playlist-hero__tool'>
+<a class='favorite-button playlist-hero__tool__link' href='#' id='playlist-hero-favorite'>
+<i class="icon icon_circle-favorite favorite-button__icon"></i>
+<span class='favorite-button__label'>
+Favorite
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+<div class='controls--maxi'></div>
+</div>
+
+<div class='container'>
+<div class='playlist-top'>
+<div class='playlist-sharing'>
+<ul class='icon-belt'>
+<li class='icon-belt__item'>
+<span class='talk-sharing__label talk-sharing__label--cta show-lg'>
+<span class='talk-sharing__label__block'>
+Share this
+</span>
+<span class='talk-sharing__label__block'>
+playlist
+</span>
+</span>
+</li>
+<li class='icon-belt__item icon-belt__item--twitter'>
+<a class='icon-belt__link playlist-sharing__link ga-link' data-service-label='Twitter' data-service-name='twitter' href='//twitter.com/intent/tweet?url=http%3A%2F%2Fwww.ted.com%2Fplaylists%2F137%2Fshawn_achor_work_happier&amp;text=Shawn%20Achor%3A%20Work%20happier' target='_blank'>
+<i class="icon icon_circle-twitter-fill " title="Share on Twitter"></i><span class="screen-reader-text">Share on Twitter</span>
+</a>
+</li>
+<li class='icon-belt__item icon-belt__item--facebook'>
+<a class='icon-belt__link playlist-sharing__link ga-link' data-service-label='Facebook' data-service-name='facebook' href='//www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.ted.com%2Fplaylists%2F137%2Fshawn_achor_work_happier' target='_blank'>
+<i class="icon icon_circle-facebook-fill " title="Share via Facebook"></i><span class="screen-reader-text">Share via Facebook</span>
+</a>
+</li>
+<li class='icon-belt__item'>
+<a class='icon-belt__link playlist-sharing__link ga-link' data-service-label='Email' data-service-name='email' href='//api.addthis.com/oexchange/0.8/forward/email/offer?url=http%3A%2F%2Fwww.ted.com%2Fplaylists%2F137%2Fshawn_achor_work_happier&amp;title=Shawn%20Achor%3A%20Work%20happier' target='_blank'>
+<i class="icon icon_circle-email-fill " title="Share by Email"></i><span class="screen-reader-text">Share by Email</span>
+</a>
+</li>
+<li class='icon-belt__item'>
+<a class='icon-belt__link' href='#' id='sharing-other'>
+<i class="icon icon_circle-more-fill "></i><span class="screen-reader-text">Other sharing services</span>
+</a>
+</li>
+</ul>
+</div>
+
+<div id='sponsorship-bug-placeholder'></div>
+</div>
+</div>
+<div class='container'>
+<div class='row'>
+<div class='col-lg-8'>
+<h2 class='playlist-title'>
+Playlist (8 talks):
+Shawn Achor: Work happier
+</h2>
+<ul class='playlist-talks' id='playlist'>
+<li class='playlist-talks__talk' data-talk-id='312' id='talk-312'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/martin_seligman_on_the_state_of_psychology' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="1422" src="http://img.tedcdn.com/r/images.ted.com/images/ted/464ab07ec4d4bb056256c343837a3a2ced132996_1600x1200.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">23:42</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/martin_seligman" target="_blank">Martin Seligman</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/martin_seligman_on_the_state_of_psychology' target='_blank'>
+The new era of positive psychology
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+Martin Seligman talks about psychology — as a field of study and as it works one-on-one with each patient and each practitioner. As it moves beyond a focus on disease, what can modern psychology help us to become?
+<div class='playlist-talks__curator-note'>
+&ldquo;From the father of positive psychology, and the former president of the APA.&rdquo;
+</div>
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/martin_seligman_on_the_state_of_psychology' target='_blank'>
+<span>
+194 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='1733' id='talk-1733'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/angela_lee_duckworth_the_key_to_success_grit' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="372" src="http://img.tedcdn.com/r/images.ted.com/images/ted/ed7fa3c2c9b79234201ef8ed40be228c3e93552c_1600x1200.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">6:12</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/angela_lee_duckworth" target="_blank">Angela Lee Duckworth</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/angela_lee_duckworth_the_key_to_success_grit' target='_blank'>
+The key to success? Grit
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+Leaving a high-flying job in consulting, Angela Lee Duckworth took a job teaching math to seventh graders in a New York public school. She quickly realized that IQ wasn’t the only thing separating the successful students from those who struggled. Here, she explains her theory of “grit” as a predictor of success.
+<div class='playlist-talks__curator-note'>
+&ldquo;A good talk on one of the most important components of positive business: not getting knocked down by setbacks.&rdquo;
+</div>
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/angela_lee_duckworth_the_key_to_success_grit' target='_blank'>
+<span>
+478 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='1048' id='talk-1048'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/neil_pasricha_the_3_a_s_of_awesome' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="1053" src="http://img.tedcdn.com/r/images.ted.com/images/ted/176d38e695e7b04eed3589690f4a73cc6c30b65b_800x600.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">17:33</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/neil_pasricha" target="_blank">Neil Pasricha</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/neil_pasricha_the_3_a_s_of_awesome' target='_blank'>
+The 3 A's of awesome
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+Neil Pasricha's blog 1000 Awesome Things savors life's simple pleasures, from free refills to clean sheets. In this heartfelt talk, he reveals the 3 secrets (all starting with A) to leading a life that's truly awesome.
+(Filmed at TEDxToronto.)
+<div class='playlist-talks__curator-note'>
+&ldquo;A talk on gratitude, from a popular blogger — and an employee at Walmart.&rdquo;
+</div>
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/neil_pasricha_the_3_a_s_of_awesome' target='_blank'>
+<span>
+540 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='848' id='talk-848'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/simon_sinek_how_great_leaders_inspire_action' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="1084" src="http://img.tedcdn.com/r/images.ted.com/images/ted/168353_800x600.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">18:04</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/simon_sinek" target="_blank">Simon Sinek</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/simon_sinek_how_great_leaders_inspire_action' target='_blank'>
+How great leaders inspire action
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+Simon Sinek has a simple but powerful model for inspirational leadership all starting with a golden circle and the question "Why?"  His examples include Apple, Martin Luther King, and the Wright brothers ...
+(Filmed at TEDxPugetSound.)
+<div class='playlist-talks__curator-note'>
+&ldquo;A talk that has resonated with millions, about how to create positive leadership.&rdquo;
+</div>
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/simon_sinek_how_great_leaders_inspire_action' target='_blank'>
+<span>
+1523 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='618' id='talk-618'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/dan_pink_on_motivation' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="1116" src="http://img.tedcdn.com/r/images.ted.com/images/ted/110884_800x600.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">18:36</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/daniel_pink" target="_blank">Dan Pink</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/dan_pink_on_motivation' target='_blank'>
+The puzzle of motivation
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+Career analyst Dan Pink examines the puzzle of motivation, starting with a fact that social scientists know but most managers don't: Traditional rewards aren't always as effective as we think. Listen for illuminating stories — and maybe, a way forward.
+<div class='playlist-talks__curator-note'>
+&ldquo;From a great modern thinker, a talk on smarter ways to create positive businesses.&rdquo;
+</div>
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/dan_pink_on_motivation' target='_blank'>
+<span>
+950 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='93' id='talk-93'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/barry_schwartz_on_the_paradox_of_choice' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="1177" src="http://img.tedcdn.com/r/images.ted.com/images/ted/d23ae99abaab7b81cd7b433645dda63c6108cdea_1600x1200.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">19:37</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/barry_schwartz" target="_blank">Barry Schwartz</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/barry_schwartz_on_the_paradox_of_choice' target='_blank'>
+The paradox of choice
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+Psychologist Barry Schwartz takes aim at a central tenet of western societies: freedom of choice. In Schwartz's estimation, choice has made us not freer but more paralyzed, not happier but more dissatisfied.
+<div class='playlist-talks__curator-note'>
+&ldquo;From another original architects of positive psychology research.&rdquo;
+</div>
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/barry_schwartz_on_the_paradox_of_choice' target='_blank'>
+<span>
+864 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='1042' id='talk-1042'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/brene_brown_on_vulnerability' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="1219" src="http://img.tedcdn.com/r/images.ted.com/images/ted/3820be698584de25ea375c0bf57ee620caf94b8d_1600x1200.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">20:19</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/brene_brown" target="_blank">Brené Brown</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/brene_brown_on_vulnerability' target='_blank'>
+The power of vulnerability
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+Brené Brown studies human connection — our ability to empathize, belong, love. In a poignant, funny talk, she shares a deep insight from her research, one that sent her on a personal quest to know herself as well as to understand humanity. A talk to share.
+<div class='playlist-talks__curator-note'>
+&ldquo;From a shame researcher, a culture-shifting talk.&rdquo;
+</div>
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/brene_brown_on_vulnerability' target='_blank'>
+<span>
+1610 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='1377' id='talk-1377'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/susan_cain_the_power_of_introverts' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="1144" src="http://img.tedcdn.com/r/images.ted.com/images/ted/b542b1ddd2e40cfcf9db3430598bc37cebfec8c1_1600x1200.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">19:04</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/susan_cain" target="_blank">Susan Cain</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/susan_cain_the_power_of_introverts' target='_blank'>
+The power of introverts
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+In a culture where being social and outgoing are prized above all else, it can be difficult, even shameful, to be an introvert. But, as Susan Cain argues in this passionate talk, introverts bring extraordinary talents and abilities to the world, and should be encouraged and celebrated.
+<div class='playlist-talks__curator-note'>
+&ldquo;An interesting look at why we need personality diversity.&rdquo;
+</div>
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/susan_cain_the_power_of_introverts' target='_blank'>
+<span>
+989 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+
+</div>
+<div class='col-lg-4'>
+<div class='playlist-suggestions'>
+<h3 class='h8 m3'>You may also like&hellip;</h3>
+<ul class='sl playlist-suggestions__list row'>
+<li class='playlist-suggestions__item col-sm-6'>
+<a class='playlist-suggestion media media--lg-v' data-ga-category='playlist.relatedPlaylist' href='/playlists/60/work_smarter'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class="playlist-suggestion__image thumb__image" play="false" src="http://img.tedcdn.com/r/assets.tedcdn.com/images/playlists/work_smarter.jpg?ll=1&amp;w=146" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<div class='p4'>Playlist</div>
+<h4 class='h9'>Work smarter</h4>
+<div class='meta'>16 talks</div>
+</div>
+</a>
+</li>
+<li class='playlist-suggestions__item col-sm-6'>
+<a class='playlist-suggestion media media--lg-v' data-ga-category='playlist.relatedPlaylist' href='/playlists/139/social_good_inc'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class="playlist-suggestion__image thumb__image" play="false" src="http://img.tedcdn.com/r/assets.tedcdn.com/images/playlists/business_of_good.jpg?ll=1&amp;w=146" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<div class='p4'>Playlist</div>
+<h4 class='h9'>Social Good, Inc.</h4>
+<div class='meta'>10 talks</div>
+</div>
+</a>
+</li>
+</ul>
+<a class='l1' href='/playlists'>Browse more playlists</a>
+</div>
+
+<div class='playlist-ad' id='ad-unit'></div>
+<script>
+  googletag.cmd.push(function() {
+    googletag
+      .defineSlot("/5641/ted2/playlists", [[300, 250]], "ad-unit")
+      .addService(googletag.pubads());
+  
+    
+  });
+</script>
+
+<div class='playlist-ad' id='ad-unit-mobile'></div>
+</div>
+</div>
+</div>
+<script>q("permalink.init",{"playlist":{"id":137,"share":"http://www.ted.com/playlists/137/shawn_achor_work_happier","title":"Shawn Achor: Work happier","duration":8587,"curator":"Shawn Achor","thumb":"http://img.tedcdn.com/r/assets.tedcdn.com/images/playlists/shawn_achor.jpg?ll=1\u0026quality=89\u0026w=256","slug":"shawn_achor_work_happier"},"talks":[{"id":312,"duration":1422,"languages":[{"languageName":"Albanian","languageCode":"sq","isRtl":false},{"languageName":"Arabic","languageCode":"ar","isRtl":true},{"languageName":"Bulgarian","languageCode":"bg","isRtl":false},{"languageName":"Chinese, Simplified","languageCode":"zh-cn","isRtl":false},{"languageName":"Chinese, Traditional","languageCode":"zh-tw","isRtl":false},{"languageName":"Czech","languageCode":"cs","isRtl":false},{"languageName":"Dutch","languageCode":"nl","isRtl":false},{"languageName":"English","languageCode":"en","isRtl":false},{"languageName":"Finnish","languageCode":"fi","isRtl":false},{"languageName":"French","languageCode":"fr","isRtl":false},{"languageName":"French, Canadian","languageCode":"fr-ca","isRtl":false},{"languageName":"German","languageCode":"de","isRtl":false},{"languageName":"Greek","languageCode":"el","isRtl":false},{"languageName":"Hebrew","languageCode":"he","isRtl":true},{"languageName":"Hungarian","languageCode":"hu","isRtl":false},{"languageName":"Indonesian","languageCode":"id","isRtl":false},{"languageName":"Italian","languageCode":"it","isRtl":false},{"languageName":"Japanese","languageCode":"ja","isRtl":false},{"languageName":"Korean","languageCode":"ko","isRtl":false},{"languageName":"Persian","languageCode":"fa","isRtl":true},{"languageName":"Polish","languageCode":"pl","isRtl":false},{"languageName":"Portuguese, Brazilian","languageCode":"pt-br","isRtl":false},{"languageName":"Romanian","languageCode":"ro","isRtl":false},{"languageName":"Russian","languageCode":"ru","isRtl":false},{"languageName":"Serbian","languageCode":"sr","isRtl":false},{"languageName":"Slovenian","languageCode":"sl","isRtl":false},{"languageName":"Spanish","languageCode":"es","isRtl":false},{"languageName":"Thai","languageCode":"th","isRtl":false},{"languageName":"Turkish","languageCode":"tr","isRtl":false},{"languageName":"Ukrainian","languageCode":"uk","isRtl":false},{"languageName":"Vietnamese","languageCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","adUrl":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTED2004%26id%3D312%26playlist%3Dshawn_achor_work_happier%26tag%3Dbrain%2Ceducation%2Chappiness%2Cpsychology%2Cscience%2Ctechnology%26talk%3Dmartin_seligman_on_the_state_of_psychology%26year%3D2004\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fted2%2Fplaylist\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","streamer":"rtmp://tedfs.fplive.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/MartinSeligman_2004-320k.mp4?apikey=489b859150fc58263f17110eeb44ed5fba4a3b22"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2004/Blank/MartinSeligman_2004-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2004/Blank/MartinSeligman_2004-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2004/Blank/MartinSeligman_2004-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2004/Blank/MartinSeligman_2004-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2004/Blank/MartinSeligman_2004-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2004/Blank/MartinSeligman_2004-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2004/Blank/MartinSeligman_2004-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"http://ad.doubleclick.net/pfadx/tconf.ted/hls;sz=6x6;id=312;talk=martin_seligman_on_the_state_of_psychology;year=2004;tag=brain,education,happiness,psychology,science,technology;event=TED2004;dcmt=text/xml","stream":"http://hls.ted.com/talks/312.m3u8","metadata":"http://hls.ted.com/talks/312.json"}},"canonical":"http://www.ted.com/talks/martin_seligman_on_the_state_of_psychology","external":null,"name":"Martin Seligman: The new era of positive psychology","title":"The new era of positive psychology","speaker":"Martin Seligman","thumb":"http://img.tedcdn.com/r/images.ted.com/images/ted/464ab07ec4d4bb056256c343837a3a2ced132996_1600x1200.jpg?quality=89\u0026w=600","slug":"martin_seligman_on_the_state_of_psychology","event":"TED2004","filmed":1075680000,"published":1216625280},{"id":1733,"duration":372,"languages":[{"languageName":"Albanian","languageCode":"sq","isRtl":false},{"languageName":"Arabic","languageCode":"ar","isRtl":true},{"languageName":"Bulgarian","languageCode":"bg","isRtl":false},{"languageName":"Burmese","languageCode":"my","isRtl":false},{"languageName":"Catalan","languageCode":"ca","isRtl":false},{"languageName":"Chinese, Simplified","languageCode":"zh-cn","isRtl":false},{"languageName":"Chinese, Traditional","languageCode":"zh-tw","isRtl":false},{"languageName":"Chinese, Yue","languageCode":"zh","isRtl":false},{"languageName":"Croatian","languageCode":"hr","isRtl":false},{"languageName":"Czech","languageCode":"cs","isRtl":false},{"languageName":"Danish","languageCode":"da","isRtl":false},{"languageName":"Dutch","languageCode":"nl","isRtl":false},{"languageName":"English","languageCode":"en","isRtl":false},{"languageName":"Finnish","languageCode":"fi","isRtl":false},{"languageName":"French","languageCode":"fr","isRtl":false},{"languageName":"German","languageCode":"de","isRtl":false},{"languageName":"Greek","languageCode":"el","isRtl":false},{"languageName":"Hebrew","languageCode":"he","isRtl":true},{"languageName":"Hungarian","languageCode":"hu","isRtl":false},{"languageName":"Indonesian","languageCode":"id","isRtl":false},{"languageName":"Italian","languageCode":"it","isRtl":false},{"languageName":"Japanese","languageCode":"ja","isRtl":false},{"languageName":"Kazakh","languageCode":"kk","isRtl":false},{"languageName":"Korean","languageCode":"ko","isRtl":false},{"languageName":"Kurdish","languageCode":"ku","isRtl":true},{"languageName":"Persian","languageCode":"fa","isRtl":true},{"languageName":"Polish","languageCode":"pl","isRtl":false},{"languageName":"Portuguese, Brazilian","languageCode":"pt-br","isRtl":false},{"languageName":"Romanian","languageCode":"ro","isRtl":false},{"languageName":"Russian","languageCode":"ru","isRtl":false},{"languageName":"Serbian","languageCode":"sr","isRtl":false},{"languageName":"Slovenian","languageCode":"sl","isRtl":false},{"languageName":"Spanish","languageCode":"es","isRtl":false},{"languageName":"Swahili","languageCode":"sw","isRtl":false},{"languageName":"Swedish","languageCode":"sv","isRtl":false},{"languageName":"Thai","languageCode":"th","isRtl":false},{"languageName":"Turkish","languageCode":"tr","isRtl":false},{"languageName":"Ukrainian","languageCode":"uk","isRtl":false},{"languageName":"Urdu","languageCode":"ur","isRtl":true},{"languageName":"Vietnamese","languageCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","adUrl":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTED%2BTalks%2BEducation%26id%3D1733%26playlist%3Dshawn_achor_work_happier%26tag%3Dbusiness%2Ceducation%2Cpsychology%2Csuccess%26talk%3Dangela_lee_duckworth_the_key_to_success_grit%26year%3D2013\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fted2%2Fplaylist\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","streamer":"rtmp://tedfs.fplive.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/AngelaDuckworth_2013S-320k.mp4?apikey=489b859150fc58263f17110eeb44ed5fba4a3b22"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2013S/Blank/AngelaDuckworth_2013S-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2013S/Blank/AngelaDuckworth_2013S-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2013S/Blank/AngelaDuckworth_2013S-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2013S/Blank/AngelaDuckworth_2013S-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2013S/Blank/AngelaDuckworth_2013S-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2013S/Blank/AngelaDuckworth_2013S-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2013S/Blank/AngelaDuckworth_2013S-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"http://ad.doubleclick.net/pfadx/tconf.ted/hls;sz=6x6;id=1733;talk=angela_lee_duckworth_the_key_to_success_grit;year=2013;tag=business,education,psychology,success;event=TED+Talks+Education;dcmt=text/xml","stream":"http://hls.ted.com/talks/1733.m3u8","metadata":"http://hls.ted.com/talks/1733.json"}},"canonical":"http://www.ted.com/talks/angela_lee_duckworth_the_key_to_success_grit","external":null,"name":"Angela Lee Duckworth: The key to success? Grit","title":"The key to success? Grit","speaker":"Angela Lee Duckworth","thumb":"http://img.tedcdn.com/r/images.ted.com/images/ted/ed7fa3c2c9b79234201ef8ed40be228c3e93552c_1600x1200.jpg?quality=89\u0026w=600","slug":"angela_lee_duckworth_the_key_to_success_grit","event":"TED Talks Education","filmed":1365033600,"published":1368111588},{"id":1048,"duration":1053,"languages":[{"languageName":"Arabic","languageCode":"ar","isRtl":true},{"languageName":"Bulgarian","languageCode":"bg","isRtl":false},{"languageName":"Chinese, Simplified","languageCode":"zh-cn","isRtl":false},{"languageName":"Chinese, Traditional","languageCode":"zh-tw","isRtl":false},{"languageName":"Croatian","languageCode":"hr","isRtl":false},{"languageName":"Czech","languageCode":"cs","isRtl":false},{"languageName":"Dutch","languageCode":"nl","isRtl":false},{"languageName":"English","languageCode":"en","isRtl":false},{"languageName":"French","languageCode":"fr","isRtl":false},{"languageName":"German","languageCode":"de","isRtl":false},{"languageName":"Greek","languageCode":"el","isRtl":false},{"languageName":"Hebrew","languageCode":"he","isRtl":true},{"languageName":"Hindi","languageCode":"hi","isRtl":false},{"languageName":"Hungarian","languageCode":"hu","isRtl":false},{"languageName":"Indonesian","languageCode":"id","isRtl":false},{"languageName":"Italian","languageCode":"it","isRtl":false},{"languageName":"Japanese","languageCode":"ja","isRtl":false},{"languageName":"Korean","languageCode":"ko","isRtl":false},{"languageName":"Lithuanian","languageCode":"lt","isRtl":false},{"languageName":"Macedonian","languageCode":"mk","isRtl":false},{"languageName":"Malay","languageCode":"ms","isRtl":false},{"languageName":"Mongolian","languageCode":"mn","isRtl":false},{"languageName":"Persian","languageCode":"fa","isRtl":true},{"languageName":"Polish","languageCode":"pl","isRtl":false},{"languageName":"Portuguese","languageCode":"pt","isRtl":false},{"languageName":"Portuguese, Brazilian","languageCode":"pt-br","isRtl":false},{"languageName":"Romanian","languageCode":"ro","isRtl":false},{"languageName":"Russian","languageCode":"ru","isRtl":false},{"languageName":"Serbian","languageCode":"sr","isRtl":false},{"languageName":"Slovak","languageCode":"sk","isRtl":false},{"languageName":"Spanish","languageCode":"es","isRtl":false},{"languageName":"Tamil","languageCode":"ta","isRtl":false},{"languageName":"Thai","languageCode":"th","isRtl":false},{"languageName":"Turkish","languageCode":"tr","isRtl":false},{"languageName":"Vietnamese","languageCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","adUrl":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTEDxToronto%2B2010%26id%3D1048%26playlist%3Dshawn_achor_work_happier%26tag%3DTEDx%2Cbook%2Chappiness%2Clife%2Clove%2Cpersonal%2Bgrowth%2Cpsychology%2Cwriting%26talk%3Dneil_pasricha_the_3_a_s_of_awesome%26year%3D2010\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fted2%2Fplaylist\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","streamer":"rtmp://tedfs.fplive.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/NeilPasricha_2010X-320k.mp4?apikey=489b859150fc58263f17110eeb44ed5fba4a3b22"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2010X/Blank/NeilPasricha_2010X-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2010X/Blank/NeilPasricha_2010X-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2010X/Blank/NeilPasricha_2010X-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2010X/Blank/NeilPasricha_2010X-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2010X/Blank/NeilPasricha_2010X-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2010X/Blank/NeilPasricha_2010X-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2010X/Blank/NeilPasricha_2010X-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"http://ad.doubleclick.net/pfadx/tconf.ted/hls;sz=6x6;id=1048;talk=neil_pasricha_the_3_a_s_of_awesome;year=2010;tag=TEDx,book,happiness,life,love,personal+growth,psychology,writing;event=TEDxToronto+2010;dcmt=text/xml","stream":"http://hls.ted.com/talks/1048.m3u8","metadata":"http://hls.ted.com/talks/1048.json"}},"canonical":"http://www.ted.com/talks/neil_pasricha_the_3_a_s_of_awesome","external":null,"name":"Neil Pasricha: The 3 A's of awesome","title":"The 3 A's of awesome","speaker":"Neil Pasricha","thumb":"http://img.tedcdn.com/r/images.ted.com/images/ted/176d38e695e7b04eed3589690f4a73cc6c30b65b_800x600.jpg?quality=89\u0026w=600","slug":"neil_pasricha_the_3_a_s_of_awesome","event":"TEDxToronto 2010","filmed":1285804800,"published":1294416840},{"id":848,"duration":1084,"languages":[{"languageName":"Albanian","languageCode":"sq","isRtl":false},{"languageName":"Arabic","languageCode":"ar","isRtl":true},{"languageName":"Armenian","languageCode":"hy","isRtl":false},{"languageName":"Bulgarian","languageCode":"bg","isRtl":false},{"languageName":"Catalan","languageCode":"ca","isRtl":false},{"languageName":"Chinese, Simplified","languageCode":"zh-cn","isRtl":false},{"languageName":"Chinese, Traditional","languageCode":"zh-tw","isRtl":false},{"languageName":"Croatian","languageCode":"hr","isRtl":false},{"languageName":"Czech","languageCode":"cs","isRtl":false},{"languageName":"Danish","languageCode":"da","isRtl":false},{"languageName":"Dutch","languageCode":"nl","isRtl":false},{"languageName":"English","languageCode":"en","isRtl":false},{"languageName":"French","languageCode":"fr","isRtl":false},{"languageName":"Georgian","languageCode":"ka","isRtl":false},{"languageName":"German","languageCode":"de","isRtl":false},{"languageName":"Greek","languageCode":"el","isRtl":false},{"languageName":"Hebrew","languageCode":"he","isRtl":true},{"languageName":"Hungarian","languageCode":"hu","isRtl":false},{"languageName":"Indonesian","languageCode":"id","isRtl":false},{"languageName":"Italian","languageCode":"it","isRtl":false},{"languageName":"Japanese","languageCode":"ja","isRtl":false},{"languageName":"Korean","languageCode":"ko","isRtl":false},{"languageName":"Kurdish","languageCode":"ku","isRtl":true},{"languageName":"Lithuanian","languageCode":"lt","isRtl":false},{"languageName":"Macedonian","languageCode":"mk","isRtl":false},{"languageName":"Norwegian Bokmal","languageCode":"nb","isRtl":false},{"languageName":"Persian","languageCode":"fa","isRtl":true},{"languageName":"Polish","languageCode":"pl","isRtl":false},{"languageName":"Portuguese","languageCode":"pt","isRtl":false},{"languageName":"Portuguese, Brazilian","languageCode":"pt-br","isRtl":false},{"languageName":"Romanian","languageCode":"ro","isRtl":false},{"languageName":"Russian","languageCode":"ru","isRtl":false},{"languageName":"Serbian","languageCode":"sr","isRtl":false},{"languageName":"Slovak","languageCode":"sk","isRtl":false},{"languageName":"Slovenian","languageCode":"sl","isRtl":false},{"languageName":"Spanish","languageCode":"es","isRtl":false},{"languageName":"Swedish","languageCode":"sv","isRtl":false},{"languageName":"Tamil","languageCode":"ta","isRtl":false},{"languageName":"Thai","languageCode":"th","isRtl":false},{"languageName":"Turkish","languageCode":"tr","isRtl":false},{"languageName":"Ukrainian","languageCode":"uk","isRtl":false},{"languageName":"Vietnamese","languageCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","adUrl":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTEDxPuget%2BSound%2B%26id%3D848%26playlist%3Dshawn_achor_work_happier%26tag%3DTEDx%2Cbusiness%2Centrepreneur%2Cleadership%2Csuccess%26talk%3Dsimon_sinek_how_great_leaders_inspire_action%26year%3D2009\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fted2%2Fplaylist\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","streamer":"rtmp://tedfs.fplive.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/SimonSinek_2009X-320k.mp4?apikey=489b859150fc58263f17110eeb44ed5fba4a3b22"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2009X/Blank/SimonSinek_2009X-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2009X/Blank/SimonSinek_2009X-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2009X/Blank/SimonSinek_2009X-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2009X/Blank/SimonSinek_2009X-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2009X/Blank/SimonSinek_2009X-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2009X/Blank/SimonSinek_2009X-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2009X/Blank/SimonSinek_2009X-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"http://ad.doubleclick.net/pfadx/tconf.ted/hls;sz=6x6;id=848;talk=simon_sinek_how_great_leaders_inspire_action;year=2009;tag=TEDx,business,entrepreneur,leadership,success;event=TEDxPuget+Sound+;dcmt=text/xml","stream":"http://hls.ted.com/talks/848.m3u8","metadata":"http://hls.ted.com/talks/848.json"}},"canonical":"http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action","external":null,"name":"Simon Sinek: How great leaders inspire action","title":"How great leaders inspire action","speaker":"Simon Sinek","thumb":"http://img.tedcdn.com/r/images.ted.com/images/ted/168353_800x600.jpg?quality=89\u0026w=600","slug":"simon_sinek_how_great_leaders_inspire_action","event":"TEDxPuget Sound ","filmed":1253145600,"published":1272965460},{"id":618,"duration":1116,"languages":[{"languageName":"Arabic","languageCode":"ar","isRtl":true},{"languageName":"Armenian","languageCode":"hy","isRtl":false},{"languageName":"Bulgarian","languageCode":"bg","isRtl":false},{"languageName":"Catalan","languageCode":"ca","isRtl":false},{"languageName":"Chinese, Simplified","languageCode":"zh-cn","isRtl":false},{"languageName":"Chinese, Traditional","languageCode":"zh-tw","isRtl":false},{"languageName":"Croatian","languageCode":"hr","isRtl":false},{"languageName":"Czech","languageCode":"cs","isRtl":false},{"languageName":"Dutch","languageCode":"nl","isRtl":false},{"languageName":"English","languageCode":"en","isRtl":false},{"languageName":"Estonian","languageCode":"et","isRtl":false},{"languageName":"Finnish","languageCode":"fi","isRtl":false},{"languageName":"French","languageCode":"fr","isRtl":false},{"languageName":"Georgian","languageCode":"ka","isRtl":false},{"languageName":"German","languageCode":"de","isRtl":false},{"languageName":"Greek","languageCode":"el","isRtl":false},{"languageName":"Hebrew","languageCode":"he","isRtl":true},{"languageName":"Hungarian","languageCode":"hu","isRtl":false},{"languageName":"Indonesian","languageCode":"id","isRtl":false},{"languageName":"Italian","languageCode":"it","isRtl":false},{"languageName":"Japanese","languageCode":"ja","isRtl":false},{"languageName":"Kazakh","languageCode":"kk","isRtl":false},{"languageName":"Korean","languageCode":"ko","isRtl":false},{"languageName":"Kurdish","languageCode":"ku","isRtl":true},{"languageName":"Latvian","languageCode":"lv","isRtl":false},{"languageName":"Lithuanian","languageCode":"lt","isRtl":false},{"languageName":"Macedonian","languageCode":"mk","isRtl":false},{"languageName":"Persian","languageCode":"fa","isRtl":true},{"languageName":"Polish","languageCode":"pl","isRtl":false},{"languageName":"Portuguese","languageCode":"pt","isRtl":false},{"languageName":"Portuguese, Brazilian","languageCode":"pt-br","isRtl":false},{"languageName":"Romanian","languageCode":"ro","isRtl":false},{"languageName":"Russian","languageCode":"ru","isRtl":false},{"languageName":"Serbian","languageCode":"sr","isRtl":false},{"languageName":"Slovak","languageCode":"sk","isRtl":false},{"languageName":"Spanish","languageCode":"es","isRtl":false},{"languageName":"Tamil","languageCode":"ta","isRtl":false},{"languageName":"Thai","languageCode":"th","isRtl":false},{"languageName":"Turkish","languageCode":"tr","isRtl":false},{"languageName":"Ukrainian","languageCode":"uk","isRtl":false},{"languageName":"Vietnamese","languageCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","adUrl":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTEDGlobal%2B2009%26id%3D618%26playlist%3Dshawn_achor_work_happier%26tag%3Dbrain%2Cbusiness%2Ccreativity%2Cmotivation%2Cscience%2Csocial%2Bchange%2Cwork%26talk%3Ddan_pink_on_motivation%26year%3D2009\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fted2%2Fplaylist\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","streamer":"rtmp://tedfs.fplive.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/DanielPink_2009G-320k.mp4?apikey=489b859150fc58263f17110eeb44ed5fba4a3b22"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2009G/Blank/DanielPink_2009G-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2009G/Blank/DanielPink_2009G-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2009G/Blank/DanielPink_2009G-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2009G/Blank/DanielPink_2009G-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2009G/Blank/DanielPink_2009G-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2009G/Blank/DanielPink_2009G-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2009G/Blank/DanielPink_2009G-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"http://ad.doubleclick.net/pfadx/tconf.ted/hls;sz=6x6;id=618;talk=dan_pink_on_motivation;year=2009;tag=brain,business,creativity,motivation,science,social+change,work;event=TEDGlobal+2009;dcmt=text/xml","stream":"http://hls.ted.com/talks/618.m3u8","metadata":"http://hls.ted.com/talks/618.json"}},"canonical":"http://www.ted.com/talks/dan_pink_on_motivation","external":null,"name":"Dan Pink: The puzzle of motivation","title":"The puzzle of motivation","speaker":"Dan Pink","thumb":"http://img.tedcdn.com/r/images.ted.com/images/ted/110884_800x600.jpg?quality=89\u0026w=600","slug":"dan_pink_on_motivation","event":"TEDGlobal 2009","filmed":1248393600,"published":1251075600},{"id":93,"duration":1177,"languages":[{"languageName":"Albanian","languageCode":"sq","isRtl":false},{"languageName":"Arabic","languageCode":"ar","isRtl":true},{"languageName":"Bulgarian","languageCode":"bg","isRtl":false},{"languageName":"Catalan","languageCode":"ca","isRtl":false},{"languageName":"Chinese, Simplified","languageCode":"zh-cn","isRtl":false},{"languageName":"Chinese, Traditional","languageCode":"zh-tw","isRtl":false},{"languageName":"Croatian","languageCode":"hr","isRtl":false},{"languageName":"Czech","languageCode":"cs","isRtl":false},{"languageName":"Danish","languageCode":"da","isRtl":false},{"languageName":"Dutch","languageCode":"nl","isRtl":false},{"languageName":"English","languageCode":"en","isRtl":false},{"languageName":"Estonian","languageCode":"et","isRtl":false},{"languageName":"Finnish","languageCode":"fi","isRtl":false},{"languageName":"French","languageCode":"fr","isRtl":false},{"languageName":"French, Canadian","languageCode":"fr-ca","isRtl":false},{"languageName":"Georgian","languageCode":"ka","isRtl":false},{"languageName":"German","languageCode":"de","isRtl":false},{"languageName":"Greek","languageCode":"el","isRtl":false},{"languageName":"Hebrew","languageCode":"he","isRtl":true},{"languageName":"Hungarian","languageCode":"hu","isRtl":false},{"languageName":"Italian","languageCode":"it","isRtl":false},{"languageName":"Japanese","languageCode":"ja","isRtl":false},{"languageName":"Korean","languageCode":"ko","isRtl":false},{"languageName":"Kurdish","languageCode":"ku","isRtl":true},{"languageName":"Latvian","languageCode":"lv","isRtl":false},{"languageName":"Lithuanian","languageCode":"lt","isRtl":false},{"languageName":"Macedonian","languageCode":"mk","isRtl":false},{"languageName":"Marathi","languageCode":"mr","isRtl":false},{"languageName":"Persian","languageCode":"fa","isRtl":true},{"languageName":"Polish","languageCode":"pl","isRtl":false},{"languageName":"Portuguese","languageCode":"pt","isRtl":false},{"languageName":"Portuguese, Brazilian","languageCode":"pt-br","isRtl":false},{"languageName":"Romanian","languageCode":"ro","isRtl":false},{"languageName":"Russian","languageCode":"ru","isRtl":false},{"languageName":"Serbian","languageCode":"sr","isRtl":false},{"languageName":"Serbo-Croatian","languageCode":"sh","isRtl":false},{"languageName":"Slovak","languageCode":"sk","isRtl":false},{"languageName":"Slovenian","languageCode":"sl","isRtl":false},{"languageName":"Spanish","languageCode":"es","isRtl":false},{"languageName":"Swedish","languageCode":"sv","isRtl":false},{"languageName":"Thai","languageCode":"th","isRtl":false},{"languageName":"Turkish","languageCode":"tr","isRtl":false},{"languageName":"Ukrainian","languageCode":"uk","isRtl":false},{"languageName":"Vietnamese","languageCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","adUrl":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTEDGlobal%2B2005%26id%3D93%26playlist%3Dshawn_achor_work_happier%26tag%3Dbusiness%2Cchoice%2Cculture%2Cdecision-making%2Ceconomics%2Chappiness%2Cpersonal%2Bgrowth%2Cpotential%2Cpsychology%26talk%3Dbarry_schwartz_on_the_paradox_of_choice%26year%3D2005\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fted2%2Fplaylist\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","streamer":"rtmp://tedfs.fplive.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/BarrySchwartz_2005G-320k.mp4?apikey=489b859150fc58263f17110eeb44ed5fba4a3b22"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2005G/Blank/BarrySchwartz_2005G-1500k.mp4","name":"1500k","width":960,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2005G/Blank/BarrySchwartz_2005G-950k.mp4","name":"950k","width":640,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2005G/Blank/BarrySchwartz_2005G-600k.mp4","name":"600k","width":480,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2005G/Blank/BarrySchwartz_2005G-450k.mp4","name":"450k","width":384,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2005G/Blank/BarrySchwartz_2005G-320k.mp4","name":"320k","width":384,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2005G/Blank/BarrySchwartz_2005G-180k.mp4","name":"180k","width":384,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2005G/Blank/BarrySchwartz_2005G-64k.mp4","name":"64k","width":298,"height":224}],"hls":{"adUrl":"http://ad.doubleclick.net/pfadx/tconf.ted/hls;sz=6x6;id=93;talk=barry_schwartz_on_the_paradox_of_choice;year=2005;tag=business,choice,culture,decision-making,economics,happiness,personal+growth,potential,psychology;event=TEDGlobal+2005;dcmt=text/xml","stream":"http://hls.ted.com/talks/93.m3u8","metadata":"http://hls.ted.com/talks/93.json"}},"canonical":"http://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice","external":null,"name":"Barry Schwartz: The paradox of choice","title":"The paradox of choice","speaker":"Barry Schwartz","thumb":"http://img.tedcdn.com/r/images.ted.com/images/ted/d23ae99abaab7b81cd7b433645dda63c6108cdea_1600x1200.jpg?quality=89\u0026w=600","slug":"barry_schwartz_on_the_paradox_of_choice","event":"TEDGlobal 2005","filmed":1121385600,"published":1159229460},{"id":1042,"duration":1219,"languages":[{"languageName":"Albanian","languageCode":"sq","isRtl":false},{"languageName":"Arabic","languageCode":"ar","isRtl":true},{"languageName":"Armenian","languageCode":"hy","isRtl":false},{"languageName":"Basque","languageCode":"eu","isRtl":false},{"languageName":"Belarusian","languageCode":"be","isRtl":false},{"languageName":"Bulgarian","languageCode":"bg","isRtl":false},{"languageName":"Catalan","languageCode":"ca","isRtl":false},{"languageName":"Chinese, Simplified","languageCode":"zh-cn","isRtl":false},{"languageName":"Chinese, Traditional","languageCode":"zh-tw","isRtl":false},{"languageName":"Croatian","languageCode":"hr","isRtl":false},{"languageName":"Czech","languageCode":"cs","isRtl":false},{"languageName":"Danish","languageCode":"da","isRtl":false},{"languageName":"Dutch","languageCode":"nl","isRtl":false},{"languageName":"English","languageCode":"en","isRtl":false},{"languageName":"Estonian","languageCode":"et","isRtl":false},{"languageName":"French","languageCode":"fr","isRtl":false},{"languageName":"German","languageCode":"de","isRtl":false},{"languageName":"Greek","languageCode":"el","isRtl":false},{"languageName":"Hebrew","languageCode":"he","isRtl":true},{"languageName":"Hindi","languageCode":"hi","isRtl":false},{"languageName":"Hungarian","languageCode":"hu","isRtl":false},{"languageName":"Indonesian","languageCode":"id","isRtl":false},{"languageName":"Italian","languageCode":"it","isRtl":false},{"languageName":"Japanese","languageCode":"ja","isRtl":false},{"languageName":"Korean","languageCode":"ko","isRtl":false},{"languageName":"Kurdish","languageCode":"ku","isRtl":true},{"languageName":"Latvian","languageCode":"lv","isRtl":false},{"languageName":"Lithuanian","languageCode":"lt","isRtl":false},{"languageName":"Macedonian","languageCode":"mk","isRtl":false},{"languageName":"Malay","languageCode":"ms","isRtl":false},{"languageName":"Marathi","languageCode":"mr","isRtl":false},{"languageName":"Norwegian Bokmal","languageCode":"nb","isRtl":false},{"languageName":"Persian","languageCode":"fa","isRtl":true},{"languageName":"Polish","languageCode":"pl","isRtl":false},{"languageName":"Portuguese","languageCode":"pt","isRtl":false},{"languageName":"Portuguese, Brazilian","languageCode":"pt-br","isRtl":false},{"languageName":"Romanian","languageCode":"ro","isRtl":false},{"languageName":"Russian","languageCode":"ru","isRtl":false},{"languageName":"Serbian","languageCode":"sr","isRtl":false},{"languageName":"Slovak","languageCode":"sk","isRtl":false},{"languageName":"Slovenian","languageCode":"sl","isRtl":false},{"languageName":"Spanish","languageCode":"es","isRtl":false},{"languageName":"Swedish","languageCode":"sv","isRtl":false},{"languageName":"Tamil","languageCode":"ta","isRtl":false},{"languageName":"Thai","languageCode":"th","isRtl":false},{"languageName":"Turkish","languageCode":"tr","isRtl":false},{"languageName":"Ukrainian","languageCode":"uk","isRtl":false},{"languageName":"Vietnamese","languageCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","adUrl":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTEDxHouston%26id%3D1042%26playlist%3Dshawn_achor_work_happier%26tag%3DTEDx%2Ccommunication%2Cculture%2Cdepression%2Cfear%2Cmental%2Bhealth%2Cpsychology%2Cself%2Csocial%2Bchange%26talk%3Dbrene_brown_on_vulnerability%26year%3D2010\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fted2%2Fplaylist\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","streamer":"rtmp://tedfs.fplive.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/BreneBrown_2010X-320k.mp4?apikey=489b859150fc58263f17110eeb44ed5fba4a3b22"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2010X/Blank/BreneBrown_2010X-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2010X/Blank/BreneBrown_2010X-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2010X/Blank/BreneBrown_2010X-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2010X/Blank/BreneBrown_2010X-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2010X/Blank/BreneBrown_2010X-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2010X/Blank/BreneBrown_2010X-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2010X/Blank/BreneBrown_2010X-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"http://ad.doubleclick.net/pfadx/tconf.ted/hls;sz=6x6;id=1042;talk=brene_brown_on_vulnerability;year=2010;tag=TEDx,communication,culture,depression,fear,mental+health,psychology,self,social+change;event=TEDxHouston;dcmt=text/xml","stream":"http://hls.ted.com/talks/1042.m3u8","metadata":"http://hls.ted.com/talks/1042.json"}},"canonical":"http://www.ted.com/talks/brene_brown_on_vulnerability","external":null,"name":"Brené Brown: The power of vulnerability","title":"The power of vulnerability","speaker":"Brené Brown","thumb":"http://img.tedcdn.com/r/images.ted.com/images/ted/3820be698584de25ea375c0bf57ee620caf94b8d_1600x1200.jpg?quality=89\u0026w=600","slug":"brene_brown_on_vulnerability","event":"TEDxHouston","filmed":1275782400,"published":1293115500},{"id":1377,"duration":1144,"languages":[{"languageName":"Albanian","languageCode":"sq","isRtl":false},{"languageName":"Arabic","languageCode":"ar","isRtl":true},{"languageName":"Bengali","languageCode":"bn","isRtl":false},{"languageName":"Bulgarian","languageCode":"bg","isRtl":false},{"languageName":"Chinese, Simplified","languageCode":"zh-cn","isRtl":false},{"languageName":"Chinese, Traditional","languageCode":"zh-tw","isRtl":false},{"languageName":"Croatian","languageCode":"hr","isRtl":false},{"languageName":"Czech","languageCode":"cs","isRtl":false},{"languageName":"Danish","languageCode":"da","isRtl":false},{"languageName":"Dutch","languageCode":"nl","isRtl":false},{"languageName":"English","languageCode":"en","isRtl":false},{"languageName":"Filipino","languageCode":"fil","isRtl":false},{"languageName":"Finnish","languageCode":"fi","isRtl":false},{"languageName":"French","languageCode":"fr","isRtl":false},{"languageName":"French, Canadian","languageCode":"fr-ca","isRtl":false},{"languageName":"German","languageCode":"de","isRtl":false},{"languageName":"Greek","languageCode":"el","isRtl":false},{"languageName":"Hebrew","languageCode":"he","isRtl":true},{"languageName":"Hungarian","languageCode":"hu","isRtl":false},{"languageName":"Indonesian","languageCode":"id","isRtl":false},{"languageName":"Italian","languageCode":"it","isRtl":false},{"languageName":"Japanese","languageCode":"ja","isRtl":false},{"languageName":"Korean","languageCode":"ko","isRtl":false},{"languageName":"Kurdish","languageCode":"ku","isRtl":true},{"languageName":"Latvian","languageCode":"lv","isRtl":false},{"languageName":"Lithuanian","languageCode":"lt","isRtl":false},{"languageName":"Norwegian Bokmal","languageCode":"nb","isRtl":false},{"languageName":"Persian","languageCode":"fa","isRtl":true},{"languageName":"Polish","languageCode":"pl","isRtl":false},{"languageName":"Portuguese","languageCode":"pt","isRtl":false},{"languageName":"Portuguese, Brazilian","languageCode":"pt-br","isRtl":false},{"languageName":"Romanian","languageCode":"ro","isRtl":false},{"languageName":"Russian","languageCode":"ru","isRtl":false},{"languageName":"Serbian","languageCode":"sr","isRtl":false},{"languageName":"Slovak","languageCode":"sk","isRtl":false},{"languageName":"Slovenian","languageCode":"sl","isRtl":false},{"languageName":"Spanish","languageCode":"es","isRtl":false},{"languageName":"Swedish","languageCode":"sv","isRtl":false},{"languageName":"Turkish","languageCode":"tr","isRtl":false},{"languageName":"Ukrainian","languageCode":"uk","isRtl":false},{"languageName":"Vietnamese","languageCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","adUrl":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTED2012%26id%3D1377%26playlist%3Dshawn_achor_work_happier%26tag%3Dbusiness%2Cculture%2Cpsychology%26talk%3Dsusan_cain_the_power_of_introverts%26year%3D2012\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fted2%2Fplaylist\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","streamer":"rtmp://tedfs.fplive.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/SusanCain_2012-320k.mp4?apikey=489b859150fc58263f17110eeb44ed5fba4a3b22"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2012/Blank/SusanCain_2012-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2012/Blank/SusanCain_2012-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2012/Blank/SusanCain_2012-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2012/Blank/SusanCain_2012-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2012/Blank/SusanCain_2012-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2012/Blank/SusanCain_2012-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2012/Blank/SusanCain_2012-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"http://ad.doubleclick.net/pfadx/tconf.ted/hls;sz=6x6;id=1377;talk=susan_cain_the_power_of_introverts;year=2012;tag=business,culture,psychology;event=TED2012;dcmt=text/xml","stream":"http://hls.ted.com/talks/1377.m3u8","metadata":"http://hls.ted.com/talks/1377.json"}},"canonical":"http://www.ted.com/talks/susan_cain_the_power_of_introverts","external":null,"name":"Susan Cain: The power of introverts","title":"The power of introverts","speaker":"Susan Cain","thumb":"http://img.tedcdn.com/r/images.ted.com/images/ted/b542b1ddd2e40cfcf9db3430598bc37cebfec8c1_1600x1200.jpg?quality=89\u0026w=600","slug":"susan_cain_the_power_of_introverts","event":"TED2012","filmed":1330387200,"published":1330720092}]})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+<li><a class="footer__link" href="/about/programs-initiatives/ads-worth-spreading">Ads Worth Spreading</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="//www.ted.com/promos/TEDTalksEducation">TED TV programs</a></li>
+<li class='m5'><a class="footer__link" href="//dvd.ted.com">Order a DVD</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+<li><a class="footer__link" href="//developer.ted.com" target="_blank">For developers / API</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="//blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED.com members</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='https://auth.ted.com/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="//partners.ted.com" target="_blank">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

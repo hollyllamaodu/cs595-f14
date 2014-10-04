@@ -1,0 +1,641 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<!-- Page Info -->
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="description" content="Blogs.Oracle.Com - JavaOne Conference Blog">
+  <meta name="keywords" content="blogs, oracle, blogs.oracle, blogging, bloggers">
+		            <title>Join Community Events at JavaOne 2014 (JavaOne Conference Blog)</title>
+                           <meta http-equiv="Content-Language" content="en" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="imagetoolbar" content="no" />
+
+        
+            <link rel="alternate" type="application/atom+xml" title="Recent Entries (Atom)"  href="https://blogs.oracle.com/javaone/feed/entries/atom" />
+    <link rel="alternate" type="application/rss+xml"  title="Recent Entries (RSS)"   href="https://blogs.oracle.com/javaone/feed/entries/rss" />
+    <link rel="alternate" type="application/atom+xml" title="Recent Comments (Atom)" href="https://blogs.oracle.com/javaone/feed/comments/atom" />
+    <link rel="alternate" type="application/rss+xml"  title="Recent Comments (RSS)"  href="https://blogs.oracle.com/javaone/feed/comments/rss" />
+
+    
+    
+<!-- Stylesheets -->
+<link rel="stylesheet" href="https://blogs.oracle.com/javaone/resource/javaone11/theme.css" type="text/css" media="screen" />
+
+<!-- Favicon -->
+<link rel="shortcut icon" href="https://blogs.oracle.com/javaone/resource/javaone11/favicon.gif" />    	</head>
+	<body>
+		<div id="container" class="two-columns"> <!-- Note: Change the class from "two-columns" to "three-columns" if needed -->
+			
+			<!-- Header -->
+			<div id="header">
+				<ul id="nav">
+					<li id="logo"><h6><a href="http://www.oracle.com">Oracle</a></h6></li>
+					<li class="current"><a href="/">Blogs Home</a></li>
+					<li><a href="http://www.oracle.com/us/products/index.html">Products &amp; Services</a></li>
+					<li><a href="http://www.oracle.com/technetwork/indexes/downloads/index.html">Downloads</a></li>
+					<li><a href="http://www.oracle.com/us/support/index.html">Support</a></li>
+					<li><a href="http://www.oracle.com/us/partnerships/index.html">Partners</a></li>
+					<li><a href="http://www.oracle.com/us/community/index.html">Communities</a></li>
+					<li><a href="http://www.oracle.com/us/corporate/index.html">About</a></li>
+                                            <li id="signIn"><a href="/roller-ui/login-redirect.rol">Login</a></li>
+                    				</ul>
+				<div id="jumbotron">
+					<h4>Oracle Blog</h4>
+          <!-- <h5><a href="https://blogs.oracle.com/javaone/">JavaOne Conference Blog</a></h5>
+          <h5 class="subhead"> </h5> -->
+				</div>
+                																										</div>
+			
+			<!-- Content -->
+			<div id="content">
+                <div id="mainColumn">
+                    
+                    <!-- Previous and Next Entries -->
+                    <div id="pager">
+                                                    &laquo; <a href="https://blogs.oracle.com/javaone/entry/join_netbeans_community_at_javaone">Join NetBeans Commun...</a> |  
+                <a href="/javaone/">Main</a>
+                | <a href="https://blogs.oracle.com/javaone/entry/write_your_first_book">Write Your First...</a> &raquo;
+                        </div>
+
+                    <!-- Entries -->
+				    
+                <div class="day">
+
+
+	<div class="entry" id="join_community_events_at_javaone">
+
+	<h3 class="entry-title">
+			Join Community Events at JavaOne 2014
+	    </h3>
+
+    <h4 class="entry-meta">By Yolande Poirier on <a href="#">Sep 23, 2014</a></h4>
+
+    <div class="entry-body">
+                                        	<p>Once a year, the global Java community gathers on the Sunday before JavaOne at three community events. Glassfish and Java EE users join the Executive Panel and GlassFish Adoption Story and Deep Dive. NetBeans enthusiasts get together at the NetBeans Community Day, a whole day of panels. User group leaders and members attend the user group forum. Join them this year on Sunday, September 28 at Moscone South&nbsp;</p> 
+  <table cellpadding="2" border="1"> <colgroup><col width="63" style="width: 63pt;" /></colgroup><colgroup><col width="277" style="width: 277pt;" /> <col width="143" style="width: 143pt;" /> <col width="56" style="width: 56pt;" /> <col width="50" style="width: 50pt;" /> </colgroup> 
+    <tbody> 
+      <tr style="height: 28pt;"> 
+        <td class="excel4" width="87" style="height: 28pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=1709">UGF1709</a></td> 
+        <td class="excel5" width="371" style="width: 277pt;">Introduction to Java 8: JVM, Language, and Platform</td> 
+        <td class="excel5" width="193" style="width: 143pt;">Timothy Fagan, Dario Laverde</td> 
+        <td class="excel5" width="77" style="width: 56pt;">08:00 AM</td> 
+        <td class="excel5" width="109" style="width: 50pt;">08:45 AM</td> 
+      </tr> 
+      <tr style="height: 28pt;"> 
+        <td class="excel4" width="87" style="height: 28pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9751">UGF9751</a></td> 
+        <td class="excel5" width="371" style="width: 277pt;">Avatar.js: Node Programming Model and JavaScript for the JVM&nbsp;</td> 
+        <td class="excel5" width="193" style="width: 143pt;">Andrey Kogun, Sumantro Mukherjee&nbsp;</td> 
+        <td class="excel5" width="77" style="width: 56pt;">08:00 AM</td> 
+        <td class="excel5" width="109" style="width: 50pt;">08:45 AM</td> 
+      </tr> 
+      <tr style="height: 28pt;"> 
+        <td class="excel4" width="87" style="height: 28pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9651">UGF9651</a></td> 
+        <td class="excel5" width="371" style="width: 277pt;">Controlling Robots with Java and ROS</td> 
+        <td class="excel5" width="193" style="width: 143pt;">Fabrizio Gianneschi, Ean Schuessler</td> 
+        <td class="excel5" width="77" style="width: 56pt;">09:00 AM</td> 
+        <td class="excel5" width="109" style="width: 50pt;">09:45 AM</td> 
+      </tr> 
+      <tr style="height: 28pt;"> 
+        <td class="excel3" width="87" style="height: 28pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9672">UGF9672</a></td> 
+        <td class="excel3" width="371" style="width: 277pt;">Lambdas and Laughs</td> 
+        <td class="excel3" width="193" style="width: 143pt;">Frank Greco, Jim Bethancourt&nbsp;</td> 
+        <td class="excel3" width="77" style="width: 56pt;">09:00 AM</td> 
+        <td class="excel3" width="109" style="width: 50pt;">09:45 AM</td> 
+      </tr> 
+      <tr style="height: 19pt;"> 
+        <td class="excel3" width="87" style="height: 19pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=8871">UGF8871</a></td> 
+        <td class="excel3" width="371" style="width: 277pt;">Meet the NetBeans Community, with Boeing, Jelastic, JRebel, Vaadin, and More</td> 
+        <td class="excel3" width="193" style="width: 143pt;">Zoran Sevarac Bruce Shimel, Matti Tahvonen, Ruslan Synytskyy, Anton Arhipov&nbsp;</td> 
+        <td class="excel3" width="77" style="width: 56pt;">09:00 AM</td> 
+        <td class="excel3" width="109" style="width: 50pt;">09:45 AM</td> 
+      </tr> 
+      <tr style="height: 17pt;"> 
+        <td class="excel3" width="87" style="height: 17pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9120">UGF9120</a></td> 
+        <td class="excel3" width="371" style="width: 277pt;">GlassFish Roadmap and Executive Panel</td> 
+        <td class="excel3" width="193" style="width: 143pt;">John Clingan, Anil Gaur, Cameron Purdy</td> 
+        <td class="excel3" width="77" style="width: 56pt;">10:00 AM</td> 
+        <td class="excel3" width="109" style="width: 50pt;">10:45 AM</td> 
+      </tr> 
+      <tr style="height: 28pt;"> 
+        <td class="excel3" width="87" style="height: 28pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=8907">UGF8907</a></td> 
+        <td class="excel3" width="371" style="width: 277pt;">James Gosling, Robots, the Raspberry Pi, and Small Devices</td> 
+        <td class="excel3" width="193" style="width: 143pt;">James Gosling, José Pereda, Johannes Weigend, Shai Almog, Jens Deters,</td> 
+        <td class="excel3" width="77" style="width: 56pt;">10:00 AM</td> 
+        <td class="excel3" width="109" style="width: 50pt;">10:45 AM</td> 
+      </tr> 
+      <tr style="height: 28pt;"> 
+        <td class="excel3" width="87" style="height: 28pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9652">UGF9652</a></td> 
+        <td class="excel3" width="371" style="width: 277pt;">Starting a JUGgernaut: How to Start and Rapidly Grow Your JUG</td> 
+        <td class="excel3" width="193" style="width: 143pt;">Matt DeFano, Scott Kramer Kramer&nbsp;</td> 
+        <td class="excel3" width="77" style="width: 56pt;">10:00 AM</td> 
+        <td class="excel3" width="109" style="width: 50pt;">10:45 AM</td> 
+      </tr> 
+      <tr style="height: 28pt;"> 
+        <td class="excel3" width="87" style="height: 28pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9673">UGF9673</a></td> 
+        <td class="excel3" width="371" style="width: 277pt;">Making the Most of Your Artifact Repository: Tips and Tricks</td> 
+        <td class="excel3" width="193" style="width: 143pt;">Jerome Petit, Manfred Moser</td> 
+        <td class="excel3" width="77" style="width: 56pt;">10:00 AM</td> 
+        <td class="excel3" width="109" style="width: 50pt;">10:45 AM</td> 
+      </tr> 
+      <tr style="height: 14pt;"> 
+        <td class="excel3" width="87" style="height: 14pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9123">UGF9123</a></td> 
+        <td class="excel3" width="371" style="width: 277pt;">GlassFish Adoption Story and Deep Dive</td> 
+        <td class="excel3" width="193" style="width: 143pt;">Martin Mareš, Reza Rahman, Mohamed Taman&nbsp;</td> 
+        <td class="excel3" width="77" style="width: 56pt;">11:00 AM</td> 
+        <td class="excel3" width="109" style="width: 50pt;">11:45 AM</td> 
+      </tr> 
+      <tr style="height: 28pt;"> 
+        <td class="excel3" width="87" style="height: 28pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9755">UGF9755</a></td> 
+        <td class="excel3" width="371" style="width: 277pt;">The OpenJDK Project: Your Java. Our Java</td> 
+        <td class="excel3" width="193" style="width: 143pt;">Otávio Santana, Roland Chrisbel Amour Malonga&nbsp;</td> 
+        <td class="excel3" width="77" style="width: 56pt;">11:00 AM</td> 
+        <td class="excel3" width="109" style="width: 50pt;">11:45 AM</td> 
+      </tr> 
+      <tr style="height: 14pt;"> 
+        <td class="excel3" width="87" style="height: 14pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=8872">UGF8872</a></td> 
+        <td class="excel3" width="371" style="width: 277pt;">Free Java Tools for Maven and Java EE&nbsp;</td> 
+        <td class="excel3" width="193" style="width: 143pt;">Martijn Verburg, Adam Bien, Massimo Calderoni, Mark stephens, Markus Eisele</td> 
+        <td class="excel3" width="77" style="width: 56pt;">11:00 AM</td> 
+        <td class="excel3" width="109" style="width: 50pt;">11:45 AM</td> 
+      </tr> 
+      <tr style="height: 28pt;"> 
+        <td class="excel3" width="87" style="height: 28pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9752">UGF9752</a></td> 
+        <td class="excel3" width="371" style="width: 277pt;">Tools for the Day-to-Day of JUG Management</td> 
+        <td class="excel3" width="193" style="width: 143pt;">Israel Boza Rodriguez, Alison McGreavy</td> 
+        <td class="excel3" width="77" style="width: 56pt;">11:00 AM</td> 
+        <td class="excel3" width="109" style="width: 50pt;">11:45 AM</td> 
+      </tr> 
+      <tr style="height: 24pt;"> 
+        <td class="excel6" width="87" style="height: 24pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9754">UGF9754</a></td> 
+        <td class="excel3" width="371" style="width: 277pt;">Adopting Java: Create Java’s Future. Now</td> 
+        <td class="excel3" width="193" style="width: 143pt;">Martijn Verburg, Séti Afanou</td> 
+        <td class="excel3" width="77" style="width: 56pt;">03:30 PM</td> 
+        <td class="excel3" width="109" style="width: 50pt;">04:15 PM</td> 
+      </tr> 
+      <tr style="height: 24pt;"> 
+        <td class="excel6" width="87" style="height: 24pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9650">UGF9650</a></td> 
+        <td class="excel3" width="371" style="width: 277pt;">Big Data and Java: Ask the Experts</td> 
+        <td class="excel3" width="193" style="width: 143pt;">Fabiane Nardon, Fernando Babadopulos</td> 
+        <td class="excel3" width="77" style="width: 56pt;">03:30 PM</td> 
+        <td class="excel3" width="109" style="width: 50pt;">04:15 PM</td> 
+      </tr> 
+      <tr style="height: 24pt;"> 
+        <td class="excel6" width="87" style="height: 24pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=8846">UGF8846</a></td> 
+        <td class="excel3" width="371" style="width: 277pt;">Get Productive with Free Java Tools</td> 
+        <td class="excel3" width="193" style="width: 143pt;">Anton Epple, Sven Reimers,Michelle Chamberlin, David Heffelfinger, Bernd Ruehlicke &nbsp;</td> 
+        <td class="excel3" width="77" style="width: 56pt;">03:30 PM</td> 
+        <td class="excel3" width="109" style="width: 50pt;">04:15 PM</td> 
+      </tr> 
+      <tr style="height: 24pt;"> 
+        <td class="excel6" width="87" style="height: 24pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9733">UGF9733</a></td> 
+        <td class="excel3" width="371" style="width: 277pt;">Everything You Ever Wanted to Know About Java&nbsp;</td> 
+        <td class="excel3" width="193" style="width: 143pt;">Bonbhel Bonbhel, Bruno Souza</td> 
+        <td class="excel3" width="77" style="width: 56pt;">04:30 PM</td> 
+        <td class="excel3" width="109" style="width: 50pt;">05:15 PM</td> 
+      </tr> 
+      <tr style="height: 24pt;"> 
+        <td class="excel6" width="87" style="height: 24pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=8873">UGF8873</a></td> 
+        <td class="excel3" width="371" style="width: 277pt;">Teaching Java with Free Java Tools</td> 
+        <td class="excel3" width="193" style="width: 143pt;">Zoran Sevarac, Gail Anderson, Andreas Stefik, Ken Fogel, Johannes Weigend&nbsp;</td> 
+        <td class="excel3" width="77" style="width: 56pt;">04:30 PM</td> 
+        <td class="excel3" width="109" style="width: 50pt;">05:15 PM</td> 
+      </tr> 
+      <tr style="height: 24pt;"> 
+        <td class="excel6" width="87" style="height: 24pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9753">UGF9753</a></td> 
+        <td class="excel3" width="371" style="width: 277pt;">Generating Excitement in Java’s Mature Market</td> 
+        <td class="excel3" width="193" style="width: 143pt;">Orianne Tisseuil, Jim Bethancourt</td> 
+        <td class="excel3" width="77" style="width: 56pt;">04:30 PM</td> 
+        <td class="excel3" width="109" style="width: 50pt;">05:15 PM</td> 
+      </tr> 
+      <tr style="height: 24pt;"> 
+        <td class="excel6" width="87" style="height: 24pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=8906">UGF8906</a></td> 
+        <td class="excel3" width="371" style="width: 277pt;">Lightning Talks: Even More Productivity with Free Java Tools</td> 
+        <td class="excel3" width="193" style="width: 143pt;">Kirk Pepperdine, Ben Evans, Josh Juneau, Stephen Reinert, Timothy Boudreau</td> 
+        <td class="excel3" width="77" style="width: 56pt;">05:30 PM</td> 
+        <td class="excel3" width="109" style="width: 50pt;">06:15 PM</td> 
+      </tr> 
+      <tr style="height: 24pt;"> 
+        <td class="excel6" width="87" style="height: 24pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9756">UGF9756</a></td> 
+        <td class="excel3" width="371" style="width: 277pt;">Meet the JCP Board: A Panel</td> 
+        <td class="excel3" width="193" style="width: 143pt;">Keith Combs, Jose Amadeo Martin Diaz&nbsp;</td> 
+        <td class="excel3" width="77" style="width: 56pt;">05:30 PM</td> 
+        <td class="excel3" width="109" style="width: 50pt;">06:15 PM</td> 
+      </tr> 
+      <tr style="height: 24pt;"> 
+        <td class="excel6" width="87" style="height: 24pt; width: 63pt;"><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9734">UGF9734</a></td> 
+        <td class="excel3" width="371" style="width: 277pt;">The JCP: Meet the Board, Improve Java, Have a Beer!</td> 
+        <td class="excel3" width="193" style="width: 143pt;">Heather Vancura, Alexis Lopez</td> 
+        <td class="excel3" width="77" style="width: 56pt;">05:30 PM</td> 
+        <td class="excel3" width="109" style="width: 50pt;">06:15 PM</td> 
+      </tr> 
+    </tbody> 
+  </table>
+        
+    </div>
+
+    <div class="entry-footer">
+        <p class="entry-category">Category: Javaone feed</p>
+        <p class="entry-tags">Tags:    
+    	    <a href="https://blogs.oracle.com/javaone/tags/community" rel="tag">community</a> 
+  	    <a href="https://blogs.oracle.com/javaone/tags/ee" rel="tag">ee</a> 
+  	    <a href="https://blogs.oracle.com/javaone/tags/glassfish" rel="tag">glassfish</a> 
+  	    <a href="https://blogs.oracle.com/javaone/tags/groups" rel="tag">groups</a> 
+  	    <a href="https://blogs.oracle.com/javaone/tags/java" rel="tag">java</a> 
+  	    <a href="https://blogs.oracle.com/javaone/tags/netbeans" rel="tag">netbeans</a> 
+  	    <a href="https://blogs.oracle.com/javaone/tags/user" rel="tag">user</a> 
+    
+ </p>
+        <p class="entry-links">
+        <a href="https://blogs.oracle.com/javaone/entry/join_community_events_at_javaone">Permanent link to this entry</a>
+                        </p>
+    </div>
+
+	    
+	</div>
+
+</div>    
+    
+                    <!-- Previous and Next Entries -->
+                    <div id="pagerBottom">
+                                                    &laquo; <a href="https://blogs.oracle.com/javaone/entry/join_netbeans_community_at_javaone">Join NetBeans Commun...</a> |  
+                <a href="/javaone/">Main</a>
+                | <a href="https://blogs.oracle.com/javaone/entry/write_your_first_book">Write Your First...</a> &raquo;
+                        </div> 
+                    <!-- Comments -->
+                                                <a name="comments"></a>
+    <div class="comments" id="comments">
+
+            <div class="comments-head">Comments:</div>
+            
+    <br/>
+        </div>
+                        
+    <div class="comments-form">
+    <div class="comments-head">Post a Comment:</div>
+    <a name="comment-form"></a>
+
+
+    
+    <form method="post" action="https://blogs.oracle.com/javaone/entry/join_community_events_at_javaone" focus="name" 
+        name="commentForm" onsubmit="fixURL(this); return validateComments(this)">    
+        <input type="hidden" name="method" value="post" />
+
+        <ul>
+            <li>
+                <label class="desc">Name:</label>
+                <input type="text" name="name" class="text large" value="" size="50" maxlength="255" />
+            </li>
+
+            <li><label class="desc">E-Mail:</label>
+                <input type="text" name="email" class="text large" value="" size="50" maxlength="255" />
+            </li>
+
+            <li><label class="desc">URL:</label>
+                <input type="text" name="url" class="text large" value="" size="50" maxlength="255" />
+            </li>
+
+                    <li><input type="checkbox" class="checkbox" id="notify" name="notify" />
+                <label for="notify" class="choice">Notify me by email of new comments</label>
+            </li>
+                    <li>
+                <input type="checkbox" class="checkbox" id="rememberInfo" name="rememberInfo" />
+                <label for="rememberInfo" class="choice">Remember Information?</label>
+            </li>
+            <li>
+                <label class="desc">Your Comment:</label>
+             
+            <textarea name="content" class="textarea large" cols="40" rows="10"></textarea>
+
+            </li>
+            <li class="info">
+                <span class="comments-syntax-indicator">
+                HTML Syntax:
+                                    <span class="disabled">NOT allowed</span>
+                                </span>
+            </li>
+            <li class="info">
+               <script type="text/javascript" src="/theme/scripts/clientSideInclude.js"></script>
+               <div id="commentAuthenticator"></div>
+            </li>
+            <li>
+               <input type="button" class="button" name="post" value="&nbsp;Preview&nbsp;"
+                  onclick="this.form.method.value='preview';this.form.submit()" />
+               <input type="submit" class="button" name="post" value="&nbsp;Post&nbsp;" />
+            </li>
+        </ul>
+
+    </form>
+
+    <script type="text/javascript" src="/theme/scripts/roller.js"></script>
+    <script type="text/javascript">
+    clientSideInclude('commentAuthenticator', '/CommentAuthenticatorServlet');
+
+    var author = getCookie("commentAuthor");
+    var email = getCookie("commentEmail");
+    var url = getCookie("commentUrl");
+    // check each field - IE will render "null"
+   
+    if (author) {
+        document.forms['commentForm'].name.value = author;
+    }else{
+        document.forms['commentForm'].name.value = "guest";
+    }
+
+    if (email) {
+        document.forms['commentForm'].email.value = email;
+    }
+    if (url) {
+        document.forms['commentForm'].url.value = url;
+    }
+
+    if (author || email || url) {
+        document.forms['commentForm'].rememberInfo.checked = true;
+    }
+
+    function fixURL(theForm) {
+        if (theForm.url.value != "" &&
+            theForm.url.value.indexOf("http://") == -1) { //prepend http://
+            theForm.url.value = "http://"+theForm.url.value;
+        }
+        saveUserInformation(theForm);
+    }
+
+    function saveUserInformation(theForm) {
+        if (theForm.rememberInfo.checked) {
+            rememberUser(theForm);
+        } else {
+            forgetUser(theForm);
+        }
+    }
+
+    function validateComments(theForm) {
+        if (theForm.content.value == "") {
+            alert("Please enter a comment.");
+            theForm.content.focus();
+            return false;
+        }
+ 
+        if (document.forms['commentForm'].name.value=="" ) {
+        document.forms['commentForm'].name.value = "guest";
+        }
+
+    }
+    </script>
+
+
+    </div>
+                    				</div>
+
+                <!-- Sidebar -->
+                           <!-- Right Sidebar -->
+<div id="rightColumn">
+
+<!-- About -->
+  <div id="aboutSection">    
+    <h5 class="section-title">About</h5>
+    <div class="section-body">
+                  <p><img src="/javaone/resource/javaone.jpg" width="150" alt="javeone logo"><a href="http://www.oracle.com/javaone/sessions/index.html">JavaOne Conference 2013 Content</a><br /><br />
+<a href="http://www.oracle.com/javaone">San Francisco, USA: Sept 28 - Oct 2, 2014</a><br />
+<br />
+
+<h5 class="section-title">Links</h5>
+
+<iframe src="/javaone/resource/header/sideadd1b.html" width="190" height="80" frameborder="0" scrolling="no">
+</iframe>
+
+<style>div#header div#jumbotron h4 { background: url(/javaone/resource/javaone2014/332206-javaone-bn.jpg) no-repeat;}</style></p>
+            </div>
+  </div>  
+<!-- End About -->
+
+<!-- Search -->
+  <div id="searchSection">  
+    <h5 class="section-title">Search</h5>
+    <div class="section-body">
+        <script type="text/javascript">
+    function prepareSearchForm() {
+        document.getElementById("searchForm").searchQuery.name = "oq";
+        document.getElementById("searchFilter").innerHTML = "<input type='hidden' id='searchFilteredQuery' name='q' value=''>" +
+                "<br /><input type='checkbox' id='searchScope' checked='true' /><label for='searchScope'>Search only this blog</label>";
+    }
+    function submitSearchForm() {
+        var form = document.getElementById("searchForm");
+        var query = form.searchQuery.value;
+        var urlSearchOp = form.searchOp.value; //searchOp
+        var urlGroup = form.searchGroup.value; //group
+         
+        if (query == null || query == "") {
+            return false;
+        }
+        var filter = " weblog:javaone";
+        var curUrl = window.location.href;
+        if (form.searchScope.checked && form.searchQuery.value.indexOf(filter) == -1) {
+            form.searchFilteredQuery.value = form.searchQuery.value + filter;
+        }
+        else {
+            form.searchFilteredQuery.value = form.searchQuery.value;
+        }
+
+        						 form.action="https://search.oracle.com/search/search";
+				
+        window.location = form.action + "?search_p_main_operator=" + urlSearchOp + "&group=" + urlGroup +"&q=" + form.searchFilteredQuery.value;
+        return false;
+    }
+</script>
+<form id="searchForm" action="http://search.oracle.com/search/search"
+      onsubmit="return submitSearchForm();" method="get">
+    <input type="hidden" id="searchOp" name="search_p_main_operator" value="all" />
+    <input type="hidden" id="searchGroup" name="group" value="Blogs" />
+    <label for="searchQuery" title="Enter search term">Enter search term:</label>
+    <br />
+    <input type="text" id="searchQuery" name="q" class="text" alt="Enter Search Term" />
+    <input type="image" class="input-image" id="searchSubmit" alt="Submit Search" title="Submit Search" src="https://blogs.oracle.com/javaone/resource/search-button.gif" />
+    <span id="searchFilter">
+    <noscript>Search filtering requires JavaScript</noscript>
+    </span>
+</form>
+<script type="text/javascript">prepareSearchForm();</script>
+    </div>
+  </div>    
+<!-- End Search -->
+
+<!-- Recent Posts -->
+  <div id="recentSection">  
+                <h5 class="section-title">Recent Posts</h5>
+        <div class="section-body">
+            <ul>
+                                    <li><a href="https://blogs.oracle.com/javaone/entry/iot_magic_steals_the_show">IoT Magic Steals the Show</a></li>
+                                    <li><a href="https://blogs.oracle.com/javaone/entry/nao_robot_at_javaone">NAO Robot at JavaOne</a></li>
+                                    <li><a href="https://blogs.oracle.com/javaone/entry/important_schedule_change_for_thursday">Technical, Community, and Intel Keynotes on Thursday</a></li>
+                                    <li><a href="https://blogs.oracle.com/javaone/entry/jcp_awards_and_celebration">JCP Awards and Celebration</a></li>
+                                    <li><a href="https://blogs.oracle.com/javaone/entry/life_around_the_java_hub">Life around the Java Hub</a></li>
+                                    <li><a href="https://blogs.oracle.com/javaone/entry/15_off_your_javaone_2015">Save 15% Off Your JavaOne 2015 Pass</a></li>
+                                    <li><a href="https://blogs.oracle.com/javaone/entry/duke_high_five">Duke High Five</a></li>
+                                    <li><a href="https://blogs.oracle.com/javaone/entry/user_group_sunday_kicks_things">User Group Sunday Kicks Things Off</a></li>
+                                    <li><a href="https://blogs.oracle.com/javaone/entry/2014_duke_s_choice_award">2014 Duke's Choice Award Winners</a></li>
+                                    <li><a href="https://blogs.oracle.com/javaone/entry/java_magazine_what_will_you">Java Magazine: What Will You Build Today?</a></li>
+                            </ul>
+        </div>
+      </div>    
+<!-- End Recent Posts -->
+
+
+<!-- Top Tags -->
+  <div id="tagsSection">  
+            <h5 class="section-title">Top Tags</h5>
+    <div class="tags section-body">
+        <ul class="tag-cloud">
+                    <li><a href="https://blogs.oracle.com/javaone/tags/2.0" title="7" class="weight-1">2.0</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/7" title="22" class="weight-2">7</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/8" title="23" class="weight-2">8</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/adam" title="8" class="weight-1">adam</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/and" title="26" class="weight-2">and</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/architecture" title="7" class="weight-1">architecture</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/bien" title="7" class="weight-1">bien</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/cloud" title="14" class="weight-1">cloud</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/community" title="32" class="weight-3">community</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/conference" title="14" class="weight-1">conference</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/develop" title="8" class="weight-1">develop</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/developer" title="16" class="weight-2">developer</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/developers" title="9" class="weight-1">developers</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/ee" title="72" class="weight-4">ee</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/embedded" title="44" class="weight-3">embedded</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/for" title="7" class="weight-1">for</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/glassfish" title="12" class="weight-1">glassfish</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/html5" title="14" class="weight-1">html5</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/ibm" title="8" class="weight-1">ibm</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/in" title="8" class="weight-1">in</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/india" title="8" class="weight-1">india</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/internet" title="20" class="weight-2">internet</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/iot" title="15" class="weight-2">iot</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/java" title="212" class="weight-5">java</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/javaee" title="13" class="weight-1">javaee</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/javaembedded" title="9" class="weight-1">javaembedded</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/javafx" title="46" class="weight-3">javafx</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/javaone" title="185" class="weight-5">javaone</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/javascript" title="7" class="weight-1">javascript</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/jcp" title="11" class="weight-1">jcp</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/jsr" title="10" class="weight-1">jsr</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/jug" title="7" class="weight-1">jug</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/jvm" title="9" class="weight-1">jvm</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/keynote" title="12" class="weight-1">keynote</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/keynotes" title="8" class="weight-1">keynotes</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/lambda" title="7" class="weight-1">lambda</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/mark" title="8" class="weight-1">mark</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/me" title="41" class="weight-3">me</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/mobile" title="11" class="weight-1">mobile</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/netbeans" title="9" class="weight-1">netbeans</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/of" title="22" class="weight-2">of</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/oracle" title="26" class="weight-2">oracle</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/otn" title="11" class="weight-1">otn</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/pi" title="15" class="weight-2">pi</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/platform" title="9" class="weight-1">platform</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/project" title="11" class="weight-1">project</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/raspberry" title="14" class="weight-1">raspberry</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/se" title="57" class="weight-4">se</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/the" title="19" class="weight-2">the</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/tags/things" title="20" class="weight-2">things</a></li>
+                </ul>
+    </div>
+    </div>    
+<!-- End Top Tags -->
+    
+
+<!-- Categories -->
+  <div id="categoriesSection">
+    <h5 class="section-title">Categories</h5>
+    <div class="section-body">
+                        <ul class="rCategory">
+                                                                            <li><a href="https://blogs.oracle.com/javaone/category/JavaOne+2010">JavaOne 2010</a></li>
+                                                                                                            <li><a href="https://blogs.oracle.com/javaone/category/JavaOne+2011">JavaOne 2011</a></li>
+                                                                                                            <li><a href="https://blogs.oracle.com/javaone/category/JavaOne+2012">JavaOne 2012</a></li>
+                                                                                                            <li><a href="https://blogs.oracle.com/javaone/category/JavaOne+2013">JavaOne 2013</a></li>
+                                                                                                            <li><a href="https://blogs.oracle.com/javaone/category/Javaone+feed">Javaone feed</a></li>
+                                                                                                            <li><a href="https://blogs.oracle.com/javaone/category/Oracle">Oracle</a></li>
+                                                                            </ul>
+        </div>
+  </div>
+<!-- End Categories -->
+
+
+<!-- Archives -->
+   <div id="archiveSection">
+    <h5 class="section-title">Archives</h5>
+    <div class="section-body">
+        <table cellspacing="0" border="0"  summary="Blog Archive Calendar" class="hCalendarTable"><tr><td colspan="7" align="center" class="hCalendarMonthYearRow"><a href="/javaone/date/201409" title="Prev" class="hCalendarNavBar">&laquo;</a> October 2014</td></tr><tr><th class="hCalendarDayNameRow" align="center">Sun</th><th class="hCalendarDayNameRow" align="center">Mon</th><th class="hCalendarDayNameRow" align="center">Tue</th><th class="hCalendarDayNameRow" align="center">Wed</th><th class="hCalendarDayNameRow" align="center">Thu</th><th class="hCalendarDayNameRow" align="center">Fri</th><th class="hCalendarDayNameRow" align="center">Sat</th></tr><tr><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayLinked"><div class="hCalendarDayTitle"><a href="/javaone/date/20141001">1</a></div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">2</div></td><td class="hCalendarDayCurrent"><a href="/javaone/date/20141003" class="hCalendarDayTitle">3</a></td><td class="hCalendarDay"><div class="hCalendarDayTitle">4</div></td></tr><tr><td class="hCalendarDay"><div class="hCalendarDayTitle">5</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">6</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">7</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">8</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">9</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">10</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">11</div></td></tr><tr><td class="hCalendarDay"><div class="hCalendarDayTitle">12</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">13</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">14</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">15</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">16</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">17</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">18</div></td></tr><tr><td class="hCalendarDay"><div class="hCalendarDayTitle">19</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">20</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">21</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">22</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">23</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">24</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">25</div></td></tr><tr><td class="hCalendarDay"><div class="hCalendarDayTitle">26</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">27</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">28</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">29</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">30</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">31</div></td><td class="hCalendarDayNotInMonth">&nbsp;</td></tr><tr><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td></tr><tr class="hCalendarNextPrev"><td colspan="7" align="center"><a href="/javaone/" class="hCalendarNavBar">Today</a></td></tr></table>
+    </div>
+  </div>
+<!-- End Archives -->
+
+<!-- Bookmarks -->
+   <div id="bookmarkSection">
+              </div>    
+<!-- End Bookmarks -->
+
+<!-- Blog and Author Menu -->
+   <div id="menuSection">
+    <h5 class="section-title">Menu</h5>
+    <div class="section-body">
+            <ul class="rNavigationBar">
+        <li class="rNavItem">
+            <a href="/"><span>Blogs Home</span></a>
+        </li>
+        <li class="rNavItem">
+            <a href="https://blogs.oracle.com/javaone/"><span>Weblog</span></a>
+        </li>
+                                                                                                                            <li class="rNavItem">
+                    <a href="/roller-ui/login-redirect.rol"><span>Login</span></a>
+                </li>
+                        </ul>
+            </div>
+  </div>    
+<!-- End Blog and Author Menu -->
+
+    
+<!-- Feeds -->
+   <div id="feedsSection">   
+    <h5 class="section-title">Feeds</h5>
+    <div class="section-body">
+        <b>RSS</b>
+            <ul class="rFeeds">
+    <li><a href="https://blogs.oracle.com/javaone/feed/entries/rss">All</a></li>
+                        <li><a href="https://blogs.oracle.com/javaone/feed/entries/rss?cat=%2FJavaOne+2010">/JavaOne 2010</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/feed/entries/rss?cat=%2FJavaOne+2011">/JavaOne 2011</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/feed/entries/rss?cat=%2FJavaOne+2012">/JavaOne 2012</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/feed/entries/rss?cat=%2FJavaOne+2013">/JavaOne 2013</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/feed/entries/rss?cat=%2FJavaone+feed">/Javaone feed</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/feed/entries/rss?cat=%2FOracle">/Oracle</a></li>
+        <li><a href="https://blogs.oracle.com/javaone/feed/comments/rss">Comments</a></li>
+    </ul>
+        <b>Atom</b>    
+            <ul class="rFeeds">
+    <li><a href="https://blogs.oracle.com/javaone/feed/entries/atom">All</a></li>
+                        <li><a href="https://blogs.oracle.com/javaone/feed/entries/atom?cat=%2FJavaOne+2010">/JavaOne 2010</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/feed/entries/atom?cat=%2FJavaOne+2011">/JavaOne 2011</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/feed/entries/atom?cat=%2FJavaOne+2012">/JavaOne 2012</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/feed/entries/atom?cat=%2FJavaOne+2013">/JavaOne 2013</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/feed/entries/atom?cat=%2FJavaone+feed">/Javaone feed</a></li>
+                    <li><a href="https://blogs.oracle.com/javaone/feed/entries/atom?cat=%2FOracle">/Oracle</a></li>
+        <li><a href="https://blogs.oracle.com/javaone/feed/comments/atom">Comments</a></li>
+    </ul>
+    </div>
+  </div>          
+<!-- End Feeds -->    
+    
+</div>    			</div>
+
+			<!-- Footer -->
+			<div id="footer">
+				<p>The views expressed on this blog are those of the author and do not necessarily reflect the views of Oracle. <a href="http://www.oracle.com/html/terms.html">Terms of Use</a> | <a href="http://www.oracle.com/html/privacy.html">Your Privacy Rights</a> | <span id='teconsent'><script type='text/javascript' src='https://consent.truste.com/notice?domain=oracle.com&c=teconsent&language=en&text=true'></script>   </span>  </p>
+			</div>
+			<!-- Omniture Script --> 
+<!-- Start SiteCatalyst code -->
+
+<script language="JavaScript" src="/main/resource/resources/ora_blogs.js"></script>
+
+<!-- End SiteCatalyst code -->
+		</div>
+	</body>
+</html>
