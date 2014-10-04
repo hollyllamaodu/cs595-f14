@@ -1,0 +1,569 @@
+   #[1]Python Software Foundation News - Atom [2]Python Software
+   Foundation News - RSS [3]Python Software Foundation News - Atom
+
+   [4]skip to main | [5]skip to sidebar
+
+[6]Python Software Foundation News
+
+   Announcements and requests from the non-profit [7]Python Software
+   Foundation.
+
+Wednesday, July 02, 2014
+
+[8]PSF Sponsors the 10th Python Brasil Conference
+
+   The Python Software Foundation donated $4,552 USD to [9]Python Brasil
+   2014. This amount corresponds to their Gold Level sponsorship. The
+   conference will take place in Recife and Porto de Galinhas, Pernambuco.
+   They will have tutorial days November 4-5 with the main conference
+   taking place November 6-7. On November 8th, they will host a sprint
+   day. The event is being organized by the [10]Pernambuco Python User
+   Group (PUG-PE) with the help of Apyb( PythonBrazil Association)
+   The organizer's behind the event had the following to say:
+
+     Python Brasil is one of the main events about technology at Brazil
+     and Latin America related to open-source software and specially
+     about the programming language Python and its derived applications.
+     This is special year for us, since it is the 10th edition, a
+     milestone in the set of events of this magnitude and celebrates your
+     first release at the Northeast region of Brazil, which it reflects
+     the popularity of the language spreading over all Brazil. The
+     previous editions were all hosted at Southeast and south of Brazil.
+
+     The event will host several success cases of organizations using
+     Python at their activities and business, even more, it attracts to
+     Brazil a heterogeneous audience from all over Brazil and foreign
+     countries. More than 300 participants are expected to participate at
+     this meeting, which it will be distributed in several activities
+     such as the conference, desconference also known as Open Spaces, Job
+     Fair, Sprints, lighting talks, tutorials, keynotes and exposition.
+
+     The PythonBrasil is a traditional event that happens once a year. In
+     the last editions several cities already hosted the event such as
+     Brasilia (2013), Rio de Janeiro (2012), São Paulo (2011), Curitiba
+     (2010), Caixas do Sul (2009), Rio de Janeiro (2008), Joinville
+     (2007), Brasilia (2006) and Campinas (2005). Through the
+     organizations that supported the event we already had several
+     federal universities, companies and recently the commitment of the
+     Government and the federal parliament at Brasilia.
+     The last edition was one of the largest joining more than 400 Python
+     developers and open-source enthusiasts for all over Brazil. It was a
+     special edition since the event was co-hosted with the International
+     Plone Conference.
+
+     We believe this year it will be special, first it will be held at
+     Porto de Galinhas, Pernambuco, an amazing beach located 37 mi south
+     of the city of Recife, Pernambuco. With great environment for
+     joining our old friends and even making some new ones even doing
+     lots of network. In our opinion, the best part of the event will be
+     between the talks and keynotes with the discussion happening at the
+     open-spaces and our lounges covered by coffee (yeah Brazilian
+     developers loves coffee). We host several events post-conferences.
+     For instance, our Django Day, that it will be our second one, that
+     usually happens at one bar with beer, appetizers and lighting talks.
+     We are planning many other joint events, like the first Brazilian
+     meeting of the PyLadies Brazil, that started this year at Natal, Rio
+     Grande do Norte.
+
+     With great technical talks, many invited python references coming to
+     our event and lots of opportunities to meet and learn with many
+     other developers, we believe this year will be quite exciting,
+     specially an event in one of our main touristic points at Brazil.
+
+   November is a wonderful time of year to head South and visit Latin
+   America. Traveling internationally can take time to plan, so now is a
+   great time to start!
+   Posted by Mike Driscoll at [11]7/02/2014 09:49:00 AM
+   [12]Email This[13]BlogThis![14]Share to Twitter[15]Share to
+   Facebook[16]Share to Pinterest
+   PSF Sponsors the 10th Python Brasil Conference
+   The Python Software Foundation donated $4,552 USD to [17]Python Brasil
+   2014. This amount corresponds to their Gold Level sponsorship. The
+   conference will take place in Recife and Porto de Galinhas, Pernambuco.
+   They will have tutorial days November 4-5 with the main conference
+   taking place November 6-7. On November 8th, they will host a sprint
+   day. The event is being organized by the [18]Pernambuco Python User
+   Group (PUG-PE) with the help of Apyb( PythonBrazil Association)
+   The organizer's behind the event had the following to say:
+
+     Python Brasil is one of the main events about technology at Brazil
+     and Latin America related to open-source software and specially
+     about the programming language Python and its derived applications.
+     This is special year for us, since it is the 10th edition, a
+     milestone in the set of events of this magnitude and celebrates your
+     first release at the Northeast region of Brazil, which it reflects
+     the popularity of the language spreading over all Brazil. The
+     previous editions were all hosted at Southeast and south of Brazil.
+
+     The event will host several success cases of organizations using
+     Python at their activities and business, even more, it attracts to
+     Brazil a heterogeneous audience from all over Brazil and foreign
+     countries. More than 300 participants are expected to participate at
+     this meeting, which it will be distributed in several activities
+     such as the conference, desconference also known as Open Spaces, Job
+     Fair, Sprints, lighting talks, tutorials, keynotes and exposition.
+
+     The PythonBrasil is a traditional event that happens once a year. In
+     the last editions several cities already hosted the event such as
+     Brasilia (2013), Rio de Janeiro (2012), São Paulo (2011), Curitiba
+     (2010), Caixas do Sul (2009), Rio de Janeiro (2008), Joinville
+     (2007), Brasilia (2006) and Campinas (2005). Through the
+     organizations that supported the event we already had several
+     federal universities, companies and recently the commitment of the
+     Government and the federal parliament at Brasilia.
+     The last edition was one of the largest joining more than 400 Python
+     developers and open-source enthusiasts for all over Brazil. It was a
+     special edition since the event was co-hosted with the International
+     Plone Conference.
+
+     We believe this year it will be special, first it will be held at
+     Porto de Galinhas, Pernambuco, an amazing beach located 37 mi south
+     of the city of Recife, Pernambuco. With great environment for
+     joining our old friends and even making some new ones even doing
+     lots of network. In our opinion, the best part of the event will be
+     between the talks and keynotes with the discussion happening at the
+     open-spaces and our lounges covered by coffee (yeah Brazilian
+     developers loves coffee). We host several events post-conferences.
+     For instance, our Django Day, that it will be our second one, that
+     usually happens at one bar with beer, appetizers and lighting talks.
+     We are planning many other joint events, like the first Brazilian
+     meeting of the PyLadies Brazil, that started this year at Natal, Rio
+     Grande do Norte.
+
+     With great technical talks, many invited python references coming to
+     our event and lots of opportunities to meet and learn with many
+     other developers, we believe this year will be quite exciting,
+     specially an event in one of our main touristic points at Brazil.
+
+   November is a wonderful time of year to head South and visit Latin
+   America. Traveling internationally can take time to plan, so now is a
+   great time to start!
+   Please enable JavaScript to view the [19]comments powered by Disqus.
+   [20]blog comments powered by Disqus
+
+   [21]Newer Post [22]Older Post [23]Home
+   Subscribe to: [24]Post Comments (Atom)
+
+Around the Web
+
+   [25]Follow ThePSF on Twitter
+   [26][facebook.gif]
+
+Subscribe via email
+
+   Enter your email address:
+
+   ____________________
+   Subscribe
+
+   Delivered by [27]FeedBurner
+
+Blog Archive
+
+     * [28]▼  [29]2014 (13)
+          + [30]►  [31]September (1)
+          + [32]►  [33]August (2)
+          + [34]▼  [35]July (1)
+               o [36]PSF Sponsors the 10th Python Brasil Conference
+          + [37]►  [38]May (1)
+          + [39]►  [40]April (1)
+          + [41]►  [42]March (2)
+          + [43]►  [44]February (3)
+          + [45]►  [46]January (2)
+
+     * [47]►  [48]2013 (18)
+          + [49]►  [50]November (1)
+          + [51]►  [52]September (2)
+          + [53]►  [54]August (1)
+          + [55]►  [56]July (1)
+          + [57]►  [58]June (1)
+          + [59]►  [60]April (1)
+          + [61]►  [62]March (5)
+          + [63]►  [64]February (3)
+          + [65]►  [66]January (3)
+
+     * [67]►  [68]2012 (21)
+          + [69]►  [70]December (3)
+          + [71]►  [72]November (2)
+          + [73]►  [74]October (2)
+          + [75]►  [76]September (1)
+          + [77]►  [78]August (1)
+          + [79]►  [80]July (1)
+          + [81]►  [82]June (2)
+          + [83]►  [84]May (4)
+          + [85]►  [86]April (1)
+          + [87]►  [88]March (1)
+          + [89]►  [90]January (3)
+
+     * [91]►  [92]2011 (55)
+          + [93]►  [94]December (2)
+          + [95]►  [96]November (1)
+          + [97]►  [98]October (7)
+          + [99]►  [100]September (5)
+          + [101]►  [102]August (2)
+          + [103]►  [104]July (1)
+          + [105]►  [106]June (3)
+          + [107]►  [108]May (8)
+          + [109]►  [110]April (8)
+          + [111]►  [112]March (13)
+          + [113]►  [114]February (2)
+          + [115]►  [116]January (3)
+
+     * [117]►  [118]2010 (35)
+          + [119]►  [120]December (4)
+          + [121]►  [122]November (1)
+          + [123]►  [124]October (3)
+          + [125]►  [126]September (2)
+          + [127]►  [128]August (1)
+          + [129]►  [130]July (8)
+          + [131]►  [132]June (6)
+          + [133]►  [134]May (2)
+          + [135]►  [136]April (4)
+          + [137]►  [138]March (2)
+          + [139]►  [140]January (2)
+
+     * [141]►  [142]2009 (21)
+          + [143]►  [144]December (1)
+          + [145]►  [146]October (1)
+          + [147]►  [148]September (6)
+          + [149]►  [150]August (4)
+          + [151]►  [152]July (4)
+          + [153]►  [154]June (1)
+          + [155]►  [156]May (2)
+          + [157]►  [158]April (1)
+          + [159]►  [160]February (1)
+
+     * [161]►  [162]2008 (23)
+          + [163]►  [164]December (1)
+          + [165]►  [166]November (1)
+          + [167]►  [168]October (1)
+          + [169]►  [170]August (3)
+          + [171]►  [172]July (1)
+          + [173]►  [174]May (3)
+          + [175]►  [176]April (1)
+          + [177]►  [178]March (5)
+          + [179]►  [180]February (4)
+          + [181]►  [182]January (3)
+
+     * [183]►  [184]2007 (26)
+          + [185]►  [186]December (3)
+          + [187]►  [188]November (2)
+          + [189]►  [190]October (6)
+          + [191]►  [192]September (1)
+          + [193]►  [194]August (1)
+          + [195]►  [196]July (1)
+          + [197]►  [198]June (2)
+          + [199]►  [200]May (1)
+          + [201]►  [202]April (1)
+          + [203]►  [204]March (2)
+          + [205]►  [206]February (3)
+          + [207]►  [208]January (3)
+
+     * [209]►  [210]2006 (39)
+          + [211]►  [212]December (3)
+          + [213]►  [214]November (4)
+          + [215]►  [216]October (5)
+          + [217]►  [218]September (4)
+          + [219]►  [220]August (4)
+          + [221]►  [222]July (3)
+          + [223]►  [224]May (7)
+          + [225]►  [226]April (6)
+          + [227]►  [228]March (3)
+
+Contributors
+
+     * [229]Brian Curtin
+     * [230]A.M. Kuchling
+     * [231]engelbert gruber
+     * [232]Jacob Kaplan-Moss
+     * [233]Jesse
+     * [234]Doug Napoleone
+     * [235]VanL
+     * [236]Jessica McKellar
+     * [237]Mike Driscoll
+     * [238]Alfonso de la Guarda Reyes
+     * [239]tp
+     * [240]Steve
+     * [241]David Goodger
+     * [242]Michael Foord
+     * [243]Anthony Scopatz
+     * [244]Doug Hellmann
+     * [245]timothydkiser
+     * [246]Marc-Andre Lemburg
+     * [247]Paulo Nuin
+     * [248]James Tauber
+
+Copyright
+
+   [249]Creative Commons License
+   The content of Python Software Foundation News by [250]Python Software
+   Foundation is licensed under a [251]Creative Commons
+   Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+   Based on a work at [252]pyfound.blogspot.com.
+
+References
+
+   Visible links
+   1. http://pyfound.blogspot.com/feeds/posts/default
+   2. http://pyfound.blogspot.com/feeds/posts/default?alt=rss
+   3. http://pyfound.blogspot.com/feeds/8407400651353972938/comments/default
+   4. http://pyfound.blogspot.com/2014/07/psf-sponsors-10th-python-brasil.html?utm_source=feedburner#main
+   5. http://pyfound.blogspot.com/2014/07/psf-sponsors-10th-python-brasil.html?utm_source=feedburner#sidebar
+   6. http://python.org/psf/
+   7. http://python.org/psf/
+   8. http://pyfound.blogspot.com/2014/07/psf-sponsors-10th-python-brasil.html
+   9. http://2014.pythonbrasil.org.br/
+  10. https://twitter.com/pugpe
+  11. http://pyfound.blogspot.com/2014/07/psf-sponsors-10th-python-brasil.html
+  12. http://pyfound.blogspot.com/2014/07/&target=email
+  13. http://pyfound.blogspot.com/2014/07/&target=blog
+  14. http://pyfound.blogspot.com/2014/07/&target=twitter
+  15. http://pyfound.blogspot.com/2014/07/&target=facebook
+  16. http://pyfound.blogspot.com/2014/07/&target=pinterest
+  17. http://2014.pythonbrasil.org.br/
+  18. https://twitter.com/pugpe
+  19. http://disqus.com/?ref_noscript=pyfound.disqus.comhttp://pyfound.blogspot.com/2014/07/psf-sponsors-10th-python-brasil.html
+  20. http://disqus.com/
+  21. http://pyfound.blogspot.com/2014/08/barbara-shaurette-and-katie-cunningham.html
+  22. http://pyfound.blogspot.com/2014/05/psf-sponsors-scipy-2014.html
+  23. http://pyfound.blogspot.com/
+  24. http://pyfound.blogspot.com/feeds/8407400651353972938/comments/default
+  25. http://www.twitter.com/ThePSF
+  26. http://www.facebook.com/#!/pythonlang
+  27. http://feedburner.google.com/
+  28. javascript:void(0)
+  29. http://pyfound.blogspot.com/search?updated-min=2014-01-01T00:00:00-05:00&updated-max=2015-01-01T00:00:00-05:00&max-results=13
+  30. javascript:void(0)
+  31. http://pyfound.blogspot.com/2014_09_01_archive.html
+  32. javascript:void(0)
+  33. http://pyfound.blogspot.com/2014_08_01_archive.html
+  34. javascript:void(0)
+  35. http://pyfound.blogspot.com/2014_07_01_archive.html
+  36. http://pyfound.blogspot.com/2014/07/psf-sponsors-10th-python-brasil.html
+  37. javascript:void(0)
+  38. http://pyfound.blogspot.com/2014_05_01_archive.html
+  39. javascript:void(0)
+  40. http://pyfound.blogspot.com/2014_04_01_archive.html
+  41. javascript:void(0)
+  42. http://pyfound.blogspot.com/2014_03_01_archive.html
+  43. javascript:void(0)
+  44. http://pyfound.blogspot.com/2014_02_01_archive.html
+  45. javascript:void(0)
+  46. http://pyfound.blogspot.com/2014_01_01_archive.html
+  47. javascript:void(0)
+  48. http://pyfound.blogspot.com/search?updated-min=2013-01-01T00:00:00-05:00&updated-max=2014-01-01T00:00:00-05:00&max-results=18
+  49. javascript:void(0)
+  50. http://pyfound.blogspot.com/2013_11_01_archive.html
+  51. javascript:void(0)
+  52. http://pyfound.blogspot.com/2013_09_01_archive.html
+  53. javascript:void(0)
+  54. http://pyfound.blogspot.com/2013_08_01_archive.html
+  55. javascript:void(0)
+  56. http://pyfound.blogspot.com/2013_07_01_archive.html
+  57. javascript:void(0)
+  58. http://pyfound.blogspot.com/2013_06_01_archive.html
+  59. javascript:void(0)
+  60. http://pyfound.blogspot.com/2013_04_01_archive.html
+  61. javascript:void(0)
+  62. http://pyfound.blogspot.com/2013_03_01_archive.html
+  63. javascript:void(0)
+  64. http://pyfound.blogspot.com/2013_02_01_archive.html
+  65. javascript:void(0)
+  66. http://pyfound.blogspot.com/2013_01_01_archive.html
+  67. javascript:void(0)
+  68. http://pyfound.blogspot.com/search?updated-min=2012-01-01T00:00:00-05:00&updated-max=2013-01-01T00:00:00-05:00&max-results=21
+  69. javascript:void(0)
+  70. http://pyfound.blogspot.com/2012_12_01_archive.html
+  71. javascript:void(0)
+  72. http://pyfound.blogspot.com/2012_11_01_archive.html
+  73. javascript:void(0)
+  74. http://pyfound.blogspot.com/2012_10_01_archive.html
+  75. javascript:void(0)
+  76. http://pyfound.blogspot.com/2012_09_01_archive.html
+  77. javascript:void(0)
+  78. http://pyfound.blogspot.com/2012_08_01_archive.html
+  79. javascript:void(0)
+  80. http://pyfound.blogspot.com/2012_07_01_archive.html
+  81. javascript:void(0)
+  82. http://pyfound.blogspot.com/2012_06_01_archive.html
+  83. javascript:void(0)
+  84. http://pyfound.blogspot.com/2012_05_01_archive.html
+  85. javascript:void(0)
+  86. http://pyfound.blogspot.com/2012_04_01_archive.html
+  87. javascript:void(0)
+  88. http://pyfound.blogspot.com/2012_03_01_archive.html
+  89. javascript:void(0)
+  90. http://pyfound.blogspot.com/2012_01_01_archive.html
+  91. javascript:void(0)
+  92. http://pyfound.blogspot.com/search?updated-min=2011-01-01T00:00:00-05:00&updated-max=2012-01-01T00:00:00-05:00&max-results=50
+  93. javascript:void(0)
+  94. http://pyfound.blogspot.com/2011_12_01_archive.html
+  95. javascript:void(0)
+  96. http://pyfound.blogspot.com/2011_11_01_archive.html
+  97. javascript:void(0)
+  98. http://pyfound.blogspot.com/2011_10_01_archive.html
+  99. javascript:void(0)
+ 100. http://pyfound.blogspot.com/2011_09_01_archive.html
+ 101. javascript:void(0)
+ 102. http://pyfound.blogspot.com/2011_08_01_archive.html
+ 103. javascript:void(0)
+ 104. http://pyfound.blogspot.com/2011_07_01_archive.html
+ 105. javascript:void(0)
+ 106. http://pyfound.blogspot.com/2011_06_01_archive.html
+ 107. javascript:void(0)
+ 108. http://pyfound.blogspot.com/2011_05_01_archive.html
+ 109. javascript:void(0)
+ 110. http://pyfound.blogspot.com/2011_04_01_archive.html
+ 111. javascript:void(0)
+ 112. http://pyfound.blogspot.com/2011_03_01_archive.html
+ 113. javascript:void(0)
+ 114. http://pyfound.blogspot.com/2011_02_01_archive.html
+ 115. javascript:void(0)
+ 116. http://pyfound.blogspot.com/2011_01_01_archive.html
+ 117. javascript:void(0)
+ 118. http://pyfound.blogspot.com/search?updated-min=2010-01-01T00:00:00-05:00&updated-max=2011-01-01T00:00:00-05:00&max-results=35
+ 119. javascript:void(0)
+ 120. http://pyfound.blogspot.com/2010_12_01_archive.html
+ 121. javascript:void(0)
+ 122. http://pyfound.blogspot.com/2010_11_01_archive.html
+ 123. javascript:void(0)
+ 124. http://pyfound.blogspot.com/2010_10_01_archive.html
+ 125. javascript:void(0)
+ 126. http://pyfound.blogspot.com/2010_09_01_archive.html
+ 127. javascript:void(0)
+ 128. http://pyfound.blogspot.com/2010_08_01_archive.html
+ 129. javascript:void(0)
+ 130. http://pyfound.blogspot.com/2010_07_01_archive.html
+ 131. javascript:void(0)
+ 132. http://pyfound.blogspot.com/2010_06_01_archive.html
+ 133. javascript:void(0)
+ 134. http://pyfound.blogspot.com/2010_05_01_archive.html
+ 135. javascript:void(0)
+ 136. http://pyfound.blogspot.com/2010_04_01_archive.html
+ 137. javascript:void(0)
+ 138. http://pyfound.blogspot.com/2010_03_01_archive.html
+ 139. javascript:void(0)
+ 140. http://pyfound.blogspot.com/2010_01_01_archive.html
+ 141. javascript:void(0)
+ 142. http://pyfound.blogspot.com/search?updated-min=2009-01-01T00:00:00-05:00&updated-max=2010-01-01T00:00:00-05:00&max-results=21
+ 143. javascript:void(0)
+ 144. http://pyfound.blogspot.com/2009_12_01_archive.html
+ 145. javascript:void(0)
+ 146. http://pyfound.blogspot.com/2009_10_01_archive.html
+ 147. javascript:void(0)
+ 148. http://pyfound.blogspot.com/2009_09_01_archive.html
+ 149. javascript:void(0)
+ 150. http://pyfound.blogspot.com/2009_08_01_archive.html
+ 151. javascript:void(0)
+ 152. http://pyfound.blogspot.com/2009_07_01_archive.html
+ 153. javascript:void(0)
+ 154. http://pyfound.blogspot.com/2009_06_01_archive.html
+ 155. javascript:void(0)
+ 156. http://pyfound.blogspot.com/2009_05_01_archive.html
+ 157. javascript:void(0)
+ 158. http://pyfound.blogspot.com/2009_04_01_archive.html
+ 159. javascript:void(0)
+ 160. http://pyfound.blogspot.com/2009_02_01_archive.html
+ 161. javascript:void(0)
+ 162. http://pyfound.blogspot.com/search?updated-min=2008-01-01T00:00:00-05:00&updated-max=2009-01-01T00:00:00-05:00&max-results=23
+ 163. javascript:void(0)
+ 164. http://pyfound.blogspot.com/2008_12_01_archive.html
+ 165. javascript:void(0)
+ 166. http://pyfound.blogspot.com/2008_11_01_archive.html
+ 167. javascript:void(0)
+ 168. http://pyfound.blogspot.com/2008_10_01_archive.html
+ 169. javascript:void(0)
+ 170. http://pyfound.blogspot.com/2008_08_01_archive.html
+ 171. javascript:void(0)
+ 172. http://pyfound.blogspot.com/2008_07_01_archive.html
+ 173. javascript:void(0)
+ 174. http://pyfound.blogspot.com/2008_05_01_archive.html
+ 175. javascript:void(0)
+ 176. http://pyfound.blogspot.com/2008_04_01_archive.html
+ 177. javascript:void(0)
+ 178. http://pyfound.blogspot.com/2008_03_01_archive.html
+ 179. javascript:void(0)
+ 180. http://pyfound.blogspot.com/2008_02_01_archive.html
+ 181. javascript:void(0)
+ 182. http://pyfound.blogspot.com/2008_01_01_archive.html
+ 183. javascript:void(0)
+ 184. http://pyfound.blogspot.com/search?updated-min=2007-01-01T00:00:00-05:00&updated-max=2008-01-01T00:00:00-05:00&max-results=26
+ 185. javascript:void(0)
+ 186. http://pyfound.blogspot.com/2007_12_01_archive.html
+ 187. javascript:void(0)
+ 188. http://pyfound.blogspot.com/2007_11_01_archive.html
+ 189. javascript:void(0)
+ 190. http://pyfound.blogspot.com/2007_10_01_archive.html
+ 191. javascript:void(0)
+ 192. http://pyfound.blogspot.com/2007_09_01_archive.html
+ 193. javascript:void(0)
+ 194. http://pyfound.blogspot.com/2007_08_01_archive.html
+ 195. javascript:void(0)
+ 196. http://pyfound.blogspot.com/2007_07_01_archive.html
+ 197. javascript:void(0)
+ 198. http://pyfound.blogspot.com/2007_06_01_archive.html
+ 199. javascript:void(0)
+ 200. http://pyfound.blogspot.com/2007_05_01_archive.html
+ 201. javascript:void(0)
+ 202. http://pyfound.blogspot.com/2007_04_01_archive.html
+ 203. javascript:void(0)
+ 204. http://pyfound.blogspot.com/2007_03_01_archive.html
+ 205. javascript:void(0)
+ 206. http://pyfound.blogspot.com/2007_02_01_archive.html
+ 207. javascript:void(0)
+ 208. http://pyfound.blogspot.com/2007_01_01_archive.html
+ 209. javascript:void(0)
+ 210. http://pyfound.blogspot.com/search?updated-min=2006-01-01T00:00:00-05:00&updated-max=2007-01-01T00:00:00-05:00&max-results=39
+ 211. javascript:void(0)
+ 212. http://pyfound.blogspot.com/2006_12_01_archive.html
+ 213. javascript:void(0)
+ 214. http://pyfound.blogspot.com/2006_11_01_archive.html
+ 215. javascript:void(0)
+ 216. http://pyfound.blogspot.com/2006_10_01_archive.html
+ 217. javascript:void(0)
+ 218. http://pyfound.blogspot.com/2006_09_01_archive.html
+ 219. javascript:void(0)
+ 220. http://pyfound.blogspot.com/2006_08_01_archive.html
+ 221. javascript:void(0)
+ 222. http://pyfound.blogspot.com/2006_07_01_archive.html
+ 223. javascript:void(0)
+ 224. http://pyfound.blogspot.com/2006_05_01_archive.html
+ 225. javascript:void(0)
+ 226. http://pyfound.blogspot.com/2006_04_01_archive.html
+ 227. javascript:void(0)
+ 228. http://pyfound.blogspot.com/2006_03_01_archive.html
+ 229. http://www.blogger.com/profile/14604644394514192040
+ 230. http://www.blogger.com/profile/14971120963699387108
+ 231. https://plus.google.com/103916922127569633396
+ 232. http://www.blogger.com/profile/01451152285284438702
+ 233. http://www.blogger.com/profile/07543015027323408421
+ 234. http://www.blogger.com/profile/07331585381804299154
+ 235. http://www.blogger.com/profile/15361575080931041976
+ 236. http://www.blogger.com/profile/13756992050921673361
+ 237. http://www.blogger.com/profile/06351908417200979114
+ 238. https://plus.google.com/105172091805567849283
+ 239. http://www.blogger.com/profile/07627402554307001461
+ 240. http://www.blogger.com/profile/15732819755000554717
+ 241. http://www.blogger.com/profile/06673699859175469861
+ 242. http://www.blogger.com/profile/06229713779852499022
+ 243. http://www.blogger.com/profile/03855116138400732464
+ 244. http://www.blogger.com/profile/01892352754222143463
+ 245. http://www.blogger.com/profile/15283545632469437380
+ 246. http://www.blogger.com/profile/05569570562799478047
+ 247. https://plus.google.com/116670685619813088895
+ 248. http://www.blogger.com/profile/02228533729754593753
+ 249. http://creativecommons.org/licenses/by-nc-sa/3.0/
+ 250. http://www.python.org/psf/
+ 251. http://creativecommons.org/licenses/by-nc-sa/3.0/
+ 252. http://pyfound.blogspot.com/
+
+   Hidden links:
+ 254. http://pyfound.blogspot.com/
+ 255. http://www.blogger.com/email-post.g?blogID=8520&postID=8407400651353972938
+ 256. http://www.blogger.com/post-edit.g?blogID=8520&postID=8407400651353972938&from=pencil
+ 257. http://pyfound.blogspot.com/2014/07/psf-sponsors-10th-python-brasil.html?utm_source=feedburner
+ 258. http://www.blogger.com/rearrange?blogID=8520&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=sidebar
+ 259. http://www.blogger.com/rearrange?blogID=8520&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebar
+ 260. http://www.blogger.com/rearrange?blogID=8520&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar
+ 261. http://www.blogger.com/rearrange?blogID=8520&widgetType=Profile&widgetId=Profile1&action=editWidget&sectionId=sidebar
+ 262. http://www.blogger.com/rearrange?blogID=8520&widgetType=HTML&widgetId=HTML4&action=editWidget&sectionId=sidebar

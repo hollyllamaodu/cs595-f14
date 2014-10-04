@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+	<!--
+	generated 93 seconds ago
+	generated in 0.711 seconds
+	served from batcache in 0.002 seconds
+	expires in 207 seconds
+-->
+<head>
+		<meta charset="UTF-8" />
+		<meta name="robots" content="noindex, follow" />
+		<meta property="vr:canonical" content="http://variety.com/">
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<title>Advertisement</title>
+		
+<meta name="description" content="Entertainment news, film reviews, awards, film festivals, box office, entertainment industry conferences" />
+<meta name="keywords" content="marriages, births, players, tenpercenteries, spaces, real estate, lifestyle, games, variety events, exec shuffle, finance, production, obituaries, spotlight, festivals, asia, real estalker, global, box office, ratings" /><meta name="alexaVerifyID" content="4IBqfMBcohHTnitnTLanYijElhs" />
+
+<script type="text/javascript" src="//s2.wp.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/geoPosition.js?m=1392820885g"></script><script type="text/javascript" src="//s2.wp.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/pmc-utils.js?m=1404415593g"></script>			<script type="text/javascript">
+			var pmc_do_analytics_pagecount = true;		//flag to allow analytics code to count a page view
+			var pmc_common_urls = {
+				parent_theme_uri: 'http://s0.wp.com/wp-content/themes/vip/pmc-variety-2014/',
+				current_theme_uri: 'http://s0.wp.com/wp-content/themes/vip/pmc-variety-2014/',
+				fb_channel_uri: 'http://s1.wp.com/wp-content/themes/vip/pmc-plugins/partner/facebook/channel.html'
+			};
+			</script>
+
+<!-- Visual Revenue Reader Response Tracking Script (v6) -->
+<script type="text/javascript">
+	var _vrq = _vrq || [];
+	_vrq.push(['id', "437"]);
+	_vrq.push(['automate',true]);
+	_vrq.push(['track', function(){}]);
+	(function(d, a){
+		var s = d.createElement(a),
+		x = d.getElementsByTagName(a)[0];
+		s.async = true;
+		s.src = 'http://a.visualrevenue.com/vrs.js';
+		x.parentNode.insertBefore(s, x);
+	})(document, 'script');
+</script>
+<!-- End of VR RR Tracking Script - All rights reserved -->
+		<script src='//r-login.wordpress.com/remote-login.php?action=js&amp;host=variety.com&amp;id=43439658&amp;t=1412388699&amp;back=http%3A%2F%2Fvariety.com%2Finterstitial%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="alternate" type="application/rss+xml" title="Variety &raquo; Feed" href="http://variety.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Variety &raquo; Comments Feed" href="http://variety.com/comments/feed/" />
+<script type="text/javascript">
+var url_to_go_to = '';
+var ad_display_duration = 13;
+
+function pmc_ads_interruptus_back_to_site() {
+
+	var hash = location.hash;
+
+	//Some one came directly here. Or some one playing with url.
+	if (pmc.is_empty(hash)) {
+		return;
+	}
+
+	var data = {};
+
+	//Get our data
+	hash.replace(new RegExp("([^#=;]+)(=([^;]*))?", "g"), function ($0, $1, $2, $3) {
+		data[$1] = $3;
+	});
+
+	url_to_go_to = data["u"];
+
+	if ( pmc.is_empty( url_to_go_to ) ) {
+		return;
+	}
+
+	if ( window.history.length > 0 ) {
+		window.history.go( url_to_go_to );
+	}
+
+	window.location.replace( url_to_go_to );
+}
+
+function pmc_ads_interrupted_roadblock() {
+	if ( typeof pmc == 'undefined' || ! pmc ) {
+		return;
+	}
+	var home_url = "http://variety.com";
+
+	var hash = location.hash;
+
+	//Some one came directly here. Or some one playing with url.
+	if (pmc.is_empty(hash)) {
+		return;
+	}
+
+	var data = {};
+
+	//Get our data
+	hash.replace(new RegExp("([^#=;]+)(=([^;]*))?", "g"), function ($0, $1, $2, $3) {
+		data[$1] = $3;
+	});
+
+	url_to_go_to = data["u"];
+	var ck = data["k"];
+
+	if (!pmc.is_empty(url_to_go_to)) {
+
+		var url = document.createElement("a");
+		url.href = decodeURIComponent(url_to_go_to);
+
+		if (location.hostname.toLowerCase() === url.hostname.toLowerCase()) {
+			url_to_go_to = decodeURIComponent(url_to_go_to);
+		} else {
+			url_to_go_to = home_url;
+		}
+
+	} else {
+		url_to_go_to = home_url;
+	}
+
+	if (ck.indexOf("pmc-adi-") == 0) {
+		//set endpoint cookie
+		pmc.cookie.set(ck, 1, 10800, '/');
+	}
+
+	try {
+		if (typeof window.history.replaceState === 'function') {
+			window.history.replaceState(window.history.state, '', url_to_go_to + location.hash);
+		}
+	} catch (err) {}
+
+}
+
+pmc_ads_interrupted_roadblock();
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+
+		<script type="text/javascript">
+		//<![CDATA[
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-9332405-1']);
+
+		var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+		_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+
+		_gaq.push(["_setDomainName","variety.com"],["_setAllowAnchor",true]);
+
+		
+		
+		if( typeof pmc_do_analytics_pagecount == "undefined" || pmc_do_analytics_pagecount === true ) {
+	_gaq.push(["_trackPageview"]);
+}
+_gaq.push();
+
+		_gaq.push(['pmc_ga_account._setAccount','UA-1915907-50']);_gaq.push(['pmc_ga_account._require', 'inpage_linkid', pluginUrl]);_gaq.push(["pmc_ga_account._setDomainName","variety.com"],["pmc_ga_account._setAllowAnchor",true]);
+if( typeof pmc_do_analytics_pagecount == "undefined" || pmc_do_analytics_pagecount === true ) {
+	_gaq.push(["pmc_ga_account._trackPageview"]);
+}
+_gaq.push();
+
+		// GA tracking callback
+		_gaq.push(['_set', 'hitCallback', function() {
+			if ( typeof pmc === 'object' && typeof pmc.tracking === 'object' && typeof pmc.tracking.do_call_events === 'function' ) {
+				pmc.tracking.do_call_events();
+			}
+		}]);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+		//]]>
+		</script>
+		<link rel='stylesheet' id='all-css-0' href='http://s1.wp.com/wp-content/mu-plugins/likes/jetpack-likes.css?m=1408738935g' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.0-RC3' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2' href='http://s0.wp.com/_static/??-eJydUltywyAMvFAJjZvp46PTs8ggG8W8BuG0vn0JEztNPZOO+7cSu8tKID+jIK/sqJGlYpYa2JAKnneO/K50HuRvCuhyJFpIN5SiyeizzAZdIZ4oyuiUiHbsyXPFBm0sJkN1cejHldiNi0CFhKXvIuQzw6EmQFu8fb4nc/F5Vp2hATXwloxdCBlTTXgt/zI4QSLMk2ge9wdpqU2QpmqhTGC87IikD7mudgH3BukxCBsUZAr+phCdBVpH+iFN2NrQF9jXENdy/Z5HLrOQGtrwtYBN0853zk2O4ImNKDvwek7AebK45RV6sBYvO2yB/63V2MFo64f5cO/7w75pXl6fmrfjNynhGuo=' type='text/css' media='all' />
+<link rel='stylesheet' id='pmc-variety-google-webfonts-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%7CDroid+Serif%3A400%2C700%2C700italic%2C400italic&#038;ver=4.0-RC3' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-4' href='http://s2.wp.com/_static/??-eJydy0EKhSAURuENZX9eJGoQrcXkUoaW6KVw9++1gCbNzuB8uJNy5yF8CGTjyAWXT0jRqctmz1IVddog+CXbXOFKQZEauP1Xgw/av9LNYA3nYsMzzHHSRhMN1I+0/wD3SDsT' type='text/css' media='all' />
+		<script type="text/javascript" src="//www.vimg.net/jwplayer-6.8/jwplayer.js"></script>
+		<script type="text/javascript">jwplayer.key="iCsaUXUw0u1sZNDuZKdPUPLN9Gq1u0Gv7u1Rhw==";</script>
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_helpdesk_vars = {"_ajax_url":"https:\/\/pmcvariety.wordpress.com\/wp-admin\/admin-ajax.php","_activity_indicator_url":"https:\/\/pmcvariety.wordpress.com\/wp-admin\/images\/wpspin_light.gif","affirm":"Okay"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s2.wp.com/_static/??-eJyFkNsOgjAMhl/IMU1Q8cL4LHPU0bGTO0D06a1EL1SCSZM27ff3xMfA0ElTWkhck10LxNvLVTqt+BLALKooMlQW3RuW3mVwmecOLEkGDDxYyYIpCl2aYtHaZyvjRQvxW0cF689ogJUEUSjK0QIXP8MFnzLNSATNVD9PQTcgjH8xDTkI2bMICe8/XRdu6sAEelE/7Q+ukPRkj5t63dS7w3bf6AetyYbG'></script>
+<script type='text/javascript' src='http://variety.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/waypoints.js?m=1349469282g&#038;ver=1.1.7'></script>
+<script type='text/javascript' src='http://variety.com/wp-content/themes/vip/pmc-plugins/pmc-google-analytics/js/pmc-ga-event.js?m=1407846167g&#038;ver=4.0-RC3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_comscore_options = {"pageview_candidate_url":"http:\/\/variety.com\/wp-content\/themes\/vip\/pmc-plugins\/pmc-comscore\/xml\/comscore-pageview-candidate.xml"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s1.wp.com/_static/??-eJylztkOgjAQBdAfshYUTXgwfksZRmjt5rTU9O9lCby6vd25yZxc/vQMnI1oI489Ggw8Sc+9Aeb10Ekb5txp1wjNboOFKN1YqqUnNC4hiyTgLm23V2HHPxOTbNGNjchIkxaApI9fAOBMAEe4TlnvN0QSJDFmdijKiq/eWqZNXOaEf7DZAkHtj56WDQnK0/cYw+ZD7wLavXoMSHkEr+ZSVkVdn6pjcVYvIW+sXg=='></script>
+<script type='text/javascript' src='//ak.sail-horizon.com/scout/v1.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var variety_authentication_object = {"ajax_url":"https:\/\/pmcvariety.wordpress.com\/wp-admin\/admin-ajax.php","bypass_authentication":"0","session_expire_duration":"720"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var login_object = {"login_url":"https:\/\/variety.com\/digital-subscriber-access\/","enable_premier":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s0.wp.com/_static/??-eJylkEsOwjAMRC9E6gIVnwXiLCGY1i1xQuyCyulJUVeIBZ+d5fE8zRhu0bjAiqygDXoUuFKE6J252kSog1mU8wriua+JszgtJVomacwhWT4S19AKiEsUtWhlBh9Sz5T9aRjNeRRoLz2moXAhdITfgF7j2T5fs5KzSoFH/nvln7A+HDEx3VPhetHgC09/8abyHQ4xocgpZOyvvJC/YUStPhF7v5tX5XazLleLZfsAP1a30A=='></script>
+<link rel='stylesheet' id='all-css-0' href='http://s2.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621g' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='http://s2.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563g&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='http://on.variety.com/VyoYrr' />
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Variety" />
+<meta property="og:url" content="http://variety.com/" />
+<meta property="og:site_name" content="Variety" />
+<meta property="og:image" content="http://0.gravatar.com/blavatar/8181b523e3c891bc770494a0bbbe8244?s=200" />
+<meta name="twitter:site" content="@variety" />
+<meta name="twitter:card" content="summary" />
+<link rel='openid.server' href='http://pmcvariety.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://pmcvariety.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://variety.com/osd.xml" title="Variety" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com" />
+
+<style type="text/css">
+.vvqbox {
+	visibility: visible !important;
+	display: block;
+	clear: both;
+	width: 100%;
+}
+.vvqbox div {
+	margin: 10px auto;
+}
+.vvqbox img {
+	max-width: 100%;
+	height: 100%;
+}
+.vvqbox object {
+	max-width: 100%;
+}
+</style>
+<link rel="canonical" href="http://variety.com/" />
+		<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="Variety" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://variety.com/feed/;icon-uri=http://0.gravatar.com/blavatar/afbe6c08bf4c400143c9e8e30f5b923a?s=16" />		<script type="text/javascript">
+			var pmc_current_host = "variety.com";
+		</script>
+		<style type="text/css" id="syntaxhighlighteranchor"></style>
+		<!-- Quantcast Tag, part 1 --> 
+<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+})();
+</script>
+<!-- Quantcast tag End, part 1 -->
+		<script type="text/javascript">
+			function getParameterByName( name ) {
+				name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+				var regexS = "[\\?&]"+name+"=([^&#]*)";
+				var regex = new RegExp( regexS );
+				var results = regex.exec( window.location.href );
+				if ( results == null ) {
+					return "";
+				} else {
+					return decodeURIComponent( results[1].replace( /\+/g, " " ) );
+				}
+			}
+
+			function gotoback() {
+				//validate referrer!
+				var rdom = document.referrer.split("?")[0].toLowerCase();
+				rdom = rdom.split("#")[0];
+				if ( rdom.indexOf(".com", 0) < 31 ) {
+					// Get the referrer from QS , if not present, use document.referrer
+					var ref = getParameterByName("ref");
+					if ( ref == null || ref == "" ) {
+						if ( document.referrer !== "" ) {
+							ref = document.referrer;
+						}
+					}
+
+					if ( ref !== "" ) {
+						url_to_go_to = ref;
+					}
+
+					pmc_ads_interruptus_back_to_site();
+				}
+			}
+
+			var counter = ( typeof ad_display_duration !== 'undefined' ) ? ad_display_duration : 8;
+
+			function redirect_timer() {
+				if ( counter == 0 ) {
+					// to stop the counter
+					clearInterval( redirect_interval );
+					gotoback();
+					return;
+				}
+
+				document.getElementById( "pmc_ads_interruptus_timer" ).innerHTML = counter;
+
+				--counter;
+			}
+
+			var redirect_interval = setInterval( "redirect_timer()", 1000 );
+		</script>
+	</head>
+	<body id="interpage" class="home blog mp6 typekit-enabled pmc-ads-interruptus interstitial highlander-enabled highlander-light pmc-desktop pmc-no-tablet pmc-no-mobile">
+		<div id="fb-root"></div>
+
+<!-- Begin comScore Tag -->
+<noscript> <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035310&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" /> </noscript>
+<!-- End comScore Tag -->
+		<div id="container">
+
+			<header id="header" class="expanded">
+				<div class="header-inner">
+					<div class="wrap">
+						<div class="masthead">
+														<h2 class="logo interstitial-logo">
+								<a title="Continue to Variety.com" onclick="_gaq.push(['_trackEvent', 'adops-post-interstitial', 'Skip Ad', '', 0, true]);_gaq.push(['pmc_ga_account._trackEvent', 'adops-post-interstitial', 'Skip Ad', '', 0, true]);gotoback();" href="javascript:void(0);" rel="nofollow">Variety.com</a>
+							</h2>
+							<span id="timer" class="interstitial-notification">
+								Your article will display in  <span id="pmc_ads_interruptus_timer"></span> seconds								<script type="text/javascript" language="javascript">
+									redirect_timer();
+								</script>
+							</span>
+							<a title="Continue to Variety.com" onclick="_gaq.push(['_trackEvent', 'adops-post-interstitial', 'Skip Ad', '', 0, true]);_gaq.push(['pmc_ga_account._trackEvent', 'adops-post-interstitial', 'Skip Ad', '', 0, true]);gotoback();" href="javascript:void(0);" class="continue-to" rel="nofollow">Continue to Variety.com</a>
+						</div>
+					</div>
+				</div>
+			</header>
+			<div class="interstitial-notification-wrapper wrap">
+				<div id="pmc-adm-ad-interruptus" class="interstitial-ad600">
+					<div class="admz" id="adm-interstitial">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="970">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-variety-interstitial-uid0"></div>
+
+	</div>
+		</div>
+
+	</div>
+<script type="text/javascript">
+	new AdLoader('#adm-interstitial', [
+				{
+			"device": "Desktop",
+			"width": 970,
+			"height": 600		}			]);
+</script>
+				</div>
+			</div>
+		</div>
+					<script type="text/javascript">
+				var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', 'UA-9332405-1']);
+				_gaq.push(["_setDomainName","variety.com"],["_setAllowAnchor","true"]);
+				_gaq.push(["_trackPageview"],["_trackPageLoadTime"]);
+
+				_gaq.push(['pmc_ga_account._setAccount', 'UA-1915907-50']);
+				_gaq.push(["pmc_ga_account._setDomainName", "variety.com"], ["_setAllowAnchor", "true"]);
+				_gaq.push(["pmc_ga_account._trackPageview"], ["_trackPageLoadTime"]);
+
+				(function() {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+			</script>
+					<script type='text/javascript'>
+googletag.cmd.push(function() {
+
+	pmc_adm_gpt.ad_slots[ 'div-gpt-variety-interstitial-uid0' ] = googletag.defineSlot( '/3782/Variety/interstitial', [[970,600]], 'div-gpt-variety-interstitial-uid0' ).addService( googletag.pubads() );
+	googletag.pubads().setTargeting( "host", "variety.com" );
+	pmc_adm_gpt.set_skin_targetting_kw();
+
+	/**
+	 * Set location data in GPT if its available
+	 * @since 2014-02-18 Amit Gupta
+	 */
+	/*
+	 * disabled for the time being pending some reports about ads not showing up on 411
+	 * @since 2014-02-18 Amit Gupta
+	 *
+	pmc_adm_gpt.set_location();
+	*/
+
+	/**
+	 * @since 2014-07-24 Adaeze Esiobu
+	 * enable the setLocation functionality for mobile PPT-2890
+	 */
+	
+	googletag.pubads().enableSingleRequest();
+	googletag.pubads().collapseEmptyDivs();
+	googletag.enableServices();
+});
+
+googletag.cmd.push( function() {
+	googletag.display( 'div-gpt-variety-interstitial-uid0' );
+} );
+</script>
+<script type="text/javascript">
+	if ( typeof rotateAd === 'function' ) {
+		_mmc_other_rotateAd = rotateAd;
+	}
+
+	rotateAd = function ( cls ) {
+		var rotateClass = cls ? cls : 'mmc-reloadable';
+		rotateClass = '.' + rotateClass;
+		var ordnum = Math.random() * 1000000000000000000;
+
+		jQuery( rotateClass ).each( function () {
+			sourceUrl = jQuery( this ).attr( "src" );
+			sourceUrl = sourceUrl.replace( /ord=[\.0-9]+/i, "ord=" + ordnum );
+			jQuery( this ).attr( {
+									 src: sourceUrl
+								 } );
+		} );
+		if ( typeof _mmc_other_rotateAd === 'function' && _mmc_other_rotateAd != rotateAd ) {
+			try {
+				_mmc_other_rotateAd();
+			} catch(e){}
+		}
+	}
+</script>
+<script type="text/javascript">var pmc_gallery_jsdata = {"gallery_first":0,"ad_click":"1","ad_interstitial":"","interstitial_duration":"","interstitial_start":0,"shortcode":"0"};</script>		<script type="text/javascript" src="//www.vimg.net/jwplayer-6.8/jwplayer.js"></script>
+		<script type="text/javascript">jwplayer.key="iCsaUXUw0u1sZNDuZKdPUPLN9Gq1u0Gv7u1Rhw==";</script>
+		<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201440x'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s2.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781g'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+		<script type="text/javascript" src="//www.vimg.net/jwplayer-6.8/jwplayer.js"></script>
+		<script type="text/javascript">jwplayer.key="iCsaUXUw0u1sZNDuZKdPUPLN9Gq1u0Gv7u1Rhw==";</script>
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"http:\/\/pmcvariety.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/pmcvariety.wordpress.com\/wp-login.php?action=logout&_wpnonce=136e7e3632","homeURL":"http:\/\/variety.com\/","postID":"1201320945","gravDefault":"mystery","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1409006146j'></script>
+<img src="//heartbeat.pmc.com/track?host=variety.com&#038;path=/interstitial/" border="0" width="0" height="0" style="z-index: 0; bottom: -1px; left: -1px; display: inline; position: fixed;" />		<script type="text/javascript">
+			if (display_spanish_branding_overlay()) {
+				jQuery(document).ready(function () {
+					setTimeout(function () {
+						tb_show(null, "#TB_inline?height=356&width=770&inlineId=spanish-branding-modal-content", null);
+					}, 10);
+
+				});
+			}
+		</script>
+				<div id="spanish-branding-modal-content" style="display: none;">
+			<div id="dialog-modal">
+				<h1 class="modal-greeting"> Bienvenidos...</h1>
+
+				<h2>Usuarios de habla hispana por favor elijan su destino</h2>
+
+				<div class="modal-variety"><a onclick="javascript:tb_remove();"><h3>Stay on Variety.com</h3>
+						<span class="modal-variety-logo"></span><span class="modal-trailing-text">The Business of Entertainment in English.</span></a>
+				</div>
+				<div class="modal-varietylatino">
+					<a href="http://varietylatino.com/"><h3>Continúe a...</h3>
+						<span class="modal-varietylatino-logo"></span><span class="modal-trailing-text">Noticias de entretenimiento en español y con un enfoque Latino</span></a>
+				</div>
+			</div>
+		</div>
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var PushUpNotificationSettings = {"domain":"http:\/\/pmcvariety.wordpress.com","userID":"48","websitePushID":"web.com.variety.pushup","webServiceURL":"https:\/\/push.10up.com","prompt":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"1","is_single":"0","is_front_page":"1","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/s1.wp.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/s1.wp.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s2.wp.com/_static/??-eJytlNtugzAMhl9oHFdpV9OeJQS3mJk4Sxwoe/qFQtEO1TYqJIQs4/+zYztkg03QaAo1+KyNz1sAN2YBFysNmGp2kHZo0tY/ZP+IH7A+gWxRWPYoyGaLpgMTtsSrIKy5swTy5TSajYCRTBroorpHm9lOJ71yCDImZV4cMkvhhCZ+XJzzCS+pri4v7OK74UErD9/hMbCGHjXY8295lzQ2+CbYSTRbt8rtQnINL5NJ3F4YiTKKRkHtb/VFGtSvFZ9X448mrAVF+6SIpqZGjB/Q/jji/6SN8o1ulDndqa8cDx5cHYeo5T7EYm6ZP2Hl1KyOpl8H1XGFBMlczbS/OzCXjbWkNDRMNbit2/qJ7LVDK37HujiIxxpS6CNoTzCp95FY1XsgBzVaxqm++1t3q0Y9aoJyZ2icERMJ74U9Mouq4lrmabHlhhBXipJjMJdVvvwvPGtUhLLpst7gTP6VtURH5Ev3XByKssjLp/yx/QDblG+W'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>
+<!-- DO NOT REMOVE, comment for engineering, 4BAfe4nkpyAktm3S -->
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "6035310", c3: "", c4: "", c5: "", c6: "", c15: "" }); (function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();
+</script>
+<!-- End comScore Tag -->
+
+<!-- Quantcast Tag, part 2 -->
+<script type="text/javascript">
+_qevents.push([
+	{ qacct:"p-afGt7ara1nfps" }, // Variety P-code
+	{ qacct:"p-31f3D02tYU8zY" } // PMC P-Code
+]);
+</script>
+<noscript>
+	<div style="display:none;">
+		<img src="//pixel.quantserve.com/pixel?a.1=<code>&a.2=p-31f3D02tYU8zY" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- Quantcast tag End, part 2 -->
+
+<!--Heatmapping JS tag - using CrazyEgg Start -->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/4414.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<!--Heatmapping JS tag - using CrazyEgg End -->
+
+<!-- Acudeo companion banner loader script Start -->
+<script type="text/javascript" src="http://objects.tremormedia.com/embed/js/banners.js"></script>
+<script type="text/javascript">
+function displayCompanionBanners(banners) {
+	tmDisplayBanner(banners, "companionAd", 300, 250);
+}
+function hideCompanionBanners(banners) {
+   tmHideBanner("companionAd");
+}
+</script>
+<!-- Acudeo companion banner loader script End -->
+
+
+<!-- START callback function for onhashchange(when the hash tag in the url gets updated) -->
+<script type="text/javascript">
+function global_urlhashchanged() {
+		/**
+	 * Track pageview
+	 */
+	// Build the current domain name
+	var tmp_td = document.domain.split('.');
+	var tracking_domain = tmp_td[tmp_td.length-2] + "." + tmp_td[tmp_td.length-1];
+
+	// Build the current image
+	var imgname = location.hash.replace('#','');
+
+	// Track PV in GA
+	try {
+		_gaq.push(['_trackPageview',location.pathname + location.hash]);
+		_gaq.push(['pmc_ga_account._trackPageview',location.pathname + location.hash]);
+	} catch(err) {}
+
+
+	// Track Comscore
+	try {
+		setTimeout(function(){ var url = "http" + (/^https:/.test(document.location.href) ? "s" : "") + "://beacon.scorecardresearch.com/scripts/beacon.dll" + "?c1=2&amp;c2=6035310&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=" + escape(document.location.href) + "&amp;c8=" + escape(document.title) + "&amp;c9=" + escape(document.referrer) + "&amp;c10=" + escape(screen.width+'x'+screen.height) + "&amp;rn=" + (new Date()).getTime(); var i = new Image(); i.src = url; }, 1);
+
+		COMSCORE.beacon({ c1: "2", c2: "6035310", c3: "", c4: "", c5: "", c6: "", c15: ""});
+	} catch(err) {}
+
+	// Track Quantcast
+	try {
+		_qevents.push([
+			{ qacct:"p-afGt7ara1nfps" }, // Variety P-code
+			{ qacct:"p-31f3D02tYU8zY" } // PMC P-Code
+		]);
+	} catch(err) {}
+
+	/**
+	 * Track pageview end
+	 */
+}
+</script>
+
+
+<script type="text/javascript" >
+	jQuery('.search-field').keypressFocus();
+</script>
+
+
+<div id="BF_WIDGET_1">&nbsp;</div>
+<script type="text/javascript">
+(function( ){
+BF_WIDGET_JS=document.createElement("script"); BF_WIDGET_JS.type="text/javascript";
+BF_WIDGET_SRC="http://ct.buzzfeed.com/wd/UserWidget?u=variety.com&to=1&or=vb&wid=1&cb=" + (new Date()).getTime();
+setTimeout(function() {document.getElementById("BF_WIDGET_1").appendChild(BF_WIDGET_JS);BF_WIDGET_JS.src=BF_WIDGET_SRC},1);
+})();
+</script>
+<script src="//stats.wp.com/w.js?23" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({'blog':'43439658','v':'wpcom','tz':'-7','user_id':'0','subd':'pmcvariety'});
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=43439658&v=wpcomvt&tz=-7&user_id=0&subd=pmcvariety&rand="+Math.random();}
+ex_go({'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtXRThKbHcwXTdELEtdRWl+RXVuUXExbERhanBSSkFmcmN6Qj0vU1ZSWzdWJVR+LmlzYXxrYV1maD1zZi9EdU9VPz01RXAsZ0xDXU5fK1VEaF9ZbC9FcmMlSnJsNGFjXWpxMktGeT9uYU9sd051QVduRXRfSi5xWmkrS3klMSY2ZlNJaW9KU0crSUJpdng/UzlTT2s4fFJFeEZGOS5yRWxML0R1XVJIRkgvdDF0QmFdalN2UWhqUS9zZGlUcl9MV01FeDZbTy9JZyVSVnFHQWtZYWtrVXBmNA=='});
+addLoadEvent(function(){linktracker_init('43439658',0);});
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>	</body>
+</html>

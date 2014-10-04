@@ -1,0 +1,558 @@
+   #[1]Python Software Foundation News - Atom [2]Python Software
+   Foundation News - RSS [3]Python Software Foundation News - Atom
+
+   [4]skip to main | [5]skip to sidebar
+
+[6]Python Software Foundation News
+
+   Announcements and requests from the non-profit [7]Python Software
+   Foundation.
+
+Tuesday, January 14, 2014
+
+[8]Python Events Calendars - Please submit your 2014 events
+
+Introduction
+
+   As some of you may know, the PSF has put together a team of volunteers
+   who are maintaining a central Python events calendar. We currently have
+   two calendars in place:
+     * Python Events Calendar - meant for conferences and larger
+       gatherings focusing on Python or a related technology (in whole or
+       in part)
+
+     * Python User Group Calendar - meant for user group events and other
+       smaller local events
+
+   The calendars are displayed on [9]http://pycon.org/ and in a smaller
+   version in the sidebar of the [10]http://python.org/ website.
+   You can subscribe to the calendars using iCal and RSS feeds and also
+   embed the calendar widgets on your sites. Please see our wiki page for
+   details:
+      [11]https://wiki.python.org/moin/PythonEventsCalendar
+   The calendars are open to the world-wide Python community, so you can
+   have local user group events, as well as regional and international
+   conference events added to the calendars.
+
+News
+
+   Created in Oct 2012, the project has proven to be a success as you can
+   see in the past events listed in the calendars.
+   We would like to encourage everyone to submit their 2014 events, so
+   that the Python community can get a better overview over what's
+   happening in Python land.
+
+Adding Events
+
+   If you want to have entries added to those calendars, please write to
+   [12]events@python.org and include the following information:
+     * Name of the event
+     * Type of the event (conference, bar camp, user group, etc)
+     * Focus on Python and approximate size
+     * URL
+     * Location and country
+     * Date and time (if relevant)
+
+   For recurring events, please also include a description of the
+   recurrence in a way that's compatible and supported by Google
+   calendars.
+   PS: Please help spread the word about the calendars - we'll all benefit
+   from knowing more about Python events happening around the world. Feel
+   free to forward this posting to your local user groups and conference
+   teams. Thanks.
+   Posted by Marc-Andre Lemburg at [13]1/14/2014 12:27:00 PM
+   [14]Email This[15]BlogThis![16]Share to Twitter[17]Share to
+   Facebook[18]Share to Pinterest
+   Labels: [19]community, [20]conference, [21]public relations, [22]pycon,
+   [23]service, [24]user groups
+   Python Events Calendars - Please submit your 2014 events
+
+Introduction
+
+   As some of you may know, the PSF has put together a team of volunteers
+   who are maintaining a central Python events calendar. We currently have
+   two calendars in place:
+     * Python Events Calendar - meant for conferences and larger
+       gatherings focusing on Python or a related technology (in whole or
+       in part)
+
+     * Python User Group Calendar - meant for user group events and other
+       smaller local events
+
+   The calendars are displayed on [25]http://pycon.org/ and in a smaller
+   version in the sidebar of the [26]http://python.org/ website.
+   You can subscribe to the calendars using iCal and RSS feeds and also
+   embed the calendar widgets on your sites. Please see our wiki page for
+   details:
+      [27]https://wiki.python.org/moin/PythonEventsCalendar
+   The calendars are open to the world-wide Python community, so you can
+   have local user group events, as well as regional and international
+   conference events added to the calendars.
+
+News
+
+   Created in Oct 2012, the project has proven to be a success as you can
+   see in the past events listed in the calendars.
+   We would like to encourage everyone to submit their 2014 events, so
+   that the Python community can get a better overview over what's
+   happening in Python land.
+
+Adding Events
+
+   If you want to have entries added to those calendars, please write to
+   [28]events@python.org and include the following information:
+     * Name of the event
+     * Type of the event (conference, bar camp, user group, etc)
+     * Focus on Python and approximate size
+     * URL
+     * Location and country
+     * Date and time (if relevant)
+
+   For recurring events, please also include a description of the
+   recurrence in a way that's compatible and supported by Google
+   calendars.
+   PS: Please help spread the word about the calendars - we'll all benefit
+   from knowing more about Python events happening around the world. Feel
+   free to forward this posting to your local user groups and conference
+   teams. Thanks.
+   Please enable JavaScript to view the [29]comments powered by Disqus.
+   [30]blog comments powered by Disqus
+
+   [31]Newer Post [32]Older Post [33]Home
+   Subscribe to: [34]Post Comments (Atom)
+
+Around the Web
+
+   [35]Follow ThePSF on Twitter
+   [36][facebook.gif]
+
+Subscribe via email
+
+   Enter your email address:
+
+   ____________________
+   Subscribe
+
+   Delivered by [37]FeedBurner
+
+Blog Archive
+
+     * [38]▼  [39]2014 (13)
+          + [40]►  [41]September (1)
+          + [42]►  [43]August (2)
+          + [44]►  [45]July (1)
+          + [46]►  [47]May (1)
+          + [48]►  [49]April (1)
+          + [50]►  [51]March (2)
+          + [52]►  [53]February (3)
+          + [54]▼  [55]January (2)
+               o [56]Python Events Calendars - Please submit your 2014 ...
+               o [57]Support the Python Software Foundation in 2014
+
+     * [58]►  [59]2013 (18)
+          + [60]►  [61]November (1)
+          + [62]►  [63]September (2)
+          + [64]►  [65]August (1)
+          + [66]►  [67]July (1)
+          + [68]►  [69]June (1)
+          + [70]►  [71]April (1)
+          + [72]►  [73]March (5)
+          + [74]►  [75]February (3)
+          + [76]►  [77]January (3)
+
+     * [78]►  [79]2012 (21)
+          + [80]►  [81]December (3)
+          + [82]►  [83]November (2)
+          + [84]►  [85]October (2)
+          + [86]►  [87]September (1)
+          + [88]►  [89]August (1)
+          + [90]►  [91]July (1)
+          + [92]►  [93]June (2)
+          + [94]►  [95]May (4)
+          + [96]►  [97]April (1)
+          + [98]►  [99]March (1)
+          + [100]►  [101]January (3)
+
+     * [102]►  [103]2011 (55)
+          + [104]►  [105]December (2)
+          + [106]►  [107]November (1)
+          + [108]►  [109]October (7)
+          + [110]►  [111]September (5)
+          + [112]►  [113]August (2)
+          + [114]►  [115]July (1)
+          + [116]►  [117]June (3)
+          + [118]►  [119]May (8)
+          + [120]►  [121]April (8)
+          + [122]►  [123]March (13)
+          + [124]►  [125]February (2)
+          + [126]►  [127]January (3)
+
+     * [128]►  [129]2010 (35)
+          + [130]►  [131]December (4)
+          + [132]►  [133]November (1)
+          + [134]►  [135]October (3)
+          + [136]►  [137]September (2)
+          + [138]►  [139]August (1)
+          + [140]►  [141]July (8)
+          + [142]►  [143]June (6)
+          + [144]►  [145]May (2)
+          + [146]►  [147]April (4)
+          + [148]►  [149]March (2)
+          + [150]►  [151]January (2)
+
+     * [152]►  [153]2009 (21)
+          + [154]►  [155]December (1)
+          + [156]►  [157]October (1)
+          + [158]►  [159]September (6)
+          + [160]►  [161]August (4)
+          + [162]►  [163]July (4)
+          + [164]►  [165]June (1)
+          + [166]►  [167]May (2)
+          + [168]►  [169]April (1)
+          + [170]►  [171]February (1)
+
+     * [172]►  [173]2008 (23)
+          + [174]►  [175]December (1)
+          + [176]►  [177]November (1)
+          + [178]►  [179]October (1)
+          + [180]►  [181]August (3)
+          + [182]►  [183]July (1)
+          + [184]►  [185]May (3)
+          + [186]►  [187]April (1)
+          + [188]►  [189]March (5)
+          + [190]►  [191]February (4)
+          + [192]►  [193]January (3)
+
+     * [194]►  [195]2007 (26)
+          + [196]►  [197]December (3)
+          + [198]►  [199]November (2)
+          + [200]►  [201]October (6)
+          + [202]►  [203]September (1)
+          + [204]►  [205]August (1)
+          + [206]►  [207]July (1)
+          + [208]►  [209]June (2)
+          + [210]►  [211]May (1)
+          + [212]►  [213]April (1)
+          + [214]►  [215]March (2)
+          + [216]►  [217]February (3)
+          + [218]►  [219]January (3)
+
+     * [220]►  [221]2006 (39)
+          + [222]►  [223]December (3)
+          + [224]►  [225]November (4)
+          + [226]►  [227]October (5)
+          + [228]►  [229]September (4)
+          + [230]►  [231]August (4)
+          + [232]►  [233]July (3)
+          + [234]►  [235]May (7)
+          + [236]►  [237]April (6)
+          + [238]►  [239]March (3)
+
+Contributors
+
+     * [240]Brian Curtin
+     * [241]A.M. Kuchling
+     * [242]engelbert gruber
+     * [243]Jacob Kaplan-Moss
+     * [244]Jesse
+     * [245]Doug Napoleone
+     * [246]VanL
+     * [247]Jessica McKellar
+     * [248]Mike Driscoll
+     * [249]Alfonso de la Guarda Reyes
+     * [250]tp
+     * [251]Steve
+     * [252]David Goodger
+     * [253]Michael Foord
+     * [254]Anthony Scopatz
+     * [255]Doug Hellmann
+     * [256]timothydkiser
+     * [257]Marc-Andre Lemburg
+     * [258]Paulo Nuin
+     * [259]James Tauber
+
+Copyright
+
+   [260]Creative Commons License
+   The content of Python Software Foundation News by [261]Python Software
+   Foundation is licensed under a [262]Creative Commons
+   Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+   Based on a work at [263]pyfound.blogspot.com.
+
+References
+
+   Visible links
+   1. http://pyfound.blogspot.com/feeds/posts/default
+   2. http://pyfound.blogspot.com/feeds/posts/default?alt=rss
+   3. http://pyfound.blogspot.com/feeds/1960541831762249633/comments/default
+   4. http://pyfound.blogspot.com/2014/01/python-events-calendars-please-submit.html?utm_source=feedburner#main
+   5. http://pyfound.blogspot.com/2014/01/python-events-calendars-please-submit.html?utm_source=feedburner#sidebar
+   6. http://python.org/psf/
+   7. http://python.org/psf/
+   8. http://pyfound.blogspot.com/2014/01/python-events-calendars-please-submit.html
+   9. http://pycon.org/
+  10. http://python.org/
+  11. https://wiki.python.org/moin/PythonEventsCalendar
+  12. mailto:events@python.org
+  13. http://pyfound.blogspot.com/2014/01/python-events-calendars-please-submit.html
+  14. http://pyfound.blogspot.com/2014/01/&target=email
+  15. http://pyfound.blogspot.com/2014/01/&target=blog
+  16. http://pyfound.blogspot.com/2014/01/&target=twitter
+  17. http://pyfound.blogspot.com/2014/01/&target=facebook
+  18. http://pyfound.blogspot.com/2014/01/&target=pinterest
+  19. http://pyfound.blogspot.com/search/label/community
+  20. http://pyfound.blogspot.com/search/label/conference
+  21. http://pyfound.blogspot.com/search/label/public relations
+  22. http://pyfound.blogspot.com/search/label/pycon
+  23. http://pyfound.blogspot.com/search/label/service
+  24. http://pyfound.blogspot.com/search/label/user groups
+  25. http://pycon.org/
+  26. http://python.org/
+  27. https://wiki.python.org/moin/PythonEventsCalendar
+  28. mailto:events@python.org
+  29. http://disqus.com/?ref_noscript=pyfound.disqus.comhttp://pyfound.blogspot.com/2014/01/python-events-calendars-please-submit.html
+  30. http://disqus.com/
+  31. http://pyfound.blogspot.com/2014/02/psf-python-marketing-brochure-last-call.html
+  32. http://pyfound.blogspot.com/2014/01/support-python-software-foundation-in.html
+  33. http://pyfound.blogspot.com/
+  34. http://pyfound.blogspot.com/feeds/1960541831762249633/comments/default
+  35. http://www.twitter.com/ThePSF
+  36. http://www.facebook.com/#!/pythonlang
+  37. http://feedburner.google.com/
+  38. javascript:void(0)
+  39. http://pyfound.blogspot.com/search?updated-min=2014-01-01T00:00:00-05:00&updated-max=2015-01-01T00:00:00-05:00&max-results=13
+  40. javascript:void(0)
+  41. http://pyfound.blogspot.com/2014_09_01_archive.html
+  42. javascript:void(0)
+  43. http://pyfound.blogspot.com/2014_08_01_archive.html
+  44. javascript:void(0)
+  45. http://pyfound.blogspot.com/2014_07_01_archive.html
+  46. javascript:void(0)
+  47. http://pyfound.blogspot.com/2014_05_01_archive.html
+  48. javascript:void(0)
+  49. http://pyfound.blogspot.com/2014_04_01_archive.html
+  50. javascript:void(0)
+  51. http://pyfound.blogspot.com/2014_03_01_archive.html
+  52. javascript:void(0)
+  53. http://pyfound.blogspot.com/2014_02_01_archive.html
+  54. javascript:void(0)
+  55. http://pyfound.blogspot.com/2014_01_01_archive.html
+  56. http://pyfound.blogspot.com/2014/01/python-events-calendars-please-submit.html
+  57. http://pyfound.blogspot.com/2014/01/support-python-software-foundation-in.html
+  58. javascript:void(0)
+  59. http://pyfound.blogspot.com/search?updated-min=2013-01-01T00:00:00-05:00&updated-max=2014-01-01T00:00:00-05:00&max-results=18
+  60. javascript:void(0)
+  61. http://pyfound.blogspot.com/2013_11_01_archive.html
+  62. javascript:void(0)
+  63. http://pyfound.blogspot.com/2013_09_01_archive.html
+  64. javascript:void(0)
+  65. http://pyfound.blogspot.com/2013_08_01_archive.html
+  66. javascript:void(0)
+  67. http://pyfound.blogspot.com/2013_07_01_archive.html
+  68. javascript:void(0)
+  69. http://pyfound.blogspot.com/2013_06_01_archive.html
+  70. javascript:void(0)
+  71. http://pyfound.blogspot.com/2013_04_01_archive.html
+  72. javascript:void(0)
+  73. http://pyfound.blogspot.com/2013_03_01_archive.html
+  74. javascript:void(0)
+  75. http://pyfound.blogspot.com/2013_02_01_archive.html
+  76. javascript:void(0)
+  77. http://pyfound.blogspot.com/2013_01_01_archive.html
+  78. javascript:void(0)
+  79. http://pyfound.blogspot.com/search?updated-min=2012-01-01T00:00:00-05:00&updated-max=2013-01-01T00:00:00-05:00&max-results=21
+  80. javascript:void(0)
+  81. http://pyfound.blogspot.com/2012_12_01_archive.html
+  82. javascript:void(0)
+  83. http://pyfound.blogspot.com/2012_11_01_archive.html
+  84. javascript:void(0)
+  85. http://pyfound.blogspot.com/2012_10_01_archive.html
+  86. javascript:void(0)
+  87. http://pyfound.blogspot.com/2012_09_01_archive.html
+  88. javascript:void(0)
+  89. http://pyfound.blogspot.com/2012_08_01_archive.html
+  90. javascript:void(0)
+  91. http://pyfound.blogspot.com/2012_07_01_archive.html
+  92. javascript:void(0)
+  93. http://pyfound.blogspot.com/2012_06_01_archive.html
+  94. javascript:void(0)
+  95. http://pyfound.blogspot.com/2012_05_01_archive.html
+  96. javascript:void(0)
+  97. http://pyfound.blogspot.com/2012_04_01_archive.html
+  98. javascript:void(0)
+  99. http://pyfound.blogspot.com/2012_03_01_archive.html
+ 100. javascript:void(0)
+ 101. http://pyfound.blogspot.com/2012_01_01_archive.html
+ 102. javascript:void(0)
+ 103. http://pyfound.blogspot.com/search?updated-min=2011-01-01T00:00:00-05:00&updated-max=2012-01-01T00:00:00-05:00&max-results=50
+ 104. javascript:void(0)
+ 105. http://pyfound.blogspot.com/2011_12_01_archive.html
+ 106. javascript:void(0)
+ 107. http://pyfound.blogspot.com/2011_11_01_archive.html
+ 108. javascript:void(0)
+ 109. http://pyfound.blogspot.com/2011_10_01_archive.html
+ 110. javascript:void(0)
+ 111. http://pyfound.blogspot.com/2011_09_01_archive.html
+ 112. javascript:void(0)
+ 113. http://pyfound.blogspot.com/2011_08_01_archive.html
+ 114. javascript:void(0)
+ 115. http://pyfound.blogspot.com/2011_07_01_archive.html
+ 116. javascript:void(0)
+ 117. http://pyfound.blogspot.com/2011_06_01_archive.html
+ 118. javascript:void(0)
+ 119. http://pyfound.blogspot.com/2011_05_01_archive.html
+ 120. javascript:void(0)
+ 121. http://pyfound.blogspot.com/2011_04_01_archive.html
+ 122. javascript:void(0)
+ 123. http://pyfound.blogspot.com/2011_03_01_archive.html
+ 124. javascript:void(0)
+ 125. http://pyfound.blogspot.com/2011_02_01_archive.html
+ 126. javascript:void(0)
+ 127. http://pyfound.blogspot.com/2011_01_01_archive.html
+ 128. javascript:void(0)
+ 129. http://pyfound.blogspot.com/search?updated-min=2010-01-01T00:00:00-05:00&updated-max=2011-01-01T00:00:00-05:00&max-results=35
+ 130. javascript:void(0)
+ 131. http://pyfound.blogspot.com/2010_12_01_archive.html
+ 132. javascript:void(0)
+ 133. http://pyfound.blogspot.com/2010_11_01_archive.html
+ 134. javascript:void(0)
+ 135. http://pyfound.blogspot.com/2010_10_01_archive.html
+ 136. javascript:void(0)
+ 137. http://pyfound.blogspot.com/2010_09_01_archive.html
+ 138. javascript:void(0)
+ 139. http://pyfound.blogspot.com/2010_08_01_archive.html
+ 140. javascript:void(0)
+ 141. http://pyfound.blogspot.com/2010_07_01_archive.html
+ 142. javascript:void(0)
+ 143. http://pyfound.blogspot.com/2010_06_01_archive.html
+ 144. javascript:void(0)
+ 145. http://pyfound.blogspot.com/2010_05_01_archive.html
+ 146. javascript:void(0)
+ 147. http://pyfound.blogspot.com/2010_04_01_archive.html
+ 148. javascript:void(0)
+ 149. http://pyfound.blogspot.com/2010_03_01_archive.html
+ 150. javascript:void(0)
+ 151. http://pyfound.blogspot.com/2010_01_01_archive.html
+ 152. javascript:void(0)
+ 153. http://pyfound.blogspot.com/search?updated-min=2009-01-01T00:00:00-05:00&updated-max=2010-01-01T00:00:00-05:00&max-results=21
+ 154. javascript:void(0)
+ 155. http://pyfound.blogspot.com/2009_12_01_archive.html
+ 156. javascript:void(0)
+ 157. http://pyfound.blogspot.com/2009_10_01_archive.html
+ 158. javascript:void(0)
+ 159. http://pyfound.blogspot.com/2009_09_01_archive.html
+ 160. javascript:void(0)
+ 161. http://pyfound.blogspot.com/2009_08_01_archive.html
+ 162. javascript:void(0)
+ 163. http://pyfound.blogspot.com/2009_07_01_archive.html
+ 164. javascript:void(0)
+ 165. http://pyfound.blogspot.com/2009_06_01_archive.html
+ 166. javascript:void(0)
+ 167. http://pyfound.blogspot.com/2009_05_01_archive.html
+ 168. javascript:void(0)
+ 169. http://pyfound.blogspot.com/2009_04_01_archive.html
+ 170. javascript:void(0)
+ 171. http://pyfound.blogspot.com/2009_02_01_archive.html
+ 172. javascript:void(0)
+ 173. http://pyfound.blogspot.com/search?updated-min=2008-01-01T00:00:00-05:00&updated-max=2009-01-01T00:00:00-05:00&max-results=23
+ 174. javascript:void(0)
+ 175. http://pyfound.blogspot.com/2008_12_01_archive.html
+ 176. javascript:void(0)
+ 177. http://pyfound.blogspot.com/2008_11_01_archive.html
+ 178. javascript:void(0)
+ 179. http://pyfound.blogspot.com/2008_10_01_archive.html
+ 180. javascript:void(0)
+ 181. http://pyfound.blogspot.com/2008_08_01_archive.html
+ 182. javascript:void(0)
+ 183. http://pyfound.blogspot.com/2008_07_01_archive.html
+ 184. javascript:void(0)
+ 185. http://pyfound.blogspot.com/2008_05_01_archive.html
+ 186. javascript:void(0)
+ 187. http://pyfound.blogspot.com/2008_04_01_archive.html
+ 188. javascript:void(0)
+ 189. http://pyfound.blogspot.com/2008_03_01_archive.html
+ 190. javascript:void(0)
+ 191. http://pyfound.blogspot.com/2008_02_01_archive.html
+ 192. javascript:void(0)
+ 193. http://pyfound.blogspot.com/2008_01_01_archive.html
+ 194. javascript:void(0)
+ 195. http://pyfound.blogspot.com/search?updated-min=2007-01-01T00:00:00-05:00&updated-max=2008-01-01T00:00:00-05:00&max-results=26
+ 196. javascript:void(0)
+ 197. http://pyfound.blogspot.com/2007_12_01_archive.html
+ 198. javascript:void(0)
+ 199. http://pyfound.blogspot.com/2007_11_01_archive.html
+ 200. javascript:void(0)
+ 201. http://pyfound.blogspot.com/2007_10_01_archive.html
+ 202. javascript:void(0)
+ 203. http://pyfound.blogspot.com/2007_09_01_archive.html
+ 204. javascript:void(0)
+ 205. http://pyfound.blogspot.com/2007_08_01_archive.html
+ 206. javascript:void(0)
+ 207. http://pyfound.blogspot.com/2007_07_01_archive.html
+ 208. javascript:void(0)
+ 209. http://pyfound.blogspot.com/2007_06_01_archive.html
+ 210. javascript:void(0)
+ 211. http://pyfound.blogspot.com/2007_05_01_archive.html
+ 212. javascript:void(0)
+ 213. http://pyfound.blogspot.com/2007_04_01_archive.html
+ 214. javascript:void(0)
+ 215. http://pyfound.blogspot.com/2007_03_01_archive.html
+ 216. javascript:void(0)
+ 217. http://pyfound.blogspot.com/2007_02_01_archive.html
+ 218. javascript:void(0)
+ 219. http://pyfound.blogspot.com/2007_01_01_archive.html
+ 220. javascript:void(0)
+ 221. http://pyfound.blogspot.com/search?updated-min=2006-01-01T00:00:00-05:00&updated-max=2007-01-01T00:00:00-05:00&max-results=39
+ 222. javascript:void(0)
+ 223. http://pyfound.blogspot.com/2006_12_01_archive.html
+ 224. javascript:void(0)
+ 225. http://pyfound.blogspot.com/2006_11_01_archive.html
+ 226. javascript:void(0)
+ 227. http://pyfound.blogspot.com/2006_10_01_archive.html
+ 228. javascript:void(0)
+ 229. http://pyfound.blogspot.com/2006_09_01_archive.html
+ 230. javascript:void(0)
+ 231. http://pyfound.blogspot.com/2006_08_01_archive.html
+ 232. javascript:void(0)
+ 233. http://pyfound.blogspot.com/2006_07_01_archive.html
+ 234. javascript:void(0)
+ 235. http://pyfound.blogspot.com/2006_05_01_archive.html
+ 236. javascript:void(0)
+ 237. http://pyfound.blogspot.com/2006_04_01_archive.html
+ 238. javascript:void(0)
+ 239. http://pyfound.blogspot.com/2006_03_01_archive.html
+ 240. http://www.blogger.com/profile/14604644394514192040
+ 241. http://www.blogger.com/profile/14971120963699387108
+ 242. https://plus.google.com/103916922127569633396
+ 243. http://www.blogger.com/profile/01451152285284438702
+ 244. http://www.blogger.com/profile/07543015027323408421
+ 245. http://www.blogger.com/profile/07331585381804299154
+ 246. http://www.blogger.com/profile/15361575080931041976
+ 247. http://www.blogger.com/profile/13756992050921673361
+ 248. http://www.blogger.com/profile/06351908417200979114
+ 249. https://plus.google.com/105172091805567849283
+ 250. http://www.blogger.com/profile/07627402554307001461
+ 251. http://www.blogger.com/profile/15732819755000554717
+ 252. http://www.blogger.com/profile/06673699859175469861
+ 253. http://www.blogger.com/profile/06229713779852499022
+ 254. http://www.blogger.com/profile/03855116138400732464
+ 255. http://www.blogger.com/profile/01892352754222143463
+ 256. http://www.blogger.com/profile/15283545632469437380
+ 257. http://www.blogger.com/profile/05569570562799478047
+ 258. https://plus.google.com/116670685619813088895
+ 259. http://www.blogger.com/profile/02228533729754593753
+ 260. http://creativecommons.org/licenses/by-nc-sa/3.0/
+ 261. http://www.python.org/psf/
+ 262. http://creativecommons.org/licenses/by-nc-sa/3.0/
+ 263. http://pyfound.blogspot.com/
+
+   Hidden links:
+ 265. http://pyfound.blogspot.com/
+ 266. http://www.blogger.com/email-post.g?blogID=8520&postID=1960541831762249633
+ 267. http://www.blogger.com/post-edit.g?blogID=8520&postID=1960541831762249633&from=pencil
+ 268. http://pyfound.blogspot.com/2014/01/python-events-calendars-please-submit.html?utm_source=feedburner
+ 269. http://www.blogger.com/rearrange?blogID=8520&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=sidebar
+ 270. http://www.blogger.com/rearrange?blogID=8520&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebar
+ 271. http://www.blogger.com/rearrange?blogID=8520&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar
+ 272. http://www.blogger.com/rearrange?blogID=8520&widgetType=Profile&widgetId=Profile1&action=editWidget&sectionId=sidebar
+ 273. http://www.blogger.com/rearrange?blogID=8520&widgetType=HTML&widgetId=HTML4&action=editWidget&sectionId=sidebar

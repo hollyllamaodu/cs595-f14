@@ -1,0 +1,484 @@
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en" itemscope itemtype="http://schema.org/Article"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en" itemscope itemtype="http://schema.org/Article"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en" itemscope itemtype="http://schema.org/Article"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9" lang="en" itemscope itemtype="http://schema.org/Article">           <![endif]-->
+<!--[if (gt IE 9)|!(IE)]<!--><html class="no-js" lang="en" itemscope itemtype="http://schema.org/Article"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+<!--
+              .:+uuuuuuuuuuu+:.
+          ./sssssssssssssssssssss/-
+       ./aaaaaaaaaaaaaaaaaaaaaaaaaaa/.
+     .+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu+.
+   `/sssssssssssssssssssssssssssssssssss/
+  `aaaaaaaaaaaaa:-`       `-:aaaaaaaaaaaaa.
+ `uuuuuuuuuuu/.               ./uuuuuuuuuuu.
+ sssssssssss.                   .sssssssssss`
+-aaaaaaaaaa`                     `+aaaaaaaaa:
+uuuuuuuuuu.                       `uuuuuuuuuu
+ssssss-```                         ```-ssssss
+`       ....aaaaaaaaaaaaaaaaaaaaa....       `
+...+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu+...
+-ssssssssssssss+//-```                  `````
+ aaaaa+/:-`            ...aaaaaaaaaaaaaaaaaa.
+ `/-``        ..::uuuuuuuuuuuuuuuuuuuuuuuuu.
+        .:/+sssssssssssssssss-```      ````
+     /aaaaaaaaaaaaa+/:-``       ...aaaaaa
+     .+uuuuuuu/:-``        .-:/+uuuuuuu-
+       ./s/-`         -:+sssssssssss+.
+                  -/aaaaaaaaaaaaa+-`
+              .:+usausausausa+:]
+-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>Climate change gives rise to tough times</title>
+
+    
+        <meta name="description" content="Ranching and farming livelihoods are being thrown into instability, insecurity, and uncertainty.">
+    <link rel="canonical" href="http://www.barackobama.com/news-pages/climate-change-story-new-mexico/">
+
+    <meta property="og:title" content="Climate change gives rise to tough times">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://www.barackobama.com/news-pages/climate-change-story-new-mexico/">
+    <meta property="og:image" content="https://secure.assets.bostatic.com/apps/madison/media/blog_images/a0443aabcd514036ae28813ba81f3151_DougNM_FBlarge.jpg">
+    <meta property="og:site_name" content="Organizing for Action">
+    <meta property="og:description" content="Ranching and farming livelihoods are being thrown into instability, insecurity, and uncertainty.">
+
+    <meta name="twitter:card" content="summary">
+    <meta itemprop="name" content="Organizing for Action">
+
+    
+        <meta name="twitter:creator" content="@OFA">
+    
+    
+    <meta itemprop="image" content="https://secure.assets.bostatic.com/apps/madison/media/blog_images/a0443aabcd514036ae28813ba81f3151_DougNM_FBlarge.jpg">
+    <link rel="image_src" href="https://secure.assets.bostatic.com/apps/madison/media/blog_images/a0443aabcd514036ae28813ba81f3151_DougNM_FBlarge.jpg">
+    <meta name="thumbnail" content="https://secure.assets.bostatic.com/apps/madison/media/blog_images/a0443aabcd514036ae28813ba81f3151_DougNM_FBlarge.jpg" />
+
+    
+
+    <meta name="twitter:card" content="summary">
+    
+    
+        <meta name="twitter:title" content="Climate change gives rise to tough times">
+    
+    
+        <meta name="twitter:description" content="Ranching and farming livelihoods are being thrown into instability, insecurity, and uncertainty.">
+    
+    
+        <meta name="twitter:image" content="https://secure.assets.bostatic.com/apps/madison/media/filer_public/79/c0/79c0ff01-8b0f-4fdf-9971-1f1b4c995704/dougnm_twsmall.jpg">
+    
+
+
+
+
+
+
+    <meta name="twitter:site" content="@OFA">
+    <meta property="fb:page_id" content="203330919857759">
+    <meta property="fb:app_id" content="111399285589490">
+    <meta property="article:publisher" content="https://www.facebook.com/OFA" />
+
+    <link rel="publisher" href="https://plus.google.com/110031535020051778989">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="apple-touch-icon-precomposed" href="//secure.assets.bostatic.com/hydepark/images/touch-icon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//secure.assets.bostatic.com/hydepark/images/touch-icon@72x72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//secure.assets.bostatic.com/hydepark/images/touch-icon@114x114.png">
+
+    
+
+    <link rel="shortcut icon" href="//secure.assets.bostatic.com/hydepark/images/favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="//cloud.typography.com/7553052/630502/css/fonts.css" />
+    
+    <link rel="stylesheet" type="text/css" href="//secure.assets.bostatic.com/apps/madison/static/css-min/site/madison.css">
+    
+
+    <script>var _gaq=_gaq||[];_gaq.push(['_setAccount',"UA-30908-1"]);_gaq.push(['_setDomainName','barackobama.com']);_gaq.push(function(){function a(a){return(RegExp("(?:^|; )"+a+"=([^;]*)").exec(document.cookie)||[]).pop()}function b(a){_gaq.push(["_setCustomVar"].concat(a).concat(2))}location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi,function(a,c,d){"source"==c&&b([1,"Source",d])});a("msid")&&b([2,"mailing_send_id",""+(parseInt(a("msid"),16)^1438720643)]);b([5,"Logged In",""+!!a("PHPSESSID")]);b([3,"Has GUID",""+!!a("guid")]);b([4,"Has Spud",""+!!a("spud")])});_gaq.push(['_trackPageview']);_gaq.push(['_trackPageLoadTime']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+
+    <script src="https://secure.assets.bostatic.com/frontend/polyfills/vendors/modernizr.custom.32546.js"></script>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="//secure.assets.bostatic.com/apps/madison/static/js/jquery-1.7.0.min.js"><\/script>')</script>
+
+    <link rel="profile" href="http://microformats.org/profile/hcard">
+    <link rel="profile" href="http://microformats.org/profile/hcalendar">
+
+    
+
+    
+    
+    
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script></head>
+
+<body class="blog  donate-nav">
+    
+
+    <header id="action-bar" class="action-bar" role="banner">
+        <div class="row">
+            <div class="container">       
+                <nav class="logo-link">
+                    <a href="/" title="Organizing for Action Homepage" class="logo">Homepage</a>
+                    <a href="/" title="Organizing for Action Homepage" class="logo-small">Homepage</a>
+                </nav>
+                <ul class="top-tabs">
+                    <li class="top-tab"><a href="get-the-facts"><strong>Get the facts</strong></a></li>
+                    <li class="top-tab"><a href="get-the-latest"><strong>Get the latest</strong></a></li>
+                    <li class="top-tab"><a href="get-involved"><strong>Get involved</strong></a></li>
+                    <li class="tab tab-link"><a href="//store.barackobama.com/?source=home_page_main_nav"><strong>Get the Gear</strong></a></li>
+                </ul>
+                
+                <div>
+                    
+                        
+<nav class="ab-navs donate-group">
+    <a href="https://contribute.barackobama.com/" title="Donate to Organizing for Action!" class="link donate">Donate</a>
+    <a href="https://contribute.barackobama.com/" title="Donate to Organizing for Action!" class="button donate">Donate</a>
+</nav>
+
+                        
+
+<nav class="ab-navs profile-group auth">
+    <ul class="identity">
+        <li class="login">
+            <a href="https://my.barackobama.com/ctl/Constituent/login?successurl=http%3A%2F%2Fwww.barackobama.com%2F" title="Log In">Log in</a>
+        </li>
+
+        <li class="create-account">
+            <a href="https://my.barackobama.com/ctl/Constituent/login?successurl=http%3A%2F%2Fwww.barackobama.com%2F" title="Create Account">Create account</a>
+        </li>
+    </ul> 
+</nav>
+
+
+                    
+                </div>
+                
+            </div>
+        </div>
+    </header>
+
+    
+
+        <div class="row nav-row">
+            
+            <div class="row navigation overlay">
+                <div class="container">
+                    <a class="close hidden-phone" href="#"></a>
+                                        <nav>
+                        <ul>
+                            <li class="parent tab span12"><a class="mobile" href="get-the-facts">Get the facts</a>
+                                <ul>
+                                    <li class="child span3 get-the-facts-nav">
+                                        <h3 class="hidden-phone">Features</h3>
+                                        <ul>
+                                            <li><a href="/impact/" title="Impact Map">Impact Map</a></li>
+                                            <li><a href="/action-hub/" title="Action Hub">Action Hub</a></li>
+                                            <li><a href="/about/barack-obama/" title="About President Obama">About President Obama</a></li>
+                                            <li><a href="/contact-us/" title="Contact Us">Contact Us</a></li>
+                                            <li><a href="/faq/" title="Frequently Asked Questions">FAQ</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="child span3 get-the-facts-nav">
+                                        <h3 class="hidden-phone">Issues</h3>
+                                        <ul>
+                                            <li><a href="/climate/" title="Climate Change">Climate Change</a></li>
+                                            <li><a href="/gun-reform/" title="Gun Violence Prevention">Gun Violence Prevention</a></li>
+                                            <li><a href="/obamacare/" title="Health">Health Care</a></li>
+                                            <li><a href="/immigration/" title="Immigration Reform">Immigration Reform</a></li>
+                                            <li><a href="/economy/" title="Jobs and the Economy">Jobs &amp; the Economy</a></li>
+                                            <li><a href="/equality/" title="Expanding Equality">Expanding Equality</a></li>
+                                            <li><a href="/women/" title="Stand with Women">Stand with Women</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="parent tab span12"><a class="mobile" href="get-the-latest">Get the latest</a>
+                                <ul>
+                                    <li class="child span3 get-the-latest-nav">
+                                        <h3 class="hidden-phone">News</h3>
+                                        <ul>
+                                            <li><a href="/news/" title="All News">All News</a></li>
+                                            <li><a href="/news/?tags=Climate" title="Climate Change News">Climate Change</a></li>
+                                            <!--li><a href="/news/?tags=Gun-Violence-Prevention" title="Gun Violence Prevention News">Gun Violence Prevention </a></li-->
+                                            <li><a href="/obamacare/blog/" title="Health Care News">Health Care</a></li>
+                                            <li><a href="/news/?tags=Immigration" title="Immigration Reform News">Immigration Reform</a></li>
+                                            <li><a href="/economy/blog/" title="Jobs and the Economy">Jobs &amp; the Economy</a></li>
+                                            <li><a href="/news/?tags=equal-rights" title="Expanding Equality">Expanding Equality</a></li>
+                                            <li><a href="/women/blog/" title="Stand with Women">Stand with Women</a></li> 
+                                        </ul>
+                                    </li>
+                                    <li class="child span3 get-the-latest-nav">
+                                        <h3 class="hidden-phone">Connect with us</h3>
+                                        <ul>
+                                            <li><a href="http://www.facebook.com/barackobama" title="Barack Obama on Facebook" target="_blank">Barack Obama on Facebook</a></li>
+                                            <li><a href="http://www.twitter.com/barackobama" title="@BarackObama on Twitter" target="_blank">@BarackObama on Twitter</a></li>
+                                            <li><a href="http://www.twitter.com/ofa" title="@OFA on Twitter" target="_blank">@OFA on Twitter</a></li>
+                                            <li><a href="https://plus.google.com/+BarackObama/posts" title="Barack Obama on Google+" target="_blank">Barack Obama on Google+</a></li>
+                                            <li><a href="http://instagram.com/barackobama" title="Barack Obama on Instagram" target="_blank">Barack Obama on Instagram</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="parent tab span12"><a class="mobile" href="get-involved">Get involved</a>
+                                <ul>
+                                    <li class="child span3 get-involved-nav">
+                                        <h3 class="hidden-phone">Events</h3>
+                                        <ul>
+                                            <li><a href="/events/" title="Attend an Event">Attend an Event</a></li>
+                                            <li><a href="https://my.barackobama.com/page/event/create" title="Host an Event">Host an Event</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="child span3 get-involved-nav">
+                                        <h3 class="hidden-phone">Digital Organizing Tools</h3>
+                                        <ul>
+                                            <li><a href="/action-hub/" title="Action Hub">Action Hub</a></li>
+                                            <li><a href="//stories.barackobama.com/" title="Your Stories">Your Stories</a></li>
+                                            <li><a href="/obamacare/" title="Obamacare Resources">Obamacare Resources</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="parent tab span12 tab-link"><a class="mobile" href="http://store.barackobama.com/?source=home_page_main_nav">Get the Gear</a></il>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <div class="row tab-container">
+                <div class="container">
+                    <div id="hero-tabs" class="tabs hidden-phone">
+                        <ul>
+                            <li class="tab"><a href="get-the-facts"><strong>Get the facts</strong></a></li>
+                            <li class="tab"><a href="get-the-latest"><strong>Get the latest</strong></a></li>
+                            <li class="tab"><a href="get-involved"><strong>Get involved</strong></a></li>
+                            <li class="tab tab-link"><a href="//store.barackobama.com/?source=home_page_main_nav"><strong>Get the Gear</strong></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+<div class="container top-nav">
+    <section id="main" class="container" role="main">
+        <div class="row">
+             <div class="span8">
+                <div class=" hfeed module">
+                    <ul class="blog-posts">
+                        <li class="blog-post module single-page">
+                            <i></i>
+                            
+
+<article class="post" data-slug="climate-change-story-new-mexico">
+     <nav class="blog-editing alert alert-success">
+            
+        </nav>
+    <header>
+        <h2 class="entry-title"><a href="/news-pages/climate-change-story-new-mexico/" title="Climate change gives rise to tough times">Climate change gives rise to tough times</a>
+        </h2>
+
+        
+        <h3 class="entry-subtitle">
+              Ranching and farming livelihoods are being thrown into instability, insecurity, and uncertainty.
+        </h3>
+        
+        <div class="byline">
+                        <time class="published" pubdate datetime="Sept. 15, 2014, 2:43 p.m.">September 15, 2014</time>
+            
+                | <span class="author vcard fn">Doug T.</span>
+            
+        </div>
+       
+        <nav class="sharing">
+                    <ul>
+            <li class="facebook">
+                <div class="fb-like" data-href="http://www.barackobama.com/news-pages/climate-change-story-new-mexico/" data-ref="fb_like_btn" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
+            </li>
+            <li class="twitter">
+                <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.barackobama.com/news-pages/climate-change-story-new-mexico/?source=tweet_btn" data-text="Climate change gives rise to tough times for ranchers and farmers: " data-related="OFA">Tweet</a>
+            </li>
+            <li class="email">
+                <a class="email-share" href="mailto:?body=Climate%20change%20gives%20rise%20to%20tough%20times%3A%20Ranching%20and%20farming%20livelihoods%20are%20being%20thrown%20into%20instability%2C%20insecurity%2C%20and%20uncertainty.%0D%0A%0D%0Ahttp%3A%2F%2Fwww.barackobama.com/news-pages/climate-change-story-new-mexico/%3Fsource=blog_ems&amp;subject=Climate%20change%20gives%20rise%20to%20tough%20times" title="Share via Email">Share via Email</a>
+            </li>
+        </ul>
+        </nav>
+    </header>
+
+    <div class="entry-content">
+      The consequences of climate change are detailed in the news with an abundance of numbers concerning shortfalls in rain, extreme droughts, and record-high temperatures. But statistics and data fail to show the tax and torment that occurs for the farmers and ranchers like me whose livelihood is at stake.<br>
+ <br>
+         My world has been centered on that type of living since growing up on my family’s cattle ranch in northern New Mexico. That ranch helped shape the person I am today, a farmer and horse veterinarian in Mora County, New Mexico. The difference between now and then is the debilitating blow the new weather norms have had on our work. <br>
+<br>
+<img src="https://secure.assets.bostatic.com/apps/madison/media/blog_images/a025257d23eb49258df56379c4da7c16_DougNM_large.jpg"><span style="background-color: initial;">Intense heat and frequent droughts are the new challenges I have to face. The snowmelt from the southern Rockies, which has sustained our farming and ranching operation for over 40 years, has diminished due to the gradually withering snow pack. Our streams used to run deep with run-off for months this time of year, but they are just trickles now. It is heartbreaking.<br>
+<br>
+      When I was a kid, we could produce 15,000 bales of grass and alfalfa hay a year. For the last five years, we have averaged just 1,500 bales. Our ranch used to support 250 mother cows, but they all had to go because the lack of water made our grasses increasingly unproductive and incapable of supporting that many cattle.<br>
+<br>
+    Incidences of disease that correlate with the changing weather have been another crippling blow to the livestock. Cases of Pigeon Fever spike in dry weather, and cases of the vesicular stomatitis virus increase in warm weather. Those have hit our horses and cattle hard during these extraordinarily brutal summers. During one of the severe dry spells last summer, we had a herd of 130 elk die mysteriously.<br>
+<br>
+      I wonder if my family farm would have survived for 42 years if today's conditions had existed back then. Ranching has always been a tough job, but these new conditions have made it even more difficult. Ranching has never been a way to make a lot of money even in the best-case scenario, but now it is simply unsustainable.<br>
+<br>
+         I'm sharing my story to bring awareness to the consequences of climate change in hopes of inspiring people to take action. <a href="http://ofa.bo/d0sN">Share your story</a> of how climate change is affecting your community.<br>
+ <br>
+<a class="button" title="Tell your story" href="http://ofa.bo/d0sN">Tell your story</a></span>
+    </div>
+    
+            <span class="tags">
+                
+                    <a href="/news/?tags=climate" title="View more posts in Climate" rel="11">Climate</a>
+                
+            </span>
+            
+    <footer>
+        <div id="comments">
+            <div id="disqus_thread"></div>
+            <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+            </noscript>
+            <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+        </div>
+    </footer>
+</article>
+                        </li>
+                    </ul>
+
+                </div>
+            </div>
+            <div class="span4">
+                <div class="well"><div class="fb-like-box" data-href="https://www.facebook.com/barackobama" data-width="292" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false">
+</div></div>
+                
+                
+            </div>
+        </div>
+    </section>
+</div>
+
+
+
+    <footer id="ft" class=" footer">
+        <div class="navs">
+            <div class="container">
+                
+                <div class="row">
+                    <nav class="span2 about">
+                        <p class="title">About</p>
+                        <ul>
+                            <li><a href="/about/" title="About Organizing for Action">Organizing for Action</a></li>
+                            <li><a href="/about/barack-obama/" title="About Barack Obama">Barack Obama</a></li>
+                            <li><a href="/faq/" title="Frequently Asked Questions">Frequently Asked Questions</a></li>
+                            <li><a href="/careers/" title="Careers">Careers</a></li>
+                            <li><a href="http://store.barackobama.com/?source=home_page_footer" title="Store">Store</a></li>
+                        </ul>
+                    </nav>
+                    <nav class="span2 connect">
+                        <p class="title">Connect</p>
+                        <ul>
+                            <li><a href="http://www.facebook.com/BarackObama" title="Facebook" target="_blank">Facebook</a></li>
+                            <li><a href="https://plus.google.com/+BarackObama/posts" title="Google+" target="_blank">Google+</a></li>
+                            <li><a href="http://www.twitter.com/barackobama" title="Twitter" target="_blank">Twitter</a></li>
+                            <li><a href="http://www.youtube.com/organizingforaction" title="YouTube" target="_blank">YouTube</a></li>
+                        </ul>
+                    </nav>
+                    <nav class="span2 related">
+                        <p class="title">Issues</p>
+                        <ul>
+                            <li><a href="/climate/" title="Climate">Climate</a></li>
+                            <li><a href="/gun-reform/" title="Gun violence prevention">Gun violence prevention</a></li>
+                            <li><a href="/obamacare/" title="Health care">Health care</a></li>
+                            <li><a href="/immigration/" title="Immigration">Immigration</a></li>
+                            <li><a href="/economy/" title="Jobs and the economy">Jobs and the economy</a></li>
+                            <li><a href="/women/" title="Stand with women">Stand with women</a></li>
+                        </ul>
+                    </nav>
+                    <nav class="span2">
+                        <p class="title">In loving memory <br>of Alex Okrent</p>
+                    </nav>
+                    <nav class="span2">
+                        <ul class="social-follows">
+                            <li>
+                                <a href="https://twitter.com/BarackObama" class="twitter-follow-button" data-show-count="false">Follow @BarackObama</a>
+                            </li>
+                            <li>
+                                <div class="fb-like" data-href="http://www.facebook.com/BarackObama" data-send="false" data-layout="button_count" data-width="50" data-show-faces="false"></div>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+                
+            </div>
+        </div>
+        <div class="disclaimers container">
+            
+            <div class="disclaimer-links">
+                <ul>
+                    <li><a href="/terms-of-service/" title="Terms of Service">Terms of Service</a></li>
+                    <li><a href="/privacy-policy/" title="Privacy Policy">Privacy</a></li>
+                    <li><a href="/contact-us/" title="Contact Us">Contact</a></li>
+
+                </ul>
+            </div>
+            <div class="disclaimer-license">
+                
+                
+                <small class="disclaimer">Paid for by Organizing for Action</small>
+                <small class="license">&copy; 2014 Organizing for Action. All&nbsp;Rights&nbsp;Reserved.</small>
+            </div>
+            
+        </div>
+    </footer>
+    <div id="fb-root"></div>
+    
+    
+    <script>window.loadOpenGraphAPI = false;</script>
+    
+
+    
+    <script src="https://secure.assets.bostatic.com/hydepark/js/core-2014-5-24-1730.min.js" data-js-base="https://secure.assets.bostatic.com" data-identity="https://login.barackobama.com" data-bsd="https://my.barackobama.com" data-www="http://www.barackobama.com"></script>
+    <script src="//secure.assets.bostatic.com/apps/madison/static/js/madison.min.js?v=20140820-1"></script>
+    
+
+    
+
+    
+<script>
+window.disqus_shortname = 'barackobama';
+window.disqus_identifier = 'climate-change-story-new-mexico';
+window.disqus_title = 'Climate change gives rise to tough times';
+window.disqus_url = 'http://www.barackobama.com/news-pages/climate-change-story-new-mexico/';
+window.disqus_developer = 1;
+
+function track_disqus (comment) {
+    _gaq.push(['_trackEvent', 'Disqus', 'Comment', 'climate-change-story-new-mexico']);
+};
+
+function disqus_config() {
+    this.callbacks.onNewComment = [function(comment) { track_disqus(comment); }];
+}
+
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+
+    
+
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T2MC"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T2MC');</script>
+    <!-- End Google Tag Manager -->
+    
+
+    
+
+    
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"agent":"js-agent.newrelic.com/nr-476.min.js","applicationTime":96,"queueTime":2,"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","transactionName":"YlAGNkpZW0pYUEVRClsaIhdWW0FQVl0eXA9UWwMNFk5cXE5AH18AW1AWC1sWUVxNUlhUX3BbEBBBfFBNWFpdbgxQQkoFXUw=","licenseKey":"277d7e5183","applicationID":"3816732"}</script></body>
+</html>

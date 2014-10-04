@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Parleys.com</title>
+    <meta name="google-site-verification" content="8f_uoEph4ZV4eLfQRm56aw6nsfE8sUgwQ_-88QEwFgs" />    
+    <meta charset="UTF-8">
+   	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+   	<meta name="apple-mobile-web-app-capable" content="yes">
+
+    <!--[if lt IE 9]>
+    <meta http-equiv="refresh" content="0;URL=/ie.html">
+    <![endif]-->
+
+    <link href="/css/1ecb0896.main.cache.css" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript" src="/js/libs/console-shim.js" ></script>
+
+
+    <link rel="icon" href="/ico/favicon.png">
+
+    <script type="text/javascript" src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+
+    <script type="text/javascript">
+
+        // Google Analytics
+        var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-9061416-4']);
+          _gaq.push(['_setDomainName', 'none']); // to work on localhost
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+    
+    
+    
+    
+    
+    <script>
+    
+    
+// https://support.google.com/dfp_sb/answer/4623874?hl=en&ref_topic=4409240    
+ // Load GPT
+ var googletag = googletag || {};
+ googletag.cmd = googletag.cmd || [];
+ (function(){
+   var gads = document.createElement('script');
+   gads.async = true;
+   var useSSL = 'https:' == document.location.protocol;
+   gads.src = (useSSL ? 'https:' : 'http:') +
+       '//www.googletagservices.com/tag/js/gpt.js';
+   var node = document.getElementsByTagName('script')[0];
+   node.parentNode.insertBefore(gads, node);
+   })();
+</script>
+    
+
+</head>
+<body>
+
+
+    <!--[if lt IE 7]>
+    <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
+        your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a>
+        to improve your experience.</p>
+    <![endif]-->
+
+    <div class="mainWrapper" >
+
+    <div class="headerWrapper">
+           
+
+        <div class="headerContent">
+            <!-- Rendered by MainNavigationView.js -->
+
+            
+        </div>
+
+
+        
+
+
+        
+
+    </div>  
+
+    <div class="container">
+        <div class="notification container"></div>
+    </div>
+
+        
+    <div class="adContentWrapper transition" >
+        
+    </div>
+        
+        
+    <div class="teaserContentWrapper transition">
+        <div class="container teaser" >
+            <!-- Rendered by TeaserView -->
+        </div>
+    </div>
+
+    <div class="subNaviWrapper transition">
+        <div class="container subNaviContent" >
+
+        </div>
+    </div>
+
+    <div class="subContentWrapper transition">
+        <div id="subContent" class="container subContent" >
+            <div id="twoRowLayout" class="row-fluid" style="display:none">
+                <div id="subContentLeft" class="span8">
+                   
+                </div>
+
+                <div id="subContentRight" class="span4">
+                    
+                </div>
+            
+            </div>
+        </div>
+    </div>
+
+    <div id="footer" class="footerWrapper footer footerRelative">
+        <footer class="container">
+
+            <div class="row-fluid">
+
+                <div class="span2">
+                    <h4>Navigation</h4>
+                    <hr/>
+
+                    <p><a href="#home">Home</p></a>
+
+                    <p><a href="#info">About Us</a></p>
+
+                    <p><a href="#pricing">Features</p></a>
+
+                    <p><a href="#upload">Upload</a></p>
+
+                    <p><a href="http://blog.parleys.com" target="_blank">Blog</a></p>
+
+                </div>
+
+                <div class="span2">
+                    <h4>Legal Stuff</h4>
+                    <hr/>
+
+                    <p><a href="#terms">Terms of use</a></p>
+
+                    <p><a href="#privacy">Privacy Policy</a></p>
+
+                    <p>Copyright</p>
+
+                    <p><a href="https://groups.google.com/forum/?fromgroups#!forum/parleyscom" target="_blank">Community</a></p>
+                </div>
+                
+
+                <div class="span2">
+                    <h4>Connect</h4>
+                    <hr/>
+
+                    <p><a href="http://twitter.com/parleys" target="_blank" data-bypass="true"><i class="icon-twitter-sign"></i> twitter</a></p>
+
+                    <p><a href="http://www.facebook.com/pages/Parleyscom/429495607095108" target="_blank" data-bypass="true"><i class="icon-facebook-sign"></i> facebook</a></p>
+                    
+                    <p><a id="feedback-button" href="" data-bypass="true"><i class="icon-wrench"></i> bug or feature</a></p>
+
+                    <p><a href="mailto:info@parleys.com" data-bypass="true"><i class="icon-envelope"></i> info@parleys.com</a></p>
+
+                    <p><a href="http://eepurl.com/sTBq5" target="_blank" data-bypass="true"><i class="icon-info-sign"></i> newsletter</a></p>
+                </div>
+
+                <div class="span6 footerRight">
+
+                    <p></p>
+                    <p></p>
+                    <img src="/images/logo-white.png">
+                    <p></p>
+                    <p></p>
+                    <p>&copy; Parleys.com</p>
+                    <p>all content owned<br>by their creators</p>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+
+
+</div>
+
+
+
+
+<div class="leftToolbar" >
+
+</div>
+
+<div class="rightToolbar" >
+
+</div>
+
+
+<div id="registerHelp" class="modal fade">
+
+</div>
+
+<div id="resetPassword" class="modal fade">
+
+</div>
+
+
+    <!-- begin olark code -->
+<script data-cfasync="false" type='text/javascript'>/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+f[z]=function(){
+(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+0:+new Date};a.P=function(u){
+a.p[u]=new Date-a.p[0]};function s(){
+a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+b.contentWindow[g].open()}catch(w){
+c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('3952-864-10-6588');/*]]>*/</script><noscript><a href="https://www.olark.com/site/3952-864-10-6588/contact" title="Contact us" target="_blank">Questions? Feedback?</a></noscript>
+<!-- end olark code -->
+
+    <script data-main="/js/b93b04fc.main.cache.js" src="/js/libs/require/require.js"></script>
+    <script type="text/javascript" src="https://bridge.paymill.com/" async></script>
+</body>
+</html>

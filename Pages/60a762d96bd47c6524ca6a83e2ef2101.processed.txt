@@ -1,0 +1,552 @@
+   #[1]Recent Entries (Atom) [2]Recent Entries (RSS) [3]Recent Comments
+   (Atom) [4]Recent Comments (RSS)
+
+     * [5]Oracle
+     * [6]Blogs Home
+     * [7]Products & Services
+     * [8]Downloads
+     * [9]Support
+     * [10]Partners
+     * [11]Communities
+     * [12]About
+     * [13]Login
+
+Oracle Blog
+
+[14]The Oracle Mobile Platform Blog
+
+Simplifying Enterprise Mobility
+
+   « [15]Integrating Cordova... | [16]Main | [17]Property Change and... »
+
+Developing MAF Applications with OEPE
+
+By Sydney-Oracle on [18]Sep 09, 2014
+
+   Developing MAF Applications
+
+   with
+
+   Oracle Enterprise Pack for Eclipse - OEPE
+
+   As previously mentioned in Blog Entry "[19]Android and iOS development
+   comes to OEPE 12.13.1",  MAF development has certainly come to Oracle
+   Enterprise Pack for Eclipse (OEPE). In many ways the
+   development experience is very smooth and it has a clean interface.
+
+   I can understand the development community preference and mass adoption
+   of this IDE and for those of us who have become familiar with
+   JDeveloper, here are some points to get you started and introduce you
+   to the Eclipse development experience with MAF.
+
+   Getting started ... OEPE Download
+
+    As with the JDeveloper installation, OEPE should be [20]downloaded and
+   installed if a supported version of Eclipse is not already installed. I
+   will use the "Happy Path" in this entry as the [21]documentation does a
+   great job in describing the various installation options.
+
+   As the download page states there are two versions of the OEPE but you
+   should download your platform version  of the  12.1.3.1.1 with Oracle
+   Mobile Application Framework (MAF). This distribution provides the
+   traditional OEPE feature set with additional design time tools for
+   mobile application development, the MAF runtime, and MAF sample
+   applications. i.e. No need to update your installation afterwards with
+   the MAF component extensions.
+
+   Getting started ... OEPE SDK Configuration
+
+    Working with OEPE for MAF is similar to JDeveloper and as such you
+   first steps will be to configure OEPE with the path to your Mobile
+   SDKs, provide any keystore information for Android or provisioning
+   profiles for iOS projects.
+
+   The process is similar to what we've been used, except it provides some
+   smart wizards to get us through the process. From the Preferences menu
+   option, drill down to Oracle -> Mobile Application Framework and add
+   you SDK settings.
+
+   IOS SDK Configuration
+
+   MAF IOS SDK
+
+   Android SDK Configuration
+
+   MAF Android SDK settings
+
+   Notice the ADD button on each screen which allows support of multiple
+   SDKs, keystores, or provisioning profiles.
+
+   Getting Started ... Running a Sample ( O! I mean, an Example :D )
+
+    A good place to start is by verifying your configuration by deploying
+   a MAF Sample Application. This is another small but nice difference in
+   the OEPE user experience. To Open and Run a sample, simple create a new
+   MAF Example. No need to find and then extract the samples to a project
+   folder.
+
+   Create a New MAF Example Application, if this menu option is not
+   showing yet, then just select Example and then you should find the MAF
+   Example template selection item. Clicking next presents a selection of
+   examples to choose from and I would suggest for your first MAF
+   Workspace to select them all and have them conveniently located in a
+   single location.  Once you've selected the example you may create a Run
+   or Debug Configuration to deploy and test your application to a
+   configured target.
+
+   New MAF Example
+
+   Create a New MAF Example Application
+
+   The first thing you will notice after the application wizard is
+   finished is 3 sets of folders and not just 2. The wizard generates the
+   standard projects we are used to; The Application, & the ViewController
+   or simply View projects. What is new is a new deployment project, or
+   more correctly as per the documentation, the top-level assembly
+   project.
+
+   OEPE MAF Application Projects
+
+   OEPE MAF Project Folders
+
+    The assembly project holds all the related packaging and deployment
+   artifacts.  Some of the files we have had to search for in the
+   application resources view in JDeveloper, such as default images,
+   application, logging or connections settings which lived in the various
+   META-INF directories, now have a respectable consolidated area.
+
+   When you are ready to Run or Debug your mobile app then this is the
+   project to choose to have it deployed to your test simulator, emulator,
+   device or production package. To ensure that all is well with your
+   environment I would suggested running one of the examples now.
+
+   Getting Started ... Deploying a MAF Application in OEPE
+
+    In this process we don't talk about deploying an application but
+   running one on a configured target configuration. To do this, select
+   your top-assembly project (!Application && !View) and select Run As or
+   Debug As from the context menu. The configuration will defined the
+   target to build and deploy the application.
+
+   Create a configuration for each of your target by select the assembly
+   project, target platform, type of target with the required settings.
+   The Advanced options are used to further refine the application
+   settings found under the Jdeveloper Application properties ->
+   Deployment Profile -> Target (Android || IOS) Profile ->
+   Target  (Android || IOS) Options -> Application Images.
+
+   Run Configuration for IOS
+
+   IOS Run Configuration
+
+   Once defined, simply click run.
+
+   To run a configuration afterwards, simply select it from under the
+   Debug or Run icons in the IDE.  Run and Debug Icons
+
+   I'll cover configuring the Debugger later, if it proves problematic for
+   the community but from my brief encounter, debugging is quite nice
+   under eclipse and there is no need to open a secondary application to
+   view the log file being created or using the Android Monitor to filter
+   out your application messages.
+
+   Getting Started ... Creating a MAF Application in OEPE
+
+   So, what should you know about creating a MAF application in OEPE is
+   that it is fairly similar to creating one in Jdeveloper, with the
+   exception that you have the assembly project. You have different
+   perspectives to perform the various tasks based on the type of
+   component you are working on. You have the same relationship between
+   the Application and the View projects with some small differences; such
+   as the new MAF folder which houses the Data Control Manager, the editor
+   interface for the DataControl.dcx file.
+
+   MAF Assembly Project MAF Application & View Projects
+
+   In the assembly project the MAF folder displays the MAF Application
+   Editor, the editor for the maf-application.xml. This project also
+   exposes the application resource and other configuration files,
+   normally in the resources view in JDeveloper and the hidden .adf folder
+   of the application.
+
+   After the creation wizard is complete you will have everything you need
+   to start developing your MAF application, except the connections.xml
+   file which is used to keep track of your application resource links.
+   The easiest way to create this file is from the MAF Application Editor.
+   Once the editor is open, select the security component or tab, for lack
+   of a better term, and you will find a hyper link for the
+   connections.xml file which is also used to store URL White Lists.
+   Simply select the link and you will be prompted to create the
+   connections.xml.
+
+   Create Connections.xml
+
+   Create Connections.xml from the MAF Application Editor
+
+   Getting this created was the easy part and for  SOAP based resources
+   this ease of use continues but for those focused on the consumption of
+   Restful services, you will have to create the connection entry
+   manually. I will provide a sample connect entry at the end for those of
+   you who do not have access to Jdeveloper and the Rest Data Control
+   wizard.
+
+   This feature will be released in a future version of OEPE for MAF but
+   once the connection URL has been added, consuming, transforming and
+   exposing the Restful services and data is the same process and APIs.
+
+   Some other differences to mention are:
+
+     * The Palette area combines the Component and Data Control
+       perspectives in Jdeveloper
+     * The Structure pane is called Outline, which shows the xml document
+       format and not the component type icons, which make it easier to
+       develop pages/views as in JDeverloper. You can still edit your
+       page/view in this manner but be careful to read the component text
+       and its level before dropping your new component onto the page.
+     * Flow actions, defined in your task flow, are only listed in the
+       "Select a Value" / "Select an Outcome" screen and not in the drop
+       down list of the action property. The pulldown only list "__back",
+       the default return action
+     * The Console window has multiple views and you will need to click /
+       select it to switch between the build/deployment view and the
+       running application log view
+     * To debug your application you need to configure a Remote Java
+       Application configuration to connect to the Debug port connection
+       property
+     * To Debug your application, start the application first then the
+       debugger
+
+   Summary
+
+    To wrap up, I'd just like to say that OEPE development experience for
+   MAF is good and only lacks a few wizards found in JDeveloper. It
+   supports multiple SDK environments and versions as well as keystone and
+   provisioning profiles, which will come in handy for customer
+   development projects.
+
+   The integrated log console view is great as well as the debugger for
+   the application's java code. The only negative exception is the lack of
+   wizard to add Rest URL connections, which I hope we will see released
+   soon. For a first release this is great start and I look forward to
+   seeing what the future holds for both OEPE and MAF development.
+
+   Please add your experiences and comments, so the PMs can keep improving
+   OEPE and MAF in general.
+
+   Regards Sydney
+
+   Sample Connections.xml with a Rest URL connection defined
+
+
+   <References xmlns="http://xmlns.oracle.com/adf/jndi">
+     <Reference name="SampleRestServicesURL"
+   className="oracle.adf.model.connection.rest.RestConnection" xmlns="">
+       <Factory
+   className="oracle.adf.model.connection.rest.RestConnectionFactory"/>
+       <RefAddresses>
+         <XmlRefAddr addrType="SampleRestServicesURL">
+           <Contents>
+             <restconnection name="SampleRestServicesURL"
+
+   url="http://127.0.0.1:7101/SampleRestServices/SampleRestServices/"/>
+           </Contents>
+         </XmlRefAddr>
+       </RefAddresses>
+     </Reference>
+   </References>
+
+   Category: Oracle MAF
+
+   Tags: [22]maf [23]oepe
+
+   [24]Permanent link to this entry
+   « [25]Integrating Cordova... | [26]Main | [27]Property Change and... »
+   Comments:
+   Post a Comment:
+     * Name: __________________________________________________
+     * E-Mail: __________________________________________________
+     * URL: __________________________________________________
+     * [ ] Notify me by email of new comments
+     * [ ] Remember Information?
+     * Your Comment:
+       ________________________________________
+       ________________________________________
+       ________________________________________
+       ________________________________________
+       ________________________________________
+       ________________________________________
+       ________________________________________
+       ________________________________________
+       ________________________________________
+       ________________________________________
+     * HTML Syntax: NOT allowed
+     *
+     * [BUTTON Input] (not implemented)_________ Post
+
+About
+
+   This blog is is dedicated to announcements,tips and tricks and other
+   items related to developing, integrating, securing, and managing mobile
+   applications using [28]Oracle's Mobile Platform. It is created and
+   maintained by the Oracle Mobile product development team.
+   [29]Archive of past entries
+   [30]Even More Mobile Development Blogs
+   [31]Oracle A-Team Site - Mobile Related Entries
+   [32]Code samples from the Community
+   [33]Fusion Middleware Blogs
+
+Search
+
+   Enter search term:
+   ____________________ Submit Search Search filtering requires JavaScript
+
+Recent Posts
+
+     * [34]Changes to Apple App Store validation criteria
+     * [35]New Oracle Mobile Application Framework Version (2.0.1) Now
+       Available
+     * [36]Get your hands on Oracle Mobile Development at Open World!
+     * [37]Mobilizing E-Business Suite with Oracle MAF and FMW at OOW 14
+     * [38]Property Change and Provider Change events in Oracle MAF
+     * [39]Developing MAF Applications with OEPE
+     * [40]Integrating Cordova Plugin with Oracle MAF - iOS Calendar
+       Plugin
+     * [41]New MAF Episode on Listeners and Events.
+     * [42]UKOUG Running Mobile Focused Special Interest Group
+     * [43]Everything you need to know about Oracle MAF security features
+
+Top Tags
+
+     * [44]12
+     * [45]12c
+     * [46]4.3
+     * [47]adf
+     * [48]andriod
+     * [49]android
+     * [50]apn
+     * [51]app
+     * [52]apple
+     * [53]application
+     * [54]appstore
+     * [55]architecture
+     * [56]bus
+     * [57]charts
+     * [58]configuration
+     * [59]debugging
+     * [60]design
+     * [61]disable
+     * [62]dojo
+     * [63]eclipse
+     * [64]enable
+     * [65]event
+     * [66]events
+     * [67]feature
+     * [68]fff
+     * [69]framework
+     * [70]gcm
+     * [71]google
+     * [72]hands
+     * [73]html5
+     * [74]hudson
+     * [75]ios
+     * [76]ios7
+     * [77]ipad
+     * [78]iphone
+     * [79]java
+     * [80]javascript
+     * [81]jdeveloper
+     * [82]jquery
+     * [83]lab
+     * [84]listview
+     * [85]maf
+     * [86]mobile
+     * [87]oepe
+     * [88]oow
+     * [89]oracle
+     * [90]rest
+     * [91]service
+     * [92]soap
+     * [93]xcode
+
+Categories
+
+     * [94]Oracle
+
+     * [95]ADF Mobile
+     * [96]OSB
+     * [97]Oracle MAF
+
+Archives
+
+       [98]« October 2014
+   Sun Mon Tue Wed Thu Fri Sat
+
+               1
+                   2
+                       3
+                           4
+   5
+       6
+           7
+               8
+                   9
+                       10
+                           11
+   12
+       13
+           14
+               15
+                   16
+                       17
+                           18
+   19
+       20
+           21
+               22
+                   23
+                       24
+                           25
+   26
+       27
+           28
+               29
+                   30
+                       31
+
+
+           [99]Today
+
+Menu
+
+     * [100]Blogs Home
+     * [101]Weblog
+     * [102]Login
+
+Feeds
+
+   RSS
+     * [103]All
+     * [104]/Oracle
+     * [105]Comments
+
+   Atom
+     * [106]All
+     * [107]/Oracle
+     * [108]Comments
+
+   The views expressed on this blog are those of the author and do not
+   necessarily reflect the views of Oracle. [109]Terms of Use | [110]Your
+   Privacy Rights |
+
+References
+
+   1. https://blogs.oracle.com/mobile/feed/entries/atom
+   2. https://blogs.oracle.com/mobile/feed/entries/rss
+   3. https://blogs.oracle.com/mobile/feed/comments/atom
+   4. https://blogs.oracle.com/mobile/feed/comments/rss
+   5. http://www.oracle.com/
+   6. https://blogs.oracle.com/
+   7. http://www.oracle.com/us/products/index.html
+   8. http://www.oracle.com/technetwork/indexes/downloads/index.html
+   9. http://www.oracle.com/us/support/index.html
+  10. http://www.oracle.com/us/partnerships/index.html
+  11. http://www.oracle.com/us/community/index.html
+  12. http://www.oracle.com/us/corporate/index.html
+  13. https://blogs.oracle.com/roller-ui/login-redirect.rol
+  14. https://blogs.oracle.com/mobile/
+  15. https://blogs.oracle.com/mobile/entry/integrating_cordova_plugin_with_oracle1
+  16. https://blogs.oracle.com/mobile/
+  17. https://blogs.oracle.com/mobile/entry/property_change_and_provider_change
+  18. https://blogs.oracle.com/mobile/entry/developing_maf_applications_with_oepe?utm_source=dlvr.it
+  19. https://blogs.oracle.com/oepe/entry/android_and_ios_development_comes
+  20. http://www.oracle.com/technetwork/developer-tools/eclipse/downloads/index.html
+  21. http://docs.oracle.com/cd/E50457_02/12131/OEPUG/install.htm
+  22. https://blogs.oracle.com/mobile/tags/maf
+  23. https://blogs.oracle.com/mobile/tags/oepe
+  24. https://blogs.oracle.com/mobile/entry/developing_maf_applications_with_oepe
+  25. https://blogs.oracle.com/mobile/entry/integrating_cordova_plugin_with_oracle1
+  26. https://blogs.oracle.com/mobile/
+  27. https://blogs.oracle.com/mobile/entry/property_change_and_provider_change
+  28. http://www.oracle.com/mobileplatform
+  29. https://blogs.oracle.com/mobile/resource/archive.html
+  30. https://pinboard.in/u:OracleADF/t:mobile
+  31. http://www.ateam-oracle.com/?cat=1447
+  32. http://java.net/projects/smuenchadf/pages/ADFMobile#ADF_Mobile
+  33. https://blogs.oracle.com/fusionmiddleware
+  34. https://blogs.oracle.com/mobile/entry/changes_to_apple_app_store
+  35. https://blogs.oracle.com/mobile/entry/new_mobile_application_framework_version
+  36. https://blogs.oracle.com/mobile/entry/get_your_hands_on_oracle
+  37. https://blogs.oracle.com/mobile/entry/mobilizing_e_business_suite_with
+  38. https://blogs.oracle.com/mobile/entry/property_change_and_provider_change
+  39. https://blogs.oracle.com/mobile/entry/developing_maf_applications_with_oepe
+  40. https://blogs.oracle.com/mobile/entry/integrating_cordova_plugin_with_oracle1
+  41. https://blogs.oracle.com/mobile/entry/new_maf_episode_on_listeners
+  42. https://blogs.oracle.com/mobile/entry/ukoug_running_mobile_focused_special
+  43. https://blogs.oracle.com/mobile/entry/everything_you_need_to_know
+  44. https://blogs.oracle.com/mobile/tags/12
+  45. https://blogs.oracle.com/mobile/tags/12c
+  46. https://blogs.oracle.com/mobile/tags/4.3
+  47. https://blogs.oracle.com/mobile/tags/adf
+  48. https://blogs.oracle.com/mobile/tags/andriod
+  49. https://blogs.oracle.com/mobile/tags/android
+  50. https://blogs.oracle.com/mobile/tags/apn
+  51. https://blogs.oracle.com/mobile/tags/app
+  52. https://blogs.oracle.com/mobile/tags/apple
+  53. https://blogs.oracle.com/mobile/tags/application
+  54. https://blogs.oracle.com/mobile/tags/appstore
+  55. https://blogs.oracle.com/mobile/tags/architecture
+  56. https://blogs.oracle.com/mobile/tags/bus
+  57. https://blogs.oracle.com/mobile/tags/charts
+  58. https://blogs.oracle.com/mobile/tags/configuration
+  59. https://blogs.oracle.com/mobile/tags/debugging
+  60. https://blogs.oracle.com/mobile/tags/design
+  61. https://blogs.oracle.com/mobile/tags/disable
+  62. https://blogs.oracle.com/mobile/tags/dojo
+  63. https://blogs.oracle.com/mobile/tags/eclipse
+  64. https://blogs.oracle.com/mobile/tags/enable
+  65. https://blogs.oracle.com/mobile/tags/event
+  66. https://blogs.oracle.com/mobile/tags/events
+  67. https://blogs.oracle.com/mobile/tags/feature
+  68. https://blogs.oracle.com/mobile/tags/fff
+  69. https://blogs.oracle.com/mobile/tags/framework
+  70. https://blogs.oracle.com/mobile/tags/gcm
+  71. https://blogs.oracle.com/mobile/tags/google
+  72. https://blogs.oracle.com/mobile/tags/hands
+  73. https://blogs.oracle.com/mobile/tags/html5
+  74. https://blogs.oracle.com/mobile/tags/hudson
+  75. https://blogs.oracle.com/mobile/tags/ios
+  76. https://blogs.oracle.com/mobile/tags/ios7
+  77. https://blogs.oracle.com/mobile/tags/ipad
+  78. https://blogs.oracle.com/mobile/tags/iphone
+  79. https://blogs.oracle.com/mobile/tags/java
+  80. https://blogs.oracle.com/mobile/tags/javascript
+  81. https://blogs.oracle.com/mobile/tags/jdeveloper
+  82. https://blogs.oracle.com/mobile/tags/jquery
+  83. https://blogs.oracle.com/mobile/tags/lab
+  84. https://blogs.oracle.com/mobile/tags/listview
+  85. https://blogs.oracle.com/mobile/tags/maf
+  86. https://blogs.oracle.com/mobile/tags/mobile
+  87. https://blogs.oracle.com/mobile/tags/oepe
+  88. https://blogs.oracle.com/mobile/tags/oow
+  89. https://blogs.oracle.com/mobile/tags/oracle
+  90. https://blogs.oracle.com/mobile/tags/rest
+  91. https://blogs.oracle.com/mobile/tags/service
+  92. https://blogs.oracle.com/mobile/tags/soap
+  93. https://blogs.oracle.com/mobile/tags/xcode
+  94. https://blogs.oracle.com/mobile/category/Oracle
+  95. https://blogs.oracle.com/mobile/category/Oracle/ADF+Mobile
+  96. https://blogs.oracle.com/mobile/category/Oracle/OSB
+  97. https://blogs.oracle.com/mobile/category/Oracle/Oracle+MAF
+  98. https://blogs.oracle.com/mobile/date/201409
+  99. https://blogs.oracle.com/mobile/
+ 100. https://blogs.oracle.com/
+ 101. https://blogs.oracle.com/mobile/
+ 102. https://blogs.oracle.com/roller-ui/login-redirect.rol
+ 103. https://blogs.oracle.com/mobile/feed/entries/rss
+ 104. https://blogs.oracle.com/mobile/feed/entries/rss?cat=/Oracle
+ 105. https://blogs.oracle.com/mobile/feed/comments/rss
+ 106. https://blogs.oracle.com/mobile/feed/entries/atom
+ 107. https://blogs.oracle.com/mobile/feed/entries/atom?cat=/Oracle
+ 108. https://blogs.oracle.com/mobile/feed/comments/atom
+ 109. http://www.oracle.com/html/terms.html
+ 110. http://www.oracle.com/html/privacy.html

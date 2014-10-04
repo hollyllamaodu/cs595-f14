@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--
+	generated in 0.246 seconds
+	44743 bytes batcached for 300 seconds
+-->
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width" />
+	<title>7 charts show how climate change is impacting everything already | ideas.ted.com</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://ideas.ted.com/xmlrpc.php" />
+
+	
+<meta name="description" content="Charts from the 2014 UN/IPCC report on climate change, decoded for non-scientist mortals to understand." /><meta name="news_keywords" content="climate change, climate crisis, change, IPCC, United Nations, Intergovernmental Panel on Climate Change, Working Group II, adaptation, mitigation" />
+<meta name="keywords" content="climate change, climate crisis, change, ipcc, united nations, intergovernmental panel on climate change, working group ii, adaptation, mitigation" />
+		<script src='//r-login.wordpress.com/remote-login.php?action=js&amp;host=ideas.ted.com&amp;id=66840750&amp;t=1412388968&amp;back=http%3A%2F%2Fideas.ted.com%2F2014%2F05%2F02%2F8-charts-show-how-climate-change-is-already-impacting-everything%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="alternate" type="application/rss+xml" title="ideas.ted.com &raquo; Feed" href="http://ideas.ted.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ideas.ted.com &raquo; Comments Feed" href="http://ideas.ted.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<link rel='stylesheet' id='all-css-0' href='http://s2.wp.com/_static/??-eJx9kNFuwjAMRX9omUUZfZv4lpCY1CWuo9qh4u+XVkwTgvFi+Vrn2leGpbggk+FkwNWVXBNNCsqU8VZmGTHYo/oMqh/w2pbpggojWvHh4jb1hJ+ypD+DpIRRqrmz5CwLLBQTvr0RZMY25+JtJRgjeczIDXtn49L/utZ2aAGfs9nQ9ihcqYBhdBTRt1/YLeN/aJmRqTKUesqkA85AU4Bzg3SrfkEVxq13d7HuOvL37mvX7btD33fjD66fkp0=' type='text/css' media='all' />
+<link rel='stylesheet' id='publisher-fonts-css'  href='//fonts.googleapis.com/css?family=Arimo%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2' href='http://s2.wp.com/_static/??-eJyNj10KwkAMhC/kGouV6oN4lm2bbiPZHzap4u3dgopSFN9mwjdhBq7JdDEoBgUd0aNAyuhp8pCmlklGzCB6Y1x3IitY4hdKoNgb6tEKFAgysp0vKYrK/7GhAH/ib4UIQlQqtLzE4oefTOLJUWEcRsOxs0oxfBgzsKX8K5qx5eiKdI+VT/ut81iD49hanoGTP1Z1tWkO+2a3Pd8B/5iLdQ==' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LoggedOutFollow = {"invalid_email":"Your subscription did not succeed, please try again with a valid email address."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s1.wp.com/_static/??-eJyFj90OwiAMhV9IZFs08cb4LNvoSBEoUpDo08sSNTpNdtW/7/S0sgQxkk/gkzQsHQ1oQWSG2OvaE+gn2hreyMqhH21WwDNoLhni7RlWAeFQxz7B1qF/wR+ugTg5YK6Wf6bfVuivCGUVM5BCP55FBMb7z9bBkhbBZo2eZc01KMpJTGQtFVlQaUhLjctvRQRbn1FivntRVdXJHdtd0+wPbdd05gFmiIRF'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://tedideas.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Melting Away: Portraits of polar ice with&nbsp;personality' href='http://ideas.ted.com/2014/05/02/melting-away-polar-ice-with-personality/' />
+<link rel='next' title='A keeper of seeds hopes to save the world from&nbsp;starvation' href='http://ideas.ted.com/2014/05/02/a-keeper-of-seeds-hopes-to-save-the-world-from-starvation/' />
+<meta name="generator" content="WordPress.com" />
+<link rel='canonical' href='http://ideas.ted.com/2014/05/02/8-charts-show-how-climate-change-is-already-impacting-everything/' />
+<link rel='shortlink' href='http://wp.me/p4wskC-nh0' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fideas.ted.com%2F2014%2F05%2F02%2F8-charts-show-how-climate-change-is-already-impacting-everything%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fideas.ted.com%2F2014%2F05%2F02%2F8-charts-show-how-climate-change-is-already-impacting-everything%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="We asked scientists to explain these 7 impossibly dense climate charts" />
+<meta property="og:url" content="http://ideas.ted.com/2014/05/02/8-charts-show-how-climate-change-is-already-impacting-everything/" />
+<meta property="og:description" content="In March, the United Nations’ Intergovernmental Panel on Climate Change published a report on “Impacts, Adaptation and Vulnerability.” It was studded with dense, impenetrable charts, so we asked so..." />
+<meta property="article:published_time" content="2014-05-02T13:00:35+00:00" />
+<meta property="article:modified_time" content="2014-05-19T14:02:00+00:00" />
+<meta property="article:author" content="http://ideas.ted.com/author/thu-huong-ha/" />
+<meta property="og:site_name" content="ideas.ted.com" />
+<meta property="og:image" content="http://tedideas.files.wordpress.com/2014/04/featured_01-policy-summery-impact-on-systems.jpg" />
+<meta name="twitter:site" content="@TEDTalks" />
+<meta name="twitter:image:src" content="http://tedideas.files.wordpress.com/2014/04/featured_01-policy-summery-impact-on-systems.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@TEDTalks" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="shortcut icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/e84cf1cf95d46506828684ef22ef12b2?s=16" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/e84cf1cf95d46506828684ef22ef12b2?s=16" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="http://1.gravatar.com/blavatar/3d3e4c72b49d7eab0db4c9061886d370?s=114" />
+<link rel='openid.server' href='http://tedideas.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://tedideas.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://ideas.ted.com/osd.xml" title="ideas.ted.com" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com" />
+<meta name="google-site-verification" content="kpf8-2HuYyPjVRR4Dgk7MTSM4jiKCDbp5n7GQwulGGs" />
+<meta name="application-name" content="ideas.ted.com" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Explore ideas worth spreading, every weekday" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://ideas.ted.com/feed/;icon-uri=http://0.gravatar.com/blavatar/e84cf1cf95d46506828684ef22ef12b2?s=16" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="http://s1.wp.com/?custom-css=1&#038;csblog=4wskC&#038;cscache=6&#038;csrev=6" />
+		</head>
+
+<body class="single single-post postid-89466 single-format-standard mp6 typekit-enabled highlander-enabled highlander-light">
+
+<div id="page">
+	<div class="navigation-wrap clearfix">
+		<div class="navigation-wrap-inside clearfix">
+			<nav role="navigation" class="site-navigation main-navigation">
+				<h1 class="assistive-text"><i class="fa fa-bars"></i> Menu</h1>
+				<div class="assistive-text skip-link"><a href="#content">Skip to content</a></div>
+				<div class="menu"></div>
+			</nav><!-- .site-navigation .main-navigation -->
+
+			<!-- Grab header icons template -->
+			
+			<div class="header-search">
+				<ul class="toggle-icons">
+					
+					<li><a class="toggle-search" href="#" title="Search">Search</a></li>
+				</ul>
+
+				<div class="toggle-boxes">
+					
+					<div class="toggle-box toggle-box-search">
+						<form method="get" action="http://ideas.ted.com/" role="search">
+							<label for="header-search-submit" class="assistive-text">Search</label>
+							<input type="text" class="field" name="s" value="" placeholder="Type here and press enter." class="header-search-input" />
+						</form>
+					</div><!-- .toggle-box -->
+
+				</div><!-- .toggle-boxes -->
+			</div><!-- .header-search -->		</div><!-- .navigation-wrap-inside -->
+	</div><!-- .navigation-wrap -->
+
+	<header id="masthead" class="site-header" role="banner" style="background-image: url('http://s0.wp.com/wp-content/themes/premium/publisher/images/trees.jpg?m=1391150397g');">
+
+		<div class="header-wrap">
+			<div class="hgroup">
+									<h1 class="site-title animated flipInY"><a href="http://ideas.ted.com/" title="ideas.ted.com" rel="home">ideas.ted.com</a>
+					</h1>
+					<h2 class="site-description animated fadeIn">Explore ideas worth spreading, every weekday</h2>
+							</div>
+		</div><!-- .header-wrap -->
+	</header><!-- #masthead .site-header -->
+		<div id="main" class="site-main clearfix">
+			<div id="primary">
+				<div id="content" class="site-content container clearfix" role="main">
+
+											
+						<!-- Get post format -->
+						
+<div class="post-89466 post type-post status-publish format-standard has-post-thumbnail hentry category-questions-worth-asking-2 tag-climate-change tag-how-do-you-solve-a-problem-like-the-climate-crisis tag-ipcc block-standard">
+	
+	
+				<a class="block-thumb" href="http://ideas.ted.com/2014/05/02/8-charts-show-how-climate-change-is-already-impacting-everything/" title="Permalink to We asked scientists to explain these 7 impossibly dense climate&nbsp;charts" rel="bookmark">
+					<img width="1000" height="600" src="http://tedideas.files.wordpress.com/2014/04/featured_01-policy-summery-impact-on-systems.jpg?w=1000&amp;h=600&amp;crop=1" class="attachment-post-image wp-post-image" alt="featured_01-policy-summery-impact-on-systems" />				</a>
+
+			
+	
+<div class="block-titles-wrap">
+	<div class="block-titles">
+					<div class="block-date">
+				05/02/2014<span class="date-sep"> &mdash; </span>
+			</div>
+		
+					<h1 class="block-entry-title"><a href="http://ideas.ted.com/2014/05/02/8-charts-show-how-climate-change-is-already-impacting-everything/" rel="bookmark">We asked scientists to explain these 7 impossibly dense climate&nbsp;charts</a></h1>
+
+												<a href="http://ideas.ted.com/author/thu-huong-ha/" title="Posts by Thu-Huong Ha" class="url fn" rel="author">Thu-Huong Ha</a>							
+			</div><!-- .block-titles -->
+
+			<div class="block-text">
+<p><a href="http://ideas.ted.com/tag/how-do-you-solve-a-problem-like-the-climate-crisis/"><img class="aligncenter wp-image-90819 size-full" src="http://tedideas.files.wordpress.com/2014/05/qwa-category-climatecrisis3.png?w=770" alt="QWA-category-ClimateCrisis"   /></a></p>
+<p>Here come the acronyms: In March, the United Nations’ (UN) Intergovernmental Panel on Climate Change (IPCC) published a working draft of its Fifth Assessment Report (AR5) from Working Group II (WGII), on “Impacts, Adaptation and Vulnerability” in the world’s climate. The 2590-page report was studded with dense charts containing &#8230; a lot of information. And did we say dense? We mean impenetrable. Frankly, they boggled our minds. Yes, government reports and scientific papers aren’t designed for laypeople &#8212; but do they have to be incomprehensible? We asked some of the IPCC’s 310 scientist authors to help make their graphics meaningful for the people who are affected by climate change. You know &#8212; everyone.</p>
+<p><a href="http://tedideas.files.wordpress.com/2014/04/01-ipcc_wg2ar5_spm_approved-global-temp-change.jpg"><img class="alignleft wp-image-89474 size-large" src="http://tedideas.files.wordpress.com/2014/04/01-ipcc_wg2ar5_spm_approved-global-temp-change.jpg?w=770&#038;h=627" alt="WGIIAR5-SPM_TranscriptionCLEAN-31Mar_v2" width="770" height="627" /></a></p>
+<p><strong>What you see:</strong> The temperature of the world is going to rise at an alarmingly red rate. Or maybe the temperature will still rise but at a slower rate, and the mercury in the world’s thermometer will get … blue?</p>
+<p><strong>What it means:</strong> This graph shows the projected rise in temperature through 2100, compared to the rise in temperature we’ve already experienced since 1900. (The &#8220;thermometer&#8221; on the right shows warming since the late 1800s. On average, temperatures have risen less than one degree since then.) The highest projections of greenhouse gas emissions, known as “Representative Concentration Pathways 8.5” (RCP8.5), are shown in red; temperatures could rise a full four degrees Celsius above recent temperatures. But if we’re aggressive about mitigating the effect of climate change, we could wind up in a low-emission RCP2.6 situation of a one- to two-degree temperature rise, shown in blue.</p>
+<p><strong>What the scientists say:</strong> We can help lower emissions, but as Michael Mastrandrea, assistant consulting professor at Stanford’s Woods Institute for the Environment, tells us, “Because of the emissions to date and the fact that we can’t just turn off our emissions tomorrow, there’s a certain amount of inertia in the system.” That’s why the red and blue lines take 20 or 30 years to separate. Says Mastrandrea, “We have an option between a world where the temperature continues to go up and a world where the temperature basically levels off or perhaps even comes down. That’s the choice we have now.”</p>
+<p><a href="http://tedideas.files.wordpress.com/2014/04/02-policy-summary-species-speed1.jpg"><img class="alignleft wp-image-89475 size-large" src="http://tedideas.files.wordpress.com/2014/04/02-policy-summary-species-speed1.jpg?w=770&#038;h=684" alt="02-policy-summary-species-speed" width="770" height="684" /></a></p>
+<p><strong>What you see:</strong> Trees can move between zero and 15 kilometers per decade, but snails can move up to 100 kilometers per decade. What the what?</p>
+<p><strong>What it means:</strong> As temperatures rise, species will have to migrate, generally toward the poles, to maintain life in the climate they’re used to. How fast they will have to move (to keep up with how fast temperatures rise) is called “climate velocity.” Based on both modeling and observations, this graph charts the maximum speed that different species can move against how fast they must move, shown on the right. The red, orange and blue lines are based on different estimates of how fast the temperature will rise, based on the possible greenhouse gas emissions levels discussed in the graphic above. Climate velocity is also divided between flat areas and the “global average.” That’s because as you increase altitude, temperatures decrease more quickly, but in flat places species will need to move farther and therefore faster to reach the climate they prefer.</p>
+<p><strong>What the scientists say:</strong> Mastrandrea points out that there’s a lot of diversity even within the species groups listed. Many species fall below the line of the worst-case scenario (the dotted red line marked &#8220;RCP8.5 flat areas&#8221;), which means they have no chance of survival. Only some species of split-hoofed mammals, carnivorous mammals, plant-feeding insects and freshwater mollusks even stand a chance.</p>
+<p><a href="http://tedideas.files.wordpress.com/2014/04/03-wgiiar5-chap8_fgdall-government-progress-by-income.jpg"><img class="aligncenter wp-image-89476 size-full" src="http://tedideas.files.wordpress.com/2014/04/03-wgiiar5-chap8_fgdall-government-progress-by-income.jpg?w=770" alt="03-WGIIAR5-Chap8_FGDall-government-progress-by-income"   /></a></p>
+<p><strong>What you see:</strong> High income &#8230; something &#8230; is making more progress in disaster risk reduction than the low-income version of whatever that thing is.</p>
+<p><strong>What it means:</strong> This graph is based on data from 82 countries reporting progress in disaster risk reduction. The countries are broken up by income, and the y-axis shows the percentage of countries within each income bracket that have reported progress in these areas: assessing disaster risk impacts of infrastructure; urban and land-use planning; disaster risk management investments in drainage infrastructure; integration of climate change policies into disaster risk reduction; and investments to reduce vulnerable urban settlements.</p>
+<p><strong>What the scientists say:</strong> International Institute for Environment and Development senior fellow David Satterthwaite points out that low-income and low-middle-income countries are not paying attention to urban and land use planning, and disproportionately few lower-middle-income countries are assessing disaster risks. In these cases, local governments need to step in. Only one problem, says Satterthwaite: “Typically, even large cities have a very weak local government, very little revenue, very little investment capacity, huge deficits in basic infrastructure and 30 to 40 percent of their population living in informal settlement without piped water, sewers, drains, health care or emergency services.&#8221; Though he is somewhat optimistic that cities will indeed take small steps toward adaptation, he’s more concerned about mitigation: “For a city desperately trying to extend piped water to its population, improve the sanitation and the drainage and the health care, and taking disaster risk into account and climate change adaptation into account, the final agenda &#8212; mitigation &#8212; is very difficult.”</p>
+<p><a href="http://tedideas.files.wordpress.com/2014/04/04-wgiiar5-chap13_fgdall-hardship.jpg"><img class="alignleft size-full wp-image-89477" src="http://tedideas.files.wordpress.com/2014/04/04-wgiiar5-chap13_fgdall-hardship.jpg?w=770&#038;h=626" alt="WGIIAR5-Chap13_FGDall.pdf" width="770" height="626" /></a></p>
+<p><strong>What you see:</strong> For smallholder farmers in the Lake Victoria Basin in Kenya and Tanzania, life is an endless cycle of hardship.</p>
+<p><strong>What it means:</strong> Climate change adds a level of stress to an already difficult lifestyle for smallholder farmers in this region. Traditionally, farmers go hungry during planting season, right when they need to do their most physical work. That period of hardship lasts from January to March. Recovery starts when the harvest comes in May, but then there’s a second hardship period during the shorter rainy season come October. At least, that’s been the annual pattern up to now. Climate change makes that rainy season unpredictable, lengthening the hardship period and delaying the harvest. And, of course, climate change can also prompt either droughts or floods, severely messing with the harvest and making life even more difficult.</p>
+<p><strong>What the scientists say:</strong> Penn State University associate professor Petra Tschakert says she wanted to “convey that the lives of poor people and the lives of marginalized populations are not static.&#8221; In fact, she points out, many people’s “lives and health and happiness fluctuate tremendously throughout the year depending on the rainfall and depending on when they grow and harvest their crops.”</p>
+<p><a href="http://tedideas.files.wordpress.com/2014/04/05-wgiiar5-chap17-costs-of-adaption-in-developing-countries.jpg"><img class="alignleft size-full wp-image-89478" src="http://tedideas.files.wordpress.com/2014/04/05-wgiiar5-chap17-costs-of-adaption-in-developing-countries.jpg?w=770&#038;h=889" alt="05-WGIIAR5-Chap17-costs-of-adaption-in-developing-countries" width="770" height="889" /></a></p>
+<p><strong>What you see:</strong> Infrastructure is really expensive. Adapting to climate change in developing countries is going to cost a boatload of money.</p>
+<p><strong>What it means:</strong> What this graph actually seeks to show is how difficult it is to predict how much adapting to climate change will cost. It compares two reports, one from the World Bank and one from the United Nations Framework Convention on Climate Change (UNFCCC), both of which estimate how much adaptation will cost in developing countries &#8212; with pretty different results. For example, the World Bank predicts that shoring up coastal zones will cost $30 billion, while the UNFCCC predicts a $5 billion price tag (both based on the 2005 US dollar).</p>
+<p><strong>What the scientists say:</strong> Reinhard Mechler, deputy director at the International Institute for Applied Systems Analysis in Laxenburg, Austria, says that because climate hazards tend to be region-specific, wide-sweeping numbers may actually be fairly useless. Originally, he says, they had tried to include an estimate for the total cost of adaptation for developing countries in the summary for policymakers &#8212; but the range was absurd: anywhere between $4 billion and $109 billion.</p>
+<p><a href="http://tedideas.files.wordpress.com/2014/04/06-wgiiar5-chap23_fgdall-mitigation-adaptation-biodiversity.jpg"><img class="alignleft size-large wp-image-89479" src="http://tedideas.files.wordpress.com/2014/04/06-wgiiar5-chap23_fgdall-mitigation-adaptation-biodiversity.jpg?w=770&#038;h=566" alt="06-WGIIAR5-Chap23_FGDall-mitigation-adaptation-biodiversity" width="770" height="566" /></a></p>
+<p><strong>What you see:</strong> Different climate-change-fighting actions can be positive, negative, adaptation, mitigation, losing, winning, or, um, all of the above?</p>
+<p><strong>What it means:</strong> This figure is about the trade-off between major mitigation and adaptation strategies in terms of the impacts on biodiversity. Each gray box is a common action that can be taken to combat the effects of climate change, charted according to data taken from a synthesis of a review of all the literature published on each one. Each action is plotted on a scale from “very beneficial to mitigation” (top) to “very beneficial to adaptation” (bottom) and a scale from very good for biodiversity (left) and very bad for biodiversity (right). The gray box is drawn according to where the action can confidently be placed with respect to biodiversity, while the lines to either side represent the entire range of where it might fall. Win/lose-win/lose-win/lose combinations correspond to benefits for adaptation, benefits for mitigation and positive effects on biodiversity, respectively. (Wind turbines, for example, are very important for mitigation, but aren’t helpful at all to adaption, and are between neutral and negative for biodiversity.) According to the analysis, the most beneficial actions are forest conservation, urban tree planting and green rooftops, while sea-wall defense, desalination and building dams (big, infrastructural projects) are the least beneficial.</p>
+<p><strong>What the scientists say:</strong> Mark Rounsevell, professor of rural economy and sustainability within the school of geosciences at the University of Edinburgh, says that even though the figures are based on literature review, the chart is still somewhat subjective, since the point is to place the actions in relation to each other, not to assign each one a number value.</p>
+<p><a href="http://tedideas.files.wordpress.com/2014/04/07-policy-summery-impact-on-systems.jpg"><img class="alignleft wp-image-89473 size-large" src="http://tedideas.files.wordpress.com/2014/04/07-policy-summery-impact-on-systems.jpg?w=770&#038;h=606" alt="07-policy-summery-impact-on-systems" width="770" height="606" /></a></p>
+<p><strong>What you see:</strong> A thrillingly dense map showing that glaciers, snow, ice and/or permafrost are being affected in central and south America, Africa and Asia &#8212; but livelihoods and health are not.</p>
+<p><strong>What it means:</strong> This map is meant to show the variety of impacts from climate change in different regions of the world. A filled-in icon shows that the impact from climate change to that particular system is major; an outlined icon shows that it is minor. The little meter next to each icon is a qualitative measure of how confident the authors are that the impact is actually due to climate change. The icons in the continent-wide boxes indicate systems affected across the entire region, not just locally.</p>
+<p><strong>What the scientists say:</strong> No place in the world will escape the impact of climate change. But we still don’t really know what we know &#8212; or have a good system for gathering salient data. Says the chief scientist for global change at the United States Geological Study, Virginia Burkett, “one of the more alarming things to me is that the number of scientists publishing about climate change in South America, Africa and Central America is less than five percent of the global total. Those developing countries in many cases are going to be disproportionately affected by climate change, either due to lack of adaptive capacity or severe impacts such as drought.” That’s why even though you’d think livelihoods and health would be affected by climate change everywhere in the world, there is actually too little literature and too many contributing factors to scientifically prove a link to climate change in every case.</p>
+
+</div><div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" class="share-facebook sd-button share-icon" href="http://ideas.ted.com/2014/05/02/8-charts-show-how-climate-change-is-already-impacting-everything/?share=facebook" title="Share on Facebook" id="sharing-facebook-89466"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow" class="share-twitter sd-button share-icon" href="http://ideas.ted.com/2014/05/02/8-charts-show-how-climate-change-is-already-impacting-everything/?share=twitter" title="Click to share on Twitter" id="sharing-twitter-89466"><span>Twitter</span></a></li><li class="share-google-plus-1"><a rel="nofollow" class="share-google-plus-1 sd-button share-icon" href="http://ideas.ted.com/2014/05/02/8-charts-show-how-climate-change-is-already-impacting-everything/?share=google-plus-1" title="Click to share on Google+" id="sharing-google-89466"><span>Google</span></a></li><li class="share-end"></li></ul></div></div></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Also of Interest</em></h3>
+</div></div>					
+</div><!-- .block-titles-wrap -->
+</div>
+						<div class="content-section">
+							<div id="content-wrap">
+								<div class="single-tab">
+									<div id="single-tabs">
+										<ul class="single-tab-nav">
+																																		<li><a href="#tab-2"><i class="icon-user"></i> <span>Author</span></a></li>
+																						<li><a href="#tab-3"><i class="icon-list-ul"></i> <span>Details</span></a></li>
+										</ul>
+
+										<!-- If comments are open or we have at least one comment, load up the comment template. -->
+										
+																					<div id="tab-2" class="author-section post-tab clearfix">
+												<div id="author-info">
+													<!-- If author has a bio, show it. -->
+																													<div class="author-profile">
+																	<div id="author-avatar">
+																		<img width="340" height="340" src="http://tedideas.files.wordpress.com/2014/05/thu_img_4146_1280.png?w=340" class="avatar avatar-340 photo wp-post-image" alt="Thu_IMG_4146_1280" />																	</div>
+
+																	<div id="author-description">
+																		<h2>About Thu-Huong Ha</h2>
+																		Thu-Huong Ha writes and edits for TED. She likes to eat and learn, at times in tandem.																	</div>
+																	<div class="clear"></div>
+																</div>
+															
+													<div class="author-posts">
+																													<h3>Latest Posts By Thu-Huong Ha</h3>
+															<ul><li><span>10.02.14</span><a href="http://ideas.ted.com/2014/10/02/the-surprising-thing-robots-cant-do-yet-housework/">The surprising thing robots can&#8217;t do yet:&nbsp;housework</a></li><li><span>09.29.14</span><a href="http://ideas.ted.com/2014/09/29/arianna-huffington-picks-16-articles-on-the-power-of-sleep/">Arianna Huffington picks 16 articles on the power of&nbsp;sleep</a></li><li><span>09.24.14</span><a href="http://ideas.ted.com/2014/09/24/gallery-loss-is-loss-pain-has-no-nation/">Gallery: Loss is loss. Pain has no&nbsp;nation</a></li><li><span>09.16.14</span><a href="http://ideas.ted.com/2014/09/16/somber-photos-of-the-american-storm-belt/">Somber photos of the American Storm&nbsp;Belt</a></li><li><span>09.15.14</span><a href="http://ideas.ted.com/2014/09/15/7-must-read-books-on-work-and-productivity-from-dan-pink/">7 must-read books on work and productivity, from Dan&nbsp;Pink</a></li><li><span>08.19.14</span><a href="http://ideas.ted.com/2014/08/19/12-resources-explain-tim-berners-lees-campaign-for-open-data/">12 resources explain Tim Berners-Lee&#8217;s campaign for open&nbsp;data</a></li></ul>																											</div><!-- author-posts -->
+												</div><!-- author-info -->
+											</div><!-- author-section -->
+										
+										<div id="tab-3" class="post-detail-section post-tab clearfix">
+												<nav role="navigation" id="nav-below" class="site-navigation post-navigation">
+		<h1 class="assistive-text">Post navigation</h1>
+
+	
+		<div class="nav-previous"><a href="http://ideas.ted.com/2014/05/02/melting-away-polar-ice-with-personality/" rel="prev"><span class="meta-nav">Previous Post</span> Melting Away: Portraits of polar ice with&nbsp;personality</a></div>		<div class="nav-next"><a href="http://ideas.ted.com/2014/05/02/a-keeper-of-seeds-hopes-to-save-the-world-from-starvation/" rel="next"><span class="meta-nav">Next Post</span> A keeper of seeds hopes to save the world from&nbsp;starvation</a></div>
+	
+	</nav><!-- #nav-below -->
+												<div class="post-detail-col">
+												<div class="post-detail-cat">
+													<h3>Category</h3>
+													<a href="http://ideas.ted.com/category/questions-worth-asking-2/" rel="category tag">Questions worth asking</a>												</div>
+
+																									<div class="post-detail-cat">
+														<h3>Tags</h3>
+														<a href="http://ideas.ted.com/tag/climate-change/" rel="tag">climate change</a>, <a href="http://ideas.ted.com/tag/how-do-you-solve-a-problem-like-the-climate-crisis/" rel="tag">How do you solve a problem like the climate crisis?</a>, <a href="http://ideas.ted.com/tag/ipcc/" rel="tag">IPCC</a>													</div>
+																							</div><!-- post-detail-col -->
+										</div><!-- detail-section-->
+
+									</div><!-- #single-tabs -->
+								</div><!-- .single-tab -->
+							</div><!-- #content-wrap -->
+						</div><!-- .content-section -->
+					
+				</div><!-- #content .site-content -->
+
+					<div id="secondary" class="widget-area" role="complementary">
+						<aside id="acm_ad_zones-3" class="widget acm_ad_zones"><!-- DFP bottom 300x1050 ad tag -->
+<script language="JavaScript" type="text/javascript">
+
+	if ( typeof ord == 'undefined' ) {
+		ord=Math.random()*10000000000000000;
+	}
+	if ( typeof( dfp_tile ) == 'undefined' ) {
+		dfp_tile=1;
+	}
+	
+
+	if ( window.innerWidth > 768 ) {
+
+
+		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/tconf.ted/ideas;tag=blog;pos=bottom;tile=1;dcopt=ist;pos=bottom;pid=201405028-charts-show-how-climate-change-is-already-impacting-everything;fold=atf;sz=300x1050;ord=' + ord + '?" type="text/javascript"><\/script>');
+
+	}
+
+</script>
+<noscript>
+	<a href="http://ad.doubleclick.net/adj/tconf.ted/ideas;tag=blog;pos=bottom;tile=1;dcopt=ist;pos=bottom;pid=201405028-charts-show-how-climate-change-is-already-impacting-everything;fold=atf;sz=300x1050;ord=?" target="_blank">
+		<img src="http://ad.doubleclick.net/adj/tconf.ted/ideas;tag=blog;pos=bottom;tile=1;dcopt=ist;pos=bottom;pid=201405028-charts-show-how-climate-change-is-already-impacting-everything;fold=atf;sz=300x1050;ord=?" width="300" height="1050" border="0" alt="">
+	</a>
+</noscript>
+<!-- //DFP bottom 300x1050 tag --></aside><aside id="acm_ad_zones-4" class="widget acm_ad_zones"><!-- DFP bottom 300x250 ad tag -->
+<script language="JavaScript" type="text/javascript">
+
+	if ( typeof ord == 'undefined' ) {
+		ord=Math.random()*10000000000000000;
+	}
+	if ( typeof( dfp_tile ) == 'undefined' ) {
+		dfp_tile=2;
+	}
+	
+
+	if ( window.innerWidth < 768 ) {
+
+
+		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/tconf.ted/ideas;tag=blog;pos=bottom;tile=2;dcopt=ist;pos=bottom;pid=201405028-charts-show-how-climate-change-is-already-impacting-everything;fold=atf;sz=300x250;ord=' + ord + '?" type="text/javascript"><\/script>');
+
+	}
+
+</script>
+<noscript>
+	<a href="http://ad.doubleclick.net/adj/tconf.ted/ideas;tag=blog;pos=bottom;tile=2;dcopt=ist;pos=bottom;pid=201405028-charts-show-how-climate-change-is-already-impacting-everything;fold=atf;sz=300x250;ord=?" target="_blank">
+		<img src="http://ad.doubleclick.net/adj/tconf.ted/ideas;tag=blog;pos=bottom;tile=2;dcopt=ist;pos=bottom;pid=201405028-charts-show-how-climate-change-is-already-impacting-everything;fold=atf;sz=300x250;ord=?" width="300" height="250" border="0" alt="">
+	</a>
+</noscript>
+<!-- //DFP bottom 300x250 tag --></aside><aside id="twitter_timeline-2" class="widget widget_twitter_timeline"><a class="twitter-timeline" data-widget-id="462224409390886912" data-theme="light" data-link-color="#E52F26" data-border-color="#e8e8e8" data-tweet-limit="5" width="300" height="400" lang="EN">My Tweets</a></aside>		</div><!-- #secondary .widget-area -->
+			</div><!-- #primary .content-area -->
+
+		</div><!-- #main .site-main -->
+
+
+<script type='text/javascript'>
+								var _gaq = _gaq || [];
+								_gaq.push(['_setAccount', 'UA-40781755-2']);
+_gaq.push(['_trackPageview']);
+
+								(function() {
+									var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+									ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+									var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+								})();
+							</script>
+
+	</div><!-- #main .site-main -->
+
+	<footer id="colophon" class="site-footer clearfix">
+		<div id="footer-container">
+			<div id="footer-inner">
+				<div id="footer-center">
+					<!-- Blocks Post Navigation -->
+										
+					<!-- Footer Text -->
+					<div class="copyright">
+						<div class="site-info"><ul id="menu-footer" class="menu-footer"><li id="menu-item-89759" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89759"><a target="_blank" href="http://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li id="menu-item-89760" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89760"><a target="_blank" href="http://www.ted.com/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li id="menu-item-89761" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89761"><a target="_blank" href="http://partners.ted.com/">Advertising / Partnership</a></li>
+<li id="menu-item-89762" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89762"><a target="_blank" href="http://www.ted.com/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li id="menu-item-89763" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89763"><a target="_blank" href="http://www.ted.com/contact">Contact</a></li>
+<li id="menu-item-89764" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89764"><a target="_blank" href="http://www.ted.com/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li id="menu-item-89765" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89765"><a target="_blank" href="http://www.ted.com/about/our-organization/who-we-are">Staff</a></li>
+<li id="menu-item-89767" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89767"><a target="_blank" href="http://www.ted.com/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li id="menu-item-89768" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89768"><a target="_blank" href="http://support.ted.com/">Help</a></li>
+</ul></div>					</div> <!-- .copyright -->
+					<div id="footer-ted">&copy; TED Conferences, LLC</div>
+											<span class="attribution">Powered by <a href="http://vip.wordpress.com/" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></span>
+					
+				</div> <!-- .footer-center -->
+
+			</div> <!-- .footer-inner -->
+		</div> <!-- .footer-container -->
+	</footer> <!-- #colophon .site-footer -->
+</div> <!-- #page .hfeed .site -->
+
+                <script type="text/javascript">
+                        !function(d,s,id){
+                                var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+                                if(!d.getElementById(id)){
+                                        js=d.createElement(s);
+                                        js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
+                                        fjs.parentNode.insertBefore(js,fjs);
+                                }
+                        }
+                        (document,"script","twitter-wjs");
+                </script>
+        	<div style="display:none">
+	</div>
+
+	<div id="bit" class="loggedout-follow-normal">
+		<a class="bsub" href="javascript:void(0)"><span id='bsub-text'>Follow</span></a>
+		<div id="bitsubscribe">
+
+					<h3><label for="loggedout-follow-field">Follow &ldquo;ideas.ted.com&rdquo;</label></h3>
+
+			<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="loggedout-follow">
+			<p>Get every new post delivered to your Inbox.</p>
+
+			<p id="loggedout-follow-error" style="display: none;"></p>
+
+						<p class="bit-follow-count">Join 4,750 other followers</p>
+			<p><input type="email" name="email" value="Enter your email address" onfocus='this.value=(this.value=="Enter your email address") ? "" : this.value;' onblur='this.value=(this.value=="") ? "Enter email address" : this.value;'  id="loggedout-follow-field"/></p>
+
+			<input type="hidden" name="action" value="subscribe"/>
+			<input type="hidden" name="blog_id" value="66840750"/>
+			<input type="hidden" name="source" value="http://ideas.ted.com/2014/05/02/8-charts-show-how-climate-change-is-already-impacting-everything/"/>
+			<input type="hidden" name="sub-type" value="loggedout-follow"/>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="96bca9c462" /><input type="hidden" name="_wp_http_referer" value="/2014/05/02/8-charts-show-how-climate-change-is-already-impacting-everything/" />
+			<p id='bsub-subscribe-button'><input type="submit" value="Sign me up" /></p>
+			</form>
+					<div id='bsub-credit'><a href="https://wordpress.com/?ref=lof">Powered by WordPress.com</a></div>
+		</div><!-- #bitsubscribe -->
+	</div><!-- #bit -->
+
+	<script type="text/javascript">
+		WPCOM_sharing_counts = {"http:\/\/ideas.ted.com\/2014\/05\/02\/8-charts-show-how-climate-change-is-already-impacting-everything\/":89466}	</script>
+		<script type="text/javascript">
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var publisher_bg_js_vars = {"bg_image":"disable"};
+var publisher_custom_js_vars = {"bg_image_url":"http:\/\/tedideas.files.wordpress.com\/2014\/04\/featured_01-policy-summery-impact-on-systems.jpg"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var recaptcha_options = {"lang":"en"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s0.wp.com/_static/??-eJyV0NtuwjAMBuAXIs0oO1xNe5aQGOIodkMcF/r2ayeQJtFp6pUvfn+2bHstxg/cgJtNYgOM6KHcuiQ7O0fIPmsAWTJyMnCdOkJei9NFoU730q00P9a0CDSTUoFQyRY9ZpQIdRniVdpAW8R93wnbiEG2SCGXsyFg3aJio/wmEcc/0IjFNggGAzj596TnbhF1a18jNSXrGVlsbxaWfrRx7PLU0D+d/guUQZo5ZYfVSnQV+fyoM/qiz/3rvj+894eXj/QNhXnFdQ=='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?23" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({'blog':'66840750','v':'wpcom','tz':'-4','user_id':'0','post':'89466','subd':'tedideas'});
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=66840750&v=wpcomvt&tz=-4&user_id=0&post=89466&subd=tedideas&rand="+Math.random();}
+ex_go({'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTdsV3ZfUFdpQjhdXUkrPXxuNGpxSThLdGZsT3xJR0J6M2c5T1k4LWlRM1RfbiU2ST9SPzR+Y2VXUVhrMkg9LFQlWmVlSzVbalQxP3Y0LzQ2T1BIR0F3LVBxLFZIbFZGRkdJeE0xeFJJZGQmdnVnTGI5LUltP0VPdXZ8aUlVLE5YRThoVkksfFRhTE9XVGEzQkFWLHB8PU0wbEN4fnUuR3B2VFVaYWM0K29oWzRBd2huV11heUw2cVgmaVZKL0VkeHpqM3lELDRlb3hKaHoyRjJQQnBiV0g/LCYxaHU='});
+addLoadEvent(function(){linktracker_init('66840750',89466);});
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>

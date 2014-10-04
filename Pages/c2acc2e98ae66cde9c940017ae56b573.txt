@@ -1,0 +1,424 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<script type="text/javascript">
+   var _U = "undefined";
+   var g_HttpRelativeWebRoot = "/ocom/";
+   var SSContributor = false;
+   var SSForceContributor = false;
+   var SSHideContributorUI = false;
+   var ssUrlPrefix = "/partners/";
+   var ssUrlType = "2";
+   
+   var g_navNode_Path = new Array();
+       g_navNode_Path[0] = 'opn_home';
+       g_navNode_Path[1] = 'opn_campaigns';
+       g_navNode_Path[2] = 'opn_eblasts';
+   var g_ssSourceNodeId = "opn_eblasts";
+   var g_ssSourceSiteId = "opn";
+</script>
+
+
+  <script id="ssInfo" type="text/xml" warning="DO NOT MODIFY!">
+  <ssinfo>
+    <fragmentinstance id="fragment1" fragmentid="universal-metatag" library="server:UNIVERSAL-FRAGMENTS">
+    </fragmentinstance>
+
+    <fragmentinstance id="fragment2" fragmentid="sitecatalyst-opn-standard" library="server:SITECATALYST-OPN-STANDARD"></fragmentinstance>
+  </ssinfo>
+  </script>
+  
+  <meta content="MSHTML 6.00.6000.17098" name="GENERATOR" />
+<!--SS_BEGIN_SNIPPET(fragment1,head_tags)-->
+
+
+												     
+     	
+
+
+
+
+	
+<title>Java SE Advanced ISV</title>
+<meta name="Title" content="Java SE Advanced ISV">
+<meta name="Description" content="Java SE Advanced ISV">
+<meta name="Keywords" content="Java SE Advanced ISV">
+<meta name="robots" content="INDEX, FOLLOW">
+<meta name="country" content="">
+<meta name="Language" content="en">
+<meta name="Updated Date" content="9/18/14 6:09 AM">
+
+			<!--SS_END_SNIPPET(fragment1,head_tags)-->
+
+</head>
+
+<body>
+<!--SS_BEGIN_SNIPPET(fragment1,code)-->			<!--SS_END_SNIPPET(fragment1,code)-->
+<div align="center">
+	<!-- InstanceBegin template="/Templates/UCM_email-sidebar.dwt" codeOutsideHTMLIsLocked="false" --><!-- InstanceBeginEditable name="doctitle" --><!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable --><!-- 
+
+! Please follow Guidelines for a proper working email ! 
+___________________________________________________________________________________________________________________
+		
+		Oracle standard tags  	symbol		entity
+
+		Special character
+		Ampersand 				&			&amp;
+		Apostrophe 				’			&#8217;
+		Copyright 				©			&copy;
+		Ellipsis 				…			&#8230;
+		Em dash 				—			&#8212;
+		En dash 				–			&#8211;
+		Euro 					€			&#8364;
+		Pound					£			&pound;
+		Left quote 				“			&#8220;
+		Right quote				”			&#8221;
+		Registered trademark 	®			&reg;
+		Trademark 				™			&#8452;
+		Yen 					¥			&yen; 
+		
+___________________________________________________________________________________________________________________
+
+IMPORTANT in creating a link to have a desired color (red, black, etc) that will work in Hotmail, Yahoo, Outlook, and Gmail 
+
+You MUST Place the <font color="#FF0000"> inside the <a href tag. 
+Example <a href="#" target="_blank"><font color="#FF0000"><strong>Click Here</strong></font></a>
+
+The order you must follow to make the colored link appear in browsers. If not the default window link will appear
+
+1. Select the word you want to use for the link
+2. Select the desired color, Red, Black, etc
+3. Select bold if necessary
+
+___________________________________________________________________________________________________________________
+
+Templates use two sizes of fonts and the sans-serif font tag for the email.
+
+All Fonts should be (Arial, Helvetica, sans-serif) tags
+
+Normal size reading body fonts should be set to the size of 2.
+Small font sizes should be set to 1
+
+!!!!!!!DO NOT USE ANY OTHER SIZE FONT FOR THE EMAILS!!!!!!!!
+
+___________________________________________________________________________________________________________________
+
+--><!-- InstanceBeginEditable name="EditRegion3" -->
+<p align="center">&nbsp;</p>
+<table width="628" cellspacing="0" cellpadding="0" border="0" align="center" style="border-bottom: #b6b6b6 1px solid; border-left: #b6b6b6 1px solid; border-top: #b6b6b6 1px solid; border-right: #b6b6b6 1px solid">
+    <tbody>
+        <tr>
+            <td bgcolor="#ffffff">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" style="border-bottom: #b6b6b6 1px solid">
+                <tbody>
+                    <tr>
+                        <td width="50%" valign="top" style="padding-bottom: 15px; padding-left: 20px; padding-right: 0px; padding-top: 15px"><img width="303" height="37" src="http://www.oracle.com/us/design/74947-logo-1740784.png" alt="" style="display: inline" /></td>
+                        <td width="50%" valign="top" align="center" style="padding-bottom: 0px; padding-left: 5px; padding-right: 15px; padding-top: 5px">
+                        <table width="281" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                                <tr>
+                                    <td width="281" align="right" style="padding-bottom: 4px; padding-left: 0px; padding-right: 0px; padding-top: 7px">
+                                    <p style="padding-bottom: 0px; text-transform: uppercase; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: Arial, Helvetica, sans-serif; letter-spacing: 1px; color: #545454; font-size: 12px; padding-top: 0px">September 2014</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td height="28" align="right">&nbsp;</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#fefefe" style="border-top: #ffffff 1px solid">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tbody>
+                    <tr>
+                        <td width="249" valign="middle" height="128" bgcolor="#d20000">
+                        <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                                <tr>
+                                    <td width="25" valign="top" align="left">&nbsp;</td>
+                                    <td valign="top" height="35" align="left">
+                                    <p align="left" style="padding-bottom: 0px; margin: 0px 0px 4px; padding-left: 0px; padding-right: 0px; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 18px; padding-top: 0px"><strong>Protect Your Mission Critical Apps and Support Your Customers</strong></p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </td>
+                        <td width="377" valign="top" height="128"><img width="410" height="136" src="http://www.oracle.com/partners/campaign/resources/header-ext-37-2162442.jpg" alt="" style="display: inline" /></td>
+                    </tr>
+                </tbody>
+            </table>
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tbody>
+                    <tr>
+                        <td><img width="626" height="8" src="http://www.oracle.com/us/design/74947-bar-tp-shdw-1740778.jpg" alt="" style="display: inline" /></td>
+                    </tr>
+                    <tr>
+                        <td>
+                        <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                                <tr>
+                                    <td width="19%" valign="middle">
+                                    <p style="padding-bottom: 0px; margin: 0px 0px 0px 25px; padding-left: 0px; padding-right: 0px; font-family: Arial, Helvetica, sans-serif; color: #545454; font-size: 12px; padding-top: 0px">Stay Connected</p>
+                                    </td>
+                                    <td width="34%" valign="top"><a href="https://blogs.oracle.com/oraclepartners/" target="_blank"><img width="18" height="18" border="0" src="http://www.oracle.com/us/design/icon-blog-197334.gif" style="border-bottom: medium none; border-left: medium none; display: inline; border-top: medium none; border-right: medium none" alt="OPN Blog" /></a> <a href="http://www.facebook.com/oraclepartners" target="_blank"><img width="18" height="18" border="0" src="http://www.oracle.com/us/design/icon-facebook-197335.gif" style="border-bottom: medium none; border-left: medium none; display: inline; border-top: medium none; border-right: medium none" alt="Facebook" /></a> <a href="http://www.linkedin.com/groups?gid=1935017" target="_blank"><img width="18" height="18" border="0" src="http://www.oracle.com/us/design/icon-linkedin-197336.gif" style="border-bottom: medium none; border-left: medium none; display: inline; border-top: medium none; border-right: medium none" alt="LinkedIn" /></a> <a href="http://www.twitter.com/oraclepartners" target="_blank"><img width="18" height="18" border="0" src="http://www.oracle.com/us/design/icon-twitter-197339.gif" style="border-bottom: medium none; border-left: medium none; display: inline; border-top: medium none; border-right: medium none" alt="Twitter" /></a> <a href="http://www.youtube.com/user/OraclePartnerNetwork" target="_blank"><img width="18" height="18" border="0" src="http://www.oracle.com/us/design/icon-youtube-197340.gif" style="border-bottom: medium none; border-left: medium none; display: inline; border-top: medium none; border-right: medium none" alt="YouTube" /></a> <a href="https://plus.google.com/u/0/100314990099644980835/posts" target="_blank"><img width="18" height="18" border="0" src="http://www.oracle.com/us/design/icon-googleplus-1531453.gif" style="border-bottom: medium none; border-left: medium none; display: inline; border-top: medium none; border-right: medium none" alt="Google Plus" /></a> <a href="http://medianetwork.oracle.com/media/channels/oracle-partner-network/821528956001" target="_blank"><img width="18" height="18" border="0" src="/ocom/groups/public/@opnpublic/documents/digitalasset/308792.png" style="border-bottom: medium none; border-left: medium none; display: inline; border-top: medium none; border-right: medium none" alt="OMN" /></a> <a href="http://itunes.apple.com/us/podcast/oracle-database-podcasts/id264850760?ign-mpt=uo=4" target="_blank"><img width="18" height="18" border="0" src="http://www.oracle.com/us/design/icon-podcast-432324.gif " style="border-bottom: medium none; border-left: medium none; display: inline; border-top: medium none; border-right: medium none" alt="iTunes" /></a> <a href="http://www.oracle.com/partners/secure/news/index.html" target="_blank"><img width="18" height="18" border="0" src="http://www.oracle.com/partners/campaign/resources/rss-grey-button-2163661.gif" style="border-bottom: medium none; border-left: medium none; display: inline; border-top: medium none; border-right: medium none" alt="OPN RSS" /></a></td>
+                                    <td width="4%" valign="middle" align="right">
+                                    <p style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: Arial, Helvetica, sans-serif; color: #545454; font-size: 12px; padding-top: 0px">&nbsp;</p>
+                                    </td>
+                                    <td width="41%" valign="middle" align="right">
+                                    <p style="padding-bottom: 0px; margin: 0px 15px 0px 0px; padding-left: 0px; padding-right: 0px; font-family: Arial, Helvetica, sans-serif; color: #545454; font-size: 12px; padding-top: 0px"><a href="https://partnerstore.oracle.com/pls/ostore/f?p=pstore:home:0" style="color: #1f4f82" target="_blank">Update</a> Your Communications Preferences</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tbody>
+                    <tr>
+                        <td>
+                        <table width="98%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                                <tr>
+                                    <td width="2%" valign="top"><img width="42" height="54" src="http://www.oracle.com/us/design/74947-sctn-anchor-ext-1837595.jpg" alt="" style="display: block" /></td>
+                                    <td width="98%" valign="top">
+                                    <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                        <tbody>
+                                            <tr>
+                                                <td><img width="584" height="30" src="http://www.oracle.com/us/design/74947-sctn-shdw-ext-1837593.jpg" alt="" style="display: block" /></td>
+                                            </tr>
+                                            <tr>
+                                                <td><a name="headline1"></a><span style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: Arial, Helvetica, sans-serif; color: #545454; font-size: 18px; padding-top: 0px">Java SE Advanced for ISVs</span></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td valign="top" style="padding-bottom: 25px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+                                    <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                        <tbody>
+                                            <tr>
+                                                <td width="52%" valign="top" height="150" style="padding-bottom: 0px; padding-left: 0px; padding-right: 10px; padding-top: 0px"><br />
+                                                <p style="line-height: 17px; font-family: Arial, Helvetica, sans-serif; color: #545454; font-size: 12px">Join us to learn how Java SE Advanced enables you to effectively monitor, manage, update and support your Java based products. <br />
+                                                <em><br />
+                                                &quot;Any enterprise software company that has software written in Java and needs to provide mission-critical support, cannot truthfully claim they can provide that unless they have support from Oracle as well. The best thing about Oracle Java SE Advanced for ISVs is that it gives us confidence we can properly support our customers.&quot;</em><br />
+                                                <br />
+                                                Executive Vice President Product and Technology, Oracle ISV partner</p>
+                                                </td>
+                                                <td width="48%" valign="top">
+                                                <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td valign="top" height="150" style="padding-bottom: 0px; padding-left: 10px; padding-right: 10px; padding-top: 20px">
+                                                            <table width="200" cellspacing="0" cellpadding="0" border="0" align="center">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td style="border-bottom: #b3b3b3 1px solid; border-left: #b3b3b3 1px solid; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; border-top: #b3b3b3 1px solid; border-right: #b3b3b3 1px solid; padding-top: 10px">
+                                                                        <table cellspacing="0" cellpadding="0" border="0" style="font-family: arial; font-size: 14px">
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td width="35" style="padding-bottom: 0px; padding-left: 10px; padding-right: 0px; vertical-align: top; padding-top: 0px"><img width="35" height="40" src="https://www.oracleimg.com/webfolder/s/dm/templates/2reg-ers-cldr-icon.png" alt="" /></td>
+                                                                                    <td width="160" valign="middle" style="padding-bottom: 0px; line-height: 17px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: Arial, Helvetica, sans-serif; color: #545454; font-size: 12px; padding-top: 0px"><strong>Tuesday, <br />
+                                                                                    September 9, 2014</strong><br />
+                                                                                    11:00 AM EDT / <br />
+                                                                                    8:00 AM PDT, 16:00 BST (London)<br />
+                                                                                    <strong>Duration</strong>: 60 minutes</td>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                        <strong><br />
+                                                                        <div align="center">
+                                                                        <table width="178" cellspacing="0" cellpadding="0" border="0" align="center" style="background-color: #ff0000">
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td height="9" style="line-height: 0px; font-size: 1px"><img width="178" height="8" src="http://www.oracleimg.com/ocom/groups/public/@ocom/documents/digitalasset/400625.gif" alt="" /></td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td align="center" style="font-size: 14px">
+                                                                                    <div align="center"><b><font face="Arial, Helvetica, sans-serif" color="#ffffff"><a href="http://eventreg.oracle.com/profile/web/index.cfm?PKWebId=0x1169274aaa" style="text-decoration: none" target="_blank"><font color="#ffffff"><strong>Register Now</strong></font></a></font></b></div>
+                                                                                    </td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td height="12" style="line-height: 0px; font-size: 1px"><img width="178" height="12" src="http://www.oracleimg.com/ocom/groups/public/@ocom/documents/digitalasset/400624.gif" alt="" /></td>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                        </div>
+                                                                        </strong></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>
+                                                                        <div align="center"><img width="100%" height="16" src="http://www.oracle.com/us/design/74947-sidebar-shdw-1740789.jpg" alt="" style="display: inline" /></div>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <ul><font style="line-height: 17px; font-family: Arial, Helvetica, sans-serif; color: #545454; font-size: 12px">
+                                        <ul>
+                                            <li>Oracle Lifetime Support for Java SE</li>
+                                            <li>Direct access to updates/patches on My Oracle Support (MOS)</li>
+                                            <li>Rigorous and on-going regression testing and fixes for versions of Java SE that have reached End-of-Public-Update (EoPU)</li>
+                                            <li>Quick turnaround to critical issues with access to intermediate revisions</li>
+                                            <li>Zero-overhead monitoring and management of Java SE via Mission Control and Flight Recorder</li>
+                                        </ul>
+                                        </font></ul>
+                                        <p style="padding-bottom: 0px; line-height: 17px; padding-left: 0px; padding-right: 20px; font-family: Arial, Helvetica, sans-serif; color: #545454; font-size: 12px; padding-top: 0px"><strong>Agenda:</strong></p>
+                                        <ul><font style="line-height: 17px; font-family: Arial, Helvetica, sans-serif; color: #545454; font-size: 12px">
+                                            <ul>
+                                                <li>Overview of Java SE Advanced for ISVs</li>
+                                                <li>Delivering Value with Java SE Advanced for ISVs</li>
+                                                <li>Demo: Java Mission Control and Flight Recorder</li>
+                                                <li>Delivering Insight &amp; Assurance for Java Applications</li>
+                                                <li>Customer Examples</li>
+                                            </ul>
+                                            </font></ul>
+                                            <p style="padding-bottom: 0px; line-height: 17px; margin: 14px 20px 0px 0px; padding-left: 0px; padding-right: 0px; font-family: Arial, Helvetica, sans-serif; color: #545454; font-size: 12px; padding-top: 0px"><strong><u>Speakers:</u></strong></p>
+                                            <table width="560" border="0">
+                                                <tbody>
+                                                    <tr>
+                                                        <td width="554" valign="top" height="173">
+                                                        <p style="padding-bottom: 0px; line-height: 17px; margin: 14px 0px 0px; padding-left: 0px; padding-right: 0px; font-family: Arial, Helvetica, sans-serif; color: #545454; font-size: 12px; padding-top: 0px"><strong><img width="72" vspace="5" hspace="5" height="86" align="left" src="http://www.oracleimg.com/us/dm/peter-2266083.jpg" alt="Peter" />Peter Utzschneider </strong><br />
+                                                        <em>Vice President, Product Management, Oracle </em><br />
+                                                        <br />
+                                                        Peter Utzschneider is responsible for market strategy for Java SE, JavaFX, Java ME, and Java Embedded products, with focus on the commercial success of the Java products, vibrancy of the Java community, and Oracle's ongoing commitment to the language and technology. For more than 20 years he has been successfully marketing and selling best-of-breed software solutions in Europe and the US by leveraging his ability to translate early market demand into broader market adoption. Utzschneider joined Oracle when it acquired Tangosol, where he was vice president of marketing. At Oracle he has continued to grow the success of the Oracle Coherence data grid products. These are the industry's leading data grid solution and a key component of Oracle Fusion Middleware.</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td width="554" valign="top" height="173">
+                                                        <p style="padding-bottom: 0px; line-height: 17px; margin: 14px 0px 0px; padding-left: 0px; padding-right: 0px; font-family: Arial, Helvetica, sans-serif; color: #545454; font-size: 12px; padding-top: 0px"><strong><img width="73" vspace="5" hspace="5" height="89" align="left" src="http://www.oracleimg.com/us/dm/jim-2266084.jpg" alt="Jim" />Jim Weaver </strong><br />
+                                                        <em>Java Technology Ambassador, Oracle </em><br />
+                                                        <br />
+                                                        James Weaver is a Java developer, author, and speaker with a passion for helping Java to be increasingly leveraged in rich-client applications and the Internet of Things (IoT). James has written books including Inside Java, Beginning J2EE, and the Pro JavaFX series. As an Oracle Java Technology Ambassador, James speaks internationally at software technology conferences about Java, JavaFX, and IoT. <br />
+                                                        James tweets as @JavaFXpert, blogs at <a href="http://JavaFXpert.com" style="color: #1f4f82" target="_blank">http://JavaFXpert.com</a> and may be reached via email at <a href="mailto:james.weaver@oracle.com" style="color: #1f4f82">james.weaver@oracle.com</a></p>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                    <tbody>
+                                    </tbody>
+                                </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                        <tbody>
+                            <tr>
+                                <td bgcolor="#f0f0f0"><img width="626" height="15" src="http://www.oracle.com/us/design/74947-bottom-grad-1883021.jpg" alt="" style="display: inline" /></td>
+                            </tr>
+                            <tr>
+                                <td bgcolor="#f0f0f0" style="padding-bottom: 20px; padding-left: 20px; padding-right: 20px; padding-top: 0px">
+                                <p style="padding-bottom: 0px; margin: 0px 5px 12px 20px; padding-left: 0px; padding-right: 0px; font-family: Arial, Helvetica, sans-serif; color: #545454; font-size: 18px; padding-top: 0px">You Might Be Interested In:</p>
+                                <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td width="51%" valign="top">
+                                            <ul>
+                                                <li><span style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: Arial, Helvetica, sans-serif; color: #1f4f82; font-size: 12px; padding-top: 0px"><a href="https://partnerstore.oracle.com/pls/ostore/f?p=pstore:home:0" style="color: #1f4f82" target="_blank">Oracle Partner Store</a></span></li>
+                                                <li><span style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: Arial, Helvetica, sans-serif; color: #1f4f82; font-size: 12px; padding-top: 0px"><a href="http://www.oracle.com/partners" style="color: #1f4f82" target="_blank">OPN Website</a></span></li>
+                                                <li><span style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: Arial, Helvetica, sans-serif; color: #1f4f82; font-size: 12px; padding-top: 0px"><a href="http://www.oracle.com/partners/secure/marketing/google-ads-1573131.html" style="color: #1f4f82" target="_blank">Use Oracle&trade; in Google AdWords</a></span></li>
+                                            </ul>
+                                            </td>
+                                            <td width="49%" valign="top">
+                                            <ul>
+                                                <li><span style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: Arial, Helvetica, sans-serif; color: #1f4f82; font-size: 12px; padding-top: 0px"><a href="http://www.oracle.com/partners/en/partner-with-oracle/training/information-center/index.html" style="color: #1f4f82" target="_blank">OPN Information Center</a></span></li>
+                                                <li><span style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: Arial, Helvetica, sans-serif; color: #1f4f82; font-size: 12px; padding-top: 0px"><a href="http://opnevents.oracle.com/" style="color: #1f4f82" target="_blank">Check out Oracle Events Calendar</a></span></li>
+                                                <li><span style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: Arial, Helvetica, sans-serif; color: #1f4f82; font-size: 12px; padding-top: 0px"><a href="http://www.oracle.com/partners/secure/marketing/participate-in-an-event/partner-event-publishing-151582.html" style="color: #1f4f82" target="_blank">Promote Your Own Events </a></span></li>
+                                            </ul>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="border-bottom: #b3b3b3 1px solid; padding-bottom: 20px; padding-left: 20px; padding-right: 20px; border-top: #b3b3b3 1px solid; padding-top: 20px">
+                    <table width="100%" cellspacing="0" cellpadding="0" border="0" align="right">
+                        <tbody>
+                            <tr>
+                                <td><img src="http://www.oracle.com/us/design/oracle-tagline-196877.gif" alt="Hardware and Software, Engineered to Work Together" /></td>
+                                <td align="right"><span style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: Arial, Helvetica, sans-serif; color: #545454; font-size: 12px; padding-top: 0px"><strong>Want to learn more? Visit the <a href="https://blogs.oracle.com/partnernews/" style="color: #1f4f82">OPN News Blog</a></strong> <a style="color: #1f4f82" target="_blank" href="http://blogs.oracle.com/partnernews/feed/entries/rss"><img width="15" height="15" border="0" align="absMiddle" src="http://www.oracleimg.com/ocom/groups/systemobject/@mktg_admin/@ocom_admin/documents/digitalasset/feed-icon-14x14.png" alt="Subscribe" /></a></span></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="padding-bottom: 5px; padding-left: 5px; padding-right: 5px; padding-top: 5px">
+                    <table width="100%" cellspacing="0" border="0">
+                        <tbody>
+                            <tr>
+                                <td valign="middle" height="35"><font size="1" face="Arial, Helvetica, sans-serif">Copyright &copy; 2014, Oracle and/or its affiliates. <br />
+                                All rights reserved.</font></td>
+                                <td valign="middle" align="right"><font size="1" face="Arial, Helvetica, sans-serif"><a href="http://www.oracle.com/corporate/contact/" style="text-decoration: underline" target="_blank"><font color="#ff0000">Contact Us</font></a> | <a href="http://www.oracle.com/html/copyright.html" style="text-decoration: underline" target="_blank"><font color="#ff0000">Legal Notices and Terms of Use</font></a> | <a href="http://www.oracle.com/html/privacy.html" style="text-decoration: underline" target="_blank"><font color="#ff0000">Privacy Statement</font></a></font></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="614" cellspacing="0" cellpadding="0" border="0" align="center">
+            <tbody>
+            </tbody>
+        </table>
+        <table width="628" cellspacing="1" cellpadding="6" border="0" align="center">
+            <tbody>
+                <tr>
+                    <td valign="top">
+                    <p><font size="1" face="Arial, Helvetica, sans-serif">Oracle Corporation - Worldwide Headquarters, 500 Oracle Parkway, OPL - E-mail Services, Redwood Shores, CA 94065, United States<br />
+                    <br />
+                    You are receiving this communication because of your current Oracle PartnerNetwork (OPN) membership agreement. General Marketing e-mail opt-out preferences may have been overridden to ensure that you receive this program information. If you are a designated OPN Administrator you may not opt out of receiving communications from Oracle PartnerNetwork; please refer to your OPN agreement for additional information. <br />
+                    <br />
+                    You can <a href="https://dne.oracle.com/pls/uns/OPT_OUT.th?coid=[Field: Contact Id]&amp;prid=[Field: Prospect Id]&amp;trid=[Field: Treatment ID]&amp;cmid=[Field: Campaign Id]&amp;ccid=[Field: Camp Con Id]&amp;LC=en" target="_blank"><font color="#ff0000"><u>opt-out</u></font></a> of general Oracle Marketing e-mails at any time. Please note that opting-out of Marketing communications does not affect your receipt of important business communications related to your current relationship with Oracle such as Security Updates, Event Registration notices, Account Management, and Support/Service communications.</font></p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&nbsp;</p>
+        <!-- InstanceEndEditable --><!-- InstanceEnd --></meta>
+</div>
+<!--SS_BEGIN_SNIPPET(fragment2,1)-->
+				<!-- Start SiteCatalyst code -->
+<script language="JavaScript" src="http://www.oracleimg.com/us/assets/metrics/ora_opn.js"></script>
+<!-- End SiteCatalyst code --> 
+			<!--SS_END_SNIPPET(fragment2,1)-->
+
+</body>
+</html>

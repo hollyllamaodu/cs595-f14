@@ -1,0 +1,14 @@
+
+
+                   HTTP Status 404 - /jfokus/proposals.jsp%0D
+     __________________________________________________________________
+
+   type Status report
+
+   message /jfokus/proposals.jsp%0D
+
+   description The requested resource (/jfokus/proposals.jsp%0D) is not
+   available.
+     __________________________________________________________________
+
+  Apache Tomcat/7.0.26

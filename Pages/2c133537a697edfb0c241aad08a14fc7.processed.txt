@@ -1,0 +1,525 @@
+   #[1]Python Software Foundation News - Atom [2]Python Software
+   Foundation News - RSS [3]Python Software Foundation News - Atom
+
+   [4]skip to main | [5]skip to sidebar
+
+[6]Python Software Foundation News
+
+   Announcements and requests from the non-profit [7]Python Software
+   Foundation.
+
+Monday, September 09, 2013
+
+[8]Cloud, HPC And Open Technologies Converge To Fuel Research, Innovation
+
+   When you put leaders of industry, research, and academia in a room for
+   a day, what do you get? If you were at [9]Argonne National Laboratory
+   last month for the workshop on resource intensive open clouds, you got
+   a taste of progress. The workshop was organized by leaders from
+   [10]Notre Dame University, [11]Internet2, and [12]Rackspace, in the
+   interests of figuring out the next steps for the technical computing
+   world, bridging old-world high performance computing with the new-world
+   of cloud computing.
+   I was invited to this workshop on behalf of the PSF, and was excited by
+   the prospect of being involved in an open and collaborative
+   environment, tasked with figuring out how all of these sides of the
+   story could come together. Many of the attendees are using
+   [13]OpenStack, an open cloud computing platform implemented in Python,
+   and Python was a key technology for many of them in other ways. It
+   looks like OpenStack-based and community-owned open clouds will likely
+   become key points as the group progresses towards a better landscape to
+   solve their computing needs, and if the past is any indication, Python
+   will remain an important piece of the software powering it.
+   "The pace of innovation is accelerated and the diversity of solutions
+   and approaches ensures that good solutions persist and not so good ones
+   are quickly identified," said event organizer Paul Rad of Rackspace, on
+   the topic of open and transparent workshops like this one.
+   My hope for this group is that future workshops can leverage some of
+   our leaders in Python's large scientific community, many of whom are
+   undoubtedly facing the challenges this workshop set out to improve on.
+   Feel free to contact me at [14]brian@python.org if you're interested in
+   contributing to future efforts.
+   For more details on the workshop, see Paul's post on the subject
+   at [15]http://www.rackspace.com/blog/cloud-hpc-and-open-technologies-co
+   nverge-to-fuel-research-innovation/. If you are interested in learning
+   more about this initiative and/or in participating in future workshop
+   sessions, please email [16]OpenCloud@internet2.edu.
+   Posted by Brian Curtin at [17]9/09/2013 04:04:00 PM
+   [18]Email This[19]BlogThis![20]Share to Twitter[21]Share to
+   Facebook[22]Share to Pinterest
+   Cloud, HPC And Open Technologies Converge To Fuel Research, Innovation
+   When you put leaders of industry, research, and academia in a room for
+   a day, what do you get? If you were at [23]Argonne National Laboratory
+   last month for the workshop on resource intensive open clouds, you got
+   a taste of progress. The workshop was organized by leaders from
+   [24]Notre Dame University, [25]Internet2, and [26]Rackspace, in the
+   interests of figuring out the next steps for the technical computing
+   world, bridging old-world high performance computing with the new-world
+   of cloud computing.
+   I was invited to this workshop on behalf of the PSF, and was excited by
+   the prospect of being involved in an open and collaborative
+   environment, tasked with figuring out how all of these sides of the
+   story could come together. Many of the attendees are using
+   [27]OpenStack, an open cloud computing platform implemented in Python,
+   and Python was a key technology for many of them in other ways. It
+   looks like OpenStack-based and community-owned open clouds will likely
+   become key points as the group progresses towards a better landscape to
+   solve their computing needs, and if the past is any indication, Python
+   will remain an important piece of the software powering it.
+   "The pace of innovation is accelerated and the diversity of solutions
+   and approaches ensures that good solutions persist and not so good ones
+   are quickly identified," said event organizer Paul Rad of Rackspace, on
+   the topic of open and transparent workshops like this one.
+   My hope for this group is that future workshops can leverage some of
+   our leaders in Python's large scientific community, many of whom are
+   undoubtedly facing the challenges this workshop set out to improve on.
+   Feel free to contact me at [28]brian@python.org if you're interested in
+   contributing to future efforts.
+   For more details on the workshop, see Paul's post on the subject
+   at [29]http://www.rackspace.com/blog/cloud-hpc-and-open-technologies-co
+   nverge-to-fuel-research-innovation/. If you are interested in learning
+   more about this initiative and/or in participating in future workshop
+   sessions, please email [30]OpenCloud@internet2.edu.
+   Please enable JavaScript to view the [31]comments powered by Disqus.
+   [32]blog comments powered by Disqus
+
+   [33]Newer Post [34]Older Post [35]Home
+   Subscribe to: [36]Post Comments (Atom)
+
+Around the Web
+
+   [37]Follow ThePSF on Twitter
+   [38][facebook.gif]
+
+Subscribe via email
+
+   Enter your email address:
+
+   ____________________
+   Subscribe
+
+   Delivered by [39]FeedBurner
+
+Blog Archive
+
+     * [40]►  [41]2014 (13)
+          + [42]►  [43]September (1)
+          + [44]►  [45]August (2)
+          + [46]►  [47]July (1)
+          + [48]►  [49]May (1)
+          + [50]►  [51]April (1)
+          + [52]►  [53]March (2)
+          + [54]►  [55]February (3)
+          + [56]►  [57]January (2)
+
+     * [58]▼  [59]2013 (18)
+          + [60]►  [61]November (1)
+          + [62]▼  [63]September (2)
+               o [64]Cloud, HPC And Open Technologies Converge To Fuel ...
+               o [65]Python Surpasses Standards, Reaches New Levels of ...
+          + [66]►  [67]August (1)
+          + [68]►  [69]July (1)
+          + [70]►  [71]June (1)
+          + [72]►  [73]April (1)
+          + [74]►  [75]March (5)
+          + [76]►  [77]February (3)
+          + [78]►  [79]January (3)
+
+     * [80]►  [81]2012 (21)
+          + [82]►  [83]December (3)
+          + [84]►  [85]November (2)
+          + [86]►  [87]October (2)
+          + [88]►  [89]September (1)
+          + [90]►  [91]August (1)
+          + [92]►  [93]July (1)
+          + [94]►  [95]June (2)
+          + [96]►  [97]May (4)
+          + [98]►  [99]April (1)
+          + [100]►  [101]March (1)
+          + [102]►  [103]January (3)
+
+     * [104]►  [105]2011 (55)
+          + [106]►  [107]December (2)
+          + [108]►  [109]November (1)
+          + [110]►  [111]October (7)
+          + [112]►  [113]September (5)
+          + [114]►  [115]August (2)
+          + [116]►  [117]July (1)
+          + [118]►  [119]June (3)
+          + [120]►  [121]May (8)
+          + [122]►  [123]April (8)
+          + [124]►  [125]March (13)
+          + [126]►  [127]February (2)
+          + [128]►  [129]January (3)
+
+     * [130]►  [131]2010 (35)
+          + [132]►  [133]December (4)
+          + [134]►  [135]November (1)
+          + [136]►  [137]October (3)
+          + [138]►  [139]September (2)
+          + [140]►  [141]August (1)
+          + [142]►  [143]July (8)
+          + [144]►  [145]June (6)
+          + [146]►  [147]May (2)
+          + [148]►  [149]April (4)
+          + [150]►  [151]March (2)
+          + [152]►  [153]January (2)
+
+     * [154]►  [155]2009 (21)
+          + [156]►  [157]December (1)
+          + [158]►  [159]October (1)
+          + [160]►  [161]September (6)
+          + [162]►  [163]August (4)
+          + [164]►  [165]July (4)
+          + [166]►  [167]June (1)
+          + [168]►  [169]May (2)
+          + [170]►  [171]April (1)
+          + [172]►  [173]February (1)
+
+     * [174]►  [175]2008 (23)
+          + [176]►  [177]December (1)
+          + [178]►  [179]November (1)
+          + [180]►  [181]October (1)
+          + [182]►  [183]August (3)
+          + [184]►  [185]July (1)
+          + [186]►  [187]May (3)
+          + [188]►  [189]April (1)
+          + [190]►  [191]March (5)
+          + [192]►  [193]February (4)
+          + [194]►  [195]January (3)
+
+     * [196]►  [197]2007 (26)
+          + [198]►  [199]December (3)
+          + [200]►  [201]November (2)
+          + [202]►  [203]October (6)
+          + [204]►  [205]September (1)
+          + [206]►  [207]August (1)
+          + [208]►  [209]July (1)
+          + [210]►  [211]June (2)
+          + [212]►  [213]May (1)
+          + [214]►  [215]April (1)
+          + [216]►  [217]March (2)
+          + [218]►  [219]February (3)
+          + [220]►  [221]January (3)
+
+     * [222]►  [223]2006 (39)
+          + [224]►  [225]December (3)
+          + [226]►  [227]November (4)
+          + [228]►  [229]October (5)
+          + [230]►  [231]September (4)
+          + [232]►  [233]August (4)
+          + [234]►  [235]July (3)
+          + [236]►  [237]May (7)
+          + [238]►  [239]April (6)
+          + [240]►  [241]March (3)
+
+Contributors
+
+     * [242]Brian Curtin
+     * [243]A.M. Kuchling
+     * [244]engelbert gruber
+     * [245]Jacob Kaplan-Moss
+     * [246]Jesse
+     * [247]Doug Napoleone
+     * [248]VanL
+     * [249]Jessica McKellar
+     * [250]Mike Driscoll
+     * [251]Alfonso de la Guarda Reyes
+     * [252]tp
+     * [253]Steve
+     * [254]David Goodger
+     * [255]Michael Foord
+     * [256]Anthony Scopatz
+     * [257]Doug Hellmann
+     * [258]timothydkiser
+     * [259]Marc-Andre Lemburg
+     * [260]Paulo Nuin
+     * [261]James Tauber
+
+Copyright
+
+   [262]Creative Commons License
+   The content of Python Software Foundation News by [263]Python Software
+   Foundation is licensed under a [264]Creative Commons
+   Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+   Based on a work at [265]pyfound.blogspot.com.
+
+References
+
+   Visible links
+   1. http://pyfound.blogspot.com/feeds/posts/default
+   2. http://pyfound.blogspot.com/feeds/posts/default?alt=rss
+   3. http://pyfound.blogspot.com/feeds/7204568010070767349/comments/default
+   4. http://pyfound.blogspot.com/2013/09/cloud-hpc-and-open-technologies.html?utm_source=feedburner#main
+   5. http://pyfound.blogspot.com/2013/09/cloud-hpc-and-open-technologies.html?utm_source=feedburner#sidebar
+   6. http://python.org/psf/
+   7. http://python.org/psf/
+   8. http://pyfound.blogspot.com/2013/09/cloud-hpc-and-open-technologies.html
+   9. http://www.anl.gov/
+  10. http://crc.nd.edu/
+  11. http://www.internet2.edu/
+  12. http://www.rackspace.com/
+  13. http://www.openstack.org/
+  14. mailto:brian@python.org
+  15. http://www.rackspace.com/blog/cloud-hpc-and-open-technologies-converge-to-fuel-research-innovation/
+  16. mailto:OpenCloud@internet2.edu
+  17. http://pyfound.blogspot.com/2013/09/cloud-hpc-and-open-technologies.html
+  18. http://pyfound.blogspot.com/2013/09/&target=email
+  19. http://pyfound.blogspot.com/2013/09/&target=blog
+  20. http://pyfound.blogspot.com/2013/09/&target=twitter
+  21. http://pyfound.blogspot.com/2013/09/&target=facebook
+  22. http://pyfound.blogspot.com/2013/09/&target=pinterest
+  23. http://www.anl.gov/
+  24. http://crc.nd.edu/
+  25. http://www.internet2.edu/
+  26. http://www.rackspace.com/
+  27. http://www.openstack.org/
+  28. mailto:brian@python.org
+  29. http://www.rackspace.com/blog/cloud-hpc-and-open-technologies-converge-to-fuel-research-innovation/
+  30. mailto:OpenCloud@internet2.edu
+  31. http://disqus.com/?ref_noscript=pyfound.disqus.comhttp://pyfound.blogspot.com/2013/09/cloud-hpc-and-open-technologies.html
+  32. http://disqus.com/
+  33. http://pyfound.blogspot.com/2013/11/congratulations-to-barry-warsaw.html
+  34. http://pyfound.blogspot.com/2013/09/python-surpasses-standards-reaches-new.html
+  35. http://pyfound.blogspot.com/
+  36. http://pyfound.blogspot.com/feeds/7204568010070767349/comments/default
+  37. http://www.twitter.com/ThePSF
+  38. http://www.facebook.com/#!/pythonlang
+  39. http://feedburner.google.com/
+  40. javascript:void(0)
+  41. http://pyfound.blogspot.com/search?updated-min=2014-01-01T00:00:00-05:00&updated-max=2015-01-01T00:00:00-05:00&max-results=13
+  42. javascript:void(0)
+  43. http://pyfound.blogspot.com/2014_09_01_archive.html
+  44. javascript:void(0)
+  45. http://pyfound.blogspot.com/2014_08_01_archive.html
+  46. javascript:void(0)
+  47. http://pyfound.blogspot.com/2014_07_01_archive.html
+  48. javascript:void(0)
+  49. http://pyfound.blogspot.com/2014_05_01_archive.html
+  50. javascript:void(0)
+  51. http://pyfound.blogspot.com/2014_04_01_archive.html
+  52. javascript:void(0)
+  53. http://pyfound.blogspot.com/2014_03_01_archive.html
+  54. javascript:void(0)
+  55. http://pyfound.blogspot.com/2014_02_01_archive.html
+  56. javascript:void(0)
+  57. http://pyfound.blogspot.com/2014_01_01_archive.html
+  58. javascript:void(0)
+  59. http://pyfound.blogspot.com/search?updated-min=2013-01-01T00:00:00-05:00&updated-max=2014-01-01T00:00:00-05:00&max-results=18
+  60. javascript:void(0)
+  61. http://pyfound.blogspot.com/2013_11_01_archive.html
+  62. javascript:void(0)
+  63. http://pyfound.blogspot.com/2013_09_01_archive.html
+  64. http://pyfound.blogspot.com/2013/09/cloud-hpc-and-open-technologies.html
+  65. http://pyfound.blogspot.com/2013/09/python-surpasses-standards-reaches-new.html
+  66. javascript:void(0)
+  67. http://pyfound.blogspot.com/2013_08_01_archive.html
+  68. javascript:void(0)
+  69. http://pyfound.blogspot.com/2013_07_01_archive.html
+  70. javascript:void(0)
+  71. http://pyfound.blogspot.com/2013_06_01_archive.html
+  72. javascript:void(0)
+  73. http://pyfound.blogspot.com/2013_04_01_archive.html
+  74. javascript:void(0)
+  75. http://pyfound.blogspot.com/2013_03_01_archive.html
+  76. javascript:void(0)
+  77. http://pyfound.blogspot.com/2013_02_01_archive.html
+  78. javascript:void(0)
+  79. http://pyfound.blogspot.com/2013_01_01_archive.html
+  80. javascript:void(0)
+  81. http://pyfound.blogspot.com/search?updated-min=2012-01-01T00:00:00-05:00&updated-max=2013-01-01T00:00:00-05:00&max-results=21
+  82. javascript:void(0)
+  83. http://pyfound.blogspot.com/2012_12_01_archive.html
+  84. javascript:void(0)
+  85. http://pyfound.blogspot.com/2012_11_01_archive.html
+  86. javascript:void(0)
+  87. http://pyfound.blogspot.com/2012_10_01_archive.html
+  88. javascript:void(0)
+  89. http://pyfound.blogspot.com/2012_09_01_archive.html
+  90. javascript:void(0)
+  91. http://pyfound.blogspot.com/2012_08_01_archive.html
+  92. javascript:void(0)
+  93. http://pyfound.blogspot.com/2012_07_01_archive.html
+  94. javascript:void(0)
+  95. http://pyfound.blogspot.com/2012_06_01_archive.html
+  96. javascript:void(0)
+  97. http://pyfound.blogspot.com/2012_05_01_archive.html
+  98. javascript:void(0)
+  99. http://pyfound.blogspot.com/2012_04_01_archive.html
+ 100. javascript:void(0)
+ 101. http://pyfound.blogspot.com/2012_03_01_archive.html
+ 102. javascript:void(0)
+ 103. http://pyfound.blogspot.com/2012_01_01_archive.html
+ 104. javascript:void(0)
+ 105. http://pyfound.blogspot.com/search?updated-min=2011-01-01T00:00:00-05:00&updated-max=2012-01-01T00:00:00-05:00&max-results=50
+ 106. javascript:void(0)
+ 107. http://pyfound.blogspot.com/2011_12_01_archive.html
+ 108. javascript:void(0)
+ 109. http://pyfound.blogspot.com/2011_11_01_archive.html
+ 110. javascript:void(0)
+ 111. http://pyfound.blogspot.com/2011_10_01_archive.html
+ 112. javascript:void(0)
+ 113. http://pyfound.blogspot.com/2011_09_01_archive.html
+ 114. javascript:void(0)
+ 115. http://pyfound.blogspot.com/2011_08_01_archive.html
+ 116. javascript:void(0)
+ 117. http://pyfound.blogspot.com/2011_07_01_archive.html
+ 118. javascript:void(0)
+ 119. http://pyfound.blogspot.com/2011_06_01_archive.html
+ 120. javascript:void(0)
+ 121. http://pyfound.blogspot.com/2011_05_01_archive.html
+ 122. javascript:void(0)
+ 123. http://pyfound.blogspot.com/2011_04_01_archive.html
+ 124. javascript:void(0)
+ 125. http://pyfound.blogspot.com/2011_03_01_archive.html
+ 126. javascript:void(0)
+ 127. http://pyfound.blogspot.com/2011_02_01_archive.html
+ 128. javascript:void(0)
+ 129. http://pyfound.blogspot.com/2011_01_01_archive.html
+ 130. javascript:void(0)
+ 131. http://pyfound.blogspot.com/search?updated-min=2010-01-01T00:00:00-05:00&updated-max=2011-01-01T00:00:00-05:00&max-results=35
+ 132. javascript:void(0)
+ 133. http://pyfound.blogspot.com/2010_12_01_archive.html
+ 134. javascript:void(0)
+ 135. http://pyfound.blogspot.com/2010_11_01_archive.html
+ 136. javascript:void(0)
+ 137. http://pyfound.blogspot.com/2010_10_01_archive.html
+ 138. javascript:void(0)
+ 139. http://pyfound.blogspot.com/2010_09_01_archive.html
+ 140. javascript:void(0)
+ 141. http://pyfound.blogspot.com/2010_08_01_archive.html
+ 142. javascript:void(0)
+ 143. http://pyfound.blogspot.com/2010_07_01_archive.html
+ 144. javascript:void(0)
+ 145. http://pyfound.blogspot.com/2010_06_01_archive.html
+ 146. javascript:void(0)
+ 147. http://pyfound.blogspot.com/2010_05_01_archive.html
+ 148. javascript:void(0)
+ 149. http://pyfound.blogspot.com/2010_04_01_archive.html
+ 150. javascript:void(0)
+ 151. http://pyfound.blogspot.com/2010_03_01_archive.html
+ 152. javascript:void(0)
+ 153. http://pyfound.blogspot.com/2010_01_01_archive.html
+ 154. javascript:void(0)
+ 155. http://pyfound.blogspot.com/search?updated-min=2009-01-01T00:00:00-05:00&updated-max=2010-01-01T00:00:00-05:00&max-results=21
+ 156. javascript:void(0)
+ 157. http://pyfound.blogspot.com/2009_12_01_archive.html
+ 158. javascript:void(0)
+ 159. http://pyfound.blogspot.com/2009_10_01_archive.html
+ 160. javascript:void(0)
+ 161. http://pyfound.blogspot.com/2009_09_01_archive.html
+ 162. javascript:void(0)
+ 163. http://pyfound.blogspot.com/2009_08_01_archive.html
+ 164. javascript:void(0)
+ 165. http://pyfound.blogspot.com/2009_07_01_archive.html
+ 166. javascript:void(0)
+ 167. http://pyfound.blogspot.com/2009_06_01_archive.html
+ 168. javascript:void(0)
+ 169. http://pyfound.blogspot.com/2009_05_01_archive.html
+ 170. javascript:void(0)
+ 171. http://pyfound.blogspot.com/2009_04_01_archive.html
+ 172. javascript:void(0)
+ 173. http://pyfound.blogspot.com/2009_02_01_archive.html
+ 174. javascript:void(0)
+ 175. http://pyfound.blogspot.com/search?updated-min=2008-01-01T00:00:00-05:00&updated-max=2009-01-01T00:00:00-05:00&max-results=23
+ 176. javascript:void(0)
+ 177. http://pyfound.blogspot.com/2008_12_01_archive.html
+ 178. javascript:void(0)
+ 179. http://pyfound.blogspot.com/2008_11_01_archive.html
+ 180. javascript:void(0)
+ 181. http://pyfound.blogspot.com/2008_10_01_archive.html
+ 182. javascript:void(0)
+ 183. http://pyfound.blogspot.com/2008_08_01_archive.html
+ 184. javascript:void(0)
+ 185. http://pyfound.blogspot.com/2008_07_01_archive.html
+ 186. javascript:void(0)
+ 187. http://pyfound.blogspot.com/2008_05_01_archive.html
+ 188. javascript:void(0)
+ 189. http://pyfound.blogspot.com/2008_04_01_archive.html
+ 190. javascript:void(0)
+ 191. http://pyfound.blogspot.com/2008_03_01_archive.html
+ 192. javascript:void(0)
+ 193. http://pyfound.blogspot.com/2008_02_01_archive.html
+ 194. javascript:void(0)
+ 195. http://pyfound.blogspot.com/2008_01_01_archive.html
+ 196. javascript:void(0)
+ 197. http://pyfound.blogspot.com/search?updated-min=2007-01-01T00:00:00-05:00&updated-max=2008-01-01T00:00:00-05:00&max-results=26
+ 198. javascript:void(0)
+ 199. http://pyfound.blogspot.com/2007_12_01_archive.html
+ 200. javascript:void(0)
+ 201. http://pyfound.blogspot.com/2007_11_01_archive.html
+ 202. javascript:void(0)
+ 203. http://pyfound.blogspot.com/2007_10_01_archive.html
+ 204. javascript:void(0)
+ 205. http://pyfound.blogspot.com/2007_09_01_archive.html
+ 206. javascript:void(0)
+ 207. http://pyfound.blogspot.com/2007_08_01_archive.html
+ 208. javascript:void(0)
+ 209. http://pyfound.blogspot.com/2007_07_01_archive.html
+ 210. javascript:void(0)
+ 211. http://pyfound.blogspot.com/2007_06_01_archive.html
+ 212. javascript:void(0)
+ 213. http://pyfound.blogspot.com/2007_05_01_archive.html
+ 214. javascript:void(0)
+ 215. http://pyfound.blogspot.com/2007_04_01_archive.html
+ 216. javascript:void(0)
+ 217. http://pyfound.blogspot.com/2007_03_01_archive.html
+ 218. javascript:void(0)
+ 219. http://pyfound.blogspot.com/2007_02_01_archive.html
+ 220. javascript:void(0)
+ 221. http://pyfound.blogspot.com/2007_01_01_archive.html
+ 222. javascript:void(0)
+ 223. http://pyfound.blogspot.com/search?updated-min=2006-01-01T00:00:00-05:00&updated-max=2007-01-01T00:00:00-05:00&max-results=39
+ 224. javascript:void(0)
+ 225. http://pyfound.blogspot.com/2006_12_01_archive.html
+ 226. javascript:void(0)
+ 227. http://pyfound.blogspot.com/2006_11_01_archive.html
+ 228. javascript:void(0)
+ 229. http://pyfound.blogspot.com/2006_10_01_archive.html
+ 230. javascript:void(0)
+ 231. http://pyfound.blogspot.com/2006_09_01_archive.html
+ 232. javascript:void(0)
+ 233. http://pyfound.blogspot.com/2006_08_01_archive.html
+ 234. javascript:void(0)
+ 235. http://pyfound.blogspot.com/2006_07_01_archive.html
+ 236. javascript:void(0)
+ 237. http://pyfound.blogspot.com/2006_05_01_archive.html
+ 238. javascript:void(0)
+ 239. http://pyfound.blogspot.com/2006_04_01_archive.html
+ 240. javascript:void(0)
+ 241. http://pyfound.blogspot.com/2006_03_01_archive.html
+ 242. http://www.blogger.com/profile/14604644394514192040
+ 243. http://www.blogger.com/profile/14971120963699387108
+ 244. https://plus.google.com/103916922127569633396
+ 245. http://www.blogger.com/profile/01451152285284438702
+ 246. http://www.blogger.com/profile/07543015027323408421
+ 247. http://www.blogger.com/profile/07331585381804299154
+ 248. http://www.blogger.com/profile/15361575080931041976
+ 249. http://www.blogger.com/profile/13756992050921673361
+ 250. http://www.blogger.com/profile/06351908417200979114
+ 251. https://plus.google.com/105172091805567849283
+ 252. http://www.blogger.com/profile/07627402554307001461
+ 253. http://www.blogger.com/profile/15732819755000554717
+ 254. http://www.blogger.com/profile/06673699859175469861
+ 255. http://www.blogger.com/profile/06229713779852499022
+ 256. http://www.blogger.com/profile/03855116138400732464
+ 257. http://www.blogger.com/profile/01892352754222143463
+ 258. http://www.blogger.com/profile/15283545632469437380
+ 259. http://www.blogger.com/profile/05569570562799478047
+ 260. https://plus.google.com/116670685619813088895
+ 261. http://www.blogger.com/profile/02228533729754593753
+ 262. http://creativecommons.org/licenses/by-nc-sa/3.0/
+ 263. http://www.python.org/psf/
+ 264. http://creativecommons.org/licenses/by-nc-sa/3.0/
+ 265. http://pyfound.blogspot.com/
+
+   Hidden links:
+ 267. http://pyfound.blogspot.com/
+ 268. http://www.blogger.com/email-post.g?blogID=8520&postID=7204568010070767349
+ 269. http://www.blogger.com/post-edit.g?blogID=8520&postID=7204568010070767349&from=pencil
+ 270. http://pyfound.blogspot.com/2013/09/cloud-hpc-and-open-technologies.html?utm_source=feedburner
+ 271. http://www.blogger.com/rearrange?blogID=8520&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=sidebar
+ 272. http://www.blogger.com/rearrange?blogID=8520&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebar
+ 273. http://www.blogger.com/rearrange?blogID=8520&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar
+ 274. http://www.blogger.com/rearrange?blogID=8520&widgetType=Profile&widgetId=Profile1&action=editWidget&sectionId=sidebar
+ 275. http://www.blogger.com/rearrange?blogID=8520&widgetType=HTML&widgetId=HTML4&action=editWidget&sectionId=sidebar

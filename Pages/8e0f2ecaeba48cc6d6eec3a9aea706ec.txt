@@ -1,0 +1,128 @@
+<!doctype html><!--[if IE 8]><html class="no-js lt-ie8" ng-app="forbeslifeApp"> <![endif]--><!--[if IE 9]><html class="no-js lt-ie9" ng-app="forbeslifeApp"> <![endif]--><!--[if gt IE 9]><!--><html class="no-js" ng-app="forbeslifeApp"><!--<![endif]--><head ng-controller="Meta" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"><meta charset="utf-8"><title meta-title="">Forbes Life</title><meta name="description" content="{{meta.description}}"><meta name="keywords" content="{{meta.keywords}}"><link rel="canonical" href="{{meta.canonical}}"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"><meta name="fragment" content="!"><meta name="prerender-status-code" content="{{meta.code}}" ng-if="meta.code === 404"><!-- facebook og --><meta property="fb:app_id" content="123694841080850"><meta property="og:type" content="article"><meta property="og:url" content="{{meta.canonical}}"><meta property="og:title" content="{{meta.title}}"><meta property="og:description" content="{{meta.description}}"><meta property="og:image" content="{{meta.image}}"><!-- twitter card--><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@forbes"><meta name="twitter:title" content="{{meta.title}}"><meta name="twitter:description" content="{{meta.description}}"><meta name="twitter:image:src" content="{{meta.image}}"><!--[if lte IE 9]><base href="/forbeslife/" /><![endif]--><base href="/"><!-- Place favicon.ico and apple-touch-icon.png in the root directory --><link rel="stylesheet" href="http://i.forbesimg.com/forbeslife/styles/9054a1e3.main.css"><script>var googletag = googletag || {};
+		(function() {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+		})();
+
+		var fbs_settings = {
+			domain_base: 'http://www.forbes.com',
+			blogs_base: 'http://blogs.forbes.com',
+			tool_js: ''
+		};
+
+		var _gaq = _gaq || [];
+		(function() { 
+			_gaq.push([ '_setAccount', 'UA-5883199-3' ]);
+			_gaq.push([ '_setDomainName', '.forbes.com' ]);
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+			ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
+		})(); 
+
+		/*
+		 * Load chartbeat
+		 */
+		var _sf_startpt=(new Date()).getTime();
+		(function(){
+			function loadChartbeat() {
+				window._sf_endpt=(new Date()).getTime();
+				var e = document.createElement('script');
+				e.setAttribute('language', 'javascript');
+				e.setAttribute('type', 'text/javascript');
+				e.setAttribute('src', (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://') + 'static.chartbeat.com/js/chartbeat.js');
+				document.body.appendChild(e);
+			}
+			var oldonload = window.onload;
+			window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };
+		})();
+
+		/*
+		 * Load comscore
+		 */
+		var _comscore = _comscore || [],
+		comscore_track = {
+			getEl: function() {
+				comscore_track.el = comscore_track.el || document.getElementById('comscore');
+				return comscore_track.el;
+			},
+			push: function() {
+				_comscore.push({ c1: '2', c2: '6872493' });
+				(function() {
+					var s = document.createElement('script'),
+					el = comscore_track.getEl();
+					el.innerHTML = '';
+					s.async = true;
+					s.src = (document.location.protocol == 'https:' ? 'https://sb' : 'http://b') + '.scorecardresearch.com/beacon.js';
+					el.appendChild(s);
+				})();
+			}
+		},
+
+		/*
+		 * Load moat
+		 */
+		moat_track = {
+			getEl: function() {
+				moat_track.el = moat_track.el || document.getElementById('moat');
+				return moat_track.el;
+			},
+			push: function() {
+				(function() {
+					var s = document.createElement('script'),
+					el = moat_track.getEl();
+					el.innerHTML = '';
+					s.async = true;
+					s.src = 'http://s.moatads.com/forbes949SzQW17/moatcontent.js';
+					el.appendChild(s);
+				})();
+			}
+		};
+
+		/*
+		 * SimpleReach
+		 */
+		var __reach_config = {};
+		(function() {
+			__reach_config = {
+				pid: (fbs_settings.domain_base !== 'http://www.forbes.com') ? '000000000000000000000000' : '50e4a8434240cf5c4b000009',
+				url: 'http://www.forbes.com/forbeslife',
+				title: 'ForbesLife',
+				ref_url: 'http://www.forbes.com/forbeslife/',
+				referrer: 'http://www.forbes.com/forbeslife/',
+				domain: 'http://www.forbes.com/',
+				date: (new Date()).toISOString(),
+				ignore_errors: true
+			};
+			var simple_reach_var = document.createElement('script');
+			simple_reach_var.async = true;
+			simple_reach_var.type = 'text/javascript';
+			simple_reach_var.src = document.location.protocol + '//d8rk54i4mohrb.cloudfront.net/js/reach.js';
+			(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(simple_reach_var)
+		})();
+
+		/** Brightcove **/
+		(function() { 
+			
+			var brightcove_script = document.createElement('script');
+				brightcove_script.type = 'text/javascript';
+				brightcove_script.src = 'http://admin.brightcove.com/js/BrightcoveExperiences_all.js';
+				var brightcove_node = document.getElementsByTagName('script')[0];
+				brightcove_node.parentNode.insertBefore(brightcove_script, brightcove_node);
+		})();
+
+		function getAndroidVersion(ua) {
+			var ua = ua || navigator.userAgent,
+				match = ua.match(/Android\s([0-9\.]*)/);
+			return match ? match[1] : false;
+		};</script><!--[if lte IE 9]>
+	<script src="http://i.forbesimg.com/forbeslife/scripts/cac4ac03.ie_scripts.js"></script>
+	<![endif]--><!--[if lt IE 9]>
+	<script src="http://i.forbesimg.com/forbeslife/scripts/50ade305.ie_vendor.js"></script>
+	<![endif]--><body id="ng-app" class="js-forbeslife"><script>if (parseFloat(getAndroidVersion()) <= 4.4) {
+			document.getElementsByTagName("body")[0].setAttribute('class', 'js-forbeslife and4-1');
+		}</script><modal></modal><div id="comscore"></div><div id="moat"></div><div class="fast-pixel" fast-pixel=""><img ng-src="{{fast_img_src}}"></div><div class="page-container clearfix" fbs-breakpoint-monitor=""><div class="layout clearfix" user-login-check=""><div class="left-section anim sidebar" ng-controller="SidebarController" ng-include="" src="template_path"></div><div class="right-section page-wrapper"><!-- Article Sticky Ad/Sharing --><div class="row-inner sticky-element" sticky-share-element=""></div><!-- Header Channel Navigation collapsed--><div ng-controller="CollapsedHeaderController" class="collapsed-container"><div class="row header-nav-collapsed {{page_scroll_position.els.collapsed_header.class_name_set}} anim"><div menu-icon="" ng-click="animateSideBar();" class="menu-icon-button"><i class="icon icon-menu"></i></div><div class="row-inner"><a href="/forbeslife/" class="fl-logo fl-logo-collapsed" ng-mouseenter="mouseEnter('logo')" ng-mouseleave="mouseLeave('logo')" ng-click="_gaq.push(['_trackEvent','ForbesLife','LogoClick','']);"><i class="icon icon-forbes"></i> <i icon-color="" class="icon icon-life" ng-style="{color: color}"></i></a><div class="header-search {{slim}}" header-search="" data-collapsed="collapsed"></div><ul class="utilities" ng-controller="UtilityItemsController" ng-include="" src="template_path"></ul></div></div><div class="row header-nav-hover" ng-class="{revealed:dropdown_visible}" ng-mouseenter="mouseEnter('dropdown')" ng-mouseleave="mouseLeave('dropdown')"><div class="row-inner"><ul class="channels-list" ng-include="" src="channel_nav_template"></ul><div class="channel-nav-block" ng-controller="ChannelNavBlockController" ng-include="" src="template_path"></div></div></div></div><!-- main content scroll wrapper --><div class="scroll scroll-wrapper" page-scroll-position=""><header><!-- Header Top Section--><div class="row header-top"><div class="row-inner"><a href="/forbeslife/" class="fl-logo fl-logo-top" ng-click="_gaq.push(['_trackEvent','ForbesLife','LogoClick','']);"><i class="icon icon-forbes"></i> <i icon-color="" class="icon icon-life" ng-style="{color: color}"></i></a><div class="header-follow"><span>FOLLOW</span><ul class="header-follow-list"><li class="twitter"><a href="https://twitter.com/forbeslife" target="_blank"><i class="icon icon-twitter"></i></a></li><li class="facebook"><a href="https://www.facebook.com/ForbesLifestyle" target="_blank"><i class="icon icon-facebook"></i></a></li><li class="pinterest"><a href="http://www.pinterest.com/forbeslife/" target="_blank"><i class="icon icon-pinterest"></i></a></li><li class="tumblr"><a href="http://forbes-life.tumblr.com/" target="_blank"><i class="icon icon-tumblr"></i></a></li></ul></div><ul class="utilities" ng-controller="UtilityItemsController" ng-include="" src="template_path"></ul></div></div><span ng-controller="ChannelNavController"><!-- Header Channel Navigation visible--><div class="row header-nav"><div class="row-inner"><ul class="channels-list" ng-include="" src="channel_nav_template"></ul><div class="header-search" header-search=""></div></div></div></span></header><!-- Main Content --><div ng-view="" class="app-container"></div><!-- Footer Section --><footer class="row"><div class="row-inner"><div class="footer-logo"><a href="/" target="_self" class="fl-logo fl-logo-footer"><i class="icon icon-forbes"></i> <i class="icon icon-life"></i></a> <span class="copy"><!-- TODO: add year variable -->2014 Forbes.com LLC<sup>TM</sup> All Rights Reserved</span></div><div class="footer-links-wrapper"><ul class="footer-links"><li class="desk"><a href="http://preferences-mgr.truste.com/?pid=forbes01" target="_blank">AdChoices</a></li><li class="mob"><a href="http://preferences-mgr.truste.com/?pid=forbes01&aid=forbes_mobile01" target="_blank">AdChoices</a></li><li><a href="http://www.forbes.com/fdc/privacy.html" target="_self">Privacy Statement</a></li><li><a href="http://www.forbes.com/terms" target="_self">Terms and Conditions</a></li><li><a href="http://blogs.forbes.com/help/">Help</a></li><li><a href="http://www.forbes.com/fdc/contact.html" target="_self">Contact Us</a></li><li><a href="https://www2.apply2jobs.com/forbes/">Jobs At Forbes</a></li><li><a href="http://forbesreprints.magreprints.com/" target="_self">Reprints & Permissions</a></li><li><a href="http://www.forbes.com/sites/forbespr/" target="_self">Forbes Press Room</a></li><li><a href="http://www.forbesmedia.com/">Advertise</a></li></ul></div></div></footer></div></div></div></div><script src="http://i.forbesimg.com/forbeslife/scripts/f036318f.vendor.js"></script><script src="http://i.forbesimg.com/forbeslife/scripts/60335391.scripts.js"></script><!-- Edittools scripts --><edit-tools data-type="script"></edit-tools>

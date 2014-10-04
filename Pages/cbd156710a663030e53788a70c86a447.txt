@@ -1,0 +1,171 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+<title>Untitled</title>
+<script type="text/javascript" src="/insight/javascript/jquery.js"></script>
+<script type="text/javascript">
+$(function () {
+	var custom_app_url = 'N/A';
+	var app_id = 'TPGRIPAD';
+	var user_link_id = '8884';
+	var traffic_id = '44998648';
+	var traffic_id_is_new = 'yes';
+	var redirect_url = 'https://itunes.apple.com/us/app/topgear-magazine/id487247465?mt=8';
+	var traffic_override = '0';
+	if (custom_app_url && custom_app_url != 'N/A') {
+		if (custom_app_url.indexOf("?") != -1) {
+			custom_app_url += '&em=' + user_link_id;
+		} else {
+			custom_app_url += '?em=' + user_link_id;
+		}
+	}
+	
+	var navVer = navigator.appVersion;
+	var navAgent = navigator.userAgent;
+	var browserName = navigator.appName;
+	var fullVersion = ''+parseFloat(navigator.appVersion); 
+	var majorVersion = parseInt(navigator.appVersion,10);
+	var nameOffset;
+	var versionOffset;
+	var versionIndex;
+	
+	// Per-browser version numbering
+	//
+	if ((versionOffset=navAgent.indexOf("Opera"))!=-1) {
+	 browserName = "Opera";
+	 fullVersion = navAgent.substring(versionOffset+6);
+	 if ((versionOffset=navAgent.indexOf("Version"))!=-1) 
+	   fullVersion = navAgent.substring(versionOffset+8);
+	} else if ((versionOffset=navAgent.indexOf("MSIE"))!=-1) {
+	 browserName = "Microsoft Internet Explorer";
+	 fullVersion = navAgent.substring(versionOffset+5);
+	} else if ((versionOffset=navAgent.indexOf("Chrome"))!=-1) {
+	 browserName = "Chrome";
+	 fullVersion = navAgent.substring(versionOffset+7);
+	} else if ((versionOffset=navAgent.indexOf("Safari"))!=-1) {
+	 browserName = "Safari";
+	 fullVersion = navAgent.substring(versionOffset+7);
+	 if ((versionOffset=navAgent.indexOf("Version"))!=-1) 
+	   fullVersion = navAgent.substring(versionOffset+8);
+	} else if ((versionOffset=navAgent.indexOf("Firefox"))!=-1) {
+	 browserName = "Firefox";
+	 fullVersion = navAgent.substring(versionOffset+8);
+	} else if ( (nameOffset=navAgent.lastIndexOf(' ')+1) < 
+			  (versionOffset=navAgent.lastIndexOf('/')) ) {
+	 browserName = navAgent.substring(nameOffset,versionOffset);
+	 fullVersion = navAgent.substring(versionOffset+1);
+	 if (browserName.toLowerCase()==browserName.toUpperCase()) {
+	  browserName = navigator.appName;
+	 }
+	}
+	
+	// trim the fullVersion string at semicolon/space if present
+	if ((versionIndex = fullVersion.indexOf(";"))!=-1)
+	   fullVersion = fullVersion.substring(0, versionIndex);
+	if ((versionIndex = fullVersion.indexOf(" "))!=-1)
+	   fullVersion=fullVersion.substring(0, versionIndex);
+	
+	majorVersion = parseInt(''+fullVersion,10);
+	if (isNaN(majorVersion)) {
+	 fullVersion  = ''+parseFloat(navigator.appVersion); 
+	 majorVersion = parseInt(navigator.appVersion,10);
+	}
+	
+	var webkitversion = 0;
+	var webkitregexp = /Safari\/([\d.]+)/;
+	var webkitresult = webkitregexp.exec(navigator.userAgent);
+	
+	if(webkitresult) {
+	   webkitversion = parseFloat(webkitresult[1]);
+	}
+	
+	// Tablet/Phone sniffing code based on https://github.com/codejoust/session.js
+	//
+	var is_tablet = !!navigator.userAgent.match(/(iPad|SCH-I800|xoom|kindle)/i);
+	var is_phone = !is_tablet && !!navigator.userAgent.match(/(iPhone|iPod|blackberry|android 0.5|htc|lg|midp|mmp|mobile|nokia|opera mini|palm|pocket|psp|sgh|smartphone|symbian|treo mini|Playstation Portable|SonyEricsson|Samsung|MobileExplorer|PalmSource|Benq|Windows Phone|Windows Mobile|IEMobile|Windows CE|Nintendo Wii)/i);
+	var is_mobile = is_tablet || is_phone;
+	var is_ios = !!navigator.userAgent.match(/(iPad|iPhone|iPod)/i);
+	
+	var d1 = new Date(), d2 = new Date();
+	d1.setMonth(0); d1.setDate(1); d2.setMonth(6); d2.setDate(1);
+	var tzoffset = -(new Date().getTimezoneOffset());
+	var observesdst = (d1.getTimezoneOffset() !== d2.getTimezoneOffset());
+	
+	function ajax_prep(x) {
+		if (!x) { return ''; }
+		var str = x;
+        str = str.replace(/#/gi, "%23");
+        str = str.replace(/\+/gi, "%2B");
+        str = str.replace(/\n/gi, "-BREAK-");
+        str = escape(str);
+        return str;	
+	}
+	
+	function handleLinkRedirect(is_ios, normal_link, custom_link) {
+		if (!is_ios || custom_link == 'N/A') {
+			location.href = normal_link;
+			return;
+		}
+		setTimeout(function(){
+			location.href = normal_link;
+		}, 25);
+		location.href = custom_link;
+	}
+	
+	if (traffic_id_is_new == 'yes' || traffic_override == '1') {
+		var params = 'task=capture';
+		params += '&app_id=' + ajax_prep(app_id);
+		params += '&user_link_id=' + user_link_id;
+		params += '&traffic_id=' + traffic_id;
+		params += '&versionString=' + ajax_prep(navigator.appVersion);
+		params += '&browserName=' + ajax_prep(browserName);
+		params += '&platform=' + ajax_prep(navigator.platform);
+		params += '&isTablet=' + is_tablet;
+		params += '&isPhone=' + is_phone;
+		params += '&isMobile=' + is_mobile;
+		params += '&vendor=' + ajax_prep(navigator.vendor);
+		params += '&fullVersion=' + ajax_prep(fullVersion);
+		params += '&majorVersion=' + majorVersion;
+		params += '&webkitVersion=' + webkitversion;
+		params += '&browserCodename=' + ajax_prep(navigator.appCodeName);
+		params += '&genericBrowserName=' + ajax_prep(navigator.appName);
+		params += '&cookieEnabled=' + navigator.cookieEnabled;
+		params += '&userAgent=' + ajax_prep(navigator.userAgent);
+		params += '&tzOffset=' + tzoffset;
+		params += '&observesDST=' + observesdst;
+		params += '&availHeight=' + window.screen.availHeight;
+		params += '&availWidth=' + window.screen.availWidth;
+		params += '&height=' + window.screen.height;
+		params += '&width=' + window.screen.width;
+		params += '&colorDepth=' + window.screen.colorDepth;
+		params += '&pixelDepth=' + window.screen.pixelDepth;
+		params += '&language=' + ajax_prep(navigator.language);
+		
+		var jqxhr = $.ajax({
+			type: "POST",
+			cache: false,
+			url: '/insight/link/fingerprint_capture.asp',
+			data: params,
+			dataType: 'html',
+			success: function (resp_txt) {
+				handleLinkRedirect(is_ios, redirect_url, custom_app_url);
+			},
+			error: function () {
+				handleLinkRedirect(is_ios, redirect_url, custom_app_url);
+			}
+		});
+	} else {
+		handleLinkRedirect(is_ios, redirect_url, custom_app_url);
+	}
+});
+</script>
+</head>
+
+<body>
+<div style="display:none;">42OWSAERDAGK93W1PAY87O8688ZY55OW</div>
+</body>
+</html>

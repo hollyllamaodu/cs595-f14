@@ -1,0 +1,516 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<!-- Page Info -->
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="description" content="Blogs.Oracle.Com - The Java Source">
+  <meta name="keywords" content="blogs, oracle, blogs.oracle, blogging, bloggers">
+		            <title>Interview with Nikita Salnikov-Tarnovski  (The Java Source)</title>
+                           <meta http-equiv="Content-Language" content="en" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="imagetoolbar" content="no" />
+
+        
+            <link rel="alternate" type="application/atom+xml" title="Recent Entries (Atom)"  href="https://blogs.oracle.com/java/feed/entries/atom" />
+    <link rel="alternate" type="application/rss+xml"  title="Recent Entries (RSS)"   href="https://blogs.oracle.com/java/feed/entries/rss" />
+    <link rel="alternate" type="application/atom+xml" title="Recent Comments (Atom)" href="https://blogs.oracle.com/java/feed/comments/atom" />
+    <link rel="alternate" type="application/rss+xml"  title="Recent Comments (RSS)"  href="https://blogs.oracle.com/java/feed/comments/rss" />
+
+    
+    
+<!-- Stylesheets -->
+<link rel="stylesheet" href="https://blogs.oracle.com/java/resource/6Java-3col/theme.css" type="text/css" media="screen" />
+
+<!-- Favicon -->
+<link rel="shortcut icon" href="https://blogs.oracle.com/java/resource/6Java-3col/favicon.gif" />    	</head>
+	<body>
+		<div id="container" class="three-columns"> <!-- Note: Change the class from "two-columns" to "three-columns" if needed -->
+			
+			<!-- Header -->
+			<div id="header">
+				<ul id="nav">
+					<li id="logo"><h6><a href="http://www.oracle.com">Oracle</a></h6></li>
+					<li class="current"><a href="/">Blogs Home</a></li>
+					<li><a href="http://www.oracle.com/us/products/index.html">Products &amp; Services</a></li>
+					<li><a href="http://www.oracle.com/technetwork/indexes/downloads/index.html">Downloads</a></li>
+					<li><a href="http://www.oracle.com/us/support/index.html">Support</a></li>
+					<li><a href="http://www.oracle.com/us/partnerships/index.html">Partners</a></li>
+					<li><a href="http://www.oracle.com/us/community/index.html">Communities</a></li>
+					<li><a href="http://www.oracle.com/us/corporate/index.html">About</a></li>
+                                            <li id="signIn"><a href="/roller-ui/login-redirect.rol">Login</a></li>
+                    				</ul>
+				<div id="jumbotron">
+					<h4>Oracle Blog</h4>
+          <h5><a href="https://blogs.oracle.com/java/">The Java Source</a></h5>
+          <h5 class="subhead">Insider News from the Java Team at Oracle!</h5>
+				</div>
+                																										</div>
+			
+			<!-- Content -->
+			<div id="content">
+
+                <!-- Left Sidebar -->
+                           <!-- Left Sidebar -->
+<div id="leftColumn">
+
+<!-- Recent Posts -->
+  <div id="recentSection">  
+                <h5 class="section-title">Recent Posts</h5>
+        <div class="section-body">
+            <ul>
+                                    <li><a href="https://blogs.oracle.com/java/entry/iot_magic_steals_the_show">IoT Magic Steals the Show</a></li>
+                                    <li><a href="https://blogs.oracle.com/java/entry/jcp_awards_and_celebration">JCP Awards and Celebration</a></li>
+                                    <li><a href="https://blogs.oracle.com/java/entry/life_around_the_java_hub">Life around the Java Hub</a></li>
+                                    <li><a href="https://blogs.oracle.com/java/entry/javaone_keynotes_on_replay">JavaOne Keynotes On Demand</a></li>
+                                    <li><a href="https://blogs.oracle.com/java/entry/duke_high_five">Duke High Five</a></li>
+                                    <li><a href="https://blogs.oracle.com/java/entry/user_group_sunday_kicks_things">User Group Sunday Kicks Things Off</a></li>
+                                    <li><a href="https://blogs.oracle.com/java/entry/java_geeks_ride_again">Java Geeks Ride Again</a></li>
+                                    <li><a href="https://blogs.oracle.com/java/entry/2014_duke_s_choice_award">2014 Duke's Choice Award Winners</a></li>
+                                    <li><a href="https://blogs.oracle.com/java/entry/java_magazine_what_will_you">Java Magazine: What Will You Build Today?</a></li>
+                                    <li><a href="https://blogs.oracle.com/java/entry/java_twenty_years_of_innovation">Java: Twenty Years of Innovation</a></li>
+                            </ul>
+        </div>
+      </div>    
+<!-- End Recent Posts -->
+
+<!-- Top Tags -->
+  <div id="tagsSection">  
+            <h5 class="section-title">Top Tags</h5>
+    <div class="tags section-body">
+        <ul class="tag-cloud">
+                    <li><a href="https://blogs.oracle.com/java/tags/2.0" title="29" class="weight-1">2.0</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/7" title="46" class="weight-2">7</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/8" title="36" class="weight-2">8</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/adam" title="16" class="weight-1">adam</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/and" title="25" class="weight-1">and</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/applications" title="18" class="weight-1">applications</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/bien" title="15" class="weight-1">bien</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/champion" title="16" class="weight-1">champion</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/community" title="49" class="weight-2">community</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/conference" title="23" class="weight-1">conference</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/developer" title="30" class="weight-1">developer</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/devoxx" title="24" class="weight-1">devoxx</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/ee" title="95" class="weight-3">ee</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/embedded" title="60" class="weight-2">embedded</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/enterprise" title="17" class="weight-1">enterprise</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/for" title="19" class="weight-1">for</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/glassfish" title="19" class="weight-1">glassfish</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/ide" title="15" class="weight-1">ide</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/internet" title="21" class="weight-1">internet</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/iot" title="41" class="weight-2">iot</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/java" title="516" class="weight-5">java</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/Java" title="30" class="weight-1">Java</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/java8" title="30" class="weight-1">java8</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/Java_EE" title="17" class="weight-1">Java_EE</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/Java_ME" title="18" class="weight-1">Java_ME</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/javaee" title="37" class="weight-2">javaee</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/javaembedded" title="33" class="weight-2">javaembedded</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/javafx" title="69" class="weight-3">javafx</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/JavaFX" title="18" class="weight-1">JavaFX</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/javamagazine" title="15" class="weight-1">javamagazine</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/javaone" title="93" class="weight-3">javaone</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/JavaOne" title="16" class="weight-1">JavaOne</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/javase" title="28" class="weight-1">javase</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/jcp" title="22" class="weight-1">jcp</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/jsr" title="18" class="weight-1">jsr</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/jug" title="19" class="weight-1">jug</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/jvm" title="28" class="weight-1">jvm</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/language" title="35" class="weight-2">language</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/me" title="47" class="weight-2">me</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/netbeans" title="28" class="weight-1">netbeans</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/of" title="26" class="weight-1">of</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/openjdk" title="15" class="weight-1">openjdk</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/oracle" title="42" class="weight-2">oracle</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/pi" title="29" class="weight-1">pi</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/programming" title="33" class="weight-2">programming</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/project" title="15" class="weight-1">project</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/raspberry" title="28" class="weight-1">raspberry</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/se" title="74" class="weight-3">se</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/the" title="22" class="weight-1">the</a></li>
+                    <li><a href="https://blogs.oracle.com/java/tags/things" title="20" class="weight-1">things</a></li>
+                </ul>
+    </div>
+    </div>    
+<!-- End Top Tags -->
+
+</div>    			
+                <div id="mainColumn">
+                    
+                    <!-- Previous and Next Entries -->
+                    <div id="pager">
+                                                    &laquo; <a href="https://blogs.oracle.com/java/entry/greg_wilkins_jetty_servlet_sessions"> Greg Wilkins' Jetty...</a> |  
+                <a href="/java/">Main</a>
+                | <a href="https://blogs.oracle.com/java/entry/java_for_the_very_young">Java for the Very...</a> &raquo;
+                        </div>
+
+                    <!-- Entries -->
+				    
+                <div class="day">
+
+
+	<div class="entry" id="interview_with_nikita_salnikov_tarnovski">
+
+	<h3 class="entry-title">
+			Interview with Nikita Salnikov-Tarnovski 
+	    </h3>
+
+    <h4 class="entry-meta">By Yolande Poirier on <a href="#">Sep 04, 2014</a></h4>
+
+    <div class="entry-body">
+                                        	<p><img src="https://blogs.oracle.com/javaone/resource/PlumbrNikita.jpg" align="right" />Nikita Salnikov-Tarnovski is the co-founder of <a href="https://plumbr.eu">Plumbr</a>, the memory leak detection product. Besides his daily technical tasks he is an active blogger, a JavaOne RockStar and a frequent conference speaker at Devoxx, JavaOne Russia, 33rd Degree, TopConf, JavaDay, GeekOut, Joker, and Jazoon.
+</p> 
+  <p>
+Q: What are your JavaOne sessions about this year?
+
+</p> 
+  <p>Salnikov-Tarnovski:	My two talks are about identifying and solving memory leaks in applications, one conference session titled “<a href="https://oracleus.activeevents.com/2014/connect/search.ww?eventRef=javaone#loadSearch-event=null&amp;searchPhrase=Nikita+&amp;searchType=session&amp;tc=0&amp;sortBy=&amp;p=&amp;i(10009)=10111">keep memory leaks at bay</a>” and one tutorial called “<a href="https://oracleus.activeevents.com/2014/connect/search.ww?eventRef=javaone#loadSearch-event=null&amp;searchPhrase=Nikita+&amp;searchType=session&amp;tc=0&amp;sortBy=&amp;p=&amp;i(10009)=10111">where is my memory</a>.”
+Both sessions relate to how Java applications consume and use memory while running. I will discuss how to monitor your production environment; how to detect memory leaks and other memory inefficiencies; what to do if your application fails because of memory leak or becomes unbearable slow due to Garbage Collection taking too long, and so on. </p> 
+  <p> 
+
+Q: Are you giving tips and tricks during those sessions on how they can use Plumbr’s product? </p> 
+  <p> 
+
+Salnikov-Tarnovski:	Last year, I talked about Java memory leaks and I used our product to present solutions.  This year, I will talk about general methodology and techniques on how these problems can be detected and solved with the aid of the best tools on the market including our tool and any other freely available tools. </p> 
+  <p> 
+
+Q: Why are memory leaks important? </p> 
+  <p> 
+
+Salnikov-Tarnovski: Memory leaks are one of the top reasons why Java applications crash in production. Other memory related problems, such as inefficient Garbage Collection can make your application just stall for some arbitrarily long time. And your clients will be effected. E.g. when you hit the search button on Amazon.com and this all of a sudden takes too long, it is probably because GC kicked in and said: “Wait some 10 seconds, I will look for some garbage”. </p> 
+  <p> 
+
+Q: Aside from your sessions, what do you have planned for JavaOne?
+</p> 
+  <p>
+Salnikov-Tarnovski:	The main reason why I attend conferences - apart from talking about our product, of course – is to meet the many bright speakers and attendees. When you're a senior engineer with 12 years of experience, you want to go to conferences like JavaOne to meet your peers - people who are smarter than you- because you can learn a lot from them.  You can discuss your problems and get feedback, and share your ‘war’ stories.  This is the main reason why I attend conferences and I advise all my fellow engineers to go to JavaOne and other Java conferences. I'm planning to go to Java conferences as long as I am in this profession.</p> 
+  <p>Learn more about Core Java sessions in the <a href="https://oracleus.activeevents.com/2014/connect/search.ww?eventRef=javaone#loadSearch-event=null&amp;searchPhrase=&amp;searchType=session&amp;tc=0&amp;sortBy=&amp;p=&amp;i(11344)=16886&amp;i(10009)=10111">JavaOne content catalog</a> </p>
+        
+    </div>
+
+    <div class="entry-footer">
+        <p class="entry-category">Category: General</p>
+        <p class="entry-tags">Tags:    
+    	    <a href="https://blogs.oracle.com/java/tags/collector" rel="tag">collector</a> 
+  	    <a href="https://blogs.oracle.com/java/tags/core" rel="tag">core</a> 
+  	    <a href="https://blogs.oracle.com/java/tags/detection" rel="tag">detection</a> 
+  	    <a href="https://blogs.oracle.com/java/tags/garbage" rel="tag">garbage</a> 
+  	    <a href="https://blogs.oracle.com/java/tags/java" rel="tag">java</a> 
+  	    <a href="https://blogs.oracle.com/java/tags/javaone" rel="tag">javaone</a> 
+  	    <a href="https://blogs.oracle.com/java/tags/leak" rel="tag">leak</a> 
+  	    <a href="https://blogs.oracle.com/java/tags/memory" rel="tag">memory</a> 
+  	    <a href="https://blogs.oracle.com/java/tags/performance" rel="tag">performance</a> 
+  	    <a href="https://blogs.oracle.com/java/tags/se" rel="tag">se</a> 
+    
+ </p>
+        <p class="entry-links">
+        <a href="https://blogs.oracle.com/java/entry/interview_with_nikita_salnikov_tarnovski">Permanent link to this entry</a>
+                        </p>
+    </div>
+
+	    
+	</div>
+
+</div>    
+    
+                                
+                    <!-- Previous and Next Entries -->
+                    <div id="pagerBottom">
+                                                    &laquo; <a href="https://blogs.oracle.com/java/entry/greg_wilkins_jetty_servlet_sessions"> Greg Wilkins' Jetty...</a> |  
+                <a href="/java/">Main</a>
+                | <a href="https://blogs.oracle.com/java/entry/java_for_the_very_young">Java for the Very...</a> &raquo;
+                        </div> 
+                    
+                    <!-- Comments -->
+                                                <a name="comments"></a>
+    <div class="comments" id="comments">
+
+            <div class="comments-head">Comments:</div>
+            
+    <br/>
+        </div>
+                        
+    <div class="comments-form">
+    <div class="comments-head">Post a Comment:</div>
+    <a name="comment-form"></a>
+
+
+    
+    <form method="post" action="https://blogs.oracle.com/java/entry/interview_with_nikita_salnikov_tarnovski" focus="name" 
+        name="commentForm" onsubmit="fixURL(this); return validateComments(this)">    
+        <input type="hidden" name="method" value="post" />
+
+        <ul>
+            <li>
+                <label class="desc">Name:</label>
+                <input type="text" name="name" class="text large" value="" size="50" maxlength="255" />
+            </li>
+
+            <li><label class="desc">E-Mail:</label>
+                <input type="text" name="email" class="text large" value="" size="50" maxlength="255" />
+            </li>
+
+            <li><label class="desc">URL:</label>
+                <input type="text" name="url" class="text large" value="" size="50" maxlength="255" />
+            </li>
+
+                    <li><input type="checkbox" class="checkbox" id="notify" name="notify" />
+                <label for="notify" class="choice">Notify me by email of new comments</label>
+            </li>
+                    <li>
+                <input type="checkbox" class="checkbox" id="rememberInfo" name="rememberInfo" />
+                <label for="rememberInfo" class="choice">Remember Information?</label>
+            </li>
+            <li>
+                <label class="desc">Your Comment:</label>
+             
+            <textarea name="content" class="textarea large" cols="40" rows="10"></textarea>
+
+            </li>
+            <li class="info">
+                <span class="comments-syntax-indicator">
+                HTML Syntax:
+                                    <span class="disabled">NOT allowed</span>
+                                </span>
+            </li>
+            <li class="info">
+               <script type="text/javascript" src="/theme/scripts/clientSideInclude.js"></script>
+               <div id="commentAuthenticator"></div>
+            </li>
+            <li>
+               <input type="button" class="button" name="post" value="&nbsp;Preview&nbsp;"
+                  onclick="this.form.method.value='preview';this.form.submit()" />
+               <input type="submit" class="button" name="post" value="&nbsp;Post&nbsp;" />
+            </li>
+        </ul>
+
+    </form>
+
+    <script type="text/javascript" src="/theme/scripts/roller.js"></script>
+    <script type="text/javascript">
+    clientSideInclude('commentAuthenticator', '/CommentAuthenticatorServlet');
+
+    var author = getCookie("commentAuthor");
+    var email = getCookie("commentEmail");
+    var url = getCookie("commentUrl");
+    // check each field - IE will render "null"
+   
+    if (author) {
+        document.forms['commentForm'].name.value = author;
+    }else{
+        document.forms['commentForm'].name.value = "guest";
+    }
+
+    if (email) {
+        document.forms['commentForm'].email.value = email;
+    }
+    if (url) {
+        document.forms['commentForm'].url.value = url;
+    }
+
+    if (author || email || url) {
+        document.forms['commentForm'].rememberInfo.checked = true;
+    }
+
+    function fixURL(theForm) {
+        if (theForm.url.value != "" &&
+            theForm.url.value.indexOf("http://") == -1) { //prepend http://
+            theForm.url.value = "http://"+theForm.url.value;
+        }
+        saveUserInformation(theForm);
+    }
+
+    function saveUserInformation(theForm) {
+        if (theForm.rememberInfo.checked) {
+            rememberUser(theForm);
+        } else {
+            forgetUser(theForm);
+        }
+    }
+
+    function validateComments(theForm) {
+        if (theForm.content.value == "") {
+            alert("Please enter a comment.");
+            theForm.content.focus();
+            return false;
+        }
+ 
+        if (document.forms['commentForm'].name.value=="" ) {
+        document.forms['commentForm'].name.value = "guest";
+        }
+
+    }
+    </script>
+
+
+    </div>
+                    				</div>
+
+                <!-- Sidebar -->
+                           <!-- Right Sidebar -->
+<div id="rightColumn">
+
+<!-- About -->
+  <div id="aboutSection">    
+    <h5 class="section-title">About</h5>
+    <div class="section-body">
+                  <p>Insider News from the Java Team at Oracle!
+<br /><br />
+<table width="180">
+<tr>
+<td align="center"><img src="https://blogs.oracle.com/java-platform-group/resource/ScienceDuke150.jpeg" width="150" alt="duke" />
+</td></tr></table>
+<img src="https://blogs.oracle.com/javaone/resource/javaone.jpg" width="150" alt="javeone logo"><br />
+<h5 class="section-title">Links</h5>
+<iframe src="/java/resource/html/links4.html" width="180" height="260" frameborder="0" scrolling="no">
+</iframe>
+<br /><br /></p>
+            </div>
+  </div>  
+<!-- End About -->
+
+
+
+<!-- Search -->
+  <div id="searchSection">  
+    <h5 class="section-title">Search</h5>
+    <div class="section-body">
+        <script type="text/javascript">
+    function prepareSearchForm() {
+        document.getElementById("searchForm").searchQuery.name = "oq";
+        document.getElementById("searchFilter").innerHTML = "<input type='hidden' id='searchFilteredQuery' name='q' value=''>" +
+                "<br /><input type='checkbox' id='searchScope' checked='true' /><label for='searchScope'>Search only this blog</label>";
+    }
+    function submitSearchForm() {
+        var form = document.getElementById("searchForm");
+        var query = form.searchQuery.value;
+        var urlSearchOp = form.searchOp.value; //searchOp
+        var urlGroup = form.searchGroup.value; //group
+         
+        if (query == null || query == "") {
+            return false;
+        }
+        var filter = " weblog:java";
+        var curUrl = window.location.href;
+        if (form.searchScope.checked && form.searchQuery.value.indexOf(filter) == -1) {
+            form.searchFilteredQuery.value = form.searchQuery.value + filter;
+        }
+        else {
+            form.searchFilteredQuery.value = form.searchQuery.value;
+        }
+
+        						 form.action="https://search.oracle.com/search/search";
+				
+        window.location = form.action + "?search_p_main_operator=" + urlSearchOp + "&group=" + urlGroup +"&q=" + form.searchFilteredQuery.value;
+        return false;
+    }
+</script>
+<form id="searchForm" action="http://search.oracle.com/search/search"
+      onsubmit="return submitSearchForm();" method="get">
+    <input type="hidden" id="searchOp" name="search_p_main_operator" value="all" />
+    <input type="hidden" id="searchGroup" name="group" value="Blogs" />
+    <label for="searchQuery" title="Enter search term">Enter search term:</label>
+    <br />
+    <input type="text" id="searchQuery" name="q" class="text" alt="Enter Search Term" />
+    <input type="image" class="input-image" id="searchSubmit" alt="Submit Search" title="Submit Search" src="https://blogs.oracle.com/java/resource/search-button.gif" />
+    <span id="searchFilter">
+    <noscript>Search filtering requires JavaScript</noscript>
+    </span>
+</form>
+<script type="text/javascript">prepareSearchForm();</script>
+    </div>
+  </div>    
+<!-- End Search -->
+
+
+<!-- Categories -->
+  <div id="categoriesSection">
+    <h5 class="section-title">Categories</h5>
+    <div class="section-body">
+                        <ul class="rCategory">
+                                                            <li><a href="https://blogs.oracle.com/java/category/Oracle">Oracle</a></li>
+            <ul class="rCategory">
+                                                                            <li><a href="https://blogs.oracle.com/java/category/Oracle/General">General</a></li>
+                                                                                                            <li><a href="https://blogs.oracle.com/java/category/Oracle/IoT">IoT</a></li>
+                                                                                                            <li><a href="https://blogs.oracle.com/java/category/Oracle/JavaFX">JavaFX</a></li>
+                                                                                                            <li><a href="https://blogs.oracle.com/java/category/Oracle/Mobile">Mobile</a></li>
+                                                                                                            <li><a href="https://blogs.oracle.com/java/category/Oracle/Server">Server</a></li>
+                                                                                                            <li><a href="https://blogs.oracle.com/java/category/Oracle/TV">TV</a></li>
+                                                                                                            <li><a href="https://blogs.oracle.com/java/category/Oracle/tools">tools</a></li>
+                                                                        </ul>
+                                    </ul>
+        </div>
+  </div>
+<!-- End Categories -->
+
+
+<!-- Archives -->
+   <div id="archiveSection">
+    <h5 class="section-title">Archives</h5>
+    <div class="section-body">
+        <table cellspacing="0" border="0"  summary="Blog Archive Calendar" class="hCalendarTable"><tr><td colspan="7" align="center" class="hCalendarMonthYearRow"><a href="/java/date/201409" title="Prev" class="hCalendarNavBar">&laquo;</a> October 2014</td></tr><tr><th class="hCalendarDayNameRow" align="center">Sun</th><th class="hCalendarDayNameRow" align="center">Mon</th><th class="hCalendarDayNameRow" align="center">Tue</th><th class="hCalendarDayNameRow" align="center">Wed</th><th class="hCalendarDayNameRow" align="center">Thu</th><th class="hCalendarDayNameRow" align="center">Fri</th><th class="hCalendarDayNameRow" align="center">Sat</th></tr><tr><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayLinked"><div class="hCalendarDayTitle"><a href="/java/date/20141001">1</a></div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">2</div></td><td class="hCalendarDayCurrent"><a href="/java/date/20141003" class="hCalendarDayTitle">3</a></td><td class="hCalendarDay"><div class="hCalendarDayTitle">4</div></td></tr><tr><td class="hCalendarDay"><div class="hCalendarDayTitle">5</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">6</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">7</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">8</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">9</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">10</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">11</div></td></tr><tr><td class="hCalendarDay"><div class="hCalendarDayTitle">12</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">13</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">14</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">15</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">16</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">17</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">18</div></td></tr><tr><td class="hCalendarDay"><div class="hCalendarDayTitle">19</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">20</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">21</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">22</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">23</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">24</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">25</div></td></tr><tr><td class="hCalendarDay"><div class="hCalendarDayTitle">26</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">27</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">28</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">29</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">30</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">31</div></td><td class="hCalendarDayNotInMonth">&nbsp;</td></tr><tr><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td></tr><tr class="hCalendarNextPrev"><td colspan="7" align="center"><a href="/java/" class="hCalendarNavBar">Today</a></td></tr></table>
+    </div>
+  </div>
+<!-- End Archives -->
+
+<!-- Bookmarks -->
+   <div id="bookmarkSection">
+              </div>    
+<!-- End Bookmarks -->
+    
+<!-- Blog and Author Menu -->
+   <div id="menuSection">
+    <h5 class="section-title">Menu</h5>
+    <div class="section-body">
+            <ul class="rNavigationBar">
+        <li class="rNavItem">
+            <a href="/"><span>Blogs Home</span></a>
+        </li>
+        <li class="rNavItem">
+            <a href="https://blogs.oracle.com/java/"><span>Weblog</span></a>
+        </li>
+                                                                                                                                                <li class="rNavItem">
+                    <a href="/roller-ui/login-redirect.rol"><span>Login</span></a>
+                </li>
+                        </ul>
+            </div>
+  </div>    
+<!-- End Blog and Author Menu -->
+
+    
+<!-- Feeds -->
+   <div id="feedsSection">   
+    <h5 class="section-title">Feeds</h5>
+    <div class="section-body">
+        <b>RSS</b>
+            <ul class="rFeeds">
+    <li><a href="https://blogs.oracle.com/java/feed/entries/rss">All</a></li>
+                        <li><a href="https://blogs.oracle.com/java/feed/entries/rss?cat=%2FOracle">/Oracle</a></li>
+        <li><a href="https://blogs.oracle.com/java/feed/comments/rss">Comments</a></li>
+    </ul>
+        <b>Atom</b>    
+            <ul class="rFeeds">
+    <li><a href="https://blogs.oracle.com/java/feed/entries/atom">All</a></li>
+                        <li><a href="https://blogs.oracle.com/java/feed/entries/atom?cat=%2FOracle">/Oracle</a></li>
+        <li><a href="https://blogs.oracle.com/java/feed/comments/atom">Comments</a></li>
+    </ul>
+    </div>
+  </div>          
+<!-- End Feeds -->
+    
+</div>    			</div>
+
+			<!-- Footer -->
+			<div id="footer">
+				<p>The views expressed on this blog are those of the author and do not necessarily reflect the views of Oracle. <a href="http://www.oracle.com/html/terms.html">Terms of Use</a> | <a href="http://www.oracle.com/html/privacy.html">Your Privacy Rights</a> | <span id='teconsent'><script type='text/javascript' src='https://consent.truste.com/notice?domain=oracle.com&c=teconsent&language=en&text=true'></script>   </span>  </p>
+			</div>
+			<!-- Omniture Script --> 
+<!-- Start SiteCatalyst code -->
+
+<script language="JavaScript" src="/main/resource/resources/ora_blogs.js"></script>
+
+<!-- End SiteCatalyst code -->
+		</div>
+	</body>
+</html>

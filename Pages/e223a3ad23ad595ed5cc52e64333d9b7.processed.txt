@@ -1,0 +1,65 @@
+   #[1]TNF: NFL Total Access Kickoff LIVE at 6 P.M. created by hollebonr
+   [2]TNF: NFL Total Access Kickoff LIVE at 6 P.M. created by hollebonr
+
+   [3]SnappyTV home
+     * [4]Sign in
+
+   [BUTTON Input] (not implemented)_____
+
+   IFRAME:
+   [5]http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F
+   %2Fsnpy.tv%2F1wLJrH5&related=snapcatpicks:Follow Snapcat to see our
+   favorite snaps made by
+   you.&count=horizontal&counturl=http%3A%2F%2Fwww.snappytv.com%2Fsnaps%2F
+   tnf_pregame_crowd_nyg_was_15_h264_092214_nb5lze&via=snappytv&text=VIDEO
+   - TNF: NFL Total Access Kickoff LIVE at 6 P.M.
+
+   (*) iframe (recommended) ( ) object
+
+   works on the web as well as on mobile (iPhone, iPad, etc)
+
+   legacy embed if your cms/blog software doesn't support iframes
+
+   <div class='snappytv-embed' style='position:relative;padding
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   <object width='100%' height='100%'><param name='movie' value
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+     * [6]TNF: NFL Total Access Kickoff LIVE at 6 P.M.
+       Prior to the Redskins hosting the Giants at FedExField on Thursday
+       night, join the NFLN crew LIVE (6 P.M.) for Total Access Live from
+       the Comcast gate. The first 100 uniformed servicemen and
+       servicewomen to arrive will receive VIP access!
+       9 days ago
+       · 977 views
+
+     * [7]About
+     * [8]Blog
+     * [9]Terms
+     * [10]Privacy Policy
+     * [11]Jobs
+     * [12]Contact Us
+     * Copyright © 2014 Afterlive.tv Inc. All rights reserved.
+
+References
+
+   Visible links
+   1. http://www.snappytv.com/services/oembed?url=http://www.snappytv.com/snaps/tnf_pregame_crowd_nyg_was_15_h264_092214_nb5lze&format=json
+   2. http://www.snappytv.com/services/oembed?url=http://www.snappytv.com/snaps/tnf_pregame_crowd_nyg_was_15_h264_092214_nb5lze&format=xml
+   3. http://www.snappytv.com/
+   4. http://www.snappytv.com/signin
+   5. http://platform.twitter.com/widgets/tweet_button.html?url=http://snpy.tv/1wLJrH5&related=snapcatpicks:Follow Snapcat to see our favorite snaps made by you.&count=horizontal&counturl=http://www.snappytv.com/snaps/tnf_pregame_crowd_nyg_was_15_h264_092214_nb5lze&via=snappytv&text=VIDEO - TNF: NFL Total Access Kickoff LIVE at 6 P.M.
+   6. http://www.snappytv.com/snaps/tnf_pregame_crowd_nyg_was_15_h264_092214_nb5lze
+   7. http://www.snappytv.com/corp/company.html
+   8. http://blog.snappytv.com/
+   9. http://www.snappytv.com/tos
+  10. http://www.snappytv.com/privacy
+  11. http://www.snappytv.com/corp/careers.html
+  12. http://www.snappytv.com/corp/
+
+   Hidden links:
+  14. http://www.snappytv.com/snaps/tnf_pregame_crowd_nyg_was_15_h264_092214_nb5lze

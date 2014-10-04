@@ -1,0 +1,271 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="generator" content="HTML Tidy, see www.w3.org">
+<title>Mountain Hounds (A GFNC Event)</title>
+<link rel="stylesheet" href="./main.css" type="text/css">
+</head>
+<body bgcolor="#e8eaec"><script language="JavaScript">
+<!-- hide from JavaScript-challenged browsers
+function openGallery(url) {
+popupWin = window.open(url, 'gallery', 'width=1024,height=640')
+}
+// done hiding --></script>
+<div id="container">
+  <div id="header">
+  </div>
+  <div id="content">
+    <div id="leftcontent">
+      <div class="navigation">
+      <h1 class="navhead">Menu</h1>
+      <ul class="menu">
+              <li><a href="./index.shtml">Home</a></li>
+              <li><a href="./about.shtml">About</a></li>
+              <li><a href="./contacts.shtml">Contacts</a></li>
+        <li><a href="#">Event</a>
+        <ul>
+                  <li><a href="./accomodations.shtml">Accommodations</a></li>
+          <li><a href="./activities.shtml">Activities</a></li>
+                  <li><a href="./directions.shtml">Directions</a></li>
+          <li><a href="./rules.shtml">Rules</a></li>
+                  <li><a href="./schedule.shtml">Schedule</a></li>
+                  <li><a href="./vendorlist.shtml">Vendor Directory</a></li>
+        </ul>
+        </li>
+              <li><a href="#">Registration</a>
+              <ul>
+              <li><a href="./registration.shtml">Single/Family</a></li>
+              <li><a href="./vendors.shtml">Vendors</a></li>
+              </ul>
+              </li>
+        <li><a href="#">Information</a>
+        <ul>
+          <li><a href="./faq.shtml">FAQ</a></li>
+          <li><a href="./packinglist.shtml">Packing List</a></li>
+        </ul>
+               </li>
+        <li><a href="./links.shtml">Links</a></li>
+              <li><a href="./merchandise.shtml">Merchandise</a></li>
+        <li><a href="#">Memories</a>
+        <ul>
+          <li><a href="javascript: openGallery('http://www.gfncmountainhounds.com/images/MH2005/index.html')">2005</a></li>
+          <li><a href="javascript: openGallery('http://www.gfncmountainhounds.com/images/MH2006/index.html')">2006</a></li>
+                  <li><a href="javascript: openGallery('http://www.gfncmountainhounds.com/images/MH2007/index.html')">2007</a></li>
+                  <li><a href="javascript: openGallery('http://www.gfncmountainhounds.com/images/MH2008/index.html')">2008</a></li>
+				  <li><a href="javascript: openGallery('http://www.gfncmountainhounds.com/images/MH2009/index.html')">2009</a></li>
+				  <li><a target="_blank" href="http://www.photobucket.com/home/MH_Santa/allalbums">2010</a></li>
+				  <li><a target="_blank" href="http://s759.photobucket.com/albums/xx239/MH_Santa/Mountain%20Hounds%202011">2011</a>
+				  <li><a target="_blank" href="http://photobucket.com/MH2012">2012</a></li>
+                  <li><a href="./seniors.shtml">Senior Recognition</a></li>
+        </ul>
+               </li>
+      </ul>
+      </div>
+    <div class="box">
+        <h2 class="boxhead">Sponsors</h2>
+        <ul class="adverts">
+        	          <li><a href="http://www.pensketruckrental.com/" target="_blank">
+      <img src="./images/sponsors/penske.jpg" alt="Penske Truck Rental" /></a></li>
+          <li><a href="http://www.greyhoundgang.com" target="_blank">
+      <img src="./images/sponsors/ghgang_logo.gif" alt="Greyhound Gang" /></a></li>
+    <li><a href="http://www.cloudstar.com" target="_blank">
+      <img src="./images/sponsors/cloudstar_logo.gif" alt="Cloud Star" /></a></li>
+	  <!--
+    <li><a href="http://www.ticketnetwork.com" target="_blank">
+      <img src="./images/sponsors/ticket-network.gif" alt="Ticket Network" /></a></li>-->	  
+        </ul>
+      </div>
+  </div>
+    <div id="rightcontent">
+    	<!--#include virtual="./news.html"-->
+<div class="box">
+  <h2 class="boxhead">News</h2> 
+    <h3 class="newsdate">12/27/2013:</h3>
+  <span class="news">Updates for 2014, registration now open!</span>
+  <div class="newsfooter"><a href="./news_detail.shtml" class="newsmore">More..</a></div>
+</div>		
+      <div class="box">
+        <h2 class="boxhead">Please Donate</h2>
+        <span class="news">Auction Donations</span>
+        <div class="newsfooter"><a href="./donate.shtml" class="newsmore">More..</a></div>
+        <span class="news">Volunteer Opportunities</span>
+        <div class="newsfooter"><a href="./volunteer.shtml" class="newsmore">More..</a></div>
+      </div>
+      <div class="box">
+        <h2 class="boxhead">Sponsors</h2>
+        <ul class="adverts">
+          <li><a href="http://www.bluedogbakery.com" target="_blank">
+      <img src="./images/sponsors/bluedog_logo.gif" alt="Blue Dog" /></a></li>
+        <!--<li><a href="http://www.2houndsdesign.com" target="_blank">
+      <img src="./images/sponsors/2hd_logo.gif" alt="2 Hounds Design" /></a></li>
+        <!--<li><a href="http://www.upcountryinc.com/" target="_blank">
+      <img src="./images/sponsors/upcountry_logo.gif" alt="Up Country" /></a></li>
+        <li><a href="http://www.nutroproducts.com/" target="_blank">
+      <img src="./images/sponsors/nutro.gif" alt="Nutro Products" /></a></li>-->
+      <!--
+        <li><a href="http://www.themagiczoo.com/animal-jewelry.dog-jewelry.aspx" target="_blank">
+      <img src="./images/sponsors/logo_magiczoo.jpg" alt="Magic Zoo Jewelery" /></a></li>
+	  -->
+        <li><a href="http://www.hoggspubandgrub.com" target="_blank">
+      <img src="./images/sponsors/hoggs_logo.jpg" alt="Hogg's Pub & Grub" /></a></li>
+        <li><a href="http://www.petplay.com" target="_blank">
+      <img src="./images/sponsors/play_logo.jpg" alt="Pet Lifestyle and You" /></a></li>
+	          <li><a href="http://couchrocket.com/" target="_blank">
+      <img src="./images/sponsors/couch_rocket_logo.jpg" alt="Couch Rocket" /></a></li>
+	  <!--
+	          <li><a href="http://www.foufoudog.com/" target="_blank">
+      <img src="./images/sponsors/foufoudog.jpg" alt="foufoudog" /></a></li>
+      -->	  
+
+	          <li><a href="http://www.earthheartinc.com/" target="_blank">
+      <img src="./images/sponsors/Earthheart_logo.jpg" alt="Earthheart" /></a></li>	  	  
+        </ul>
+      </div>
+      <div class="box">
+        <h2 class="boxhead">Weather</h2>
+		<span class="news">Gatlinburg, TN</span>
+		<center>
+		<!--
+<div id="wx_module_303" width="140">
+   <a href="http://www.weather.com/weather/local/USTN0196">Gatlinburg, TN Weather Forecast</a>
+</div>
+
+<script type="text/javascript">
+
+   /* Locations can be edited manually by updating 'wx_locID' below.  Please also update */
+   /* the location name and link in the above div (wx_module) to reflect any changes made. */
+   var wx_locID = 'USTN0196';
+
+   /* If you are editing locations manually and are adding multiple modules to one page, each */
+   /* module must have a unique div id.  Please append a unique # to the div above, as well */
+   /* as the one referenced just below.  If you use the builder to create individual modules  */
+   /* you will not need to edit these parameters. */
+   var wx_targetDiv = 'wx_module_303';
+
+   /* Please do not change the configuration value [wx_config] manually - your module */
+   /* will no longer function if you do.  If at any time you wish to modify this */
+   /* configuration please use the graphical configuration tool found at */
+   /* https://registration.weather.com/ursa/wow/step2 */
+   var wx_config='SZ=180x150*WX=FHW*LNK=SSNL*UNT=F*BGI=winter*MAP=null|null*DN=www.gfncmountainhounds.com*TIER=0*PID=1230745510*MD5=840101db69d2d3b65ea7d09c88516aed';
+
+   document.write('<scr'+'ipt src="'+document.location.protocol+'//wow.weather.com/weather/wow/module/'+wx_locID+'?config='+wx_config+'&proto='+document.location.protocol+'&target='+wx_targetDiv+'"></scr'+'ipt>');  
+</script>	-->
+
+						    
+<link rel="stylesheet" type="text/css" media="screen" href="http://img.weather.weatherbug.com/Style/stickers/v2/Stickers_125x125.css" /> 
+<div class="wXbody" align="center">
+	<div class="wXguts" align="center">
+   		<iframe id="WeatherBugSticker_125x125_v2" src="http://weather.weatherbug.com/desktop-weather/web-widgets/getSticker.html?ZipCode=37738&ZCode=z5545&Size=125x125&StationID=WHTSR&units=0&Version=2&lang_id=en-us" width="123" height="70" frameborder="0" scrolling="no" allowtransparency="yes"></iframe> 
+
+		<div class="wXlinks">
+			<span class="link"><a href="http://weather.weatherbug.com/weather-forecast.html" target="_blank" onclick="Javascript:this.href='http://weather.weatherbug.com/TN/Gatlinburg-weather/local-forecast/7-day-forecast.html?zcode=z5545&units=0'">Forecast</a></span>
+			<span class="link"><a href="http://weather.weatherbug.com/doppler-radar.html" target="_blank" onclick="Javascript:this.href='http://weather.weatherbug.com/TN/Gatlinburg-weather/local-radar/doppler-radar.html?zcode=z5545&units=0'">Radar</a></span>
+			<span class="link"><a href="http://weather.weatherbug.com/weather-cams.html" target="_blank" onclick="Javascript:this.href='http://weather.weatherbug.com/TN/Gatlinburg-weather/weather-cams/local-cams.html?zcode=z5545&units=0'">Cameras</a></span>
+		</div>
+		<div class="wXlogo">
+			<a href="http://weather.weatherbug.com/default.html" target="_blank" onclick="Javascript:this.href='http://weather.weatherbug.com/TN/Gatlinburg-weather.html?zcode=z5545&units=0'"><img src="http://img.weather.weatherbug.com/images/stickers/v2/125x125/wxbug-logo.jpg" border="0" alt="WeatherBug"/></a>
+		</div>
+	</div>
+</div>
+</center>
+				        
+							
+		</div>	  
+    </div>
+
+<div id="midcontent" class="style1">
+<h1 class="posthead">Welcome</h1>
+<div class="postcontent">
+<center><img src="./images/DSC_6169.jpg" alt="Group Shot 2007"></center><br>
+<p>MOUNTAIN HOUNDS 2014 WILL
+BE HELD May 29 &ndash; June 2, 2014</p>
+<p>Mountain Hounds is always
+held the weekend after Memorial Day. We do hope that you will make plans to
+join us in Gatlinburg, TN. You can expect to meet new friends and catch up with
+the old ones as you spend a great weekend in the Smoky Mountains of Tennessee
+with your greyhound(s).</p>
+<p>This will be the TENTH year for Mountain Hounds and the volunteer team is busy planning activities, speakers and fun. We welcome suggestions for speakers and seminars, if you know of someone please let us know. Or if your group would like to sponsor an event please contact us at <a href="mailto:gfncgreyhound@yahoo.com">gfncgreyhound@yahoo.com</a>. We would love to hear from you.</p>
+<p>The Sidney James Mountain Lodge is our host hotel and they are taking reservations now. Be sure and mention Mountain Hounds for the room discount. If you need a first floor room make your reservation early. Check the <a href="http://gfncmountainhounds.com/accomodations.shtml">ACCOMODATIONS</a> page for contact information. Registration will kick off in January and information will be located under the <a href="http://gfncmountainhounds.com/registration.shtml">REGISTRATION</a> page. We look forward to seeing you in Gatlinburg for Mountain Hounds 2014!</p>
+<p>Here is a link to photos from our 2013 event: <a href="http://s759.photobucket.com/user/MH_Santa/library/Mountain%20Hounds%202012#/user/MH_Santa/library/Mountain Hounds2013?sort=3&amp;page=1&amp;_suid=138082600489909317293067181505" target="_blank">Mountain Hounds 2013 Pictures</a>.</p>
+<p>Also, be sure to follow us on Facebook for the latest updates.</p>
+<center><a href="https://www.facebook.com/pages/Mountain-Hounds/320612589753?ref=ts&amp;fref=ts" target="_blank"><img alt="" src="./images/find_us_on_facebook.jpg"></a></center><!--
+<p><a href="./2011_recap.shtml">Mountain Hounds 2011 Recap</a></p>-->
+<p><span class="center"><a href="http://www.sidneyjames.com" target="_blank"><img src="./images/sponsors/sidneyjameslogo.jpg" alt="Sydney James" height="85"></a> <!--<a href=
+                "http://www.linebergersseafood.com/" target=
+                "_blank"><img src=
+                "./images/sponsors/linebergers.jpg" height="85"
+                alt="lineberger's"></a>				<br>
+<a href="http://www.gatlinburgfarms.com/" target="
+"                "_blank"><img src="
+"                "./images/sponsors/gatlinburg_farms.jpg" height="
+"                "85" alt="Gatlinburg Farms"></a>--> <a href="http://www.gatlinburg.com/" target="_blank"><img src="./images/sponsors/gcc_mp_logo.gif" height="85" alt="Gatlinburg"></a><a href="http://www.ripleysaquariumofthesmokies.com/" target="_blank"><img src="./images/sponsors/ripleys_logo.gif" height="85" alt="Ripley's Aquarium"></a><br>
+<a href="http://www.cupidspetals.com/" target="_blank"><img src="./images/sponsors/cupids_petals.jpg" alt="Cupid's Petals"></a><br>
+<a href="http://www.obergatlinburg.com/" target="_blank"><img src="./images/sponsors/ober_gatlinburg.jpg" height="85" alt="Ober Gatlinburg"></a></span></p></div></div><div id="footer">
+    <div class="horizbox">
+        <h2 class="boxhead">Sponsors</h2>
+        <table border="0" margin="0">
+        	 <tr>
+       	  	 	<td><a href="http://www.dogipot.com/" target="_blank">
+      <img src="./images/sponsors/dogipot_sitelogo.jpg" alt="DOGIPOT" /></a></td>
+        	 	<td>
+        	 		<!--
+        	 		<a href="http://www.hillspet.com/" target="_blank">
+      <img src="./images/sponsors/hills_logo.gif" alt="Hills" /></a>-->
+      
+        	 		
+        	 		<a href="http://www.voyagersjewelrydesign.com" target="_blank">
+     <img src="./images/sponsors/voyagers_logo.jpg" alt="Voyagers Jewelry Design" /></a>
+            
+      </td>
+        	 	<td>
+        	 		<!--
+        	 			<a href="http://www.k9apparel.com/" target="_blank">
+      <img src="./images/sponsors/voyagersk9_logo.gif" alt="Voyagers K9 Apparel" /></a>
+      -->
+      
+        	 			<a href="http://www.k-9designs.com/" target="_blank">
+      <img src="./images/sponsors/k9designs_logo.jpg" alt="K-9 Designs by Sharee" /></a>
+            
+      </td>
+        	 	<td>
+        	 		
+        	 			<a href="http://www.stellaandchewys.com" target="_blank">
+      <img src="./images/sponsors/stella_logo.jpg" alt="Stella and Chewy's" /></a>
+      
+      </td>
+<td>
+	<!--<a href="http://www.wet-noses.com/" target="_blank">
+      <img src="./images/sponsors/wet_noses.gif" alt="Wet Noses" /></a>-->
+<a href="http://www.etsy.com/shop/BarksBonesBiscuits" target="_blank">
+      <img src="./images/sponsors/barks_logo.jpg" alt="Barks, Bones & Biscuits" /></a>      
+      </td>
+        	</tr>
+        	<tr>
+        		<td><!--<a href="http://www.charleebear.com" target="_blank">
+      <img src="./images/sponsors/charleebear_logo.gif" alt="Charlee Bear" /></a>--></td>
+        		<!--<td>&nbsp;<a href="http://www.ripleysaquariumofthesmokies.com/" target="_blank">
+      <img src="./images/sponsors/ripleys_logo.gif" alt="Ripley's Aquarium" /></a></td>-->
+	    	 	<td><a href="http://www.usbones.com/Merchant2/merchant.mvc?Affil=1564" target="_blank">
+      <img src="./images/sponsors/us_bones.gif" alt="US Bones" /></a></td>
+	  	<td><a href="http://store.furrybabyfashions.com/" target="_blank">
+      <img src="./images/sponsors/furbaby_logo.jpg" alt="Furry Baby Fashions" /></a>
+	  </td>
+        		<!--<td><a href="http://www.bigdogboutique.com/" target="_blank">
+      <img src="./images/sponsors/logobigdog.gif" width="280" alt="Big Dog Boutique" /></a></td>-->	  
+        		<!--<td><a href="http://www.konaschips.com/" target="_blank">
+      <img src="./images/sponsors/konas_logo.jpg" alt="Konas Chips" /></a></td>-->
+        		<!--<td>&nbsp;<!--<a href="http://fourleggedlife.com/" target="_blank">
+      <img src="./images/sponsors/Arden_Moore_logo.gif" alt="Arden Moore|Four Legged Life" /></a></td>-->
+        		<td><a href="http://www.dogpoopbags.com/" target="_blank">
+      <img src="./images/sponsors/dogpoopbags.gif" alt="DogPoopBags.com" /></a></td>
+	  <td></td>
+        	</tr>
+        </table>
+      </div>	
+<h2>&copy; 2008 GFNC Mountain Hounds <br />
+     <!--<a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> and <a href="http://validator.w3.org/check?uri=referer">XHTML </a>| Design based on CSS by <a href=
+    "http://www.flopsoft.co.nr" target="_blank">FlopSoft Inc.</a></h2>-->
+  </div>
+  </div>
+</body>
+</html>

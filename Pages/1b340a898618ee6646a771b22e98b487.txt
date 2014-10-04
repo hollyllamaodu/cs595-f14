@@ -1,0 +1,591 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<!-- Page Info -->
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="description" content="Blogs.Oracle.Com - The Aquarium">
+  <meta name="keywords" content="blogs, oracle, blogs.oracle, blogging, bloggers">
+		            <title>Meet the Java EE 8 Experts at JavaOne (The Aquarium)</title>
+                           <meta http-equiv="Content-Language" content="en_US" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="imagetoolbar" content="no" />
+
+           <link rel="EditURI"   type="application/rsd+xml" title="RSD" href="https://blogs.oracle.com/theaquarium/rsd"/>
+        
+            <link rel="alternate" type="application/atom+xml" title="Recent Entries (Atom)"  href="https://blogs.oracle.com/theaquarium/feed/entries/atom" />
+    <link rel="alternate" type="application/rss+xml"  title="Recent Entries (RSS)"   href="https://blogs.oracle.com/theaquarium/feed/entries/rss" />
+    <link rel="alternate" type="application/atom+xml" title="Recent Comments (Atom)" href="https://blogs.oracle.com/theaquarium/feed/comments/atom" />
+    <link rel="alternate" type="application/rss+xml"  title="Recent Comments (RSS)"  href="https://blogs.oracle.com/theaquarium/feed/comments/rss" />
+
+    
+    
+<!-- Stylesheets -->
+<link rel="stylesheet" href="https://blogs.oracle.com/theaquarium/resource/TheAquariumBlog/theme.css" type="text/css" media="screen" />
+
+<!-- Favicon -->
+<link rel="shortcut icon" href="https://blogs.oracle.com/theaquarium/resource/TheAquariumBlog/favicon.gif" />    	</head>
+	<body>
+		<div id="container" class="three-columns"> <!-- Note: Change the class from "two-columns" to "three-columns" if needed -->
+			
+			<!-- Header -->
+			<div id="header">
+				<ul id="nav">
+					<li id="logo"><h6><a href="http://www.oracle.com">Oracle</a></h6></li>
+					<li class="current"><a href="/">.siteShortName</a></li>
+					<li><a href="http://www.oracle.com/us/products/index.html">Products &amp; Services</a></li>
+					<li><a href="http://www.oracle.com/technetwork/indexes/downloads/index.html">Downloads</a></li>
+					<li><a href="http://www.oracle.com/us/support/index.html">Support</a></li>
+					<li><a href="http://www.oracle.com/us/partnerships/index.html">Partners</a></li>
+					<li><a href="http://www.oracle.com/us/community/index.html">Communities</a></li>
+					<li><a href="http://www.oracle.com/us/corporate/index.html">About</a></li>
+                                            <li id="signIn"><a href="/roller-ui/login-redirect.rol">Login</a></li>
+                    				</ul>
+				<div id="jumbotron">
+					<h4>Oracle Blog</h4>
+          <h5><a href="https://blogs.oracle.com/theaquarium/">The Aquarium</a></h5>
+          <h5 class="subhead">News from the GlassFish Community</h5>
+				</div>
+                																										</div>
+			
+			<!-- Content -->
+			<div id="content">
+
+		
+			
+                <div id="mainColumn">
+                    
+                    <!-- Previous and Next Entries -->
+                    <div id="pager">
+                                                    &laquo; <a href="https://blogs.oracle.com/theaquarium/entry/jms_2_hands_on_lab">JMS 2 Hands-on-Lab...</a> |  
+                <a href="/theaquarium/">Main</a>
+                | <a href="https://blogs.oracle.com/theaquarium/entry/mvc_1_0_jsr_371">MVC 1.0 (JSR 371) at...</a> &raquo;
+                        </div>
+
+                    <!-- Entries -->
+				    
+                <div class="day">
+
+
+	<div class="entry" id="meet_the_java_ee_8">
+
+	<h3 class="entry-title">
+			Meet the Java EE 8 Experts at JavaOne
+	    </h3>
+
+    <h4 class="entry-meta">By delabassee on <a href="#">Sep 22, 2014</a></h4>
+
+    <div class="entry-body">
+                                        	<p>During JavaOne, you will have many occasions to discuss with different Java EE Specification Leads or other key Java EE staff:</p> 
+  <p> </p> 
+  <ul> 
+    <li><a href="https://blogs.oracle.com/theaquarium/entry/javaone_java_ee_thirsty_bear">Java EE Appreciation Event</a> ... and probably other J1 Parties!</li> 
+    <li><a href="https://blogs.oracle.com/theaquarium/entry/why_join_the_javaone_glassfish1">GlassFish Community Event</a></li> 
+    <li><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=3031">Meet the Java EE Specification Leads BoF</a></li> 
+    <li><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=5639">CDI 2.0 BoF</a></li> 
+    <li><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=3171">What Do We Want in JMS 2.1 BoF</a></li> 
+    <li><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=4241">What’s Next for JSF BoF</a></li> 
+    <li><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=3080">What’s New in JTA BoF</a> </li> 
+    <li>The Java EE Pod in the <a href="https://www.oracle.com/javaone/floor-plans/index.html">Pavilion</a>'s JavaHub</li> 
+    <li>And many other Java EE related sessions... &nbsp;</li> 
+  </ul> 
+  <p>This year, we have also arranged a <strong><em>Meet the Experts</em></strong> area. It is a designated space in the JavaHub where most of the Specification Leads will be present at a dedicated time (see schedule below).  Oracle's Java EE Evangelists and Heather VanCura from the JCP will also be present.
+It will be the ideal place to carry on informal conversations about Java EE8. Also, keep in mind that the various Expert Groups are being formed so it is also the perfect time to ask what it takes to join an EG!</p> 
+  <p><strong><u>Monday, September 29</u> <em>(</em></strong><em>Dedicated pavilion hours: 1:30-2:30 PM)</em></p> 
+  <table border="1" bordercolor="grey" cellspacing="1" cellpadding="0" style="width: 100%; display: table;" class=" htmtableborders"> 
+    <tbody> 
+      <tr> 
+        <td style="width: 11%;">10-11 AM</td> 
+        <td style="width: 24%;">&nbsp;Bruno Borges</td> 
+        <td style="width: 65%;">&nbsp;Adopt-a-JSR for Java EE 8, any Java EE 8 technologies</td> 
+      </tr> 
+      <tr> 
+        <td style="width: 11%;">11-12 PM</td> 
+        <td style="width: 24%;">&nbsp;Martin Grebac</td> 
+        <td style="width: 65%;">&nbsp;JSON-B</td> 
+      </tr> 
+      <tr> 
+        <td style="width: 11%;">12-1 PM</td> 
+        <td style="width: 24%;">&nbsp;Kin-man Chung</td> 
+        <td style="width: 65%;">&nbsp;JSON-P and EL</td> 
+      </tr> 
+      <tr> 
+        <td style="width: 11%;">1-2 PM</td> 
+        <td style="width: 24%;"> 
+          <p>&nbsp;Marek Potociar</p> 
+          <p>&nbsp;Pavel Bucek&nbsp;</p> 
+        </td> 
+        <td style="width: 65%;"> 
+          <p>&nbsp;JAX-RS 2.1</p> 
+          <p>&nbsp;WebSocket 1.1</p> 
+        </td> 
+      </tr> 
+      <tr> 
+        <td style="width: 11%;">2-3 PM</td> 
+        <td style="width: 24%;">&nbsp;Linda DeMichiel</td> 
+        <td style="width: 65%;">&nbsp;Java EE 8</td> 
+      </tr> 
+      <tr> 
+        <td style="width: 11%;">4-5 PM</td> 
+        <td style="width: 24%;">&nbsp;Reza Rahman</td> 
+        <td style="width: 65%;">&nbsp;Adopt-a-JSR for Java EE 8, any Java EE 8 technologies</td> 
+      </tr> 
+    </tbody> 
+  </table> 
+  <p><strong><u>Tuesday, September 30</u></strong> <em>(Dedicated pavilion hours: 1:30-2:30 PM)</em></p> 
+  <table border="1" bordercolor="grey" cellspacing="1" cellpadding="0" style="width: 100%; display: table;" class=" htmtableborders"> 
+    <tbody> 
+      <tr> 
+        <td style="width: 11%;">10-11 AM</td> 
+        <td style="width: 24%;">&nbsp;Heather VanCura</td> 
+        <td style="width: 65%;">&nbsp;JCP/JCP.Next (JSR 364), Adopt-a-JSR</td> 
+      </tr> 
+      <tr> 
+        <td style="width: 11%;">11-12 PM</td> 
+        <td style="width: 24%;">&nbsp;Martin Mares</td> 
+        <td style="width: 65%;">&nbsp;Java EE Management</td> 
+      </tr> 
+      <tr> 
+        <td style="width: 11%;">12-1 PM</td> 
+        <td style="width: 24%;">&nbsp;Nigel Deakin</td> 
+        <td style="width: 65%;">&nbsp;JMS 2.1</td> 
+      </tr> 
+      <tr> 
+        <td style="width: 11%;">1-2 PM</td> 
+        <td style="width: 24%;">&nbsp;Reza Rahman</td> 
+        <td style="width: 65%;">&nbsp;Adopt-a-JSR for Java EE 8, any Java EE 8 technologies</td> 
+      </tr> 
+      <tr> 
+        <td style="width: 11%;">2-3 PM</td> 
+        <td style="width: 24%;">&nbsp;Ed Burns, Shing Wai Chan</td> 
+        <td style="width: 65%;">&nbsp;JSF 2.3 and Servlets 4.0</td> 
+      </tr> 
+      <tr> 
+        <td style="width: 11%;">4-5 PM</td> 
+        <td style="width: 24%;">&nbsp;Marek Potociar</td> 
+        <td style="width: 65%;">&nbsp;JAX-RS 2.1</td> 
+      </tr> 
+    </tbody> 
+  </table> 
+  <p><strong><u>Wednesday, October 1</u></strong> <em>(Dedicated pavilion hours: 2:00-3:00 PM)</em></p> 
+  <p> </p> 
+  <p> </p> 
+  <table border="1" cellspacing="1" cellpadding="1" style="width: 100%; display: table;" class=" htmtableborders"> 
+    <tbody> 
+      <tr style="border-bottom-width: 1pt; border-bottom-style: solid; border-bottom-color: black;"> 
+        <td style="width: 11%;">12-1 PM</td> 
+        <td style="width: 24%;">&nbsp;Brian Oliver</td> 
+        <td style="width: 65%;">&nbsp;JCache</td> 
+      </tr> 
+      <tr> 
+        <td style="width: 11%;">1-2 PM</td> 
+        <td style="width: 24%;">&nbsp;David Delabassée</td> 
+        <td style="width: 65%;">&nbsp;Adopt-a-JSR for Java EE 8, any Java EE 8 technologies</td> 
+      </tr> 
+      <tr> 
+        <td style="width: 11%;">2-3 PM</td> 
+        <td style="width: 24%;">&nbsp;Manfred Riem</td> 
+        <td style="width: 65%;">&nbsp;MVC 1.0 and JSF 2.3</td> 
+      </tr> 
+    </tbody> 
+  </table>
+        
+    </div>
+
+    <div class="entry-footer">
+        <p class="entry-category">Category: JavaEE</p>
+        <p class="entry-tags">Tags:    
+    	    <a href="https://blogs.oracle.com/theaquarium/tags/javaee8" rel="tag">javaee8</a> 
+  	    <a href="https://blogs.oracle.com/theaquarium/tags/javaone" rel="tag">javaone</a> 
+  	    <a href="https://blogs.oracle.com/theaquarium/tags/jcp" rel="tag">jcp</a> 
+    
+ </p>
+        <p class="entry-links">
+        <a href="https://blogs.oracle.com/theaquarium/entry/meet_the_java_ee_8">Permanent link to this entry</a>
+                        </p>
+    </div>
+
+	    
+	</div>
+
+</div>    
+    				    
+                    
+                    <!-- Previous and Next Entries -->
+                    <div id="pagerBottom">
+                                                    &laquo; <a href="https://blogs.oracle.com/theaquarium/entry/jms_2_hands_on_lab">JMS 2 Hands-on-Lab...</a> |  
+                <a href="/theaquarium/">Main</a>
+                | <a href="https://blogs.oracle.com/theaquarium/entry/mvc_1_0_jsr_371">MVC 1.0 (JSR 371) at...</a> &raquo;
+                        </div> 				    
+
+                    <!-- Comments -->
+                                                <a name="comments"></a>
+    <div class="comments" id="comments">
+
+            <div class="comments-head">Comments:</div>
+            
+    <br/>
+        </div>
+                        
+    <div class="comments-form">
+    <div class="comments-head">Post a Comment:</div>
+    <a name="comment-form"></a>
+
+
+    
+    <form method="post" action="https://blogs.oracle.com/theaquarium/entry/meet_the_java_ee_8" focus="name" 
+        name="commentForm" onsubmit="fixURL(this); return validateComments(this)">    
+        <input type="hidden" name="method" value="post" />
+
+        <ul>
+            <li>
+                <label class="desc">Name:</label>
+                <input type="text" name="name" class="text large" value="" size="50" maxlength="255" />
+            </li>
+
+            <li><label class="desc">E-Mail:</label>
+                <input type="text" name="email" class="text large" value="" size="50" maxlength="255" />
+            </li>
+
+            <li><label class="desc">URL:</label>
+                <input type="text" name="url" class="text large" value="" size="50" maxlength="255" />
+            </li>
+
+                    <li><input type="checkbox" class="checkbox" id="notify" name="notify" />
+                <label for="notify" class="choice">Notify me by email of new comments</label>
+            </li>
+                    <li>
+                <input type="checkbox" class="checkbox" id="rememberInfo" name="rememberInfo" />
+                <label for="rememberInfo" class="choice">Remember Information?</label>
+            </li>
+            <li>
+                <label class="desc">Your Comment:</label>
+             
+            <textarea name="content" class="textarea large" cols="40" rows="10"></textarea>
+
+            </li>
+            <li class="info">
+                <span class="comments-syntax-indicator">
+                HTML Syntax:
+                                    <span class="disabled">NOT allowed</span>
+                                </span>
+            </li>
+            <li class="info">
+               <script type="text/javascript" src="/theme/scripts/clientSideInclude.js"></script>
+               <div id="commentAuthenticator"></div>
+            </li>
+            <li>
+               <input type="button" class="button" name="post" value="&nbsp;Preview&nbsp;"
+                  onclick="this.form.method.value='preview';this.form.submit()" />
+               <input type="submit" class="button" name="post" value="&nbsp;Post&nbsp;" />
+            </li>
+        </ul>
+
+    </form>
+
+    <script type="text/javascript" src="/theme/scripts/roller.js"></script>
+    <script type="text/javascript">
+    clientSideInclude('commentAuthenticator', '/CommentAuthenticatorServlet');
+
+    var author = getCookie("commentAuthor");
+    var email = getCookie("commentEmail");
+    var url = getCookie("commentUrl");
+    // check each field - IE will render "null"
+   
+    if (author) {
+        document.forms['commentForm'].name.value = author;
+    }else{
+        document.forms['commentForm'].name.value = "guest";
+    }
+
+    if (email) {
+        document.forms['commentForm'].email.value = email;
+    }
+    if (url) {
+        document.forms['commentForm'].url.value = url;
+    }
+
+    if (author || email || url) {
+        document.forms['commentForm'].rememberInfo.checked = true;
+    }
+
+    function fixURL(theForm) {
+        if (theForm.url.value != "" &&
+            theForm.url.value.indexOf("http://") == -1) { //prepend http://
+            theForm.url.value = "http://"+theForm.url.value;
+        }
+        saveUserInformation(theForm);
+    }
+
+    function saveUserInformation(theForm) {
+        if (theForm.rememberInfo.checked) {
+            rememberUser(theForm);
+        } else {
+            forgetUser(theForm);
+        }
+    }
+
+    function validateComments(theForm) {
+        if (theForm.content.value == "") {
+            alert("Please enter a comment.");
+            theForm.content.focus();
+            return false;
+        }
+ 
+        if (document.forms['commentForm'].name.value=="" ) {
+        document.forms['commentForm'].name.value = "guest";
+        }
+
+    }
+    </script>
+
+
+    </div>
+                    				</div>
+				
+<div id="sideBar">
+            <!-- About -->
+    <h5 class="section-titleTop">About</h5>
+    <div class="section-body">
+                  <p><a href="https://blogs.oracle.com/theaquarium/feed/entries/atom" title="Blog Feed"><img src="https://blogs.oracle.com/theaquarium/resource/feed-icon32x32.png" align="left" hspace="5"></a>
+Topics include Open Source, GlassFish, JavaEE, Cloud, Web Services, WebSockets, Jersey, Tyrus, Metro, Grizzly and more
+</p>
+</div>
+
+<h5 class="section-titleTop">Stay Connected</h5>
+<div class="section-body" style="text-align:center">
+  <iframe height="70" frameborder="0" src="https://blogs.oracle.com/theaquarium/resource/connected1.html">
+  </iframe>
+  <iframe width="400" height="285" frameborder="0" scrolling="no" src="https://blogs.oracle.com/theaquarium/resource/glassfish-tweets2.html">
+  </iframe>
+</div></p>
+            </div>
+
+                <!-- Left Sidebar -->
+                           <!-- Left Sidebar -->
+<div id="leftColumn">
+
+
+    
+<!-- Bookmarks -->
+   <div id="bookmarkSection">
+                    <h5 class="section-title">Companion Sites</h5>
+        <div class="section-body">
+                    <ul class="rFolder">
+                    <li class="rFolderItem">
+                                <a href="https://blogs.oracle.com/stories"
+               title="$bookmark.description"
+               class="rBookmark0">Adoption Stories</a>
+                </li>
+            <li class="rFolderItem">
+                                <a href="https://blogs.oracle.com/glassfishpodcast"
+               title="$bookmark.description"
+               class="rBookmark0">GlassFish Podcast</a>
+                </li>
+            <li class="rFolderItem">
+                                <a href="https://blogs.oracle.com/glassfishforbusiness"
+               title="$bookmark.description"
+               class="rBookmark0">GlassFish for Business</a>
+                </li>
+                    </ul>
+                </div>
+            <h5 class="section-title">Podcasts & Videos</h5>
+        <div class="section-body">
+                    <ul class="rFolder">
+                    <li class="rFolderItem">
+                                <a href="https://blogs.oracle.com/glassfishpodcast/entry/episode_075_glassfish_3_1"
+               title="$bookmark.description"
+               class="rBookmark0">Episode #075 - GlassFish 3.1.1 interview With Sathyan Catari</a>
+                </li>
+            <li class="rFolderItem">
+                                <a href="http://youtube.com/glassfishvideos"
+               title="$bookmark.description"
+               class="rBookmark0">GlassFish YouTube Channel</a>
+                </li>
+                    </ul>
+                </div>
+            <h5 class="section-title">Useful Links</h5>
+        <div class="section-body">
+                    <ul class="rFolder">
+                    <li class="rFolderItem">
+                                <a href="https://blogs.oracle.com/GlassFishForBusiness/entry/glassfish_support_from_oracle"
+               title="$bookmark.description"
+               class="rBookmark0">GlassFish Commercial Support</a>
+                </li>
+            <li class="rFolderItem">
+                                <a href="http://glassfish.org"
+               title="$bookmark.description"
+               class="rBookmark0">GlassFish Community</a>
+                </li>
+            <li class="rFolderItem">
+                                <a href="http://maps.glassfish.org"
+               title="$bookmark.description"
+               class="rBookmark0">GlassFish Maps</a>
+                </li>
+            <li class="rFolderItem">
+                                <a href="https://wikis.oracle.com/display/GlassFish"
+               title="$bookmark.description"
+               class="rBookmark0">GlassFish Wiki</a>
+                </li>
+            <li class="rFolderItem">
+                                <a href="https://blogs.oracle.com/theaquarium/entry/how_to_use_theaquarium"
+               title="$bookmark.description"
+               class="rBookmark0">How to use TheAquarium</a>
+                </li>
+                    </ul>
+                </div>
+            <h5 class="section-title">Contact Us</h5>
+        <div class="section-body">
+                    <ul class="rFolder">
+                    <li class="rFolderItem">
+                                <a href="mailto:theaquarium_ww@oracle.com_removeme"
+               title="$bookmark.description"
+               class="rBookmark0">theaquarium_ww @ oracle.com</a>
+                </li>
+                    </ul>
+                </div>
+      </div>    
+<!-- End Bookmarks -->
+
+<!-- Top Tags -->
+  <div id="tagsSection">  
+            <h5 class="section-title">Top Tags</h5>
+    <div class="tags section-body">
+        <ul class="tag-cloud">
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/3.1" title="59" class="weight-1">3.1</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/7" title="65" class="weight-1">7</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/adoption" title="222" class="weight-3">adoption</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/ajax" title="74" class="weight-1">ajax</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/cdi" title="64" class="weight-1">cdi</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/clustering" title="52" class="weight-1">clustering</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/community" title="143" class="weight-2">community</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/eclipse" title="44" class="weight-1">eclipse</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/ee" title="83" class="weight-1">ee</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/ejb" title="44" class="weight-1">ejb</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/frontpage" title="342" class="weight-3">frontpage</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/glassfish" title="2081" class="weight-5">glassfish</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/grizzly" title="95" class="weight-1">grizzly</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/hudson" title="105" class="weight-2">hudson</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/java" title="172" class="weight-2">java</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/javaee" title="279" class="weight-3">javaee</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/javaee6" title="136" class="weight-2">javaee6</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/javaee7" title="135" class="weight-2">javaee7</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/javaone" title="177" class="weight-2">javaone</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/jax-rs" title="67" class="weight-1">jax-rs</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/jax-ws" title="67" class="weight-1">jax-ws</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/jboss" title="44" class="weight-1">jboss</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/jcp" title="146" class="weight-2">jcp</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/jersey" title="100" class="weight-2">jersey</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/jpa" title="66" class="weight-1">jpa</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/jruby" title="69" class="weight-1">jruby</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/jsf" title="153" class="weight-2">jsf</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/maven" title="51" class="weight-1">maven</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/metro" title="90" class="weight-1">metro</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/mysql" title="90" class="weight-1">mysql</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/netbeans" title="209" class="weight-3">netbeans</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/notd" title="68" class="weight-1">notd</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/opends" title="52" class="weight-1">opends</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/openesb" title="80" class="weight-1">openesb</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/opensource" title="111" class="weight-2">opensource</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/opensso" title="103" class="weight-2">opensso</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/oracle" title="111" class="weight-2">oracle</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/performance" title="77" class="weight-1">performance</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/portal" title="49" class="weight-1">portal</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/rest" title="79" class="weight-1">rest</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/sailfin" title="66" class="weight-1">sailfin</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/scripting" title="47" class="weight-1">scripting</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/sun" title="145" class="weight-2">sun</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/updatecenter" title="59" class="weight-1">updatecenter</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/v2" title="57" class="weight-1">v2</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/v3" title="236" class="weight-3">v3</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/webinar" title="77" class="weight-1">webinar</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/webservices" title="127" class="weight-2">webservices</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/websocket" title="46" class="weight-1">websocket</a></li>
+                    <li><a href="https://blogs.oracle.com/theaquarium/tags/weekly" title="58" class="weight-1">weekly</a></li>
+                </ul>
+    </div>
+    </div>    
+<!-- End Top Tags -->
+    
+            
+<!-- Blog and Author Menu -->
+   <div id="menuSection">
+    <h5 class="section-title">Menu</h5>
+    <div class="section-body">
+            <ul class="rNavigationBar">
+        <li class="rNavItem">
+            <a href="/"><span>Blogs Home</span></a>
+        </li>
+        <li class="rNavItem">
+            <a href="https://blogs.oracle.com/theaquarium/"><span>Weblog</span></a>
+        </li>
+                                                                        <li class="rNavItem"><a href="https://blogs.oracle.com/theaquarium/page/About"><span>About</span></a></li>
+                                                                                                                        <li class="rNavItem"><a href="https://blogs.oracle.com/theaquarium/page/Screencasts"><span>Screencasts</span></a></li>
+                                                                                                                                                                                                                                                                                                    <li class="rNavItem">
+                    <a href="/roller-ui/login-redirect.rol"><span>Login</span></a>
+                </li>
+                        </ul>
+            </div>
+  </div>    
+<!-- End Blog and Author Menu -->
+   
+    
+</div>                    
+                <!-- Sidebar -->
+                           <!-- Right Sidebar -->
+<div id="rightColumn">
+
+<!-- Recent Posts -->
+  <div id="recentSection">  
+                <h5 class="section-title">Recent Posts</h5>
+        <div class="section-body">
+            <ul>
+                                    <li><a href="https://blogs.oracle.com/theaquarium/entry/jbatch_suite_visual_development_for">jBatch Suite: Visual Development for the Java API for Batch Processing/Java EE 7</a></li>
+                                    <li><a href="https://blogs.oracle.com/theaquarium/entry/kito_mann_s_jsf_sessions">Kito Mann's JSF Sessions at JavaOne 2014</a></li>
+                                    <li><a href="https://blogs.oracle.com/theaquarium/entry/spotlight_on_glassfish_4_18">Spotlight on GlassFish 4.1: #11 Enable Remote Admin</a></li>
+                                    <li><a href="https://blogs.oracle.com/theaquarium/entry/unanimously">Java EE 8 JSRs Unanimously Approved!</a></li>
+                                    <li><a href="https://blogs.oracle.com/theaquarium/entry/mvc_1_0_jsr_371">MVC 1.0 (JSR 371) at JavaOne</a></li>
+                                    <li><a href="https://blogs.oracle.com/theaquarium/entry/meet_the_java_ee_8">Meet the Java EE 8 Experts at JavaOne</a></li>
+                                    <li><a href="https://blogs.oracle.com/theaquarium/entry/jms_2_hands_on_lab">JMS 2 Hands-on-Lab Video and Materials</a></li>
+                                    <li><a href="https://blogs.oracle.com/theaquarium/entry/java_ee_configuration_jsr_deferred">Java EE Configuration JSR Deferred</a></li>
+                                    <li><a href="https://blogs.oracle.com/theaquarium/entry/spotlight_on_glassfish_4_17">Spotlight on GlassFish 4.1: #10 WebSocket Client Redirect</a></li>
+                                    <li><a href="https://blogs.oracle.com/theaquarium/entry/jax_rs_2_1">JSR 370: Java API for RESTful Web Services 2.1</a></li>
+                            </ul>
+        </div>
+      </div>    
+<!-- End Recent Posts -->
+
+
+
+<!-- Archives -->
+   <div id="archiveSection">
+    <h5 class="section-title">Archives</h5>
+    <div class="section-body">
+        <table cellspacing="0" border="0"  summary="Blog Archive Calendar" class="hCalendarTable"><tr><td colspan="7" align="center" class="hCalendarMonthYearRow"><a href="/theaquarium/date/201409" title="Prev" class="hCalendarNavBar">&laquo;</a> October 2014</td></tr><tr><th class="hCalendarDayNameRow" align="center">Sun</th><th class="hCalendarDayNameRow" align="center">Mon</th><th class="hCalendarDayNameRow" align="center">Tue</th><th class="hCalendarDayNameRow" align="center">Wed</th><th class="hCalendarDayNameRow" align="center">Thu</th><th class="hCalendarDayNameRow" align="center">Fri</th><th class="hCalendarDayNameRow" align="center">Sat</th></tr><tr><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDay"><div class="hCalendarDayTitle">1</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">2</div></td><td class="hCalendarDayCurrent"><div class="hCalendarDayTitle">3</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">4</div></td></tr><tr><td class="hCalendarDay"><div class="hCalendarDayTitle">5</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">6</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">7</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">8</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">9</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">10</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">11</div></td></tr><tr><td class="hCalendarDay"><div class="hCalendarDayTitle">12</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">13</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">14</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">15</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">16</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">17</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">18</div></td></tr><tr><td class="hCalendarDay"><div class="hCalendarDayTitle">19</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">20</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">21</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">22</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">23</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">24</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">25</div></td></tr><tr><td class="hCalendarDay"><div class="hCalendarDayTitle">26</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">27</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">28</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">29</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">30</div></td><td class="hCalendarDay"><div class="hCalendarDayTitle">31</div></td><td class="hCalendarDayNotInMonth">&nbsp;</td></tr><tr><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td><td class="hCalendarDayNotInMonth">&nbsp;</td></tr><tr class="hCalendarNextPrev"><td colspan="7" align="center"><a href="/theaquarium/" class="hCalendarNavBar">Today</a></td></tr></table>
+    </div>
+  </div>
+<!-- End Archives -->
+
+
+
+</div>
+
+    
+
+</div>
+			</div>
+
+			<!-- Footer -->
+			<div id="footer">
+				<p>The views expressed on this blog are those of the author and do not necessarily reflect the views of Oracle. <a href="http://www.oracle.com/html/terms.html">Terms of Use</a> | <a href="http://www.oracle.com/html/privacy.html">Your Privacy Rights</a> | <span id='teconsent'><script type='text/javascript' src='https://consent.truste.com/notice?domain=oracle.com&c=teconsent&language=en&text=true'></script>   </span>  </p>
+			</div>
+			<!-- Omniture Script --> 
+<!-- Start SiteCatalyst code -->
+
+<script language="JavaScript" src="/main/resource/resources/ora_blogs.js"></script>
+
+<!-- End SiteCatalyst code -->
+		</div>
+	</body>
+</html>

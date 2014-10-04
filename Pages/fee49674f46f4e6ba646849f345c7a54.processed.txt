@@ -1,0 +1,650 @@
+
+   [1]Skip to content
+   [2]▼ Close
+     * [3]Python
+     * [4]PSF
+     * [5]Docs
+     * [6]PyPI
+     * [7]Jobs
+     * [8]Community
+
+   [9]▲ The Python Network
+
+[10]python™
+
+   [11]≡ Menu
+
+   Search This Site ____________________ (BUTTON) GO
+
+     * [12]A A
+          + [13]Smaller
+          + [14]Larger
+          + [15]Reset
+
+     * [16]Socialize
+          + [17]Google+
+          + [18]Facebook
+          + [19]Twitter
+          + [20]IRC on Freenode
+
+     * [21]Sign In
+          + [22]Sign Up / Register
+          + [23]Sign In
+
+     * [24]About
+          + [25]Applications
+          + [26]Quotes
+          + [27]Getting Started
+          + [28]Help
+     * [29]Downloads
+          + [30]All releases
+          + [31]Source code
+          + [32]Windows
+          + [33]Mac OS X
+          + [34]Other Platforms
+          + [35]License
+          + [36]Alternative Implementations
+     * [37]Documentation
+          + [38]Docs
+          + [39]Audio/Visual Talks
+          + [40]Beginner's Guide
+          + [41]Developer's Guide
+          + [42]FAQ
+          + [43]Non-English Docs
+          + [44]PEP Index
+          + [45]Python Books
+     * [46]Community
+          + [47]Diversity
+          + [48]IRC
+          + [49]Mailing Lists
+          + [50]Python Conferences
+          + [51]Special Interest Groups
+          + [52]Python Wiki
+          + [53]Python Logo
+          + [54]Merchandise
+          + [55]Community Awards
+     * [56]Success Stories
+          + [57]Arts
+          + [58]Business
+          + [59]Education
+          + [60]Engineering
+          + [61]Government
+          + [62]Scientific
+          + [63]Software Development
+     * [64]News
+          + [65]Python News
+          + [66]Community News
+          + [67]PSF News
+          + [68]PyCon News
+     * [69]Events
+          + [70]Python Events
+          + [71]User Group Events
+          + [72]Python Events Archive
+          + [73]User Group Events Archive
+          + [74]Submit an Event
+
+Download the latest version for Mac OS X
+
+   [75]Download Python 3.4.1 [76]Download Python 2.7.8
+
+Download the latest source release
+
+   [77]Download Python 3.4.1 [78]Download Python 2.7.8
+
+Download the latest version for Windows
+
+   [79]Download Python 3.4.1 [80]Download Python 2.7.8
+
+Download the latest versions of Python
+
+   [81]Download Python 3.4.1 [82]Download Python 2.7.8
+
+   Wondering which version to use? [83]Here’s more about the difference
+   between Python 2 and 3.
+
+   Looking for Python with a different OS? Python for [84]Windows,
+   [85]Linux/UNIX, [86]Mac OS X, [87]Other
+
+   Want to help test development versions of Python? [88]Pre-releases
+
+Looking for a specific release?
+
+   Python releases by version number:
+   Release version Release date   Click for more
+    1. [89]Python 2.7.8 2014-07-2 [90]Download [91]Release Notes
+    2. [92]Python 2.7.7 2014-06-1 [93]Download [94]Release Notes
+    3. [95]Python 3.4.1 2014-05-19 [96]Download [97]Release Notes
+    4. [98]Python 3.4.0 2014-03-17 [99]Download [100]Release Notes
+    5. [101]Python 3.3.5 2014-03-9 [102]Download [103]Release Notes
+    6. [104]Python 3.3.4 2014-02-9 [105]Download [106]Release Notes
+    7. [107]Python 3.3.3 2013-11-17 [108]Download [109]Release Notes
+    8. [110]Python 2.7.6 2013-11-10 [111]Download [112]Release Notes
+    9. [113]Python 2.6.9 2013-10-29 [114]Download [115]Release Notes
+   10. [116]Python 3.3.2 2013-05-15 [117]Download [118]Release Notes
+   11. [119]Python 3.2.5 2013-05-15 [120]Download [121]Release Notes
+   12. [122]Python 2.7.5 2013-05-12 [123]Download [124]Release Notes
+   13. [125]Python 3.3.1 2013-04-6 [126]Download [127]Release Notes
+   14. [128]Python 2.7.4 2013-04-6 [129]Download [130]Release Notes
+   15. [131]Python 3.2.4 2013-04-6 [132]Download [133]Release Notes
+   16. [134]Python 3.3.0 2012-09-29 [135]Download [136]Release Notes
+   17. [137]Python 3.2.3 2012-04-10 [138]Download [139]Release Notes
+   18. [140]Python 2.6.8 2012-04-10 [141]Download [142]Release Notes
+   19. [143]Python 2.7.3 2012-04-9 [144]Download [145]Release Notes
+   20. [146]Python 3.1.5 2012-04-9 [147]Download [148]Release Notes
+   21. [149]Python 3.2.2 2011-09-3 [150]Download [151]Release Notes
+   22. [152]Python 3.2.1 2011-07-9 [153]Download [154]Release Notes
+   23. [155]Python 3.1.4 2011-06-11 [156]Download [157]Release Notes
+   24. [158]Python 2.7.2 2011-06-11 [159]Download [160]Release Notes
+   25. [161]Python 2.6.7 2011-06-3 [162]Download [163]Release Notes
+   26. [164]Python 2.5.6 2011-05-26 [165]Download [166]Release Notes
+   27. [167]Python 3.2.0 2011-02-20 [168]Download [169]Release Notes
+   28. [170]Python 2.7.1 2010-11-27 [171]Download [172]Release Notes
+   29. [173]Python 3.1.3 2010-11-27 [174]Download [175]Release Notes
+   30. [176]Python 2.6.6 2010-08-24 [177]Download [178]Release Notes
+   31. [179]Python 2.7.0 2010-07-3 [180]Download [181]Release Notes
+   32. [182]Python 3.1.2 2010-03-20 [183]Download [184]Release Notes
+   33. [185]Python 2.6.5 2010-03-18 [186]Download [187]Release Notes
+   34. [188]Python 2.5.5 2010-01-31 [189]Download [190]Release Notes
+   35. [191]Python 2.6.4 2009-10-26 [192]Download [193]Release Notes
+   36. [194]Python 2.6.3 2009-10-2 [195]Download [196]Release Notes
+   37. [197]Python 3.1.1 2009-08-17 [198]Download [199]Release Notes
+   38. [200]Python 3.1.0 2009-06-26 [201]Download [202]Release Notes
+   39. [203]Python 2.6.2 2009-04-14 [204]Download [205]Release Notes
+   40. [206]Python 3.0.1 2009-02-13 [207]Download [208]Release Notes
+   41. [209]Python 2.5.4 2008-12-23 [210]Download [211]Release Notes
+   42. [212]Python 2.4.6 2008-12-19 [213]Download [214]Release Notes
+   43. [215]Python 2.5.3 2008-12-19 [216]Download [217]Release Notes
+   44. [218]Python 2.6.1 2008-12-4 [219]Download [220]Release Notes
+   45. [221]Python 3.0.0 2008-12-3 [222]Download [223]Release Notes
+   46. [224]Python 2.6.0 2008-10-2 [225]Download [226]Release Notes
+   47. [227]Python 2.3.7 2008-03-11 [228]Download [229]Release Notes
+   48. [230]Python 2.4.5 2008-03-11 [231]Download [232]Release Notes
+   49. [233]Python 2.5.2 2008-02-21 [234]Download [235]Release Notes
+   50. [236]Python 2.5.1 2007-04-19 [237]Download [238]Release Notes
+   51. [239]Python 2.3.6 2006-11-1 [240]Download [241]Release Notes
+   52. [242]Python 2.4.4 2006-10-18 [243]Download [244]Release Notes
+   53. [245]Python 2.5.0 2006-09-19 [246]Download [247]Release Notes
+   54. [248]Python 2.4.3 2006-04-15 [249]Download [250]Release Notes
+   55. [251]Python 2.4.2 2005-09-27 [252]Download [253]Release Notes
+   56. [254]Python 2.4.1 2005-03-30 [255]Download [256]Release Notes
+   57. [257]Python 2.3.5 2005-02-8 [258]Download [259]Release Notes
+   58. [260]Python 2.4.0 2004-11-30 [261]Download [262]Release Notes
+   59. [263]Python 2.3.4 2004-05-27 [264]Download [265]Release Notes
+   60. [266]Python 2.3.3 2003-12-19 [267]Download [268]Release Notes
+   61. [269]Python 2.3.2 2003-10-3 [270]Download [271]Release Notes
+   62. [272]Python 2.3.1 2003-09-23 [273]Download [274]Release Notes
+   63. [275]Python 2.3.0 2003-07-29 [276]Download [277]Release Notes
+   64. [278]Python 2.2.3 2003-05-30 [279]Download [280]Release Notes
+   65. [281]Python 2.2.2 2002-10-14 [282]Download [283]Release Notes
+   66. [284]Python 2.2.1 2002-04-10 [285]Download [286]Release Notes
+   67. [287]Python 2.1.3 2002-04-9 [288]Download [289]Release Notes
+   68. [290]Python 2.2.0 2001-12-21 [291]Download [292]Release Notes
+   69. [293]Python 2.0.1 2001-06-22 [294]Download [295]Release Notes
+
+   [296]View older releases
+
+Licenses
+
+   All Python releases are [297]Open Source. Historically, most, but not
+   all, Python releases have also been GPL-compatible. The Licenses page
+   details GPL-compatibility and Terms and Conditions.
+
+   [298]Read more
+
+Sources
+
+   For most Unix systems, you must download and compile the source code.
+   The same source code archive can also be used to build the Windows and
+   Mac versions, and is the starting point for ports to all other
+   platforms.
+
+   Download the latest [299]Python 2 and [300]Python 3 source.
+
+   [301]Read more
+
+Alternative Implementations
+
+   This site hosts the "traditional" implementation of Python (nicknamed
+   CPython). A number of alternative implementations are available as
+   well.
+
+   [302]Read more
+
+History
+
+   Python was created in the early 1990s by Guido van Rossum at Stichting
+   Mathematisch Centrum in the Netherlands as a successor of a language
+   called ABC. Guido remains Python’s principal author, although it
+   includes many contributions from others.
+
+   [303]Read more
+
+   Looking for the release schedule? [304]Check the Google Calendar.
+   [305]▲ Back to Top
+     * [306]About
+          + [307]Applications
+          + [308]Quotes
+          + [309]Getting Started
+          + [310]Help
+     * [311]Downloads
+          + [312]All releases
+          + [313]Source code
+          + [314]Windows
+          + [315]Mac OS X
+          + [316]Other Platforms
+          + [317]License
+          + [318]Alternative Implementations
+     * [319]Documentation
+          + [320]Docs
+          + [321]Audio/Visual Talks
+          + [322]Beginner's Guide
+          + [323]Developer's Guide
+          + [324]FAQ
+          + [325]Non-English Docs
+          + [326]PEP Index
+          + [327]Python Books
+     * [328]Community
+          + [329]Diversity
+          + [330]IRC
+          + [331]Mailing Lists
+          + [332]Python Conferences
+          + [333]Special Interest Groups
+          + [334]Python Wiki
+          + [335]Python Logo
+          + [336]Merchandise
+          + [337]Community Awards
+     * [338]Success Stories
+          + [339]Arts
+          + [340]Business
+          + [341]Education
+          + [342]Engineering
+          + [343]Government
+          + [344]Scientific
+          + [345]Software Development
+     * [346]News
+          + [347]Python News
+          + [348]Community News
+          + [349]PSF News
+          + [350]PyCon News
+     * [351]Events
+          + [352]Python Events
+          + [353]User Group Events
+          + [354]Python Events Archive
+          + [355]User Group Events Archive
+          + [356]Submit an Event
+
+   [357]▲ Back to Top
+     * [358]Help & General Contact
+     * [359]Diversity Initiatives
+
+   Copyright ©2001-2014.  [360]Python Software Foundation  [361]Legal
+   Statements  [362]Privacy Policy
+
+   Notice: While Javascript is not essential for this website, your
+   interaction with the content will be limited. Please turn Javascript on
+   for the full experience.
+
+References
+
+   1. https://www.python.org/downloads/source/#content
+   2. https://www.python.org/downloads/source/#python-network
+   3. https://www.python.org/
+   4. https://www.python.org/psf-landing/
+   5. https://docs.python.org/
+   6. https://pypi.python.org/
+   7. https://www.python.org/community/jobs/
+   8. https://www.python.org/community/
+   9. https://www.python.org/downloads/source/#top
+  10. https://www.python.org/
+  11. https://www.python.org/downloads/source/#site-map
+  12. https://www.python.org/downloads/source/
+  13. javascript:;
+  14. javascript:;
+  15. javascript:;
+  16. https://www.python.org/downloads/source/
+  17. http://plus.google.com/+Python
+  18. http://www.facebook.com/pythonlang?fref=ts
+  19. http://twitter.com/ThePSF
+  20. http://irc.freenode.net/
+  21. https://www.python.org/accounts/login/
+  22. https://www.python.org/accounts/signup/
+  23. https://www.python.org/accounts/login/
+  24. https://www.python.org/about/
+  25. https://www.python.org/about/apps/
+  26. https://www.python.org/about/quotes/
+  27. https://www.python.org/about/gettingstarted/
+  28. https://www.python.org/about/help/
+  29. https://www.python.org/downloads/
+  30. https://www.python.org/downloads/
+  31. https://www.python.org/downloads/source/
+  32. https://www.python.org/downloads/windows/
+  33. https://www.python.org/downloads/mac-osx/
+  34. https://www.python.org/download/other/
+  35. https://docs.python.org/3/license.html
+  36. https://www.python.org/download/alternatives
+  37. https://www.python.org/doc/
+  38. https://www.python.org/doc/
+  39. https://www.python.org/doc/av
+  40. https://wiki.python.org/moin/BeginnersGuide
+  41. https://docs.python.org/devguide/
+  42. https://docs.python.org/faq/
+  43. http://wiki.python.org/moin/Languages
+  44. http://python.org/dev/peps/
+  45. https://wiki.python.org/moin/PythonBooks
+  46. https://www.python.org/community/
+  47. https://www.python.org/community/diversity/
+  48. https://www.python.org/community/irc/
+  49. https://www.python.org/community/lists/
+  50. https://www.python.org/community/workshops/
+  51. https://www.python.org/community/sigs/
+  52. https://wiki.python.org/moin/
+  53. https://www.python.org/community/logos/
+  54. https://www.python.org/community/merchandise/
+  55. https://www.python.org/community/awards
+  56. https://www.python.org/about/success/
+  57. https://www.python.org/about/success/#arts
+  58. https://www.python.org/about/success/#business
+  59. https://www.python.org/about/success/#education
+  60. https://www.python.org/about/success/#engineering
+  61. https://www.python.org/about/success/#government
+  62. https://www.python.org/about/success/#scientific
+  63. https://www.python.org/about/success/#software-development
+  64. https://www.python.org/blogs/
+  65. https://www.python.org/blogs/
+  66. http://planetpython.org/
+  67. http://pyfound.blogspot.com/
+  68. http://pycon.blogspot.com/
+  69. https://www.python.org/events/python-events/
+  70. https://www.python.org/events/python-events/
+  71. https://www.python.org/events/python-user-group/
+  72. https://www.python.org/events/python-events/past/
+  73. https://www.python.org/events/python-user-group/past/
+  74. https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event
+  75. https://www.python.org/ftp/python/3.4.1/python-3.4.1-macosx10.6.dmg
+  76. https://www.python.org/ftp/python/2.7.8/python-2.7.8-macosx10.6.dmg
+  77. https://www.python.org/ftp/python/3.4.1/Python-3.4.1.tgz
+  78. https://www.python.org/ftp/python/2.7.8/Python-2.7.8.tgz
+  79. https://www.python.org/ftp/python/3.4.1/python-3.4.1.msi
+  80. https://www.python.org/ftp/python/2.7.8/python-2.7.8.msi
+  81. https://www.python.org/downloads/release/python-341/
+  82. https://www.python.org/downloads/release/python-278/
+  83. https://wiki.python.org/moin/Python2orPython3
+  84. https://www.python.org/downloads/windows/
+  85. https://www.python.org/downloads/source/
+  86. https://www.python.org/downloads/mac-osx/
+  87. https://www.python.org/download/other/
+  88. https://www.python.org/download/pre-releases/
+  89. https://www.python.org/downloads/release/python-278/
+  90. https://www.python.org/downloads/release/python-278/
+  91. http://hg.python.org/cpython/raw-file/v2.7.8/Misc/NEWS
+  92. https://www.python.org/download/releases/2.7.7/
+  93. https://www.python.org/download/releases/2.7.7/
+  94. http://hg.python.org/cpython/raw-file/v2.7.7/Misc/NEWS
+  95. https://www.python.org/downloads/release/python-341/
+  96. https://www.python.org/downloads/release/python-341/
+  97. https://docs.python.org/3.4/whatsnew/changelog.html#python-3-4-1
+  98. https://www.python.org/download/releases/3.4.0/
+  99. https://www.python.org/download/releases/3.4.0/
+ 100. https://docs.python.org/3.4/whatsnew/changelog.html#python-3-4-0
+ 101. https://www.python.org/download/releases/3.3.5/
+ 102. https://www.python.org/download/releases/3.3.5/
+ 103. https://docs.python.org/release/3.3.5/whatsnew/changelog.html
+ 104. https://www.python.org/download/releases/3.3.4/
+ 105. https://www.python.org/download/releases/3.3.4/
+ 106. https://docs.python.org/release/3.3.4/whatsnew/changelog.html
+ 107. https://www.python.org/download/releases/3.3.3/
+ 108. https://www.python.org/download/releases/3.3.3/
+ 109. https://docs.python.org/release/3.3.3/whatsnew/changelog.html
+ 110. https://www.python.org/download/releases/2.7.6/
+ 111. https://www.python.org/download/releases/2.7.6/
+ 112. http://hg.python.org/cpython/raw-file/v2.7.6/Misc/NEWS
+ 113. https://www.python.org/download/releases/2.6.9/
+ 114. https://www.python.org/download/releases/2.6.9/
+ 115. http://hg.python.org/cpython/raw-file/v2.6.9/Misc/NEWS
+ 116. https://www.python.org/download/releases/3.3.2/
+ 117. https://www.python.org/download/releases/3.3.2/
+ 118. https://docs.python.org/release/3.3.2/whatsnew/changelog.html
+ 119. https://www.python.org/download/releases/3.2.5/
+ 120. https://www.python.org/download/releases/3.2.5/
+ 121. http://hg.python.org/cpython/raw-file/v3.2.5/Misc/NEWS
+ 122. https://www.python.org/download/releases/2.7.5/
+ 123. https://www.python.org/download/releases/2.7.5/
+ 124. http://hg.python.org/cpython/raw-file/v2.7.5/Misc/NEWS
+ 125. https://www.python.org/download/releases/3.3.1/
+ 126. https://www.python.org/download/releases/3.3.1/
+ 127. https://docs.python.org/release/3.3.1/whatsnew/changelog.html
+ 128. https://www.python.org/download/releases/2.7.4/
+ 129. https://www.python.org/download/releases/2.7.4/
+ 130. http://hg.python.org/cpython/raw-file/v2.7.4/Misc/NEWS
+ 131. https://www.python.org/download/releases/3.2.4/
+ 132. https://www.python.org/download/releases/3.2.4/
+ 133. http://hg.python.org/cpython/raw-file/v3.2.4/Misc/NEWS
+ 134. https://www.python.org/download/releases/3.3.0/
+ 135. https://www.python.org/download/releases/3.3.0/
+ 136. http://hg.python.org/cpython/raw-file/v3.3.0/Misc/NEWS
+ 137. https://www.python.org/download/releases/3.2.3/
+ 138. https://www.python.org/download/releases/3.2.3/
+ 139. http://hg.python.org/cpython/raw-file/v3.2.3/Misc/NEWS
+ 140. https://www.python.org/download/releases/2.6.8/
+ 141. https://www.python.org/download/releases/2.6.8/
+ 142. http://hg.python.org/cpython/raw-file/v2.6.8/Misc/NEWS
+ 143. https://www.python.org/download/releases/2.7.3/
+ 144. https://www.python.org/download/releases/2.7.3/
+ 145. http://hg.python.org/cpython/raw-file/v2.7.3/Misc/NEWS
+ 146. https://www.python.org/downloads/release/python-315/
+ 147. https://www.python.org/downloads/release/python-315/
+ 148. http://hg.python.org/cpython/raw-file/v3.1.5/Misc/NEWS
+ 149. https://www.python.org/download/releases/3.2.2/
+ 150. https://www.python.org/download/releases/3.2.2/
+ 151. http://hg.python.org/cpython/raw-file/v3.2.2/Misc/NEWS
+ 152. https://www.python.org/download/releases/3.2.1/
+ 153. https://www.python.org/download/releases/3.2.1/
+ 154. http://hg.python.org/cpython/raw-file/v3.2.1/Misc/NEWS
+ 155. https://www.python.org/download/releases/3.1.4/
+ 156. https://www.python.org/download/releases/3.1.4/
+ 157. http://hg.python.org/cpython/raw-file/v3.1.4/Misc/NEWS
+ 158. https://www.python.org/download/releases/2.7.2/
+ 159. https://www.python.org/download/releases/2.7.2/
+ 160. http://hg.python.org/cpython/raw-file/v2.7.2/Misc/NEWS
+ 161. https://www.python.org/download/releases/2.6.7/
+ 162. https://www.python.org/download/releases/2.6.7/
+ 163. http://hg.python.org/cpython/raw-file/v2.6.7/Misc/NEWS
+ 164. https://www.python.org/download/releases/2.5.6/
+ 165. https://www.python.org/download/releases/2.5.6/
+ 166. http://hg.python.org/cpython/raw-file/v2.5.6/Misc/NEWS
+ 167. https://www.python.org/download/releases/3.2/
+ 168. https://www.python.org/download/releases/3.2/
+ 169. http://hg.python.org/cpython/raw-file/v3.2/Misc/NEWS
+ 170. https://www.python.org/download/releases/2.7.1/
+ 171. https://www.python.org/download/releases/2.7.1/
+ 172. http://hg.python.org/cpython/raw-file/v2.7.1/Misc/NEWS
+ 173. https://www.python.org/download/releases/3.1.3/
+ 174. https://www.python.org/download/releases/3.1.3/
+ 175. http://hg.python.org/cpython/raw-file/v3.1.3/Misc/NEWS
+ 176. https://www.python.org/download/releases/2.6.6/
+ 177. https://www.python.org/download/releases/2.6.6/
+ 178. http://hg.python.org/cpython/raw-file/v2.6.6/Misc/NEWS
+ 179. https://www.python.org/download/releases/2.7/
+ 180. https://www.python.org/download/releases/2.7/
+ 181. http://hg.python.org/cpython/raw-file/v2.7/Misc/NEWS
+ 182. https://www.python.org/download/releases/3.1.2/
+ 183. https://www.python.org/download/releases/3.1.2/
+ 184. http://hg.python.org/cpython/raw-file/v3.1.2/Misc/NEWS
+ 185. https://www.python.org/download/releases/2.6.5/
+ 186. https://www.python.org/download/releases/2.6.5/
+ 187. http://hg.python.org/cpython/raw-file/v2.6.5/Misc/NEWS
+ 188. https://www.python.org/download/releases/2.5.5/
+ 189. https://www.python.org/download/releases/2.5.5/
+ 190. http://hg.python.org/cpython/raw-file/v2.5.5/Misc/NEWS
+ 191. https://www.python.org/download/releases/2.6.4/
+ 192. https://www.python.org/download/releases/2.6.4/
+ 193. http://hg.python.org/cpython/raw-file/v2.6.4/Misc/NEWS
+ 194. https://www.python.org/download/releases/2.6.3/
+ 195. https://www.python.org/download/releases/2.6.3/
+ 196. http://hg.python.org/cpython/raw-file/v2.6.3/Misc/NEWS
+ 197. https://www.python.org/download/releases/3.1.1/
+ 198. https://www.python.org/download/releases/3.1.1/
+ 199. http://hg.python.org/cpython/raw-file/v3.1.1/Misc/NEWS
+ 200. https://www.python.org/download/releases/3.1/
+ 201. https://www.python.org/download/releases/3.1/
+ 202. http://hg.python.org/cpython/raw-file/v3.1/Misc/NEWS
+ 203. https://www.python.org/download/releases/2.6.2/
+ 204. https://www.python.org/download/releases/2.6.2/
+ 205. http://hg.python.org/cpython/raw-file/v2.6.2/Misc/NEWS
+ 206. https://www.python.org/download/releases/3.0.1/
+ 207. https://www.python.org/download/releases/3.0.1/
+ 208. http://hg.python.org/cpython/raw-file/v3.0.1/Misc/NEWS
+ 209. https://www.python.org/download/releases/2.5.4/
+ 210. https://www.python.org/download/releases/2.5.4/
+ 211. http://hg.python.org/cpython/raw-file/v2.5.4/Misc/NEWS
+ 212. https://www.python.org/download/releases/2.4.6/
+ 213. https://www.python.org/download/releases/2.4.6/
+ 214. http://hg.python.org/cpython/raw-file/v2.4.6/Misc/NEWS
+ 215. https://www.python.org/download/releases/2.5.3/
+ 216. https://www.python.org/download/releases/2.5.3/
+ 217. http://hg.python.org/cpython/raw-file/v2.5.3/Misc/NEWS
+ 218. https://www.python.org/download/releases/2.6.1/
+ 219. https://www.python.org/download/releases/2.6.1/
+ 220. http://hg.python.org/cpython/raw-file/v2.6.1/Misc/NEWS
+ 221. https://www.python.org/download/releases/3.0/
+ 222. https://www.python.org/download/releases/3.0/
+ 223. http://hg.python.org/cpython/raw-file/v3.0/Misc/NEWS
+ 224. https://www.python.org/download/releases/2.6/
+ 225. https://www.python.org/download/releases/2.6/
+ 226. http://hg.python.org/cpython/raw-file/v2.6/Misc/NEWS
+ 227. https://www.python.org/download/releases/2.3.7/
+ 228. https://www.python.org/download/releases/2.3.7/
+ 229. http://hg.python.org/cpython/raw-file/v2.3.7/Misc/NEWS
+ 230. https://www.python.org/download/releases/2.4.5/
+ 231. https://www.python.org/download/releases/2.4.5/
+ 232. http://hg.python.org/cpython/raw-file/v2.4.5/Misc/NEWS
+ 233. https://www.python.org/download/releases/2.5.2/
+ 234. https://www.python.org/download/releases/2.5.2/
+ 235. http://hg.python.org/cpython/raw-file/v2.5.2/Misc/NEWS
+ 236. https://www.python.org/download/releases/2.5.1/
+ 237. https://www.python.org/download/releases/2.5.1/
+ 238. http://hg.python.org/cpython/raw-file/v2.5.1/Misc/NEWS
+ 239. https://www.python.org/download/releases/2.3.6/
+ 240. https://www.python.org/download/releases/2.3.6/
+ 241. http://hg.python.org/cpython/raw-file/v2.3.6/Misc/NEWS
+ 242. https://www.python.org/download/releases/2.4.4/
+ 243. https://www.python.org/download/releases/2.4.4/
+ 244. http://hg.python.org/cpython/raw-file/v2.4.4/Misc/NEWS
+ 245. https://www.python.org/download/releases/2.5/
+ 246. https://www.python.org/download/releases/2.5/
+ 247. http://hg.python.org/cpython/raw-file/v2.5/Misc/NEWS
+ 248. https://www.python.org/download/releases/2.4.3/
+ 249. https://www.python.org/download/releases/2.4.3/
+ 250. http://hg.python.org/cpython/raw-file/v2.4.3/Misc/NEWS
+ 251. https://www.python.org/download/releases/2.4.2/
+ 252. https://www.python.org/download/releases/2.4.2/
+ 253. http://hg.python.org/cpython/raw-file/v2.4.2/Misc/NEWS
+ 254. https://www.python.org/download/releases/2.4.1/
+ 255. https://www.python.org/download/releases/2.4.1/
+ 256. http://hg.python.org/cpython/raw-file/v2.4.1/Misc/NEWS
+ 257. https://www.python.org/download/releases/2.3.5/
+ 258. https://www.python.org/download/releases/2.3.5/
+ 259. http://hg.python.org/cpython/raw-file/v2.3.5/Misc/NEWS
+ 260. https://www.python.org/download/releases/2.4/
+ 261. https://www.python.org/download/releases/2.4/
+ 262. http://hg.python.org/cpython/raw-file/v2.4/Misc/NEWS
+ 263. https://www.python.org/download/releases/2.3.4/
+ 264. https://www.python.org/download/releases/2.3.4/
+ 265. http://hg.python.org/cpython/raw-file/v2.3.4/Misc/NEWS
+ 266. https://www.python.org/download/releases/2.3.3/
+ 267. https://www.python.org/download/releases/2.3.3/
+ 268. http://hg.python.org/cpython/raw-file/v2.3.3/Misc/NEWS
+ 269. https://www.python.org/download/releases/2.3.2/
+ 270. https://www.python.org/download/releases/2.3.2/
+ 271. http://hg.python.org/cpython/raw-file/v2.3.2/Misc/NEWS
+ 272. https://www.python.org/download/releases/2.3.1/
+ 273. https://www.python.org/download/releases/2.3.1/
+ 274. http://hg.python.org/cpython/raw-file/v2.3.1/Misc/NEWS
+ 275. https://www.python.org/download/releases/2.3/
+ 276. https://www.python.org/download/releases/2.3/
+ 277. http://hg.python.org/cpython/raw-file/15fc83c505e3/Misc/NEWS
+ 278. https://www.python.org/download/releases/2.2.3/
+ 279. https://www.python.org/download/releases/2.2.3/
+ 280. http://hg.python.org/cpython/raw-file/v2.2.3/Misc/NEWS
+ 281. https://www.python.org/download/releases/2.2.2/
+ 282. https://www.python.org/download/releases/2.2.2/
+ 283. http://hg.python.org/cpython/raw-file/v2.2.2/Misc/NEWS
+ 284. https://www.python.org/download/releases/2.2.1/
+ 285. https://www.python.org/download/releases/2.2.1/
+ 286. http://hg.python.org/cpython/raw-file/v2.2.1/Misc/NEWS
+ 287. https://www.python.org/download/releases/2.1.3/
+ 288. https://www.python.org/download/releases/2.1.3/
+ 289. http://hg.python.org/cpython/raw-file/v2.1.3/Misc/NEWS
+ 290. https://www.python.org/download/releases/2.2/
+ 291. https://www.python.org/download/releases/2.2/
+ 292. http://hg.python.org/cpython/raw-file/v2.2/Misc/NEWS
+ 293. https://www.python.org/download/releases/2.0.1/
+ 294. https://www.python.org/download/releases/2.0.1/
+ 295. http://hg.python.org/cpython/raw-file/v2.0.1/Misc/NEWS
+ 296. https://www.python.org/download/releases/
+ 297. http://www.opensource.org/
+ 298. http://docs.python.org/3/license.html#terms-and-conditions-for-accessing-or-otherwise-using-python
+ 299. https://www.python.org/ftp/python/2.7.8/Python-2.7.8.tgz
+ 300. https://www.python.org/ftp/python/3.4.1/Python-3.4.1.tgz
+ 301. https://www.python.org/download/source/
+ 302. https://www.python.org/download/alternatives/
+ 303. http://docs.python.org/3/license.html
+ 304. https://www.google.com/calendar/embed?src=b6v58qvojllt0i6ql654r1vh00@group.calendar.google.com
+ 305. https://www.python.org/downloads/source/#python-network
+ 306. https://www.python.org/about/
+ 307. https://www.python.org/about/apps/
+ 308. https://www.python.org/about/quotes/
+ 309. https://www.python.org/about/gettingstarted/
+ 310. https://www.python.org/about/help/
+ 311. https://www.python.org/downloads/
+ 312. https://www.python.org/downloads/
+ 313. https://www.python.org/downloads/source/
+ 314. https://www.python.org/downloads/windows/
+ 315. https://www.python.org/downloads/mac-osx/
+ 316. https://www.python.org/download/other/
+ 317. https://docs.python.org/3/license.html
+ 318. https://www.python.org/download/alternatives
+ 319. https://www.python.org/doc/
+ 320. https://www.python.org/doc/
+ 321. https://www.python.org/doc/av
+ 322. https://wiki.python.org/moin/BeginnersGuide
+ 323. https://docs.python.org/devguide/
+ 324. https://docs.python.org/faq/
+ 325. http://wiki.python.org/moin/Languages
+ 326. http://python.org/dev/peps/
+ 327. https://wiki.python.org/moin/PythonBooks
+ 328. https://www.python.org/community/
+ 329. https://www.python.org/community/diversity/
+ 330. https://www.python.org/community/irc/
+ 331. https://www.python.org/community/lists/
+ 332. https://www.python.org/community/workshops/
+ 333. https://www.python.org/community/sigs/
+ 334. https://wiki.python.org/moin/
+ 335. https://www.python.org/community/logos/
+ 336. https://www.python.org/community/merchandise/
+ 337. https://www.python.org/community/awards
+ 338. https://www.python.org/about/success/
+ 339. https://www.python.org/about/success/#arts
+ 340. https://www.python.org/about/success/#business
+ 341. https://www.python.org/about/success/#education
+ 342. https://www.python.org/about/success/#engineering
+ 343. https://www.python.org/about/success/#government
+ 344. https://www.python.org/about/success/#scientific
+ 345. https://www.python.org/about/success/#software-development
+ 346. https://www.python.org/blogs/
+ 347. https://www.python.org/blogs/
+ 348. http://planetpython.org/
+ 349. http://pyfound.blogspot.com/
+ 350. http://pycon.blogspot.com/
+ 351. https://www.python.org/events/python-events/
+ 352. https://www.python.org/events/python-events/
+ 353. https://www.python.org/events/python-user-group/
+ 354. https://www.python.org/events/python-events/past/
+ 355. https://www.python.org/events/python-user-group/past/
+ 356. https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event
+ 357. https://www.python.org/downloads/source/#python-network
+ 358. https://www.python.org/about/help/
+ 359. https://www.python.org/community/diversity/
+ 360. https://www.python.org/psf-landing/
+ 361. https://www.python.org/about/legal/
+ 362. https://www.python.org/privacy/

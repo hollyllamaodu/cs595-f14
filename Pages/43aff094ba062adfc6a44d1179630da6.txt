@@ -1,0 +1,1479 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" lang="en-US" class="no-js">
+
+<head>
+  
+      <meta property="og:title" content="GlassFish Roadmap and Executive Panel" />
+      <meta property="og:description" content="" />
+      <meta property="og:type" content="website" />
+      <meta property="og:url" content="http://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=9120" />
+      <meta property="og:image" content="" />
+    
+
+    <!-- start oracle references -->
+    <link type="text/css" rel="Stylesheet" media="print, screen" href="https://www.oracle.com/us/assets/event2.css"></link>
+    <script src="https://www.oracle.com/us/assets/jquery.js" type="text/javascript"></script>
+    <script src="https://www.oracle.com/us/assets/event2.js" type="text/javascript"></script>
+    <!-- end oracle references -->
+
+    <link type="text/css" rel="stylesheet" href="/2014/connect/assets/jquery/smoothness/jquery-ui.css" />
+    <link type="text/css" rel="stylesheet" href="/2014/connect/assets/jquery/keywordSearch/jquery.keywordSearch.css" />
+    <link type="text/css" rel="stylesheet" href="/2014/connect/assets/jquery/qtip/jquery.qtip.min.css" />
+    <link type="text/css" rel="stylesheet" href="/2014/connect/assets/jquery/jscrollpane/jquery.jscrollpane.css" />
+    <link type="text/css" rel="stylesheet" href="/2014/connect/assets/css/main.css" />
+    <!--[if IE 6]><link type="text/css" rel="stylesheet" href="/2014/connect/assets/css/ie6.css" /><![endif]-->
+    <link href="/2014/connect/assets/css/detail/detail.css" rel="stylesheet" type="text/css" />
+<link href="/2014/connect/assets/css/../jquery/stars/jquery.stars.css" rel="stylesheet" type="text/css" />
+
+
+    <noscript><link type="text/css" rel="stylesheet" href="/2014/connect/assets/css/noscript.css" /></noscript>
+
+    <!--[if lt IE 9]><script type="text/javascript" src="/2014/connect/assets/js/html5shiv.js"></script><![endif]-->
+    <!--NOTE: These DWR files must be declared first (before any other DWR files) and only once on a page-->
+    
+      
+      <script type="text/javascript" src="/2014/connect/dwr/engine.js"></script>
+      <script type="text/javascript" src="/2014/connect/dwr/util.js"></script>
+    
+    <script type="text/javascript" src="/2014/connect/dwr/interface/ConnectAjax.js"></script>
+    <script type="text/javascript" src="/2014/connect/dwr/interface/FileUploaderAjax.js"></script>
+    <script type="text/javascript" src="/2014/connect/dwr/interface/StrutsMessageResourceDwr.js"></script>
+
+    <script type="text/javascript">
+      var baseHref = '/2014/connect';
+      var fbChannelUrl = "https://oracleus.activeevents.com/2014/connect/channel.html";
+      var fbAppId = "";
+      var liAppId = "";
+      var gpAppId = "";
+      var gpClientId = "";
+    </script>
+    <script type="text/javascript" src="/2014/connect/assets/js/json2.js"></script>
+    
+    <script type="text/javascript" src="/2014/connect/assets/jquery/jquery-ui.js"></script>
+    <script type="text/javascript" src="/2014/connect/assets/jquery/keywordSearch/jquery.keywordSearch.js"></script>
+    <script type="text/javascript" src="/2014/connect/assets/jquery/jquery.cookie.js"></script>
+    <script type="text/javascript" src="/2014/connect/assets/jquery/qtip/jquery.qtip.min.js"></script>
+    <script type="text/javascript" src="/2014/connect/assets/jquery/validation/jquery.validate.min.js"></script>
+    <script type="text/javascript" src="/2014/connect/assets/jquery/validation/additional-methods.min.js"></script>
+    <script type="text/javascript" src="/2014/connect/assets/jquery/jscrollpane/jquery.jscrollpane.min.js"></script>
+    <script type="text/javascript" src="/2014/connect/assets/jquery/jscrollpane/jquery.mousewheel.js"></script>
+    <script type="text/javascript" src="/2014/connect/assets/jquery/jcycle/jquery.cycle.min.js"></script>
+    <script type="text/javascript" src="/2014/connect/assets/js/main.js"></script>
+    <script type="text/javascript" src="/2014/connect/assets/js/jsp/topNav.js"></script>
+    
+    
+    
+    <script type="text/javascript" src="/2014/connect/assets/js/detail/detail.js"></script>
+<script type="text/javascript" src="/2014/connect/assets/js/../jquery/stars/jquery.stars.js"></script>
+<script type="text/javascript" src="/2014/connect/assets/js/sessionScheduling.js"></script>
+<script type="text/javascript" src="/2014/connect/assets/js/detail/media.js"></script>
+
+
+    
+      <link rel="stylesheet" href="https://theme-prd.lanyonevents.com/oracle/2014/oracleus2014/connect.css" type="text/css" />
+      <link rel="stylesheet" href="https://theme-prd.lanyonevents.com/oracle/2014/oracleus2014/connect_framed.css" type="text/css" />
+      <script type="text/javascript" src="https://theme-prd.lanyonevents.com/oracle/2014/oracleus2014/connect.js"></script>
+    
+
+    <title>Oracle San Francisco 2014</title>
+</head>
+
+
+
+
+  
+
+<body id="templateBody" class="oracleus2014  f08 f08v0">
+<a name="top"></a> 
+
+<header id="templateHeader" class="ui-widget-header">
+      <ul id="headerNav">
+        
+        
+          
+        
+      </ul>
+    </header>
+
+<!-- U08v0 -->
+<div id="u08" class="u08 u08v0" style="height: 177px">
+  <div class="u08tempbreadcrumb"> 
+    <!-- U03v0 -->
+    <div class="u03 u03v0" data-trackas="breadcrumb">
+      <div class="u03w1">
+        <ul>
+          <li class="u03first">       
+          <a href="http://www.oracle.com/openworld/">Home</a></li>
+          <li>Tools</li>
+        </ul>
+      </div>
+    </div>
+    <!-- /U03v0 --> 
+  </div>
+  
+<!-- * * * * * *  /end of framework code part 1 * * * * *  -->  
+    
+<!--  * * * * *  This is where http://www.oracle.com/openworld/oow-2013-header/index.html include starts * * * *  * -->
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+<!-- SS_BEGIN_SNIPPET(fragment3,oow-header-2013)-->				
+		<div class="u08w1" data-trackas="header">
+<div class="u08ologo"><a href="http://www.oracle.com/us/index.html">Oracle</a></div>
+<div class="u08signin"><a href="https://oracleus.activeevents.com/2014/portal/login.ww" target="_blank">My Account</a></div>
+<!-- <div class="u08welcome">Welcome to Oracle OpenWorld.</div> --></div>
+<div class="u08w2">
+<div class="u08w3">
+<div class="u08logo u08-oow"><a href="http://www.oracle.com/openworld/index.html">Oracle OpenWorld</a></div>
+<div class="u08w4" data-trackas="hnav">
+<ul>
+    <li><a href="#">Plan</a>
+    <div class="u08w8">
+    <ul>
+        <li><a href="https://oracleus.activeevents.com/2014/portal/login.ww" target="_blank">My Account</a></li>
+        <li><a href="http://www.oracle.com/us/dm/108207-wwmk11054239mpp001-cif-w-1845718.html" target="_blank">Register Now</a></li>
+    </ul>
+    </div>
+    </li>
+    <li><a href="#">Agenda</a> 
+    <div class="u08w8">
+    <ul>
+        <li><a href="http://www.oracle.com/openworld/agenda/index.html">Agenda</a></li>
+        <li><a href="http://www.oracle.com/openworld/live/on-demand/index.html">Watch On Demand</a></li>
+    </ul>
+    </div>
+    </li>
+    
+    <li><a href="#">Sessions</a>
+    <div class="u08w8">
+    <ul>   
+    <li><a href="https://oracleus.activeevents.com/2014/connect/search.ww#loadSearch-event=null&searchPhrase=&searchType=session&tc=0&sortBy=&p=&i(10009)=10105" target="">Content Catalog</a></li>
+        <li><a href="https://oracleus.activeevents.com/2014/connect/login.ww">Schedule Builder</a></li>
+        <li><a href="http://www.oracle.com/openworld/call-for-papers/index.html">Call for Proposals 2015</a></li>
+        <li><a href="http://www.oracle.com/openworld/executive-solution-sessions/index.html">Executive Solution Sessions</a></li>
+        <li><a href="http://www.oracle.com/openworld/live/on-demand/index.html">Watch On Demand</a></li>
+    </ul>
+    </div>
+    </li>
+    <li><a href="#">Exhibitor / Sponsor</a>
+    <div class="u08w8">
+    <div class="u08w8col1">
+    <h4>2015 Opportunities</h4>
+    <ul>
+        <li><a href="http://www.oracle.com/openworld/exhibit/index.html">Exhibit</a></li>
+        <li><a href="http://www.oracle.com/openworld/sponsor/index.html">Sponsor</a></li>
+        <li><a href="http://www.oracle.com/openworld/advertise/index.html">Advertise</a></li>
+    </ul>
+    
+    
+    </div>
+    <div class="u08w8col2">
+    <h4>Exhibition Hall</h4>
+    <ul>
+        <li><a href="https://oracleus.activeevents.com/2014/scheduler/exhibitorCatalog.do?event=OracleOpenWorld" target="_blank">Exhibitor Listing</a></li>
+        <li><a href="http://www.oracle.com/openworld/sponsor-listing/index.html">Sponsor Listing</a></li>
+	
+    </ul>
+    </div>
+    </div>
+    </li>
+    <li><a href="#">Network</a>
+    <div class="u08w8">
+   
+    <h4>Online</h4>
+    <ul>
+        <li><a href="http://www.facebook.com/OracleOpenWorld" target="_blank">Facebook</a></li>
+        <li><a href="http://twitter.com/oracleopenworld" target="_blank">Twitter</a></li>
+        <li><a href="http://www.linkedin.com/groups?about=&amp;gid=114605" target="_blank">LinkedIn</a></li>
+        <li><a href="http://blogs.oracle.com/oracleopenworld/" target="_blank">Blog</a></li>
+    </ul>
+    </div>
+    </li>
+   <!--
+    <li>
+    <div class="u08search"><a href="#">Search</a>
+    <div class="u08w10">
+    <div class="u08w11">
+    <form name="searchForm" alt="Secure Search" onSubmit="var kwd=document.searchForm.q.value; navTrack('oow','en','search',kwd);" action="https://search.oracle.com/search/search" method="get" target="_top">
+        <input type="hidden" name="start" value="1" />               <input type="hidden" value="all" name="search_p_main_operator" />               <input type="hidden" id="searchGroup" name="group" value="Oracle OpenWorld" />               <input type="text" name="q" value="Search" class="searchbox autoclear" id="searchbox" />
+    </form>
+    </div>
+    </div>
+    </div>
+    </li>
+    -->
+    <li>
+    <div class="u08register"><a href="http://www.oracle.com/us/dm/108207-wwmk11054239mpp001-cif-w-1845718.html" target="_blank">Register</a></div>
+    </li>
+</ul>
+</div>
+<div class="u08w5">
+<div class="u08info">October 25&ndash;29, 2015 | San Francisco</div>
+    <div class="u08conf"><a href="http://www.oracle.com/javaone/index.html">JavaOne</a>
+	</div>
+	<!-- <div class="u08chat">
+		 <a rel="lightBox" href="https://oracle-open-world.custhelp.com/app/chat/chat_launch/source/openworld?iframe=true&amp;width=1000&amp;height=620">Chat Now</a>
+	</div> -->
+</div>
+</div>
+</div>
+			<!-- SS_END_SNIPPET(fragment3,oow-header-2013)-->
+	</div> 
+
+
+
+
+
+<!--  * * * * * * *  This is where http://www.oracle.com/openworld/oow-2013-header/index.html include ends  * * * * * * * * -->
+  
+<!-- * * * * * * * * *  Start of framework code part 2 * * ** -->
+    
+</div>
+<!-- /U08v0 --> 
+
+<!--  * * * * * * *  /End of framework code part 2 * * * * * *-->
+
+<!--  * * * * * *  This is where Active Event Content starts * * * * * * * * * * * -->
+
+
+
+
+
+
+<div style="display:none;">
+	<div id="noButtonText">No</div>
+	<div id="yesButtonText">Yes</div>
+	<div id="workingText">Working...</div>
+	<div id="closeButtonText">Close</div>
+	<div id="okButtonText">OK</div>
+	<div id="cancelButtonText">Cancel</div>
+	<div id="confirmPromptTitle">Confirm</div>
+	<div id="systemMessageText">System Message</div>
+	<div id="deleteButtonText">Delete</div>
+	<div id="scheduleButtonText">Schedule</div>
+	<div id="generalErrorText">An unknown error has occurred and your request could not be completed. Please contact support.</div>
+	<div id="scheduledText">Scheduled</div>
+	<div id="waitlistedText">#{0} on wait list.</div>
+	<div id="addToWaitingList">This session is full. Would you like to be added to the waiting list? By waitlisting any session you cannot schedule another session in the same time slot unless you remove yourself from the waiting list. If you are first in line on a waiting list for a session and a seat becomes available, then the session will be added to your schedule and you will receive a confirmation email. Your pre-enrollment for sessions will be validated onsite. We will hold your pre-enrollment until 10 minutes prior to the session start time, at which point your seat may be given to someone else if you are not present. Anyone not pre-enrolled for a session may be asked to wait in a stand-by line.</div>
+	<div id="badgevilleOptout">By opting out of the Daily Challenge, I understand that all of my existing points will be permanently deleted and that I will no longer be able to participate in the Oracle OpenWorld Daily Challenge.</div>
+	<div id="waitListPolicy" style="display:none;">By waitlisting any session you cannot schedule another session in the same time slot unless you remove yourself from the waiting list.  If you are first in line on a waiting list for a session and a seat becomes available, then the session will be added to your schedule and you will receive a confirmation email.  
+
+Your pre-enrollment for sessions will be validated onsite. We will hold your pre-enrollment until 10 minutes prior to the session start time, at which point your seat may be given to someone else if you are not present. Anyone not pre-enrolled for a session may be asked to wait in a stand-by line.</div>
+</div>
+  <div id="eventFilterWrapper">
+    <div id="eventFilterContainer">
+      <div id="eventFilterNav"></div>
+    </div>
+  </div>
+    <div id="templateMain">
+      
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+$(function(){
+	if(!$('#partners').closest('body').hasClass('popup') && !$('#partners').closest('body').hasClass('framed') && !$('#partners').closest('body').hasClass('focusOnDocs')){
+		$('#partners').cycle({
+			fx: 'fade',
+			speed: 5 * 1000
+		});
+		$('#partners').show();
+	}
+});
+</script>
+
+
+	<div id="partners" style="display:none;">
+		
+			<a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=10426" target="_blank"><img src="https://published-prd.activeevents.com/published/oracleus2014/files/15392/content-catalog-oow-keynote-bnr.png" /></a>
+		
+			<a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=10504" target="_blank"><img src="https://oracleus.activeevents.com/published/oracleus2014/files/15615/cont-cat-oow-keynote-bonnet.png" /></a>
+		
+			<a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=10530" target="_blank"><img src="https://oracleus.activeevents.com/published/oracleus2014/files/15616/cont-cat-oow-keynote-sikka.png" /></a>
+		
+	</div>
+
+      <nav>
+
+
+
+
+
+<div id="mainNav">
+	
+	
+    	<li><a href="/2014/connect/publicDashboard.ww"><a style="visibility: hidden">Dashboard</a></a></li>
+    	
+	
+	<li><a href="/2014/connect/focusCategory.ww">Focus on Docs</a></li>
+	</ul>
+</div>
+</nav>
+      <div id="templateContent">
+        <div id="homeLink"><a href="/2014/connect/dashboard.ww">Home</a></div>
+        
+        <div style="clear:both"></div>
+        
+
+
+
+
+<script type="text/javascript" charset="utf-8">
+	$(function(){
+		initRatings('9120');
+	})
+	function rateSession(sessionID, value, sessionViewedLogID, callback){
+	  ConnectAjax.rateSession(sessionID, value, sessionViewedLogID, callback);
+	}
+</script>
+<div id="leftCol">
+	
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_16x16_style">
+	<a class="addthis_button_facebook"></a>
+	<a class="addthis_button_twitter"></a>
+	<a class="addthis_button_linkedin"></a>
+	<a class="addthis_button_google_plusone_share"></a>
+	<a class="addthis_button_email"></a>
+	<a class="addthis_button_compact"></a>
+	<a class="addthis_counter addthis_bubble_style"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4f96ed413d5e24e7"></script>
+<script type="text/javascript" src="/2014/connect/assets/js/validation.js"></script>
+<script type="text/javascript">
+	function createTag(tag, callback){
+		ConnectAjax.tagItem('session', '9120', tag, callback);
+	}
+
+	function getWaitingListCount(sessionTimeID, callback){
+		ConnectAjax.getWaitingListPosition(sessionTimeID, callback);
+	}
+</script>
+
+<div id="pageText">
+	<div id="addTagError">Your tag could not be added at this time, please try again later.</div>
+</div>
+
+<!-- AddThis Button END -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div id="session_9120" class="detailHeader">
+		<h1>
+			
+			GlassFish Roadmap and Executive Panel [UGF9120]
+		</h1>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<fieldset id="abstract" class="special">
+		<legend>Session Description</legend>
+		<p>Want to find out about the current status and future roadmap for Java EE and GlassFish? Have questions for the decision-makers for these technologies critical to the community? This is definitely the session for you. In this informal session, hosted by a Java EE/GlassFish evangelist, you’ll hear about the status and roadmap for Java EE and GlassFish. You can then pose your questions to a panel of Oracle executives.</p>
+	</fieldset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<fieldset>
+		<legend>Additional Information</legend>
+			<form name="profileForm" method="post" action="/2014/connect/sessionDetail.do;jsessionid=aaaJK_sx3LmFH7ETf7yJu">
+				<table cellpadding="3" cellspacing="0" border="0" width="100%">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+			
+				
+					<input type="hidden" name="profileValueBaseKey" value="com.wingate.db.session.Session@9120" />
+					
+					
+					
+					
+					
+				
+			
+		
+
+		
+		
+
+		
+		
+
+		
+
+		
+			
+		
+			
+		
+			
+		
+
+		
+
+		
+
+			
+		
+
+			
+		
+
+			
+		
+
+		
+
+		
+
+	
+
+
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+		
+
+		
+		
+
+		
+
+		
+			
+		
+			
+		
+			
+		
+
+		
+
+		
+
+			
+		
+
+			
+		
+
+			
+		
+
+		
+
+		
+
+	
+
+
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+		
+
+		
+		<script type="text/javascript">
+/* <![CDATA[ */
+function hasClass(el,cls) {
+ if(el){
+  return (el.className.match(cls) != null);
+ }
+}
+
+function addClass(el,cls) {
+ if(el){
+  if (!hasClass(el,cls)) el.className += ' '+cls;
+ }
+}
+
+function removeClass(el,cls) {
+ if (el) {
+  var reg = new RegExp(cls, 'g');
+  el.className = el.className.replace(reg,'');
+ }
+}
+
+var shownQuantities = new Array();
+
+function change_profileItem_10302(display) {
+ var profileItem_10302_tr = document.getElementById("profileItem_10302_tr");
+ var profileItem_10302 = document.getElementById("profileItem_10302");
+ if(display == 'show' || display == null){
+   removeClass(profileItem_10302_tr, 'hide');
+ }else{
+   removeClass(profileItem_10302_tr, 'show');
+   addClass(profileItem_10302_tr, 'hide');
+ }
+
+ var profileItem_10302_select_one = document.getElementById("profileItem_10302_select_one");
+ var profileItem_10302_11993 = document.getElementById("profileItem_10302_11993");
+ var profileItem_10302_11994 = document.getElementById("profileItem_10302_11994");
+ var allRadioANDCheckValues10302 = new Array();
+ var specifyValues = new Array();
+ var ifOtherSpecify_tr = new Array();
+ var profileItemName = 'profileItem_10302'
+
+
+ if (allRadioANDCheckValues10302.length > 0){
+   for(var i = 0; i < allRadioANDCheckValues10302.length; i++){
+     var checkBoxValue = document.getElementById(profileItemName + '_' + allRadioANDCheckValues10302[i])
+     if (checkBoxValue != null){
+       if (checkBoxValue.checked && specifyValues[checkBoxValue.value]) {
+         removeClass(ifOtherSpecify_tr[checkBoxValue.value], 'hide');
+         addClass(ifOtherSpecify_tr[checkBoxValue.value], 'show');
+       } else if (!checkBoxValue.checked && specifyValues[checkBoxValue.value]){ 
+         removeClass(ifOtherSpecify_tr[checkBoxValue.value], 'show');
+         addClass(ifOtherSpecify_tr[checkBoxValue.value], 'hide');
+       }
+     }
+   }
+ } else {
+   var selectItem = document.getElementById(profileItemName);
+   if (selectItem != null && ifOtherSpecify_tr.length > 0) {
+     for (osval in ifOtherSpecify_tr) {
+       removeClass(ifOtherSpecify_tr[osval], 'show');
+       addClass(ifOtherSpecify_tr[osval], 'hide');
+     }
+     for (var i = 0; i < selectItem.options.length; i++){
+       if (selectItem.options[i].selected && specifyValues[selectItem.options[i].value]){
+         removeClass(ifOtherSpecify_tr[selectItem.options[i].value], 'hide');
+         addClass(ifOtherSpecify_tr[selectItem.options[i].value], 'show');
+       }
+     }
+   }
+ }
+
+ if(display == 'show') {
+   profileItem_10302_11993.disabled = false;
+   profileItem_10302_11994.disabled = false;
+ }
+ if(display == 'hide') {
+   profileItem_10302_11993.disabled = true;
+   profileItem_10302_11994.disabled = true;
+ }
+}
+
+function change_profileItem_10303(display) {
+ var profileItem_10303_tr = document.getElementById("profileItem_10303_tr");
+ var profileItem_10303 = document.getElementById("profileItem_10303");
+ if(display == 'show' || display == null){
+   removeClass(profileItem_10303_tr, 'hide');
+ }else{
+   removeClass(profileItem_10303_tr, 'show');
+   addClass(profileItem_10303_tr, 'hide');
+ }
+
+ var profileItem_10303_select_one = document.getElementById("profileItem_10303_select_one");
+ var profileItem_10303_11995 = document.getElementById("profileItem_10303_11995");
+ var profileItem_10303_11996 = document.getElementById("profileItem_10303_11996");
+ var profileItem_10303_11997 = document.getElementById("profileItem_10303_11997");
+ var profileItem_10303_11998 = document.getElementById("profileItem_10303_11998");
+ var profileItem_10303_11999 = document.getElementById("profileItem_10303_11999");
+ var profileItem_10303_12000 = document.getElementById("profileItem_10303_12000");
+ var profileItem_10303_12001 = document.getElementById("profileItem_10303_12001");
+ var profileItem_10303_12002 = document.getElementById("profileItem_10303_12002");
+ var profileItem_10303_14483 = document.getElementById("profileItem_10303_14483");
+ var allRadioANDCheckValues10303 = new Array();
+ var specifyValues = new Array();
+ var ifOtherSpecify_tr = new Array();
+ var profileItemName = 'profileItem_10303'
+
+
+ if (allRadioANDCheckValues10303.length > 0){
+   for(var i = 0; i < allRadioANDCheckValues10303.length; i++){
+     var checkBoxValue = document.getElementById(profileItemName + '_' + allRadioANDCheckValues10303[i])
+     if (checkBoxValue != null){
+       if (checkBoxValue.checked && specifyValues[checkBoxValue.value]) {
+         removeClass(ifOtherSpecify_tr[checkBoxValue.value], 'hide');
+         addClass(ifOtherSpecify_tr[checkBoxValue.value], 'show');
+       } else if (!checkBoxValue.checked && specifyValues[checkBoxValue.value]){ 
+         removeClass(ifOtherSpecify_tr[checkBoxValue.value], 'show');
+         addClass(ifOtherSpecify_tr[checkBoxValue.value], 'hide');
+       }
+     }
+   }
+ } else {
+   var selectItem = document.getElementById(profileItemName);
+   if (selectItem != null && ifOtherSpecify_tr.length > 0) {
+     for (osval in ifOtherSpecify_tr) {
+       removeClass(ifOtherSpecify_tr[osval], 'show');
+       addClass(ifOtherSpecify_tr[osval], 'hide');
+     }
+     for (var i = 0; i < selectItem.options.length; i++){
+       if (selectItem.options[i].selected && specifyValues[selectItem.options[i].value]){
+         removeClass(ifOtherSpecify_tr[selectItem.options[i].value], 'hide');
+         addClass(ifOtherSpecify_tr[selectItem.options[i].value], 'show');
+       }
+     }
+   }
+ }
+
+ if(display == 'show') {
+   profileItem_10303_11995.disabled = false;
+   profileItem_10303_11996.disabled = false;
+   profileItem_10303_11997.disabled = false;
+   profileItem_10303_11998.disabled = false;
+   profileItem_10303_11999.disabled = false;
+   profileItem_10303_12000.disabled = false;
+   profileItem_10303_12001.disabled = false;
+   profileItem_10303_12002.disabled = false;
+   profileItem_10303_14483.disabled = false;
+ }
+ if(display == 'hide') {
+   profileItem_10303_11995.disabled = true;
+   profileItem_10303_11996.disabled = true;
+   profileItem_10303_11997.disabled = true;
+   profileItem_10303_11998.disabled = true;
+   profileItem_10303_11999.disabled = true;
+   profileItem_10303_12000.disabled = true;
+   profileItem_10303_12001.disabled = true;
+   profileItem_10303_12002.disabled = true;
+   profileItem_10303_14483.disabled = true;
+ }
+}
+
+function change_profileItem_10326(display) {
+ var profileItem_10326_tr = document.getElementById("profileItem_10326_tr");
+ var profileItem_10326 = document.getElementById("profileItem_10326");
+ if(display == 'show' || display == null){
+   removeClass(profileItem_10326_tr, 'hide');
+ }else{
+   removeClass(profileItem_10326_tr, 'show');
+   addClass(profileItem_10326_tr, 'hide');
+ }
+
+ var profileItem_10326_select_one = document.getElementById("profileItem_10326_select_one");
+ var profileItem_10326_12147 = document.getElementById("profileItem_10326_12147");
+ var profileItem_10326_12165 = document.getElementById("profileItem_10326_12165");
+ var profileItem_10326_12148 = document.getElementById("profileItem_10326_12148");
+ var allRadioANDCheckValues10326 = new Array();
+ var specifyValues = new Array();
+ var ifOtherSpecify_tr = new Array();
+ var profileItemName = 'profileItem_10326'
+
+
+ if (allRadioANDCheckValues10326.length > 0){
+   for(var i = 0; i < allRadioANDCheckValues10326.length; i++){
+     var checkBoxValue = document.getElementById(profileItemName + '_' + allRadioANDCheckValues10326[i])
+     if (checkBoxValue != null){
+       if (checkBoxValue.checked && specifyValues[checkBoxValue.value]) {
+         removeClass(ifOtherSpecify_tr[checkBoxValue.value], 'hide');
+         addClass(ifOtherSpecify_tr[checkBoxValue.value], 'show');
+       } else if (!checkBoxValue.checked && specifyValues[checkBoxValue.value]){ 
+         removeClass(ifOtherSpecify_tr[checkBoxValue.value], 'show');
+         addClass(ifOtherSpecify_tr[checkBoxValue.value], 'hide');
+       }
+     }
+   }
+ } else {
+   var selectItem = document.getElementById(profileItemName);
+   if (selectItem != null && ifOtherSpecify_tr.length > 0) {
+     for (osval in ifOtherSpecify_tr) {
+       removeClass(ifOtherSpecify_tr[osval], 'show');
+       addClass(ifOtherSpecify_tr[osval], 'hide');
+     }
+     for (var i = 0; i < selectItem.options.length; i++){
+       if (selectItem.options[i].selected && specifyValues[selectItem.options[i].value]){
+         removeClass(ifOtherSpecify_tr[selectItem.options[i].value], 'hide');
+         addClass(ifOtherSpecify_tr[selectItem.options[i].value], 'show');
+       }
+     }
+   }
+ }
+
+ if(display == 'show') {
+   profileItem_10326_12147.disabled = false;
+   profileItem_10326_12165.disabled = false;
+   profileItem_10326_12148.disabled = false;
+ }
+ if(display == 'hide') {
+   profileItem_10326_12147.disabled = true;
+   profileItem_10326_12165.disabled = true;
+   profileItem_10326_12148.disabled = true;
+ }
+}
+/* ]]> */
+</script>
+
+
+		
+
+		
+			
+		
+			
+		
+			
+		
+
+		
+
+		
+
+			
+
+					
+
+			
+
+						<div id="profileItem_10302_tr" class="formRow text_string">
+							<label><strong>Catalog Event:</strong></label>
+							
+									<div class="paragraph">
+							<input type="hidden" class="hidden" name="value(profileItem_10302)" value="11994" id="profileItem_10302_11994" />JavaOne</div>
+								
+						</div>
+
+			
+		
+
+			
+
+					
+
+			
+
+						<div id="profileItem_10303_tr" class="formRow text_string">
+							<label><strong>JavaOne Primary Track:</strong></label>
+							
+									<div class="paragraph">
+							<input type="hidden" class="hidden" name="value(profileItem_10303)" value="12001" id="profileItem_10303_12001" />Server-Side Java</div>
+								
+						</div>
+
+			
+		
+
+			
+
+					
+
+			
+
+						<div id="profileItem_10326_tr" class="formRow text_string">
+							<label><strong>JavaOne Experience Level:</strong></label>
+							
+									<div class="paragraph">
+							<input type="hidden" class="hidden" name="value(profileItem_10326)" value="12147" id="profileItem_10326_12147" />Introductory</div>
+								
+						</div>
+
+			
+		
+
+		
+
+		
+
+	
+
+
+				</table>
+			</form>
+		
+			<div class="formRow text_string">
+				<label>
+					<STRONG>Type:</STRONG>
+				</label>
+				<div class="paragraph">
+					User Group Forum Session
+				</div>
+			</div>
+		
+	</fieldset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+</div>
+
+<div id="rightCol">
+	
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<fieldset id="speakers" class="detailsWidget special">
+		<legend>Session Speakers</legend>
+		<ul>
+		
+			
+			
+			<li>
+				<a href="speakerDetail.ww?PERSON_ID=4672FAC997C20075CED01AD8F2E345BF&tclass=popup" id="4928" class="speakerProfile">
+					John Clingan - Principal Product Manager, Oracle
+				</a>
+				
+			</li>
+		
+			
+			
+			<li>
+				<a href="speakerDetail.ww?PERSON_ID=AF37FFC4E0F757659286EE684B8C8173&tclass=popup" id="3874" class="speakerProfile">
+					Anil Gaur - VP, Software Development, Oracle
+				</a>
+				
+			</li>
+		
+			
+			
+			<li>
+				<a href="speakerDetail.ww?PERSON_ID=44EA274140D89DE2471BFB10C421D8D0&tclass=popup" id="3345" class="speakerProfile">
+					Cameron Purdy - Senior Vice President of  Development, Oracle
+				</a>
+				
+			</li>
+		
+		</ul>
+	</fieldset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<fieldset class="detailsWidget">
+			<legend>Session Schedule</legend>
+			<ul class="availableSessions sessionTimeList">
+				
+					<li>
+						
+							
+							<div class="tooltip" data-key="connect.schedule.notloggedin" data-timeid="4146">You must log in to schedule.</div>
+							<a href="javascript:void(0);" data-action="" data-timeid="4146" data-sessionid="9120" class="imageAddDisabled sessionScheduling">
+							<span class="ww-button ww-button-schedule"></span>
+						
+						Sunday, Sep 28, 10:00 AM - 10:45 AM
+						
+							</a>
+						
+						
+							<span class="sessionRoom"> - Moscone South - 302</span>
+						
+					</li>
+				
+				
+			</ul>
+		</fieldset>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<fieldset class="detailsWidget">
+			<legend>Similar Sessions</legend>
+				
+				<div class="sessionTimes">
+					<a href="javascript:void(0);" onclick="showAvailSessions(this, 9123);" class="expandSessionImg"><span class="ww-icon ww-icon-carrot-e" title="Expand the session schedule"></span></a>
+					<a href="sessionDetail.ww?SESSION_ID=9123&tclass=popup" class="sessionName">
+            UGF9123 -
+            GlassFish Adoption Story and Deep Dive</a>
+					<ul class="availableSessions sessionTimeList"></ul>
+				</div>
+				
+				<div class="sessionTimes">
+					<a href="javascript:void(0);" onclick="showAvailSessions(this, 3015);" class="expandSessionImg"><span class="ww-icon ww-icon-carrot-e" title="Expand the session schedule"></span></a>
+					<a href="sessionDetail.ww?SESSION_ID=3015&tclass=popup" class="sessionName">
+            CON3015 -
+            Java EE 8</a>
+					<ul class="availableSessions sessionTimeList"></ul>
+				</div>
+				
+				<div class="sessionTimes">
+					<a href="javascript:void(0);" onclick="showAvailSessions(this, 8871);" class="expandSessionImg"><span class="ww-icon ww-icon-carrot-e" title="Expand the session schedule"></span></a>
+					<a href="sessionDetail.ww?SESSION_ID=8871&tclass=popup" class="sessionName">
+            UGF8871 -
+            Meet the NetBeans Community, with Boeing, Jelastic, JRebel, Vaadin, and More</a>
+					<ul class="availableSessions sessionTimeList"></ul>
+				</div>
+				
+		</fieldset>
+	
+
+
+
+
+
+
+	
+</div>
+      </div>
+    </div>
+
+
+<!--* * * * * * * *  This is where Active Event Content starts * * * * * * * * * * * * -->
+
+<!-- * * * * * * * * * *  This is where http://www.oracle.com/openworld/oow-2013-footer/index.html include starts * * * * * * *  -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="u05" class="u05v4" data-trackas="footer">
+<div class="u05w1a" data-trackas="footer">
+<div class="u05w1">
+<div class="u05w2">
+<h5>About Oracle OpenWorld</h5>
+<ul>
+    <li><a href="http://www.oracle.com/openworld/location/index.html">Location</a></li>
+    <li><a href="http://www.oracle.com/openworld/green/index.html">Event Sustainability</a></li>
+    <li><a href="http://www.oracle.com/openworld/live/on-demand/index.html">Watch On Demand</a></li>
+</ul>
+<!--
+<h5>Regional Events</h5>
+<ul>
+    <li><a href="http://www.oracle.com/openworld/lad-en/index.html">Oracle OpenWorld Latin America</a></li>
+    <li><a href="http://www.oracle.com/events/apac/cn/en/openworld/index.html">Oracle OpenWorld Shanghai</a></li>
+</ul>
+--></div>
+<div class="u05w3">
+    <h5>Event Tools</h5>
+    <ul>
+        <li><a href="https://oracleus.activeevents.com/2014/portal/login.ww" target="">My Account</a></li>        
+        <li><a href="https://oracleus.activeevents.com/2014/connect/search.ww#loadSearch-event=null&searchPhrase=&searchType=session&tc=0&sortBy=&p=&i(10009)=10105" target="">Content Catalog</a></li>
+        <li><a href="https://oracleus.activeevents.com/2014/connect/login.ww">Schedule Builder</a></li>
+    </ul>
+    <h5>Oracle Conferences</h5>
+    <ul>
+        <li><a href="http://www.oracle.com/javaone/index.html">JavaOne</a></li>
+    </ul>
+    </div>
+    <div class="u05w4">
+    <h5>Connect</h5>
+    <div class="u05w9">
+    <ul>
+        <li><a href="http://www.facebook.com/OracleOpenWorld" target="_blank" class="u05facebooklinkcol">Facebook</a></li>
+        <li><a href="http://twitter.com/oracleopenworld" target="_blank" class="u05twitterlinkcol">Twitter</a></li>
+        <li><a href="http://www.linkedin.com/groups?about=&amp;gid=114605" target="_blank" class="u05linkedinlinkcol">LinkedIn</a></li>
+        <li><a href="http://blogs.oracle.com/oracleopenworld/" target="_blank" class="u05bloglinkcol">Blog</a></li>
+    </ul>
+    </div>
+    </div>
+    <div class="u05w5"><!-- SB01v0 -->
+    <div class="sb01 sb01v0"><a href="http://www.oracle.com/us/dm/108207-wwmk11054239mpp001-cif-w-1845718.html" target="_blank"><img width="185" height="74" border="0" src="//www.oracle.com/us/assets/oow-footer-register-2012-514676.png" alt="Register For Oracle OpenWorld 2013"></a></div>
+    <!-- /SB01v0 -->                                                          <!-- SB01v0 -->
+    <div class="sb01 sb01v0"><a target="_blank" href="http://www.excel4apps.com/products/Oracle/GL-Wand"><img width="180" height="60" border="0" alt="excel4apps" src="//www.oracle.com/us/assets/excel4apps-180x60-oow-rev-2203468.jpg"></a></div>
+    <!-- /SB01v0 --></div>
+    </div>
+    <div class="u05w7"><a class="u05-oraclelogo" href="http://www.oracle.com/us/index.html"><!--oracle--></a></div>
+    <div class="u05z3">&nbsp;</div>
+    <div class="u05w6">
+    <ul>
+        <li><a href="http://www.oracle.com/us/legal/index.html">Legal Notices</a></li>
+        <li><a href="http://www.oracle.com/us/legal/terms/index.html">Terms of Use</a></li>
+        <li><a href="http://www.oracle.com/us/legal/privacy/index.html">Privacy</a></li>
+    </ul>
+    </div>
+    </div>
+    </div>
+
+ 
+
+
+
+
+
+<!--  * * * * * *  This is where http://www.oracle.com/openworld/oow-2013-footer/index.html include ends * * * * * * * * * -->
+
+ 
+<!-- ** * * * * * * * * *  Start of framework code part 3 * * * * * * * * * ** -->
+
+
+
+<!-- Start SiteCatalyst code --> 
+<script src="https://www.oracleimg.com/us/assets/metrics/ora_oow.js" language="JavaScript"></script><script src="http://www.oracleimg.com/us/assets/metrics/ora_code_oow.js" type="text/javascript"></script><script src="https://www.oracleimg.com/us/assets/metrics/ora_code.js" type="text/javascript"></script> 
+<!-- End SiteCatalyst code --> 
+
+<!-- Start Active Network Tracking Code April 2012 --> 
+<script language="javascript">
+      s_account_wgw = "winweboracle";
+    </script><script src="https://oracleus.activeevents.com/2013/portal/analytics/s_code.js" language="JavaScript"></script><script language="javascript">
+      var s_code_wgw=s_wgw.t();if(s_code_wgw)document.write(s_code_wgw)
+    </script>
+    <!-- End Active Network Tracking -->
+
+    </body>
+</html>
+<!-- * * * * * * * * *  /End of framework code part 3 * * * * * * * * * -->

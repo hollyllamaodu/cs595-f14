@@ -1,0 +1,1026 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="480">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="author" content="Jakob Jenkov">
+
+    
+    <script  src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+
+    
+    
+    
+    <script type="text/javascript"            src="/js/jqc/1.4.0/jqc-custom-build-mini.js"></script>
+    
+
+    
+    <style>
+            /* jqcLayer styles */
+        [jqc-type=jqcLayer] {
+            position: absolute;  /* layers should be 'absolute' or 'fixed' */
+            display : none;      /* layers are hidden by default. To make a layer at startup (e.g. a splash screen) put "display: block" */
+        }
+
+
+            /* jqcOverlay styles */
+        [jqc-type=jqcOverlay] {
+            position: fixed;
+            left    : 0px;
+            top     : 0px;
+            width   :100%;
+            height  :100%;
+            text-align:center;
+            z-index : 1000; /* put on top of content and layers */
+            background: rgba(255, 255, 255, 0.6);
+        }
+
+              /* jqcResponsiveLayoutManager styles */
+        [jqc-row] {
+            margin-left: auto;
+            margin-right: auto;
+            box-sizing: border-box;
+            -moz-box-sizing: border-box;
+        }
+        [jqc-cell] {
+            display: inline-block;
+            box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            vertical-align    : top;
+        }
+
+            /* jqcToolbar styles */
+        [jqc-type=jqcToolbar] {
+            display : inline-block;
+        }
+        [jqc-type=jqcToolbar] > * {
+            display : inline-block;
+        }
+
+            /* jqcTreeList styles */
+        ul[jqc-type=jqcTreeList], ul[jqc-type=jqcTreeList] ul{
+            list-style-type: none;
+            list-style-position: inside;
+            xmargin: 10px;
+            padding: 2px;
+            padding-left: 16px;
+        }
+        .jqcTreeListItemExpandHandle, .jqcTreeListItemCollapseHandle, .jqcTreeListItemEmptyHandle {
+            display: inline-block;
+            padding: 5px;
+            width  : 10px;
+            text-align: center;
+            font-size: 1.1em;
+        }
+
+
+        .jqcTreeListItemExpanded {
+            xbackground-color: #ffff00;
+        }
+        .jqcTreeListItemCollapsed {
+            xbackground-color: #00ffff;
+        }
+        .jqcTreeListItemSelected>span {
+            font-weight: bold;
+            text-decoration: underline;
+        }
+    </style>
+
+    
+    
+    <title>Java ThreadLocal</title>
+    <meta name="description" content="The ThreadLocal class in Java can be used to create variables that can only be read by thread that wrote them.">
+    <meta name="keywords"    content="java threadlocal">
+
+    
+    <meta name="twitter:card" content="summary_large_image" >
+    <meta name="twitter:site" content="@jjenkov">
+    <meta name="twitter:title" content="Java ThreadLocal">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:creator" content="@jjenkov">
+    <meta name="twitter:domain" content="jenkov.com">
+    
+    <meta name="twitter:image:src" content="http://tutorials.jenkov.com/images/java-concurrency/java-concurrency-teaser-500-300.png">
+    
+
+    
+    <meta name="og:type"  content="article"/>
+    <meta name="og:title" content="Java ThreadLocal"/>
+    <meta property="og:url"   content="http://tutorials.jenkov.com/java-concurrency/threadlocal.html"/>
+    <meta property="og:description" content="The ThreadLocal class in Java can be used to create variables that can only be read by thread that wrote them."/>
+    
+    <meta property="og:image" content="http://tutorials.jenkov.com/images/java-concurrency/java-concurrency-teaser-500-300.png"/>
+    
+
+    
+    <link href="https://plus.google.com/108227213807945109821" rel="publisher" />
+
+    
+    <meta name="google-site-verification" content="i_TwzdElg-by5uXLvyAjuIaCjxo0yjtW8LdRPUDEEcw" />
+
+</head>
+
+
+<body>
+    <style>
+        body {
+            margin      : 0px;
+            font-family : Helvetica;
+            font-size   : 16px;
+            color       : #333333;
+        }
+        a {
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+
+    <span jqc-type="jqcResponsiveLayoutManager" jqc-row-paddings="0:16 4:32" jqc-cell-spacings="0:16 4:32"></span>
+
+    <style>
+    #headerBar {
+        background-color: #000000;
+        color           : #ffffff;
+    }
+    #headerBar a {
+        color           : #ffffff;
+        padding         : 10px 20px 10px 0px;
+        text-decoration : none;
+        display         : inline-block;
+        font-size       : 1.2em;
+    }
+</style>
+
+
+<div id="headerBar">
+    <div jqc-row jqc-row-widths="0:100% 4:1200">
+        <div jqc-cell="0:12c 2:3c">
+            <a href="http://jenkov.com">Jenkov.com</a>
+        </div><!--
+        --><div jqc-cell="0:12c 2:9c">
+            <a href="http://tutorials.jenkov.com">Tutorials</a>
+            <a href="http://jenkov.com/books/index.html">Books</a>
+            <a href="http://jenkov.com/about/index.html">About</a>
+        </div>
+    </div>
+</div>
+
+
+    
+
+
+
+
+
+
+<style>
+    h2, h3 {
+        margin-top: 30px;
+    }
+    code {
+        font-family: Courier;
+        font-size : 1.0em;
+    }
+    .trailhead {
+        font-size : 1.2em;
+        font-weight : bold;
+    }
+    .book-link {
+        background-repeat: no-repeat;
+        padding: 5px 10px 5px 100px;
+        background-color: #eeeeee;
+        font-size : 0.9em;
+    }
+    .book-link:hover {
+        cursor: pointer;
+    }
+    .codeBox {
+        background-color: #eeeeee;
+        border : 1px solid #cccccc;
+        font-family: Courier;
+        font-size : 0.8em;
+        padding : 10px;
+        margin  : 20px 0px 20px 0px;
+    }
+    .diagram {
+        margin  : 20px 0px 30px 0px;
+    }
+    .dataTable {
+        border : 1px solid #cccccc;
+        margin : 30px 0px 30px 0px;
+    }
+    .dataTable th {
+        text-align: left;
+        padding   : 5px;
+        border-bottom : 1px solid #cccccc;
+        background-color : #eeeeee;
+    }
+    .dataTable td {
+        padding   : 5px;
+        text-align: left;
+        vertical-align: top;
+    }
+    .signupFrame {
+        border    : 1px solid #cccccc;
+
+    }
+    .leftMenuLinkCell {
+        height        : 30px;
+        font-size     : 1.0em;
+        border-bottom : 1px solid #f0f0f0;
+        vertical-align: top;
+        padding       : 4px 0px 0px 10px;
+    }
+    .leftMenuLinkCell a {
+        text-decoration : none;
+    }
+    .nextArticleInCategory {
+        font-size : 1.2em;
+        border-bottom: 1px solid #eeeeee;
+    }
+
+    .ul, ol {
+        margin: 30px 20px 30px 20px;
+    }
+</style>
+
+
+<div jqc-row jqc-row-widths="0:100% 4:1200" jqc-row-paddings="0:0">
+    <div jqc-cell="0:12c">
+        <div id="topAds">
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <script>
+                var adEl = document.getElementById("topAds");
+                if(window.innerWidth >= 728)  {  
+                    document.write("<ins class='adsbygoogle' style='display:inline-block;width:728px;height:90px' data-ad-client='ca-pub-5569543489255665' data-ad-slot='7630855405'></ins>");
+                    adEl.style.width = "728px"; adEl.style.marginTop = "20px"; adEl.style.marginBottom ="20px"; adEl.style.marginRight = "auto"; adEl.style.marginLeft = "auto";
+                } else {  
+                    document.write("<ins class='adsbygoogle' style='display:inline-block;width:320px;height:50px' data-ad-client='ca-pub-5569543489255665' data-ad-slot='3297914607'></ins>");
+                    adEl.style.marginTop = "10px";
+                }
+            </script>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+    </div>
+</div>
+
+
+<div jqc-row jqc-row-widths="0:100% 4:1200">
+
+    <div jqc-cell="0:0c  3:3c" style="padding-top: 30px;">
+
+        <span class="trailhead">Java Concurrency</span> <br/><br/>
+
+        <table cellspacing="0" cellpadding="0">
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">1</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/index.html">Java Concurrency / Multithreading Tutorial</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">2</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/benefits.html">Multithreading Benefits</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">3</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/costs.html">Multithreading Costs</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">4</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/creating-and-starting-threads.html">Creating and Starting Java Threads</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">5</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/race-conditions-and-critical-sections.html">Race Conditions and Critical Sections</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">6</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/thread-safety.html">Thread Safety and Shared Resources</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">7</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/thread-safety-and-immutability.html">Thread Safety and Immutability</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">8</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/synchronized.html">Java Synchronized Blocks</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">9</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/volatile.html">Java's Volatile Keyword</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right"><b>10</b></td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/threadlocal.html"><b>Java ThreadLocal</b></a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">11</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/thread-signaling.html">Thread Signaling</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">12</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/deadlock.html">Deadlock</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">13</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/deadlock-prevention.html">Deadlock Prevention</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">14</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/starvation-and-fairness.html">Starvation and Fairness</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">15</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/nested-monitor-lockout.html">Nested Monitor Lockout</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">16</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/slipped-conditions.html">Slipped Conditions</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">17</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/locks.html">Locks in Java</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">18</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/read-write-locks.html">Read / Write Locks in Java</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">19</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/reentrance-lockout.html">Reentrance Lockout</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">20</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/semaphores.html">Semaphores</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">21</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/blocking-queues.html">Blocking Queues</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">22</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/thread-pools.html">Thread Pools</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">23</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/compare-and-swap.html">Compare and Swap</a><br/></td>
+                
+            </tr>
+            
+            <tr>
+                
+                <td class="leftMenuLinkCell" align="right">24</td>
+                <td class="leftMenuLinkCell"><a href="/java-concurrency/anatomy-of-a-synchronizer.html">Anatomy of a Synchronizer</a><br/></td>
+                
+            </tr>
+            
+        </table>
+
+        <br/><br/>
+
+
+        
+        <div id="side-ads">
+            <script>
+                if(window.innerWidth >= 900){
+                    document.write("<script async src='http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'><");
+                    document.write("/script>");
+                    document.write("<ins class='adsbygoogle' style='display:inline-block;width:160px;height:600px' data-ad-client='ca-pub-5569543489255665' data-ad-slot='3389666608'></ins>");
+                    document.write("<script>\n");
+                    document.write("  (adsbygoogle = window.adsbygoogle || []).push({});\n");
+                    document.write("<");
+                    document.write("/script>");
+                }
+            </script>
+        </div>
+
+
+        <br/><br/>
+        
+        <div id="leftMenuSocialLinks" >
+            <div id="social-left-bar" class="signupFrame" style="padding:10px;">
+    <form action="http://jenkov.us4.list-manage.com/subscribe/post?u=39844b57926863757a8be6553&amp;id=74bcc45775" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+        <table width=""  border="0" cellspacing="0" cellpadding="5">
+            <tr>
+                
+                <td><font color="red"><b>Get all my free tips & tutorials!</b></font></td>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Connect with me, or sign up for my news letter or <a href="http://feeds2.feedburner.com/jenkov-com" target="_blank">RSS feed</a>, and
+                    get all my tips that help you become a more skilled and efficient developer.
+                </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <div id="leftSocialLinks"></div>
+                </td>
+            </tr>
+
+            <tr><td>
+                <b>Newsletter</b><br/>
+                   
+<form action="http://jenkov.us4.list-manage.com/subscribe/post?u=39844b57926863757a8be6553&amp;id=74bcc45775" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+
+    <input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="First Name *" size="15">&nbsp;
+    <input type="text" value="" name="LNAME" class="" id="mce-LNAME" placeholder="Last Name *" size="15">&nbsp;
+    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email *" size="15">&nbsp;<br/>
+    <input type="submit" value="Yes, give me tips!" name="subscribe" id="mc-embedded-subscribe" class="button">
+
+    <input type=hidden name="listid" value="9579">
+    <input type=hidden name="specialid:9579" value="SW15">
+
+    <input type=hidden name=clientid value="435086">
+    <input type=hidden name=formid value="587">
+    <input type=hidden name=reallistid value="1">
+    <input type=hidden name=doubleopt value="1">
+
+</form>
+                </td>
+            </tr>
+
+        </table>
+    </form>
+</div>
+        </div>
+    </div><!--
+
+    --><div jqc-cell="0:12c 3:9c">
+
+        <h1>Java ThreadLocal</h1>
+
+
+        <div id="articleTopDiv" style="height: 163px;">
+            
+        </div>
+
+
+        <br/>
+
+        <style>
+            .pageToc{
+                border         : 1px solid #e0e0e0;
+                border-radius  : 5px;
+            }
+            .pageToc .pageTocTitle {
+                border-bottom: 1px solid #e0e0e0;
+                padding: 10px 20px 10px 20px;
+            }
+            .pageToc div[itemscope] {
+                padding: 10px 20px 10px 20px;
+            }
+        </style>
+        
+        <nav>
+            <div class="pageToc">
+                <div class="pageTocTitle">Table of Contents</div>
+                <div itemscope itemtype="http://schema.org/SiteNavigationElement"><ul><li><a href="#creating-a-threadlocal">Creating a ThreadLocal</a></li><li><a href="#accessing-a-threadlocal">Accessing a ThreadLocal</a></li><li><a href="#generic-threadlocal">Generic ThreadLocal</a></li><li><a href="#initial-threadlocal-value">Initial ThreadLocal Value</a></li><li><a href="#full-threadlocal-example">Full ThreadLocal Example</a></li><li><a href="#inheritableThreadLocal">InheritableThreadLocal</a></li>       </ul></div>
+            </div>
+        </nav>
+        
+
+
+        <p>
+    The <code>ThreadLocal</code> class in Java enables you to create variables that can only be read and written by
+    the same thread. Thus, even if two threads are executing the same code, and the code has a reference to a
+    <code>ThreadLocal</code> variable, then the two threads cannot see each other's <code>ThreadLocal</code> variables.
+</p>
+
+
+<a name="creating-a-threadlocal"></a>
+<h2>Creating a ThreadLocal</h2>
+<p>
+    Here is a code example that shows how to create a <code>ThreadLocal</code> variable:
+</p>
+
+<pre class="codeBox">
+private ThreadLocal myThreadLocal = new ThreadLocal();
+</pre>
+
+<p>
+    As you can see, you instantiate a new <code>ThreadLocal</code> object. This only needs to be done once, and it
+    doesn't matter which thread does that. All threads will see the same <code>ThreadLocal</code> instance, but
+    the values set on the <code>ThreadLocal</code> via its <code>set()</code> method will only be visible to the
+    thread who set the value. Even if two different threads set different values on the same <code>ThreadLocal</code>
+    object, they cannot see each other's values.
+</p>
+
+
+
+<a name="accessing-a-threadlocal"></a>
+<h2>Accessing a ThreadLocal</h2>
+
+<p>
+    Once a <code>ThreadLocal</code> has been created you can set the value to be stored in it like this:
+</p>
+
+<pre class="codeBox">
+myThreadLocal.set("A thread local value");
+</pre>
+
+
+<p>
+    You read the value stored in a <code>ThreadLocal</code> like this:
+</p>
+
+<pre class="codeBox">
+String threadLocalValue = (String) myThreadLocal.get();
+</pre>
+
+
+<p>
+    The <code>get()</code> method returns an <code>Object</code> and the <code>set()</code> method takes
+    an <code>Object</code> as parameter.
+</p>
+
+
+
+
+<a name="generic-threadlocal"></a>
+<h2>Generic ThreadLocal</h2>
+
+<p>
+    You can create a generic <code>ThreadLocal</code> so that you do not have to typecast the value returned by
+    <code>get()</code>. Here is a generic <code>ThreadLocal</code> example:
+</p>
+
+<pre class="codeBox">
+private ThreadLocal myThreadLocal = new ThreadLocal&lt;String&gt;();
+</pre>
+
+<p>
+    Now you can only store strings in the <code>ThreadLocal</code> instance. Additionally, you do not need to typecast
+    the value obtained from the <code>ThreadLocal</code>:
+</p>
+
+<pre class="codeBox">
+myThreadLocal.set("Hello ThreadLocal");
+
+String threadLocalValue = myThreadLocal.get();
+</pre>
+
+
+
+
+<a name="initial-threadlocal-value"></a>
+<h2>Initial ThreadLocal Value</h2>
+
+<p>
+    Since values set on a <code>ThreadLocal</code> object only are visible to the thread who set the value,
+    no thread can set an initial value on a <code>ThreadLocal</code> using <code>set()</code> which is visible to all
+    threads.
+</p>
+
+<p>
+    Instead you can specify an initial value for a <code>ThreadLocal</code> object by subclassing <code>ThreadLocal</code>
+    and overriding the <code>initialValue()</code> method. Here is how that looks:
+</p>
+
+
+<pre class="codeBox">
+private ThreadLocal myThreadLocal = new ThreadLocal&lt;String&gt;() {
+    @Override protected String initialValue() {
+        return "This is the initial value";
+    }
+};    
+</pre>
+
+
+<p>
+    Now all threads will see the same initial value when calling <code>get()</code> before having called <code>set()</code> .
+</p>
+
+
+
+
+<a name="full-threadlocal-example"></a>
+<h2>Full ThreadLocal Example</h2>
+
+<p>
+    Here is a fully runnable Java <code>ThreadLocal</code> example:
+</p>
+
+<pre class="codeBox">
+public class ThreadLocalExample {
+
+
+    public static class MyRunnable implements Runnable {
+
+        private ThreadLocal&lt;Integer&gt; threadLocal =
+               new ThreadLocal&lt;Integer&gt;();
+
+        @Override
+        public void run() {
+            threadLocal.set( (int) (Math.random() * 100D) );
+    
+            try {
+                Thread.sleep(2000);
+            } catch (InterruptedException e) {
+            }
+    
+            System.out.println(threadLocal.get());
+        }
+    }
+
+
+    public static void main(String[] args) {
+        MyRunnable sharedRunnableInstance = new MyRunnable();
+
+        Thread thread1 = new Thread(sharedRunnableInstance);
+        Thread thread2 = new Thread(sharedRunnableInstance);
+
+        thread1.start();
+        thread2.start();
+    }
+
+}
+</pre>
+
+
+<p>
+    This example creates a single <code>MyRunnable</code> instance which is passed to two different threads.
+    Both threads execute the <code>run()</code> method, and thus sets different values on the <code>ThreadLocal</code>
+    instance. If the access to the <code>set()</code> call had been synchronized, and it had <i>not</i> been a 
+    <code>ThreadLocal</code> object, the second thread would have overridden the value set by the first thread.
+</p>
+
+<p>
+    However, since it <i>is</i> a <code>ThreadLocal</code> object then the two threads cannot see each other's values.
+    Thus, they set and get different values.
+</p>
+
+
+
+
+
+<a name="inheritableThreadLocal"></a>
+<h2>InheritableThreadLocal</h2>
+
+<p>
+    The <code>InheritableThreadLocal</code> class is a subclass of <code>ThreadLocal</code>. Instead of each thread
+    having its own value inside a <code>ThreadLocal</code>, the <code>InheritableThreadLocal</code> grants access
+    to values to a thread and all child threads created by that thread.
+</p>
+
+
+        
+        <br/><br/>
+        
+        <nav>
+            <a href="/java-concurrency/thread-signaling.html">
+                <div class="nextArticleInCategory">
+                    <b>Next:</b>&nbsp;&nbsp;&nbsp;Thread Signaling
+                </div>
+            </a>
+        </nav>
+        
+
+
+        <div style="height: 30px"></div>
+
+        <table>
+            <tr>
+                <td><b>Connect with me:</b></td>
+                <td style="width:30px;"></td>
+                <td><b>Newsletter</b> - Get all my free tips!</td>
+            </tr>
+            <tr>
+                <td><div id="bottomSocialLinks"></div></td>
+                <td></td>
+                <td>
+<form action="http://jenkov.us4.list-manage.com/subscribe/post?u=39844b57926863757a8be6553&amp;id=74bcc45775" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+
+    <input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="First Name *" size="15">&nbsp;
+    <input type="text" value="" name="LNAME" class="" id="mce-LNAME" placeholder="Last Name *" size="15">&nbsp;
+    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email *" size="15">&nbsp;<br/>
+    <input type="submit" value="Yes, give me tips!" name="subscribe" id="mc-embedded-subscribe" class="button">
+
+    <input type=hidden name="listid" value="9579">
+    <input type=hidden name="specialid:9579" value="SW15">
+
+    <input type=hidden name=clientid value="435086">
+    <input type=hidden name=formid value="587">
+    <input type=hidden name=reallistid value="1">
+    <input type=hidden name=doubleopt value="1">
+
+</form></td>
+            </tr>
+            <tr><td></td></tr>
+        </table>
+        <div style="height: 30px"></div>
+        <div id="articleBottomAds">
+            <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <script>
+                if(window.innerWidth >= 1200){
+                    document.write("<ins class='adsbygoogle' style='display:inline-block;width:728px;height:90px' data-ad-client='ca-pub-5569543489255665' data-ad-slot='7776167002'></ins>");
+                }
+            </script>
+        </div>
+</div>
+
+    <div jqc-row jqc-row-paddings="0:0">
+        <div jqc-cell="0:12c">
+            <div id="pageBottomAds">
+                <script>
+                    var adEl = document.getElementById("pageBottomAds");
+                    if(window.innerWidth >= 728 && window.innerWidth < 1200) {  
+                        document.write("<ins class='adsbygoogle' style='display:inline-block;width:728px;height:90px' data-ad-client='ca-pub-5569543489255665' data-ad-slot='7776167002'></ins>");
+                        adEl.style.width = "728px"; adEl.style.marginTop = "20px"; adEl.style.marginBottom ="20px"; adEl.style.marginRight = "auto"; adEl.style.marginLeft = "auto";
+                    } else if(window.innerWidth < 728) {  
+                        document.write("<ins class='adsbygoogle' style='display:inline-block;width:320px;height:50px' data-ad-client='ca-pub-5569543489255665' data-ad-slot='4216244607'></ins>");
+                        adEl.style.marginTop = "10px";
+                    }
+                </script>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+                <br/><br/><br/>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+<svg id="googlePlusIconSvg" ></svg>
+
+
+<script>
+    googlePlusLink =
+"<a class='googlePlusIconLink' href='https://plus.google.com/+JakobJenkov?rel=author' style='text-decoration:none;' title='Connect on Google+'  target='_blank' rel='author'>"
+        + "<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' "
+        + "width='40px' height='40px' viewBox='0 0 512 512' enable-background='new 0 0 512 512' xml:space='preserve'> "
+        + "<path id='google-plus-square-rounded-icon' d='M209.035,235.669c-22.34-0.673-43.568-21.164-47.425-50.498 "
+        + "c-3.858-29.341,11.122-51.789,33.458-51.124c22.329,0.671,41.439,24.737,45.294,54.07 "
+        + "C244.215,217.455,231.363,236.333,209.035,235.669z M204.452,295.702c-33.279-0.366-61.481,21.029-61.481,45.829 "
+        + "c0,25.309,24.033,46.375,57.314,46.375c42.547,0,63.102-19.773,63.102-45.082C263.387,318.698,241.378,295.702,204.452,295.702z "
+        + "M461.945,101v312c0,27.614-22.386,50-50,50h-312c-27.614,0-50-22.386-50-50V101c0-27.614,22.386-50,50-50h312 "
+        + "C439.56,51,461.945,73.386,461.945,101z M292.054,339.882c0-23.364-8.724-38.63-35.119-58.406 "
+        + "c-26.771-19.524-33.313-30.555-7.761-50.31c14.398-11.133,24.488-25.973,24.488-44.295c0-19.961-8.162-38.071-23.51-46.864h21.755 "
+        + "l18.521-19.438c0,0-69.817,0-82.879,0c-51.736,0-77.105,31.01-77.105,65.122c0,34.861,23.915,62.316,70.615,62.316 "
+        + "c-7.24,14.617-4.332,28.117,7.514,37.771c-79.759,0-96.826,34.998-96.826,61.957c0,34.932,40.154,55.699,88.303,55.699  "
+        + "C265.885,403.434,292.054,368.543,292.054,339.882z M400.146,162.626H361.91v-38.235h-19.117v38.235h-38.235v19.117h38.235v38.235 "
+        + "h19.117v-38.235h38.235V162.626z'/> "
+        + "</svg></a>"
+    ;
+
+    twitterLink =
+          "<a class='twitterIconLink' href='https://twitter.com/#!/jjenkov' title='Follow on Twitter' target='_blank'>"
+        + "<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' "
+        + "width='40px' height='40px' viewBox='0 0 512 512' enable-background='new 0 0 512 512' xml:space='preserve'> "
+        + " <path id='twitter-3-icon' d='M412,50H100c-27.614,0-50,22.386-50,50v312c0,27.614,22.386,50,50,50h312c27.614,0,50-22.386,50-50V100 "
+        + "   C462,72.386,439.614,50,412,50z M371.942,207.125c3.553,79.059-55.408,167.203-159.768,167.203 "
+        + "   c-31.743,0-61.289-9.305-86.164-25.253c29.821,3.515,59.586-4.758,83.218-23.278c-24.596-0.453-45.356-16.703-52.508-39.035 "
+        + "   c8.808,1.684,17.473,1.19,25.383-0.962c-27.03-5.433-45.692-29.784-45.083-55.826c7.577,4.211,16.245,6.74,25.46,7.032 "
+        + "   c-25.034-16.73-32.12-49.786-17.396-75.045c27.723,34.006,69.143,56.385,115.857,58.729c-8.199-35.16,18.474-69.019,54.755-69.019 "
+        + "   c16.168,0,30.776,6.825,41.029,17.75c12.804-2.52,24.833-7.198,35.694-13.639c-4.197,13.126-13.11,24.141-24.715,31.098 "
+        + "   c11.37-1.357,22.204-4.379,32.284-8.851C392.454,189.301,382.926,199.201,371.942,207.125z'/> "
+        + "</svg></a>"
+    ;
+
+    linkedInLink =
+          "<a class='linkedInIconLink' href='http://www.linkedin.com/pub/jakob-jenkov/0/a8/4a3' title='Connect on LinkedIn' target='_blank'>"
+        + "<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' "
+        + "  width='40px' height='40px' viewBox='0 0 512 512' enable-background='new 0 0 512 512' xml:space='preserve'> "
+        + "  <path id='linkedin-square-rounded-icon' d='M411.945,50h-312c-27.614,0-50,22.386-50,50v312c0,27.614,22.386,50,50,50h312 "
+        + "    c27.614,0,50-22.386,50-50V100C461.945,72.386,439.56,50,411.945,50z M180.996,392.99h-56.537V210.336h56.537V392.99z "
+        + "    M152.457,186.417c-18.465,0-33.432-15.09-33.432-33.703c0-18.614,14.967-33.704,33.432-33.704c18.463,0,33.432,15.09,33.432,33.704 "
+        + "    C185.889,171.327,170.92,186.417,152.457,186.417z M392.865,392.99h-56.262c0,0,0-69.582,0-95.881 "
+        + "    c0-26.296-9.988-40.974-30.781-40.974c-22.629,0-34.453,15.289-34.453,40.974c0,28.133,0,95.881,0,95.881h-54.223V210.336h54.223 "
+        + "    v24.599c0,0,16.309-30.171,55.041-30.171s66.455,23.648,66.455,72.572C392.865,326.262,392.865,392.99,392.865,392.99z'/> "
+        + "</svg></a>"
+    ;
+
+
+    youTubeLink =
+          "<a class='youTubeIconLink' href='https://www.youtube.com/user/jjenkov' title='Subscribe on YouTube' target='_blank'>"
+        + "<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' "
+        + "width='40px' height='40px' viewBox='0 0 512 512' enable-background='new 0 0 512 512' xml:space='preserve'> "
+        + "        <path id='youtube-3-icon' d='M233.709,295.811h14.537v78.188h-14.537v-8.631c-2.68,3.181-5.465,5.604-8.363,7.268 "
+        + "c-7.836,4.488-18.594,4.392-18.594-11.473v-65.352h14.538v59.936c0,3.146,0.763,5.27,3.872,5.27c2.833,0,6.773-3.635,8.547-5.855 "
+        + "V295.811z M206.951,268.006h-50.245v15.384h16.937v90.608h16.371V283.39h16.938V268.006z M304.207,314.422v43.377 "
+        + "c0,9.674-3.619,17.188-13.291,17.188c-5.323,0-9.756-1.945-13.809-6.998v6.01H262.43V268.006h14.678v34.122 "
+        + "c3.281-3.997,7.734-7.306,12.926-7.306C300.681,294.822,304.207,303.816,304.207,314.422z M289.245,315.302 "
+        + "c0-2.638-0.517-4.64-1.554-6.008c-1.758-2.321-5.042-2.571-7.586-1.284c-1.013,0.514-2.011,1.31-2.998,2.383v48.725 "
+        + "c1.184,1.271,2.33,2.188,3.441,2.748c2.365,1.198,5.836,1.293,7.438-0.805c0.838-1.1,1.259-2.896,1.259-5.389V315.302z "
+        + "M246.938,209.69c4.106,0,6.385-3.303,6.385-7.773v-38.188c0-4.594-2.004-7.829-6.685-7.829c-4.288,0-6.356,3.335-6.356,7.829 "
+        + "v38.188C240.281,206.242,242.721,209.69,246.938,209.69z M462,100v312c0,27.614-22.385,50-50,50H100c-27.613,0-50-22.386-50-50V100 "
+        + "c0-27.614,22.387-50,50-50h312C439.615,50,462,72.386,462,100z M281.84,209.615c0,8.11,2.479,14.665,10.662,14.665 "
+        + "c4.618,0,11.028-2.403,17.643-10.249v9.063h15.264v-82.099h-15.264v62.317c-1.86,2.33-5.999,6.148-8.975,6.148 "
+        + "c-3.268,0-4.066-2.229-4.066-5.531v-62.934H281.84V209.615z M224.572,162.375v40.242c0,14.468,7.561,22,22.365,22 "
+        + "c12.275,0,21.944-8.21,21.944-22v-40.242c0-12.85-9.571-22.056-21.944-22.056C233.494,140.319,224.572,149.203,224.572,162.375z "
+        + "M167.703,111.8l20.451,66.153v45.14h17.191v-45.14l20.006-66.153h-17.467l-11.014,44.485L185.018,111.8H167.703z M380.961,276.779 "
+        + "c0-19.331-15.67-35.001-35-35.001H166.039c-19.33,0-35,15.67-35,35.001V365.2c0,19.33,15.67,35,35,35h179.922 "
+        + "c19.33,0,35-15.67,35-35V276.779z M357.938,316.831v19.906h-27.805v14.75c0,5.865,0.496,10.938,6.349,10.938 "
+        + "c6.137,0,6.494-4.13,6.494-10.938v-5.435h14.962v5.873c0,15.066-6.467,24.189-21.786,24.189c-13.881,0-20.979-10.113-20.979-24.189 "
+        + "v-35.095c0-13.573,8.967-22.997,22.08-22.997C351.198,293.834,357.938,302.699,357.938,316.831z M342.976,316.686 "
+        + "c0-5.283-1.12-9.163-6.349-9.163c-5.387,0-6.494,3.79-6.494,9.163v7.916h12.843V316.686z'/> "
+        + "</svg></a>"
+    ;
+
+
+    rssLink =
+          "<a class='rssIconLink' href='http://feeds2.feedburner.com/jenkov-com' title='Subscribe to RSS Feed' target='_blank'>"
+        + "<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' "
+        + "  width='40px' height='40px' viewBox='0 0 512 512' enable-background='new 0 0 512 512' xml:space='preserve'> "
+        + "  <path id='rss-square-rounded-icon' d='M412,50H100c-27.614,0-50,22.386-50,50v312c0,27.614,22.386,50,50,50h312 "
+        + "    c27.614,0,50-22.386,50-50V100C462,72.386,439.614,50,412,50z M151.005,400.2c-21.554,0-39.026-17.472-39.026-39.026 "
+        + "    c0-21.553,17.473-39.024,39.026-39.024s39.024,17.472,39.024,39.024C190.029,382.729,172.559,400.2,151.005,400.2z M244.268,400.2 "
+        + "    c-0.747-72.618-59.672-131.542-132.289-132.288v-57.815c104.663,0.747,189.355,85.44,190.104,190.103H244.268z M342.201,400.2 "
+        + "    c-0.174-61.521-24.205-119.335-67.728-162.856c-43.436-43.437-101.108-67.456-162.495-67.723V111.8 "
+        + "    c158.955,0.556,287.681,129.401,288.043,288.4H342.201z'/> "
+        + "</svg></a>"
+    ;
+
+
+
+
+
+</script>
+<script>
+    var socialConnectLinks = googlePlusLink + twitterLink + linkedInLink + youTubeLink + rssLink;
+    ;
+
+    var photoWidth  = 111;
+    var photoHeight = 127;
+    var authorStr   = "Jakob Jenkov";
+    var afterPhotoX = photoWidth + 20;
+    if(window.innerWidth <= 400){
+        photoWidth  = 72;
+        photoHeight = 82;
+        afterPhotoX = photoWidth + 10;
+        authorStr   = "<br/>Jakob<br/>Jenkov";
+    }
+    var articleTopHtmlStr =
+            "<div style='position:relative; borderx: 1px solid #cccccc; height: 163px;'>"
+          + "  <img style='width:" + photoWidth + "px; height:" + photoHeight+ "px;' src='/images/layout/small-portrait_mini.jpg'> <br/>"
+          + "  <span class='author'>By <a target='jakob-jenkov' href='http://jakob.jenkov.com'>" + authorStr + "</a></span>"
+          + " "
+          + "  <div style='position:absolute; top: 0px; left: " + afterPhotoX +"px;'>"
+          + "    &nbsp;Connect with me: <br/>"
+          + "    " + socialConnectLinks
+          + "  </div>"
+
+          ;
+    articleTopHtmlStr +=
+            "  <div style='position:absolute; top: 70px; left: " + afterPhotoX + "px'>"
+          + "   Rate article: "
+          + "  </div>"
+
+          + "  <div style='position:absolute; top: 88px; left: " + afterPhotoX + "px;'> "
+          + "    <script type='text/javascript' src='https://apis.google.com/js/plusone.js' async>"
+          + "<\/script>"
+          + "    <g:plusone><\/g:plusone>"
+          + "  </div>"
+          
+          + "  <div style='position:absolute; top: 122px; left: " + afterPhotoX + "px'>"
+          + "    Share article:"
+          + "  </div>"
+
+          + "  <div style='position:absolute; top: 140px; left: " + afterPhotoX + "px'>"
+          + "    <div class='g-plus' data-action='share' data-height='24'  data-annotation='none'></div>"
+          + "    <script type='text/javascript'>"
+          + "     (function() { "
+          + "       var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;"
+          + "       po.src = 'https://apis.google.com/js/platform.js'; "
+          + "       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);"
+          + "       })();"
+          + "    <\/script>"
+          + "  </div>"
+
+          + "  <div style='position:absolute; top: 140px; left: " + (afterPhotoX + 80) + "px'>"
+          + "    <a href='https://twitter.com/share' class='twitter-share-button' data-via='jjenkov'>Tweet</a>"
+          + "    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');<\/script>"
+          + "  </div>"
+          
+;
+
+//console.log(articleTopHtmlStr);
+</script>
+
+<span jqc-module="mobileAdaptModule"></span>
+
+<script>
+function mobileAdaptModule() {
+
+   var module = {};
+
+    module.postRender = function() {
+        console.log("Mobile Adaptation Running");
+
+        var articleTopDiv = $("#articleTopDiv");
+
+        articleTopDiv.html( articleTopHtmlStr );
+
+        //articleTopDiv.html( $("#articleTopTemplate").html() );
+
+        //$("#googlePlusIconSvg").html( rssIcon );
+        $("#bottomSocialLinks").html(socialConnectLinks);
+        $("#leftSocialLinks").html(socialConnectLinks);
+
+    }
+
+   return module;
+}
+
+</script>
+
+
+
+
+    
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4036229-3']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script>
+
+
+
+
+
+</body>
+
+</html>

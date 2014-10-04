@@ -1,0 +1,1005 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html lang="en" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html lang="en" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js"><!--<![endif]-->
+	<!--
+	generated in 0.518 seconds
+	85775 bytes batcached for 300 seconds
+-->
+<head>
+		<meta charset="utf-8">
+		
+		<title>Let’s get more STEM teachers in the classroom | TED Blog</title>
+		
+		<!-- Google Chrome Frame for IE -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<!-- mobile meta (hooray!) -->
+		<meta name="HandheldFriendly" content="True">
+		<meta name="MobileOptimized" content="320">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+  		<link rel="pingback" href="http://blog.ted.com/xmlrpc.php">
+		
+<meta name="description" content="Baratunde Thurston on how teachers blow minds. And why, if you work in the sciences, technology or engineering, you should consider it." /><meta name="news_keywords" content="teachers, education, STEM, Baratunde Thurston, humor, mind-blowing, TED Talks" />
+<meta name="keywords" content="teachers, education, stem, baratunde thurston, humor, mind-blowing, ted talks" />
+<meta name="google-site-verification" content="kpf8-2HuYyPjVRR4Dgk7MTSM4jiKCDbp5n7GQwulGGs" />
+<meta name="msvalidate.01" content="F1F8CFF85FF82D607911A8BAB418B939" />
+		<script src='//r-login.wordpress.com/remote-login.php?action=js&amp;host=blog.ted.com&amp;id=14795620&amp;t=1412389010&amp;back=http%3A%2F%2Fblog.ted.com%2F2014%2F09%2F16%2Fwant-more-mind-blowing-ted-talks-lets-get-more-stem-teachers%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="alternate" type="application/rss+xml" title="TED Blog &raquo; Want even more mind-blowing TED Talks? Let’s get more STEM teachers in the classroom. Starting with &#8230;&nbsp;you! Comments Feed" href="http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<link rel='stylesheet' id='all-css-0' href='http://s0.wp.com/_static/??-eJx9j9FuwjAMRX9omUsEaHtAfEtITTA4cdS4rfh7EsS2Tkh9uzc6x7FhzsZLUkwKcTSZx0CpANMNC1xRs/M382yfvpQPWOAnlvAnSAjYy6jmLMwyw0x9QH2TFn94GbC+x+y0ERF7csgYK7amxbz/sVq81AVfuxEkUapK+Q1rgwKKYfFOSdK/Ys7saFhTB2zH1xigUov6JumlHlRgogyKve02thlmslD0ztj4Yzxstt1397Wzdn99AMV2lHY=' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='ie8-ted-v2-css'  href='http://s0.wp.com/wp-content/themes/vip/ted2012/css-v2/ie8.css?m=1409085226g&#038;ver=1.0' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='all-css-2' href='http://s2.wp.com/_static/??-eJx9jtsKAjEQQ3/IduzFR/Fb6jq2s/S2nXbFv3cFBUH0KSHJgcCtiqnkjrlDD5iQYaUKHS96rzRMzDAvA9tdLp2qTJTllu3gA0tD1Dg8ZYZauItrdNSAg2uU/Vv/UR4zNtqKH/aLfR0NFnwsZxefg1M6Kqu0scaow/wAyRJOyg==' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LoggedOutFollow = {"invalid_email":"Your subscription did not succeed, please try again with a valid email address."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s2.wp.com/_static/??-eJyNkNtuwzAIQH9ojpOok/pS7VuSmHq4NngGJ2q/fo7USd1F6p5AcOAg7JbNwqRAaoPYxDNGMFWgTL7VDNKZuyAvtnFIS6wOZAfDR4VyvYengEnoy6TQJaQv+MGaWTSBSFP+0f2uQloRtqdYAM3TcjEFBG+/ts6RvcmxeiSxLffguKo5c4y82Q2dB/05o+/QbrQrZqvgxn4Yd6uWZkHy/6MjzvuPHRTCW+mWKsrp/pS3dBoOff96HMZ+DJ/mK5cN'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://tedconfblog.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='A haunted TED Talk? Filmmaker Stewart Thorndike on her new horror&nbsp;film' href='http://blog.ted.com/2014/09/15/a-haunted-ted-talk-filmmaker-stewart-thorndike-on-her-new-horror-film/' />
+<link rel='next' title='The joy and agony of translating song&nbsp;lyrics' href='http://blog.ted.com/2014/09/16/the-joy-and-agony-of-translating-song-lyrics/' />
+<meta name="generator" content="WordPress.com" />
+<link rel='canonical' href='http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/' />
+<link rel='shortlink' href='http://wp.me/p10512-nSq' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fblog.ted.com%2F2014%2F09%2F16%2Fwant-more-mind-blowing-ted-talks-lets-get-more-stem-teachers%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fblog.ted.com%2F2014%2F09%2F16%2Fwant-more-mind-blowing-ted-talks-lets-get-more-stem-teachers%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Want even more mind-blowing TED Talks? Let’s get more STEM teachers in the classroom. Starting with ... you!" />
+<meta property="og:url" content="http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/" />
+<meta property="og:description" content="By Baratunde Thurston So, you might know me. I ran the digital side of The Onion for a long time; I’m the author of How To Be Black. People call me to do things like host White House events on inno..." />
+<meta property="article:published_time" content="2014-09-16T16:32:54+00:00" />
+<meta property="article:modified_time" content="2014-09-22T14:22:59+00:00" />
+<meta property="article:author" content="http://blog.ted.com/author/tedstaff/" />
+<meta property="og:site_name" content="TED Blog" />
+<meta property="og:image" content="http://tedconfblog.files.wordpress.com/2014/09/teachstem.png?w=1200" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta name="twitter:image:src" content="http://tedconfblog.files.wordpress.com/2014/09/teachstem.png?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="shortcut icon" type="image/x-icon" href="http://1.gravatar.com/blavatar/5eb168b0154768602b7da05b54081381?s=16" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="http://1.gravatar.com/blavatar/5eb168b0154768602b7da05b54081381?s=16" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="http://1.gravatar.com/blavatar/909a50edb567d0e7b04dd0bcb5f58306?s=114" />
+<link rel='openid.server' href='http://tedconfblog.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://tedconfblog.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://blog.ted.com/osd.xml" title="TED Blog" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com" />
+		<style>
+			.wpcom-related-posts ul li {
+				list-style-type: none;
+				display: inline-block;
+			}
+		</style>
+				<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="TED Blog" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="The TED Blog shares interesting news about TED, TED Talks video, the TED Prize and more." /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://blog.ted.com/feed/;icon-uri=http://1.gravatar.com/blavatar/5eb168b0154768602b7da05b54081381?s=16" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+
+					<!-- Facebook OG for multiple content images -->
+			<meta property="og:image" content="http://tedconfblog.files.wordpress.com/2014/09/teachstem.png?w=900"><meta property="og:image" content="http://tedconfblog.files.wordpress.com/2014/09/teachstem.png">		
+	</head>
+	
+	<body class="single single-post postid-91786 single-format-standard mp6 typekit-enabled">
+		<div id="container">
+			<header class="header" role="banner">
+			
+				
+					<div class="header__container">
+	<div class="home-header__intro">
+		<h1>
+			<a class="header-logo" href="http://blog.ted.com" title="TED Blog">
+				<strong class="g-logo-medium home-header__logo">TED</strong> Blog
+			</a>
+		</h1>
+	</div>
+
+	<div class="banner">
+		<div class="banner__container">
+
+			<a href="http://blog.ted.com" class="header-logo" title="TED Blog">
+				<strong class="g-logo-small banner__logo">TED</strong> Blog
+			</a>
+
+			<div class="secondary">
+				<div class="menu-header-account-container"><ul id="menu-header-account" class="menu"><li id="menu-item-89060" class="ted menu-item menu-item-type-custom menu-item-object-custom menu-item-89060"><a href="http://www.ted.com">TED</a></li>
+<li id="menu-item-89061" class="log-in menu-item menu-item-type-custom menu-item-object-custom menu-item-89061"><a href="http://www.ted.com/session/new?referer=http://blog.ted.com">Log in</a></li>
+<li id="menu-item-91502" class="sign-up menu-item menu-item-type-custom menu-item-object-custom menu-item-91502"><a href="https://auth.ted.com/users/new">Sign up</a></li>
+<li id="menu-item-89062" class="account menu-item menu-item-type-custom menu-item-object-custom menu-item-89062"><a href="https://www.ted.com/account/my">Account</a></li>
+</ul></div>			</div>
+
+					<form id="ted-search-1" class="main-search" method="get" action="http://blog.ted.com">
+			<div class="main-search__content">
+				<input type="hidden" name="cat" value="blog_posts" /> 
+				<input class="main-search__input" type="text" name="s" value="" placeholder="Search..." />
+				<a
+					href="javascript:document.getElementById('ted-search-1').submit();"
+					class="main-search__button"
+				>
+					<i class="icon icon_search"></i>
+				</a>
+			</div>
+		</form>
+		
+		</div>
+	</div>
+</div>
+				
+			</header> <!-- end header -->
+			
+	
+		<div id="content">
+	<div id="inner-content" class="wrap clearfix">
+
+		<div id="main" class="eightcol first clearfix" role="main">
+
+										
+				<article id="post-91786" class="post-91786 post type-post status-publish format-standard has-post-thumbnail hentry category-education tag-baratunde-thurston tag-education tag-humor tag-mind-blowing tag-stem tag-teachers tag-ted-talks clearfix has-thumbnail not-featured even top i-0" role="article">
+
+					<header class="article-header">
+	<a href="http://blog.ted.com/category/education/" class="category-title">Education</a> 	<h1 class="single-title" itemprop="headline">Want even more mind-blowing TED Talks? Let’s get more STEM teachers in the classroom. Starting with &#8230;&nbsp;you!</h1>
+
+	<div class="meta clearfix">
+		<div class="author-pic"></div>
+		<div class="author-desc">Posted by: <a href="http://blog.ted.com/author/tedstaff/">Tedstaff</a> <br><time datetime="2014-09-16">September 16, 2014 at 12:32 pm EDT</time>
+		</div>
+		<div class="share">
+			<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" class="share-twitter sd-button share-icon no-text" href="http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/?share=twitter" target="_blank" title="Click to share on Twitter" id="sharing-twitter-91786"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow" class="share-facebook sd-button share-icon no-text" href="http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/?share=facebook" target="_blank" title="Share on Facebook" id="sharing-facebook-91786"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-linkedin"><a rel="nofollow" class="share-linkedin sd-button share-icon no-text" href="http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/?share=linkedin" target="_blank" title="Click to share on LinkedIn" id="sharing-linkedin-91786"><span></span><span class="sharing-screen-reader-text">Click to share on LinkedIn (Opens in new window)</span></a></li><li class="share-reddit"><a rel="nofollow" class="share-reddit sd-button share-icon no-text" href="http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/?share=reddit" target="_blank" title="Click to share on Reddit"><span></span><span class="sharing-screen-reader-text">Click to share on Reddit (Opens in new window)</span></a></li><li class="share-email"><a rel="nofollow" class="share-email sd-button share-icon no-text" href="http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/?share=email" target="_blank" title="Click to email this to a friend"><span></span><span class="sharing-screen-reader-text">Click to email this to a friend (Opens in new window)</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-pinterest"><a rel="nofollow" class="share-pinterest sd-button share-icon no-text" href="http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span></span><span class="sharing-screen-reader-text">Click to share on Pinterest (Opens in new window)</span></a></li><li class="share-tumblr"><a rel="nofollow" class="share-tumblr sd-button share-icon no-text" href="http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span></span><span class="sharing-screen-reader-text">Click to share on Tumblr (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-print"><a rel="nofollow" class="share-print sd-button share-icon no-text" href="http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/#print" target="_blank" title="Click to print"><span></span><span class="sharing-screen-reader-text">Click to print (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" class="share-google-plus-1 sd-button share-icon no-text" href="http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/?share=google-plus-1" target="_blank" title="Click to share on Google+" id="sharing-google-91786"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>		</div>
+	</div>
+</header> <!-- end article header -->
+
+<section class="entry-content clearfix">
+	<div id="attachment_91788" style="width: 1449px" class="wp-caption aligncenter"><img class="wp-image-91788 size-full" src="http://tedconfblog.files.wordpress.com/2014/09/teachstem.png?w=900" alt="Teachers blow minds. Illustration by Cultivated Wit."   /><p class="wp-caption-text">Do you work in the sciences, technology or engineering? Ever thought about becoming a STEM teacher? Below, proof that teachers blow minds. Illustration: Cultivated Wit</p></div>
+<p><strong>By Baratunde Thurston</strong></p>
+<p>So, you might know me. I ran the digital side of <i>The Onion </i>for a long time; I’m the author of <a href="http://www.amazon.com/gp/product/0062003224/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0062003224&amp;linkCode=as2&amp;tag=teco06-20&amp;linkId=5ENCMYLTPPQRYNC6" target="_blank"><i>How To Be Black</i></a>. People call me to do things like host White House events on innovation, do the wrap-up at TED salons, join <a href="http://www.media.mit.edu/people/directors-fellows" target="_blank">semi-secret cabals at MIT</a>, and comment on the teevee. The underlying constant in my multi-hyphenate life is running my creative company, Cultivated Wit. I’m proud of what we do, but part of the deal with an agency-client relationship is: you keep it quiet.</p>
+<p>But I’m working on a campaign right now that I’m so proud of, I&#8217;m speaking up loudly. Because this topic hits close to home.</p>
+<p>Today, Cultivated Wit launches a co-funded digital campaign to inspire math, science, tech and engineering (or STEM) undergraduates and recent grads to teach. Through teaching, they can change how young people see themselves and affect the world around them, while helping the U.S. finally surpass the Slovak Republic in <a href="http://www.ccesc.org/education-2/u-s-results-are-in-for-the-2012-pisa/" target="_blank">our mathematics ranking</a>.</p>
+<p>Simply put: <a href="http://blowminds.org" target="_blank">Blow Minds. Teach STEM</a>.</p>
+<p>Leading the effort to answer President Obama’s 2011 call for 100,000 new STEM teachers by 2021 is the organization <a href="http://100kin10.org" target="_blank">100Kin10</a>. This network of 200 organizations (corporations, universities, non-profits, school districts, federal agencies, museums, states and others) has combined forces to co-fund this campaign and bring Voltron-like collaborative power to this important mission.</p>
+<p>True to our origins in humor (several other founders worked for <i>The Onion, </i>too) and design (our newest partners added an actual art degree to our wall), Cultivated Wit has built a campaign that’s fun, smart, and hopefully as awesome as the teachers who, every day, expand kids’ minds in classrooms, labs and computer rooms across the country.</p>
+<p>This animated music video acts as the anthem of our message.</p>
+<p><span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='586' height='360' src='http://www.youtube.com/embed/WxVO_5RGM4A?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0' allowfullscreen='true'></iframe></span></p>
+<p>I rarely get as personally involved in our client work as with this project, but this topic hits close to home. I’m the product of an investment in STEM education myself.</p>
+<p>Before my 12th birthday, I met several of the Tuskegee Airmen, thanks to one of my <a href="http://www.bancroftelementary.org/" target="_blank">Bancroft Elementary School</a> teachers who set up an “Air and Space Club” at our DC public school.</p>
+<p>As a teenager, I got a computer to do my bidding &#8212; my bird beat up my friend’s bird &#8212; thanks to programming in C on the broadband-connected UNIX terminal at the Sidwell Friends upper school circa 1994.</p>
+<p>Pre-dating all that, I came home to an internet-connected computer because my mind-blowingly awesome mother knew and lived the power of STEM to transform possibilities for our family. She had taught herself enough to trade in her employment as a domestic and clerical worker for a career as a COBOL programmer for the federal government, making her effectively a pre-founding member of <a href="http://www.blackgirlscode.com/" target="_blank">Black Girls Code</a>.</p>
+<p>All this had a clear impact on the trajectory of my life. These are just some of the titles I’ve held: telecom analyst, political blogger, director of digital for <i>The Onion</i>, director’s fellow at the MIT Media Lab, CEO/hashtagger-in-chief of Cultivated Wit, club bouncer (this last one required lots of counting!).</p>
+<p>The TED community is one I don’t have to preach to much about the power of science, technology, engineering, math and education in general to change the world. I could point to <a href="http://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world" target="_blank">Kevin Slavin’s talk</a> about algorithms dominating our financial markets or <a href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers">Adam Spencer’s exuberance</a> for hunting “monster prime numbers” or <a href="http://www.ted.com/talks/richard_turere_a_peace_treaty_with_the_lions" target="_blank">Richard Turere’s anti-lion defense system</a>. And then there’s infectiously positive <a href="http://www.ted.com/talks/rita_pierson_every_kid_needs_a_champion" target="_blank">educator Rita Pearson</a> and <a href="http://www.ted.com/talks/christopher_emdin_teach_teachers_how_to_create_magic" target="_blank">science advocate Christopher Emdin</a> on “creating magic” in the classroom.</p>
+<p>On top of that, you’ve got <a href="http://ed.ted.com/" target="_blank">TED-Ed</a> (a 100Kin10 partner, by the way) and the <a href="http://www.ted.com/participate/ted-prize/prize-winning-wishes/school-in-the-cloud-sugata-mitra" target="_blank">TED Prize for the School in the Cloud</a>, both of which promote expanded access to education. And I’d like to think I contributed peripherally to the pro-mind-blowing TED camp with <a href="https://www.youtube.com/watch?v=ydIumAMjjwg" target="_blank">my recent TEDxKC talk</a> about the value of integrating humor into our techno-fabulous future.</p>
+<p>Many of these talks are possible because the speakers had teachers who took the time to transfer not just their knowledge but their attention, empathy and belief in us.</p>
+<p>So, how can you get involved? Start with spreading the word. Do you know people who work in the sciences, technology or engineering fields? Do you know people who use math? Are you connected to teachers or students or student-teachers? Do you know people who sometimes think about tomorrow? Then they are invested in the future.</p>
+<p>Please share this campaign with them because, generally speaking, minds don’t blow themselves. Much of our future (and the amazing TED talks they will produce) depends on getting more excellent STEM teachers in the classroom today.</p>
+<p>Check out <a href="http://blowmindsteachstem.com/" target="_blank">BlowMinds.org</a>.</p>
+<p style="text-align:left;">			<form id="wpcom-iframe-form-7c5da045c5a04306a565bdf5a8041605-542f5892b698a" target="wpcom-iframe-7c5da045c5a04306a565bdf5a8041605-542f5892b698a" method="post" action="//wpcomwidgets.com/?wpcom_origin=http%3A%2F%2Ftedconfblog.wordpress.com" style="display: none">
+							<input type="hidden" name="frameborder" value="0" />
+							<input type="hidden" name="scrolling" value="no" />
+							<input type="hidden" name="resize" value="0" />
+							<input type="hidden" name="replace_attributes" value="1" />
+							<input type="hidden" name="fallback" value="&lt;p class=&quot;protected-embed-fallback&quot;&gt;This embed is invalid&lt;/p&gt;" />
+							<input type="hidden" name="class" value="" />
+							<input type="hidden" name="width" value="982" />
+							<input type="hidden" name="webkitallowfullscreen" value="" />
+							<input type="hidden" name="mozallowfullscreen" value="" />
+							<input type="hidden" name="allowfullscreen" value="" />
+							<input type="hidden" name="_data" value="PGlmcmFtZSBzcmM9Ii8vZ2lwaHkuY29tL2VtYmVkL2VVOERubXNVVklOZ0kiIHdpZHRoPSI5ODIiIGhlaWdodD0iNTAwIiBmcmFtZWJvcmRlcj0iMCIgd2Via2l0QWxsb3dGdWxsU2NyZWVuIG1vemFsbG93ZnVsbHNjcmVlbiBhbGxvd0Z1bGxTY3JlZW4+PC9pZnJhbWU+,8d6810069f03340f06ff31efe4fee55570df9df9" />
+							<input type="hidden" name="_tag" value="protected-iframe" />
+							<input type="hidden" name="_hash" value="7c5da045c5a04306a565bdf5a8041605" />
+					</form>
+			<iframe name="wpcom-iframe-7c5da045c5a04306a565bdf5a8041605-542f5892b698a" id="wpcom-iframe-7c5da045c5a04306a565bdf5a8041605-542f5892b698a" width="982" height="" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen class="wpcom-protected-iframe "></iframe>
+		<script type="text/javascript">
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-7c5da045c5a04306a565bdf5a8041605-542f5892b698a');
+				var iframe = document.getElementById('wpcom-iframe-7c5da045c5a04306a565bdf5a8041605-542f5892b698a');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-7c5da045c5a04306a565bdf5a8041605-542f5892b698a'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		</script>
+		</p>
+<p style="text-align:left;"><i>Baratunde Thurston is the co-founder and CEO of </i><a href="http://cultivatedwit.com" target="_blank"><i>Cultivated Wit</i></a><i> which combines the powers of technology, design and humor to tell important stories and build creative community. He authored </i>The New York Times<i> best-seller </i><a href="http://www.amazon.com/gp/product/0062003224/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0062003224&amp;linkCode=as2&amp;tag=teco06-20&amp;linkId=5ENCMYLTPPQRYNC6" target="_blank">How To Be Black</a>,<i> and has spoken at </i><i>TED@SXSW, TEDxMidwest, <a href="https://www.youtube.com/watch?v=ydIumAMjjwg" target="_blank">TEDxKC</a> and <a href="http://blog.ted.com/2014/07/09/ted_at_nyc_2014/" target="_blank">TED@NYC</a>. </i><i>He uses math almost every day of his life.</i></p>
+	
+	<div class="meta clearfix">
+		<div class="share">
+			<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" class="share-twitter sd-button share-icon no-text" href="http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/?share=twitter" target="_blank" title="Click to share on Twitter" id="sharing-twitter-91786"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow" class="share-facebook sd-button share-icon no-text" href="http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/?share=facebook" target="_blank" title="Share on Facebook" id="sharing-facebook-91786"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-linkedin"><a rel="nofollow" class="share-linkedin sd-button share-icon no-text" href="http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/?share=linkedin" target="_blank" title="Click to share on LinkedIn" id="sharing-linkedin-91786"><span></span><span class="sharing-screen-reader-text">Click to share on LinkedIn (Opens in new window)</span></a></li><li class="share-reddit"><a rel="nofollow" class="share-reddit sd-button share-icon no-text" href="http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/?share=reddit" target="_blank" title="Click to share on Reddit"><span></span><span class="sharing-screen-reader-text">Click to share on Reddit (Opens in new window)</span></a></li><li class="share-email"><a rel="nofollow" class="share-email sd-button share-icon no-text" href="http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/?share=email" target="_blank" title="Click to email this to a friend"><span></span><span class="sharing-screen-reader-text">Click to email this to a friend (Opens in new window)</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-pinterest"><a rel="nofollow" class="share-pinterest sd-button share-icon no-text" href="http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span></span><span class="sharing-screen-reader-text">Click to share on Pinterest (Opens in new window)</span></a></li><li class="share-tumblr"><a rel="nofollow" class="share-tumblr sd-button share-icon no-text" href="http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span></span><span class="sharing-screen-reader-text">Click to share on Tumblr (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-print"><a rel="nofollow" class="share-print sd-button share-icon no-text" href="http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/#print" target="_blank" title="Click to print"><span></span><span class="sharing-screen-reader-text">Click to print (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" class="share-google-plus-1 sd-button share-icon no-text" href="http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/?share=google-plus-1" target="_blank" title="Click to share on Google+" id="sharing-google-91786"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>		</div>
+	</div>
+	
+	</section> <!-- end article section -->
+
+					<div class="article-footer">
+						<div class="tags"><div class="tags-title meta-title">Tags for this story:</div><div class="tag-list clearfix"><a href="http://blog.ted.com/tag/baratunde-thurston/" rel="tag">Baratunde Thurston</a><a href="http://blog.ted.com/tag/education/" rel="tag">Education</a><a href="http://blog.ted.com/tag/humor/" rel="tag">humor</a><a href="http://blog.ted.com/tag/mind-blowing/" rel="tag">mind-blowing</a><a href="http://blog.ted.com/tag/stem/" rel="tag">STEM</a><a href="http://blog.ted.com/tag/teachers/" rel="tag">teachers</a><a href="http://blog.ted.com/tag/ted-talks/" rel="tag">TED Talks</a></div></div>					</div> <!-- .article-footer -->
+
+				</article>
+				
+			
+		</div> <!-- #main -->
+
+						<div id="sidebar1" class="sidebar fourcol last clearfix" role="complementary">
+
+													
+						<div id="widget-category-tabs-3" class="widget widget_tabs">
+		<ul class="clearfix">
+			<li class="title"><a href="#tab-1">TEDGlobal 2014</a></li>
+			<li class="title"><a href="#tab-2">Most Popular</a></li>
+			<li class="title"><a href="#tab-3">Most Shared</a></li>
+		</ul>
+		<div id="tab-1" class="content">
+								<div class="post-92127 post type-post status-publish format-standard has-post-thumbnail hentry category-news-2 tag-brazil tag-live-from-tedglobal-2014 tag-livestreams tag-rio-de-janeiro tag-tedglobal-2014 tag-tedglobal-para-todos has_photo clearfix has-thumbnail not-featured odd top i-1">
+						<span class="thumb"><img src="http://i2.wp.com/tedconfblog.files.wordpress.com/2014/10/copacabana-thinkstock.jpg?resize=75%2C56" alt="Image" /></span>						<div class="text">
+							<a href="http://blog.ted.com/2014/10/03/tedglobal-para-todos-takes-over-rio-de-janeiro-brazil/" data-slug="tedglobal-para-todos-takes-over-rio-de-janeiro-brazil" class="post-title">TEDGlobal Para Todos takes over Rio de Janeiro,&nbsp;Brazil</a>
+							<em>October 3, 2014</em>
+						</div>
+					</div>
+										<div class="post-91992 post type-post status-publish format-standard has-post-thumbnail hentry category-fellows-friday tag-brazil tag-computational-biology tag-genetics tag-golden-mussel tag-invasive-species tag-marcela-uliano-da-silva tag-molecular-biology tag-river tag-south-america tag-ted-fellows tag-tedglobal-2014 has_photo clearfix has-thumbnail not-featured even i-2">
+						<span class="thumb"><img src="http://i1.wp.com/tedconfblog.files.wordpress.com/2014/09/2013-04-17_16-58-23_371-21.jpg?resize=75%2C56" alt="Image" /></span>						<div class="text">
+							<a href="http://blog.ted.com/2014/09/26/a-ted-fellow-wields-genes-to-protect-the-amazon/" data-slug="a-ted-fellow-wields-genes-to-protect-the-amazon" class="post-title">Invasion of the golden mussel: A TED Fellow wields genes to protect the&nbsp;Amazon</a>
+							<em>September 26, 2014</em>
+						</div>
+					</div>
+										<div class="post-91970 post type-post status-publish format-standard has-post-thumbnail hentry category-news-2 tag-brazil tag-further-reading tag-rio-de-janeiro tag-ted-conferences tag-tedglobal-2014 has_photo clearfix has-thumbnail not-featured odd i-3">
+						<span class="thumb"><img src="http://i0.wp.com/tedconfblog.files.wordpress.com/2014/09/uh6h_3hcrqspbdxdrq280axyqui4scefc-bf3h_znmq_dyeelscoh619x9yyt6krnvoy-8ia01ddw5rmr_q5x0hpzgjyra9slyqazzcfm5y_yd31mdz5bgenugdmhf15g.jpg?resize=75%2C56" alt="Image" /></span>						<div class="text">
+							<a href="http://blog.ted.com/2014/09/24/further-reading-and-watching-on-brazil/" data-slug="further-reading-and-watching-on-brazil" class="post-title">Further reading and watching on Brazil, to get you in the spirit for&nbsp;TEDGlobal</a>
+							<em>September 24, 2014</em>
+						</div>
+					</div>
+										<div class="post-91910 post type-post status-publish format-standard has-post-thumbnail hentry category-news-2 tag-books tag-ted-conferences tag-tedglobal-2014 has_photo clearfix has-thumbnail not-featured even i-4">
+						<span class="thumb"><img src="http://i2.wp.com/tedconfblog.files.wordpress.com/2014/09/tedglobal-books-feature-redo-2.jpg?resize=75%2C56" alt="Image" /></span>						<div class="text">
+							<a href="http://blog.ted.com/2014/09/22/books-to-get-you-ready-for-tedglobal-2014/" data-slug="books-to-get-you-ready-for-tedglobal-2014" class="post-title">Books to get you ready for TEDGlobal&nbsp;2014</a>
+							<em>September 22, 2014</em>
+						</div>
+					</div>
+					<a href="http://blog.ted.com/tag/tedglobal-2014/">View more &raquo;</a>		</div>
+		<div id="tab-2" class="content ui-tabs-hide">
+										<div class="post-91786 post type-post status-publish format-standard has-post-thumbnail hentry category-education tag-baratunde-thurston tag-education tag-humor tag-mind-blowing tag-stem tag-teachers tag-ted-talks has_photo clearfix has-thumbnail not-featured odd i-5">
+					<span class="thumb"><img src="http://i2.wp.com/tedconfblog.files.wordpress.com/2014/09/favorite_apps.png?resize=75%2C56" alt="Image" /></span>					<div class="text">
+						<a href="http://blog.ted.com/2014/09/19/25-apps-to-make-your-everyday-life-easier/" class="post-title">25+ apps to make your everyday life easier</a>
+						<em>September 19, 2014</em>
+					</div>
+				</div>
+							<div class="post-91786 post type-post status-publish format-standard has-post-thumbnail hentry category-education tag-baratunde-thurston tag-education tag-humor tag-mind-blowing tag-stem tag-teachers tag-ted-talks has_photo clearfix has-thumbnail not-featured even i-6">
+					<span class="thumb"><img src="http://i2.wp.com/tedconfblog.files.wordpress.com/2014/08/2329145805_19bbd999db_o.jpg?resize=75%2C56" alt="Image" /></span>					<div class="text">
+						<a href="http://blog.ted.com/2014/08/11/remembering-robin-williams/" class="post-title">Remembering Robin Williams</a>
+						<em>August 11, 2014</em>
+					</div>
+				</div>
+							<div class="post-91786 post type-post status-publish format-standard has-post-thumbnail hentry category-education tag-baratunde-thurston tag-education tag-humor tag-mind-blowing tag-stem tag-teachers tag-ted-talks has_photo clearfix has-thumbnail not-featured odd i-7">
+					<span class="thumb"><img src="http://i0.wp.com/tedconfblog.files.wordpress.com/2012/10/7460804286_048e7da471_h.jpg?resize=75%2C56" alt="Image" /></span>					<div class="text">
+						<a href="http://blog.ted.com/2012/10/01/10-examples-of-how-power-posing-can-work-to-boost-your-confidence/" class="post-title">Some examples of how power posing can actually boost your confidence </a>
+						<em>October 1, 2012</em>
+					</div>
+				</div>
+							<div class="post-91786 post type-post status-publish format-standard has-post-thumbnail hentry category-education tag-baratunde-thurston tag-education tag-humor tag-mind-blowing tag-stem tag-teachers tag-ted-talks has_photo clearfix has-thumbnail not-featured even i-8">
+					<span class="thumb"><img src="http://i1.wp.com/tedconfblog.files.wordpress.com/2013/12/8506166674_27b6649d38_b.jpeg?resize=75%2C56" alt="Image" /></span>					<div class="text">
+						<a href="http://blog.ted.com/2013/12/16/the-most-popular-20-ted-talks-2013/" class="post-title">The 20 most popular TED Talks, as of this moment</a>
+						<em>December 16, 2013</em>
+					</div>
+				</div>
+							<div class="post-91786 post type-post status-publish format-standard has-post-thumbnail hentry category-education tag-baratunde-thurston tag-education tag-humor tag-mind-blowing tag-stem tag-teachers tag-ted-talks has_photo clearfix has-thumbnail not-featured odd i-9">
+					<span class="thumb"><img src="http://i0.wp.com/tedconfblog.files.wordpress.com/2013/01/blog_learn_to_code_art_rev.jpg?resize=75%2C56" alt="Image" /></span>					<div class="text">
+						<a href="http://blog.ted.com/2013/01/29/10-places-where-anyone-can-learn-to-code/" class="post-title">10 places where anyone can learn to code</a>
+						<em>January 29, 2013</em>
+					</div>
+				</div>
+								</div>
+		<div id="tab-3" class="content ui-tabs-hide">
+									<div class="post-91786 post type-post status-publish format-standard has-post-thumbnail hentry category-education tag-baratunde-thurston tag-education tag-humor tag-mind-blowing tag-stem tag-teachers tag-ted-talks clearfix has-thumbnail not-featured even i-10">
+														<div class="text">
+								<a href="http://blog.ted.com/2007/08/03/100_websites_yo/" class="post-title">100 Websites You Should Know and Use (updated!)</a>
+								<em>August 3, 2007</em>
+							</div>
+						</div>
+												<div class="post-91786 post type-post status-publish format-standard has-post-thumbnail hentry category-education tag-baratunde-thurston tag-education tag-humor tag-mind-blowing tag-stem tag-teachers tag-ted-talks has_photo clearfix has-thumbnail not-featured odd i-11">
+							<span class="thumb"><img src="http://i2.wp.com/tedconfblog.files.wordpress.com/2013/02/language.jpg?resize=75%2C56" alt="Image" /></span>							<div class="text">
+								<a href="http://blog.ted.com/2013/02/19/5-examples-of-how-the-languages-we-speak-can-affect-the-way-we-think/" class="post-title">5 examples of how the languages we speak can affect the way we think</a>
+								<em>February 19, 2013</em>
+							</div>
+						</div>
+												<div class="post-91786 post type-post status-publish format-standard has-post-thumbnail hentry category-education tag-baratunde-thurston tag-education tag-humor tag-mind-blowing tag-stem tag-teachers tag-ted-talks has_photo clearfix has-thumbnail not-featured even i-12">
+							<span class="thumb"><img src="http://i0.wp.com/tedconfblog.files.wordpress.com/2013/01/blog_learn_to_code_art_rev.jpg?resize=75%2C56" alt="Image" /></span>							<div class="text">
+								<a href="http://blog.ted.com/2013/01/29/10-places-where-anyone-can-learn-to-code/" class="post-title">10 places where anyone can learn to code</a>
+								<em>January 29, 2013</em>
+							</div>
+						</div>
+												<div class="post-91786 post type-post status-publish format-standard has-post-thumbnail hentry category-education tag-baratunde-thurston tag-education tag-humor tag-mind-blowing tag-stem tag-teachers tag-ted-talks has_photo clearfix has-thumbnail not-featured odd i-13">
+							<span class="thumb"><img src="http://i1.wp.com/tedconfblog.files.wordpress.com/2013/04/dan-ariely.jpg?resize=75%2C56" alt="Image" /></span>							<div class="text">
+								<a href="http://blog.ted.com/2013/04/10/what-motivates-us-at-work-7-fascinating-studies-that-give-insights/" class="post-title">What motivates us at work? 7 fascinating studies that give insights</a>
+								<em>April 10, 2013</em>
+							</div>
+						</div>
+												<div class="post-91786 post type-post status-publish format-standard has-post-thumbnail hentry category-education tag-baratunde-thurston tag-education tag-humor tag-mind-blowing tag-stem tag-teachers tag-ted-talks has_photo clearfix has-thumbnail not-featured even i-14">
+							<span class="thumb"><img src="http://i2.wp.com/tedconfblog.files.wordpress.com/2014/09/favorite_apps.png?resize=75%2C56" alt="Image" /></span>							<div class="text">
+								<a href="http://blog.ted.com/2014/09/19/25-apps-to-make-your-everyday-life-easier/" class="post-title">25+ apps to make your everyday life easier</a>
+								<em>September 19, 2014</em>
+							</div>
+						</div>
+								</div></div><div id="acm_ad_zones-3" class="widget acm_ad_zones"><!-- DFP bottom 300x250 ad tag -->
+	<script language="JavaScript" type="text/javascript">
+	if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
+	if (typeof(dfp_tile) == 'undefined') dfp_tile=1;
+	document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/tconf.ted/blog;tag=blog;pos=bottom;tile=1;dcopt=ist;pos=bottom;pid=20140916want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers;fold=atf;sz=300x250;ord=' + ord + '?" type="text/javascript"><\/script>');
+	</script><noscript><a href="http://ad.doubleclick.net/adj/tconf.ted/blog;tag=blog;pos=bottom;tile=1;dcopt=ist;pos=bottom;pid=20140916want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers;fold=atf;sz=300x250;ord=?" target="_blank"><img src="http://ad.doubleclick.net/adj/tconf.ted/blog;tag=blog;pos=bottom;tile=1;dcopt=ist;pos=bottom;pid=20140916want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers;fold=atf;sz=300x250;ord=?" width="300" height="250" border="0" alt=""></a></noscript>
+	<!-- //DFP bottom 300x250 tag --></div><div id="widget-newsletter-3" class="widget widget_newsletter"><div class="title">Sign up for TED email updates</div>			<div class="content">
+				<p>New talks released daily. Be the first to know!</p>				<form action="http://www.ted.com/newsletter/signup" method="post" id="newsletter_signup_side" class="newsletter-subscribe">
+					<p class="clearfix">
+						<input type="text" name="newsletterSignup[email_address]" value="" placeholder="Sign up for TED email updates" class="text">
+						<input type="submit" value="Sign Up">
+					</p>
+					<ul class="newsletter-subscribe-options">
+						<li>
+							<input name="newsletterSignup[subscription_list][]" type="checkbox" value="daily" id="side_newsletterSignup_subscription_list_daily" checked="checked">
+							<label for="side_newsletterSignup_subscription_list_daily">Daily</label>
+						</li>
+						<li>
+							<input name="newsletterSignup[subscription_list][]" type="checkbox" value="weekly" id="side_newsletterSignup_subscription_list_weekly">
+							<label for="side_newsletterSignup_subscription_list_weekly">Weekly</label>
+						</li>
+					</ul>
+				</form>
+				<script>jQuery(function ($) { $("#newsletter_signup_side").newsletter() })</script>
+			</div>
+			</div><div id="ted-contributors-2" class="widget widget-contributors"><div class="title">Contributors</div><div class="content clearfix grid-compact">			<a class="contributor" title="Emily McManus" data-title="Emily McManus" data-location="" data-organization="TED" href="http://blog.ted.com/author/emilyted/">
+				<img id="author-image" src="https://img-ssl.tedcdn.com/r/s3.amazonaws.com/ted.conferences.profiles/00/00/01/c1/09/114953.jpg?w=165&#038;h=165&#038;op=%5E&#038;c=165%2C165" />			</a>
+						<a class="contributor" title="Kate Torgovnick May" data-title="Kate Torgovnick May" data-location="" data-organization="TED" href="http://blog.ted.com/author/kateted/">
+				<img id="author-image" src="https://img-ssl.tedcdn.com/r/s3.amazonaws.com/ted.conferences.profiles/00/00/02/86/b4/165556.jpg?w=165&#038;h=165&#038;op=%5E&#038;c=165%2C165" />			</a>
+						<a class="contributor" title="Karen Eng" data-title="Karen Eng" data-location="" data-organization="TED" href="http://blog.ted.com/author/mmechinita/">
+				<img id="author-image" src="http://images.ted.com/images/ted/182709_165x165.jpg" />			</a>
+						<a class="contributor" title="Morton Bast" data-title="Morton Bast" data-location="" data-organization="TED" href="http://blog.ted.com/author/mstarestarb/">
+				<img id="author-image" src="https://img-ssl.tedcdn.com/r/s3.amazonaws.com/ted.conferences.profiles/00/00/02/b7/dd/178141.jpg?w=165&#038;h=165&#038;op=%5E&#038;c=165%2C165" />			</a>
+						<a class="contributor" title="Hailey Reissman" data-title="Hailey Reissman" data-location="" data-organization="TED" href="http://blog.ted.com/author/haileyreissman/">
+				<img id="author-image" src="https://img-ssl.tedcdn.com/r/s3.amazonaws.com/ted.conferences.profiles/00/00/03/91/b3/233907.jpg?w=165&#038;h=165&#038;op=%5E&#038;c=165%2C165" />			</a>
+						<a class="contributor" title="Emilie Soffe" data-title="Emilie Soffe" data-location="" data-organization="" href="http://blog.ted.com/author/emiliested/">
+				<img id="author-image" src="https://img-ssl.tedcdn.com/r/s3.amazonaws.com/ted.conferences.profiles/00/00/03/91/73/233843.jpg?w=165&#038;h=165&#038;op=%5E&#038;c=165%2C165" />			</a>
+						<a class="contributor" title="Natasha Scripture" data-title="Natasha Scripture" data-location="" data-organization="" href="http://blog.ted.com/author/natashaprize/">
+				<img id="author-image" src="https://img-ssl.tedcdn.com/r/s3.amazonaws.com/ted.conferences.profiles/00/00/03/47/a6/214950.jpg?w=165&#038;h=165&#038;op=%5E&#038;c=165%2C165" />			</a>
+						<a class="contributor" title="Nick Weinberg" data-title="Nick Weinberg" data-location="" data-organization="TED" href="http://blog.ted.com/author/nickted/">
+				<img id="author-image" src="https://img-ssl.tedcdn.com/r/s3.amazonaws.com/ted.conferences.profiles/00/00/02/de/df/188127.jpg?w=165&#038;h=165&#038;op=%5E&#038;c=165%2C165" />			</a>
+						<a class="contributor" title="Cloe Shasha" data-title="Cloe Shasha" data-location="" data-organization="TED" href="http://blog.ted.com/author/cloeshasha/">
+				<img id="author-image" src="http://images.ted.com/images/ted/6cc7db58c477aa0abbda9cb7c45252cb44a10799_165x165.jpg" />			</a>
+						<a class="contributor" title="Krystian Aparta" data-title="Krystian Aparta" data-location="" data-organization="TED" href="http://blog.ted.com/author/kaparta/">
+				<img id="author-image" src="https://img-ssl.tedcdn.com/r/s3.amazonaws.com/ted.conferences.profiles/00/00/02/c3/4a/181066.jpg?w=165&#038;h=165&#038;op=%5E&#038;c=165%2C165" />			</a>
+						<a class="contributor" title="Kate Welsh" data-title="Kate Welsh" data-location="" data-organization="TED" href="http://blog.ted.com/author/welsh2013/">
+				<img id="author-image" src="https://img-ssl.tedcdn.com/r/s3.amazonaws.com/ted.conferences.profiles/00/00/02/e8/92/190610.jpg?w=165&#038;h=165&#038;op=%5E&#038;c=165%2C165" />			</a>
+						<a class="contributor" title="Laura McClure" data-title="Laura McClure" data-location="" data-organization="TED" href="http://blog.ted.com/author/lauramcclurehoughton/">
+				<img id="author-image" src="https://img-ssl.tedcdn.com/r/s3.amazonaws.com/ted.conferences.profiles/00/00/03/70/c3/225475.jpg?w=165&#038;h=165&#038;op=%5E&#038;c=165%2C165" />			</a>
+						<a class="contributor" title="Thu-Huong Ha" data-title="Thu-Huong Ha" data-location="" data-organization="TED" href="http://blog.ted.com/author/thuha/">
+				<img id="author-image" src="https://img-ssl.tedcdn.com/r/s3.amazonaws.com/ted.conferences.profiles/00/00/03/8e/06/232966.jpg?w=165&#038;h=165&#038;op=%5E&#038;c=165%2C165" />			</a>
+						<a class="contributor" title="Helen Walters" data-title="Helen Walters" data-location="" data-organization="" href="http://blog.ted.com/author/helenwalters/">
+				<img id="author-image" src="http://images.ted.com/images/ted/d8e3141f370ad3496afdf168be97e8e885c42741_165x165.jpg" />			</a>
+						<a class="contributor" title="June Cohen" data-title="June Cohen" data-location="" data-organization="TED" href="http://blog.ted.com/author/junecohen/">
+				<img id="author-image" src="https://img-ssl.tedcdn.com/r/s3.amazonaws.com/ted.conferences.profiles/00/00/00/8c/fe/36094.jpg?w=165&#038;h=165&#038;op=%5E&#038;c=165%2C165" />			</a>
+						<a class="contributor" title="Chris Anderson" data-title="Chris Anderson" data-location="" data-organization="TED" href="http://blog.ted.com/author/tedchris/">
+				<img id="author-image" src="http://images.ted.com/images/ted/143857_165x165.jpg" />			</a>
+						<a class="contributor" title="Becky Chung" data-title="Becky Chung" data-location="" data-organization="TED" href="http://blog.ted.com/author/iamablecky/">
+				<img id="author-image" src="https://img-ssl.tedcdn.com/r/s3.amazonaws.com/ted.conferences.profiles/00/00/03/62/89/221833.jpg?w=165&#038;h=165&#038;op=%5E&#038;c=165%2C165" />			</a>
+						<a class="contributor" title="Jessica Gross" data-title="Jessica Gross" data-location="" data-organization="" href="http://blog.ted.com/author/jessicargross/">
+				<img id="author-image" src="http://images.ted.com/images/ted/627e12d6683c0929bb59c753bc019434c2f58e7b_165x165.jpg" />			</a>
+						<a class="contributor" title="Elizabeth Jacobs" data-title="Elizabeth Jacobs" data-location="" data-organization="TED" href="http://blog.ted.com/author/lizjacobs/">
+				<img id="author-image" src="https://img-ssl.tedcdn.com/r/s3.amazonaws.com/ted.conferences.profiles/00/00/03/51/7c/217468.jpg?w=165&#038;h=165&#038;op=%5E&#038;c=165%2C165" />			</a>
+						<a class="contributor" title="Ryan Lash" data-title="Ryan Lash" data-location="" data-organization="Ryan Lash Photography" href="http://blog.ted.com/author/ryanlashphotography/">
+				<img id="author-image" src="http://images.ted.com/images/ted/56f11b56c6de936a5c121d02eef0766b7c04191d_165x165.jpg" />			</a>
+					<a href="http://tedconfblog.wordpress.com/contributors/" class="view-all">
+			View all Contributors &raquo;
+		</a>
+		</div></div><div id="nav_menu-4" class="widget widget_nav_menu"><div class="title">Follow TED</div><div class="menu-social-sidebar-container"><ul id="menu-social-sidebar" class="menu"><li id="menu-item-89069" class="soc-facebook soc-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-89069"><a href="http://www.facebook.com/TED">Facebook</a></li>
+<li id="menu-item-89070" class="soc-twitter soc-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-89070"><a href="http://twitter.com/tedtalks">Twitter</a></li>
+<li id="menu-item-89073" class="soc-instagram soc-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-89073"><a href="http://instagram.com/ted">Instagram</a></li>
+<li id="menu-item-89071" class="soc-gplus soc-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-89071"><a href="http://plus.google.com/+TED">Google+</a></li>
+<li id="menu-item-89072" class="soc-pinterest soc-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-89072"><a href="http://www.pinterest.com/tednews">Pinterest</a></li>
+<li id="menu-item-89074" class="soc-youtube soc-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-89074"><a href="http://www.youtube.com/ted">YouTube</a></li>
+<li id="menu-item-89075" class="soc-rss soc-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-89075"><a href="/feed">RSS</a></li>
+<li id="menu-item-89076" class="soc-mail soc-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-89076"><a href="http://feedburner.google.com/fb/a/mailverify?uri=TEDBlog&#038;loc=en_US">Subscribe to TED Blog by email</a></li>
+<li id="menu-item-89077" class="follow-ted menu-item menu-item-type-custom menu-item-object-custom menu-item-89077"><a href="http://www.ted.com/pages/share_ted">Other ways to follow TED</a></li>
+</ul></div></div><div id="widget-archives-3" class="widget widget_archives"><div class="title">Archives</div>			<div class="content">
+								<div class="list clearfix">
+					<a href="/archives/#tags"><span>&raquo;</span> Tags</a>					<a href="/archives/#bymonth"><span>&raquo;</span> By Month</a>					<a href="/archives/#topics"><span>&raquo;</span> Topics</a>					<a href="/archives/#contributors"><span>&raquo;</span> Contributors</a>				</div>
+				<a href="/archives/">View the full Archive &raquo;</a>
+			</div>
+		</div>
+									</div>		
+			<!-- WPCOM Related Posts -->
+	<div id="related-posts">
+		<div class="related-title meta-title">Related Stories</div>
+		<div class="related-list clearfix">
+			
+				
+<article id="post-91503" class="post-91503 post type-post status-publish format-standard has-post-thumbnail hentry category-education category-impact-of-ideas-2 tag-back-to-school tag-books tag-class tag-classroom tag-high-school tag-impact-of-ideas tag-madame-bovary tag-teachers tag-ted-talks has-thumbnail not-featured odd i-15 clearfix" role="article">
+
+			<a href="http://blog.ted.com/2014/08/26/how-teachers-can-best-use-ted-talks-in-class-from-the-perspective-of-a-student/" data-slug="how-teachers-can-best-use-ted-talks-in-class-from-the-perspective-of-a-student" class="post-thumbnail">
+			<img src='http://i1.wp.com/tedconfblog.files.wordpress.com/2014/08/ted-in-the-classroom.jpg?resize=283%2C212' width='283' height='212' alt='How teachers can best use TED Talks in class, from the perspective of a&nbsp;student' />		</a>
+		
+			<h4>
+			<a class="category" href="http://blog.ted.com/category/education/" data-slug="education" >
+				Education			</a>
+		</h4>
+	
+	<h2 class="post-title">
+		<a href="http://blog.ted.com/2014/08/26/how-teachers-can-best-use-ted-talks-in-class-from-the-perspective-of-a-student/" data-slug="how-teachers-can-best-use-ted-talks-in-class-from-the-perspective-of-a-student">
+			How teachers can best use TED Talks in class, from the perspective of a&nbsp;student		</a>
+	</h2>
+
+	<div class="meta">
+		<div class="meta__author">
+			<span>By</span>
+			<a href="http://blog.ted.com/author/tedblogguest/">
+				TED Guest Author			</a>
+		</div>
+		<div class="meta__date">
+			<span>on</span>
+			<time datetime="2014-08-26" pubdate >
+				Aug 26, 2014			</time>
+		</div>
+	</div>
+
+	<div class="excerpt">
+		<p>By Olivia Cucinotta My high school English class had just finished reading Madame Bovary, and we were all confused. (For those of you who have not read it, please skip to paragraph two. Spoiler alert!) Emma Bovary, a listless housewife in search of the passionate love she’s read about in books, has many sordid affairs, <a class="read-more" title="Read more" href="http://blog.ted.com/2014/08/26/how-teachers-can-best-use-ted-talks-in-class-from-the-perspective-of-a-student/">[<span>&hellip;</span>]</a></p>
+	</div>
+
+</article>
+			
+				
+<article id="post-88521" class="post-88521 post type-post status-publish format-standard has-post-thumbnail hentry category-live-from-ted2014 tag-education tag-everfi tag-learning-loss tag-live-from-ted2014 tag-ted2014 has-thumbnail not-featured even i-16 clearfix" role="article">
+
+			<a href="http://blog.ted.com/2014/03/20/how-to-combat-summer-learning-loss-everfi-announces-product-that-may-help/" data-slug="how-to-combat-summer-learning-loss-everfi-announces-product-that-may-help" class="post-thumbnail">
+			<img src='http://i2.wp.com/tedconfblog.files.wordpress.com/2014/03/everfi-image.jpg?resize=283%2C212' width='283' height='212' alt='When school&#8217;s out, reading scores go down. Can we fight summer learning&nbsp;loss?' />		</a>
+		
+			<h4>
+			<a class="category" href="http://blog.ted.com/category/live-from-ted2014/" data-slug="live-from-ted2014" >
+				Live from TED2014			</a>
+		</h4>
+	
+	<h2 class="post-title">
+		<a href="http://blog.ted.com/2014/03/20/how-to-combat-summer-learning-loss-everfi-announces-product-that-may-help/" data-slug="how-to-combat-summer-learning-loss-everfi-announces-product-that-may-help">
+			When school&#8217;s out, reading scores go down. Can we fight summer learning&nbsp;loss?		</a>
+	</h2>
+
+	<div class="meta">
+		<div class="meta__author">
+			<span>By</span>
+			<a href="http://blog.ted.com/author/tedstaff/">
+				Tedstaff			</a>
+		</div>
+		<div class="meta__date">
+			<span>on</span>
+			<time datetime="2014-03-20" pubdate >
+				Mar 20, 2014			</time>
+		</div>
+	</div>
+
+	<div class="excerpt">
+		<p>By Janet Lee In Geoffrey Canada’s impassioned TED Talk last year, he urged the American education system to update its business model to integrate more science and technology into the curriculum, particularly for lower-income communities. One study that especially troubled Canada showed that lower income students are more prone to losing the knowledge they’ve acquired <a class="read-more" title="Read more" href="http://blog.ted.com/2014/03/20/how-to-combat-summer-learning-loss-everfi-announces-product-that-may-help/">[<span>&hellip;</span>]</a></p>
+	</div>
+
+</article>
+					</div>
+	</div>
+	
+	</div> <!-- #inner-content -->
+</div> <!-- #content -->
+
+
+	<div class="comments-wrapper">
+		<div class="container">
+				
+
+<div id="discussion">
+	<h3>Comments (7)</h3>
+			<p class="signin signed-out">
+			<a href="http://www.ted.com/users/signin">Sign in to add comments</a>
+			or <a href="http://www.ted.com/pages/view/id/114">Join (It's free and fast!)</a>
+		</p>
+		<div id="comments">
+		<div class="comments-pagination clearfix">
+					</div>
+		<ul id="commentList" class="l-0">
+						<li class="comment byuser comment-author-abteach102 even thread-even depth-1" id="li-comment-72114">
+				<div id="comment-72114" class="comment clearfix">
+					<a href="http://www.ted.com/profiles/" class="photo" target="_blank"><img src="http://0.gravatar.com/avatar/3ac50397c7389cb37c03b3d0881a42bd" width="58" height="58" /></a>					<div class="comment-header">
+						<h4 id="h-72114"><a href="http://www.ted.com/profiles/" target="_blank"></a> <span class="date">commented on Sep 21 2014</span> </h4>
+					</div>
+					<div id="p-72114" class="comment-body">
+						<span id="t_72114"><p>Reblogged this on <a href="http://abteach.wordpress.com/2014/09/21/want-even-more-mind-blowing-ted-talks-lets-get-more-stem-teachers-in-the-classroom-starting-with-you/" rel="nofollow">abteach</a> and commented:<br />
+Yes!</p>
+</span>
+					</div>
+				</div>
+			</li><!-- #comment-## -->
+			<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-71465">
+				<div id="comment-71465" class="comment clearfix">
+					<a href="http://www.ted.com/profiles/3271031" class="photo" target="_blank"><img src="http://ted.com"class="left" width="58" height="58"></a>					<div class="comment-header">
+						<h4 id="h-71465"><a href="http://www.ted.com/profiles/3271031" target="_blank">PlanetInnovation Prashanth</a> <span class="date">commented on Sep 17 2014</span> </h4>
+					</div>
+					<div id="p-71465" class="comment-body">
+						<span id="t_71465"><p>Web Hosting in Rajahmundry&amp; Domain Name Registration Rajahmundry, Hosting Services Rajahmundry,Cheap Domain Registration Rajahmundry, Windows &amp; Linux Web Hosting Rajahmundry, Email Hosting Rajahmundry, RajahmundryWeb Hosting Company. For details contact <a href="http://onl9shoppy.com/" rel="nofollow">http://onl9shoppy.com/</a></p>
+</span>
+					</div>
+				</div>
+			</li><!-- #comment-## -->
+			<li class="comment even thread-even depth-1" id="li-comment-71454">
+				<div id="comment-71454" class="comment clearfix">
+					<a href="http://www.ted.com/profiles/" class="photo" target="_blank"><img src="http://2.gravatar.com/avatar/b58749a71eb0a386012336e49dc4334a" width="58" height="58" /></a>					<div class="comment-header">
+						<h4 id="h-71454"><a href="http://www.ted.com/profiles/" target="_blank">Macrocompassion</a> <span class="date">commented on Sep 17 2014</span> </h4>
+					</div>
+					<div id="p-71454" class="comment-body">
+						<span id="t_71454"><p>First one needs to get to the minds before they become blown. That&#8217;s not so easy because many people would prefer not to think and consequently their minds have very little access.</p>
+</span>
+					</div>
+				</div>
+			</li><!-- #comment-## -->
+			<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-71433">
+				<div id="comment-71433" class="comment clearfix">
+					<a href="http://www.ted.com/profiles/3326145" class="photo" target="_blank"><img src="http://ted.com"class="left" width="58" height="58"></a>					<div class="comment-header">
+						<h4 id="h-71433"><a href="http://www.ted.com/profiles/3326145" target="_blank">Ivone Rosete</a> <span class="date">commented on Sep 17 2014</span> </h4>
+					</div>
+					<div id="p-71433" class="comment-body">
+						<span id="t_71433"><p>Thank you very much, it is very interesting</p>
+</span>
+					</div>
+				</div>
+			</li><!-- #comment-## -->
+			<li class="comment byuser comment-author-stephendeloney even thread-even depth-1" id="li-comment-71359">
+				<div id="comment-71359" class="comment clearfix">
+					<a href="http://www.ted.com/profiles/" class="photo" target="_blank"><img src="http://2.gravatar.com/avatar/666ef0c0de2e0d8572b0456ce7e8cd94" width="58" height="58" /></a>					<div class="comment-header">
+						<h4 id="h-71359"><a href="http://www.ted.com/profiles/" target="_blank"></a> <span class="date">commented on Sep 16 2014</span> </h4>
+					</div>
+					<div id="p-71359" class="comment-body">
+						<span id="t_71359"><p>Reblogged this on <a href="http://mccplblog.wordpress.com/2014/09/16/want-even-more-mind-blowing-ted-talks-lets-get-more-stem-teachers-in-the-classroom-starting-with-you/" rel="nofollow">Montgomery City-County Public Library</a>.</p>
+</span>
+					</div>
+				</div>
+			</li><!-- #comment-## -->
+			<li class="comment byuser comment-author-avixenatgloaming odd alt thread-odd thread-alt depth-1" id="li-comment-71345">
+				<div id="comment-71345" class="comment clearfix">
+					<a href="http://www.ted.com/profiles/" class="photo" target="_blank"></a>					<div class="comment-header">
+						<h4 id="h-71345"><a href="http://www.ted.com/profiles/" target="_blank"></a> <span class="date">commented on Sep 16 2014</span> </h4>
+					</div>
+					<div id="p-71345" class="comment-body">
+						<span id="t_71345"><p>Reblogged this on <a href="http://themusebag.wordpress.com/2014/09/16/want-even-more-mind-blowing-ted-talks-lets-get-more-stem-teachers-in-the-classroom-starting-with-you/" rel="nofollow">A Vixen at Gloaming</a> and commented:<br />
+Seems like a thing that everyone should see.</p>
+</span>
+					</div>
+				</div>
+			<ul class="children">
+			<li class="comment even depth-2" id="li-comment-71355">
+				<div id="comment-71355" class="comment clearfix">
+					<a href="http://www.ted.com/profiles/1611867" class="photo" target="_blank"><img src="https://img-ssl.tedcdn.com/r/s3.amazonaws.com/ted.conferences.profiles/00/00/02/c1/90/180624.jpg?w=50&#038;h=50&#038;op=%5E&#038;c=50%2C50"class="left" width="58" height="58"></a>					<div class="comment-header">
+						<h4 id="h-71355"><a href="http://www.ted.com/profiles/1611867" target="_blank">Baratunde Thurston</a> <span class="date">commented on Sep 16 2014</span> </h4>
+					</div>
+					<div id="p-71355" class="comment-body">
+						<span id="t_71355"><p>Thank you!!</p>
+</span>
+					</div>
+				</div>
+			</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		</ul>
+		<div class="comments-pagination clearfix">
+					</div>
+	</div>
+</div>		</div>
+	</div>
+	
+
+	
+<script type='text/javascript'>
+								var _gaq = _gaq || [];
+								_gaq.push(['_setAccount', 'UA-40781755-2']);
+_gaq.push(['_trackPageview']);
+
+								(function() {
+									var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+									ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+									var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+								})();
+							</script>
+		</div> <!-- end #container -->
+
+		<footer class="footer">
+			
+			
+					<div class="container">
+	<div class="footer__content">
+		<a class="g-logo-small footer__logo" title="TED.com" class="footer-logo" href="http://www.ted.com">TED</a>
+	
+		<div class="menu-footer-primary-container"><ul id="menu-footer-primary" class="menu"><li id="menu-item-89078" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-89078"><a href="#">Programs &amp; initiatives</a>
+<ul class="sub-menu">
+	<li id="menu-item-89079" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89079"><a href="http://www.ted.com/about/programs-initiatives/tedx-program">TEDx</a></li>
+	<li id="menu-item-89080" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89080"><a href="http://www.ted.com/about/programs-initiatives/ted-prize">TED Prize</a></li>
+	<li id="menu-item-89081" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89081"><a href="http://www.ted.com/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+	<li id="menu-item-89082" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89082"><a href="http://www.ted.com/about/programs-initiatives/ted-ed">TED-Ed</a></li>
+	<li id="menu-item-89083" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89083"><a href="http://www.ted.com/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+	<li id="menu-item-89084" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89084"><a href="http://www.ted.com/about/programs-initiatives/ted-books">TED Books</a></li>
+	<li id="menu-item-89085" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89085"><a href="http://www.ted.com/about/programs-initiatives/ted-institute">TED Institute</a></li>
+	<li id="menu-item-89086" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89086"><a href="http://www.ted.com/about/programs-initiatives/ads-worth-spreading">Ads Worth Spreading</a></li>
+</ul>
+</li>
+<li id="menu-item-89087" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-89087"><a href="#">Ways to get TED</a>
+<ul class="sub-menu">
+	<li id="menu-item-89088" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89088"><a href="//www.npr.org/programs/ted-radio-hour/">TED Radio Hour on NPR</a></li>
+	<li id="menu-item-89089" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89089"><a href="//www.ted.com/promos/TEDTalksEducation">TED TV programs</a></li>
+	<li id="menu-item-89090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89090"><a href="//dvd.ted.com">Order a DVD</a></li>
+	<li id="menu-item-89091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89091"><a href="http://www.ted.com/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+	<li id="menu-item-89092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89092"><a href="//developer.ted.com">For developers / API</a></li>
+</ul>
+</li>
+<li id="menu-item-89093" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-89093"><a href="http://www.ted.com/pages/share_ted">Follow TED</a>
+<ul class="sub-menu">
+	<li id="menu-item-89094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89094"><a href="//www.facebook.com/TED">Facebook</a></li>
+	<li id="menu-item-89095" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89095"><a href="//twitter.com/tedtalks">Twitter</a></li>
+	<li id="menu-item-89096" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89096"><a href="//plus.google.com/+TED">Google+</a></li>
+	<li id="menu-item-89097" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89097"><a href="//www.pinterest.com/tednews">Pinterest</a></li>
+	<li id="menu-item-89098" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89098"><a href="//instagram.com/ted">Instagram</a></li>
+	<li id="menu-item-89099" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89099"><a href="//www.youtube.com/ted">YouTube</a></li>
+	<li id="menu-item-89100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89100"><a href="//blog.ted.com">TED Blog</a></li>
+</ul>
+</li>
+<li id="menu-item-89101" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-89101"><a href="#">Our community</a>
+<ul class="sub-menu">
+	<li id="menu-item-89102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89102"><a href="http://www.ted.com/people/speakers">TED Speakers</a></li>
+	<li id="menu-item-89103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89103"><a href="http://www.ted.com/people/fellows">TED Fellows</a></li>
+	<li id="menu-item-89104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89104"><a href="http://www.ted.com/people/translators">TED Translators</a></li>
+	<li id="menu-item-89105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89105"><a href="http://www.ted.com/people/tedx">TEDx Organizers</a></li>
+	<li id="menu-item-89106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89106"><a href="http://www.ted.com/people">TED.com member profiles</a></li>
+</ul>
+</li>
+</ul></div>
+		<div class="footer__content__forms">
+			<form action="http://www.ted.com/newsletter/signup" method="post" id="newsletter-signup" class="footer__section footer__section--form footer-newsletter">
+				
+				<h3 class="footer__title">Sign up for TED email updates</h3>
+
+				<div id="newsletter-signup-details">
+					<p>Sign up for our daily or weekly emails to receive
+					notifications whenever new talks are published.</p>
+
+					<ul class="footer-newsletter__options">
+						<li class="footer-newsletter__option">
+							<input name="newsletterSignup[subscription_list][]" type="checkbox" value="daily" id="newsletterSignup_subscription_list_daily" checked="checked">
+							<label for="newsletterSignup_subscription_list_daily">Daily</label>
+						</li>
+						<li class="footer-newsletter__option">
+							<input name="newsletterSignup[subscription_list][]" type="checkbox" value="weekly" id="newsletterSignup_subscription_list_weekly">
+							<label for="newsletterSignup_subscription_list_weekly">Weekly</label>
+						</li>
+					</ul>
+
+					<div class="form-group">
+						<input type="text" id="newsletter-signup-email" name="newsletterSignup[email_address]" value="" placeholder="Sign up for TED email updates" class="form-control">
+					</div>
+					<input type="submit" value="Sign Up" class="footer-subscribe-submit button">
+					
+				</div>
+			</form>
+		</div>
+
+	</div>
+
+</div>
+
+<div class="footer__additional">
+	<div class="container">
+		<div class="footer__content">
+			<div class="footer__content__copy">
+				<p>
+											<span class="attribution">Powered by <a href="http://vip.wordpress.com/" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></span>
+									</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="footer__services">
+		<div class="container footer__services__container"><ul id="menu-footer-secondary" class="menu footer__links"><li id="menu-item-89051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89051"><a href="http://ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li id="menu-item-89052" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89052"><a href="http://ted.com/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li id="menu-item-89053" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89053"><a href="//partners.ted.com">Advertising / Partnership</a></li>
+<li id="menu-item-89054" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89054"><a href="http://www.ted.com/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li id="menu-item-89055" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89055"><a href="http://ted.com/contact">Contact</a></li>
+<li id="menu-item-89056" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89056"><a href="http://ted.com/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li id="menu-item-89057" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89057"><a href="http://www.ted.com/about/our-organization/who-we-are">Staff</a></li>
+<li id="menu-item-89058" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89058"><a href="http://www.ted.com/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li id="menu-item-89059" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89059"><a href="http://support.ted.com/">Help</a></li>
+</ul><p class="footer__service footer__service--info">&copy; TED Conferences, LLC</p></div></div>
+			
+		</footer>
+
+		<script type="text/javascript">
+	if(undefined !== window.jQuery) {
+		var post_slug = 'want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers';
+	}
+</script>
+	<div style="display:none">
+	</div>
+
+	<div id="bit" class="loggedout-follow-normal">
+		<a class="bsub" href="javascript:void(0)"><span id='bsub-text'>Follow</span></a>
+		<div id="bitsubscribe">
+
+					<h3><label for="loggedout-follow-field">Follow &ldquo;TED Blog&rdquo;</label></h3>
+
+			<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="loggedout-follow">
+			<p>Get every new post delivered to your Inbox.</p>
+
+			<p id="loggedout-follow-error" style="display: none;"></p>
+
+						<p class="bit-follow-count">Join 55,937 other followers</p>
+			<p><input type="email" name="email" value="Enter your email address" onfocus='this.value=(this.value=="Enter your email address") ? "" : this.value;' onblur='this.value=(this.value=="") ? "Enter email address" : this.value;'  id="loggedout-follow-field"/></p>
+
+			<input type="hidden" name="action" value="subscribe"/>
+			<input type="hidden" name="blog_id" value="14795620"/>
+			<input type="hidden" name="source" value="http://blog.ted.com/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/"/>
+			<input type="hidden" name="sub-type" value="loggedout-follow"/>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="d4c628c0e1" /><input type="hidden" name="_wp_http_referer" value="/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/" />
+			<p id='bsub-subscribe-button'><input type="submit" value="Sign me up" /></p>
+			</form>
+					<div id='bsub-credit'><a href="https://wordpress.com/?ref=lof">Powered by WordPress.com</a></div>
+		</div><!-- #bitsubscribe -->
+	</div><!-- #bit -->
+
+	<script type="text/javascript">
+		WPCOM_sharing_counts = {"http:\/\/blog.ted.com\/2014\/09\/16\/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers\/":91786}	</script>
+		<script type="text/javascript">
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-linkedin' ).on( 'click', function() {
+				window.open( jQuery(this).attr( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+				return false;
+			});
+		});
+		</script>
+			<div id="sharing_email" style="display: none;">
+		<form action="/2014/09/16/want-more-mind-blowing-ted-talks-lets-get-more-stem-teachers/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+			
+			<div class="recaptcha" id="sharing_recaptcha"></div><input type="hidden" name="recaptcha_public_key" id="recaptcha_public_key" value="6LcYW8MSAAAAADBAuEH9yaPcF7lWh11Iq62ZKtoo" />
+			<img style="float: right; display: none" class="loading" src="http://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif?m=1315610318g" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+					<script type="text/javascript">
+			jQuery(document).on('ready', function(){
+				jQuery('body').on('click', 'a.share-pinterest', function(e){
+					e.preventDefault();
+
+					// Load Pinterest Bookmarklet code
+					var s = document.createElement("script");
+					s.type = "text/javascript";
+					s.src = window.location.protocol + "//assets.pinterest.com/js/pinmarklet.js?r=" + ( Math.random() * 99999999 );
+					var x = document.getElementsByTagName("script")[0];
+					x.parentNode.insertBefore(s, x);
+
+					// Trigger Stats
+					var s = document.createElement("script");
+					s.type = "text/javascript";
+					s.src = this + ( this.toString().indexOf( '?' ) ? '&' : '?' ) + 'js_only=1';
+					var x = document.getElementsByTagName("script")[0];
+					x.parentNode.insertBefore(s, x);
+				});
+			});
+			</script>
+				<script type="text/javascript">
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-tumblr' ).on( 'click', function() {
+				window.open( jQuery(this).attr( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s1.wp.com/_static/??/wp-content/js/devicepx.js,/wp-content/mu-plugins/2-vip/js/vip-analytics.js?m=1411795912j'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/spin.js/1.3.3/spin.min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tedUser = {"isLoggedIn":"","avatar":null};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var recaptcha_options = {"lang":"en"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s0.wp.com/_static/??-eJyVkW0LgkAMgP9Q51KjPkW/xe6WTe7N207x3yeIERGkMLYvz7MXBmNUOnhBLyBPdMgwUARBUx3LCjpWw5z7jGkqHiQDGS46PsAWjXWiKG+evLbZzGTHoINzs6sSRjsVjvympusiJsgS2yxL97faC8Xd8zyObFEE069bFggyrXimQoeEn2P+8SOZFmWPIc2dtx/y9YoVdllFm1vyDDGwqIdtKAE/m0S+Xess3dy1PJVVfa7q46V7AYmszQs='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?23" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({'blog':'14795620','v':'wpcom','tz':'-4','user_id':'0','post':'91786','subd':'tedconfblog'});
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=14795620&v=wpcomvt&tz=-4&user_id=0&post=91786&subd=tedconfblog&rand="+Math.random();}
+ex_go({'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTdsV3ZaRV9vb3cudi1YWkV6K3dodU0lJWRpUnZNUlcmaXl3PVNUNF1FV0ZMc0hsRXd2RGJ4VVt+VltoUFlFZXZidmtPX2VBWE1EUHBOX2d2ZDhFfmhsVi1FbjBSdlBrU3JHcHlYQ3pScmZ1PWZZNGZadlhBSTYtbGVVOHQ/P1N1eUtxN049dSZZNDlCVU5HME8sd2RVUVtPZl1lQkF6UVl5X1J3cnNkZFhia0ouazBpVyVoUD9ZWUdBLFZyK3Y2SjNi'});
+addLoadEvent(function(){linktracker_init('14795620',91786);});
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>		<script type="text/javascript">//<![CDATA[
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-170299-1']);
+		  _gaq.push(['_setDomainName', '.ted.com']);
+		  _gaq.push(['_trackPageview']);
+		  (function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		//]]></script>
+	</body>
+
+</html>

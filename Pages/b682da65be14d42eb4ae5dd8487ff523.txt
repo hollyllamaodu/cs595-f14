@@ -1,0 +1,1405 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]--><head><script>
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+</script>
+<title>TED Radio Hour : NPR</title><meta charset="utf-8" /><!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]--><meta name="robots" content="noarchive,index,follow" /><meta name="Rating" content="General" /><meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" /><!--[if lt IE 9]><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" /><![endif]-->
+<!--dontvalidate-->
+<meta name="date" content="2014-10-03" />
+<!--/dontvalidate-->
+<link rel="canonical" href="http://www.npr.org/programs/ted-radio-hour/351538855/the-source-of-creativity" /><meta name="description" content="We want to be creative but channeling our creative impulses is no small feat. Is creativity something we are born with or can we learn it? In this hour, TED speakers examine the mystery of creativity." /><link rel="alternate" type="application/rss+xml" title="Arts &amp; Life" href="/rss/rss.php?id=1008" /><link rel="alternate" type="application/rss+xml" title="TED Radio Hour" href="/rss/rss.php?id=57" /><meta property="og:title" content="The Source Of Creativity " /><meta property="og:url" content="http://www.npr.org/programs/ted-radio-hour/351538855/the-source-of-creativity" /><meta property="og:type" content="article" /><meta property="og:description" content="We want to be creative but channeling our creative impulses is no small feat. Is creativity something we are born with or can we learn it? In this hour, TED speakers examine the mystery of creativity." /><meta property="og:image" content="http://media.npr.org/assets/img/2014/09/30/trh_creativity_artwork_option_04-45c58f2ee42fa24c2980feaa3bede195caccabe0.jpg" /><meta property="og:site_name" content="NPR.org" /><meta property="fb:app_id" content="138837436154588" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="@nprnews" /><meta name="twitter:domain" content="npr.org" /><meta name="twitter:image:src" content="http://media.npr.org/assets/img/2014/09/30/trh_creativity_artwork_option_04_wide-28a15d5d695bc709e4a13c6e6e258b8fe33a6e40-s4-c85.jpg" /><link type="text/css" rel="stylesheet" media="screen, print" href="http://s.npr.org/templates/css/generated/fingerprint/programs-744e9bbe58c0455437f912f4ede6d7d6d312b735.css" /><link type="text/css" rel="stylesheet" media="screen" href="http://www.npr.org/branding/programs/ted-radio-hour/branding.css" /><link type="text/css" rel="stylesheet" media="screen" href="http://www.npr.org/include/overridecss/theme57.css" /><script>
+   window.NPR={};window.NPR.serverVars={"storyId":"351538855","serverType":"prod","programId":57,"facebookAppId":"138837436154588","closeurl":"http:\/\/www.npr.org\/templates\/socialmedia\/close.html","sessionScope":2,"pageScope":3,"breadcrumbs":["TED Radio Hour"],"primaryTopic":1008,"orgId":"1","topics":[1008,57,1130,1129,1128,1105,1059,1047,1046,1033,1022,1013,1004],"pageTypeId":32,"internalCampaign":null,"campaignSource":null,"campaignName":null,"aggregations":[1008,57,1130,1129,1128,1105,1059,1047,1046,1033,1022,1013,1004],"aggregationsText":["Arts \u0026 Life","TED Radio Hour","Brain Candy","Humans","Health","Music Interviews","Analysis","Art \u0026 Design","Performing Arts","Author Interviews","Interviews","Education","World"],"chartbeatAccount":"18888"};
+</script>
+<script type="text/javascript" src="http://s.npr.org/templates/javascript/generated/fingerprint/fonts-d1815189294aa9ca3800a0638cebb10342103209.js">
+   </script>
+<script type="text/javascript" src="http://s.npr.org/templates/javascript/generated/fingerprint/headerAllPages-67072c80965fe401d347f9d03aca79a48b37f71b.js">
+   </script>
+<script type="text/javascript">
+   document.domain="npr.org";
+</script>
+
+<!-- START UNDERWRITING -->
+<script type="text/javascript">
+   
+googletag.cmd.push(function(){try{if(DFP.shouldRenderForDevice('desktop')){googletag.defineSlot("/6735/n6735.NPR/Arts___Life",[300,250],'ad-desktop').addService(googletag.pubads());}
+if(DFP.shouldRenderForDevice('banner')){googletag.defineSlot("/6735/n6735.NPR/Arts___Life",[175,40],'ad-banner').addService(googletag.pubads());}
+googletag.pubads().setTargeting('program','TED_Radio_Hour');googletag.pubads().setTargeting('theme','57');googletag.pubads().setTargeting('storyId','351538855');var deviceString='';var ua=navigator.userAgent.toLowerCase();if(ua.indexOf("android")>-1){googletag.pubads().setTargeting('device','android');}
+else if(ua.match(/(iPad|iPhone|iPod)/i)){googletag.pubads().setTargeting('device','ios');}
+if(typeof DFP.queryParameters.sc==='string'&&DFP.queryParameters.sc.length>0){scValue=DFP.queryParameters.sc;}
+else if(typeof document.referrer==='string'&&document.referrer.search('facebook.com')>-1){scValue='fb';}
+else if(typeof DFP.queryParameters.ft==='string'){scValue=DFP.queryParameters.ft;}
+googletag.pubads().setTargeting('sc',scValue);var utm_source=typeof DFP.queryParameters.utm_source==='string'&&DFP.queryParameters.utm_source.length>0?DFP.queryParameters.utm_source:'';var utm_medium=typeof DFP.queryParameters.utm_medium==='string'&&DFP.queryParameters.utm_medium.length>0?DFP.queryParameters.utm_medium:'';googletag.pubads().setTargeting('utm_source',utm_source);googletag.pubads().setTargeting('utm_medium',utm_medium);var orient='';if(NPR.Devices.isOnPhone()||NPR.Devices.isOnTablet()){if(window.orientation==0||window.orientation==180){orient='portrait';}else if(window.orientation==90||window.orientation==-90){orient='landscape';}}
+googletag.pubads().setTargeting('orient',orient);googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();googletag.enableServices();}catch(e){NPR.messaging.exception(e,'Define Google Publisher Tags',NPR.messaging.constants.SPONSORSHIP_ERROR);}});
+</script>
+
+<!-- END UNDERWRITING -->
+</head><body id="news" class="news program tmplProgramEpisode  id351538855" data-metrics-scroll ><a href="#mainContent" id="skiplink">Skip to Main Content</a><script type="text/javascript">var pageTrackingCPTV=function(){try{AddNamespace("NPR.metrics");NPR.metrics.pageImpression();}catch(e){NPR.messaging.exception(e,'commonPageTrackView','document.ready',NPR.messaging.constants.METRICS_ERROR);}};if($('docreadybind').length){$('docreadybind').bind('click',pageTrackingCPTV);}else{$(document).ready(pageTrackingCPTV);}</script><header id="globalheader" class="clearfix"><a class="sidebarButton" href="#sidebar" data-action="Toggle OffCanvas" data-metrics='{"action":"Toggle OffCanvas","category":"Global Navigation"}'>
+    <img src="http://media.npr.org/chrome/subnav_toggle.png" alt="subnav toggle" />
+</a>
+
+<a href="/" class="nprhome" data-action="Click Logo" data-metrics='{"action":"Click Header Logo", "category":"Global Navigation"}'>
+    <img src="http://media.npr.org/chrome/news/nprlogo_138x46.gif" alt="NPR" />
+</a>
+
+<div class="inner" data-metrics-category="Global Navigation">
+    <form action="/search/index.php" method="get" name="searchForm" id="searchForm" class="search">
+    	<input type="search" name="searchinput" id="searchinput" class="textbox searchbox">
+    </form>
+
+    <a href="#" class="search-toggle">Toggle search</a>
+
+    <nav class="nav-two" id="loginPElm">
+        <ul>
+            <li class="stations"><a href="/templates/stations/stations/" data-metrics='{"action":"Click Business Link"}' data-reveal-id="myModal">Stations</a></li>
+            <li class="donate"><a href="/stations/donate/index.php" data-metrics='{"action":"Click Business Link"}'>Donate</a></li>
+            <li class="nprshop"><a href="http://shop.npr.org" data-metrics='{"action":"Click Business Link"}'>Shop</a></li>
+            <li class="login-reg loggedOut"><a href="/templates/reg/login.php" data-metrics='{"action":"Click Profile Link","label":"Login / Register"}'>Sign In/Register</a></li>
+            <span class="loggedIn">
+	            <li class="userLogin" ><span id="userLogin"></span></li>
+	            <li class="login-reg"><a href="/templates/reg/logout.php" class="logout" data-metrics='{"action":"Click Profile Link","label":"Logout"}'>Logout</a></li>
+            </span>
+        </ul>
+    </nav>
+
+    <nav class="nav-one">
+        <ul>
+            <li class="topics">
+                Topics
+
+                <div class="subnav" data-metrics-action="Click Topics" data-metrics-all>
+                    <ul class="news">
+                        <li class="hdr"><a href="/sections/news/">News</a></li>
+                        <li><a href="/sections/us/">U.S.</a></li>
+                        <li><a href="/sections/world/">World</a></li>
+                        <li><a href="/sections/politics/">Politics</a></li>
+                        <li><a href="/sections/business/">Business</a></li>
+                        <li><a href="/sections/technology/">Technology</a></li>
+                        <li><a href="/sections/science/">Science</a></li>
+                        <li><a href="/sections/health/">Health</a></li>
+                        <li><a href="/blogs/codeswitch/">Race &amp; Culture</a></li>
+                    </ul>
+                     <ul class="arts-life">
+                        <li class="hdr"><a href="/sections/arts/">Arts &amp; Life</a></li>
+                        <li><a href="/sections/movies/">Movies</a></li>
+                        <li><a href="/sections/pop-culture/">Pop Culture</a></li>
+                        <li><a href="/sections/food/">Food</a></li>
+                        <li><a href="/sections/art-design/">Art &amp; Design</a></li>
+                        <li><a href="/sections/performing-arts/">Performing Arts</a></li>
+                        <li><a href="/blogs/pictureshow">Photography</a></li>
+                    </ul>
+                    <ul class="books">
+                        <li class="hdr"><a href="/books/">Books</a></li>
+                        <li><a href="/sections/book-reviews/">Book Reviews</a></li>
+                        <li><a href="/sections/author-interviews/">Author Interviews</a></li>
+                    </ul>
+                    <ul class="music">
+                        <li class="hdr"><a href="/music/">Music</a></li>
+                        <li><a href="/series/98679384/first-listen/">First Listen</a></li>
+                        <li><a href="/series/100920965/music-articles/">Music Articles</a></li>
+                        <li><a href="/series/15667984/favorite-sessions/">Studio Sessions</a></li>
+                        <li><a href="/sections/music-videos/">Videos</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="programs">
+                Programs
+
+                 <div class="subnav" data-metrics-action="Click Programs" data-metrics-all>
+                     <ul>
+                        <li class="hdr">News and Conversations</li>
+                        <li><a href="/programs/morning-edition/">Morning Edition</a></li>
+                        <li><a href="/programs/all-things-considered/">All Things Considered</a></li>
+                        <li><a href="/programs/fresh-air/">Fresh Air</a></li>
+                        <li><a href="http://hereandnow.wbur.org/" target="_blank">Here &amp; Now</a></li>
+                        <li><a href="http://thedianerehmshow.org" target="_blank">The Diane Rehm Show</a></li>
+                        <li><a href="/programs/latino-usa/">Latino USA</a></li>
+                        <li><a href="http://www.onthemedia.org" target="_blank">On The Media</a></li>
+                        <li><a href="http://www.onpointradio.org/" target="_blank">On Point</a></li>
+                        <li><a href="/programs/weekend-edition-saturday/">Weekend Edition Saturday</a></li>
+                        <li><a href="/programs/weekend-edition-sunday/">Weekend Edition Sunday</a></li>
+                     </ul>
+
+                     <ul>
+                        <li class="hdr">Storytelling &amp; Humor</li>
+                        <li><a href="/programs/ask-me-another/">Ask Me Another</a></li>
+                        <li><a href="http://www.cartalk.com" target="_blank">Car Talk</a></li>
+                        <li><a href="http://www.radiolab.org" target="_blank">Radiolab</a></li>
+                        <li><a href="/programs/snap-judgment/" target="_blank">Snap Judgment</a></li>
+                        <li><a href="http://storycorps.org" class="storycorps" target="_blank">StoryCorps</a></li>
+                        <li><a href="/programs/ted-radio-hour/">TED Radio Hour</a></li>
+                        <li><a href="/programs/wait-wait-dont-tell-me/">Wait Wait...Don't Tell Me!</a></li>
+                     </ul>
+
+                     <ul>
+                        <li class="hdr">Music</li>
+                        <li><a href="/programs/all-songs-considered/">All Songs Considered</a></li>
+                        <li><a href="/series/alt-latino/">Alt.Latino</a></li>
+                        <li><a href="/series/98679384/first-listen/">First Listen</a></li>
+                        <li><a href="/blogs/metropolis/">Metropolis</a></li>
+                        <li><a href="/blogs/microphonecheck/">Microphone Check</a></li>
+                        <li><a href="/series/mountain-stage/">Mountain Stage</a></li>
+                        <li><a href="http://www.fromthetop.org/">From The Top</a></li>
+                        <li><a href="/programs/jazzset/">JazzSet</a></li>
+                        <li><a href="/programs/piano-jazz/">Piano Jazz</a></li>
+                        <li><a href="/series/150560513/song-travels/">Song Travels</a></li>
+                        <li><a href="/series/103063413/the-thistle-and-shamrock/">The Thistle &amp; Shamrock</a></li>
+                        <li><a href="/programs/world-cafe/">World Cafe</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="listen"><a href="/listen/" data-metrics='{"action":"Click Listen"}'>Listen</a></li>
+        </ul>
+    </nav>
+</div></header><div id="wrapper">
+      <input type="hidden" id="title351538855" value="The Source Of Creativity "></input>
+   <input type="hidden" id="modelShortUrl351538855" value="http://www.npr.org/programs/ted-radio-hour/351538855/the-source-of-creativity"></input>
+   <input type="hidden" id="modelFullUrl351538855" value="http://www.npr.org/programs/ted-radio-hour/351538855/the-source-of-creativity"></input>
+   <div id="sectionWrap" class="clearfix">
+            <section role="main"><header class="contentheader" data-metrics-category="The Source Of Creativity "><div class="mobileheader">
+    <a class="sidebarButton" href="#sidebar"  data-metrics='{"action":"Toggle OffCanvas","category":"Global Navigation"}'>
+        <img src="http://media.npr.org/chrome/subnav_toggle.png" alt="NPR logo" />
+    </a>
+    
+    <a href="/" class="nprHome" data-metrics='{"action":"Click Logo","category":"Global Navigation"}'>
+        <img src="http://media.npr.org/chrome/news/nprlogo_138x46.gif" alt="NPR">        
+    </a>
+</div><div class="branding">
+      <a href="http://www.npr.org/programs/ted-radio-hour/"  data-metrics='{"action":"Click Header Logo","category":"TED Radio Hour"}' ><img src="http://media.npr.org/branding/programs/ted-radio-hour/branding_main-b83026c7c71923591d5f35eb55c323f872343fd8.png" class="main" alt="TED Radio Hour" /><span class="tag">A journey through fascinating ideas, astonishing inventions, and new ways to think and create. Based on riveting TEDTalks from the world's most remarkable minds.</span></a>
+</div>
+
+<!-- END CLASS="BRANDING" -->
+</header><div class="subnav-tools-wrap">
+      <div id="subNavigation" class="agglocation linkLocation">
+            <div id="res341873334" class="bucketwrap statichtml">
+                  <div class="subtopics">
+  <ul class="animated fadeInRight">
+    <li><a href="/programs/ted-radio-hour/">Latest Show</a></li>
+    <li><a href="/templates/story/story.php?storyId=5057">About</a></li>
+    <li><a href="/people/6597623/guy-raz">Guy Raz</a></li>
+    <li><a href="/rss/podcast/podcast_detail.php?siteId=151446218">Podcast</a></li>
+    <li><a href="http://help.npr.org/npr/includes/customer/npr/custforms/contactus.aspx?sid=42">Contact</a></li>
+    <li><a href="http://www.ted.com">Visit TED.com</a></li>
+  </ul>
+</div>
+
+<div class="roller-overlay"></div>
+
+<ul class="subscribe">
+  <li class="twitter"><a href="http://twitter.com/TEDRadioHour" data-metrics='{"action":"Click Twitter"}'>Twitter</a></li>
+  <li class="facebook"><a href="https://www.facebook.com/TEDRadioHour" data-metrics='{"action":"Click Facebook"}'>Facebook</a></li>
+</ul>
+      </div>
+      
+<!-- END ID="RES341873334" CLASS="BUCKETWRAP STATICHTML" -->
+   </div>
+   
+<!-- END ID="SUBNAVIGATION" CLASS="AGGLOCATION LINKLOCATION" -->
+</div>
+<a name="mainContent"></a><nav class="program-nav">
+    <ul>
+        <li class="prev"><a href="http://www.npr.org/programs/ted-radio-hour/265352348/the-end-of-privacy?showDate=2014-09-26"  data-metrics='{"action":"Click Previous Episode - Top","category":"Story to Story","label":"http:\/\/www.npr.org\/programs\/ted-radio-hour\/265352348\/the-end-of-privacy?showDate=2014-09-26"}' ><b class="icn-arrow"></b>Older</a></li>
+
+        <li class="archive"><a href="/programs/ted-radio-hour/archive"  data-metrics='{"action":"Click Browse Episodes - Top","category":"Story to Story","label":"\/programs\/ted-radio-hour\/archive"}' ><b class="icn"></b>browse past shows</a></li>
+
+        <li class="next no-link"><b class="icn-arrow"></b>Newer</li>
+        
+    </ul>
+
+    <div class="current">
+        <time datetime="2014-10-03">
+            <span class="date">October 3, 2014</span>
+        </time>
+
+        <h1>Friday's Show</h1>
+    </div>
+
+</nav>
+<div id="rotatordata" class="  linkLocation">
+    <div class="apiquery programs_rotator_wrap">
+        <div class="programs-rotator one-up">
+            <div class="stories">
+                <article class="secondary">
+                    <div class="photowrap">
+                        <div id="mainImage" class="mainImage linkLocation">
+      <div class="imagewrap">
+    <a href="http://www.npr.org/programs/ted-radio-hour/351538855/the-source-of-creativity">
+            <img src="http://media.npr.org/assets/img/2014/09/30/trh_creativity_artwork_option_04_wide-28a15d5d695bc709e4a13c6e6e258b8fe33a6e40-s6-c30.jpg" data-original="http://media.npr.org/assets/img/2014/09/30/trh_creativity_artwork_option_04_wide-28a15d5d695bc709e4a13c6e6e258b8fe33a6e40-s6.jpg" class="epFeatImg lazyOnLoad"  title="This week we explore what creativity is and how it works." alt="This week we explore what creativity is and how it works." />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption">
+        <p>
+            This week we explore what creativity is and how it works.
+            
+                <b class="credit">
+                    
+                    iStock
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+        </p>
+    </div>
+    <b class="toggle-caption">i<b>toggle caption</b></b>
+    <span class="credit">
+        
+        iStock
+        
+    </span>
+</div>
+</div>
+
+<!-- END ID="MAINIMAGE" CLASS="MAINIMAGE LINKLOCATION" -->
+
+                    </div>
+                </article>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="episode-core-wrap">
+      <div class='title-description'>
+            <div class='story-text'>
+                  <h1>The Source Of Creativity </h1>
+         <p>We want to be creative but channeling our creative impulses is no small feat. Is creativity something we are born with or can we learn it? In this hour, TED speakers examine the mystery of creativity.</p>
+      </div>
+      
+<!-- END CLASS='STORY-TEXT' -->
+   </div>
+   
+<!-- END CLASS='TITLE-DESCRIPTION' -->
+   <div id="episode-core">
+            <div id="full-show">
+
+
+<div class="audio-player three-up">
+    
+    <a href="#" data-audio="/npr/ted/2014/10/20141003_ted_tedpod" data-audio-desktop='[57, 0, "10-03-2014", 1, 3, 0]'   data-metrics='{"action":"Play Full Episode","category":"Audio Bar","label":"TED Radio Hour"}'  >
+        <b class="icn-media"></b>
+
+        <b class="time-progress"></b>
+
+        <b class="call-to-action">Listen <b>to Full Show</b></b>
+
+        <b class="loading">Loading&hellip;</b>
+        
+        
+        <b class="audio-info">
+            <b class="time-elapsed"></b>
+            <b class="time-total"></b>
+        </b>
+    </a>
+    <ul class="aux">
+            <li class="playlist"><a class="add" data-audio-desktop='[57, 0, "10-03-2014", 2, 3, 0]'  data-metrics='{"action":"Add Full Episode to Playlist","category":"Audio Bar","label":"TED Radio Hour"}'  title="Playlist"><b class="icn"></b>Playlist</a></li>
+    
+            <li class="download"><a href="http://pd.npr.org/anon.npr-mp3/npr/ted/2014/10/20141003_ted_tedpod.mp3?dl=1"  data-metrics='{"action":"Download Full Episode","category":"Audio Bar","label":"TED Radio Hour"}'  title="Download"><b class="icn"></b>Download</a></li>
+                
+        <li class="share" data-sharepop="" data-selector=".sharepop-three.share.sp351538855"  data-metrics='{"action":"Toggle Share Tools","category":"Share Tools"}'  >
+            <a href="#" title="Share"><b class="icn"></b>share</a>
+            <div class='sharepop-three share sp351538855'>
+      <a class="sharemaintab" href="#">Share</a>   <div class="sharepop">
+            <ul>
+                  <li class="facebookLi"><a class="facebook fbStory351538855" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(351538855);" data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"http:\/\/www.npr.org\/programs\/ted-radio-hour\/351538855\/the-source-of-creativity"}' ><span class="name">Facebook</span></a></li>
+         <li class="twitterLi"><a class="retweetStory story351538855 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(351538855);" data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"http:\/\/www.npr.org\/programs\/ted-radio-hour\/351538855\/the-source-of-creativity"}' ><span class="name">Twitter</span></a></li>
+         <li class="googlePlusLi"><div class="g-interactivepost" data-contenturl="http://www.npr.org/programs/ted-radio-hour/351538855/the-source-of-creativity?utm_campaign=storyshare&utm_source=plus.google.com&utm_medium=social" data-contentdeeplinkid="/story/351538855" data-clientid="54045534594.apps.googleusercontent.com" data-cookiepolicy="http://npr.org" data-prefilltext="" data-calltoactionlabel="LISTEN" data-calltoactionurl="http://www.npr.org/programs/ted-radio-hour/351538855/the-source-of-creativity?utm_campaign=storyshare&utm_source=plus.google.com&utm_medium=social" data-calltoactiondeeplinkid="/story/listen/351538855">
+      <a href="#"  data-metrics='{"action":"Click Google Plus","category":"Share Tools","label":"http:\/\/www.npr.org\/programs\/ted-radio-hour\/351538855\/the-source-of-creativity"}' >Google+</a>
+</div>
+
+<!-- END CLASS="G-INTERACTIVEPOST" DATA-CONTENTURL="HTTP://WWW.NPR.ORG/PROGRAMS/TED-RADIO-HOUR/351538855/THE-SOURCE-OF-CREATIVITY?UTM_CAMPAIGN=STORYSHARE&UTM_SOURCE=PLUS.GOOGLE.COM&UTM_MEDIUM=SOCIAL" DATA-CONTENTDEEPLINKID="/STORY/351538855" DATA-CLIENTID="54045534594.APPS.GOOGLEUSERCONTENT.COM" DATA-COOKIEPOLICY="HTTP://NPR.ORG" DATA-PREFILLTEXT="" DATA-CALLTOACTIONLABEL="LISTEN" DATA-CALLTOACTIONURL="HTTP://WWW.NPR.ORG/PROGRAMS/TED-RADIO-HOUR/351538855/THE-SOURCE-OF-CREATIVITY?UTM_CAMPAIGN=STORYSHARE&UTM_SOURCE=PLUS.GOOGLE.COM&UTM_MEDIUM=SOCIAL" DATA-CALLTOACTIONDEEPLINKID="/STORY/LISTEN/351538855" -->
+</li>
+         <li class="email"><a href='javascript:void(0);' class='email eaf_link' data-story-id='351538855'  data-metrics='{"action":"Email a Friend","network":"NPR Site","type":"socialEvent"}' >Email</a></li>
+      </ul>
+   </div>
+</div>
+
+        </li>
+    </ul>
+</div>
+
+</div>
+
+<div id="storylist">
+
+    <article class="story clearfix">
+
+        <p class="segment-num"><b>1</b></p>
+
+        <div class="storyimg storylocation" >
+            <div class="imagewrap">
+    <a href="http://www.npr.org/2014/10/03/351545257/how-do-you-get-over-writer-s-block">
+            <img src="http://media.npr.org/assets/img/2014/09/30/sting_2014-embed_wide-a786ee9fabe64f33f1685150b4096a443040a796-s2-c25.jpg" data-original="http://media.npr.org/assets/img/2014/09/30/sting_2014-embed_wide-a786ee9fabe64f33f1685150b4096a443040a796-s2.jpg" class="respArchListImg lazyOnLoad"  title="Sting talks about setting aside ego to foster creativity." alt="Sting talks about setting aside ego to foster creativity." />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption">
+        <p>
+            Sting talks about setting aside ego to foster creativity.
+            
+                <b class="credit">
+                    
+                    Asa Mathat/TED
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+        </p>
+    </div>
+    <b class="toggle-caption">i<b>toggle caption</b></b>
+    <span class="credit">
+        
+        Asa Mathat/TED
+        
+    </span>
+</div>
+
+        </div>
+
+        <div class="storyinfo ">
+            <h2 class="slug"><a href="http://www.npr.org/programs/ted-radio-hour/">TED Radio Hour</a></h2>
+
+            <h1><a href="http://www.npr.org/2014/10/03/351545257/how-do-you-get-over-writer-s-block"  data-metrics='{"action":"Click Rundown Story 1","category":"Rundown Click","label":"http:\/\/www.npr.org\/2014\/10\/03\/351545257\/how-do-you-get-over-writer-s-block"}' >Sting: How Do You Get Over Writer's Block? </a></h1>
+
+            <p class="byline" id="res351546254">by <span>NPR/TED Staff</span></p>
+
+            <input type="hidden" id="title351545257" value="Sting: How Do You Get Over Writer's Block? "></input>
+            <input type="hidden" id="modelShortUrl351545257" value="http://n.pr/Yf2FZV"></input>
+            <input type="hidden" id="modelFullUrl351545257" value="http://www.npr.org/2014/10/03/351545257/how-do-you-get-over-writer-s-block"></input>
+        </div>
+
+        <div class="audio-player no-download ">
+
+    <a href="#" data-audio="/npr/ted/2014/10/20141003_ted_01" data-audio-desktop="[351545257, 353303124, null, 1, 1, 1]"   data-metrics='{"action":"Play Audio","category":"Segment Audio","label":"\/npr\/ted\/2014\/10\/20141003_ted_01"}' >
+        <b class="icn-media"></b>
+    
+        <b class="time-progress"></b>
+        <b class="call-to-action">Listen</b>
+    
+        <b class="loading">Loading&hellip;</b>
+    
+        
+        <b class="audio-info">
+            <b class="time-elapsed"></b>
+            <b class="time-total"></b>
+        </b>
+    </a>
+    
+    <ul class="aux">
+        <li class="playlist"><a href="#" data-audio="/npr/ted/2014/10/20141003_ted_01" data-audio-desktop="[351545257, 353303124, null, 2, 1, 1]"   data-metrics='{"action":"Add Audio To Playlist","category":"Segment Audio","label":"\/npr\/ted\/2014\/10\/20141003_ted_01"}'  title="Playlist"><b class="icn"></b>Playlist</a></li>
+    </ul>
+</div>
+
+
+
+    </article>
+
+    <div class="music-interlude responsive-rundown">
+        <div id="res353472306" class="musicwrap available">
+      <h4 class="songTitle">Walking on the Moon<span class="artist"> The Police</span><span class="duration"> 0:23</span></h4>
+   <a class="expand musicbutton-purchase" upc="" href="javascript:void(0);" data-metrics='{"action":"Click Purchase Music","category":"Ecommerce","label":""}' >Play</a>   <div class="micontent has-purchase" id="micontent_">
+            <h3><a href="#">Play</a></h3>
+      <a class="hear" href="#"  data-audio='/npr/ted/2014/10/20141003_ted_01m1' data-audio-desktop='[353472307, 353472306, null, 1, 6, 1]'  data-metrics='{"action":"Play Music Button","category":"Music Button","label":"353472305"}' ><b class="icn-media"></b> Listen to music preview</a>      <ol class="mi-meta">
+                  <dt>Artist</dt>         <dd>The Police</dd>         <dt>Track</dt>         <dd>Walking on the Moon</dd>
+      </ol>
+   </div>
+</div>
+
+<!-- END ID="RES353472306" CLASS="MUSICWRAP AVAILABLE" -->
+
+    </div>
+
+
+
+    <article class="story clearfix">
+
+        <p class="segment-num"><b>2</b></p>
+
+        <div class="storyimg storylocation" >
+            <div class="imagewrap">
+    <a href="http://www.npr.org/2014/10/03/351549673/what-does-a-creative-brain-look-like">
+            <img src="http://media.npr.org/assets/img/2014/09/30/charleslimb_2010x-embed_wide-f9592c513693e5d13c6a0bd17de729c356c90e76-s2-c25.jpg" data-original="http://media.npr.org/assets/img/2014/09/30/charleslimb_2010x-embed_wide-f9592c513693e5d13c6a0bd17de729c356c90e76-s2.jpg" class="respArchListImg lazyOnLoad"  title="Charles Limb describes what the brain looks like when its being creative." alt="Charles Limb describes what the brain looks like when its being creative." />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption">
+        <p>
+            Charles Limb describes what the brain looks like when its being creative.
+            
+                <b class="credit">
+                    
+                    Asa Mathat/TED
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+        </p>
+    </div>
+    <b class="toggle-caption">i<b>toggle caption</b></b>
+    <span class="credit">
+        
+        Asa Mathat/TED
+        
+    </span>
+</div>
+
+        </div>
+
+        <div class="storyinfo ">
+            <h2 class="slug"><a href="http://www.npr.org/programs/ted-radio-hour/">TED Radio Hour</a></h2>
+
+            <h1><a href="http://www.npr.org/2014/10/03/351549673/what-does-a-creative-brain-look-like"  data-metrics='{"action":"Click Rundown Story 2","category":"Rundown Click","label":"http:\/\/www.npr.org\/2014\/10\/03\/351549673\/what-does-a-creative-brain-look-like"}' >Charles Limb: What Does A Creative Brain Look Like?</a></h1>
+
+            <p class="byline" id="res351552583">by <span>NPR/TED Staff</span></p>
+
+            <input type="hidden" id="title351549673" value="Charles Limb: What Does A Creative Brain Look Like?"></input>
+            <input type="hidden" id="modelShortUrl351549673" value="http://n.pr/1rmZ9qt"></input>
+            <input type="hidden" id="modelFullUrl351549673" value="http://www.npr.org/2014/10/03/351549673/what-does-a-creative-brain-look-like"></input>
+        </div>
+
+        <div class="audio-player no-download ">
+
+    <a href="#" data-audio="/npr/ted/2014/10/20141003_ted_02" data-audio-desktop="[351549673, 353303323, null, 1, 1, 1]"   data-metrics='{"action":"Play Audio","category":"Segment Audio","label":"\/npr\/ted\/2014\/10\/20141003_ted_02"}' >
+        <b class="icn-media"></b>
+    
+        <b class="time-progress"></b>
+        <b class="call-to-action">Listen</b>
+    
+        <b class="loading">Loading&hellip;</b>
+    
+        
+        <b class="audio-info">
+            <b class="time-elapsed"></b>
+            <b class="time-total"></b>
+        </b>
+    </a>
+    
+    <ul class="aux">
+        <li class="playlist"><a href="#" data-audio="/npr/ted/2014/10/20141003_ted_02" data-audio-desktop="[351549673, 353303323, null, 2, 1, 1]"   data-metrics='{"action":"Add Audio To Playlist","category":"Segment Audio","label":"\/npr\/ted\/2014\/10\/20141003_ted_02"}'  title="Playlist"><b class="icn"></b>Playlist</a></li>
+    </ul>
+</div>
+
+
+
+    </article>
+
+
+
+
+    <article class="story clearfix">
+
+        <p class="segment-num"><b>3</b></p>
+
+        <div class="storyimg storylocation" >
+            <div class="imagewrap">
+    <a href="http://www.npr.org/2014/10/03/351552772/how-do-schools-kill-creativity">
+            <img src="http://media.npr.org/assets/img/2014/09/30/kenrobinson_2006-embed_wide-a813fd95fabaac6954a8a712a7bb04a350b849b7-s2-c25.jpg" data-original="http://media.npr.org/assets/img/2014/09/30/kenrobinson_2006-embed_wide-a813fd95fabaac6954a8a712a7bb04a350b849b7-s2.jpg" class="respArchListImg lazyOnLoad"  title="Ken Robinson proposes a more creative system of education." alt="Ken Robinson proposes a more creative system of education." />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption">
+        <p>
+            Ken Robinson proposes a more creative system of education.
+            
+                <b class="credit">
+                    
+                    Asa Mathat/TED
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+        </p>
+    </div>
+    <b class="toggle-caption">i<b>toggle caption</b></b>
+    <span class="credit">
+        
+        Asa Mathat/TED
+        
+    </span>
+</div>
+
+        </div>
+
+        <div class="storyinfo ">
+            <h2 class="slug"><a href="http://www.npr.org/programs/ted-radio-hour/">TED Radio Hour</a></h2>
+
+            <h1><a href="http://www.npr.org/2014/10/03/351552772/how-do-schools-kill-creativity"  data-metrics='{"action":"Click Rundown Story 3","category":"Rundown Click","label":"http:\/\/www.npr.org\/2014\/10\/03\/351552772\/how-do-schools-kill-creativity"}' >Sir Ken Robinson: How Do Schools Kill Creativity? </a></h1>
+
+            <p class="byline" id="res351553840">by <span>NPR/TED Staff</span></p>
+
+            <input type="hidden" id="title351552772" value="Sir Ken Robinson: How Do Schools Kill Creativity? "></input>
+            <input type="hidden" id="modelShortUrl351552772" value="http://n.pr/1rn00HE"></input>
+            <input type="hidden" id="modelFullUrl351552772" value="http://www.npr.org/2014/10/03/351552772/how-do-schools-kill-creativity"></input>
+        </div>
+
+        <div class="audio-player no-download ">
+
+    <a href="#" data-audio="/npr/ted/2014/10/20141003_ted_03" data-audio-desktop="[351552772, 353303470, null, 1, 1, 1]"   data-metrics='{"action":"Play Audio","category":"Segment Audio","label":"\/npr\/ted\/2014\/10\/20141003_ted_03"}' >
+        <b class="icn-media"></b>
+    
+        <b class="time-progress"></b>
+        <b class="call-to-action">Listen</b>
+    
+        <b class="loading">Loading&hellip;</b>
+    
+        
+        <b class="audio-info">
+            <b class="time-elapsed"></b>
+            <b class="time-total"></b>
+        </b>
+    </a>
+    
+    <ul class="aux">
+        <li class="playlist"><a href="#" data-audio="/npr/ted/2014/10/20141003_ted_03" data-audio-desktop="[351552772, 353303470, null, 2, 1, 1]"   data-metrics='{"action":"Add Audio To Playlist","category":"Segment Audio","label":"\/npr\/ted\/2014\/10\/20141003_ted_03"}'  title="Playlist"><b class="icn"></b>Playlist</a></li>
+    </ul>
+</div>
+
+
+
+    </article>
+
+    <div class="music-interlude responsive-rundown">
+        <div id="res353472308" class="musicwrap available">
+      <h4 class="songTitle">Rondeau from Première Suite de Symphones [From ...]<span class="artist"> Erich Kunzel & Cincinnati Pops Orchestra</span><span class="duration"> 1:00</span></h4>
+   <a class="expand musicbutton-purchase" upc="089408022128" href="javascript:void(0);" data-metrics='{"action":"Click Purchase Music","category":"Ecommerce","label":"089408022128"}' >Play/Purchase</a>   <div class="micontent has-purchase" id="micontent_089408022128">
+            <h3><a href="#">Play/Purchase</a></h3>
+      <a class="hear" href="#"  data-audio='/npr/ted/2014/10/20141003_ted_03m1' data-audio-desktop='[353472309, 353472308, null, 1, 6, 1]'  data-metrics='{"action":"Play Music Button","category":"Music Button","label":"13301525"}' ><b class="icn-media"></b> Listen to music preview</a>      <ol class="mi-meta">
+                  <dt>Artist</dt>         <dd>Erich Kunzel & Cincinnati Pops Orchestra</dd>         <dt>Track</dt>         <dd>Rondeau from Première Suite de Symphones [From ...]</dd>         <dt>Album</dt>         <dd>Classics of the Silver Screen</dd>         <dt>Label</dt>         <dd>Telarc</dd>
+      </ol>
+      <p class="support">Your purchase helps support NPR Programming. <a href="javascript:void(0);" onclick="javascript:window.open('http://www.npr.org/include/howtosupportnpr.html', 'howToSupportNPR', 'width=520,height=600,scrollbars=yes,location=no,directories=no,status=no,menubar=no,resizable=no');">How?</a></p>      <ul class="mi-purchase-links">
+                  <li><a href="http://www.amazon.com/Classics-Silver-Screen-Erich-Kunzel/dp/B000003CW7%3FSubscriptionId%3DAKIAJXORMQMQBISBPIPQ%26tag%3Dnpr-5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB000003CW7" data-metrics='{"category":"Ecommerce","action":"Click Amazon"}' >Amazon</a></li>
+      </ul>
+   </div>
+</div>
+
+<!-- END ID="RES353472308" CLASS="MUSICWRAP AVAILABLE" -->
+
+    </div>
+
+
+
+    <article class="story clearfix">
+
+        <p class="segment-num"><b>4</b></p>
+
+        <div class="storyimg storylocation" >
+            <div class="imagewrap">
+    <a href="http://www.npr.org/2014/10/03/351554044/where-does-creativity-come-from">
+            <img src="http://media.npr.org/assets/img/2014/09/30/elizabethgilbert_2009-embed_wide-867cdac7b56b25c5b4e86b835a0d085d50913cda-s2-c25.jpg" data-original="http://media.npr.org/assets/img/2014/09/30/elizabethgilbert_2009-embed_wide-867cdac7b56b25c5b4e86b835a0d085d50913cda-s2.jpg" class="respArchListImg lazyOnLoad"  title="Elizabeth Gilbert shares a new perspective on traditional creative careers." alt="Elizabeth Gilbert shares a new perspective on traditional creative careers." />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption">
+        <p>
+            Elizabeth Gilbert shares a new perspective on traditional creative careers.
+            
+                <b class="credit">
+                    
+                    Asa Mathat/TED
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+        </p>
+    </div>
+    <b class="toggle-caption">i<b>toggle caption</b></b>
+    <span class="credit">
+        
+        Asa Mathat/TED
+        
+    </span>
+</div>
+
+        </div>
+
+        <div class="storyinfo ">
+            <h2 class="slug"><a href="http://www.npr.org/programs/ted-radio-hour/">TED Radio Hour</a></h2>
+
+            <h1><a href="http://www.npr.org/2014/10/03/351554044/where-does-creativity-come-from"  data-metrics='{"action":"Click Rundown Story 4","category":"Rundown Click","label":"http:\/\/www.npr.org\/2014\/10\/03\/351554044\/where-does-creativity-come-from"}' >Elizabeth Gilbert: Where Does Creativity Come From? </a></h1>
+
+            <p class="byline" id="res353253099">by <span>NPR/TED Staff</span></p>
+
+            <input type="hidden" id="title351554044" value="Elizabeth Gilbert: Where Does Creativity Come From? "></input>
+            <input type="hidden" id="modelShortUrl351554044" value="http://n.pr/1rn0tcY"></input>
+            <input type="hidden" id="modelFullUrl351554044" value="http://www.npr.org/2014/10/03/351554044/where-does-creativity-come-from"></input>
+        </div>
+
+        <div class="audio-player no-download ">
+
+    <a href="#" data-audio="/npr/ted/2014/10/20141003_ted_04" data-audio-desktop="[351554044, 353304016, null, 1, 1, 1]"   data-metrics='{"action":"Play Audio","category":"Segment Audio","label":"\/npr\/ted\/2014\/10\/20141003_ted_04"}' >
+        <b class="icn-media"></b>
+    
+        <b class="time-progress"></b>
+        <b class="call-to-action">Listen</b>
+    
+        <b class="loading">Loading&hellip;</b>
+    
+        
+        <b class="audio-info">
+            <b class="time-elapsed"></b>
+            <b class="time-total"></b>
+        </b>
+    </a>
+    
+    <ul class="aux">
+        <li class="playlist"><a href="#" data-audio="/npr/ted/2014/10/20141003_ted_04" data-audio-desktop="[351554044, 353304016, null, 2, 1, 1]"   data-metrics='{"action":"Add Audio To Playlist","category":"Segment Audio","label":"\/npr\/ted\/2014\/10\/20141003_ted_04"}'  title="Playlist"><b class="icn"></b>Playlist</a></li>
+    </ul>
+</div>
+
+
+
+    </article>
+
+    <div class="music-interlude responsive-rundown">
+        <div id="res353472311" class="musicwrap available">
+      <h4 class="songTitle">Muse Blues<span class="artist"> Loudon Wainwright III</span><span class="duration"> 0:24</span></h4>
+   <a class="expand musicbutton-purchase" upc="" href="javascript:void(0);" data-metrics='{"action":"Click Purchase Music","category":"Ecommerce","label":""}' >Play</a>   <div class="micontent has-purchase" id="micontent_">
+            <h3><a href="#">Play</a></h3>
+      <a class="hear" href="#"  data-audio='/npr/ted/2014/10/20141003_ted_04m1' data-audio-desktop='[353472312, 353472311, null, 1, 6, 1]'  data-metrics='{"action":"Play Music Button","category":"Music Button","label":"353472310"}' ><b class="icn-media"></b> Listen to music preview</a>      <ol class="mi-meta">
+                  <dt>Artist</dt>         <dd>Loudon Wainwright III</dd>         <dt>Track</dt>         <dd>Muse Blues</dd>
+      </ol>
+   </div>
+</div>
+
+<!-- END ID="RES353472311" CLASS="MUSICWRAP AVAILABLE" -->
+
+    </div>
+
+
+    <nav class="program-nav reprise">
+    <ul>
+        <li class="prev"><a href="http://www.npr.org/programs/ted-radio-hour/265352348/the-end-of-privacy?showDate=2014-09-26"  data-metrics='{"action":"Click Previous Episode - Bottom","category":"Story to Story","label":"http:\/\/www.npr.org\/programs\/ted-radio-hour\/265352348\/the-end-of-privacy?showDate=2014-09-26"}' ><b class="icn-arrow"></b>Older</a></li>
+        
+        <li class="archive"><a href="/programs/ted-radio-hour/archive"  data-metrics='{"action":"Click Browse Episodes - Bottom","category":"Story to Story","label":"\/programs\/ted-radio-hour\/archive"}' ><b class="icn"></b>browse past shows</a></li>
+
+        <li class="next no-link"><b class="icn-arrow"></b>Newer</li>
+
+    </ul>
+</nav>
+
+</div>
+   </div>
+    <!--googleon: index-->    <!--googleoff: index-->   <aside id="program-sidebar" data-metrics-all data-metrics-category="Program Inner Rail"><div id="program-inner-rail" class=".themelocation linkLocation">
+      <div id="res249342846" class="bucketwrap statichtml">
+            
+     
+         <div class="follow bucket">
+            <h1>Follow The Show</h1>
+          <ul>
+             <li>
+                    <p class="facebook"><a href="http://www.facebook.com/TEDRadioHour">Facebook</a></p>
+                </li>
+            <li>
+                    <p class="twitter"><a href="http://twitter.com/TEDRadioHour">Twitter</a></p>
+                </li>
+                   </ul>
+            
+        </div>
+        <div class="hosts bucket">
+            <h1>Meet The Host</h1>
+        
+            <ul>
+                <li>
+                    
+                    <p class="role">Host</p>
+                    <p class="name"><a href="/people/6597623/guy-raz">Guy Raz</a></p>
+                    <p class="twitter"><a href="http://www.twitter.com/guyraz">@guyraz</a></p>
+                </li>
+            </ul>
+            
+        </div>
+        
+         <div class="podcast bucket">
+            <h1>Podcast</h1>
+             <ul>
+                <li>
+                    <a href="/rss/podcast/podcast_detail.php?siteId=151446218"><img src="http://media.npr.org/assets/news/programs/ted_radio_hour/ted-square.png" height=100 width=100 alt="TED Radio Hour Podcast" /></a>
+                </li>
+             </ul>
+           <p> <a href="/rss/podcast/podcast_detail.php?siteId=151446218">Subscribe ›</a></p>
+        </div>
+
+
+        
+        <div class="contact-show bucket">
+            <h1>Contact The Show</h1>
+            
+            <p>Send us your comments, questions and suggestions</p>
+           <p> <a href="http://help.npr.org/npr/includes/customer/npr/custforms/contactus.aspx?sid=57">Contact Us ›</a></p>
+        </div>
+
+   </div>
+   
+<!-- END ID="RES249342846" CLASS="BUCKETWRAP STATICHTML" -->
+   <div id="res151202707" class="bucketwrap statichtml">
+            <article class="tedContentBox">
+    <a target="_blank" class="tedVideoLink" href="http://www.ted.com/talks/view/id/2100">
+        <h1>today's talk <span>on TED.com</span></h1>
+        <img src="http://images.ted.com/images/ted/e68ca954971f0a1bc7bb73ca3d89b51578363c67_240x180.jpg" height="180" width="240" alt="Daria van den Bercken: Why I take the piano on the road … and in the air">
+        <h2>Daria van den Bercken: Why I take the piano on the road … and in the air</h2>
+    </a>
+</article>
+   </div>
+   
+<!-- END ID="RES151202707" CLASS="BUCKETWRAP STATICHTML" -->
+</div>
+
+<!-- END ID="PROGRAM-INNER-RAIL" CLASS=".THEMELOCATION LINKLOCATION" -->
+</aside>
+</div>
+<header class="contentheader reprise" data-metrics-category="The Source Of Creativity "><div class="mobileheader">
+    <a class="sidebarButton" href="#sidebar"  data-metrics='{"action":"Toggle OffCanvas","category":"Global Navigation"}'>
+        <img src="http://media.npr.org/chrome/subnav_toggle.png" alt="NPR logo" />
+    </a>
+    
+    <a href="/" class="nprHome" data-metrics='{"action":"Click Logo","category":"Global Navigation"}'>
+        <img src="http://media.npr.org/chrome/news/nprlogo_138x46.gif" alt="NPR">        
+    </a>
+</div><div class="branding">
+      <a href="http://www.npr.org/programs/ted-radio-hour/"  data-metrics='{"action":"Click Header Logo","category":"TED Radio Hour"}' ><img src="http://media.npr.org/branding/programs/ted-radio-hour/branding_main-b83026c7c71923591d5f35eb55c323f872343fd8.png" class="main" alt="TED Radio Hour" /><span class="tag">A journey through fascinating ideas, astonishing inventions, and new ways to think and create. Based on riveting TEDTalks from the world's most remarkable minds.</span></a>
+</div>
+
+<!-- END CLASS="BRANDING" -->
+</header><div id="episodelist">
+    <div class="episodeArchiveWrapper fadeInUp animated">
+    <article class="program-archive-episode" data-episode-id="265352348" data-episode-date="2014-09-26">
+        <h1 class="date">
+            <a href="http://www.npr.org/programs/ted-radio-hour/265352348/the-end-of-privacy?showDate=2014-09-26"  data-metrics='{"action":"Click Archive Episode Title","category":"Episode Archive","label":"http:\/\/www.npr.org\/programs\/ted-radio-hour\/265352348\/the-end-of-privacy"}' >
+                Friday
+                <time datetime="2014-09-26">September 26, 2014</time>
+
+                <b class="icn-arrow"></b>
+            </a>
+        </h1>
+
+        <div class="inner">
+            <div class="episodeimg">
+                <div class="imagewrap">
+    <a href="http://www.npr.org/programs/ted-radio-hour/265352348/the-end-of-privacy">
+            <img src="http://media.npr.org/assets/img/2014/07/30/ep26_the_end_of_privacy_wide-58524aa33ed39da5612940b712819c44afc6a6f4-s1-c25.jpg" data-original="http://media.npr.org/assets/img/2014/07/30/ep26_the_end_of_privacy_wide-58524aa33ed39da5612940b712819c44afc6a6f4-s1.jpg" class="respLgArchListImg lazyOnLoad"  title="&quot;When it comes to privacy ... we are like the frog in the water, and the water is slowly getting hotter.&quot; — Alessandro Acquisti" alt="&quot;When it comes to privacy ... we are like the frog in the water, and the water is slowly getting hotter.&quot; — Alessandro Acquisti" />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption">
+        <p>
+            "When it comes to privacy ... we are like the frog in the water, and the water is slowly getting hotter." — Alessandro Acquisti
+            
+                <b class="credit">
+                    
+                    iStock
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+        </p>
+    </div>
+    <b class="toggle-caption">i<b>toggle caption</b></b>
+    <span class="credit">
+        
+        iStock
+        
+    </span>
+</div>
+
+            </div>
+
+            <div class="episodeinfo">
+                <a href="http://www.npr.org/programs/ted-radio-hour/265352348/the-end-of-privacy?showDate=2014-09-26"  data-metrics='{"action":"Click Archive Episode Title","category":"Episode Archive","label":"http:\/\/www.npr.org\/programs\/ted-radio-hour\/265352348\/the-end-of-privacy"}' >
+                    <h2 class="title">The End Of Privacy</h2>
+                    <p class="teaser">In this hour, TED speakers explore our changing notions of privacy, the consequences, and whether privacy will soon be a relic of the past.</p>
+                </a>
+                
+
+<div class="audio-player three-up">
+    
+    <a href="#" data-audio="/npr/ted/2014/09/20140926_ted_tedpod" data-audio-desktop='[57, 0, "01-31-2014", 1, 3, 0]'   data-metrics='{"action":"Play Full Episode","category":"Audio Bar","label":"TED Radio Hour"}'  >
+        <b class="icn-media"></b>
+
+        <b class="time-progress"></b>
+
+        <b class="call-to-action">Listen <b>to Full Show</b></b>
+
+        <b class="loading">Loading&hellip;</b>
+        
+        
+        <b class="audio-info">
+            <b class="time-elapsed"></b>
+            <b class="time-total">49:11</b>
+        </b>
+    </a>
+    <ul class="aux">
+            <li class="playlist"><a class="add" data-audio-desktop='[57, 0, "01-31-2014", 2, 3, 0]'  data-metrics='{"action":"Add Full Episode to Playlist","category":"Audio Bar","label":"TED Radio Hour"}'  title="Playlist"><b class="icn"></b>Playlist</a></li>
+    
+            <li class="download"><a href="http://pd.npr.org/anon.npr-mp3/npr/ted/2014/09/20140926_ted_tedpod.mp3?dl=1"  data-metrics='{"action":"Download Full Episode","category":"Audio Bar","label":"TED Radio Hour"}'  title="Download"><b class="icn"></b>Download</a></li>
+                
+        <li class="share" data-sharepop="" data-selector=".sharepop-three.share.sp265352348"  data-metrics='{"action":"Toggle Share Tools","category":"Share Tools"}'  >
+            <a href="#" title="Share"><b class="icn"></b>share</a>
+            <div class='sharepop-three share sp265352348'>
+      <a class="sharemaintab" href="#">Share</a>   <div class="sharepop">
+            <ul>
+                  <li class="facebookLi"><a class="facebook fbStory265352348" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(265352348);" data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"http:\/\/www.npr.org\/programs\/ted-radio-hour\/265352348\/the-end-of-privacy"}' ><span class="name">Facebook</span></a></li>
+         <li class="twitterLi"><a class="retweetStory story265352348 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(265352348);" data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"http:\/\/www.npr.org\/programs\/ted-radio-hour\/265352348\/the-end-of-privacy"}' ><span class="name">Twitter</span></a></li>
+         <li class="googlePlusLi"><div class="g-interactivepost" data-contenturl="http://www.npr.org/programs/ted-radio-hour/265352348/the-end-of-privacy?utm_campaign=storyshare&utm_source=plus.google.com&utm_medium=social" data-contentdeeplinkid="/story/265352348" data-clientid="54045534594.apps.googleusercontent.com" data-cookiepolicy="http://npr.org" data-prefilltext="" data-calltoactionlabel="LISTEN" data-calltoactionurl="http://www.npr.org/programs/ted-radio-hour/265352348/the-end-of-privacy?utm_campaign=storyshare&utm_source=plus.google.com&utm_medium=social" data-calltoactiondeeplinkid="/story/listen/265352348">
+      <a href="#"  data-metrics='{"action":"Click Google Plus","category":"Share Tools","label":"http:\/\/www.npr.org\/programs\/ted-radio-hour\/265352348\/the-end-of-privacy"}' >Google+</a>
+</div>
+
+<!-- END CLASS="G-INTERACTIVEPOST" DATA-CONTENTURL="HTTP://WWW.NPR.ORG/PROGRAMS/TED-RADIO-HOUR/265352348/THE-END-OF-PRIVACY?UTM_CAMPAIGN=STORYSHARE&UTM_SOURCE=PLUS.GOOGLE.COM&UTM_MEDIUM=SOCIAL" DATA-CONTENTDEEPLINKID="/STORY/265352348" DATA-CLIENTID="54045534594.APPS.GOOGLEUSERCONTENT.COM" DATA-COOKIEPOLICY="HTTP://NPR.ORG" DATA-PREFILLTEXT="" DATA-CALLTOACTIONLABEL="LISTEN" DATA-CALLTOACTIONURL="HTTP://WWW.NPR.ORG/PROGRAMS/TED-RADIO-HOUR/265352348/THE-END-OF-PRIVACY?UTM_CAMPAIGN=STORYSHARE&UTM_SOURCE=PLUS.GOOGLE.COM&UTM_MEDIUM=SOCIAL" DATA-CALLTOACTIONDEEPLINKID="/STORY/LISTEN/265352348" -->
+</li>
+         <li class="email"><a href='javascript:void(0);' class='email eaf_link' data-story-id='265352348'  data-metrics='{"action":"Email a Friend","network":"NPR Site","type":"socialEvent"}' >Email</a></li>
+      </ul>
+   </div>
+</div>
+
+        </li>
+    </ul>
+</div>
+
+            </div>
+        </div>
+
+    </article>
+    <article class="program-archive-episode" data-episode-id="347104878" data-episode-date="2014-09-19">
+        <h1 class="date">
+            <a href="http://www.npr.org/programs/ted-radio-hour/347104878/transformation?showDate=2014-09-19"  data-metrics='{"action":"Click Archive Episode Title","category":"Episode Archive","label":"http:\/\/www.npr.org\/programs\/ted-radio-hour\/347104878\/transformation"}' >
+                Friday
+                <time datetime="2014-09-19">September 19, 2014</time>
+
+                <b class="icn-arrow"></b>
+            </a>
+        </h1>
+
+        <div class="inner">
+            <div class="episodeimg">
+                <div class="imagewrap">
+    <a href="http://www.npr.org/programs/ted-radio-hour/347104878/transformation">
+            <img src="http://media.npr.org/assets/img/2014/09/17/trh_transformation_artwork_wide-1d047e0a2c0a621c200dba9c460bad8a2ba83288-s1-c25.jpg" data-original="http://media.npr.org/assets/img/2014/09/17/trh_transformation_artwork_wide-1d047e0a2c0a621c200dba9c460bad8a2ba83288-s1.jpg" class="respLgArchListImg lazyOnLoad"  title="&quot;We have to give ourselves to permission to expand and grow and evolve, that's human nature&quot; — Shaka Senghor" alt="&quot;We have to give ourselves to permission to expand and grow and evolve, that's human nature&quot; — Shaka Senghor" />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption">
+        <p>
+            "We have to give ourselves to permission to expand and grow and evolve, that's human nature" — Shaka Senghor
+            
+                <b class="credit">
+                    
+                    iStock
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+        </p>
+    </div>
+    <b class="toggle-caption">i<b>toggle caption</b></b>
+    <span class="credit">
+        
+        iStock
+        
+    </span>
+</div>
+
+            </div>
+
+            <div class="episodeinfo">
+                <a href="http://www.npr.org/programs/ted-radio-hour/347104878/transformation?showDate=2014-09-19"  data-metrics='{"action":"Click Archive Episode Title","category":"Episode Archive","label":"http:\/\/www.npr.org\/programs\/ted-radio-hour\/347104878\/transformation"}' >
+                    <h2 class="title">Transformation</h2>
+                    <p class="teaser">Are we simply the sum of our experiences? Or can we choose our own path? In this hour, TED speakers share stories of undergoing remarkable transformations despite extraordinary challenges.</p>
+                </a>
+                
+
+<div class="audio-player three-up">
+    
+    <a href="#" data-audio="/npr/ted/2014/09/20140919_ted_tedpod" data-audio-desktop='[57, 0, "09-19-2014", 1, 3, 0]'   data-metrics='{"action":"Play Full Episode","category":"Audio Bar","label":"TED Radio Hour"}'  >
+        <b class="icn-media"></b>
+
+        <b class="time-progress"></b>
+
+        <b class="call-to-action">Listen <b>to Full Show</b></b>
+
+        <b class="loading">Loading&hellip;</b>
+        
+        
+        <b class="audio-info">
+            <b class="time-elapsed"></b>
+            <b class="time-total">49:12</b>
+        </b>
+    </a>
+    <ul class="aux">
+            <li class="playlist"><a class="add" data-audio-desktop='[57, 0, "09-19-2014", 2, 3, 0]'  data-metrics='{"action":"Add Full Episode to Playlist","category":"Audio Bar","label":"TED Radio Hour"}'  title="Playlist"><b class="icn"></b>Playlist</a></li>
+    
+            <li class="download"><a href="http://pd.npr.org/anon.npr-mp3/npr/ted/2014/09/20140919_ted_tedpod.mp3?dl=1"  data-metrics='{"action":"Download Full Episode","category":"Audio Bar","label":"TED Radio Hour"}'  title="Download"><b class="icn"></b>Download</a></li>
+                
+        <li class="share" data-sharepop="" data-selector=".sharepop-three.share.sp347104878"  data-metrics='{"action":"Toggle Share Tools","category":"Share Tools"}'  >
+            <a href="#" title="Share"><b class="icn"></b>share</a>
+            <div class='sharepop-three share sp347104878'>
+      <a class="sharemaintab" href="#">Share</a>   <div class="sharepop">
+            <ul>
+                  <li class="facebookLi"><a class="facebook fbStory347104878" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(347104878);" data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"http:\/\/www.npr.org\/programs\/ted-radio-hour\/347104878\/transformation"}' ><span class="name">Facebook</span></a></li>
+         <li class="twitterLi"><a class="retweetStory story347104878 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(347104878);" data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"http:\/\/www.npr.org\/programs\/ted-radio-hour\/347104878\/transformation"}' ><span class="name">Twitter</span></a></li>
+         <li class="googlePlusLi"><div class="g-interactivepost" data-contenturl="http://www.npr.org/programs/ted-radio-hour/347104878/transformation?utm_campaign=storyshare&utm_source=plus.google.com&utm_medium=social" data-contentdeeplinkid="/story/347104878" data-clientid="54045534594.apps.googleusercontent.com" data-cookiepolicy="http://npr.org" data-prefilltext="" data-calltoactionlabel="LISTEN" data-calltoactionurl="http://www.npr.org/programs/ted-radio-hour/347104878/transformation?utm_campaign=storyshare&utm_source=plus.google.com&utm_medium=social" data-calltoactiondeeplinkid="/story/listen/347104878">
+      <a href="#"  data-metrics='{"action":"Click Google Plus","category":"Share Tools","label":"http:\/\/www.npr.org\/programs\/ted-radio-hour\/347104878\/transformation"}' >Google+</a>
+</div>
+
+<!-- END CLASS="G-INTERACTIVEPOST" DATA-CONTENTURL="HTTP://WWW.NPR.ORG/PROGRAMS/TED-RADIO-HOUR/347104878/TRANSFORMATION?UTM_CAMPAIGN=STORYSHARE&UTM_SOURCE=PLUS.GOOGLE.COM&UTM_MEDIUM=SOCIAL" DATA-CONTENTDEEPLINKID="/STORY/347104878" DATA-CLIENTID="54045534594.APPS.GOOGLEUSERCONTENT.COM" DATA-COOKIEPOLICY="HTTP://NPR.ORG" DATA-PREFILLTEXT="" DATA-CALLTOACTIONLABEL="LISTEN" DATA-CALLTOACTIONURL="HTTP://WWW.NPR.ORG/PROGRAMS/TED-RADIO-HOUR/347104878/TRANSFORMATION?UTM_CAMPAIGN=STORYSHARE&UTM_SOURCE=PLUS.GOOGLE.COM&UTM_MEDIUM=SOCIAL" DATA-CALLTOACTIONDEEPLINKID="/STORY/LISTEN/347104878" -->
+</li>
+         <li class="email"><a href='javascript:void(0);' class='email eaf_link' data-story-id='347104878'  data-metrics='{"action":"Email a Friend","network":"NPR Site","type":"socialEvent"}' >Email</a></li>
+      </ul>
+   </div>
+</div>
+
+        </li>
+    </ul>
+</div>
+
+            </div>
+        </div>
+
+    </article>
+    <article class="program-archive-episode" data-episode-id="342134398" data-episode-date="2014-09-12">
+        <h1 class="date">
+            <a href="http://www.npr.org/programs/ted-radio-hour/342134398/from-curiosity-to-discovery?showDate=2014-09-12"  data-metrics='{"action":"Click Archive Episode Title","category":"Episode Archive","label":"http:\/\/www.npr.org\/programs\/ted-radio-hour\/342134398\/from-curiosity-to-discovery"}' >
+                Friday
+                <time datetime="2014-09-12">September 12, 2014</time>
+
+                <b class="icn-arrow"></b>
+            </a>
+        </h1>
+
+        <div class="inner">
+            <div class="episodeimg">
+                <div class="imagewrap">
+    <a href="http://www.npr.org/programs/ted-radio-hour/342134398/from-curiosity-to-discovery">
+            <img src="http://media.npr.org/assets/img/2014/09/10/from_curiosity_to_discovery_wide-019bb2981442f3e3c0112980368d08596362a144-s1-c25.jpg" data-original="http://media.npr.org/assets/img/2014/09/10/from_curiosity_to_discovery_wide-019bb2981442f3e3c0112980368d08596362a144-s1.jpg" class="respLgArchListImg lazyOnLoad"  title="What drives discovery?" alt="What drives discovery?" />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption">
+        <p>
+            What drives discovery?
+            
+                <b class="credit">
+                    
+                    Courtesy of TED
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+        </p>
+    </div>
+    <b class="toggle-caption">i<b>toggle caption</b></b>
+    <span class="credit">
+        
+        Courtesy of TED
+        
+    </span>
+</div>
+
+            </div>
+
+            <div class="episodeinfo">
+                <a href="http://www.npr.org/programs/ted-radio-hour/342134398/from-curiosity-to-discovery?showDate=2014-09-12"  data-metrics='{"action":"Click Archive Episode Title","category":"Episode Archive","label":"http:\/\/www.npr.org\/programs\/ted-radio-hour\/342134398\/from-curiosity-to-discovery"}' >
+                    <h2 class="title">From Curiosity To Discovery</h2>
+                    <p class="teaser">Why do some people spend years trying to answer a single question, or even risk their lives to discover something new? In this hour, TED speakers explore how curiosity leads to unexpected places.</p>
+                </a>
+                
+
+<div class="audio-player three-up">
+    
+    <a href="#" data-audio="/npr/ted/2014/09/20140912_ted_tedpod" data-audio-desktop='[57, 0, "09-12-2014", 1, 3, 0]'   data-metrics='{"action":"Play Full Episode","category":"Audio Bar","label":"TED Radio Hour"}'  >
+        <b class="icn-media"></b>
+
+        <b class="time-progress"></b>
+
+        <b class="call-to-action">Listen <b>to Full Show</b></b>
+
+        <b class="loading">Loading&hellip;</b>
+        
+        
+        <b class="audio-info">
+            <b class="time-elapsed"></b>
+            <b class="time-total">49:10</b>
+        </b>
+    </a>
+    <ul class="aux">
+            <li class="playlist"><a class="add" data-audio-desktop='[57, 0, "09-12-2014", 2, 3, 0]'  data-metrics='{"action":"Add Full Episode to Playlist","category":"Audio Bar","label":"TED Radio Hour"}'  title="Playlist"><b class="icn"></b>Playlist</a></li>
+    
+            <li class="download"><a href="http://pd.npr.org/anon.npr-mp3/npr/ted/2014/09/20140912_ted_tedpod.mp3?dl=1"  data-metrics='{"action":"Download Full Episode","category":"Audio Bar","label":"TED Radio Hour"}'  title="Download"><b class="icn"></b>Download</a></li>
+                
+        <li class="share" data-sharepop="" data-selector=".sharepop-three.share.sp342134398"  data-metrics='{"action":"Toggle Share Tools","category":"Share Tools"}'  >
+            <a href="#" title="Share"><b class="icn"></b>share</a>
+            <div class='sharepop-three share sp342134398'>
+      <a class="sharemaintab" href="#">Share</a>   <div class="sharepop">
+            <ul>
+                  <li class="facebookLi"><a class="facebook fbStory342134398" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(342134398);" data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"http:\/\/www.npr.org\/programs\/ted-radio-hour\/342134398\/from-curiosity-to-discovery"}' ><span class="name">Facebook</span></a></li>
+         <li class="twitterLi"><a class="retweetStory story342134398 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(342134398);" data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"http:\/\/www.npr.org\/programs\/ted-radio-hour\/342134398\/from-curiosity-to-discovery"}' ><span class="name">Twitter</span></a></li>
+         <li class="googlePlusLi"><div class="g-interactivepost" data-contenturl="http://www.npr.org/programs/ted-radio-hour/342134398/from-curiosity-to-discovery?utm_campaign=storyshare&utm_source=plus.google.com&utm_medium=social" data-contentdeeplinkid="/story/342134398" data-clientid="54045534594.apps.googleusercontent.com" data-cookiepolicy="http://npr.org" data-prefilltext="" data-calltoactionlabel="LISTEN" data-calltoactionurl="http://www.npr.org/programs/ted-radio-hour/342134398/from-curiosity-to-discovery?utm_campaign=storyshare&utm_source=plus.google.com&utm_medium=social" data-calltoactiondeeplinkid="/story/listen/342134398">
+      <a href="#"  data-metrics='{"action":"Click Google Plus","category":"Share Tools","label":"http:\/\/www.npr.org\/programs\/ted-radio-hour\/342134398\/from-curiosity-to-discovery"}' >Google+</a>
+</div>
+
+<!-- END CLASS="G-INTERACTIVEPOST" DATA-CONTENTURL="HTTP://WWW.NPR.ORG/PROGRAMS/TED-RADIO-HOUR/342134398/FROM-CURIOSITY-TO-DISCOVERY?UTM_CAMPAIGN=STORYSHARE&UTM_SOURCE=PLUS.GOOGLE.COM&UTM_MEDIUM=SOCIAL" DATA-CONTENTDEEPLINKID="/STORY/342134398" DATA-CLIENTID="54045534594.APPS.GOOGLEUSERCONTENT.COM" DATA-COOKIEPOLICY="HTTP://NPR.ORG" DATA-PREFILLTEXT="" DATA-CALLTOACTIONLABEL="LISTEN" DATA-CALLTOACTIONURL="HTTP://WWW.NPR.ORG/PROGRAMS/TED-RADIO-HOUR/342134398/FROM-CURIOSITY-TO-DISCOVERY?UTM_CAMPAIGN=STORYSHARE&UTM_SOURCE=PLUS.GOOGLE.COM&UTM_MEDIUM=SOCIAL" DATA-CALLTOACTIONDEEPLINKID="/STORY/LISTEN/342134398" -->
+</li>
+         <li class="email"><a href='javascript:void(0);' class='email eaf_link' data-story-id='342134398'  data-metrics='{"action":"Email a Friend","network":"NPR Site","type":"socialEvent"}' >Email</a></li>
+      </ul>
+   </div>
+</div>
+
+        </li>
+    </ul>
+</div>
+
+            </div>
+        </div>
+
+    </article>
+    </div>
+</div><footer id="nprfooter"><div class="footer-wrapper">
+      <div class="primary" data-metrics-category="Global Footer" data-metrics-visible="scroll-down end" data-metrics-label="Footer">
+
+    <ul>
+        <li><a href="/" data-action="Click Logo" data-metrics='{"action":"Click Footer Logo"}'></a></li>
+        <li class="news" data-metrics-action="Click News" data-metrics-all>
+            <a href="/sections/news/">News</a>
+
+            <ul>
+                <li><a href="/sections/us/">U.S.</a></li>
+                <li><a href="/sections/world/">World</a></li>
+                <li><a href="/sections/opinion/">Opinion</a></li>
+                <li><a href="/sections/politics">Politics</a></li>
+                <li><a href="/sections/business/">Business</a></li>
+                <li><a href="/sections/technology/">Technology</a></li>
+                <li><a href="/sections/science/">Science</a></li>
+                <li><a href="/sections/health/">Health</a></li>
+                <li><a href="/sections/sports/">Sports</a></li>
+            </ul>
+        </li>
+        <li class="artslife" data-metrics-action="Click Arts &amp; Life" data-metrics-all>
+            <a href="/sections/arts/">Arts &amp; Life</a>
+
+            <ul>
+                <li><a href="/books/">Books</a></li>
+                <li><a href="/sections/movies/">Movies</a></li>
+                <li><a href="/sections/pop-culture/">Pop Culture</a></li>
+                <li><a href="/sections/food/">Food</a></li>
+                <li><a href="/sections/performing-arts/">Performing Arts</a></li>
+                <li><a href="/sections/games-humor/">Games &amp; Humor</a></li>
+            </ul>
+        </li>
+        <li class="music" data-metrics-action="Click Music" data-metrics-all>
+            <a href="/music/">Music</a>
+
+            <ul>
+                <li><a href="/series/100920965/music-articles/">Music Articles</a></li>
+                <li><a href="/sections/music-videos/">Music Videos</a></li>
+                <li><a href="/templates/websites/musicstreams.php">NPR Music Radio</a></li>
+                <li><a href="/templates/artist/artist_index.php?filter=A">Browse Artists A-Z </a></li>
+
+                <li><a href="/programs/all-songs-considered/">All Songs Considered</a></li>
+                <li><a href="/series/alt-latino/">Alt.Latino</a></li>
+                <li><a href="/series/98679384/first-listen/">First Listen</a></li>
+                <li><a href="/blogs/metropolis/">Metropolis</a></li>
+                <li><a href="/blogs/microphonecheck/">Microphone Check</a></li>
+                <li><a href="/series/mountain-stage/">Mountain Stage</a></li>
+                <li><a href="http://www.fromthetop.org/">From The Top</a></li>
+                <li><a href="/programs/jazzset/">JazzSet</a></li>
+                <li><a href="/programs/piano-jazz/">Piano Jazz</a></li>
+                <li><a href="/series/150560513/song-travels/">Song Travels</a></li>
+                <li><a href="/series/103063413/the-thistle-and-shamrock/">The Thistle &amp; Shamrock</a></li>
+                <li><a href="/programs/world-cafe/">World Cafe</a></li>
+            </ul>
+        </li>
+        <li class="programs" data-metrics-action="Click Programs" data-metrics-all>
+            <a href="/programs/">Programs</a>
+
+            <ul>
+                <li><a href="/programs/all-things-considered/">All Things Considered</a></li>
+                <li><a href="/programs/ask-me-another/">Ask Me Another</a></li>
+                <li><a href="http://www.cartalk.com">Car Talk</a></li>
+                <li><a href="http://thedianerehmshow.org">The Diane Rehm Show</a></li>
+                <li><a href="/programs/fresh-air/">Fresh Air</a></li>
+                <li><a href="http://hereandnow.wbur.org/">Here &amp; Now</a></li>
+                <li><a href="/programs/latino-usa/">Latino USA</a></li>
+                <li><a href="/programs/morning-edition/">Morning Edition</a></li>
+                <li><a href="http://www.onthemedia.org">On The Media</a></li>
+                <li><a href="http://www.onpointradio.org/">On Point</a></li>
+                <li><a href="http://www.sciencefriday.com/">Science Friday</a></li>
+                <li><a href="/programs/ted-radio-hour/">TED Radio Hour</a></li>
+                <li><a href="/programs/wait-wait-dont-tell-me/">Wait Wait...Don't Tell Me!</a></li>
+                <li><a href="/programs/weekend-edition-saturday/">Weekend Edition <span>Saturday</span></a></li>
+                <li><a href="/programs/weekend-edition-sunday/">Weekend Edition Sunday</a></li>
+            </ul>
+        </li>
+        <li class="listen" data-metrics-action="Click Listen" data-metrics-all>
+            <a href="/listen/">Listen</a>
+
+            <ul>
+                <li><a href="javascript:NPR.Player.openPlayer(0,0,null,NPR.Player.Action.PLAY_NOW, NPR.Player.Type.NEWSCAST, NPR.Player.Mode.FROM_FILE);" class="hourlyNews">Hourly News</a></li>
+                <li><a href="javascript:NPR.Player.openPlayer(0,0,null,NPR.Player.Action.LIVE_STREAM, NPR.Player.Type.PROGRAM_STREAM, NPR.Player.Mode.FROM_FILE);" class="programStream">NPR Program Stream</a></li>
+                <li><a href="/stations/">Find Station Streams</a></li>
+                <li><a href="/rss/podcast/podcast_directory.php">Podcasts</a></li>
+                <li><a href="/about-npr/187046089/ways-to-listen-to-npr">More Ways To Listen</a></li>
+            </ul>
+        </li>
+        <li class="about" data-metrics-action="Click About" data-metrics-all>
+            <a href="/about/">About</a>
+
+            <ul>
+                <li><a href="http://help.npr.org/npr/includes/customer/npr/custforms/contactus.aspx">Contact Us</a></li>
+                <li><a href="http://shop.npr.org">NPR Shop</a></li>
+                <li><a href="http://tours.npr.org/npr/Home/">Visit NPR</a></li>
+                <li><a href="http://www.npr.org/about-npr/181953728/work-at-npr">Careers at NPR</a></li>
+                <li><a href="/about/press/">Press Room</a></li>
+                <li><a href="/blogs/thisisnpr/">'This Is NPR' Blog</a></li>
+				<li><a href="/about/support/">Support and Sponsor</a></li>
+                <li><a href="/templates/corrections/corrections.php">Corrections</a></li>
+                <li><a href="/blogs/ombudsman/">NPR Ombudsman</a></li>
+                <li><a href="/about-npr/179881519/rights-and-permissions-information">Permissions</a></li>
+                <li><a href="/email/">Email Newsletters</a></li>
+                <li><a href="/rss/">RSS Feeds</a></li>
+                <li><a href="/api/">The NPR API</a></li>
+			</ul>
+        </li>
+    </ul>
+</div>
+
+<div class="secondary">
+    <p class="copyright tablet">&copy; 2014 NPR</p>
+    <ul>
+      <li><a href="http://help.npr.org">Help</a></li>
+      <li id="footerContact"><a href="http://help.npr.org/npr/includes/customer/npr/custforms/contactus.aspx">Contact</a></li>
+      <li><a href="/about-npr/179876898/terms-of-use">Terms of Use</a></li>
+      <li><a href="/about-npr/179878450/privacy-policy">Privacy</a></li>
+      <li class="sponsorship-choices"><a href="/about-npr/179878450/privacy-policy#opting-out-of-cookies-and-web-beacons">Sponsorship Choices</a></li>
+      <li><a href="http://thin.npr.org/">Text-Only</a></li>
+    </ul>
+    <p class="copyright mobile desktop">&copy; 2014 NPR</p>
+</div>
+</div>
+</footer><div id="scrolllink"><a href="/programs/ted-radio-hour/archive?date=2014-09-12&amp;eid=342134398">More</a></div>
+
+<div id="infinitescrollwrap">
+    <div id="infinitescroll"></div>
+</div>
+</section>
+   </div>
+   
+<!-- END ID="SECTIONWRAP" CLASS="CLEARFIX" -->
+   <div id="main_sidebar">
+            
+<!-- START UNDERWRITING -->
+      <div id="ad-desktop-wrap">
+    <div id="ad-desktop">
+            <script type="text/javascript">
+            if (DFP.shouldRenderForDevice('desktop')) {
+                googletag.cmd.push(function() { googletag.display('ad-desktop'); });
+            }
+            </script>
+    </div>
+    <p class="left">NPR thanks our sponsors</p><p class="right"><a href="/about-npr/186948703/corporate-sponsorship">Become an NPR sponsor</a></p>
+</div>      
+<!-- END UNDERWRITING -->
+      <div id="resMore">
+                   <!--googleoff: all-->         <div id="relatedstorieswrap">
+                        <section id="relatedstories"><h4>Most Viewed</h4>
+<div id="resMoreAPI" class="bucketwrap apiquery responsive_more">
+      <article id="story353530016" class="story clearfix"><a href="http://www.npr.org/blogs/health/2014/10/03/353530016/a-simple-question-can-stop-ebola-how-do-you-feel" data-metrics='{"category" : "Story to Story", "action" : "Click Egg Carton", "label" : "http://www.npr.org/blogs/health/2014/10/03/353530016/a-simple-question-can-stop-ebola-how-do-you-feel"}'><div class="storyinfo">
+<h2 class="slug">Health</h2>
+<h3>A Simple Question Can Stop Ebola: How Do You Feel?</h3>
+</div>
+<div class="storyimg"><img src="http://media.npr.org/assets/img/2014/10/03/ebola-questions_sq-949ea2fe9ee37c065fc6b266a9bd8da899d91391.jpg?s=16" alt="A Red Cross worker delivers bedding to a unit at The Ivy Apartments in Dallas, where a man diagnosed with the Ebola virus had been staying."></div></a></article><article id="story353537555" class="story clearfix last"><a href="http://www.npr.org/blogs/thetwo-way/2014/10/03/353537555/in-new-video-islamic-state-purports-to-behead-british-citizen" data-metrics='{"category" : "Story to Story", "action" : "Click Egg Carton", "label" : "http://www.npr.org/blogs/thetwo-way/2014/10/03/353537555/in-new-video-islamic-state-purports-to-behead-british-citizen"}'><div class="storyinfo noimg">
+<h2 class="slug">News</h2>
+<h3>In New Video, Islamic State Beheads British Citizen</h3>
+</div></a></article>
+</div>
+
+<!-- END ID="RESMOREAPI" CLASS="BUCKETWRAP APIQUERY RESPONSIVE_MORE" -->
+</section>
+         </div>
+         
+<!-- END ID="RELATEDSTORIESWRAP" -->
+          <!--googleon: all-->
+      </div>
+      
+<!-- END ID="RESMORE" -->
+   </div>
+   
+<!-- END ID="MAIN_SIDEBAR" -->
+</div>
+
+<!-- END ID="WRAPPER" -->
+
+<!--dontvalidate-->
+<section id="navsidebar" role="complementary"><nav id="loginSidebar" data-metrics-category="Global Navigation">
+    <div class="nav-container">
+        <div class="nav-top-level">
+            <form action="/search/index.php" method="get" name="searchForm" id="searchForm_nav" class="search">
+                <label for="searchinput">Search</label>
+                <input type="search" name="searchinput" id="searchinput_nav" class="textbox searchbox">
+            </form>
+
+            <ul>
+                <li class="home"><a href="/" data-metrics='{"action":"Click NPR Home"}'>Home</a></li>
+                <li class="topics"><a href="/" data-metrics='{"action":"Click Topics"}'>Topics</a></li>
+                <li class="programs-sitewide"><a href="/" data-metrics='{"action":"Click Programs"}'>Programs</a></li>
+                <li class="donate"><a href="/stations/donate/index.php" data-metrics='{"action":"Click Business Link"}'>Donate</a></li>
+                <li class="stations" data-metrics='{"action":"Click Business Link"}'><a href="/templates/stations/stations/">Stations</a></li>
+                <li class="nprshop"><a href="http://shop.npr.org" data-metrics='{"action":"Click Business Link"}'>NPR Shop</a></li>
+                <li class="login-reg loggedOut">
+                    <a href="/templates/reg/login.php" data-metrics='{"action":"Click Profile Link"}'>Sign In / Register</a>
+                </li>
+            </ul>
+            <ul class="loggedIn">
+                <li class="userLogin">
+                    <span id="userLoginSidebar"></span>
+                </li>
+                <li class="login-reg">
+                    <a href="/templates/reg/logout.php" class="logout" data-metrics='{"action":"Click Profile Link"}'>Logout</a>
+                </li>
+            </ul>
+        </div> <!-- /.nav-top-level -->
+
+        <div class="subnavs subnavs-topics" data-metrics-all data-metrics-action="Click Topic">
+            <a  class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+            <h1><a href="/sections/news/">News</a></h1>
+            <ul>
+                <li><a href="/sections/us/">U.S.</a></li>
+                <li><a href="/sections/world/">World</a></li>
+                <li><a href="/sections/politics/">Politics</a></li>
+                <li><a href="/sections/business/">Business</a></li>
+                <li><a href="/sections/technology/">Technology</a></li>
+                <li><a href="/sections/science/">Science</a></li>
+                <li><a href="/sections/health/">Health</a></li>
+				<li><a href="/blogs/codeswitch/">Race &amp; Culture</a></li>
+            </ul>
+
+            <h1><a href="/sections/arts/">Arts &amp; Life</a></h1>
+            <ul>
+                <li><a href="/sections/movies/">Movies</a></li>
+                <li><a href="/sections/pop-culture/">Pop Culture</a></li>
+                <li><a href="/sections/food/">Food</a></li>
+                <li><a href="/sections/art-design/">Art &amp; Design</a></li>
+                <li><a href="/sections/performing-arts/">Performing Arts</a></li>
+                <li><a href="/sections/photography/">Photography</a></li>
+
+            </ul>
+
+            <h1><a href="/books/">Books</a></h1>
+            <ul>
+                <li><a href="/sections/book-reviews/">Book Reviews</a></li>
+                <li><a href="/sections/author-interviews/">Author Interviews</a></li>
+            </ul>
+
+            <h1><a href="/music/">Music</a></h1>
+            <ul>
+                <li><a href="/series/98679384/first-listen/">First Listen</a></li>
+                <li><a href="/series/100920965/music-articles/">Music Articles</a></li>
+                <li><a href="/series/15667984/favorite-sessions/">Studio Sessions</a></li>
+                <li><a href="/sections/music-videos/">Videos</a></li>
+            </ul>
+
+            <h1><a href="/about-npr/198341814/npr-blog-directory">Our Blogs</a></h1>
+
+            <h1><a href="/templates/corrections/corrections.php">Corrections</a></h1>
+
+            <h1><a href="/about/aboutnpr/">All About NPR</a></h1>
+        </div> <!-- /.subnavs-topics -->
+
+        <div class="subnavs subnavs-programs-sitewide" data-metrics-all data-metrics-action="Click Program">
+            <div class="subnav subnav-programs-sitewide">
+                <a  class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a  class="news-talk">news &amp; conversations</a></li>
+                    <li><a  class="entertainment-culture">storytelling &amp; humor</a></li>
+                    <li><a  class="music">music</a></li>
+                    <li><a  class="special-series">also heard on npr stations</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-news-talk">
+                <a  class="back back-to-programs"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/programs/morning-edition/">Morning Edition</a></li>
+                    <li><a href="/programs/all-things-considered/">All Things Considered</a></li>
+                    <li><a href="/programs/fresh-air/">Fresh Air</a></li>
+                    <li><a href="http://hereandnow.wbur.org/">Here &amp; Now</a></li>
+                    <li><a href="http://thedianerehmshow.org">The Diane Rehm Show</a></li>
+                    <li><a href="/programs/latino-usa/">Latino USA</a></li>
+                    <li><a href="http://www.onthemedia.org">On The Media</a></li>
+                    <li><a href="http://www.onpointradio.org/">On Point</a></li>
+                    <li><a href="http://www.sciencefriday.com/">Science Friday</a></li>
+                    <li><a href="/programs/weekend-edition-saturday/">Weekend Edition Saturday</a></li>
+                    <li><a href="/programs/weekend-edition-sunday/">Weekend Edition Sunday</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-entertainment-culture">
+                <a  class="back back-to-programs"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/programs/ask-me-another/">Ask Me Another</a></li>
+                    <li><a href="http://www.cartalk.com">Car Talk</a></li>
+            		<li><a href="http://www.radiolab.org">Radiolab</a></li>
+            		<li><a href="/programs/snap-judgment/">Snap Judgment</a></li>
+                    <li><a href="http://storycorps.org" class="storycorps">StoryCorps</a></li>
+            		<li><a href="/programs/ted-radio-hour/">TED Radio Hour</a></li>
+                    <li><a href="/programs/wait-wait-dont-tell-me/">Wait Wait...Don't Tell Me!</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-music">
+                <a  class="back back-to-programs"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/programs/all-songs-considered/">All Songs Considered</a></li>
+                    <li><a href="/series/alt-latino/">Alt.Latino</a></li>
+                    <li><a href="/series/98679384/first-listen/">First Listen</a></li>
+                    <li><a href="/blogs/metropolis/">Metropolis</a></li>
+                    <li><a href="/blogs/microphonecheck/">Microphone Check</a></li>
+                    <li><a href="/series/mountain-stage/">Mountain Stage</a></li>
+                    <li><a href="http://www.fromthetop.org/">From The Top</a></li>
+                    <li><a href="/programs/jazzset/">JazzSet</a></li>
+                    <li><a href="/programs/piano-jazz/">Piano Jazz</a></li>
+                    <li><a href="/series/150560513/song-travels/">Song Travels</a></li>
+                    <li><a href="/series/103063413/the-thistle-and-shamrock/">The Thistle &amp; Shamrock</a></li>
+                    <li><a href="/programs/world-cafe/">World Cafe</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-special-series">
+                <a  class="back back-to-programs"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="http://prairiehome.publicradio.org">A Prairie Home Companion <b>(APM)</b></a></li>
+					<li><a href="http://marketplace.publicradio.org">Marketplace <b>(APM)</b></a></li>
+                    <li><a href="http://www.sciencefriday.com/">Science Friday</a></li>
+                    <li><a href="http://www.thisamericanlife.org">This American Life <b>(PRX)</b></a></li>
+            		<li><a href="/programs/">Public Radio Programs A to Z</a></li>
+                </ul>
+            </div>
+        </div> <!-- /.subnavs-programs -->
+    </div> <!-- /.nav-container -->
+</nav></section>
+<!--/dontvalidate-->
+<div id="adhesion">
+      <div id="ad-mobile-wrap">
+    <div id="ad-mobile">
+            <script type="text/javascript">
+              if (DFP.shouldRenderForDevice('mobile')) {
+                var ord = window.ord || Math.floor(Math.random() * 1e16);
+                
+                // use the smaller size for phone, the larger size for tablet
+                var sizes = '640x100';
+                if (Modernizr.mq('only screen and (min-width: 768px)')) {
+                    sizes = '2048x180';
+                }
+                
+                var targets = ';';
+                targets += 'program=TED_Radio_Hour;';
+                targets += 'theme=57;';
+                targets += 'storyId=351538855;';
+                
+                document.write('<scr' + 'ipt type="text/javascript" src="http://ad.doubleclick.net/N6735/adj/n6735.nprmobile/Arts___Life' + targets + 'sz=' + sizes + ';ord=' + ord + '?"><\/script>');
+              }
+            </script>
+    </div>
+</div> 
+</div>
+
+<!-- END ID="ADHESION" -->
+<script type="text/javascript" src="http://s.npr.org/templates/javascript/generated/fingerprint/programs-fe483b266c2fed07673fc0fd6a4911936164860e.js">
+   </script>
+</body></html><!--  Burned on demand at 2014-10-03 22:16:35--><!-- LIVE -->

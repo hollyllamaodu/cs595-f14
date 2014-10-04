@@ -1,0 +1,5453 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="lt-ie10 ie8" lang="en data-scribe-reduced-action-queue="true""><![endif]-->
+<!--[if IE 9]><html class="lt-ie10 ie9" lang="en data-scribe-reduced-action-queue="true""><![endif]-->
+<!--[if gt IE 9]><!--><html lang="en" data-scribe-reduced-action-queue="true"><!--<![endif]-->
+  <head>
+    
+    
+    
+    
+    
+    
+    
+    <meta charset="utf-8">
+    
+    
+  <script id="swift_action_queue">
+    (function(){function m(a){a||(a=window.event);if(!a)return!1;a.timestamp=(new Date).getTime();!a.target&&a.srcElement&&(a.target=a.srcElement);if(document.documentElement.getAttribute("data-scribe-reduced-action-queue")){var b=a.target;while(b&&b!=document
+.body){if(b.tagName=="A")return;b=b.parentNode}}r("all",s(a));if(!q(a)){r("direct",a);return!0}document.addEventListener||(a=s(a));a.preventDefault=a.stopPropagation=a.stopImmediatePropagation=function(){};if(i){f.push(a);r("captured",a)}else r("ignored",a
+);return!1}function n($){p();for(var a=0,b;b=f[a];a++){var d=$(b.target),e=d.closest("a")[0];if(b.type=="click"&&e){var g=$.data(e,"events"),i=g&&g.click,j=!e.hostname.match(c)||!e.href.match(/#$/);if(!i&&j){window.location=e.href;continue}}d.trigger(b)}window
+.swiftActionQueue.wasFlushed=!0}function o(){for(var a in j){if(a=="all")continue;var b=j[a];for(var c=0;c<b.length;c++)console.log("actionQueue",u(b[c]))}}function p(){clearTimeout(g);for(var a=0,b;b=e[a];a++)document["on"+b]=null}function q(a){if(!a.target
+)return!1;var b=a.target,e=(b.tagName||"").toLowerCase();if(a.metaKey)return!1;if(a.shiftKey&&e=="a")return!1;if(b.hostname&&!b.hostname.match(c))return!1;if(a.type.match(d)&&w(b))return!1;if(e=="label"){var f=b.getAttribute("for");if(f){var g=document.getElementById
+(f);if(g&&v(g))return!1}else for(var i=0,j;j=b.childNodes[i];i++)if(v(j))return!1}return!0}function r(a,b){b.bucket=a;j[a].push(b)}function s(a){var b={};for(var c in a)b[c]=a[c];return b}function t(a){while(a&&a!=document.body){if(a.tagName=="A")return a;
+a=a.parentNode}}function u(b){var c=[];b.bucket&&c.push("["+b.bucket+"]");c.push(b.type);var d=b.target,e=t(d),f="",g,i,j=b.timestamp&&b.timestamp-a;if(b.type==="click"&&e){g=e.className.trim().replace(/\s+/g,".");i=e.id.trim();f=/[^#]$/.test(e.href)?" ("+
+e.href+")":"";d='"'+e.innerText.replace(/\n+/g," ").trim()+'"'}else{g=d.className.trim().replace(/\s+/g,".");i=d.id.trim();d=d.tagName.toLowerCase();b.keyCode&&(d=String.fromCharCode(b.keyCode)+" : "+d)}c.push(d+f+(i&&"#"+i)+(!i&&g?"."+g:""));j&&c.push(j);
+return c.join(" ")}function v(a){var b=(a.tagName||"").toLowerCase();return b=="input"&&a.getAttribute("type")=="checkbox"}function w(a){var b=(a.tagName||"").toLowerCase();return b=="textarea"||b=="input"&&a.getAttribute("type")=="text"||a.getAttribute("contenteditable"
+)=="true"}var a=(new Date).getTime(),b=1e4,c=/^([^\.]+\.)*twitter\.com$/,d=/^key/,e=["click","keydown","keypress","keyup"],f=[],g=null,i=!0,j={captured:[],ignored:[],direct:[],all:[]};for(var k=0,l;l=e[k];k++)document["on"+l]=m;g=setTimeout(function(){i=!1
+},b);window.swiftActionQueue={buckets:j,flush:n,logActions:o,wasFlushed:!1}})();
+  </script>
+  <script id="composition_state">
+    (function(){function a(a){a.target.setAttribute("data-in-composition","true")}function b(a){a.target.removeAttribute("data-in-composition")}if(document.addEventListener){document.addEventListener("compositionstart",a,!1);document.addEventListener("compositionend"
+,b,!1)}})();
+  </script>
+
+    <link rel="stylesheet" href="https://abs.twimg.com/a/1412373788/css/t1/twitter_core.bundle.css">
+    <link rel="stylesheet" href="https://abs.twimg.com/a/1412373788/css/t1/twitter_logged_out.bundle.css">
+
+
+      <title>Top Gear on Twitter: &quot;Meet the ‘Mark 2’, a brand new old Jaguar from Jag’s design director @IanCallum &#10;http://t.co/FNzLSSJHN6 http://t.co/V6hNoUaUlU&quot;</title>
+      <meta name="robots" content="NOODP">
+  
+
+
+
+<meta name="msapplication-TileImage" content="//abs.twimg.com/favicons/win8-tile-144.png"/>
+<meta name="msapplication-TileColor" content="#00aced"/>
+
+  <link href="//abs.twimg.com/favicons/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+
+  <meta name="swift-page-name" id="swift-page-name" content="permalink">
+
+    <link rel="canonical" href="https://twitter.com/BBC_TopGear/status/504949462004162560">
+  <link rel="alternate" hreflang="x-default" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560">
+  <link rel="alternate" hreflang="fr" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=fr"><link rel="alternate" hreflang="en" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=en"><link rel="alternate" hreflang="ar" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=ar"><link rel="alternate" hreflang="ja" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=ja"><link rel="alternate" hreflang="es" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=es"><link rel="alternate" hreflang="de" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=de"><link rel="alternate" hreflang="it" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=it"><link rel="alternate" hreflang="id" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=id"><link rel="alternate" hreflang="pt" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=pt"><link rel="alternate" hreflang="ko" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=ko"><link rel="alternate" hreflang="tr" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=tr"><link rel="alternate" hreflang="ru" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=ru"><link rel="alternate" hreflang="nl" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=nl"><link rel="alternate" hreflang="fil" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=fil"><link rel="alternate" hreflang="ms" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=ms"><link rel="alternate" hreflang="zh-tw" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=zh-tw"><link rel="alternate" hreflang="zh-cn" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=zh-cn"><link rel="alternate" hreflang="hi" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=hi"><link rel="alternate" hreflang="no" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=no"><link rel="alternate" hreflang="sv" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=sv"><link rel="alternate" hreflang="fi" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=fi"><link rel="alternate" hreflang="da" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=da"><link rel="alternate" hreflang="pl" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=pl"><link rel="alternate" hreflang="hu" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=hu"><link rel="alternate" hreflang="fa" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=fa"><link rel="alternate" hreflang="he" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=he"><link rel="alternate" hreflang="ur" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=ur"><link rel="alternate" hreflang="th" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=th"><link rel="alternate" hreflang="uk" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=uk"><link rel="alternate" hreflang="ca" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=ca"><link rel="alternate" hreflang="el" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=el"><link rel="alternate" hreflang="eu" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=eu"><link rel="alternate" hreflang="cs" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=cs"><link rel="alternate" hreflang="gl" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=gl"><link rel="alternate" hreflang="ro" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=ro"><link rel="alternate" hreflang="en-gb" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=en-gb"><link rel="alternate" hreflang="vi" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=vi"><link rel="alternate" hreflang="bn" href="https://twitter.com/BBC_TopGear/status/504949462004162560?screen_name=BBC_TopGear&amp;photo_id=1&amp;id=504949462004162560&amp;lang=bn">
+
+      <link rel="alternate" type="application/json+oembed" href="https://api.twitter.com/1/statuses/oembed.json?id=504949462004162560" title="Top Gear on Twitter: &quot;Meet the ‘Mark 2’, a brand new old Jaguar from Jag’s design director @IanCallum &#10;http://t.co/FNzLSSJHN6 http://t.co/V6hNoUaUlU&quot;">
+  <link rel="alternate" type="text/xml+oembed" href="https://api.twitter.com/1/statuses/oembed.xml?id=504949462004162560" title="Top Gear on Twitter: &quot;Meet the ‘Mark 2’, a brand new old Jaguar from Jag’s design director @IanCallum &#10;http://t.co/FNzLSSJHN6 http://t.co/V6hNoUaUlU&quot;">
+
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Twitter">
+          <link rel="stylesheet" href="https://abs.twimg.com/a/1412373788/css/t1/twitter_more_1.bundle.css">
+      <link rel="stylesheet" href="https://abs.twimg.com/a/1412373788/css/t1/twitter_more_2.bundle.css">
+
+  </head>
+  <body class="three-col logged-out user-style-BBC_TopGear" 
+data-fouc-class-names="swift-loading"
+ dir="ltr">
+      <script id="swift_loading_indicator">
+        document.body.className=document.body.className+" "+document.body.getAttribute("data-fouc-class-names");
+      </script>
+    <div id="doc" class="route-permalink">
+        <div class="topbar js-topbar    ">
+  <div id="banners" class="js-banners">
+  </div>
+  <div class="global-nav" data-section-term="top_nav">
+    <div class="global-nav-inner">
+      <div class="container">
+
+        
+        <ul class="nav js-global-actions"><li class="home" data-global-action="t1home">
+              <a class="nav-logo-link" href="/" data-nav="front">
+                <span class="Icon Icon--bird"><span class="visuallyhidden">Twitter</span></span>
+              </a>
+          </li></ul>
+        <div class="pull-right">
+            <div role="search">
+  <form class="t1-form form-search js-search-form" action="/search" id="global-nav-search">
+    <label class="visuallyhidden" for="search-query">Search query</label>
+    <input class="search-input" type="text" id="search-query" placeholder="Search Twitter" name="q" autocomplete="off" spellcheck="false">
+    <span class="search-icon js-search-action">
+      <button type="submit" class="Icon Icon--search nav-search">
+        <span class="visuallyhidden">Search Twitter</span>
+      </button>
+    </span>
+      
+
+
+<div role="listbox" class="dropdown-menu typeahead">
+  <div aria-hidden="true" class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <div role="presentation" class="dropdown-inner js-typeahead-results">
+    <div role="presentation" class="typeahead-saved-searches">
+  <h3 id="saved-searches-heading" class="typeahead-category-title saved-searches-title">Saved searches</h3>
+  <ul role="presentation" class="typeahead-items saved-searches-list">
+    
+    <li role="presentation" class="typeahead-item typeahead-saved-search-item">
+      <span class="icon close" aria-hidden="true"><span class="visuallyhidden">Remove</span></span>
+      <a role="option" aria-describedby="saved-searches-heading" class="js-nav" href="" data-search-query="" data-query-source="" data-ds="saved_search" tabindex="-1"></a>
+    </li>
+  </ul>
+</div>
+
+    <ul role="presentation" class="typeahead-items typeahead-topics">
+  
+  <li role="presentation" class="typeahead-item typeahead-topic-item">
+    <a role="option" class="js-nav" href="" data-search-query="" data-query-source="typeahead_click" data-ds="topics" tabindex="-1">
+    </a>
+  </li>
+</ul>
+
+
+    
+
+
+<ul role="presentation" class="typeahead-items typeahead-accounts js-typeahead-accounts">
+  
+  <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-account-item js-selectable">
+    
+    <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+      <img class="avatar size24" alt="">
+      <span class="typeahead-user-item-info">
+        <span class="fullname"></span>
+        <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small"><span class="u-hiddenVisually">Verified account</span></span>
+</span>
+        <span class="username"><s>@</s><b></b></span>
+      </span>
+    </a>
+  </li>
+  <li role="presentation" class="js-selectable typeahead-accounts-shortcut js-shortcut"><a role="option" class="js-nav" href="" data-search-query="" data-query-source="typeahead_click" data-shortcut="true" data-ds="account_search"></a></li>
+</ul>
+
+    <ul role="presentation" class="typeahead-items typeahead-trend-locations-list">
+  
+  <li role="presentation" class="typeahead-item typeahead-trend-locations-item"><a role="option" class="js-nav" href="" data-ds="trend_location" data-search-query="" tabindex="-1"></a></li>
+</ul>
+    <div role="presentation" class="typeahead-user-select">
+  <div role="presentation" class="typeahead-empty-suggestions">
+    Suggested users
+  </div>
+  <ul role="presentation" class="typeahead-items typeahead-selected js-typeahead-selected">
+    
+    <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-selected-item js-selectable">
+      
+      <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+        <img class="avatar size24" alt="">
+        <span class="typeahead-user-item-info">
+          <span class="select-status deselect-user js-deselect-user Icon Icon--close"></span>
+          <span class="select-status select-disabled Icon Icon--unfollow"></span>
+          <span class="fullname"></span>
+          <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small"><span class="u-hiddenVisually">Verified account</span></span>
+</span>
+          <span class="username"><s>@</s><b></b></span>
+        </span>
+      </a>
+    </li>
+    <li role="presentation" class="typeahead-selected-end"></li>
+  </ul>
+
+  <ul role="presentation" class="typeahead-items typeahead-accounts js-typeahead-accounts">
+    
+    <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-account-item js-selectable">
+      
+      <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+        <img class="avatar size24" alt="">
+        <span class="typeahead-user-item-info">
+          <span class="select-status deselect-user js-deselect-user Icon Icon--close"></span>
+          <span class="select-status select-disabled Icon Icon--unfollow"></span>
+          <span class="fullname"></span>
+          <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small"><span class="u-hiddenVisually">Verified account</span></span>
+</span>
+          <span class="username"><s>@</s><b></b></span>
+        </span>
+      </a>
+    </li>
+    <li role="presentation" class="typeahead-accounts-end"></li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+  </form>
+</div>
+
+          <ul class="nav secondary-nav language-dropdown"><li class="dropdown js-language-dropdown">
+              <a href="#supported_languages" class="dropdown-toggle js-dropdown-toggle">
+                <small>Language:</small> <span class="js-current-language">English</span> <b class="caret"></b>
+              </a>
+              <div class="dropdown-menu">
+                <div class="dropdown-caret right">
+                  <span class="caret-outer"> </span>
+                  <span class="caret-inner"></span>
+                </div>
+                <ul id="supported_languages">
+                    <li><a href="?lang=id" data-lang-code="id" title="Indonesian" class="js-language-link js-tooltip">Bahasa Indonesia</a></li>
+                    <li><a href="?lang=msa" data-lang-code="msa" title="Malay" class="js-language-link js-tooltip">Bahasa Melayu</a></li>
+                    <li><a href="?lang=cs" data-lang-code="cs" title="Czech" class="js-language-link js-tooltip">Čeština</a></li>
+                    <li><a href="?lang=da" data-lang-code="da" title="Danish" class="js-language-link js-tooltip">Dansk</a></li>
+                    <li><a href="?lang=de" data-lang-code="de" title="German" class="js-language-link js-tooltip">Deutsch</a></li>
+                    <li><a href="?lang=en-gb" data-lang-code="en-gb" title="English UK" class="js-language-link js-tooltip">EnglishUK</a></li>
+                    <li><a href="?lang=es" data-lang-code="es" title="Spanish" class="js-language-link js-tooltip">Español</a></li>
+                    <li><a href="?lang=fil" data-lang-code="fil" title="Filipino" class="js-language-link js-tooltip">Filipino</a></li>
+                    <li><a href="?lang=fr" data-lang-code="fr" title="French" class="js-language-link js-tooltip">français</a></li>
+                    <li><a href="?lang=it" data-lang-code="it" title="Italian" class="js-language-link js-tooltip">Italiano</a></li>
+                    <li><a href="?lang=hu" data-lang-code="hu" title="Hungarian" class="js-language-link js-tooltip">Magyar</a></li>
+                    <li><a href="?lang=nl" data-lang-code="nl" title="Dutch" class="js-language-link js-tooltip">Nederlands</a></li>
+                    <li><a href="?lang=no" data-lang-code="no" title="Norwegian" class="js-language-link js-tooltip">Norsk</a></li>
+                    <li><a href="?lang=pl" data-lang-code="pl" title="Polish" class="js-language-link js-tooltip">Polski</a></li>
+                    <li><a href="?lang=pt" data-lang-code="pt" title="Portuguese" class="js-language-link js-tooltip">Português</a></li>
+                    <li><a href="?lang=ro" data-lang-code="ro" title="Romanian" class="js-language-link js-tooltip">română</a></li>
+                    <li><a href="?lang=fi" data-lang-code="fi" title="Finnish" class="js-language-link js-tooltip">Suomi</a></li>
+                    <li><a href="?lang=sv" data-lang-code="sv" title="Swedish" class="js-language-link js-tooltip">Svenska</a></li>
+                    <li><a href="?lang=vi" data-lang-code="vi" title="Vietnamese" class="js-language-link js-tooltip">Tiếng Việt</a></li>
+                    <li><a href="?lang=tr" data-lang-code="tr" title="Turkish" class="js-language-link js-tooltip">Türkçe</a></li>
+                    <li><a href="?lang=ru" data-lang-code="ru" title="Russian" class="js-language-link js-tooltip">Русский</a></li>
+                    <li><a href="?lang=uk" data-lang-code="uk" title="Ukrainian" class="js-language-link js-tooltip">Українська мова</a></li>
+                    <li><a href="?lang=he" data-lang-code="he" title="Hebrew" class="js-language-link js-tooltip">עִבְרִית</a></li>
+                    <li><a href="?lang=ar" data-lang-code="ar" title="Arabic" class="js-language-link js-tooltip">العربية</a></li>
+                    <li><a href="?lang=fa" data-lang-code="fa" title="Farsi" class="js-language-link js-tooltip">فارسی</a></li>
+                    <li><a href="?lang=hi" data-lang-code="hi" title="Hindi" class="js-language-link js-tooltip">हिन्दी</a></li>
+                    <li><a href="?lang=bn" data-lang-code="bn" title="Bengali" class="js-language-link js-tooltip">বাংলা</a></li>
+                    <li><a href="?lang=th" data-lang-code="th" title="Thai" class="js-language-link js-tooltip">ภาษาไทย</a></li>
+                    <li><a href="?lang=ko" data-lang-code="ko" title="Korean" class="js-language-link js-tooltip">한국어</a></li>
+                    <li><a href="?lang=ja" data-lang-code="ja" title="Japanese" class="js-language-link js-tooltip">日本語</a></li>
+                    <li><a href="?lang=zh-cn" data-lang-code="zh-cn" title="Simplified Chinese" class="js-language-link js-tooltip">简体中文</a></li>
+                    <li><a href="?lang=zh-tw" data-lang-code="zh-tw" title="Traditional Chinese" class="js-language-link js-tooltip">繁體中文</a></li>
+                </ul>
+              </div>
+              <div class="js-front-language">
+                <form action="/sessions/change_locale" class="t1-form language" method="POST">
+                  <input type="hidden" name="lang"> <input type="hidden" name="redirect">
+                  <input type="hidden" name="authenticity_token" value="4940ab1227e54e10b04e11bfae6ec9fa09af41e5">
+                </form>
+              </div>
+            </li></ul><ul class="nav secondary-nav session-dropdown" id="session"><li class="dropdown js-session">
+              <a href="/login" class="dropdown-toggle js-dropdown-toggle dropdown-signin" id="signin-link" data-nav="login">
+                <small>Have an account?</small> Sign in <span class="caret"></span>
+              </a>
+              <a href="https://twitter.com/signup?context=login" class="dropdown-signup" id="signup-link" data-nav="signup">
+                <small>New to Twitter?</small> <span class="emphasize"> Join Today &raquo;</span>
+              </a>
+              <div class="dropdown-menu dropdown-form" id="signin-dropdown">
+                <div class="dropdown-caret right"> <span class="caret-outer"></span> <span class="caret-inner"></span> </div>
+                <div class="signin-dialog-body"> <form action="https://twitter.com/sessions" class="t1-form js-signin signin" method="post">
+  <fieldset>
+    <legend id="signin-form-legend" class="visuallyhidden">Sign In</legend>
+    <div class="textbox">
+  <label class="t1-label username js-username">
+      <span>Phone, email or username</span>
+    <input class="js-username-field email-input js-initial-focus" type="text" name="session[username_or_email]" autocomplete="on">
+  </label>
+  <label class="t1-label password js-password">
+    <span>Password</span>
+    <input class="js-password-field" type="password" value="" name="session[password]">
+  </label>
+</div>
+
+    <div class="subchck">
+  <button type="submit" class="btn submit">Sign in</button>
+  <label class="t1-label remember">
+    <input type="checkbox" value="1" name="remember_me" checked="checked">
+    <span>Remember me</span>
+  </label>
+</div>
+
+<input type="hidden" name="scribe_log">
+<input type="hidden" name="redirect_after_login" value="/BBC_TopGear/status/504949462004162560/photo/1">
+<input type="hidden" value="4940ab1227e54e10b04e11bfae6ec9fa09af41e5" name="authenticity_token"/>
+
+  </fieldset>
+  <div class="divider"></div>
+  <p class="footer-links">
+    <a class="forgot" href="/account/begin_password_reset">Forgot password?</a><br />
+    <a class="mobile has-sms" href="/account/complete">Already using Twitter via text message?</a>
+  </p>
+</form>
+ </div>
+              </div>
+            </li></ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+        <div id="page-outer">
+          <div id="page-container" class="AppContent wrapper wrapper-permalink white">
+              
+
+
+
+
+
+                
+<style id="user-style-BBC_TopGear">
+
+
+
+
+
+  a,
+  a:hover,
+  a:focus,
+  a:active {
+    color: #00A3DE;
+  }
+
+  .u-textUserColor,
+  .u-textUserColorHover:hover,
+  .u-textUserColorHover:focus {
+    color: #00A3DE !important;
+  }
+
+  .u-borderUserColor,
+  .u-borderUserColorHover:hover,
+  .u-borderUserColorHover:focus {
+    border-color: #00A3DE !important;
+  }
+
+  .u-bgUserColor,
+  .u-bgUserColorHover:hover,
+  .u-bgUserColorHover:focus {
+    background-color: #00A3DE !important;
+  }
+
+  .u-boxShadowInsetUserColorHover:hover,
+  .u-boxShadowInsetUserColorHover:focus {
+    box-shadow: inset 0 0 0 5px #00A3DE !important;
+  }
+
+
+
+  .u-textUserColorLight {
+    color: #99DAF1 !important;
+  }
+
+  .u-borderUserColorLight,
+  .u-borderUserColorLightFocus:focus,
+  .u-borderUserColorLightHover:hover,
+  .u-borderUserColorLightHover:focus {
+    border-color: #99DAF1 !important;
+  }
+
+  .u-bgUserColorLight {
+    background-color: #99DAF1 !important;
+  }
+
+
+  .u-boxShadowUserColorLighterFocus:focus {
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.05), inset 0 1px 2px rgba(0,163,222,0.25) !important;
+  }
+
+
+  .u-textUserColorLightest {
+    color: #E5F5FB !important;
+  }
+
+  .u-borderUserColorLightest {
+    border-color: #E5F5FB !important;
+  }
+
+  .u-bgUserColorLightest {
+    background-color: #E5F5FB !important;
+  }
+
+
+  .u-textUserColorLighter {
+    color: #BFE8F6 !important;
+  }
+
+  .u-borderUserColorLighter {
+    border-color: #BFE8F6 !important;
+  }
+
+  .u-bgUserColorLighter {
+    background-color: #BFE8F6 !important;
+  }
+
+
+  .u-bgUserColorDarkHover:hover {
+    background-color: #0082B1 !important;
+  }
+
+  .u-borderUserColorDark {
+    border-color: #0082B1 !important;
+  }
+
+
+  .u-bgUserColorDarkerActive:active {
+    background-color: #006185 !important;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a,
+.btn-link,
+.btn-link:focus,
+.icon-btn,
+
+
+
+.pretty-link b,
+.pretty-link:hover s,
+.pretty-link:hover b,
+.pretty-link:focus s,
+.pretty-link:focus b,
+/* Account Group */
+.metadata a:hover,
+.metadata a:focus,
+
+.account-group:hover .fullname,
+.account-group:focus .fullname,
+.account-summary:focus .fullname,
+
+.message .message-text a,
+.stats a strong,
+.plain-btn:hover,
+.plain-btn:focus,
+.dropdown.open .user-dropdown.plain-btn,
+.open > .plain-btn,
+#global-actions .new:before,
+.module .list-link:hover,
+.module .list-link:focus,
+
+.UserCompletion-step:hover,
+
+.stats a:hover,
+.stats a:hover strong,
+.stats a:focus,
+.stats a:focus strong,
+
+.profile-modal-header .fullname a:hover,
+.profile-modal-header .username a:hover,
+.profile-modal-header .fullname a:focus,
+.profile-modal-header .username a:focus,
+
+.story-article:hover .metadata,
+.story-article .metadata a:focus,
+
+.find-friends-sources li:hover .source,
+
+
+
+
+
+.stream-item a:hover .fullname,
+.stream-item a:focus .fullname,
+
+.stream-item .view-all-supplements:hover,
+.stream-item .view-all-supplements:focus,
+
+.tweet .time a:hover,
+.tweet .time a:focus,
+.tweet-actions a,
+.tweet .details.with-icn b,
+.tweet .details.with-icn .Icon,
+.tweet .tweet-geo-text a:hover,
+
+.stream-item:hover .original-tweet .expand-action-wrapper,
+.stream-item .original-tweet.focus .expand-action-wrapper,
+.opened-tweet.original-tweet  .expand-action-wrapper,
+
+.stream-item:hover .original-tweet .details b,
+.stream-item .original-tweet.focus .details b,
+.stream-item.open .original-tweet .details b,
+
+.simple-tweet:hover .details b,
+.simple-tweet.focus .details b,
+.simple-tweet.open .details b,
+.simple-tweet:hover .details .expand-action-wrapper,
+.simple-tweet.focus .details .expand-action-wrapper,
+.simple-tweet.open .details .collapse-action-wrapper,
+.simple-tweet:hover .details .simple-details-link,
+.simple-tweet.focus .details .simple-details-link,
+
+.client-and-actions a:hover,
+.client-and-actions a:focus,
+
+.dismiss-promoted:hover b,
+
+.tweet .context .pretty-link:hover s,
+.tweet .context .pretty-link:hover b,
+.tweet .context .pretty-link:focus s,
+.tweet .context .pretty-link:focus b,
+
+.list .username a:hover,
+.list .username a:focus,
+.list-membership-container .create-a-list,
+.list-membership-container .create-a-list:hover,
+
+
+
+.story-header:hover .view-tweets,
+.card .list-details a:hover,
+.card .list-details a:focus,
+.card .card-body:hover .attribution,
+.card .card-body .attribution:focus,
+.events-card .card-body:hover .attribution,
+.events-card .card-body .attribution:focus,
+.new-tweets-bar,
+.onebox .soccer ul.ticker a:hover,
+.onebox .soccer ul.ticker a:focus,
+
+
+
+.discover-item-actions a,
+
+
+
+.disco-stream-item.disco_exp_actions_on_btm .more-tweet-actions .btn-link,
+.disco-stream-item.disco_exp_actions_on_btm_without_stats .more-tweet-actions .btn-link,
+
+
+
+.remove-background-btn,
+
+
+
+.stream-item-activity-me .latest-tweet .tweet-row a:hover,
+.stream-item-activity-me .latest-tweet .tweet-row a:focus,
+.stream-item-activity-me .latest-tweet .tweet-row a:hover b,
+.stream-item-activity-me .latest-tweet .tweet-row a:focus b {
+    color: #00A3DE;
+}
+
+
+
+  #global-actions > li > a {
+    border-bottom-color: #00A3DE;
+  }
+
+  #global-actions > li:hover > a,
+  #global-actions > li > a:focus,
+  .nav.right-actions > li > a:hover,
+  .nav.right-actions > li > button:hover,
+  .nav.right-actions > li > a:focus,
+  .nav.right-actions > li > button:focus {
+    color: #00A3DE;
+  }
+
+
+  /* hover state for photo select button*/
+  .photo-selector:not(.disabled):hover .btn,
+  .icon-btn:hover,
+  .icon-btn:active,
+  .icon-btn.active,
+  .icon-btn.enabled {
+    border-color: #00A3DE;
+    border-color: rgba(0,163,222,.5);
+    color: #00A3DE;
+  }
+
+  /* hover state for photo select button*/
+  .photo-selector:not(.disabled):hover .btn,
+  .icon-btn:hover {
+    background-image: linear-gradient(rgba(255,255,255,0), rgba(0,163,222,.1));
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00FFFFFF', endColorstr='#1900A3DE'); /* IE8-9 */
+  }
+
+  .icon-btn.disabled,
+  .icon-btn.disabled:hover,
+  .icon-btn[disabled],
+  .icon-btn[aria-disabled=true] {
+    color: #00A3DE;
+  }
+
+  /* tweet-btn can have primary-btn class as well so the following rules ensure that the correct background color is applied */
+  .tweet-btn,
+  .tweet-btn:focus {
+    background-color: #00A3DE;
+    background: rgba(0,163,222,.8);
+  }
+
+  .tweet-btn:hover,
+  .tweet-btn:active,
+  .tweet-btn.active {
+    background-color: #00A3DE;
+  }
+
+  .tweet-btn.btn.disabled,
+  .tweet-btn.btn.disabled:hover,
+  .tweet-btn.btn[disabled],
+  .tweet-btn.btn[aria-disabled=true] {
+    background: #00A3DE;
+  }
+
+  .btn:focus,
+  .btn.focus,
+  .Button:focus {
+    box-shadow:
+      0 0 0 1px #fff,
+      0 0 0 3px rgba(0, 163, 222, 0.5);
+  }
+
+  .selected-stream-item:focus {
+    box-shadow: 0 0 0 3px rgba(0, 163, 222, 0.5);
+  }
+
+  /**
+   * 1. Bring actionable tweet to top when active to ensure border
+   *    highlighting wraps entire tweet. Value must be at least at if not
+   *    higher than the z-index value of ProfileHeading to ensure first
+   *    tweet in timeline receives border on all four sides.
+   */
+
+  .ProfileTweet.is-actionable,
+  .js-stream-item.is-selected:focus .ProfileTweet,
+  .js-stream-item.is-selected:focus .ProfileCard,
+  .QuoteTweet:hover,
+  .QuoteTweet:focus,
+  .QuoteTweet:active {
+    border-color: rgba(0, 163, 222, 0.5);
+    z-index: 1; /* 1 */
+  }
+
+  .global-dm-nav.new.with-count .dm-new {
+    background: #00A3DE;
+  }
+
+  .navy-seal-experiment .global-dm-nav.new.with-count .dm-new {
+    background: #fff;
+  }
+
+  .navy-seal-experiment .global-dm-nav.new.with-count .dm-new .count-inner {
+    background: #00A3DE;
+  }
+
+  .global-nav .people .count .count-inner {
+    background: #00A3DE;
+  }
+
+  .dropdown-menu li > a:hover,
+  .dropdown-menu li > a:focus,
+  .dropdown-menu .dropdown-link:hover,
+  .dropdown-menu .dropdown-link:focus,
+  .dropdown-menu li:hover .dropdown-link,
+  .dropdown-menu li:focus .dropdown-link,
+  .dropdown-menu .typeahead-recent-search-item.selected,
+  .dropdown-menu .typeahead-saved-search-item.selected,
+  .dropdown-menu .selected a,
+  .dropdown-menu .dropdown-link.selected {
+    background-color: #00A3DE;
+  }
+
+/* give tweet boxes 10% of the users link color as background */
+.home-tweet-box,
+.dm-tweetbox,
+.WebToast-box--altColor,
+.content-main .conversations-enabled .expansion-container .inline-reply-tweetbox {
+  background-color: #E5F5FB;
+}
+
+.conversations-enabled .inline-reply-caret .caret-inner {
+  border-bottom-color: #E5F5FB;
+}
+.top-timeline-tweetbox .timeline-tweet-box .tweet-form.condensed .tweet-box {
+  color: #00A3DE;
+}
+/* give tweet box containers an outline using the users link color */
+.home-tweet-box,
+.top-timeline-tweetbox .timeline-tweet-box {
+  border-color: #BFE8F6 !important;
+}
+/* give tweet boxes an outline using the users link color */
+.tweet-box[contenteditable="true"] {
+  border-color: rgba(0,163,222,0.25);
+}
+
+input:focus,
+textarea:focus,
+div[contenteditable="true"]:focus,
+div[contenteditable="true"].fake-focus {
+  border-color: #66C7EB;
+  box-shadow: inset 0 0 0 1px rgba(0, 163, 222, 0.7);
+}
+
+.currently-dragging.modal-enabled .modal .tweet-box,
+.currently-dragging:not(.modal-enabled) .tweet-content .tweet-box,
+body.supports-drag-and-drop .tweet-form.upload-photo-hover.drag-and-drop .tweet-box,
+.tweet-box[contenteditable="true"]:focus {
+  border-color: #99DAF1;
+  box-shadow: none;
+}
+
+
+
+
+s,
+.pretty-link:hover s,
+.pretty-link:focus s,
+.stream-item-activity-me .latest-tweet .tweet-row a:hover s,
+.stream-item-activity-me .latest-tweet .tweet-row a:focus s {
+    color: #66C7EB;
+}
+
+
+
+.vellip,
+.vellip:before,
+.vellip:after,
+.conversation-module > li:after,
+.conversation-module > li:before {
+    background-color: #66C7EB;
+}
+
+
+
+
+.tweet .sm-reply,
+.tweet .sm-rt,
+.tweet .sm-fav,
+.tweet .sm-image,
+.tweet .sm-video,
+.tweet .sm-audio,
+.tweet .sm-geo,
+.tweet .sm-in,
+.tweet .sm-trash,
+.tweet .sm-more,
+.tweet .sm-page,
+.tweet .sm-embed,
+.tweet .sm-summary,
+.tweet .sm-chat,
+
+.timelines-navigation .active .profile-nav-icon,
+.timelines-navigation .profile-nav-icon:hover,
+.timelines-navigation .profile-nav-link:focus .profile-nav-icon,
+
+.sm-top-tweet,
+
+.metadata a.tweet-geo-text:hover .sm-geo,
+
+
+.discover-item .js-action-card-search:hover .sm-search,
+.discover-item .js-action-card-search:focus .sm-search {
+    background-color: #00A3DE;
+}
+
+
+
+.tweet-action-icons .tweet .tweet-actions .sm-reply, .tweet-action-icons .tweet.opened-tweet .tweet-actions .sm-reply,
+.tweet-action-icons .tweet .tweet-actions .sm-rt, .tweet-action-icons .tweet.opened-tweet .tweet-actions .sm-rt,
+.tweet-action-icons .tweet .tweet-actions .sm-fav, .tweet-action-icons .tweet.opened-tweet .tweet-actions .sm-fav,
+.tweet-action-icons .tweet .tweet-actions .sm-trash, .tweet-action-icons .tweet.opened-tweet .tweet-actions .sm-trash,
+.tweet-action-icons .tweet .tweet-actions .sm-more, .tweet-action-icons .tweet.opened-tweet .tweet-actions .sm-more {
+    background-color: #66C7EB;
+}
+
+.persistent-tweet-actions.tweet-action-icons .tweet:hover .tweet-actions .sm-reply,
+.persistent-tweet-actions.tweet-action-icons .tweet:hover .tweet-actions .sm-rt,
+.persistent-tweet-actions.tweet-action-icons .tweet:hover .tweet-actions .sm-fav,
+.persistent-tweet-actions.tweet-action-icons .tweet:hover .tweet-actions .sm-trash,
+.persistent-tweet-actions.tweet-action-icons .tweet:hover .tweet-actions .sm-more {
+    background-color: #66C7EB;
+}
+
+.tweet-action-icons .stream .tweet .tweet-actions .sm-reply:hover, .tweet-action-icons .stream .tweet .tweet-actions a:focus .sm-reply,
+.tweet-action-icons .stream .tweet .tweet-actions .sm-rt:hover, .tweet-action-icons .stream .tweet .tweet-actions a:focus .sm-rt,
+.tweet-action-icons .stream .tweet .tweet-actions .sm-fav:hover, .tweet-action-icons .stream .tweet .tweet-actions a:focus .sm-fav,
+.tweet-action-icons .stream .tweet .tweet-actions .sm-trash:hover, .tweet-action-icons .stream .tweet .tweet-actions a:focus .sm-trash,
+.tweet-action-icons .stream .tweet .tweet-actions .sm-more:hover, .tweet-action-icons .stream .tweet .tweet-actions a:focus .sm-more {
+    background-color: #00A3DE;
+}
+
+
+.enhanced-mini-profile .mini-profile .profile-summary {
+  background-image: url(https://pbs.twimg.com/profile_banners/52344859/1396971125/mobile);
+}
+
+.wrapper-profile .profile-card.profile-header .profile-header-inner {
+  background-image: url(https://pbs.twimg.com/profile_banners/52344859/1396971125/web);
+}
+
+  #global-tweet-dialog .modal-header {
+    border-bottom: solid 1px rgba(0, 163, 222, .25);
+  }
+
+  #global-tweet-dialog .modal-tweet-form-container {
+    background-color: #00A3DE;
+    background: rgba(0, 163, 222, .1);
+  }
+
+  .inline-reply-tweetbox {
+    background-color: #E5F5FB;
+  }
+
+</style>
+
+  
+<style id="user-style-BBC_TopGear-bg-img" class="js-user-style-bg-img">
+  body.user-style-BBC_TopGear {
+        background-image: url(https://pbs.twimg.com/profile_background_images/453554077406728192/p_sXh2-r.jpeg);
+      background-position: left 40px;
+      background-attachment: fixed;
+      background-repeat: repeat;
+
+      background-color: #005193;
+  }
+
+    body.user-style-BBC_TopGear .enhanced-mini-profile .mini-profile .profile-summary {
+      background-image: url(https://pbs.twimg.com/profile_banners/52344859/1396971125/web);
+    }
+
+    body.user-style-BBC_TopGear .wrapper-profile .profile-card.profile-header .profile-header-inner {
+      background-image: url(https://pbs.twimg.com/profile_banners/52344859/1396971125/web);
+    }
+
+    .DashboardProfileCard-bg {
+      background-image: url(https://pbs.twimg.com/profile_banners/52344859/1396971125/600x200);
+    }
+
+    body.user-style-BBC_TopGear .profile-canopy .bg-img {
+      background-image: url(https://pbs.twimg.com/profile_banners/52344859/1396971125/web_retina);
+    }
+
+</style>
+
+
+<div role="main" class="permalink light-inline-actions  has-replies">
+
+      
+  <div class="permalink-inner permalink-tweet-container">
+
+
+    <div class="tweet permalink-tweet js-actionable-user js-actionable-tweet js-original-tweet
+      
+ opened-tweet
+
+
+ has-cards
+ has-native-media
+
+
+ with-social-proof
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+      preexpanded" data-associated-tweet-id="504949462004162560" 
+data-tweet-id="504949462004162560"
+
+
+data-item-id="504949462004162560"
+
+
+ data-screen-name="BBC_TopGear" data-name="Top Gear" data-user-id="52344859"
+
+
+ data-has-native-media="true"
+ data-has-cards="true"
+
+  data-card-type="photo"
+  
+  
+
+
+
+
+
+
+
+
+ data-mentions="IanCallum"
+
+
+
+
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+      
+        <div class="content clearfix">
+          <div class="permalink-header">
+              
+
+    
+    <div class="follow-bar">
+      <div class="user-actions btn-group not-following  " data-user-id="52344859"
+    data-screen-name="BBC_TopGear" data-name="Top Gear" data-protected="false">
+
+
+
+    
+      
+
+
+
+    <button class="user-actions-follow-button js-follow-btn follow-button btn" type="button">
+  <span class="button-text follow-text">
+     <span class="Icon Icon--follow"></span> Follow 
+    
+  </span>
+  <span class="button-text following-text">
+     Following
+    
+  </span>
+  <span class="button-text unfollow-text">
+     Unfollow
+    
+  </span>
+  <span class="button-text blocked-text">Blocked</span>
+  <span class="button-text unblock-text">Unblock</span>
+  <span class="button-text pending-text">Pending</span>
+  <span class="button-text cancel-text">Cancel</span>
+</button>
+
+
+
+</div>
+
+    </div>
+
+
+              <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/BBC_TopGear" data-user-id="52344859">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/3152052111/51f0ae2e2843fed9e05de335f44c7c0a_bigger.png" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Top Gear<span class="Icon Icon--verified Icon--small"><span class="u-hiddenVisually">Verified account</span></span>
+</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>BBC_TopGear</b></span>
+      
+
+  </a>
+
+            
+            <small class="time">
+  <a href="/BBC_TopGear/status/504949462004162560" class="tweet-timestamp js-permalink js-nav js-tooltip" title="4:11 AM - 28 Aug 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1409224307" data-time-ms="1409224307000" data-long-form="true">Aug 28</span></a>
+</small>
+
+          </div>
+        </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0">Meet the ‘Mark 2’, a brand new old Jaguar from Jag’s design director <a href="/IanCallum" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>IanCallum</b></a> &#10;<a href="http://t.co/FNzLSSJHN6" rel="nofollow" dir="ltr" data-expanded-url="http://www.TOPGEAR.com/uk/car-news/jaguar-mark-2-revealed-2014-08-28" class="twitter-timeline-link" target="_blank" title="http://www.TOPGEAR.com/uk/car-news/jaguar-mark-2-revealed-2014-08-28" ><span class="tco-ellipsis"></span><span class="invisible">http://www.</span><span class="js-display-url">TOPGEAR.com/uk/car-news/ja</span><span class="invisible">guar-mark-2-revealed-2014-08-28</span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span>…</span></a> <a href="http://t.co/V6hNoUaUlU" class="twitter-timeline-link u-hidden" data-pre-embedded="true" dir="ltr" >pic.twitter.com/V6hNoUaUlU</a></p>
+
+
+
+      
+      <div class="stream-item-footer">
+
+
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      <div class="permalink-footer">
+        
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+  </div>
+
+
+        <div class="js-tweet-details-fixer tweet-details-fixer">
+
+
+            <div class="cards-media-container js-media-container"><div data-card-url="//twitter.com/BBC_TopGear/status/504949462004162560/photo/1" data-card-type="photo" class="cards-base cards-multimedia" data-element-context="platform_photo_card">
+
+
+  <a class="media media-thumbnail twitter-timeline-link is-preview" data-url="https://pbs.twimg.com/media/BwHw3CKIEAAMXnP.png:large" data-resolved-url-large="https://pbs.twimg.com/media/BwHw3CKIEAAMXnP.png:large" href="//twitter.com/BBC_TopGear/status/504949462004162560/photo/1">
+    <div class="">
+          <img src="https://pbs.twimg.com/media/BwHw3CKIEAAMXnP.png" alt="Embedded image permalink" width="1024" height="492">
+    </div>
+
+  </a>
+
+  <div class="cards-content">
+    <div class="byline">
+      
+    </div>
+    
+  </div>
+  
+</div>
+
+
+
+
+</div>
+
+
+
+  <div class="js-machine-translated-tweet-container"></div>
+    <div class="js-tweet-stats-container tweet-stats-container ">        
+
+<ul class="stats">
+    <li class="js-stat-count js-stat-retweets stat-count">
+      <a tabindex=0 role="button"
+          class="request-retweeted-popup"
+          data-activity-popup-title="288 retweets"
+>
+          
+          Retweets <strong>288</strong>
+      </a>
+    </li>
+
+    <li class="js-stat-count js-stat-favorites stat-count">
+      <a tabindex=0 role="button"
+          class="request-favorited-popup"
+          data-activity-popup-title="426 favorites"
+>
+          
+          Favorites <strong>426</strong>
+      </a>
+    </li>
+
+  <li class="avatar-row js-face-pile-container">
+      <a class="js-profile-popup-actionable js-user-tipsy js-tooltip" href="/Hanni_Bananerz" data-user-id="2634196172" original-title="Hannah Denshaw" title="Hannah Denshaw">
+  <img class="avatar size24 js-user-profile-link" src="https://pbs.twimg.com/profile_images/491705450824347649/SQyNMHN3_normal.jpeg" alt="Hannah Denshaw">
+</a>
+      <a class="js-profile-popup-actionable js-user-tipsy js-tooltip" href="/tabrez_mohammed" data-user-id="484648698" original-title="TABREZ MOHAMMED " title="TABREZ MOHAMMED ">
+  <img class="avatar size24 js-user-profile-link" src="https://pbs.twimg.com/profile_images/510023805335379968/V8nE0fS-_normal.jpeg" alt="TABREZ MOHAMMED ">
+</a>
+      <a class="js-profile-popup-actionable js-user-tipsy js-tooltip" href="/bel4p" data-user-id="2263960367" original-title="БОГОМОЛ☝️|ДЕНЬ " title="БОГОМОЛ☝️|ДЕНЬ ">
+  <img class="avatar size24 js-user-profile-link" src="https://pbs.twimg.com/profile_images/516141321170747392/OuFBjiVI_normal.jpeg" alt="БОГОМОЛ☝️|ДЕНЬ ">
+</a>
+      <a class="js-profile-popup-actionable js-user-tipsy js-tooltip" href="/AlejandroSC4" data-user-id="2236394449" original-title="AlejandroSC" title="AlejandroSC">
+  <img class="avatar size24 js-user-profile-link" src="https://pbs.twimg.com/profile_images/450196933068349440/Pe36zXPa_normal.jpeg" alt="AlejandroSC">
+</a>
+      <a class="js-profile-popup-actionable js-user-tipsy js-tooltip" href="/veebiment" data-user-id="330217111" original-title="rando" title="rando">
+  <img class="avatar size24 js-user-profile-link" src="https://pbs.twimg.com/profile_images/512339906518339584/VzvCstzP_normal.jpeg" alt="rando">
+</a>
+      <a class="js-profile-popup-actionable js-user-tipsy js-tooltip" href="/erika_luvsO2L" data-user-id="1671889950" original-title="Erika Harris " title="Erika Harris ">
+  <img class="avatar size24 js-user-profile-link" src="https://pbs.twimg.com/profile_images/493950677907804161/ZAFYXGRy_normal.jpeg" alt="Erika Harris ">
+</a>
+      <a class="js-profile-popup-actionable js-user-tipsy js-tooltip" href="/lfcmattb" data-user-id="2778764182" original-title="matt bailey" title="matt bailey">
+  <img class="avatar size24 js-user-profile-link" src="https://pbs.twimg.com/profile_images/513617594738540544/Uz6AIMhE_normal.jpeg" alt="matt bailey">
+</a>
+      <a class="js-profile-popup-actionable js-user-tipsy js-tooltip" href="/smt666" data-user-id="395634194" original-title="Mahmoud Taleghani" title="Mahmoud Taleghani">
+  <img class="avatar size24 js-user-profile-link" src="https://pbs.twimg.com/profile_images/2660685906/bad586652740720be4c001c1c61a82d8_normal.png" alt="Mahmoud Taleghani">
+</a>
+      <a class="js-profile-popup-actionable js-user-tipsy js-tooltip" href="/JasonWatson77" data-user-id="360560036" original-title="Jason Watson" title="Jason Watson">
+  <img class="avatar size24 js-user-profile-link" src="https://pbs.twimg.com/profile_images/378800000651709363/751d827f41ec1fd86b9a39f40d6a5905_normal.jpeg" alt="Jason Watson">
+</a>
+  </li>
+</ul>
+
+
+    </div>
+
+  <div class="client-and-actions">
+  <span class="metadata">
+    <span>4:11 AM - 28 Aug 2014</span>
+
+    
+
+        
+        
+        
+
+  </span>
+</div>
+
+
+</div>
+
+      </div>
+    </div>
+
+  </div>
+
+
+
+    
+
+<div class="replies-to  permalink-inner permalink-replies" data-component-context="replies">
+    <div class="tweets-wrapper">
+      <div id="descendants">
+          <div class="stream-container "
+    
+    
+    data-max-position="" data-min-position=""
+    >
+
+    <div class="stream permalink-stream">
+      <ol class="stream-items js-navigable-stream" id="stream-items-id">
+
+
+
+
+
+
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="504949553297367040"
+
+
+data-item-id="504949553297367040"
+
+
+ data-screen-name="Redcelt77" data-name="Paul Aaron Williams" data-user-id="134505530"
+
+
+
+
+
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;4:12 AM - 28 Aug 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/Redcelt77/status/504949553297367040&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="BBC_TopGear IanCallum"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/Redcelt77" data-user-id="134505530">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/492761888661729280/xVf24ikH_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Paul Aaron Williams</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>Redcelt77</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/Redcelt77/status/504949553297367040" class="tweet-timestamp js-permalink js-nav js-tooltip" title="4:12 AM - 28 Aug 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1409224329" data-time-ms="1409224329000" data-long-form="true">Aug 28</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/BBC_TopGear" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>BBC_TopGear</b></a> <a href="/IanCallum" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>IanCallum</b></a> gorgeous</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/Redcelt77/status/504949553297367040">
+          <span class="details-icon js-icon-container">
+            
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              
+                <span class="expand-action-wrapper">
+                  Expand
+                </span>
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Collapse
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="504949858827251713"
+
+
+data-item-id="504949858827251713"
+
+
+ data-screen-name="Jacksc285" data-name="Carl Jackson" data-user-id="101536577"
+
+
+
+
+
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;4:13 AM - 28 Aug 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/Jacksc285/status/504949858827251713&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="BBC_TopGear"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/Jacksc285" data-user-id="101536577">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/2535064144/image_bigger.jpg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Carl Jackson</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>Jacksc285</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/Jacksc285/status/504949858827251713" class="tweet-timestamp js-permalink js-nav js-tooltip" title="4:13 AM - 28 Aug 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1409224402" data-time-ms="1409224402000" data-long-form="true">Aug 28</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/BBC_TopGear" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>BBC_TopGear</b></a> when&#39;s the new series?</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/Jacksc285/status/504949858827251713">
+          <span class="details-icon js-icon-container">
+            
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              
+                <span class="expand-action-wrapper">
+                  Expand
+                </span>
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Collapse
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="504949882453381120"
+
+
+data-item-id="504949882453381120"
+
+
+ data-screen-name="Ananasi01" data-name="James Lee" data-user-id="2707268593"
+
+
+
+
+
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;4:13 AM - 28 Aug 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/Ananasi01/status/504949882453381120&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="BBC_TopGear IanCallum"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/Ananasi01" data-user-id="2707268593">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/496375844713930752/tNTUf1mJ_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>James Lee</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>Ananasi01</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/Ananasi01/status/504949882453381120" class="tweet-timestamp js-permalink js-nav js-tooltip" title="4:13 AM - 28 Aug 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1409224408" data-time-ms="1409224408000" data-long-form="true">Aug 28</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/BBC_TopGear" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>BBC_TopGear</b></a> <a href="/IanCallum" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>IanCallum</b></a> that is the most beautyful jag I have seen in years. WoW</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/Ananasi01/status/504949882453381120">
+          <span class="details-icon js-icon-container">
+            
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              
+                <span class="expand-action-wrapper">
+                  Expand
+                </span>
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Collapse
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="504949978440400897"
+
+
+data-item-id="504949978440400897"
+
+
+ data-screen-name="TubularBBD" data-name="Pilko Inferno" data-user-id="1498510460"
+
+
+
+
+
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;4:13 AM - 28 Aug 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/TubularBBD/status/504949978440400897&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="BBC_TopGear"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/TubularBBD" data-user-id="1498510460">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/494605470909214721/HZAq-NgV_bigger.png" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Pilko Inferno</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>TubularBBD</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/TubularBBD/status/504949978440400897" class="tweet-timestamp js-permalink js-nav js-tooltip" title="4:13 AM - 28 Aug 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1409224431" data-time-ms="1409224431000" data-long-form="true">Aug 28</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/BBC_TopGear" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>BBC_TopGear</b></a> MINI need to hurry the hell up and re-make and mass produce their original, they&#39;d make a fortune!</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/TubularBBD/status/504949978440400897">
+          <span class="details-icon js-icon-container">
+            
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              
+                <span class="expand-action-wrapper">
+                  Expand
+                </span>
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Collapse
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="504950047273144320"
+
+
+data-item-id="504950047273144320"
+
+
+ data-screen-name="honcharuk_alex" data-name="Гончарук Александр" data-user-id="244062971"
+
+
+
+
+
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;4:14 AM - 28 Aug 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/honcharuk_alex/status/504950047273144320&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="BBC_TopGear IanCallum"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/honcharuk_alex" data-user-id="244062971">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/378800000603574634/542a5d4845b80b9400a46aa412bc1062_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Гончарук Александр</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>honcharuk_alex</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/honcharuk_alex/status/504950047273144320" class="tweet-timestamp js-permalink js-nav js-tooltip" title="4:14 AM - 28 Aug 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1409224447" data-time-ms="1409224447000" data-long-form="true">Aug 28</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="und" data-aria-label-part="0"><a href="/BBC_TopGear" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>BBC_TopGear</b></a> <a href="/IanCallum" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>IanCallum</b></a> <a href="/hashtag/RussiaInvadedUkraine?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>RussiaInvadedUkraine</b></a></p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/honcharuk_alex/status/504950047273144320">
+          <span class="details-icon js-icon-container">
+            
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              
+                <span class="expand-action-wrapper">
+                  Expand
+                </span>
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Collapse
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="504950948989779968"
+
+
+data-item-id="504950948989779968"
+
+
+ data-screen-name="TobyBaverstock" data-name="Toby Baverstock" data-user-id="107529311"
+
+
+
+
+
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;4:17 AM - 28 Aug 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/TobyBaverstock/status/504950948989779968&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="BBC_TopGear IanCallum"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/TobyBaverstock" data-user-id="107529311">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/378800000475417447/edcceddab6dda62959d3bf24d464372f_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Toby Baverstock</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>TobyBaverstock</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/TobyBaverstock/status/504950948989779968" class="tweet-timestamp js-permalink js-nav js-tooltip" title="4:17 AM - 28 Aug 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1409224662" data-time-ms="1409224662000" data-long-form="true">Aug 28</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/BBC_TopGear" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>BBC_TopGear</b></a> <a href="/IanCallum" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>IanCallum</b></a> This should actually be a production car not kidding! This would be so popular it&#39;d be untrue.</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/TobyBaverstock/status/504950948989779968">
+          <span class="details-icon js-icon-container">
+            
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              
+                <span class="expand-action-wrapper">
+                  Expand
+                </span>
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Collapse
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="504951158675234816"
+
+
+data-item-id="504951158675234816"
+
+
+ data-screen-name="jlinnjr66" data-name="James Linn" data-user-id="2368183752"
+
+
+
+
+
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;4:18 AM - 28 Aug 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/jlinnjr66/status/504951158675234816&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="BBC_TopGear IanCallum"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/jlinnjr66" data-user-id="2368183752">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/485079353739313152/hr37-rjR_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>James Linn</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>jlinnjr66</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/jlinnjr66/status/504951158675234816" class="tweet-timestamp js-permalink js-nav js-tooltip" title="4:18 AM - 28 Aug 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1409224712" data-time-ms="1409224712000" data-long-form="true">Aug 28</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/BBC_TopGear" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>BBC_TopGear</b></a> <a href="/IanCallum" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>IanCallum</b></a> love this car</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/jlinnjr66/status/504951158675234816">
+          <span class="details-icon js-icon-container">
+            
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              
+                <span class="expand-action-wrapper">
+                  Expand
+                </span>
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Collapse
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="504951373226852352"
+
+
+data-item-id="504951373226852352"
+
+
+ data-screen-name="StuartKeech" data-name="Stuart Keech" data-user-id="373260338"
+
+
+
+
+
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;4:19 AM - 28 Aug 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/StuartKeech/status/504951373226852352&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="BBC_TopGear IanCallum"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/StuartKeech" data-user-id="373260338">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/517764285905518593/A7vFSMEG_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Stuart Keech</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>StuartKeech</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/StuartKeech/status/504951373226852352" class="tweet-timestamp js-permalink js-nav js-tooltip" title="4:19 AM - 28 Aug 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1409224763" data-time-ms="1409224763000" data-long-form="true">Aug 28</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/BBC_TopGear" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>BBC_TopGear</b></a> <a href="/IanCallum" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>IanCallum</b></a> <a href="/hashtag/Want?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>Want</b></a> this in my life.</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/StuartKeech/status/504951373226852352">
+          <span class="details-icon js-icon-container">
+            
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              
+                <span class="expand-action-wrapper">
+                  Expand
+                </span>
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Collapse
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="504951708179791874"
+
+
+data-item-id="504951708179791874"
+
+
+ data-screen-name="The_ChrisShaw" data-name="Chris Shaw" data-user-id="149647740"
+
+
+
+
+
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;4:20 AM - 28 Aug 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/The_ChrisShaw/status/504951708179791874&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="BBC_TopGear IanCallum"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/The_ChrisShaw" data-user-id="149647740">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/513583011821277184/jDDmmBuc_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Chris Shaw</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>The_ChrisShaw</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/The_ChrisShaw/status/504951708179791874" class="tweet-timestamp js-permalink js-nav js-tooltip" title="4:20 AM - 28 Aug 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1409224843" data-time-ms="1409224843000" data-long-form="true">Aug 28</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/BBC_TopGear" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>BBC_TopGear</b></a> Unashamedly retro <a href="/IanCallum" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>IanCallum</b></a> But I can see why you did it... :)</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/The_ChrisShaw/status/504951708179791874">
+          <span class="details-icon js-icon-container" data-placename="Manchester, Manchester">
+            
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              
+                <span class="expand-action-wrapper">
+                  Expand
+                </span>
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Collapse
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+ has-cards
+ has-native-media
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="504952195989929984"
+
+
+data-item-id="504952195989929984"
+
+
+ data-screen-name="FTypeCoupe" data-name="Peter" data-user-id="469582682"
+
+
+ data-has-native-media="true"
+ data-has-cards="true"
+
+  data-card-type="photo"
+  
+  
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;            &lt;div class=&quot;cards-media-container js-media-container&quot;&gt;&lt;div data-card-url=&quot;//twitter.com/FTypeCoupe/status/504952195989929984/photo/1&quot; data-card-type=&quot;photo&quot; class=&quot;cards-base cards-multimedia&quot; data-element-context=&quot;platform_photo_card&quot;&gt;&#10;&#10;&#10;  &lt;a class=&quot;media media-thumbnail twitter-timeline-link is-preview&quot; data-url=&quot;https://pbs.twimg.com/media/BwHzV_MCcAAiTYp.jpg:large&quot; data-resolved-url-large=&quot;https://pbs.twimg.com/media/BwHzV_MCcAAiTYp.jpg:large&quot; href=&quot;//twitter.com/FTypeCoupe/status/504952195989929984/photo/1&quot;&gt;&#10;    &lt;div class=&quot;&quot;&gt;&#10;          &lt;img src=&quot;https://pbs.twimg.com/media/BwHzV_MCcAAiTYp.jpg&quot; alt=&quot;Embedded image permalink&quot; width=&quot;768&quot; height=&quot;1024&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;/a&gt;&#10;&#10;  &lt;div class=&quot;cards-content&quot;&gt;&#10;    &lt;div class=&quot;byline&quot;&gt;&#10;      &#10;    &lt;/div&gt;&#10;    &#10;  &lt;/div&gt;&#10;  &#10;&lt;/div&gt;&#10;&#10;&#10;&#10;&#10;&lt;/div&gt;&#10;&#10;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;4:22 AM - 28 Aug 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/FTypeCoupe/status/504952195989929984&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;        &#10;        &#10;        &#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="BBC_TopGear IanCallum"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/FTypeCoupe" data-user-id="469582682">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/513054649071722497/nafiBccB_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Peter</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>FTypeCoupe</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/FTypeCoupe/status/504952195989929984" class="tweet-timestamp js-permalink js-nav js-tooltip" title="4:22 AM - 28 Aug 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1409224959" data-time-ms="1409224959000" data-long-form="true">Aug 28</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/BBC_TopGear" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>BBC_TopGear</b></a> <a href="/IanCallum" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>IanCallum</b></a> stunning, inspector Morse would be proud! Gun metal grey like mine I presume? <a href="http://t.co/7MS84249Ci" class="twitter-timeline-link u-hidden" data-pre-embedded="true" dir="ltr" >pic.twitter.com/7MS84249Ci</a></p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/FTypeCoupe/status/504952195989929984">
+          <span class="details-icon js-icon-container">
+              <span class="Icon Icon--photo"></span>
+
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              View photo
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Hide photo
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="504952297148129280"
+
+
+data-item-id="504952297148129280"
+
+
+ data-screen-name="RichardKhanJr" data-name="Richard Khan Jr" data-user-id="258878667"
+
+
+
+
+
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;4:23 AM - 28 Aug 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/RichardKhanJr/status/504952297148129280&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="BBC_TopGear IanCallum"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/RichardKhanJr" data-user-id="258878667">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/514832344268537857/nRnglauM_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Richard Khan Jr</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>RichardKhanJr</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/RichardKhanJr/status/504952297148129280" class="tweet-timestamp js-permalink js-nav js-tooltip" title="4:23 AM - 28 Aug 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1409224983" data-time-ms="1409224983000" data-long-form="true">Aug 28</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/BBC_TopGear" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>BBC_TopGear</b></a> <a href="/IanCallum" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>IanCallum</b></a> Love it!</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/RichardKhanJr/status/504952297148129280">
+          <span class="details-icon js-icon-container">
+            
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              
+                <span class="expand-action-wrapper">
+                  Expand
+                </span>
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Collapse
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="504952372935028736"
+
+
+data-item-id="504952372935028736"
+
+
+ data-screen-name="CMDR_Hurricane" data-name="Phillip Müller" data-user-id="2374722686"
+
+
+
+
+
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;4:23 AM - 28 Aug 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/CMDR_Hurricane/status/504952372935028736&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="BBC_TopGear IanCallum"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/CMDR_Hurricane" data-user-id="2374722686">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/465529736341381121/31_DuyYA_bigger.png" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Phillip Müller</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>CMDR_Hurricane</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/CMDR_Hurricane/status/504952372935028736" class="tweet-timestamp js-permalink js-nav js-tooltip" title="4:23 AM - 28 Aug 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1409225001" data-time-ms="1409225001000" data-long-form="true">Aug 28</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/BBC_TopGear" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>BBC_TopGear</b></a> <a href="/IanCallum" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>IanCallum</b></a> this modern LCD though.....</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/CMDR_Hurricane/status/504952372935028736">
+          <span class="details-icon js-icon-container">
+            
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              
+                <span class="expand-action-wrapper">
+                  Expand
+                </span>
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Collapse
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="504952532427620352"
+
+
+data-item-id="504952532427620352"
+
+
+ data-screen-name="BoozerKristin" data-name="Kristin Boozer" data-user-id="2175220709"
+
+
+
+
+
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;4:23 AM - 28 Aug 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/BoozerKristin/status/504952532427620352&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="BBC_TopGear IanCallum"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/BoozerKristin" data-user-id="2175220709">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/498241160910217218/yFW8WbBZ_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Kristin Boozer</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>BoozerKristin</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/BoozerKristin/status/504952532427620352" class="tweet-timestamp js-permalink js-nav js-tooltip" title="4:23 AM - 28 Aug 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1409225039" data-time-ms="1409225039000" data-long-form="true">Aug 28</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/BBC_TopGear" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>BBC_TopGear</b></a> <a href="/IanCallum" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>IanCallum</b></a> Hello.</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/BoozerKristin/status/504952532427620352">
+          <span class="details-icon js-icon-container">
+            
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              
+                <span class="expand-action-wrapper">
+                  Expand
+                </span>
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Collapse
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+ has-cards
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="504952820018454529"
+
+
+data-item-id="504952820018454529"
+
+
+ data-screen-name="JeremyMurfitt" data-name="Jeremy Murfitt" data-user-id="20134422"
+
+
+
+ data-has-cards="true"
+
+data-card2-type="summary"
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;        &lt;div class=&quot;card2 js-media-container&quot; data-card2-name=&quot;summary&quot;&gt;&#10;    &#10;&lt;div class=&quot;js-macaw-cards-iframe-container&quot;&#10;  data-src=&quot;/i/cards/tfw/v1/504952820018454529?cardname=summary&quot;&#10;  data-autoplay-src=&quot;/i/cards/tfw/v1/504952820018454529?cardname=summary&quot;&#10;  data-card-name=&quot;summary&quot;&#10;  data-card-url=&quot;http://t.co/3M76KN3QIZ&quot;&#10;  data-publisher-id=&quot;52344859&quot;&#10;  data-creator-id=&quot;&quot;&#10;  data-amplify-content-id=&quot;&quot;&#10;  data-amplify-playlist-url=&quot;&quot; &gt;&#10;&lt;/div&gt;&#10;&#10;&lt;/div&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;4:25 AM - 28 Aug 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/JeremyMurfitt/status/504952820018454529&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="BBC_TopGear IanCallum"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/JeremyMurfitt" data-user-id="20134422">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/481824221/p104456_bigger.jpg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Jeremy Murfitt</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>JeremyMurfitt</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/JeremyMurfitt/status/504952820018454529" class="tweet-timestamp js-permalink js-nav js-tooltip" title="4:25 AM - 28 Aug 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1409225108" data-time-ms="1409225108000" data-long-form="true">Aug 28</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/BBC_TopGear" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>BBC_TopGear</b></a> <a href="/IanCallum" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>IanCallum</b></a> Jaguar Mk2 - I want one!!  <a href="http://t.co/3M76KN3QIZ" rel="nofollow" dir="ltr" data-expanded-url="http://www.TOPGEAR.com/uk/car-news/jaguar-mark-2-revealed-2014-08-28" class="twitter-timeline-link" target="_blank" title="http://www.TOPGEAR.com/uk/car-news/jaguar-mark-2-revealed-2014-08-28" ><span class="tco-ellipsis"></span><span class="invisible">http://www.</span><span class="js-display-url">TOPGEAR.com/uk/car-news/ja</span><span class="invisible">guar-mark-2-revealed-2014-08-28</span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span>…</span></a> …</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/JeremyMurfitt/status/504952820018454529">
+          <span class="details-icon js-icon-container">
+              <span class="Icon Icon--summary"></span>
+
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              View summary
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Hide summary
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="504953143181180928"
+
+
+data-item-id="504953143181180928"
+
+
+ data-screen-name="PaulRenaultF1" data-name="Paul" data-user-id="394829484"
+
+
+
+
+
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;4:26 AM - 28 Aug 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/PaulRenaultF1/status/504953143181180928&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="FTypeCoupe BBC_TopGear IanCallum"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/PaulRenaultF1" data-user-id="394829484">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/516124427634102273/6zgQorWg_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Paul</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>PaulRenaultF1</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/PaulRenaultF1/status/504953143181180928" class="tweet-timestamp js-permalink js-nav js-tooltip" title="4:26 AM - 28 Aug 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1409225185" data-time-ms="1409225185000" data-long-form="true">Aug 28</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="und" data-aria-label-part="0"><a href="/FTypeCoupe" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>FTypeCoupe</b></a> <a href="/BBC_TopGear" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>BBC_TopGear</b></a> <a href="/IanCallum" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>IanCallum</b></a> WOW</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/PaulRenaultF1/status/504953143181180928">
+          <span class="details-icon js-icon-container">
+            
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              
+                <span class="expand-action-wrapper">
+                  Expand
+                </span>
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Collapse
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+ has-cards
+ has-native-media
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="504953198478888960"
+
+
+data-item-id="504953198478888960"
+
+
+ data-screen-name="Southend_Red" data-name="Paul Letts" data-user-id="346677524"
+
+
+ data-has-native-media="true"
+ data-has-cards="true"
+
+  data-card-type="photo"
+  
+  
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;            &lt;div class=&quot;cards-media-container js-media-container&quot;&gt;&lt;div data-card-url=&quot;//twitter.com/Southend_Red/status/504953198478888960/photo/1&quot; data-card-type=&quot;photo&quot; class=&quot;cards-base cards-multimedia&quot; data-element-context=&quot;platform_photo_card&quot;&gt;&#10;&#10;&#10;  &lt;a class=&quot;media media-thumbnail twitter-timeline-link is-preview&quot; data-url=&quot;https://pbs.twimg.com/media/BwH0Qd3IYAAf54f.jpg:large&quot; data-resolved-url-large=&quot;https://pbs.twimg.com/media/BwH0Qd3IYAAf54f.jpg:large&quot; href=&quot;//twitter.com/Southend_Red/status/504953198478888960/photo/1&quot;&gt;&#10;    &lt;div class=&quot;&quot;&gt;&#10;          &lt;img src=&quot;https://pbs.twimg.com/media/BwH0Qd3IYAAf54f.jpg&quot; alt=&quot;Embedded image permalink&quot; width=&quot;460&quot; height=&quot;260&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;/a&gt;&#10;&#10;  &lt;div class=&quot;cards-content&quot;&gt;&#10;    &lt;div class=&quot;byline&quot;&gt;&#10;      &#10;    &lt;/div&gt;&#10;    &#10;  &lt;/div&gt;&#10;  &#10;&lt;/div&gt;&#10;&#10;&#10;&#10;&#10;&lt;/div&gt;&#10;&#10;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;4:26 AM - 28 Aug 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/Southend_Red/status/504953198478888960&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;        &#10;        &#10;        &#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="BBC_TopGear IanCallum StephenMerchant"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/Southend_Red" data-user-id="346677524">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/1478258951/266739_2188712317996_1252730429_2562930_1642023_o_bigger.jpg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Paul Letts</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>Southend_Red</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/Southend_Red/status/504953198478888960" class="tweet-timestamp js-permalink js-nav js-tooltip" title="4:26 AM - 28 Aug 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1409225198" data-time-ms="1409225198000" data-long-form="true">Aug 28</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/BBC_TopGear" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>BBC_TopGear</b></a> <a href="/IanCallum" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>IanCallum</b></a> I don&#39;t know why but it reminds me of him... <a href="/StephenMerchant" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>StephenMerchant</b></a> <a href="/hashtag/RickyGervais?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr" ><s>#</s><b>RickyGervais</b></a> <a href="http://t.co/IYNx1JLrBT" class="twitter-timeline-link u-hidden" data-pre-embedded="true" dir="ltr" >pic.twitter.com/IYNx1JLrBT</a></p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/Southend_Red/status/504953198478888960">
+          <span class="details-icon js-icon-container">
+              <span class="Icon Icon--photo"></span>
+
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              View photo
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Hide photo
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+
+
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="504953402716356609"
+
+
+data-item-id="504953402716356609"
+
+
+ data-screen-name="jrpippen" data-name="Jonathan Pippen" data-user-id="22415129"
+
+
+
+
+
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;&#10;    &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;4:27 AM - 28 Aug 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/jrpippen/status/504953402716356609&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="BBC_TopGear IanCallum"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/jrpippen" data-user-id="22415129">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/503636531488518144/vz9nA7X3_bigger.jpeg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>Jonathan Pippen</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>jrpippen</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/jrpippen/status/504953402716356609" class="tweet-timestamp js-permalink js-nav js-tooltip" title="4:27 AM - 28 Aug 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1409225247" data-time-ms="1409225247000" data-long-form="true">Aug 28</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0"><a href="/BBC_TopGear" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>BBC_TopGear</b></a> <a href="/IanCallum" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>IanCallum</b></a> if Jag just made this a production model they would take over the world!!!</p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/jrpippen/status/504953402716356609">
+          <span class="details-icon js-icon-container">
+            
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              
+                <span class="expand-action-wrapper">
+                  Expand
+                </span>
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Collapse
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+    <li class="">
+  
+
+  <div class="simple-tweet tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable   
+
+
+
+ has-cards
+ has-native-media
+
+
+
+
+
+
+
+ descendant
+
+
+
+
+
+
+
+
+
+" 
+data-tweet-id="504954816871690240"
+
+
+data-item-id="504954816871690240"
+
+
+ data-screen-name="chwimz" data-name="chw!mz" data-user-id="387776643"
+
+
+ data-has-native-media="true"
+ data-has-cards="true"
+
+  data-card-type="photo"
+  
+  
+
+
+ data-has-parent-tweet="true" 
+
+
+data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt;&#10;&#10;&#10;            &lt;div class=&quot;cards-media-container js-media-container&quot;&gt;&lt;div data-card-url=&quot;//twitter.com/BBC_TopGear/status/504949462004162560/photo/1&quot; data-card-type=&quot;photo&quot; class=&quot;cards-base cards-multimedia&quot; data-element-context=&quot;platform_photo_card&quot;&gt;&#10;&#10;&#10;  &lt;a class=&quot;media media-thumbnail twitter-timeline-link is-preview&quot; data-url=&quot;https://pbs.twimg.com/media/BwHw3CKIEAAMXnP.png:large&quot; data-resolved-url-large=&quot;https://pbs.twimg.com/media/BwHw3CKIEAAMXnP.png:large&quot; href=&quot;//twitter.com/BBC_TopGear/status/504949462004162560/photo/1&quot;&gt;&#10;    &lt;div class=&quot;&quot;&gt;&#10;          &lt;img src=&quot;https://pbs.twimg.com/media/BwHw3CKIEAAMXnP.png&quot; alt=&quot;Embedded image permalink&quot; width=&quot;1024&quot; height=&quot;492&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;/a&gt;&#10;&#10;  &lt;div class=&quot;cards-content&quot;&gt;&#10;    &lt;div class=&quot;byline&quot;&gt;&#10;      &#10;    &lt;/div&gt;&#10;    &#10;  &lt;/div&gt;&#10;  &#10;&lt;/div&gt;&#10;&#10;&#10;&#10;&#10;&lt;/div&gt;&#10;&#10;&#10;&#10;  &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;  &lt;div class=&quot;client-and-actions&quot;&gt;&#10;  &lt;span class=&quot;metadata&quot;&gt;&#10;    &lt;span&gt;4:33 AM - 28 Aug 2014&lt;/span&gt;&#10;&#10;       &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/chwimz/status/504954816871690240&quot;  tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt;&#10;    &#10;&#10;        &#10;        &#10;        &#10;&#10;  &lt;/span&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;/div&gt;&#10;"
+
+
+ data-mentions="BBC_TopGear IanCallum"
+
+
+
+ data-component-context="replies"
+ data-you-follow="false"
+ data-you-block="false"
+
+
+>
+
+    
+    <div class="content">
+
+      
+      <div class="stream-item-header">
+          <a  class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="/chwimz" data-user-id="387776643">
+    <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/2152923415/i-see-what-you-did-there-15_bigger.jpg" alt="">
+    <strong class="fullname js-action-profile-name show-popup-with-id" data-aria-label-part>chw!mz</strong>
+    <span>&rlm;</span><span class="username js-action-profile-name" data-aria-label-part><s>@</s><b>chwimz</b></span>
+      
+
+  </a>
+
+        <small class="time">
+  <a href="/chwimz/status/504954816871690240" class="tweet-timestamp js-permalink js-nav js-tooltip" title="4:33 AM - 28 Aug 2014" ><span class="_timestamp js-short-timestamp " data-aria-label-part="last" data-time="1409225584" data-time-ms="1409225584000" data-long-form="true">Aug 28</span></a>
+</small>
+
+        
+      </div>
+
+      
+        <p class="js-tweet-text tweet-text" lang="en" data-aria-label-part="0">What a beauty! RT &quot;<a href="/BBC_TopGear" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>BBC_TopGear</b></a> Meet the ‘Mark 2’, a brand new old Jaguar from Jag’s design director <a href="/IanCallum" class="twitter-atreply pretty-link" dir="ltr" ><s>@</s><b>IanCallum</b></a>&quot; &#10;<a href="http://t.co/S2R1v2DjkF" class="twitter-timeline-link u-hidden" data-pre-embedded="true" dir="ltr" >pic.twitter.com/S2R1v2DjkF</a></p>
+
+
+
+
+      
+      <div class="stream-item-footer clearfix">
+        
+        
+
+        
+        <a class="details with-icn js-details" href="/chwimz/status/504954816871690240">
+          <span class="details-icon js-icon-container">
+              <span class="Icon Icon--photo"></span>
+
+          </span>
+          <b>
+            
+            <span class="expand-stream-item js-view-details">
+              View photo
+            </span>
+            <span class="collapse-stream-item js-hide-details">
+              Hide photo
+            </span>
+          </b>
+        </a>
+
+        
+        
+
+
+
+    <ul class="tweet-actions js-actions">
+      <li class="action-reply-container">
+        <a role="button" class="with-icn js-action-reply js-tooltip" data-modal="tweet-reply" href="#">
+          <span class="Icon Icon--reply"></span>
+          <b>Reply</b>
+        </a>
+      </li>
+      <li class="action-rt-container js-toggle-state js-toggle-rt">
+        <a role="button"  class="with-icn retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweet</b>
+        </a>
+        <a role="button" class="with-icn undo-retweet js-tooltip" data-modal="tweet-retweet" href="#">
+          <span class="Icon Icon--retweet"></span>
+          <b>Retweeted</b>
+        </a>
+      </li>
+      <li class="action-fav-container js-toggle-state js-toggle-fav">
+        <a role="button" class="with-icn favorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorite</b>
+        </a>
+        <a role="button" class="with-icn unfavorite js-tooltip" href="#">
+          <span class="Icon Icon--favorite"></span>
+          <b>Favorited</b>
+        </a>
+      </li>
+
+      
+
+        <li class="more-tweet-actions">
+  <div class="action-more-container">
+    <div class="dropdown">
+      <button type="button" class="btn-link with-icn dropdown-toggle js-dropdown-toggle js-tooltip">
+        <span class="Icon Icon--dots"></span>
+        <b>More</b>
+      </button>
+      <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+          
+  </ul>
+</div>
+
+    </div>
+  </div>
+</li>
+
+
+      
+    </ul>
+
+      </div>
+
+      
+      
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+      
+      
+      
+
+      
+  </div>
+
+
+
+    </div>
+  </div>
+  </li>
+
+
+
+
+
+
+
+
+
+
+
+
+</ol>
+      <ol class="hidden-replies-container"></ol>
+    </div>
+  </div>
+
+      </div>
+    </div>
+</div>
+
+
+
+
+</div>
+
+
+
+<div class="permalink-footer">
+      <div class="SignupCallOut js-signup-call-out
+  
+   SignupCallOut--wide">
+  <div class="SignupCallOut-header">
+    <h3 class="SignupCallOut-title u-textBreak">
+          Don’t miss any updates from <b>Top Gear</b>
+
+
+
+    </h3>
+  </div>
+  <form action="https://twitter.com/signup" method="post" class="SignupForm
+   SignupForm--wide u-cf">
+  <div class="SignupForm-inputsContainer">
+    <div class="SignupForm-input SignupForm-name">
+      <input class="js-initial-focus" type="text" autocomplete="off" name="user[name]" maxlength="20" placeholder="Full name">
+    </div><div class="SignupForm-input SignupForm-email">
+      <input class="email-input" type="text" autocomplete="off" name="user[email]" placeholder="Email">
+    </div><div class="SignupForm-input SignupForm-password">
+      <input type="password" name="user[user_password]" placeholder="Password">
+    </div>
+  </div>
+    <input name="follow" type="hidden" value="BBC_TopGear">
+  <input type="hidden" value="permalink" name="context">
+  <input type="hidden" value="4940ab1227e54e10b04e11bfae6ec9fa09af41e5" name="authenticity_token"/>
+  <input name="follows" type="hidden" value="">
+  <input type="submit" class="SignupForm-submit btn primary-btn" value="Sign up for Twitter">
+</form>
+</div>
+
+    <div class="Footer module roaming-module Footer--slim">
+  <div class="flex-module">
+    <div class="flex-module-inner js-items-container">
+      <ul class="u-cf">
+        <li class="Footer-item Footer-copyright copyright">&copy; 2014 Twitter</li>
+        <li class="Footer-item"><a class="Footer-link" href="/about">About</a></li>
+        <li class="Footer-item"><a class="Footer-link" href="//support.twitter.com">Help</a></li>
+          <li class="Footer-item"><a class="Footer-link" href="//support.twitter.com/articles/20170451">Ads info</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+</div>
+<div id="sensitive_flag_dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-small draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Flag this media</h3>
+      </div>
+      <div class="modal-body">
+        <p class="sensitive-title">This has already been marked as containing sensitive content.</p>
+        <label class="t1-label checkbox" for="sensitive-illegal-checkbox">
+          <input type="checkbox" id="sensitive-illegal-checkbox" value="illegal">
+          Flag this as containing potentially illegal content.
+        </label>
+      </div>
+      <div class="modal-footer">
+        <button id="submit_flag_confirmation" type="button" class="btn">Submit</button>
+        <button id="cancel_flag_confirmation" type="button" class="btn primary-btn js-close">Cancel</button>
+
+        <div class="sensitive-confirmation">
+          <a class="sensitive-learn-more" target="_blank" href="//support.twitter.com/articles/20069937">Learn more about flagging media</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal-overlay"></div>
+</div>
+
+
+
+          </div>
+        </div>
+      
+    </div>
+    <div class="alert-messages hidden" id="message-drawer">
+    <div class="message ">
+  <div class="message-inside">
+    <span class="message-text"></span>
+      <a role="button" class="Icon Icon--close Icon--medium dismiss" href="#">
+        <span class="visuallyhidden">Dismiss</span>
+      </a>
+  </div>
+</div>
+</div>
+
+    
+
+<div class="gallery-overlay"></div>
+<div class="Gallery">
+  <div class="Gallery-closeTarget"></div>
+  <div class="Gallery-content">
+    <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--large">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+    <div class="Gallery-media"></div>
+    <div class="GalleryNav GalleryNav--prev">
+      <span class="GalleryNav-handle GalleryNav-handle--prev">
+        <span class="Icon Icon--caretLeft Icon--large">
+          <span class="u-hiddenVisually">
+            Previous
+          </span>
+        </span>
+      </span>
+    </div>
+    <div class="GalleryNav GalleryNav--next">
+      <span class="GalleryNav-handle GalleryNav-handle--next">
+        <span class="Icon Icon--caretRight Icon--large">
+          <span class="u-hiddenVisually">
+            Next
+          </span>
+        </span>
+      </span>
+    </div>
+    <div class="GalleryTweet"></div>
+  </div>
+</div>
+
+
+
+<div class="modal-overlay"></div>
+
+
+
+
+<div id="goto-user-dialog" class="modal-container">
+  <div class="modal modal-small draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+
+      <div class="modal-header">
+        <h3 class="modal-title">Go to a person's profile</h3>
+      </div>
+
+      <div class="modal-body">
+        <div class="modal-inner">
+          <form class="t1-form goto-user-form">
+            <input class="input-block username-input" type="text" placeholder="Start typing a name to jump to a profile" aria-label="User">
+            
+
+
+<div role="listbox" class="dropdown-menu typeahead">
+  <div aria-hidden="true" class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <div role="presentation" class="dropdown-inner js-typeahead-results">
+    <div role="presentation" class="typeahead-saved-searches">
+  <h3 id="saved-searches-heading" class="typeahead-category-title saved-searches-title">Saved searches</h3>
+  <ul role="presentation" class="typeahead-items saved-searches-list">
+    
+    <li role="presentation" class="typeahead-item typeahead-saved-search-item">
+      <span class="icon close" aria-hidden="true"><span class="visuallyhidden">Remove</span></span>
+      <a role="option" aria-describedby="saved-searches-heading" class="js-nav" href="" data-search-query="" data-query-source="" data-ds="saved_search" tabindex="-1"></a>
+    </li>
+  </ul>
+</div>
+
+    <ul role="presentation" class="typeahead-items typeahead-topics">
+  
+  <li role="presentation" class="typeahead-item typeahead-topic-item">
+    <a role="option" class="js-nav" href="" data-search-query="" data-query-source="typeahead_click" data-ds="topics" tabindex="-1">
+    </a>
+  </li>
+</ul>
+
+
+    
+
+
+<ul role="presentation" class="typeahead-items typeahead-accounts js-typeahead-accounts">
+  
+  <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-account-item js-selectable">
+    
+    <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+      <img class="avatar size24" alt="">
+      <span class="typeahead-user-item-info">
+        <span class="fullname"></span>
+        <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small"><span class="u-hiddenVisually">Verified account</span></span>
+</span>
+        <span class="username"><s>@</s><b></b></span>
+      </span>
+    </a>
+  </li>
+  <li role="presentation" class="js-selectable typeahead-accounts-shortcut js-shortcut"><a role="option" class="js-nav" href="" data-search-query="" data-query-source="typeahead_click" data-shortcut="true" data-ds="account_search"></a></li>
+</ul>
+
+    <ul role="presentation" class="typeahead-items typeahead-trend-locations-list">
+  
+  <li role="presentation" class="typeahead-item typeahead-trend-locations-item"><a role="option" class="js-nav" href="" data-ds="trend_location" data-search-query="" tabindex="-1"></a></li>
+</ul>
+    <div role="presentation" class="typeahead-user-select">
+  <div role="presentation" class="typeahead-empty-suggestions">
+    Suggested users
+  </div>
+  <ul role="presentation" class="typeahead-items typeahead-selected js-typeahead-selected">
+    
+    <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-selected-item js-selectable">
+      
+      <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+        <img class="avatar size24" alt="">
+        <span class="typeahead-user-item-info">
+          <span class="select-status deselect-user js-deselect-user Icon Icon--close"></span>
+          <span class="select-status select-disabled Icon Icon--unfollow"></span>
+          <span class="fullname"></span>
+          <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small"><span class="u-hiddenVisually">Verified account</span></span>
+</span>
+          <span class="username"><s>@</s><b></b></span>
+        </span>
+      </a>
+    </li>
+    <li role="presentation" class="typeahead-selected-end"></li>
+  </ul>
+
+  <ul role="presentation" class="typeahead-items typeahead-accounts js-typeahead-accounts">
+    
+    <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-account-item js-selectable">
+      
+      <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+        <img class="avatar size24" alt="">
+        <span class="typeahead-user-item-info">
+          <span class="select-status deselect-user js-deselect-user Icon Icon--close"></span>
+          <span class="select-status select-disabled Icon Icon--unfollow"></span>
+          <span class="fullname"></span>
+          <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small"><span class="u-hiddenVisually">Verified account</span></span>
+</span>
+          <span class="username"><s>@</s><b></b></span>
+        </span>
+      </a>
+    </li>
+    <li role="presentation" class="typeahead-accounts-end"></li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+          </form>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+  <div id="retweet-tweet-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+
+      <div class="modal-header">
+        <h3 class="modal-title">Retweet this to your followers?</h3>
+      </div>
+
+      <div class="tweet-loading">
+  <div class="spinner-bigger"></div>
+</div>
+
+      <div class="modal-body modal-tweet"></div>
+
+      <div class="modal-footer">
+        <button class="btn cancel-action js-close">Cancel</button>
+        <button class="btn primary-btn retweet-action">Retweet</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div id="delete-tweet-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+
+      <div class="modal-header">
+        <h3 class="modal-title">Are you sure you want to delete this Tweet?</h3>
+      </div>
+
+      <div class="tweet-loading">
+  <div class="spinner-bigger"></div>
+</div>
+
+      <div class="modal-body modal-tweet"></div>
+
+      <div class="modal-footer">
+        <button class="btn cancel-action js-close">Cancel</button>
+        <button class="btn primary-btn delete-action">Delete</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div id="block-user-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+
+      <div class="modal-header">
+        <h3 class="modal-title">Block</h3>
+      </div>
+
+      <div class="tweet-loading">
+  <div class="spinner-bigger"></div>
+</div>
+
+      <div class="modal-body modal-tweet"></div>
+
+      <div class="modal-footer">
+        <button class="btn cancel-action js-close">Cancel</button>
+        <button class="btn primary-btn block-action">Block</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+  
+  
+
+     <div id="geo-disabled-dropdown">
+      <div class="dropdown-menu" tabindex="-1">
+  <div class="dropdown-caret">
+    <span class="caret-outer"></span>
+    <span class="caret-inner"></span>
+  </div>
+  <ul>
+    <li class="geo-not-enabled-yet">
+      <h2>Add a location to your Tweets</h2>
+      <p>
+        When you tweet with a location, Twitter stores that location.&#32;
+        You can switch location on/off before each Tweet and always have the option to delete your location history.
+        <a href="http://support.twitter.com/forums/26810/entries/78525" target="_blank">Learn more</a>
+      </p>
+      <div>
+        <button type="button" class="geo-turn-on btn primary-btn">Turn location on</button>
+        <button type="button" class="geo-not-now btn-link">Not now</button>
+      </div>
+    </li>
+  </ul>
+</div>
+    </div>
+
+  <div id="geo-enabled-dropdown">
+    <div class="dropdown-menu" tabindex="-1">
+  <div class="dropdown-caret">
+    <span class="caret-outer"></span>
+    <span class="caret-inner"></span>
+  </div>
+  <ul>
+    <li class="geo-query-location">
+      <input type="text" autocomplete="off" placeholder="Search for a neighborhood or city">
+      <span class="icon generic-search"></span>
+    </li>
+    <li class="geo-dropdown-status"></li>
+    <li class="dropdown-link geo-turn-off-item geo-focusable">
+      <span class="icon close"></span>Turn off location
+    </li>
+  </ul>
+</div>
+  </div>
+
+
+  <div id="profile_popup" class="modal-container ProfilePopupContainer--bellbird">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-small draggable">
+    <div class="modal-content clearfix">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Profile summary</h3>
+      </div>
+
+      <div class="modal-body profile-modal">
+
+      </div>
+
+      <div class="loading">
+        <span class="spinner-bigger"></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div id="list-membership-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-small draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Your lists</h3>
+      </div>
+      <div class="modal-body">
+        <div class="list-membership-content"></div>
+        <span class="spinner lists-spinner" title="Loading&hellip;"></span>
+      </div>
+    </div>
+  </div>
+</div>
+  <div id="list-operations-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-medium draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Create a new list</h3>
+      </div>
+      <div class="modal-body">
+        
+<div class="list-editor">
+  <div class="field">
+    <label class="t1-label" for="list-name">List name</label>
+    <input id="list-name" type="text" class="text" name="name" value="" />
+  </div>
+  <hr/>
+
+  <div class="field">
+    <label class="t1-label" for="list-description">Description</label>
+    <textarea id="list-description" name="description"></textarea>
+    <span class="help-text">Under 100 characters, optional</span>
+  </div>
+  <hr/>
+
+  <fieldset class="field">
+    <legend class="t1-legend">Privacy</legend>
+    <div class="options">
+      <label class="t1-label" for="list-public-radio">
+        <input class="radio" type="radio" name="mode" id="list-public-radio" value="public" checked="checked"  />
+        <b>Public</b> &middot; Anyone can follow this list
+      </label>
+      <label class="t1-label" for="list-private-radio">
+        <input class="radio" type="radio" name="mode" id="list-private-radio" value="private"  />
+        <b>Private</b> &middot; Only you can access this list
+      </label>
+    </div>
+  </fieldset>
+  <hr/>
+
+  <div class="list-editor-save">
+    <button type="button" class="btn btn-primary update-list-button" data-list-id="">Save list</button>
+  </div>
+
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div id="activity-popup-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content clearfix">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+
+      <div class="modal-header">
+        <h3 class="modal-title"></h3>
+      </div>
+
+      <div class="modal-body">
+        <div class="tweet-loading">
+  <div class="spinner-bigger"></div>
+</div>
+
+        <div class="activity-tweet modal-tweet clearfix"></div>
+        <div class="loading">
+          <span class="spinner-bigger"></span>
+        </div>
+        <div class="activity-content clearfix"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  <div id="embed-tweet-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-medium draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Embed this Tweet</h3>
+      </div>
+      <div class="modal-body">
+        <div class="embed-code-container">
+  <p>Add this Tweet to your website by copying the code below. <a href="//dev.twitter.com/docs/embedded-tweets">Learn more</a></p>
+  <form class="t1-form">
+
+    <div class="embed-destination-wrapper">
+      <div class="embed-overlay embed-overlay-spinner"><div class="embed-overlay-content"></div></div>
+      <div class="embed-overlay embed-overlay-error">
+        <p class="embed-overlay-content">Hmm, there was a problem reaching the server. <button type="button" class="btn-link retry-embed">Try again?</button></p>
+      </div>
+      <textarea class="embed-destination js-initial-focus"></textarea>
+      <div class="embed-options">
+        <div class="embed-include-parent-tweet">
+          <label class="t1-label" for="include-parent-tweet">
+            <input type="checkbox" id="include-parent-tweet" class="include-parent-tweet" checked>
+            Include parent Tweet
+          </label>
+        </div>
+        <div class="embed-include-card">
+          <label class="t1-label" for="include-card">
+            <input type="checkbox" id="include-card" class="include-card" checked>
+            Include media
+          </label>
+        </div>
+      </div>
+    </div>
+  </form>
+  <div class="embed-preview">
+    <h3>Preview</h3>
+  </div>
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+  <div id="signup-dialog" class="SignupDialog modal-container u-textCenter">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-large draggable">
+    <div class="SignupDialog-content modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Sign up for Twitter</h3>
+      </div>
+      <div class="SignupDialog-body modal-body">
+        <div class="SignupDialog-bird">
+          <span class="Icon Icon--bird Icon--large"></span>
+        </div>
+        <h2 class="SignupDialog-heading">Not on Twitter? Sign up, tune into the things you care about, and get updates as they happen.</h2>
+        <div class="SignupDialog-form">
+          <form action="https://twitter.com/signup" method="post" class="SignupForm
+  ">
+  <div class="SignupForm-inputsContainer">
+    <div class="SignupForm-input SignupForm-name">
+      <input class="js-initial-focus" type="text" autocomplete="off" name="user[name]" maxlength="20" placeholder="Full name">
+    </div><div class="SignupForm-input SignupForm-email">
+      <input class="email-input" type="text" autocomplete="off" name="user[email]" placeholder="Email">
+    </div><div class="SignupForm-input SignupForm-password">
+      <input type="password" name="user[user_password]" placeholder="Password">
+    </div>
+  </div>
+  <input type="hidden" value="" name="context">
+  <input type="hidden" value="4940ab1227e54e10b04e11bfae6ec9fa09af41e5" name="authenticity_token"/>
+  <input name="follows" type="hidden" value="">
+  <input type="submit" class="SignupForm-submit btn primary-btn" value="Sign up for Twitter">
+</form>
+        </div>
+      </div>
+      <div class="SignupDialog-footer modal-footer u-textCenter">
+        Have an account? <a class="SignupDialog-signinLink" href="/login">Sign in &raquo;</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div id="sms-codes-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-medium draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Two-way (sending and receiving) short codes:</h3>
+      </div>
+      <div class="modal-body">
+        
+<table id="sms_codes" cellpadding="0" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Country</th>
+      <th>Code</th>
+      <th>For customers of</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>United States</td>
+      <td>40404</td>
+      <td>(any)</td>
+    </tr>
+    <tr>
+      <td>Canada</td>
+      <td>21212</td>
+      <td>(any)</td>
+    </tr>
+    <tr>
+      <td>United Kingdom</td>
+      <td>86444</td>
+      <td>Vodafone, Orange, 3, O2</td>
+    </tr>
+    <tr>
+      <td>Brazil</td>
+      <td>40404</td>
+      <td>Nextel, TIM</td>
+    </tr>
+    <tr>
+      <td>Haiti</td>
+      <td>40404</td>
+      <td>Digicel, Voila</td>
+    </tr>
+    <tr>
+      <td>Ireland</td>
+      <td>51210</td>
+      <td>Vodafone, O2</td>
+    </tr>
+    <tr>
+      <td>India</td>
+      <td>53000</td>
+      <td>Bharti Airtel, Videocon, Reliance</td>
+    </tr>
+    <tr>
+      <td>Indonesia</td>
+      <td>89887</td>
+      <td>AXIS, 3, Telkomsel, Indosat, XL Axiata</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Italy</td>
+      <td>4880804</td>
+      <td>Wind</td>
+    </tr>
+    <tr>
+      <td>3424486444</td>
+      <td>Vodafone</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="3">
+        &raquo; <a class="js-initial-focus" target="_blank" href="http://support.twitter.com/articles/14226-how-to-find-your-twitter-short-code-or-long-code">See SMS short codes for other countries</a>
+      </td>
+    </tr>
+  </tfoot>
+</table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="leadgen-confirm-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Confirmation</h3>
+      </div>
+      <div class="modal-body">
+        <div class="leadgen-card-container">
+          <div class="media">
+            <iframe
+              class="cards2-promotion-iframe"
+              scrolling="no"
+              frameborder="0"
+              src="">
+            </iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+<div id="create-custom-timeline-dialog" class="modal-container"></div>
+<div id="edit-custom-timeline-dialog" class="modal-container"></div>
+<div id="curate-dialog" class="modal-container"></div>
+
+
+    <div class="hidden" id="hidden-content">
+  <iframe aria-hidden="true" class="tweet-post-iframe" name="tweet-post-iframe"></iframe>
+  <iframe aria-hidden="true" class="dm-post-iframe" name="dm-post-iframe"></iframe>
+  <form class="t1-form media-upload-form" method="post">
+    <input type="hidden" name="authenticity_token" class="auth-token">
+    <input type="hidden" name="iframe_callback" class="iframe-callback">
+    <input type="hidden" name="media" class="media">
+    <input type="hidden" name="upload_id" class="upload-id">
+    <input type="hidden" name="origin" class="origin">
+  </form>
+
+</div>
+
+    
+    <div id="spoonbill-outer"></div>
+  </body>
+</html>
+  <input type="hidden" id="init-data" class="json-data" value="{&quot;profileHoversEnabled&quot;:false,&quot;permalinkOverlayEnabled&quot;:false,&quot;baseFoucClass&quot;:&quot;swift-loading&quot;,&quot;bodyFoucClassNames&quot;:&quot;swift-loading&quot;,&quot;macawSwift&quot;:true,&quot;assetsBasePath&quot;:&quot;https:\/\/abs.twimg.com\/a\/1412373788\/&quot;,&quot;assetVersionKey&quot;:&quot;4280e6&quot;,&quot;environment&quot;:&quot;production&quot;,&quot;formAuthenticityToken&quot;:&quot;4940ab1227e54e10b04e11bfae6ec9fa09af41e5&quot;,&quot;loggedIn&quot;:false,&quot;screenName&quot;:null,&quot;fullName&quot;:null,&quot;userId&quot;:null,&quot;allowAdsPersonalization&quot;:true,&quot;scribeBufferSize&quot;:3,&quot;pageName&quot;:&quot;permalink&quot;,&quot;sectionName&quot;:&quot;permalink&quot;,&quot;scribeParameters&quot;:{},&quot;recaptchaApiUrl&quot;:&quot;https:\/\/www.google.com\/recaptcha\/api\/js\/recaptcha_ajax.js&quot;,&quot;internalReferer&quot;:null,&quot;geoEnabled&quot;:false,&quot;typeaheadData&quot;:{&quot;accounts&quot;:{&quot;enabled&quot;:false,&quot;localQueriesEnabled&quot;:false,&quot;remoteQueriesEnabled&quot;:false,&quot;limit&quot;:6,&quot;typeaheadExperiments&quot;:[]},&quot;contacts&quot;:{&quot;enabled&quot;:false},&quot;trendLocations&quot;:{&quot;enabled&quot;:false},&quot;savedSearches&quot;:{&quot;enabled&quot;:false,&quot;items&quot;:[]},&quot;dmAccounts&quot;:{&quot;enabled&quot;:false,&quot;localQueriesEnabled&quot;:false,&quot;remoteQueriesEnabled&quot;:false,&quot;onlyDMable&quot;:true},&quot;mediaTagAccounts&quot;:{&quot;enabled&quot;:false,&quot;localQueriesEnabled&quot;:true,&quot;remoteQueriesEnabled&quot;:false,&quot;onlyShowUsersWithCanMediaTag&quot;:false,&quot;currentUserId&quot;:-1},&quot;selectedUsers&quot;:{&quot;enabled&quot;:false},&quot;prefillUsers&quot;:{&quot;enabled&quot;:false},&quot;topics&quot;:{&quot;enabled&quot;:false,&quot;localQueriesEnabled&quot;:false,&quot;remoteQueriesEnabled&quot;:false,&quot;prefetchLimit&quot;:500,&quot;limit&quot;:4},&quot;concierge&quot;:{&quot;enabled&quot;:false,&quot;localQueriesEnabled&quot;:false,&quot;remoteQueriesEnabled&quot;:false,&quot;prefetchLimit&quot;:500,&quot;limit&quot;:6,&quot;typeaheadExperiments&quot;:[]},&quot;recentSearches&quot;:{&quot;enabled&quot;:false},&quot;hashtags&quot;:{&quot;enabled&quot;:false,&quot;localQueriesEnabled&quot;:false,&quot;remoteQueriesEnabled&quot;:false,&quot;prefetchLimit&quot;:500},&quot;showSearchAccountSocialContext&quot;:false,&quot;showTypeaheadTopicSocialContext&quot;:false,&quot;showDebugInfo&quot;:false,&quot;useThrottle&quot;:true,&quot;accountsOnTop&quot;:false,&quot;remoteDebounceInterval&quot;:300,&quot;remoteThrottleInterval&quot;:300,&quot;reverseBoldingEnabled&quot;:false,&quot;tweetContextEnabled&quot;:false,&quot;fullNameMatchingInCompose&quot;:true,&quot;topicsWithFiltersEnabled&quot;:false,&quot;typeaheadExperiments&quot;:[]},&quot;pushStatePageLimit&quot;:500000,&quot;routes&quot;:{&quot;profile&quot;:&quot;\/&quot;},&quot;pushState&quot;:true,&quot;viewContainer&quot;:&quot;#page-container&quot;,&quot;asyncSocialProof&quot;:false,&quot;dragAndDropPhotoUpload&quot;:true,&quot;href&quot;:&quot;\/BBC_TopGear\/status\/504949462004162560\/photo\/1&quot;,&quot;searchPathWithQuery&quot;:&quot;\/search?q=query&amp;src=typd&quot;,&quot;timelineCardsGallery&quot;:true,&quot;mediaGrid&quot;:true,&quot;deciders&quot;:{&quot;pushState&quot;:true,&quot;disable_profile_popup&quot;:false,&quot;hqImageUploads&quot;:false,&quot;mqImageUploads&quot;:false,&quot;largeHeaderImageUpload&quot;:true,&quot;dynamicLoadMediaForward&quot;:true,&quot;scribeActionQueue&quot;:false,&quot;scribeReducedActionQueue&quot;:true,&quot;custom_timeline_curation&quot;:false,&quot;multi_compose&quot;:true,&quot;enableMacawNymizerConversionLanding&quot;:false,&quot;promoted_video_logging_enabled&quot;:true,&quot;dm_convo&quot;:false,&quot;enable_media_tag_prefetch&quot;:true,&quot;bellbirdNavigationReorg&quot;:false,&quot;useHtml5Webcam&quot;:false,&quot;enableInlineEditingOnLegacyBrowsers&quot;:true,&quot;bulkUnfollowEnabled&quot;:false,&quot;swift_contacts_typeahead&quot;:false},&quot;experiments&quot;:{},&quot;permalinkCardsGallery&quot;:false,&quot;toasts_dm&quot;:false,&quot;toasts_spoonbill&quot;:false,&quot;toasts_timeline&quot;:false,&quot;toasts_dm_poll_scale&quot;:60,&quot;uploadDomain&quot;:&quot;upload.twitter.com&quot;,&quot;lifelineAlertEnabled&quot;:false,&quot;freezeDashboard&quot;:false,&quot;passwordResetAdvancedLoginForm&quot;:true,&quot;enableActivity&quot;:true,&quot;tweetId&quot;:&quot;504949462004162560&quot;,&quot;endpoint&quot;:&quot;\/i\/BBC_TopGear\/conversation\/504949462004162560&quot;,&quot;overlayCapable&quot;:false,&quot;permalinkCardsGallery&quot;:true,&quot;showRelatedTweets&quot;:false,&quot;initialState&quot;:{&quot;title&quot;:&quot;Top Gear on Twitter: \&quot;Meet the \u2018Mark 2\u2019, a brand new old Jaguar from Jag\u2019s design director @IanCallum \nhttp:\/\/t.co\/FNzLSSJHN6 http:\/\/t.co\/V6hNoUaUlU\&quot;&quot;,&quot;section&quot;:null,&quot;module&quot;:&quot;app\/pages\/permalink&quot;,&quot;cache_ttl&quot;:300,&quot;body_class_names&quot;:&quot;three-col logged-out user-style-BBC_TopGear&quot;,&quot;doc_class_names&quot;:&quot;route-permalink&quot;,&quot;route_name&quot;:&quot;permalink&quot;,&quot;page_container_class_names&quot;:&quot;AppContent wrapper wrapper-permalink white&quot;,&quot;ttft_navigation&quot;:false}}">
+
+  
+
+    <input type="hidden" class="swift-boot-module" value="app/pages/permalink">
+  <input type="hidden" id="swift-module-path" value="https://abs.twimg.com/c/swift/en">
+
+  
+    <script src="https://abs.twimg.com/c/swift/en/init.4ad65c5fcd8a58c77c4bcc481df2e62317fac6f5.js" async></script>
+

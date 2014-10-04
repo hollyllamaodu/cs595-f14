@@ -1,0 +1,366 @@
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en" itemscope itemtype="http://schema.org/Article"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en" itemscope itemtype="http://schema.org/Article"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en" itemscope itemtype="http://schema.org/Article"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9" lang="en" itemscope itemtype="http://schema.org/Article">           <![endif]-->
+<!--[if (gt IE 9)|!(IE)]<!--><html class="no-js" lang="en" itemscope itemtype="http://schema.org/Article"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+<!--
+              .:+uuuuuuuuuuu+:.
+          ./sssssssssssssssssssss/-
+       ./aaaaaaaaaaaaaaaaaaaaaaaaaaa/.
+     .+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu+.
+   `/sssssssssssssssssssssssssssssssssss/
+  `aaaaaaaaaaaaa:-`       `-:aaaaaaaaaaaaa.
+ `uuuuuuuuuuu/.               ./uuuuuuuuuuu.
+ sssssssssss.                   .sssssssssss`
+-aaaaaaaaaa`                     `+aaaaaaaaa:
+uuuuuuuuuu.                       `uuuuuuuuuu
+ssssss-```                         ```-ssssss
+`       ....aaaaaaaaaaaaaaaaaaaaa....       `
+...+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu+...
+-ssssssssssssss+//-```                  `````
+ aaaaa+/:-`            ...aaaaaaaaaaaaaaaaaa.
+ `/-``        ..::uuuuuuuuuuuuuuuuuuuuuuuuu.
+        .:/+sssssssssssssssss-```      ````
+     /aaaaaaaaaaaaa+/:-``       ...aaaaaa
+     .+uuuuuuu/:-``        .-:/+uuuuuuu-
+       ./s/-`         -:+sssssssssss+.
+                  -/aaaaaaaaaaaaa+-`
+              .:+usausausausa+:]
+-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>Get your free sticker</title>
+
+    
+    <meta name="description" content="We know why grassroots organizing matters, and we&#39;re proud of it. Get your free sticker today.">
+    <link rel="canonical" href="http://www.barackobama.com/get-your-free-sticker/">
+    
+
+    <meta property="og:title" content="Get your free sticker">
+    <meta property="og:type" content="cause">
+    <meta property="og:url" content="http://www.barackobama.com/get-your-free-sticker/">
+    <meta property="og:image" content="https://secure.assets.bostatic.com/apps/madison/media/filer_public/2014/08/25/ofa-082514-bumper-sticker.png">
+    <meta property="og:site_name" content="Organizing for Action">
+    <meta property="og:description" content="We know why grassroots organizing matters, and we&#39;re proud of it. Get your free sticker today.">
+    <meta name="robots" content="NOODP">
+
+    <meta name="twitter:card" content="summary">
+    
+    
+        <meta name="twitter:title" content="Get your free bumper sticker before they run out!">
+    
+    
+        <meta name="twitter:description" content="OFA is celebrating the power of grassroots organizing by giving away a bumper sticker to supporters. Get yours today.">
+    
+    
+
+    <meta itemprop="name" content="Organizing for Action">
+    <meta itemprop="image" content="https://secure.assets.bostatic.com/apps/madison/media/filer_public/2014/08/25/ofa-082514-bumper-sticker.png">
+    <link rel="image_src" href="https://secure.assets.bostatic.com/apps/madison/media/filer_public/2014/08/25/ofa-082514-bumper-sticker.png">
+    <meta name="thumbnail" content="https://secure.assets.bostatic.com/apps/madison/media/filer_public/2014/08/25/ofa-082514-bumper-sticker.png"/>
+
+
+    
+
+
+    <meta name="twitter:site" content="@OFA">
+    <meta property="fb:page_id" content="203330919857759">
+    <meta property="fb:app_id" content="111399285589490">
+    <meta property="article:publisher" content="https://www.facebook.com/OFA" />
+
+    <link rel="publisher" href="https://plus.google.com/110031535020051778989">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="apple-touch-icon-precomposed" href="//secure.assets.bostatic.com/hydepark/images/touch-icon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//secure.assets.bostatic.com/hydepark/images/touch-icon@72x72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//secure.assets.bostatic.com/hydepark/images/touch-icon@114x114.png">
+
+    
+
+    <link rel="shortcut icon" href="//secure.assets.bostatic.com/hydepark/images/favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="//cloud.typography.com/7553052/630502/css/fonts.css" />
+    
+    <link rel="stylesheet" type="text/css" href="//secure.assets.bostatic.com/apps/madison/static/css-min/site/madison.css">
+    
+
+    <script>var _gaq=_gaq||[];_gaq.push(['_setAccount',"UA-30908-1"]);_gaq.push(['_setDomainName','barackobama.com']);_gaq.push(function(){function a(a){return(RegExp("(?:^|; )"+a+"=([^;]*)").exec(document.cookie)||[]).pop()}function b(a){_gaq.push(["_setCustomVar"].concat(a).concat(2))}location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi,function(a,c,d){"source"==c&&b([1,"Source",d])});a("msid")&&b([2,"mailing_send_id",""+(parseInt(a("msid"),16)^1438720643)]);b([5,"Logged In",""+!!a("PHPSESSID")]);b([3,"Has GUID",""+!!a("guid")]);b([4,"Has Spud",""+!!a("spud")])});_gaq.push(['_trackPageview']);_gaq.push(['_trackPageLoadTime']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+
+    <script src="https://secure.assets.bostatic.com/frontend/polyfills/vendors/modernizr.custom.32546.js"></script>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="//secure.assets.bostatic.com/apps/madison/static/js/jquery-1.7.0.min.js"><\/script>')</script>
+
+    <link rel="profile" href="http://microformats.org/profile/hcard">
+    <link rel="profile" href="http://microformats.org/profile/hcalendar">
+
+    
+
+    
+    
+
+<style>
+	
+@media screen and (min-width: 768px) {
+  .mobile-only {
+     display: none;
+  }
+  #main {
+background: #9a9a9a url('https://secure.assets.bostatic.com/apps/madison/media/filer_public/2014/08/25/bumpersticker.jpg') top center no-repeat;
+}
+
+</style>
+
+    
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script></head>
+
+<body class="no-hero full-bleed style-glass donate-nav">
+    
+
+    <header id="action-bar" class="action-bar" role="banner">
+        <div class="row">
+            <div class="container">       
+                <nav class="logo-link">
+                    <a href="/" title="Organizing for Action Homepage" class="logo">Homepage</a>
+                    <a href="/" title="Organizing for Action Homepage" class="logo-small">Homepage</a>
+                </nav>
+                <ul class="top-tabs">
+                    <li class="top-tab"><a href="get-the-facts"><strong>Get the facts</strong></a></li>
+                    <li class="top-tab"><a href="get-the-latest"><strong>Get the latest</strong></a></li>
+                    <li class="top-tab"><a href="get-involved"><strong>Get involved</strong></a></li>
+                    <li class="tab tab-link"><a href="//store.barackobama.com/?source=home_page_main_nav"><strong>Get the Gear</strong></a></li>
+                </ul>
+                
+                <div>
+                    
+                        
+<nav class="ab-navs donate-group">
+    <a href="https://contribute.barackobama.com/" title="Donate to Organizing for Action!" class="link donate">Donate</a>
+    <a href="https://contribute.barackobama.com/" title="Donate to Organizing for Action!" class="button donate">Donate</a>
+</nav>
+
+                        
+
+<nav class="ab-navs profile-group auth">
+    <ul class="identity">
+        <li class="login">
+            <a href="https://my.barackobama.com/ctl/Constituent/login?successurl=http%3A%2F%2Fwww.barackobama.com%2F" title="Log In">Log in</a>
+        </li>
+
+        <li class="create-account">
+            <a href="https://my.barackobama.com/ctl/Constituent/login?successurl=http%3A%2F%2Fwww.barackobama.com%2F" title="Create Account">Create account</a>
+        </li>
+    </ul> 
+</nav>
+
+
+                    
+                </div>
+                
+            </div>
+        </div>
+    </header>
+
+    
+    <section id="main" role="main">
+        <div class="full-bleed-section">
+            <div class="container">
+                <div class="row">
+                    <div class="span5">
+    						
+
+<h1>Get your free sticker</h1>
+<p>OFA is sending supporters a free bumper sticker to celebrate the power of grassroots organizing. Sign up today, and we'll send you one.</p>
+<p class="mobile-only">
+    <img src="https://secure.assets.bostatic.com/apps/madison/media/filer_public/2014/08/29/ofa-bumper-sticker.png" alt="ofa sticker">
+</p>
+
+
+<form id="httpsmybarackobamacompagesget-your-free-sticker" method="POST" action="https://my.barackobama.com/page/s/get-your-free-sticker" class="inline signup style-glass">
+	<ol>
+		<li class="full"><label for="hero_firstnamehttpsmybarackobamacompagesget-your-free-sticker">First Name</label><input type="firstname" name="firstname" value="" id="hero_firstnamehttpsmybarackobamacompagesget-your-free-sticker" required="" placeholder="First Name" ></li>
+		<li class="full"><label for="hero_lastnamehttpsmybarackobamacompagesget-your-free-sticker">Last Name</label><input type="lastname" name="lastname" value="" id="hero_lastnamehttpsmybarackobamacompagesget-your-free-sticker" required="" placeholder="Last Name" ></li>
+		<li class="full"><label for="hero_emailhttpsmybarackobamacompagesget-your-free-sticker">Email</label><input type="email" name="email" value="" id="hero_emailhttpsmybarackobamacompagesget-your-free-sticker" required="" placeholder="Email" ></li>
+		<li class="full"><label for="hero_addr1httpsmybarackobamacompagesget-your-free-sticker">Address</label><input type="addr1" name="addr1" value="" id="hero_addr1httpsmybarackobamacompagesget-your-free-sticker" required="" placeholder="Address" ></li>
+		<li class="half"><label for="hero_state_cdhttpsmybarackobamacompagesget-your-free-sticker">City</label><input type="city" name="city" value="" id="hero_state_cdhttpsmybarackobamacompagesget-your-free-sticker" required="" placeholder="City" ></li>
+		<li class="half2"><label for="hero_statehttpsmybarackobamacompagesget-your-free-sticker">State</label><div class="styled-select"><select name="state_cd" id="state_cd">
+                <option value="">State</option>
+                <option value="AL">Alabama</option>
+                <option value="AK">Alaska</option>
+                <option value="AZ">Arizona</option>
+                <option value="AR">Arkansas</option>
+                <option value="CA">California</option>
+                <option value="CO">Colorado</option>
+                <option value="CT">Connecticut</option>
+                <option value="DE">Delaware</option>
+                <option value="DC">District of Columbia</option>
+                <option value="FL">Florida</option>
+                <option value="GA">Georgia</option>
+                <option value="HI">Hawaii</option>
+                <option value="ID">Idaho</option>
+                <option value="IL">Illinois</option>
+                <option value="IN">Indiana</option>
+                <option value="IA">Iowa</option>
+                <option value="KS">Kansas</option>
+                <option value="KY">Kentucky</option>
+                <option value="LA">Louisiana</option>
+                <option value="ME">Maine</option>
+                <option value="MD">Maryland</option>
+                <option value="MA">Massachusetts</option>
+                <option value="MI">Michigan</option>
+                <option value="MN">Minnesota</option>
+                <option value="MS">Mississippi</option>
+                <option value="MO">Missouri</option>
+                <option value="MT">Montana</option>
+                <option value="NE">Nebraska</option>
+                <option value="NV">Nevada</option>
+                <option value="NH">New Hampshire</option>
+                <option value="NJ">New Jersey</option>
+                <option value="NM">New Mexico</option>
+                <option value="NY">New York</option>
+                <option value="NC">North Carolina</option>
+                <option value="ND">North Dakota</option>
+                <option value="OH">Ohio</option>
+                <option value="OK">Oklahoma</option>
+                <option value="OR">Oregon</option>
+                <option value="PA">Pennsylvania</option>
+                <option value="RI">Rhode Island</option>
+                <option value="SC">South Carolina</option>
+                <option value="SD">South Dakota</option>
+                <option value="TN">Tennessee</option>
+                <option value="TX">Texas</option>
+                <option value="UT">Utah</option>
+                <option value="VT">Vermont</option>
+                <option value="VA">Virginia</option>
+                <option value="WA">Washington</option>
+                <option value="WV">West Virginia</option>
+                <option value="WI">Wisconsin</option>
+                <option value="WY">Wyoming</option>
+            </select></div></li>
+		<li class="third"><label for="hero_ziphttpsmybarackobamacompagesget-your-free-sticker">ZIP</label><input type="text" name="zip" value="" id="hero_ziphttpsmybarackobamacompagesget-your-free-sticker" required="" placeholder="ZIP" ></li>
+		<li class="button"><button type="submit" class="red button">Get yours</button></li>
+	<input type="hidden" name="bp_load_counter" value="1"><input name="redirect_url" type="hidden" value="">
+    <input type="hidden" name="custom-131597[0]" value="">
+    </ol>
+</form>
+
+
+                    </div>
+                    <div class="">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <footer id="ft" class=" footer">
+        <div class="navs">
+            <div class="container">
+                
+                <div class="row">
+                    <nav class="span2 about">
+                        <p class="title">About</p>
+                        <ul>
+                            <li><a href="/about/" title="About Organizing for Action">Organizing for Action</a></li>
+                            <li><a href="/about/barack-obama/" title="About Barack Obama">Barack Obama</a></li>
+                            <li><a href="/faq/" title="Frequently Asked Questions">Frequently Asked Questions</a></li>
+                            <li><a href="/careers/" title="Careers">Careers</a></li>
+                            <li><a href="http://store.barackobama.com/?source=home_page_footer" title="Store">Store</a></li>
+                        </ul>
+                    </nav>
+                    <nav class="span2 connect">
+                        <p class="title">Connect</p>
+                        <ul>
+                            <li><a href="http://www.facebook.com/BarackObama" title="Facebook" target="_blank">Facebook</a></li>
+                            <li><a href="https://plus.google.com/+BarackObama/posts" title="Google+" target="_blank">Google+</a></li>
+                            <li><a href="http://www.twitter.com/barackobama" title="Twitter" target="_blank">Twitter</a></li>
+                            <li><a href="http://www.youtube.com/organizingforaction" title="YouTube" target="_blank">YouTube</a></li>
+                        </ul>
+                    </nav>
+                    <nav class="span2 related">
+                        <p class="title">Issues</p>
+                        <ul>
+                            <li><a href="/climate/" title="Climate">Climate</a></li>
+                            <li><a href="/gun-reform/" title="Gun violence prevention">Gun violence prevention</a></li>
+                            <li><a href="/obamacare/" title="Health care">Health care</a></li>
+                            <li><a href="/immigration/" title="Immigration">Immigration</a></li>
+                            <li><a href="/economy/" title="Jobs and the economy">Jobs and the economy</a></li>
+                            <li><a href="/women/" title="Stand with women">Stand with women</a></li>
+                        </ul>
+                    </nav>
+                    <nav class="span2">
+                        <p class="title">In loving memory <br>of Alex Okrent</p>
+                    </nav>
+                    <nav class="span2">
+                        <ul class="social-follows">
+                            <li>
+                                <a href="https://twitter.com/BarackObama" class="twitter-follow-button" data-show-count="false">Follow @BarackObama</a>
+                            </li>
+                            <li>
+                                <div class="fb-like" data-href="http://www.facebook.com/BarackObama" data-send="false" data-layout="button_count" data-width="50" data-show-faces="false"></div>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+                
+            </div>
+        </div>
+        <div class="disclaimers container">
+            
+            <div class="disclaimer-links">
+                <ul>
+                    <li><a href="/terms-of-service/" title="Terms of Service">Terms of Service</a></li>
+                    <li><a href="/privacy-policy/" title="Privacy Policy">Privacy</a></li>
+                    <li><a href="/contact-us/" title="Contact Us">Contact</a></li>
+
+                </ul>
+            </div>
+            <div class="disclaimer-license">
+                
+                
+                <small class="disclaimer">Paid for by Organizing for Action</small>
+                <small class="license">&copy; 2014 Organizing for Action. All&nbsp;Rights&nbsp;Reserved.</small>
+            </div>
+            
+        </div>
+    </footer>
+    <div id="fb-root"></div>
+    
+    
+    <script>window.loadOpenGraphAPI = false;</script>
+    
+
+    
+    <script src="https://secure.assets.bostatic.com/hydepark/js/core-2014-5-24-1730.min.js" data-js-base="https://secure.assets.bostatic.com" data-identity="https://login.barackobama.com" data-bsd="https://my.barackobama.com" data-www="http://www.barackobama.com"></script>
+    <script src="//secure.assets.bostatic.com/apps/madison/static/js/madison.min.js?v=20140820-1"></script>
+    
+
+    
+
+    
+    
+    
+
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T2MC"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T2MC');</script>
+    <!-- End Google Tag Manager -->
+    
+
+    
+
+    
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"transactionName":"YlAGNkpZW0pYUEVRClsaIhdWW0FQVl0eWwhGGxILXU9GA11WRVkMWUY=","errorBeacon":"bam.nr-data.net","applicationID":"3816732","licenseKey":"277d7e5183","agent":"js-agent.newrelic.com/nr-476.min.js","queueTime":7,"applicationTime":159,"beacon":"beacon-1.newrelic.com"}</script></body>
+</html>

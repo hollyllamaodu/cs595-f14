@@ -1,0 +1,1114 @@
+<!DOCTYPE html>
+<html>
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# indiegogo: http://ogp.me/ns/fb/indiegogo#" >
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"52ee8e3327","applicationID":"265213","transactionName":"J1gLEkINVVQDRUkTSgtdAAVEERZLDlgR","queueTime":5,"applicationTime":115,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-460.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQEDVFdACgUFVlBR"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,o){t&&t(e,n,o),o||(o={});for(var a=i(e),s=a.length,c=o[r]||(o[r]={}),f=0;s>f;f++)a[f].apply(c,n);return c}function o(t,e){s[t]=i(t).concat(e)}function i(t){return s[t]||[]}function a(){return n(e)}var s={};return{on:o,emit:e,create:a,listeners:i,_events:s}}var r="nr@context";e.exports=n()},{}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:15,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o);if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var a=document;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&n(a);for(var s=XMLHttpRequest.prototype;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=i(e,"fn-",null,e.name||"anonymous"):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:16,ee:"QJf3ax"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:16,2:15,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:16,2:15,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",r)}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:16,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(1),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(2);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:9,2:12,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],12:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],15:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],16:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper";e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,f,u;try{i=this,n=o(arguments),f=r&&r(n,i)||{}}catch(d){c([d,"",[n,i,a],f])}s(e+"start",[n,i,a],f);try{return u=t.apply(i,n)}catch(p){throw s(e+"err",[n,i,p],f),p}finally{s(e+"end",[n,i,u],f)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,nrWrapper)}function a(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function s(e,n,r){try{t.emit(e,n,r)}catch(o){c([o,e,n,r])}}function c(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=a,e.flag=i,e}},{1:15,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+  <meta charset="utf-8" />
+  <title>CODE: Debugging the Gender Gap | Indiegogo</title>
+
+
+<link href="https://g0.iggcdn.com/assets/favicon/favicon-32-0f9aeeb53db5c05c25bf147307b8a645.png" rel="icon" sizes="32x32" type="image/png" />
+<link href="https://g1.iggcdn.com/assets/favicon/favicon-48-12afd0627a5bad90511bf38e610b59ff.png" rel="icon" sizes="48x48" type="image/png" />
+<link href="https://g2.iggcdn.com/assets/favicon/favicon-64-576ba72ca961be940512874017de67c1.png" rel="icon" sizes="64x64" type="image/png" />
+
+<!--[if IE]>
+<link href="https://g1.iggcdn.com/assets/favicon/favicon-323b560de785a16fb23e357407739095.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="https://g2.iggcdn.com/assets/favicon/apple-touch-icon-144x144-precomposed-3530edc5ab6af2e26d1ba2719906f178.png">
+<![endif]-->
+
+
+<meta name="language" content="en" />
+<meta name="title" content="CODE: Debugging the Gender Gap | Indiegogo" />
+<meta name="description" content="Debugging the Gender Gap" />
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="g1HFAEyEtXIpxjzfYf3t30e5CXmw0fo2NZHMX7Dseiw=" name="csrf-token" />
+<meta property="fb:app_id" content="2392863781"/>
+<meta property="og:site_name" content="Indiegogo"/>
+<meta property="og:type" content="indiegogo:campaign"/>
+<meta property="og:title" content="CODE: Debugging the Gender Gap"/>
+<meta content="Debugging the Gender Gap" property="og:description" />
+<meta property="og:image" content="https://res.cloudinary.com/indiegogo-media-prod-cld/image/upload/c_fill,h_200,w_200/v1409846809/ty0mpggradhd0e7vekvt.jpg"/>
+<meta property="og:url" content="http://www.indiegogo.com/projects/893066/fblk"/>
+<meta property="indiegogo:by" content="https://www.indiegogo.com/individuals/8013490"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="fb:profile_id" content="1057955782"/>
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@indiegogo">
+<meta name="twitter:domain" content="https://www.indiegogo.com/">
+<meta name="twitter:title" content="CODE: Debugging the Gender Gap">
+<meta content="Debugging the Gender Gap" name="twitter:description" />
+<meta name="twitter:image:src" content="https://res.cloudinary.com/indiegogo-media-prod-cld/image/upload/c_fill,h_200,w_200/v1409846809/ty0mpggradhd0e7vekvt.jpg">
+<meta name="twitter:creator" content="@CODEfilm">
+
+<link rel="canonical" href="https://www.indiegogo.com/projects/code-debugging-the-gender-gap"/>
+
+    <meta name="keywords" content="Debugging the Gender Gap" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss/announcements/code-debugging-the-gender-gap?agent_type=Project" />
+
+  <script type="text/javascript">
+    var utag_data = {"site_name":"www.indiegogo.com","site_country":"us","page_type":"campaign","logged_in_state":"signed_out","site_currency":"USD","campaign_id":"893066","campaign_city":"San Francisco","campaign_country":"United States","campaign_goal_amount":"75000","campaign_raised_amount":"59133","campaign_percent_of_goal":"0.78844","campaign_days_left":8,"campaign_category":"Film","campaign_featured_perk":{"perk":{"agent_id":893066,"agent_type":"Project","amount":10,"amount_in_usd":null,"choices":null,"created_at":"2014-10-01T22:16:18-07:00","description":"One complimentary ticket to a live panel discussion with Director, Robin Hauser Reynolds and featured film participants: Maira Benjamin, Manager of Music Engineering, Pandora; Evelyn Cordner, Mobile Engineer, Strava; and Courtney Nash, Student, Mills College. The discussion will be followed by networking, drinks and light apps. The event will be held at General Assembly, 501 Folsom Street (1st and Folsom), San Francisco, Tuesday, October 7th, 6-9pm. (We'll have your name at the door!)","estimated_delivery_date":"2014-10-15T00:00:00-07:00","id":2366297,"label":"CODE: Live Panel Discussion","non_tax_deductible_amount":null,"number_available":null,"shipping_address_required":false,"status":"STPK_VSBL","top_perk":true,"updated_at":"2014-10-01T22:17:31-07:00"}},"campaign_start_date":"2014-09-04T07:01:40-07:00","campaign_end_date":"2014-10-11T23:59:59-07:00","campaign_name":"CODE: Debugging the Gender Gap","campaign_description":"Debugging the Gender Gap","campaign_funders":"373","campaign_type":"fixed_funding","campaign_image_url":"http://res.cloudinary.com/indiegogo-media-prod-cld/image/upload/c_fill,h_220,w_220/v1409846809/ty0mpggradhd0e7vekvt.jpg","campaign_partnership":"Impact Hub","page_name":"CODE: Debugging the Gender Gap | Indiegogo"};
+  </script>
+  <!-- Loading script asynchronously -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+    a='//tags.tiqcdn.com/utag/indiegogo/main/prod/utag.js';
+    b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+
+  <link href="https://g3.iggcdn.com/assets/select2/select2-7f31d764925a0a1483809ebc7160e956.css" media="screen" rel="stylesheet" type="text/css" />
+  <link href="https://g3.iggcdn.com/assets/site/common-7e91918ac4905e27827e6b94eee6ff03.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="https://g2.iggcdn.com/assets/site/redactor-b87e0f298492e8594a97d3a221c3cc31.css" media="screen" rel="stylesheet" type="text/css" />
+  <link href="https://g2.iggcdn.com/assets/site/campaign_page-3f4ad9e98b2c8294187a757ba168785b.css" media="screen" rel="stylesheet" type="text/css" />
+
+
+  <script type="text/javascript">
+//<![CDATA[
+window.gon = {};gon.tracking_info={"google_analytics_id":"UA-53507105-1","fb_pixel_id":null,"amount":0,"currency_iso_code":"USD"};gon.ga_impression_data={"id":"893066","name":"CODE: Debugging the Gender Gap","category":"Film","brand":"Business","list":"San Francisco, California, United States","variant":"Fixed"};gon.env="production";gon.api_token="e88bd0a00305bfdfb18003a75665643b";gon.pageview_data={"new_url":"/projects/film/code-debugging-the-gender-gap/cstw/8724024"};
+//]]>
+</script>
+  <script type="text/javascript">
+  try {
+    var acct = 'UA-2250010-1';
+
+    var ft_acct = 'UA-2250010-11';
+
+    var _gaq = _gaq || [];
+
+    var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+    _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+    _gaq.push(['_setAccount', acct]);
+
+
+    _gaq.push(['_trackPageview']);
+
+    setTimeout("_gaq.push(['_trackEvent', '15_seconds', 'read'])",15000);
+
+    _gaq.push(['funnel._setAccount', ft_acct]);
+    _gaq.push(['funnel._trackPageview', '/funnel_actions/campaign_page']);
+  } catch(err) {}
+</script>
+
+  <script type='text/javascript'>
+    try {
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    } catch(err) {}
+  </script>
+
+  <!-- Google Analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  </script>
+
+    <script>ga('create', 'UA-53458201-2', 'auto');</script>
+
+<script>ga('require', 'ec', 'ec.js');</script>
+
+<!-- Google Analytics End -->
+
+
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <script src="https://g3.iggcdn.com/assets/igg/ie8/common-6dc0bb18cdfa5e727e367037aab3c8b7.js" type="text/javascript"></script>
+  <script src="https://code.jquery.com/jquery-1.11.0.js"></script>
+  <link href="https://g1.iggcdn.com/assets/site/ie8-8625262de67422a53efab0d1c03c9124.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+  <!--[if IE 9]>
+  <script src="https://g2.iggcdn.com/assets/css3-multi-column.1.02-d7a5d3595848312057aff90790e34245.js" type="text/javascript"></script>
+  <![endif]-->
+
+</head>
+<body class="nonresponsive">
+  <div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '2392863781',
+      channelUrl: 'http://www.indiegogo.com//channel.html', // Channel File for x-domain communication
+      status: true, // check the login status upon init?
+      cookie: true, // set sessions cookies to allow your server to access the session?
+      xfbml: true
+    });
+  };
+
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    var fbLocale = {'en': 'en_US', 'fr': 'fr_FR', 'de': 'de_DE', 'es': 'es_ES'}['en'];
+    js.src = "//connect.facebook.net/" + fbLocale + "/all.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+    
+
+    
+<div class="i-page-header">
+  <div class="hidden">
+      <a class="i-search-button js-search-button"><span class="i-icon i-glyph-icon-30-search"></span></a>
+
+    <div class="i-header-bar js-header-bar" header-dropdown-link>
+      <span class="i-site-logo">INDIEGOGO</span>
+      <span class="i-icon i-glyph-icon-30-downcarrot"></span>
+    </div>
+    <div class="dropdown-menu i-linklist-dropdown i-capitalize">
+      <a href="/">Home</a>
+      <a href="/explore">Explore</a>
+      <a href="/learn-how-to-raise-money-for-a-campaign">How It Works</a>
+      <a href="/campaigns/new">Start your campaign</a>
+        <a href="https://www.indiegogo.com/accounts/sign_up?return_to=https%3A%2F%2Fwww.indiegogo.com%2Fprojects%2Fcode-debugging-the-gender-gap">Log in or Sign up</a>
+    </div>
+  </div>
+  <div class="">
+    <div class="container">
+        <div class="i-header-links-area pull-right">
+          <div class="i-header-links i-header-account-links">
+                <a href="#" class="js-signup">Sign up</a><a href="#" class="js-login">Log in</a>
+          </div>
+          <div class="i-header-links i-header-menu-links">
+            <a href="/explore">Explore</a><a href="/learn-how-to-raise-money-for-a-campaign">How It Works</a><a href="/campaigns/new">Start your campaign</a><a href="#" class="js-search-button i-search-button visible-inline-sm" ng-class="{&#x27;i-active&#x27;: inSearchMode}" ng-click="toggleSearchMode()">
+              <span class="i-icon i-glyph-icon-30-search "></span>
+</a>            <div class="i-inline-search visible-inline-md">
+                <form accept-charset="UTF-8" action="/explore" class="js-search-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                  <input class="js-search-input i-text-field" id="filter_title" maxlength="300" name="filter_title" type="text" />
+                  <div class="i-icon i-glyph-icon-30-search"></div>
+                  <a class="i-icon i-glyph-icon-30-close i-search-close js-search-close hidden"></a>
+</form>            </div>
+          </div>
+        </div>
+
+      <a href="/" class="i-site-logo">
+          <img alt="Igg_windowlogo_launch-label-afw12_2012" src="https://images.indiegogo.com/logos/26/image/original/igg_windowlogo_Launch-Label-AFW12_2012.png?1396384911" />
+</a>    </div>
+  </div>
+
+  <div class="container i-mobile-fullwidth">
+    <div class="i-search-dropdown js-search-dropdown ">
+      <div class="i-search-box">
+        <div class="i-search-cell">
+          <form accept-charset="UTF-8" action="/explore" class="js-search-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+            <div class="i-search-close js-search-close">
+              <span class="i-icon i-glyph-icon-30-close"></span>
+            </div>
+            <input class="js-search-input" id="filter_title" maxlength="300" name="filter_title" type="text" />
+</form>        </div>
+        <div class="i-go-cell">
+          <div class="i-search-go js-search-go">
+            <a href="#">go</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="session_modal" class="modal i-modal">
+  <div class="modal-dialog">
+    <div class="modal-content auth-modal">
+      <a class="close i-icon i-glyph-icon-30-close" data-dismiss="modal" aria-hidden="true"></a>
+
+       <div class="fb-auth">
+         <a href="https://www.indiegogo.com/accounts/auth/facebook" class="i-cta-1 i-cta-1-facebook">Continue with Facebook</a>
+         <p class="center-text">No automatic posts, ever.</p>
+       </div>
+
+
+      <div class="auth-fields">
+        <div id="loginSession">
+          <p class="sign-up-with-email divider"><span class="divider-line">Or log in with email</span></p>
+          <form accept-charset="UTF-8" action="https://www.indiegogo.com/accounts/sign_in" class="validated_form" id="login_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="g1HFAEyEtXIpxjzfYf3t30e5CXmw0fo2NZHMX7Dseiw=" /></div>
+    <label class="hide i-error signup"></label>
+    <input class="i-text-field email required nc-email" id="account_email" name="account[email]" placeholder="Email" size="30" type="text" />
+    <input autocomplete="off" class="i-text-field password-input required password nc-password" data-typetoggle="#form_login_show_password" id="account_password" name="account[password]" placeholder="Password" size="30" type="password" />
+    <div class="i-field-row">
+      <div class="col-sm-6 i-checkbox-with-label">
+        <input name="account[rememberme]" type="hidden" value="0" /><input checked="checked" id="account_rememberme" name="account[rememberme]" type="checkbox" value="1" />
+        <label for="account_rememberme">Remember Me</label>
+      </div>
+      <div class="col-sm-6 i-forgot">
+        <a href="https://www.indiegogo.com/accounts/password/new" class="i-aqua-link">Forgot Password?</a>
+      </div>
+    </div>
+    <input class="i-cta-1 js-submit-session login" name="commit" type="submit" value="Log in" />
+</form>
+          <div class="topborder">
+            New to Indiegogo?  <a href="#" class="toggler">Sign up</a>
+          </div>
+        </div>
+
+        <div id="signUpSession">
+          <p class="sign-up-with-email divider"><span class="divider-line">Or sign up with email</span></p>
+          <form accept-charset="UTF-8" action="https://www.indiegogo.com/accounts" class="validated_form" id="signup_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="g1HFAEyEtXIpxjzfYf3t30e5CXmw0fo2NZHMX7Dseiw=" /></div>
+  <input id="timestamp" name="timestamp" type="hidden" value="1412388623" /><input id="spinner" name="spinner" type="hidden" value="1113987378fc889be06e8440473293e9" />
+  <input class="i-text-field" id="account_firstname" name="account[firstname]" placeholder="First Name" size="30" type="text" />
+  <input class="i-text-field" id="account_lastname" name="account[lastname]" placeholder="Last Name" size="30" type="text" />
+  <input class="i-text-field nc-email" id="0ca608d804c358cb69785047f722b38a" name="0ca608d804c358cb69785047f722b38a" placeholder="Email" type="text" /><div style="position: absolute; left: -2000px;"><input autocomplete="off" id="email" name="email" tabindex="999" type="text" value="" /></div>
+  <input autocomplete="off" class="i-text-field nc-password" id="44866776f9775402cdea5f68a6fabe20" minlength="6" name="44866776f9775402cdea5f68a6fabe20" placeholder="Password" type="password" /><div style="position: absolute; left: -2000px;"><input autocomplete="off" id="password" name="password" tabindex="999" type="password" value="" /></div>
+
+  <div class="i-field-row i-checkbox-with-label">
+    <input name="account[general_opt_in]" type="hidden" value="0" /><input checked="checked" id="account_general_opt_in" name="account[general_opt_in]" type="checkbox" value="1" />
+    <label for="account_general_opt_in">Sign me up for the weekly newsletter</label>
+  </div>
+
+  <input class="i-cta-1 js-submit-session" name="commit" type="submit" value="Create an Account" />
+</form>
+          <div class="topborder">
+            Already have an account? <a href="#" class="toggler">Log in</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+
+
+
+
+<div class="container js-flash-container" header-flash>
+</div>
+
+
+    
+
+
+
+
+
+
+
+  <div class="container i-campaign-page">
+
+    <div class="i-gh-7-campaign-page-title">
+      <h1 class="antenna-cond-black-50">CODE: Debugging the Gender Gap</h1>
+    </div>
+    <div class="i-float-tab-links">
+        <span class="i-tab" data-tab-id="home">
+          <span>
+            <a href="#home" class="js-tab-link" data-url="/projects/code-debugging-the-gender-gap/show_tab/home">Story</a>
+          </span>
+        </span>
+        <span class="i-tab" data-tab-id="activity">
+          <span>
+            <a href="#activity" class="js-tab-link" data-url="/projects/code-debugging-the-gender-gap/show_tab/activity">Updates</a>
+              <span class="i-count">9</span>
+          </span>
+        </span>
+        <span class="i-tab" data-tab-id="comments">
+          <span>
+            <a href="#comments" class="js-tab-link" data-url="/projects/code-debugging-the-gender-gap/show_tab/comments">Comments</a>
+              <span class="i-count">26</span>
+          </span>
+        </span>
+        <span class="i-tab" data-tab-id="pledges">
+          <span>
+            <a href="#pledges" class="js-tab-link" data-url="/projects/code-debugging-the-gender-gap/show_tab/pledges">Funders</a>
+              <span class="i-count">373</span>
+          </span>
+        </span>
+        <span class="i-tab" data-tab-id="gallery">
+          <span>
+            <a href="#gallery" class="js-tab-link" data-url="/projects/code-debugging-the-gender-gap/show_tab/gallery">Gallery</a>
+              <span class="i-count">22</span>
+          </span>
+        </span>
+
+    </div>
+
+    <div class="row i-campaign-body">
+      <div class="col-xs-8 i-main-column">
+        <div class="js-tab-flash"></div>
+        <div class="js-tab-content">
+        </div>
+      </div>
+      <div class="col-xs-4 i-sidebar">
+        <div class="i-bordered-box">
+          <div class="i-project-nutshell">
+            <div class="i-balance"><span class="currency currency-xlarge"><span>$59,133</span><em>USD</em></span></div>
+            <div class="i-raised">raised of <span class="currency"><span>$75,000</span></span> goal</div>
+            <div class="i-progress-bar">
+              <div class="i-complete" style="width: 75%"></div>
+            </div>
+            <div class="i-bottom-row">
+              <div class="i-percent">
+                79%
+              </div>
+                <div class="i-time-left">
+                  <span class="i-icon i-glyph-icon-22-timeleft"></span>
+                  <span>8 days left</span>
+                </div>
+            </div>
+          </div>
+
+            <div class="i-funding-duration">This campaign started on Sep 04 and will close on October 11, 2014 (11:59pm PT).</div>
+
+            <div class="i-icon-project-note">
+              <span class="i-icon i-glyph-icon-22-fixedfunding"></span>
+              <span class="i-status">Fixed Funding</span>
+              <span class="i-icon i-icon-info-bubble js-goal-info-popover">
+                <span class="js-subinfo hidden">This campaign will only receive funds if at least <span class="currency currency-small"><span>$75,000</span><em>USD</em></span> is raised by its deadline.</span>
+              </span>
+            </div>
+          <!-- Facebook contributor friends -->
+            <div class="i-project-cards">
+              <div class="project-card-friend-list">
+                
+              </div>
+            </div>
+
+              <a href="/projects/code-debugging-the-gender-gap/contributions/new" class="i-cta-1 i-contribute-button js-main-contribute-button">Contribute Now</a>
+        </div>
+
+          <div class="i-sidebar-header">In partnership with</div>
+
+          <div class="i-musty-background i-padded-block-20">
+            <div class="i-image-media i-partner-image-media">
+              <img alt="20131128192408-impact_hub_logo_90" src="https://images.indiegogo.com/partners/428/logo_square/success/20131128192408-Impact_Hub_Logo_90.png?1385695453" />
+              <a href="/partners/ImpactHub">Impact Hub</a>
+            </div>
+          </div>
+
+
+          <div class="i-sidebar-header">Select a Perk</div>
+          <ul class="i-perks js-perks">
+                <a href= '/projects/code-debugging-the-gender-gap/contributions/new?perk_amt=10&perk_id=2366297' class="perk-box-link" data-perk-name="CODE: Live Panel Discussion">
+<li class="perk rounded shadow i-perk">
+    <div class="amount bold i-perk-amount"><span class="currency currency-large"><span>$10</span><em>USD</em></span></div>
+        <div class="highlight bold fr top_perk i-top-perk">Featured</div>
+    <div class="perk-title i-perk-title">
+      CODE: Live Panel Discussion
+    </div>
+
+  <p class="description i-perk-description">One complimentary ticket to a live panel discussion with Director, Robin Hauser Reynolds and featured film participants: Maira Benjamin, Manager of Music Engineering, Pandora; Evelyn Cordner, Mobile Engineer, Strava; and Courtney Nash, Student, Mills College. The discussion will be followed by networking, drinks and light apps. The event will be held at General Assembly, 501 Folsom Street (1st and Folsom), San Francisco, Tuesday, October 7th, 6-9pm. (We'll have your name at the door!)</p>
+
+
+  <div class="claim clearfix">
+      <div class="fl perkdelivery big-perk-button i-claim-item i-delivery-date">Estimated delivery: <span class='i-value'>October 2014</span>
+      </div>
+    <p class="fl claimed big-perk-button i-claim-item"><span class="i-value">3</span>  claimed
+    </p>
+  </div>
+
+
+</li>
+</a>
+  <a href= '/projects/code-debugging-the-gender-gap/contributions/new?perk_amt=5&perk_id=2221962' class="perk-box-link" data-perk-name="Go Go Go">
+<li class="perk rounded shadow i-perk">
+    <div class="amount bold i-perk-amount"><span class="currency currency-large"><span>$5</span><em>USD</em></span></div>
+    <div class="perk-title i-perk-title">
+      Go Go Go
+    </div>
+
+  <p class="description i-perk-description">I love this effort and I want to help. I'm just happy to contribute -- I don't need a perk! 
+
+Feel free to donate the amount of your choice -- thank you!</p>
+
+
+  <div class="claim clearfix">
+    <p class="fl claimed big-perk-button i-claim-item"><span class="i-value">25</span>  claimed
+    </p>
+  </div>
+
+
+</li>
+</a>
+  <a href= '/projects/code-debugging-the-gender-gap/contributions/new?perk_amt=10&perk_id=2258326' class="perk-box-link" data-perk-name="Tynker: Learn-to-code for Kids">
+<li class="perk rounded shadow i-perk">
+    <div class="amount bold i-perk-amount"><span class="currency currency-large"><span>$10</span><em>USD</em></span></div>
+    <div class="perk-title i-perk-title">
+      Tynker: Learn-to-code for Kids
+    </div>
+
+  <p class="description i-perk-description">CODE supporters:  Give your kids the tools to learn programming and create their own games  at their own pace, with Tynker online courses.  Tynker is fun and its guided approach inspires kids to become Makers – they’ll express their creativity and bring their ideas to life as they learn valuable coding and computational thinking skills.  Supporters receive our customer discount -- 20% discount off each course.</p>
+
+
+  <div class="claim clearfix">
+      <div class="fl perkdelivery big-perk-button i-claim-item i-delivery-date">Estimated delivery: <span class='i-value'>October 2014</span>
+      </div>
+    <p class="fl claimed big-perk-button i-claim-item"><span class="i-value">7</span>  claimed
+    </p>
+  </div>
+
+
+</li>
+</a>
+  <a href= '/projects/code-debugging-the-gender-gap/contributions/new?perk_amt=10&perk_id=2221979' class="perk-box-link" data-perk-name="CODE Supporter - Digital Badge">
+<li class="perk rounded shadow i-perk">
+    <div class="amount bold i-perk-amount"><span class="currency currency-large"><span>$10</span><em>USD</em></span></div>
+    <div class="perk-title i-perk-title">
+      CODE Supporter - Digital Badge
+    </div>
+
+  <p class="description i-perk-description">Thank you for helping debug the Computer Science gender gap. Please proudly display this digital CODE Supporter badge on all of your social media.</p>
+
+
+  <div class="claim clearfix">
+      <div class="fl perkdelivery big-perk-button i-claim-item i-delivery-date">Estimated delivery: <span class='i-value'>October 2014</span>
+      </div>
+    <p class="fl claimed big-perk-button i-claim-item"><span class="i-value">13</span>  claimed
+    </p>
+  </div>
+
+
+</li>
+</a>
+  <a href= '/projects/code-debugging-the-gender-gap/contributions/new?perk_amt=25&perk_id=2222015' class="perk-box-link" data-perk-name="Digital download of CODE doc">
+<li class="perk rounded shadow i-perk">
+    <div class="amount bold i-perk-amount"><span class="currency currency-large"><span>$25</span><em>USD</em></span></div>
+    <div class="perk-title i-perk-title">
+      Digital download of CODE doc
+    </div>
+
+  <p class="description i-perk-description">You will receive your very own digital download and the digital CODE Supporter badge.</p>
+
+
+  <div class="claim clearfix">
+      <div class="fl perkdelivery big-perk-button i-claim-item i-delivery-date">Estimated delivery: <span class='i-value'>May 2015</span>
+      </div>
+    <p class="fl claimed big-perk-button i-claim-item"><span class="i-value">116</span>  claimed
+    </p>
+  </div>
+
+
+</li>
+</a>
+  <a href= '/projects/code-debugging-the-gender-gap/contributions/new?perk_amt=27&perk_id=2355192' class="perk-box-link" data-perk-name="3 mos Treehouse PRO acct 4 EDU">
+<li class="perk rounded shadow i-perk">
+    <div class="amount bold i-perk-amount"><span class="currency currency-large"><span>$27</span><em>USD</em></span></div>
+    <div class="perk-title i-perk-title">
+      3 mos Treehouse PRO acct 4 EDU
+    </div>
+
+  <p class="description i-perk-description">3 mos Treehouse pro account for EDU @ $27 (SAVE $120!). 
+Treehouse offers quality interactive online training in web design, programming, and app design for job-ready skills.  Treehouse pro account provides access to over 1,000+ interactive video tutorials in high-demand languages like HTML, CSS, JavaScript, Ruby, PHP, iOS and Android, with digital badging that validates learning and demonstrates proficiency, as students build on-line portfolios. Treehouse makes technology education possible.</p>
+
+
+  <div class="claim clearfix">
+      <div class="fl perkdelivery big-perk-button i-claim-item i-delivery-date">Estimated delivery: <span class='i-value'>October 2014</span>
+      </div>
+    <p class="fl claimed big-perk-button i-claim-item"><span class="i-value">11</span>  claimed
+    </p>
+  </div>
+
+
+</li>
+</a>
+<li class="perk rounded shadow i-perk">
+    <p class="fl soldout i-soldout-mask"><span class="i-text">SOLD OUT</span></p>
+    <div class="amount bold i-perk-amount"><span class="currency currency-large"><span>$45</span><em>USD</em></span></div>
+    <div class="perk-title i-perk-title">
+      Ada Lovelace doll
+    </div>
+
+  <p class="description i-perk-description">For your budding engineer (or for yourself!), get a doll of young Ada Lovelace, the "enchantress of numbers" and the woman considered to be the world's first computer programmer. In addition to the doll, backers get free access to content on the Miss Possible mobile app. With the story of Ada's life and activities designed to teach kids about computer programming, these toys are sure to keep your child entertained for ages!</p>
+
+
+  <div class="claim clearfix">
+      <div class="fl perkdelivery big-perk-button i-claim-item i-delivery-date">Estimated delivery: <span class='i-value'>August 2015</span>
+      </div>
+    <p class="fl claimed big-perk-button i-claim-item"><span class="i-value">30</span>  out of <span class='i-value'>30</span> claimed
+    </p>
+  </div>
+
+
+</li>
+
+  <a href= '/projects/code-debugging-the-gender-gap/contributions/new?perk_amt=60&perk_id=2222020' class="perk-box-link" data-perk-name="Kodable: Teach kids to Code!">
+<li class="perk rounded shadow i-perk">
+    <div class="amount bold i-perk-amount"><span class="currency currency-large"><span>$60</span><em>USD</em></span></div>
+    <div class="perk-title i-perk-title">
+      Kodable: Teach kids to Code!
+    </div>
+
+  <p class="description i-perk-description">Teach your class to code! Supporters get 1 year of Kodable Class, which includes 50 student profiles, up to 3 classes, student progress tracking, and access to the world's first app designed to teach programming in the classroom - Kodable Class. You will also receive the digital CODE Supporter badge  
+
+Buy one and/or or give one to a favorite school or teacher!</p>
+
+
+  <div class="claim clearfix">
+      <div class="fl perkdelivery big-perk-button i-claim-item i-delivery-date">Estimated delivery: <span class='i-value'>October 2014</span>
+      </div>
+    <p class="fl claimed big-perk-button i-claim-item"><span class="i-value">5</span>  out of <span class='i-value'>50</span> claimed
+    </p>
+  </div>
+
+
+</li>
+</a>
+  <a href= '/projects/code-debugging-the-gender-gap/contributions/new?perk_amt=100&perk_id=2318657' class="perk-box-link" data-perk-name="Code School Online Access">
+<li class="perk rounded shadow i-perk">
+    <div class="amount bold i-perk-amount"><span class="currency currency-large"><span>$100</span><em>USD</em></span></div>
+    <div class="perk-title i-perk-title">
+      Code School Online Access
+    </div>
+
+  <p class="description i-perk-description">Update! You will NOW receive not just 3, but 6 -- (SIX) months of complete access to Code School’s courses, code challenges, and screencasts to quench your programming thirst and help you learn by doing. Code School is an online learning destination for existing and aspiring developers that teaches through entertaining content.  
+** You will also receive a  Code School t-shirt from American Apparel -- sweet!
+Claim this perk while it lasts ...</p>
+
+
+  <div class="claim clearfix">
+      <div class="fl perkdelivery big-perk-button i-claim-item i-delivery-date">Estimated delivery: <span class='i-value'>October 2014</span>
+      </div>
+    <p class="fl claimed big-perk-button i-claim-item"><span class="i-value">22</span>  out of <span class='i-value'>50</span> claimed
+    </p>
+  </div>
+
+
+</li>
+</a>
+  <a href= '/projects/code-debugging-the-gender-gap/contributions/new?perk_amt=100&perk_id=2268454' class="perk-box-link" data-perk-name="General Assembly Online access">
+<li class="perk rounded shadow i-perk">
+    <div class="amount bold i-perk-amount"><span class="currency currency-large"><span>$100</span><em>USD</em></span></div>
+    <div class="perk-title i-perk-title">
+      General Assembly Online access
+    </div>
+
+  <p class="description i-perk-description">You will receive 3 months access  to General Assembly's online learning platform,  valued at $150!</p>
+
+
+  <div class="claim clearfix">
+      <div class="fl perkdelivery big-perk-button i-claim-item i-delivery-date">Estimated delivery: <span class='i-value'>October 2014</span>
+      </div>
+    <p class="fl claimed big-perk-button i-claim-item"><span class="i-value">6</span>  claimed
+    </p>
+  </div>
+
+
+</li>
+</a>
+<li class="perk rounded shadow i-perk">
+    <p class="fl soldout i-soldout-mask"><span class="i-text">SOLD OUT</span></p>
+    <div class="amount bold i-perk-amount"><span class="currency currency-large"><span>$100</span><em>USD</em></span></div>
+    <div class="perk-title i-perk-title">
+      Indiegogo &quot;Thanks To&quot; credit
+    </div>
+
+  <p class="description i-perk-description">You will be listed on the CODE documentary film credits as an Indiegogo funder. You will also receive the digital CODE Supporter badge.</p>
+
+
+  <div class="claim clearfix">
+      <div class="fl perkdelivery big-perk-button i-claim-item i-delivery-date">Estimated delivery: <span class='i-value'>April 2015</span>
+      </div>
+    <p class="fl claimed big-perk-button i-claim-item"><span class="i-value">50</span>  out of <span class='i-value'>50</span> claimed
+    </p>
+  </div>
+
+
+</li>
+
+<li class="perk rounded shadow i-perk">
+    <p class="fl soldout i-soldout-mask"><span class="i-text">SOLD OUT</span></p>
+    <div class="amount bold i-perk-amount"><span class="currency currency-large"><span>$150</span><em>USD</em></span></div>
+    <div class="perk-title i-perk-title">
+      Giants vs Padres Tickets!
+    </div>
+
+  <p class="description i-perk-description">2 tickets to a Giants game -- Seats located behind home plate!!
+
+Giants vs Padres on Thursday, September 25th at 7:15pm!</p>
+
+
+  <div class="claim clearfix">
+      <div class="fl perkdelivery big-perk-button i-claim-item i-delivery-date">Estimated delivery: <span class='i-value'>September 2015</span>
+      </div>
+    <p class="fl claimed big-perk-button i-claim-item"><span class="i-value">1</span>  out of <span class='i-value'>1</span> claimed
+    </p>
+  </div>
+
+
+</li>
+
+  <a href= '/projects/code-debugging-the-gender-gap/contributions/new?perk_amt=200&perk_id=2367308' class="perk-box-link" data-perk-name="Indiegogo &quot;Thanks To&quot; Credit">
+<li class="perk rounded shadow i-perk">
+    <div class="amount bold i-perk-amount"><span class="currency currency-large"><span>$200</span><em>USD</em></span></div>
+    <div class="perk-title i-perk-title">
+      Indiegogo &quot;Thanks To&quot; Credit
+    </div>
+
+  <p class="description i-perk-description">You will be listed on the CODE documentary film credits as an Indiegogo Funder. You will also receive the digital CODE Supporter badge.</p>
+
+
+  <div class="claim clearfix">
+    <p class="fl claimed big-perk-button i-claim-item"><span class="i-value">1</span>  out of <span class='i-value'>50</span> claimed
+    </p>
+  </div>
+
+
+</li>
+</a>
+  <a href= '/projects/code-debugging-the-gender-gap/contributions/new?perk_amt=500&perk_id=2222034' class="perk-box-link" data-perk-name="Bay Area Premiere Screening">
+<li class="perk rounded shadow i-perk">
+    <div class="amount bold i-perk-amount"><span class="currency currency-large"><span>$500</span><em>USD</em></span></div>
+    <div class="perk-title i-perk-title">
+      Bay Area Premiere Screening
+    </div>
+
+  <p class="description i-perk-description">You and a friend are invited to attend a San Francisco Bay Area premiere screening and meet the filmmakers. You will also receive a social media shout out and the digital CODE Supporter badge.</p>
+
+
+  <div class="claim clearfix">
+      <div class="fl perkdelivery big-perk-button i-claim-item i-delivery-date">Estimated delivery: <span class='i-value'>May 2015</span>
+      </div>
+    <p class="fl claimed big-perk-button i-claim-item"><span class="i-value">15</span>  out of <span class='i-value'>25</span> claimed
+    </p>
+  </div>
+
+
+</li>
+</a>
+  <a href= '/projects/code-debugging-the-gender-gap/contributions/new?perk_amt=750&perk_id=2222059' class="perk-box-link" data-perk-name="Behind the scenes!">
+<li class="perk rounded shadow i-perk">
+    <div class="amount bold i-perk-amount"><span class="currency currency-large"><span>$750</span><em>USD</em></span></div>
+    <div class="perk-title i-perk-title">
+      Behind the scenes!
+    </div>
+
+  <p class="description i-perk-description">Have lunch with the filmmakers and ask all the questions you want! You will receive a social media shout out and the digital CODE Supporter badge.</p>
+
+
+  <div class="claim clearfix">
+      <div class="fl perkdelivery big-perk-button i-claim-item i-delivery-date">Estimated delivery: <span class='i-value'>May 2015</span>
+      </div>
+    <p class="fl claimed big-perk-button i-claim-item"><span class="i-value">1</span>  out of <span class='i-value'>10</span> claimed
+    </p>
+  </div>
+
+
+</li>
+</a>
+  <a href= '/projects/code-debugging-the-gender-gap/contributions/new?perk_amt=1000&perk_id=2296188' class="perk-box-link" data-perk-name="Bay Area Premiere and Party">
+<li class="perk rounded shadow i-perk">
+    <div class="amount bold i-perk-amount"><span class="currency currency-large"><span>$1,000</span><em>USD</em></span></div>
+    <div class="perk-title i-perk-title">
+      Bay Area Premiere and Party
+    </div>
+
+  <p class="description i-perk-description">You and a friend are invited to attend a San Francisco Bay Area premiere party and screening and meet the filmmakers. You will also receive a social media shout out and the digital CODE Supporter badge.</p>
+
+
+  <div class="claim clearfix">
+      <div class="fl perkdelivery big-perk-button i-claim-item i-delivery-date">Estimated delivery: <span class='i-value'>May 2015</span>
+      </div>
+    <p class="fl claimed big-perk-button i-claim-item"><span class="i-value">3</span>  out of <span class='i-value'>10</span> claimed
+    </p>
+  </div>
+
+
+</li>
+</a>
+  <a href= '/projects/code-debugging-the-gender-gap/contributions/new?perk_amt=5000&perk_id=2222066' class="perk-box-link" data-perk-name="Indiegogo Associate Producer">
+<li class="perk rounded shadow i-perk">
+    <div class="amount bold i-perk-amount"><span class="currency currency-large"><span>$5,000</span><em>USD</em></span></div>
+    <div class="perk-title i-perk-title">
+      Indiegogo Associate Producer
+    </div>
+
+  <p class="description i-perk-description">You will receive on-screen Indiegogo Associate Producer credit and recognition on the CODE documentary website. You will also receive a social media shout out and the digital CODE Supporter badge.</p>
+
+
+  <div class="claim clearfix">
+      <div class="fl perkdelivery big-perk-button i-claim-item i-delivery-date">Estimated delivery: <span class='i-value'>May 2015</span>
+      </div>
+    <p class="fl claimed big-perk-button i-claim-item"><span class="i-value">2</span>  out of <span class='i-value'>5</span> claimed
+    </p>
+  </div>
+
+
+</li>
+</a>
+
+          </ul>
+
+        <div class="i-prohibited">
+          Do you think this campaign <a href="/about/terms" target="_blank">contains prohibited content</a>?
+
+          <a href="/contact/questions?category=FBCT_GNRL&amp;comments=Prohibited+Content%3A+https%3A%2F%2Fwww.indiegogo.com%2Fprojects%2F893066" target="_blank" title="Violates Indiegogo &#x27;Terms of Use&#x27;">Let us know.</a>
+        </div>
+      </div>
+    </div>
+      <div class="i-make-it-happen">
+        <div class="row">
+          <div class="col-xs-8 i-main-column">
+            <div class="i-header">Help make it happen</div>
+            <div class="i-subhead">for CODE: Debugging the Gender Gap and the team!</div>
+          </div>
+          <div class="col-xs-4">
+            <a href="/projects/code-debugging-the-gender-gap/contributions/new" class="i-cta-1 i-contribute-button js-bottom-contribute-button">Contribute Now</a>
+          </div>
+        </div>
+      </div>
+  </div>
+
+  <div id="embed_lightbox" class="modal i-modal i-embed-lightbox">
+  <div class="modal-dialog i-modal-wider">
+    <div class="modal-content">
+      <a class="close i-icon i-glyph-icon-30-close" data-dismiss="modal" aria-hidden="true"></a>
+
+      <div class="row">
+        <div class="col-sm-8">
+          <h3>Embed this card in your website or blog</h3>
+
+          <p>Copy the code below and paste it into your website or blog.</p>
+          <textarea class="i-code-text" readonly="true" onclick="javascript:this.select();" rows="8">&lt;iframe src=&quot;https://www.indiegogo.com/project/code-debugging-the-gender-gap/embedded&quot; width=&quot;222px&quot; height=&quot;445px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;</textarea>
+        </div>
+        <div class="col-sm-4">
+          
+
+
+
+
+
+
+<div class="i-project-card i-embedded">
+
+  <a href="/projects/code-debugging-the-gender-gap/wdgt/8013490" class="i-project" target="_blank">
+    <div class="i-img" data-src="https://res.cloudinary.com/indiegogo-media-prod-cld/image/upload/c_fill,h_220,w_220/v1409846809/ty0mpggradhd0e7vekvt.jpg">
+    </div>
+    <div class="i-content">
+      <div class="i-title">CODE: Debugging the Gender Gap</div>
+      <div class="i-tagline i-has-partner">Debugging the Gender Gap</div>
+        <div class="i-partner-name">with Impact Hub</div>
+    </div>
+    <div class="i-stats">
+      <span class="currency currency-medium"><span>$59,133</span><em>USD</em></span>
+      <div class="i-progress-bar">
+        <div class="i-complete" style="width: 75%"></div>
+      </div>
+      <div class="i-bottom-row">
+        <div class="i-percent">
+          79%
+        </div>
+          <div class="i-time-left">
+            8 days left
+          </div>
+      </div>
+    </div>
+</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script type='text/javascript'>
+    _gaq.push(['_trackEvent', 'New User Education - Control','View','']);
+  </script>
+
+
+<div class="modal fade i-publishModal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="i-publishModal-header">
+        <a class="i-publishModal-close">
+          <span class="i-icon i-glyph-icon-30-close"></span>
+        </a>
+        <img alt="Airplane" class="i-publishModal-gif" src="https://g1.iggcdn.com/assets/airplane-366d6365b28363f8875f0fc35b221809.gif" />
+        <h2>Your campaign is live!</h2>
+      </div>
+      <div class="i-publishModal-body">
+        <p class="i-publishModal-body-headline">Now spread the word</h3>
+        <p class="i-publishModal-body-cta">Reach out to your social networks and start raising funds now!</p>
+        <div class="i-publishModal-socialIcons">
+          <a href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Figg.me%2Fp%2Fcode-debugging-the-gender-gap%2Fcstw%2F8013490" target="_blank"><img alt="Fb_icon" src="https://g1.iggcdn.com/assets/email/fb_icon-8b6858a7952038a63d3f8ca3ee641f99.png" /></a>
+          <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Figg.me%2Fp%2Fcode-debugging-the-gender-gap%2Fcstw%2F8013490&amp;text=Help+make+it+happen+for+CODE%3A+Debugging+the+Gender+Gap&amp;via=indiegogo&amp;related=indiegogo&amp;hashtags=indiegogo" target="_blank"><img alt="Twitter_icon" src="https://g2.iggcdn.com/assets/email/twitter_icon-ba53eca6b3d509683fd3441eb87bffaf.png" /></a>
+          <a href="https://plus.google.com/share?url=http%3A%2F%2Figg.me%2Fp%2Fcode-debugging-the-gender-gap%2Fcstw%2F8013490&amp;hl=en" target="_blank"><img alt="Gplus_icon" src="https://g0.iggcdn.com/assets/email/gplus_icon-b71a830a91e4476ff7f853ddd3553a97.png" /></a>
+        </div>
+        <div class="i-publishModal-clip-copy hidden-xs hidden-sm">
+          <p class="i-publishModal-body-headline">Email or text your campaign link</p>
+          <p class="i-publishModal-body-cta">Personal messages work best at exciting your community.</p>
+          <input class="i-publishModal-link" value="http://igg.me/at/CODEdoc/x">
+          <a class="i-cta-1 i-cta-1-grey js-link" data-clipboard-text="http://igg.me/at/CODEdoc/x">Copy Link</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+
+
+<div class="i-footer js-footer" ng-app="footer">
+  <div class="container">
+      <div class="visible-xs visible-sm">
+        <div class="row">
+          <section class="col-sm-8">
+            <div class="i-footer-header">Sign Up for Daily Inspiration</div>
+              <form accept-charset="UTF-8" action="https://www.indiegogo.com/accounts/quick_signup" class="i-flex-fixed-container" data-ajax="false" footer-newsletter-form="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="g1HFAEyEtXIpxjzfYf3t30e5CXmw0fo2NZHMX7Dseiw=" /></div>
+    <div class="i-flexible-width-cell">
+      <input id="timestamp" name="timestamp" type="hidden" value="1412388623" /><input id="spinner" name="spinner" type="hidden" value="1113987378fc889be06e8440473293e9" />
+      <input class="i-footer-text-field" id="0ca608d804c358cb69785047f722b38a" name="0ca608d804c358cb69785047f722b38a" placeholder="Your email address" type="text" /><div style="position: absolute; left: -2000px;"><input autocomplete="off" id="email" name="email" tabindex="999" type="text" value="" /></div>
+    </div>
+    <div class="i-fixed-width-cell">
+        <a href="#" class="i-cta-1 i-footer-btn js-newsletter-signup">Sign up now</a>
+    </div>
+</form>  <div class="i-footer-note">Private, secure, spam-free</div>
+
+          </section>
+
+            <section class="col-sm-4 i-top-lined-mobile-only">
+              <div class="i-footer-header">Get the Latest</div>
+              <a href="https://www.facebook.com/Indiegogo" class="i-footer-icon-button"><span class='i-icon i-glyph-icon-30-facebook'></span></a>
+              <a href="https://twitter.com/Indiegogo" class="i-footer-icon-button"><span class='i-icon i-glyph-icon-30-twitter'></span></a>
+              <a href="https://plus.google.com/+indiegogo" class="i-footer-icon-button"><span class='i-icon i-glyph-icon-30-gplus'></span></a>
+              <a href="http://www.youtube.com/user/IndiegogoVideo" class="i-footer-icon-button"><span class='i-icon i-glyph-icon-30-youtube'></span></a>
+            </section>
+        </div>
+
+        <div class="row">
+          <section class="col-sm-8 i-top-lined">
+            <div class="i-footer-header">About Indiegogo</div>
+            <div class="row visible-xs">
+              <div class="col-xs-6">
+                <a href="/about/our-story" class="i-footer-about-link">About Us</a>
+                <a href="/careers" class="i-footer-about-link">Careers</a>
+                <a href="/partners" class="i-footer-about-link">Partner Pages</a>
+                <a href="/about/brand" class="i-footer-about-link">Brand Resources</a>
+                <a href="/contact/press" class="i-footer-about-link">Press</a>
+              </div>
+              <div class="col-xs-6">
+                <a href="http://blog.indiegogo.com/" class="i-footer-about-link">Blog</a>
+                <a href="http://go.indiegogo.com/playbook" class="i-footer-about-link">Playbook</a>
+                <a href="/trust" class="i-footer-about-link">Trust &amp; Safety</a>
+                <a href="http://support.indiegogo.com/hc/en-us" class="i-footer-about-link">Help &amp; Support</a>
+                <a href="/contact/questions" class="i-footer-about-link">Contact Us</a>
+              </div>
+            </div>
+            <div class="row hidden-xs">
+              <div class="col-sm-4">
+                <a href="/about/our-story" class="i-footer-about-link">About Us</a>
+                <a href="/careers" class="i-footer-about-link">Careers</a>
+                <a href="/partners" class="i-footer-about-link">Partner Pages</a>
+                <a href="/about/brand" class="i-footer-about-link">Brand Resources</a>
+              </div>
+              <div class="col-sm-4">
+                <a href="/contact/press" class="i-footer-about-link">Press</a>
+                <a href="http://blog.indiegogo.com/" class="i-footer-about-link">Blog</a>
+                <a href="http://go.indiegogo.com/playbook" class="i-footer-about-link">Playbook</a>
+                <a href="/trust" class="i-footer-about-link">Trust &amp; Safety</a>
+              </div>
+              <div class="col-sm-4">
+                <a href="http://support.indiegogo.com/hc/en-us" class="i-footer-about-link">Help &amp; Support</a>
+                <a href="/contact/questions" class="i-footer-about-link">Contact Us</a>
+              </div>
+            </div>
+
+          </section>
+
+          <section class="col-sm-4 i-top-lined">
+            <div class="row">
+              <div class="col-xs-6 col-sm-12">
+                <div class="i-footer-header i-footer-language-header">Language</div>
+              </div>
+              <div class="col-xs-6 col-sm-12">
+                  <div class="dropdown i-footer-dropdown">
+    <a href="#" class="js-locale-select"><span>English</span>
+      <span class="i-icon i-glyph-icon-30-downcarrot"></span></a>
+    <ul class="dropdown-menu js-locale-dropdown">
+        <li><a href="#" data-locale="en">English</a></li>
+        <li><a href="#" data-locale="de">Deutsch</a></li>
+        <li><a href="#" data-locale="fr">Français</a></li>
+        <li><a href="#" data-locale="es">Español</a></li>
+    </ul>
+  </div>
+
+              </div>
+            </div>
+          </section>
+        </div>
+      </div>
+
+      <div class="visible-md visible-lg">
+        <section class="row">
+          <div class="col-md-3">
+            <div class="i-footer-header">Campaigning</div>
+            <a href="/campaigns/new" class="i-footer-about-link">Start Your Campaign</a>
+            <a href="http://go.indiegogo.com/pricing-fees" class="i-footer-about-link">Pricing</a>
+            <a href="http://go.indiegogo.com/playbook/life-cycle-phase/the-basics" class="i-footer-about-link">Campaign Playbook</a>
+            <a href="http://support.indiegogo.com/hc/en-us/categories/17706-Creating-a-Campaign" class="i-footer-about-link">Campaign Support</a>
+          </div>
+          <div class="col-md-3">
+            <div class="i-footer-header">Contributing</div>
+            <a href="/explore" class="i-footer-about-link">Explore</a>
+            <a href="/partners" class="i-footer-about-link">Partner Pages</a>
+            <a href="http://go.indiegogo.com/playbook/contributing" class="i-footer-about-link">Contributing Playbook</a>
+            <a href="http://support.indiegogo.com/hc/en-us/categories/17716-Contributing-to-a-Campaign" class="i-footer-about-link">Contributing Support</a>
+          </div>
+          <div class="col-md-6">
+            <div class="i-footer-header">Sign Up for Daily Inspiration</div>
+              <form accept-charset="UTF-8" action="https://www.indiegogo.com/accounts/quick_signup" class="i-flex-fixed-container" data-ajax="false" footer-newsletter-form="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="g1HFAEyEtXIpxjzfYf3t30e5CXmw0fo2NZHMX7Dseiw=" /></div>
+    <div class="i-flexible-width-cell">
+      <input id="timestamp" name="timestamp" type="hidden" value="1412388623" /><input id="spinner" name="spinner" type="hidden" value="1113987378fc889be06e8440473293e9" />
+      <input class="i-footer-text-field" id="0ca608d804c358cb69785047f722b38a" name="0ca608d804c358cb69785047f722b38a" placeholder="Your email address" type="text" /><div style="position: absolute; left: -2000px;"><input autocomplete="off" id="email" name="email" tabindex="999" type="text" value="" /></div>
+    </div>
+    <div class="i-fixed-width-cell">
+        <a href="#" class="i-cta-1 i-footer-btn js-newsletter-signup">Sign up now</a>
+    </div>
+</form>  <div class="i-footer-note">Private, secure, spam-free</div>
+
+          </div>
+        </section>
+        <section class="row">
+          <div class="col-md-3">
+            <div class="i-footer-header">About Indiegogo</div>
+            <a href="/learn-how-to-raise-money-for-a-campaign" class="i-footer-about-link">How It Works</a>
+            <a href="/about/our-story" class="i-footer-about-link">About Us</a>
+            <a href="/careers" class="i-footer-about-link">Careers</a>
+            <a href="/about/brand" class="i-footer-about-link">Brand Resources</a>
+            <a href="/contact/press" class="i-footer-about-link">Press</a>
+            <a href="http://blog.indiegogo.com" class="i-footer-about-link">Blog</a>
+          </div>
+          <div class="col-md-3">
+            <div class="i-footer-header">Help</div>
+            <a href="http://go.indiegogo.com/playbook" class="i-footer-about-link">Crowdfunding Playbook</a>
+            <a href="/trust" class="i-footer-about-link">Trust &amp; Safety</a>
+            <a href="http://support.indiegogo.com/hc/en-us" class="i-footer-about-link">Help &amp; Support</a>
+            <a href="/contact/questions" class="i-footer-about-link">Contact Us</a>
+          </div>
+          <div class="col-md-4">
+              <div class="i-footer-header">Get the Latest</div>
+                <div class="i-footer-social-links" footer-share-icons>
+                  <a href="https://twitter.com/indiegogo" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow
+                    @indiegogo</a><br/>
+                  <a class="i-youtube" href="http://www.youtube.com/subscription_center?add_user=IndiegogoVideo"><img src="//s.ytimg.com/yt/img/creators_corner/Subscribe_to_my_videos/YT_Subscribe_61x23_red.png" alt="Subscribe to me on YouTube"/></a>
+
+                  <div class="g-plusone" data-href="http://www.indiegogo.com" data-annotation="none"></div>
+                  <br/>
+
+                  <div class="fb-like" data-href="https://www.facebook.com/indiegogo" data-layout="standard" data-action="like" data-width="240" data-colorscheme="dark" data-show-faces="true" data-share="false"></div>
+                </div>
+          </div>
+          <div class="col-md-2">
+            <div class="i-footer-header">Language</div>
+              <div class="dropdown i-footer-dropdown">
+    <a href="#" class="js-locale-select"><span>English</span>
+      <span class="i-icon i-glyph-icon-30-downcarrot"></span></a>
+    <ul class="dropdown-menu js-locale-dropdown">
+        <li><a href="#" data-locale="en">English</a></li>
+        <li><a href="#" data-locale="de">Deutsch</a></li>
+        <li><a href="#" data-locale="fr">Français</a></li>
+        <li><a href="#" data-locale="es">Español</a></li>
+    </ul>
+  </div>
+
+          </div>
+        </section>
+      </div>
+
+    <section class="i-top-lined">
+      <div class="row">
+        <div class="i-footer-legal-links col-xs-12 col-sm-6">
+          <a href="https://www.indiegogo.com/about/terms">Terms of Use</a>
+          <a href="https://www.indiegogo.com/about/privacy">Privacy Policy</a>
+          <a href="https://www.indiegogo.com/about/cookies">Cookie Policy</a>
+          <a href="https://www.indiegogo.com/partners/terms">Partner Terms</a>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+          <div class="i-footer-legal-links i-footer-copyright">
+            © 2014 Indiegogo, Inc. All Rights Reserved
+          </div>
+        </div>
+      </div>
+      <div class="hidden-xs">
+          <div class="i-footer-trust-bbb js-trust-bbb" footer-trust-bbb></div>
+      </div>
+    </section>
+  </div>
+</div>
+
+
+
+  <!--[if gte IE 9]-->
+  <script src="https://g1.iggcdn.com/assets/jquery/jquery-2bac5fb81a1c59d1563e12d37e3389fd.js" type="text/javascript"></script>
+  <script src="https://g3.iggcdn.com/assets/hammerjs/hammer-e8c8a4f40d64f68dd18e093812b9a84b.js" type="text/javascript"></script>
+  <!--<![endif]-->
+
+    <script src="//cdn.optimizely.com/js/216430494.js"></script>
+
+    <script src="https://g0.iggcdn.com/assets/igg/site/common-414334d14480d5a33dff543849749496.js" type="text/javascript"></script>
+  
+
+  <script type="text/javascript">
+    I18n.defaultLocale = "en";
+    I18n.locale = "en";
+    $(document).ready(function() {
+      igg.site.onDocumentReady();
+    });
+      igg.site.setupZeroClipboard("https://g3.iggcdn.com/assets/zeroclipboard/ZeroClipboard-04212410d44759f253f35013f78f27dc.swf");
+    campaignPageView = new igg.site.CampaignPage({
+      el: $(".i-campaign-page"),
+      facebook_app_id: "2392863781"
+    });
+  campaignPageView.start();
+  new igg.projects.TrackingPixels(gon.tracking_info).setup();
+    new igg.site.Header({
+    el: $(".i-page-header"),
+    active_search: false
+    }).start();
+    $(".i-flash").each(function() {new igg.site.Flash({el: $(this)}).start();});
+    new igg.site.Footer({
+      el: $(".i-footer"),
+      skipTwitterFooterLoad: true,
+      bbbLink: '<a id="bbblink" class="bbb sehzbus" href="http://www.bbb.org/greater-san-francisco/business-reviews/internet-services/indiegogo-in-san-francisco-ca-372843#bbblogo" target="_blank"><img id="bbblinkimg" src="//seal-goldengate.bbb.org/logo/sehzbus/indiegogo-372843.png" width="200" height="38" alt="Read Indiegogo’s Better Business Bureau Review"/></a>',
+      trusteLink: '<div id="f11cda4f-ffd6-4d45-b3c3-dea39f0b8194" class="truste"><a href="//privacy.truste.com/privacy-seal/Indiegogo,-Inc-/validation?rid=6d279abc-bf79-4648-bbc3-ac58bb077a34" title="TRUSTe European Safe Harbor certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Indiegogo,-Inc-/seal?rid=6d279abc-bf79-4648-bbc3-ac58bb077a34" height="38" alt="TRUSTe European Safe Harbor certification"/></a></div>'
+    }).start();
+
+  </script>
+
+    <script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
+
+<script type="text/javascript">
+
+window.igg_criteo_trigger_campaign = function() {
+  window.criteo_q = window.criteo_q || [];
+  window.criteo_q.push(
+    { event: "setAccount", account: 12644 },
+    { event: "setCustomerId", id: "" },
+    { event: "setSiteType", type: "d" },
+    { event: "viewItem", item: "893066" }
+  );
+}
+
+</script>
+
+
+  <script type="text/javascript"> window.igg_criteo_trigger_campaign(); </script>
+
+  
+  <!-- Google Code for Main List -->
+  <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1008738018;
+    var google_conversion_label = "pah0CP6GwQQQ4r2A4QM";
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+  </script>
+  <div class="hidden">
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+  </div>
+  <noscript>
+    <div style="display:inline;">
+      <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1008738018/?value=0&amp;label=pah0CP6GwQQQ4r2A4QM&amp;guid=ON&amp;script=0"/>
+    </div>
+  </noscript>
+
+  
+</body>
+</html>

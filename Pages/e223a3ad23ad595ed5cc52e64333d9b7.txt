@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html xmlns:fb='http://www.facebook.com/2008/fbml' xmlns:og='http://ogp.me/ns#'>
+<head>
+<meta charset='UTF-8'>
+<title>SnappyTV - TNF: NFL Total Access Kickoff LIVE at 6 P.M. created by hollebonr</title>
+<meta content='TNF: NFL Total Access Kickoff LIVE at 6 P.M. Prior to the Redskins hosting the Giants at FedExField on Thursday night, join the NFLN crew LIVE (6 P.M.) for Total Access Live from the Comcast gate. &#x000A;&#x000A;The first 100 uniformed servicemen and servicewomen to arrive will receive VIP access!' name='description'>
+<link href='https://www.snappytv.com/embed_player.swf?id=319664&amp;autoplay=1' rel='video_src'>
+<link href='https://www.snappytv.com/embed_player.swf?id=319664&amp;autoplay=1' rel='media:video'>
+<meta content='https://www.snappytv.com/embed_player.swf?id=319664&amp;autoplay=1&amp;ref=facebook' property='og:video'>
+<meta content='https://www.snappytv.com/embed_player.swf?id=319664&amp;autoplay=1&amp;ref=facebook' property='og:video:secure_url'>
+<meta content='225' property='og:video:height'>
+<meta content='400' property='og:video:width'>
+<meta content='application/x-shockwave-flash' property='og:video:type'>
+<meta content='225' name='video_height'>
+<meta content='400' name='video_width'>
+<meta content='application/x-shockwave-flash' name='video_type'>
+<meta content='SnappyTV' property='og:site_name'>
+<meta content='TNF: NFL Total Access Kickoff LIVE at 6 P.M.' property='og:title'>
+<link href='http://media.snappytv.com/magnum/importasset/12043/image/ld360p/3.0--640x360.jpg' rel='image_src'>
+<meta content='http://media.snappytv.com/magnum/importasset/12043/image/ld360p/3.0--640x360.jpg' property='og:image'>
+<meta content='tv_show' property='og:type'>
+<meta content='Prior to the Redskins hosting the Giants at FedExField on Thursday night, join the NFLN crew LIVE (6 P.M.) for Total Access Live from the Comcast gate. &#x000A;&#x000A;The first 100 uniformed servicemen and servicewomen to arrive will receive VIP access! - http://www.redskins.com/' property='og:description'>
+<meta content='107875702605270' property='fb:app_id'>
+<meta content='http://www.snappytv.com/snaps/tnf_pregame_crowd_nyg_was_15_h264_092214_nb5lze/45723' property='og:url'>
+<meta content='Prior to the Redskins hosting the Giants at FedExField on Thursday night, join the NFLN crew LIVE (6 P.M.) for Total Access Live from the Comcast gate. &#x000A;&#x000A;The first 100 un... - http://www.redskins.com/' property='twitter:description'>
+<meta content='https://www.snappytv.com/tc/319664?autoplay=true&h=244&ss=45723&w=435' name='twitter:player'>
+<meta content='435' name='twitter:player:width'>
+<meta content='244' name='twitter:player:height'>
+<meta content='amplify' name='twitter:card'>
+<meta content='319664' name='twitter:amplify:content_id'>
+<meta content='https://vmap.snappytv.com/vmap/319664/45723.xml' name='twitter:amplify:vmap'>
+<meta content='http://www.snappytv.com/snaps/tnf_pregame_crowd_nyg_was_15_h264_092214_nb5lze/45723' name='twitter:url'>
+<meta content='TNF: NFL Total Access Kickoff LIVE at 6 P.M.' name='twitter:title'>
+<meta content='http://media.snappytv.com/magnum/importasset/12043/image/ld360p/3.0--640x360.jpg' name='twitter:image'>
+<meta content='640' name='twitter:image:width'>
+<meta content='360' name='twitter:image:height'>
+<meta content='36375662' name='twitter:site:id'>
+<link href='http://www.snappytv.com/services/oembed?url=http%3A%2F%2Fwww.snappytv.com%2Fsnaps%2Ftnf_pregame_crowd_nyg_was_15_h264_092214_nb5lze&amp;format=json' rel='alternate' title='TNF: NFL Total Access Kickoff LIVE at 6 P.M. created by hollebonr' type='application/json+oembed'>
+<link href='http://www.snappytv.com/services/oembed?url=http%3A%2F%2Fwww.snappytv.com%2Fsnaps%2Ftnf_pregame_crowd_nyg_was_15_h264_092214_nb5lze&amp;format=xml' rel='alternate' title='TNF: NFL Total Access Kickoff LIVE at 6 P.M. created by hollebonr' type='application/xml+embed'>
+
+
+<link href="http://static.snappytv.com/assets/base-dcd61a76b3e7039869e52a9a0440266d.css" media="screen" rel="stylesheet" type="text/css" />
+<script src="http://static.snappytv.com/assets/base-5d7759a346530dda660e610bfde4ab8d.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="/+O3urk9LGKj8EZlLjA4ReiIYqwu/i3abAck2tkt+LM=" name="csrf-token" />
+<style>
+  
+  #confine { background-color: #3D0707 }
+  #stv_header {background-color: #000} #header {height: 47px;}
+  html, body{height: 100%} #confine{min-height:100%} * html #container {height: 100%}
+</style>
+
+
+</head>
+<body class=''>
+<script>
+  _stva = (typeof _stva != 'undefined') ? _stva : [];
+  _stva_server = '//stats.snappytv.com';
+  $(document).ready(function () {
+    if(typeof snappytv != 'undefined' && typeof snappytv.Utility != 'undefined') snappytv.Utility.setSystemTime("2014-10-04 02:21:36 UTC");
+  });
+  function getPageReferrer (){ return document.referrer; }
+</script>
+
+<div id='stv_header'>
+<div id='header'>
+<div class='site_nav' id='navcontainer'>
+<span id='logo'><a href="http://www.snappytv.com/"><img alt="SnappyTV home" src="http://static.snappytv.com/assets/snappy-logo-1c152ec1eef664ee784206ae752324fc.png" /></a></span>
+<div class='nav left'></div>
+<div class='nav'>
+<ul>
+<li class='' id='signin'><a href="/signin">Sign in</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+
+</div>
+<div id='confine'>
+<div class='c3'>
+<div class='c' id='page_c'>
+
+<div id='notice'></div>
+<div class='pc' id='snaps-page'>
+<div class='cc cls'>
+<div class='cw'>
+<div class='cw-wrap video'>
+<div class='sp-player'>
+<div id='video-content' style='width: 640px;'>
+<div class='banner-video'>
+<div class='video-top-box'>
+<div class='title-container cls'>
+<div class='title-name ib title'>
+<p class='ib'></p>
+</div>
+<div class='title-img ib title'>
+</div>
+</div>
+</div>
+<div class='sp-video' style='width: 640px; height: 360px;'>
+<div id='player' style='width: 640px; height: 360px;'>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='cw-wrap love-bar'>
+<div class='box3 cls'>
+<div class='share-bar cls'>
+<div class='embed'>
+<input class='small-btn plain-btn' id='embed' type='button' value='Embed'>
+</div>
+<div class='gplus'>
+<div class='g-plusone' data-count='true' data-size='small' href='http://www.snappytv.com/snaps/tnf_pregame_crowd_nyg_was_15_h264_092214_nb5lze'></div>
+<script>
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+</div>
+<div class='fsend'>
+<fb:send href="http://www.snappytv.com/snaps/tnf_pregame_crowd_nyg_was_15_h264_092214_nb5lze"></fb:send>
+</div>
+<div class='flike'>
+<fb:like href="http://www.snappytv.com/snaps/tnf_pregame_crowd_nyg_was_15_h264_092214_nb5lze" send="false" show_faces="false" layout="button_count"></fb:like>
+</div>
+<div class='twitter'>
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fsnpy.tv%2F1wLJrH5&related=snapcatpicks:Follow Snapcat to see our favorite snaps made by you.&count=horizontal&counturl=http%3A%2F%2Fwww.snappytv.com%2Fsnaps%2Ftnf_pregame_crowd_nyg_was_15_h264_092214_nb5lze&via=snappytv&amp;text=VIDEO - TNF: NFL Total Access Kickoff LIVE at 6 P.M. " style="width:130px; height:23px;"></iframe>
+</div>
+</div>
+
+</div>
+</div>
+<div class='cw-wrap cls' id='embed-code'>
+<div id='embed-right'>
+<input checked='checked' name='embed_type' type='radio' value='frame'>
+ iframe 
+<span class='tiny'>(recommended)</span>
+</input>
+<input name='embed_type' type='radio' value='embed'>object</input>
+<p class='iframe'>works on the web as well as on mobile (iPhone, iPad, etc)</p>
+<p class='object'>legacy embed if your cms/blog software doesn't support iframes</p>
+<textarea class='iframe'>&lt;div class='snappytv-embed' style='position:relative;padding-top:56.25%;padding-bottom:37px;'&gt;&lt;iframe src='http://www.snappytv.com/snap/tnf_pregame_crowd_nyg_was_15_h264_092214_nb5lze' width='100%' height='100%' frameborder='0' scrolling='no' style='position:absolute;top:0;' webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;</textarea>
+<textarea class='object'>&lt;object width='100%' height='100%'&gt;&lt;param name='movie' value='https://www.snappytv.com/embed_player.swf?id=319664'&gt;&lt;/param&gt;&lt;param name='allowFullScreen' value='true'&gt;&lt;/param&gt;&lt;param name='allowscriptaccess' value='always'&gt;&lt;/param&gt;&lt;embed src='https://www.snappytv.com/embed_player.swf?id=319664' type='application/x-shockwave-flash' allowscriptaccess='always' allowfullscreen='true' width='100%' height='100%'&gt;&lt;/embed&gt;&lt;/object&gt;</textarea>
+</div>
+</div>
+<div class='cw-wrap sp-one-snap cls'>
+<ul class='snap-list cls'>
+<li data-fid='tnf_pregame_crowd_nyg_was_15_h264_092214_nb5lze' id='snap-319664'>
+<div class='snap_left'>
+<div class='thumb-box'>
+<div class='thumb-booger-box'>
+<a href='/snaps/tnf_pregame_crowd_nyg_was_15_h264_092214_nb5lze'>
+<img alt="" class="avatar" height="68" src="http://media.snappytv.com/magnum/importasset/12043/image/ld360p/3.0--120x68.jpg" width="120" />
+<div class='booger'></div>
+</a>
+</div>
+</div>
+</div>
+<div class='meta'>
+<div class='dets_avatar'>
+<p></p>
+<div class='show_dets after_avatar snap-link'>
+<span>
+<a href="/snaps/tnf_pregame_crowd_nyg_was_15_h264_092214_nb5lze" class="link2" target="">TNF: NFL Total Access Kickoff LIVE at 6 P.M.</a>
+</span>
+</div>
+<div class='show_dets'>
+<div class='snap_description'>Prior to the Redskins hosting the Giants at FedExField on Thursday night, join the NFLN crew LIVE (6 P.M.) for Total Access Live from the Comcast gate. 
+
+The first 100 uniformed servicemen and servicewomen to arrive will receive VIP access!</div>
+<br>
+<div class='stats cls'>
+<div class='pretty-time' data-time='2014-09-24 20:45:13 UTC' style='float:left;white-space:pre;'>9 days ago</div>
+<div style='float:left;margin-left:6px'>
+<span class='dyn-snap-activity-count' data-url='http://www.snappytv.com/snaps/tnf_pregame_crowd_nyg_was_15_h264_092214_nb5lze'></span>
+ &middot; 977 views
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+
+</ul>
+</div>
+<div class='cw-wrap sp-comments cls' id='info'>
+<div class='fb-comments' data-href='http://www.snappytv.com/snaps/tnf_pregame_crowd_nyg_was_15_h264_092214_nb5lze' data-num-posts='20' data-width='640'></div>
+</div>
+</div>
+<div class='cs'>
+
+</div>
+</div>
+</div>
+<script src="http://static.snappytv.com/assets/packages/backbone-2abad17db5062ab2763685c19a4cfbc8.js" type="text/javascript"></script>
+<script src="http://static.snappytv.com/assets/packages/creator2-f29737f1efef2b6cc1620e5bdb7a5d2d.js" type="text/javascript"></script>
+<script>
+  show_player = function() {
+    var snap = new $_M.Snap({"snap":{"id":319664}}.snap);
+    player_settings =  {
+      container: $('.sp-video'),
+      container_id: '#player',
+      static_host: 'http://static.snappytv.com',
+      static_secure_host: 'https://staticsnappytv-a.akamaihd.net',
+      debug: '',
+      geo: 'US',
+      tz: 'EST',
+      device: 'desktop',
+      referer: 'empty',
+      cname: '',
+      cname_hash: ''
+    };
+    player_settings.container.STVSnapPlayer(player_settings);
+    player_settings.container.STVSnapPlayer('embedPlayer', snap.attributes, true, true);
+    $(player_settings.container_id).bind('SNAP_PLAYER_INTERFACE_READY', _.bind(function(e) {
+      if( true ) {
+        player_settings.container.STVSnapPlayer('playSnap', snap.attributes);
+      } else {
+        player_settings.container.STVSnapPlayer('loadSnap', snap.attributes);
+      }
+    }, this));
+  }
+</script>
+<script>
+  show_player();
+</script>
+
+<script src="http://static.snappytv.com/assets/lib/modernizr-1.6.min-e8db0d439bdbf55889fd2232013fb445.js" type="text/javascript"></script>
+<script src="http://static.snappytv.com/assets/player_share_window-49918eb4145ea73dca2c5e5952f01dd6.js" type="text/javascript"></script>
+<script>
+  $(document).ready(function() {
+    
+    snappytv.Share.init();
+    
+    if (!Modernizr.input.placeholder) {
+      $("#new_comment label").inFieldLabels({fadeDuration:100}); 
+    } else {
+      $("#new_comment label").hide(); 
+    }
+    $('.clip-here').click( function(e) {
+      $('#player').html('');
+      e.preventDefault(); 
+      $.ajax({
+        type: 'POST',
+        data: { snap_id: "319664" 
+        },
+        url: "/snaps/stream_data_for_snap",
+        dataType: 'json',
+        success: function(res) {
+          conurl = res.service + escape( '?aifp=' + res.aifp + '&auth=' + res.auth );
+          show_player( res.file, conurl );
+        }
+      });
+    });
+  });
+</script>
+<div id='fb-root' style='width:0; height:0;'></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({appId: '107875702605270', status: true, cookie: true, oauth: true,
+             xfbml: true});
+    FB.Canvas.setAutoGrow(true); 
+    if (typeof $ != 'undefined') {
+      $('body').trigger('_fbInit');
+    }
+  };
+  function sizeChangeCallback() { FB.Canvas.setSize(); }
+</script>
+<script>
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.async = true;
+    js.src = "//connect.facebook.net/en_US/all.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<script>
+  $(function() { 
+      var version = swfobject.getFlashPlayerVersion();
+      var supported = (version['major'] >= 9);
+      if(!supported){ 
+          $(".player-container").html( "Your Flash version is <strong>" + version + "</strong> and needs updating.<br /><a href='http://get.adobe.com/flashplayer/' rel='external'>Click here to download latest Flash Player</a> (Adobe.com)" ); 
+      } 
+  
+  });
+</script>
+
+
+<div id='stv_footer'>
+<div id='footer'>
+<ul class='footer-text'>
+<li class='first'><a href="/corp/company.html">About</a></li>
+<li><a href="http://blog.snappytv.com">Blog</a></li>
+<li><a href="/tos">Terms</a></li>
+<li><a href="/privacy">Privacy Policy</a></li>
+<li><a href="/corp/careers.html">Jobs</a></li>
+<li class='contact'><a href="/corp/">Contact Us</a></li>
+<li class='copyright'>
+<cite>
+Copyright © 2014 Afterlive.tv Inc.  All rights reserved.
+</cite>
+</li>
+</ul>
+</div>
+<script type="text/javascript">
+    
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-18415284-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    
+      </script>
+<script type="text/javascript" charset="utf-8">
+      var is_ssl = ("https:" == document.location.protocol);
+      var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
+      document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+
+    <script type="text/javascript" charset="utf-8">
+      var feedback_widget_options = {};
+
+      feedback_widget_options.display = "overlay";  
+      feedback_widget_options.company = "snappytv";
+      feedback_widget_options.placement = "right";
+      feedback_widget_options.color = "#007bb9";
+      feedback_widget_options.style = "question";
+      if (typeof GSFN !== "undefined") {
+        var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+      }
+    </script>
+
+</div>
+</div>
+</div>
+</div>
+
+
+<script>
+  /* ###################################################################################
+   * f: 1412389296 (2014-10-04 02:21:36 UTC)
+   * e: 2014-10-04 02:22:36 UTC (duration: 60.0)
+   * c: dXQ9RVNUJmNjPVVTJmRlPWRlc2t0b3B8fHx6Yz0yMzUwMQ==|||3ef1838ae2e97985a9bfbc5f640ca78e|||0
+   * ################################################################################### */
+</script>
+
+
+</body>
+</html>

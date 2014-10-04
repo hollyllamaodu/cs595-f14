@@ -1,0 +1,173 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Interactive shells on Python.org - PythonAnywhere News</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="All the latest updates from the PythonAnywhere team">
+        <meta name="author" content="PythonAnywhere developers">
+
+        <link rel="alternate" type="application/rss+xml" title="PythonAnywhere News RSS Feed" href="/feed/" />
+
+        <!-- Le styles -->
+        <link href="/static/bootstrap/css/bootstrap.css" rel="stylesheet">
+        <style>
+            body {
+                padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+            }
+        </style>
+        <link href="/static/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+        <link href="/static/jab/styles.css" rel="stylesheet">
+        <link href="/static/highlight.js/googlecode.css" rel="stylesheet">
+
+        <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+
+        <!-- Le fav and touch icons -->
+        <link rel="shortcut icon" href="../assets/ico/favicon.ico">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
+
+
+        <script src="/static/highlight.js/highlight.pack.js"></script>
+        <script>
+            hljs.initHighlightingOnLoad();
+        </script>
+
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-fixed-top">
+            <div class="navbar-inner">
+                <div class="container">
+                    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </a>
+                    <a class="brand" href="/">PythonAnywhere News</a>
+                    <div class="nav-collapse">
+                        <ul class="nav">
+                            <li class=""><a href="/">Home</a></li>
+                            
+                                <li><a href="/7/">About</a></li>
+                            
+                            
+                                <li><a href="http://www.twitter.com/pythonanywhere">Twitter</a></li>
+                            
+                            
+                                <li><a href="mailto:developers@pythonanywhere.com">Email</a></li>
+                            
+                            <li><a href="/feed/">RSS</a></li>
+                        </ul>
+                    </div><!--/.nav-collapse -->
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="span7">
+
+                    
+
+    
+
+<h1 class="post-title"><a href="/83/">Interactive shells on Python.org</a></h1>
+
+<div class="jab-post">
+    <p>We're really proud to announce that we're providing a "Launch interactive shell" feature for the newly-redesigned <a href="https://www.python.org">Python.org</a> website.  We hope that the ease of just clicking on something on the site to try it out will help bring even more people over to The World's Best Programming Language!</p>
+<p>Light technical details after the pretty picture...</p>
+<p><img src="/static/images/python-org-fp-after.png" alt="Drawing" style="width: 640px;"/></p>
+<p>PythonAnywhere is a platform as a service for Python developers.  One of our neat features is that you can work on your code from anywhere, from a computer or a tablet, by starting up a Python or Bash command line inside your web browser.  So it was easy for us to roll out a simplified version of the system that just provided a simple Python 3 console (using IPython) for anyone who wanted one, and make that available to Python.org.</p>
+<p>So, how does it work?</p>
+<h3>Getting started</h3>
+<p>When your browser loads the main Python.org front page, a small bit of JavaScript runs.  This pings a URL on the PythonAnywhere servers to check that our service is up and running -- this allows us to rate-limit things if the number of visitors to the page gets beyond our abilities to handle new consoles.  So far we've not had to do that, but it's good for our peace of mind to have a way of pulling the plug in an emergency.</p>
+<p>Assuming that the response says that all systems are go, the JavaScript displays a button above the code sample on the front page that says "Launch interactive shell".  That's all for now.  Starting a new console takes a certain amount of machine resources, so we don't start one for every hit on the Python.org front page.</p>
+<h3>onclick="..."</h3>
+<p>When you click the interactive shell, a bit more JavaScript is run.  This injects an <code>iframe</code> into the document, sized to cover the code sample.  The <code>src</code> of the <code>iframe</code> is a URL on PythonAnywhere's servers.  Without going into too much detail, hitting this URL creates a new "unregistered" user on our server cluster (one with very limited capabilities) and returns a load of HTML and JavaScript that displays a vt100 terminal emulator, and connects back using <a href="https://github.com/sockjs">SockJS</a> (which normally uses WebSockets) to one of our cluster of console servers.</p>
+<h3>The console server</h3>
+<p>Our console servers run Tornado.  Specifically, they run a Tornado application that listens on port 443 for incoming TLS SockJS connections.  When one comes in, it and the JavaScript on the front end do a short authentication exchange to make sure it's from a real user (not super-important for the publicly-accessible consoles on Python.org, but much more important for our normal site).  After the auth, the console server constructs a sandbox for the user.  This involves setting up a filesystem, and enabling  the various limitations for the user.  The Tornado process then forks off a new Python process, runng as that user, chrooted into the filesystem.  (For a more in-depth look at the Tornado server, check out <a href="http://www.youtube.com/watch?v=U_qp8u_BH_E">this EuroPython talk by Giles Thomas</a>).</p>
+<h3>And off and running</h3>
+<p>Once the chrooted Python process is up and running, the Tornado server just works to forward keystrokes from the browser down to the process, and results back from the process to the browser.  The JavaScript vt100 in the browser handles all of the formatting.</p>
+<p>That's pretty much it for the overview!  If there's anything you'd like more details on, leave a comment below and we'll respond there -- or we'll update the blog post if enough people are interested in the same bits.</p>
+</div>
+
+<div class="post-footer">
+    Posted Feb. 21, 2014, 3:53 p.m.
+    
+        by giles
+    
+</div>
+
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'pythonanywherenews';
+    var disqus_identifier = "pythonanywherenews83";
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+                </div>
+
+                <div class="span4 well">
+
+                    
+                        <p><a href="http://www.pythonanywhere.com/"><img id="id_logo" src="http://www.pythonanywhere.com/static/anywhere/images/logo-234x35.png" height="35" title="PythonAnywhere logo" alt="PythonAnywhere logo" /></a></p>
+<p><a href="http://www.pythonanywhere.com/">PythonAnywhere</a> is a Python development and hosting environment that displays in your web browser and runs on our servers.  They're already set up with everything you need. It's easy to use, fast, and powerful. There's even a useful free plan.</p>
+<p><a href="http://www.pythonanywhere.com/pricing/">You can sign up here</a>.</p>
+                    
+                        <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18014859-8']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+                    
+
+                </div>
+
+            </div>
+
+            <footer>
+                <hr/>
+                <p>
+                    Built with <a href="http://twitter.github.com/bootstrap/">Bootstrap</a>.
+                    Blog source code available <a href="https://github.com/pythonanywhere/jab">on GitHub</a>.
+                </p>
+            </footer>
+
+        </div> <!-- /container -->
+
+        <!-- Le javascript
+        ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="/static/jquery/jquery-1.7.2.min.js"></script>
+        <script src="/static/bootstrap/js/bootstrap.min.js"></script>
+
+    </body>
+</html>

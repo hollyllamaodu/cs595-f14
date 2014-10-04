@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="fb: http://www.facebook.com/2008/fbml content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema# schema: http://schema.org/"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="canonical" href="http://opensource.com/life/14/3/google-summer-code-2014" />
+<link rel="shortcut icon" href="http://opensource.com/sites/all/themes/opensource/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="http://opensource.com/node/18089" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link href="http://opensource.com/rss.xml" rel="alternate" title="Opensource.com RSS" />
+<meta name="description" content="Mentoring organizations for Google Summer of Code 2014 share their plans for students and open source projects this year." />
+  <title>Coding internship summer program with Google | Opensource.com</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="http://opensource.com/sites/default/files/css/css_ogjvJnfni1_P_WxvXAHlUOgCs860b3ip9DNMapcIGeM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://opensource.com/sites/default/files/css/css_dGYDLbc-S6u7-47scH4T23mAMlhJc2u-kQAy1pGqLjw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://opensource.com/sites/default/files/css/css_pRQdCz2rGtn6xDSHdzVJkqOhZu2CiMPNoUMp1dsuQ0s.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://opensource.com/sites/default/files/css/css_cltay5oCf62baAkygKic1KduqF3PYpo8gUMWVGx9H34.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://opensource.com/sites/default/files/css/css_sAvvVHg8PUWryUL9ng9rNal0QDvDBpjNztmZQxJHVIs.css" media="all" />
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="http://opensource.com/profiles/panopoly/modules/panopoly/panopoly_core/css/panopoly-fonts-ie-open-sans.css?ncdc9g" media="all" />
+<![endif]-->
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="http://opensource.com/profiles/panopoly/modules/panopoly/panopoly_core/css/panopoly-fonts-ie-open-sans-bold.css?ncdc9g" media="all" />
+<![endif]-->
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="http://opensource.com/profiles/panopoly/modules/panopoly/panopoly_core/css/panopoly-fonts-ie-open-sans-italic.css?ncdc9g" media="all" />
+<![endif]-->
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="http://opensource.com/profiles/panopoly/modules/panopoly/panopoly_core/css/panopoly-fonts-ie-open-sans-bold-italic.css?ncdc9g" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="http://opensource.com/sites/default/files/css/css_wigS70piKQxAQ-PhuV0Kv5yYuTDEoD4yq0VyEj5L7HY.css" media="all" />
+  <script src="http://opensource.com/sites/default/files/js/js_0gj6QcpfRH2jzTbCQqf7kEkm4MXY0UA_sRhwPc8jC1o.js"></script>
+<script src="http://opensource.com/sites/default/files/js/js_95eYTzR5--PHRUaL8U8rBGIXU0b7aVjjrUVvRBD5BFs.js"></script>
+<script src="http://opensource.com/sites/default/files/js/js_a2lKa8Jp-oi7iYJtuAj6yqziOl3tblsKWBxkWmDAzqg.js"></script>
+<script src="http://opensource.com/sites/default/files/js/js_-FekfpmL7gWihje4ozmkP-tDGie16dhBG7lYDQmXDpc.js"></script>
+<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-33294138-1"]);_gaq.push(["_setDomainName", ".opensource.com"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
+<script src="http://opensource.com/sites/default/files/js/js_uVgd4-9yIbwheYQCBcm4HXkUlMT2C5CeLHhMKkf_B9w.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"opensource","theme_token":"K-E33cJ_G4OEq4s7zMJlQVoCgk1hs4x6pdHQ-vfNvdo","js":{"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_admin\/panopoly-admin.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_magic\/panopoly-magic.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/js\/panopoly-accordion.js":1,"profiles\/panopoly\/modules\/contrib\/caption_filter\/js\/caption-filter.js":1,"sites\/all\/modules\/contrib\/loginlogout\/loginlogout.js":1,"sites\/all\/modules\/custom\/os_events\/os_events.js":1,"profiles\/panopoly\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/modules\/contrib\/pollanon\/js\/jquery.cookie.min.js":1,"sites\/all\/modules\/contrib\/pollanon\/js\/pollanon.pack.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/fivestar\/js\/fivestar.ajax.js":1,"sites\/all\/modules\/contrib\/fivestar\/js\/fivestar.js":1,"misc\/textarea.js":1,"modules\/filter\/filter.js":1,"sites\/all\/modules\/contrib\/mollom\/mollom.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/opensource\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"profiles\/panopoly\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/panopoly\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/osratings\/hide.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_admin\/panopoly-admin.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_core\/css\/panopoly-fonts.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_core\/css\/panopoly-dropbutton.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_magic\/css\/panopoly-magic.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_magic\/css\/panopoly-modal.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-featured.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-accordian.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_wysiwyg\/panopoly-wysiwyg.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/workflow\/workflow_admin_ui\/workflow_admin_ui.css":1,"profiles\/panopoly\/modules\/contrib\/views\/css\/views.css":1,"profiles\/panopoly\/modules\/contrib\/caption_filter\/caption-filter.css":1,"profiles\/panopoly\/modules\/contrib\/ctools\/css\/ctools.css":1,"public:\/\/css\/menu_icons.css":1,"profiles\/panopoly\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/pollanon\/pollanon.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/plugins\/layouts\/burr_flipped\/burr-flipped.css":1,"sites\/all\/modules\/contrib\/fivestar\/css\/fivestar.css":1,"sites\/all\/modules\/custom\/osratings\/widgets\/osratings\/osratings.css":1,"modules\/filter\/filter.css":1,"profiles\/panopoly\/modules\/contrib\/field_group\/field_group.field_ui.css":1,"sites\/all\/themes\/opensource\/system.menus.css":1,"sites\/all\/themes\/opensource\/system.messages.css":1,"sites\/all\/themes\/opensource\/system.theme.css":1,"sites\/all\/themes\/opensource\/dist\/css\/styles.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_core\/css\/panopoly-fonts-ie-open-sans.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_core\/css\/panopoly-fonts-ie-open-sans-bold.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_core\/css\/panopoly-fonts-ie-open-sans-italic.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_core\/css\/panopoly-fonts-ie-open-sans-bold-italic.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_images\/panopoly-images.css":1}},"loginlogout":{"urls":{"\/user\/login":"\/user\/login?destination=node\/18089","\/user":"\/user?destination=node\/18089"}},"CToolsModal":{"modalSize":{"type":"scale","width":".9","height":".9","addWidth":0,"addHeight":0,"contentRight":25,"contentBottom":75},"modalOptions":{"opacity":".55","background-color":"#FFF"},"animationSpeed":"fast","modalTheme":"CToolsModalDialog","throbberTheme":"CToolsModalThrobber"},"ajax":{"edit-vote--2":{"callback":"fivestar_ajax_submit","event":"change","url":"\/system\/ajax","submit":{"_triggering_element_name":"vote"}}},"tagmap":[],"spotlight_settings":{"rotation_time":4000},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"1"}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-18089 node-type-article region-content section-life page-panels" >
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="page">
+
+  <header class="header" id="header" role="banner">
+
+    
+      <div class="region region-navigation-top">
+    <div id="block-menu-menu-about-menu" class="block block-menu first odd" role="navigation">
+
+      
+  <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/about" class="menu__link">About</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://opensource.com/resources/" class="menu__link">Resources</a></li>
+<li class="menu__item is-leaf leaf"><a href="/should-be" title="What should Opensource.com be?" class="menu__link">Community</a></li>
+<li class="menu__item is-leaf leaf"><a href="/participate" class="menu__link">Participate</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://opensource.com/how-submit-article" class="menu__link">Submit your story</a></li>
+<li class="menu__item is-leaf leaf"><a href="/open-source-way" class="menu__link">The open source way</a></li>
+<li class="menu__item is-leaf last leaf"><a href="http://opensource.org/" class="menu__link">Visit opensource.org</a></li>
+</ul>
+</div>
+<div id="block-system-user-menu" class="block block-system block-menu last even" role="navigation">
+
+      
+  <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/user/login" class="menu__link">Log in</a></li>
+<li class="menu__item is-leaf leaf"><a href="/user/register" title="Sign Up" class="menu__link">Sign Up</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/feed" title="Feeds" class="menu__link">Feed</a></li>
+</ul>
+</div>
+  </div>
+
+    <div class="header-banner">
+                  <div class="header__name-and-slogan" id="name-and-slogan">
+                          <div class="header__site-name" id="site-name">
+                <a href="/" title="Home" class="header__site-link" rel="home"><span>Opensource.com</span></a>
+<a href="http://www.redhat.com" title="Home" class="red__site-link" rel="home" style=" "><span>redhat.com</span></a>"
+              </div>
+            
+                      </div>
+        
+        
+          <div class="header__region region region-header">
+    <div id="block-search-form" class="block block-search first last odd" role="search">
+
+      
+  <form action="/life/14/3/google-summer-code-2014" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--3" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-sHokgAVKugKdGnpUmPPJVXpJqKbyQaLsr7LGQZrfprU" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+    </div>
+
+  </header>
+
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+                  <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Google's coding internship summer program reaches 10th year | Opensource.com</h1>
+                                          
+
+
+
+<div class="panel-display burr-flipped clearfix " id="article-template">
+
+  <div class="burr-flipped-container burr-flipped-content-container clearfix">
+    <div class="burr-flipped-content burr-flipped-content-region panel-panel">
+      <div class="burr-flipped-content-inner burr-flipped-content-region-inner panel-panel-inner">
+        <div class="panel-pane pane-custom pane-1 article-title" >
+  
+      
+  
+  <p>Google's coding internship summer program reaches 10th year</p>
+
+  
+  </div>
+<div class="panel-pane pane-custom pane-2 author-feed" >
+  
+      
+  
+  <p>Posted <span class="created-date">10 Mar 2014 by </span></p>
+
+  
+  </div>
+<div class="panel-pane pane-node-author" >
+  
+      
+  
+  <a href="/users/jen-wike" title="View user profile." class="username" xml:lang="" about="/users/jen-wike" typeof="sioc:UserAccount" property="foaf:name" datatype=""><a href="/users/jen-wike" class="username">Jen Wike</a> <span class="redhat-employee">(Red Hat)</span></a>
+  
+  </div>
+<div class="panel-pane pane-custom pane-3" >
+  
+      
+  
+  <p><span><a href="/user/16534/feed">Feed</a></span></p>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-rating" >
+  
+      
+  
+  <div class="field field-name-field-rating field-type-fivestar field-label-inline clearfix"><div class="field-label">Rating:&nbsp;</div><div class="field-items"><div class="field-item even" property="schema:aggregateRating" typeof="schema:AggregateReview"><form class="fivestar-widget" action="/life/14/3/google-summer-code-2014" method="post" id="fivestar-custom-widget" accept-charset="UTF-8"><div><div  class="clearfix fivestar-average-text fivestar-average-stars fivestar-form-item fivestar-open source ratings"><div class="form-item form-type-fivestar form-item-vote">
+ <div class="form-item form-type-select form-item-vote">
+ <select id="edit-vote--2" name="vote" class="form-select"><option value="-">Select rating</option><option value="20">Give it 1/5</option><option value="40">Give it 2/5</option><option value="60">Give it 3/5</option><option value="80">Give it 4/5</option><option value="100" selected="selected">Give it 5/5</option></select>
+<div class="description"><div class="fivestar-summary fivestar-summary-average-count"> <span class="total-votes">(<span>15</span> votes)</span></div><meta property="schema:average" content="4.3"/><meta property="schema:count" content="15"/></div>
+</div>
+
+</div>
+</div><input class="fivestar-submit form-submit" type="submit" id="edit-fivestar-submit" name="op" value="Rate" /><input type="hidden" name="form_build_id" value="form-krAWQTEJGtDQ4zjDLH6VoAMPBPpYO91dQ3ZnT1pvL94" />
+<input type="hidden" name="form_id" value="fivestar_custom_widget" />
+</div></form></div></div></div>
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-lead-image" >
+  
+      
+  
+  <div class="field field-name-field-lead-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="schema:contentUrl" resource="http://opensource.com/sites/default/files/styles/image-full-size/public/code4.png?itok=ndIXAGKV"><img class="image-full-size" typeof="foaf:Image" src="http://opensource.com/sites/default/files/styles/image-full-size/public/code4.png?itok=ndIXAGKV" width="520" height="292" alt="coding open source projects" title="code internship for students" /></div></div></div>
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-file-field-file-image-caption" >
+  
+      
+  
+  <div class="field field-name-field-file-image-caption field-type-text-long field-label-inline clearfix"><div class="field-label">Image by :&nbsp;</div><div class="field-items"><div class="field-item even"><p>opensource.com</p>
+</div></div></div>
+  
+  </div>
+<div class="panel-pane pane-block pane-os-core-opensource-article-share" >
+  
+      
+  
+  
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js"></script>
+  ​<script type="text/javascript">
+    var addthis_config = addthis_config||{};
+    addthis_config.data_track_clickback = false;
+  </script><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><a href="https://twitter.com/share" class="twitter-share-button" data-related="jasoncosta" data-lang="en" data-size="medium" data-count="horizontal" data-url="http://red.ht/1eaplvO" data-text="Google's coding internship summer program reaches 10th year" data-counturl="http://opensource.com/life/14/3/google-summer-code-2014">Tweet</a> <a href="http://reddit.com/submit?url=http%3A%2F%2Fopensource.com%2Flife%2F14%2F3%2Fgoogle-summer-code-2014&title=Google's coding internship summer program reaches 10th year" onclick="window.location = 'http://reddit.com/submit?url=http%3A%2F%2Fopensource.com%2Flife%2F14%2F3%2Fgoogle-summer-code-2014&title=Google's coding internship summer program reaches 10th year'; return false"><img src="http://reddit.com/static/spreddit7.gif" alt="submit to reddit" border="0" /></a> <script src="http://www.stumbleupon.com/hostedbadge.php?s=1&r=http://opensource.com/life/14/3/google-summer-code-2014"></script><a class="addthis_button_facebook_like" addthis:url="http://opensource.com/life/14/3/google-summer-code-2014" fb:like:layout="button_count"></a><a class="addthis_button_google_plusone" addthis:url="http://opensource.com/life/14/3/google-summer-code-2014" g:plusone:size="medium"></a>
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-body" >
+  
+      
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="schema:articleBody content:encoded"><p>What's new for Google's Summer of Code (GSoC) internship program this year? For one, GSoC accepted 190 mentoring organizations, which is more than any other year. The very first GSoC program began in the summer of 2005, so this year also marks another milestone—they're 10th year anniversary.</p>
+<p>What is likely to remain the same this year is the overwhelming response from students from all over the world who want the chance to work on free and open source projects with mentoring organizations that Google has hand-picked. <span>Carol Smith, Open Source Programs Manager at Google, tells us that to date GSoC </span><span>students have helped generate over 50 million lines of open source code</span><span> to date, from over 8,500 student developers.</span></p>
+<blockquote><p><strong>Student application submissions open March 10 and close March 21.</strong></p>
+</blockquote>
+<p>If <a title="GSoC on Wikipedia" href="http://en.wikipedia.org/wiki/Google_Summer_of_Code" target="_blank">yearly trends</a> continue, the number of proposals we can expect Google to see is upwards of 10,000. And with 190 mentoring organizations participating this year, I'll hazard a guess of around 1,300 students chosen to start the program in May.</p>
+<p>For answers to a lot of the logistical questions, have a look at the GSoC <a title="GSoC FAQs" href="http://www.google-melange.com/document/show/gsoc_program/google/gsoc2014/help_page" target="_blank">FAQs</a>, which includes the 2014 program <a title="2014 GSoC program timeline" href="http://www.google-melange.com/document/show/gsoc_program/google/gsoc2014/help_page#2._What_is_the_program_timeline" target="_blank">timeline</a>.</p>
+<h2>Hey, what are your plans for GSoC 2014?</h2>
+<p><span style="letter-spacing: 0px;">I chatted with some of the mentoring organizations selected this year to find out what kinds of open source projects they have in mind for students to work on. Here's what they shared about their plans for GSoC 2014.</span></p>
+<p><img src="http://opensource.com/sites/default/files/resize/images/resources/OSDC_Resources_SectionImage_Organizations-520x91.png" width="520" height="91" class="mceItem" /></p>
+<h3><span style="letter-spacing: 0px;">OPENSTACK</span></h3>
+<p><span style="letter-spacing: 0px;">"The OpenStack Foundation has been selected as a Google Summer of Code mentoring organization for the first time. As a new participant, not only is OpenStack looking for <a title="GSoC OpenStack students wiki" href="https://wiki.openstack.org/wiki/GSoC2014#Students" target="_blank">students</a> but also for project <a title="ideas wiki" href="https://wiki.openstack.org/wiki/GSoC2014#Ideas" target="_blank">ideas</a> and <a title="mentors wiki" href="https://wiki.openstack.org/wiki/GSoC2014#Mentors" target="_blank">mentors</a>. Those with an interest in participating in GSoC with OpenStack this summer should collaborate <a title="GSoC OpenStack wiki" href="https://wiki.openstack.org/wiki/GSoC2014" target="_blank">via the wiki</a> and add their name and idea to the list, along with (of course) actually applying through Google if you are an interested student.</span></p>
+<p><span style="letter-spacing: 0px;">Several great ideas for OpenStack GSoC projects have already emerged, including:</span></p>
+<ul>
+<li><span style="letter-spacing: 0px;">Implementing a <a title="project" href="https://wiki.openstack.org/wiki/GSoC2014/Scheduler/ScalableScheduler" target="_blank">scalable scheduler</a></span></li>
+<li><span style="letter-spacing: 0px;">Implementing a <a title="project" href="https://wiki.openstack.org/wiki/GSoC2014/Testing/Fuzz" target="_blank">Fuzz testing framework</a></span></li>
+<li><span style="letter-spacing: 0px;">Adding a <a title="project" href="https://wiki.openstack.org/wiki/GSoC2014/Incubator/Storage" target="_blank">new backend</a> to Oslo's cache</span></li>
+<li><span style="letter-spacing: 0px;">Applying <a title="project" href="https://wiki.openstack.org/wiki/GSoC2014/Ceilometer/UnderstandingBurstsLifecycle" target="_blank">OpenStack telemetry</a> to understand the bursts lifecycle in resource usage</span></li>
+</ul>
+<p><span style="letter-spacing: 0px;">You can also learn more about OpenStack's participation in Google Summer of Code by hanging out in #openstack-gsoc channel on irc.freenode.org."</span></p>
+<p><a title="GSoC OpenStack page" href="https://wiki.openstack.org/wiki/GSoC2014" target="_blank">visit their GSoC page</a></p>
+<p><em>—Jason Baker, OpenStack Content Editor, Opensource.com</em></p>
+<p><em><br /></em></p>
+<h3>JOOMLA!</h3>
+<p><span style="letter-spacing: 0px;">"The Joomla community is charged up for the 2014 iteration of Google Summer of Code. The project has put together a comprehensive </span><a style="letter-spacing: 0px;" title="Joomla GSoC ideas list" href="http://docs.joomla.org/GSOC_2014_Project_Ideas" target="_blank">ideas list</a><span style="letter-spacing: 0px;"> which aims to focus on key aspects which improve one of the world’s most adopted content management systems.</span></p>
+<p>In particular the community has ideas focused on aspects such as increasing accessibility and usability for users who are restricted due to physical limitations. In addition to this there are focuses on increasing Joomla’s overall performance by reducing bloated code and optimising queries to the database.</p>
+<p>A bigger project takes Joomla’s internal development structure to the modern world by working to decrease the static factory design pattern with a much more decoupled dependency injection pattern. The developers in Joomla have been working hard to look to the standards set by other popular and ground-breaking PHP projects and we are pushing the CMS into the modern world by adopting some of these newer development patterns. The key sentiment in the Joomla developer world is modernize, decouple, refactor, and of course backwards compatibility when possible to maintain a stable but modern application.</p>
+<p>The organizers of Joomla’s Google Summer of Code Program have big hopes and dreams for the success this year, and we hope to celebrate the year with our sibling Free Open Source organizations at the Google Summer of Code Mentor Summit this fall."</p>
+<p><a title="Joomla GSoC 2014" href="http://docs.joomla.org/GSOC_2014_Project_Ideas" target="_blank">visit their GSoC page</a></p>
+<p><em>—Chad Windnagle, Google Summer of Code Co-Admin, Joomla!</em></p>
+<p> </p>
+<h3>PYTHON FOUNDATION</h3>
+<p>"Python serves as a Google Summer of Code umbrella organization for around a dozen open source projects each year. This year, projects like CPython (core Python and the standard library), GNU Mailman, Mercurial, Scrapy, and Kivy are participating.</p>
+<p>Participating in GSoC helps the Python community build its mentorship culture and keeps us honest about the quality of our documentation and support for new contributors."</p>
+<p><a title="Python GSoC page" href="http://pyfound.blogspot.com/2014/02/python-in-google-summer-of-code-2014.html" target="_blank">visit their GSoC page</a></p>
+<p><em>—Jessica McKellar, <span>Director, Python Software Foundation</span></em></p>
+<p><em><span><br /></span></em></p>
+<h3><span style="letter-spacing: 0px; line-height: 1.3em;">BEAGLEBOARD.ORG</span></h3>
+<p>"We are excited that BeagleBoard.org has been accepted as a mentoring organization in the 2014 Google Summer of Code!</p>
+<p>BeagleBoard.org is a volunteer organization that seeks to advance the state of open source software on open source hardware platforms capable of running high-level languages and operation systems (primarily Linux) in embedded environments.</p>
+<p>Last year, BeagleBoard.org successfully mentored five students who improved upstream ADC IIO support, brought I2C support to Minix, brought Robot Operating System to new Linux distributions, enabled boot and flashing boards from Android phones, and created a project called Userspace Arduino that brings sketches to Linux. We’re looking forward to mentoring more innovative students with their projects this year.</p>
+<p>We are looking forward to receiving contributions for improving the state of the Linux kernel; enabling simplified usage of the embedded real-time controllers; improving the BoneScript JavaScript library and web-based interface libraries; consolidating support for simplified home manufacturing, drones/bots, or other common tasks; optimizing the existing userspace applications and libraries, or other innovative personal project ideas that students are passionate about."</p>
+<p><a title="BeagleBoard GSoC 2014" href="http://beagleboard.org/gsoc" target="_blank">visit their GSoC page</a></p>
+<p><em>—<span>Jason Kridner, </span><span>Co-Founder, </span><span>BeagleBoard.org</span></em></p>
+<p> </p>
+<h3>OSGEO</h3>
+<p>"The Open Source Geospatial Foundation (OSGeo) has been participating in the Google Summer of Code since 2007. Our projects have covered almost everything that deals with georeferenced (location) data: from web mapping, image processing and digital cartography, to sophisticated spatial analysis, modeling, and visualization.</p>
+<p>The ideas for GSoC projects often involve high priority tasks that can be implemented within a three month period by a student with sufficient programming and geospatial background. Although there is a limited number of project ideas where the familiarity with geospatial data is not essential, most projects require more than knowledge of a programming language.</p>
+<p>Students considering an application with OSGeo GRASS GIS can browse the past students <a title="past coding projects" href="http://trac.osgeo.org/grass/wiki/GSoC" target="_blank">coding projects</a>.The student for one of the 2011 projects has become a main GRASS GIS developer and thanks to her highly visible work she was accepted to NC State University to pursue her PhD at the NCSU College of Sciences."</p>
+<p><a title="OSGeo GSoC page" href="http://trac.osgeo.org/grass/wiki/GSoC" target="_blank">visit their GSoC page</a></p>
+<p><em>—Helena Mitasova, Associate Professor, NC State University</em></p>
+<p> </p>
+<h3>WIKIMEDIA FOUNDATION</h3>
+<p><span style="letter-spacing: 0px;">"We've participated in Google Summer of Code </span><a style="letter-spacing: 0px;" title="past projects" href="https://www.mediawiki.org/wiki/Summer_of_Code_Past_Projects" target="_blank">since 2006</a><span style="letter-spacing: 0px;">, and in the Outreach Program for Women </span><a style="letter-spacing: 0px;" title="past projects" href="https://www.mediawiki.org/wiki/Outreach_Program_for_Women" target="_blank">since early 2013</a><span style="letter-spacing: 0px;">.</span></p>
+<p>This year we'd like to get even better at getting every intern's project integrated into the main codebase and shipped to users by the end of the internship. We also want to continue our trend from previous years of increasing geographic diversity, gender diversity, and project diversity. For instance, with mobile apps as well as front- and back-end web development."</p>
+<p><a title="Wikimedia GSoC page" href="https://www.mediawiki.org/wiki/Summer_of_Code_2014" target="_blank">visit their GSoC page</a></p>
+<p>—<em>Sumana Harihareswara, Engineering Community Manager, <a title="Wikimedia Foundation" href="https://www.mediawiki.org/wiki/MediaWiki" target="_blank">Wikimedia Foundation</a></em></p>
+<p> </p>
+<h3>VISUALIZATION TOOLKIT</h3>
+<p>"I am looking forward to welcoming new contributors to <span>Visualization Toolkit (</span><a title="VTK" href="http://www.vtk.org/" target="_blank">VTK</a>) and seeing what they accomplish over the summer. We will be working with them on code that is open, reviewed, tested, and reproducible. Their contributions have the potential to impact a large array of scientific and medical domains by helping scientists, engineers, and others make sense of their data. We are very excited to take part in the tenth year of Google Summer of Code."</p>
+<p><a title="VTK GSoC page" href="http://www.vtk.org/Wiki/VTK/GSoC_2014" target="_blank">visit their GSoC page</a></p>
+<p><em>—Marcus D. Hanwell, Technical Leader, <a title="Kitware" href="http://www.kitware.com/index.html" target="_blank">Kitware</a></em></p>
+<p> </p>
+<h3>SYSTERS</h3>
+<p><span style="letter-spacing: 0px;">"We successfully mentored six students in our </span><a style="letter-spacing: 0px;" href="http://anitaborg.org/get-involved/systers/">Systers</a><span style="letter-spacing: 0px;">, an </span><a style="letter-spacing: 0px;" href="http://anitaborg.org/">Anita Borg Institute</a><span style="letter-spacing: 0px;"> Community for the 2013 Google Summer of Code program (GSoC) and we couldn’t have been more thrilled. We had great mentors and great students which made it exciting and an incredible learning experience. </span></p>
+<p><span style="letter-spacing: 0px;">This year, we want to step up our game in recognition of GSoC’s </span>10 year <span style="letter-spacing: 0px;">anniversary, but we also wanted to bring various projects to the students as well. Our organizational administrators, </span><a style="letter-spacing: 0px;" href="https://twitter.com/androidcoconut">Ana Cutillas</a><span style="letter-spacing: 0px;">, Nicki Hutchen, and </span><a style="letter-spacing: 0px;" href="https://twitter.com/rosariorobinson">Rose Robinson</a><span style="letter-spacing: 0px;"> (me), wanted variety in the technologies and programming languages as well as how can we help #changetheratio and #changetheworld at the same time. What better way to do this by partnering with Peace Corps!</span></p>
+<p><span style="letter-spacing: 0px;">This year, Systers GSoC 2014 program will work on four open source projects for </span><a style="letter-spacing: 0px;" href="http://www.peacecorps.gov/">Peace Corps</a><span style="letter-spacing: 0px;">.</span></p>
+<p>Projects include:</p>
+<ul>
+<li>RealTrack: Android and iOS mobile applications</li>
+<li>Picture language translation (Ruby on Rails)</li>
+<li>Ushahidi crowdsourcing platform</li>
+<li>Malaria Prevention</li>
+</ul>
+<p>What’s interesting about these projects is that students and mentors will have an opportunity to work with Peace Corps Volunteers out in the field (Azerbaijan, Micronesia, and other locations) who really need these projects to help them in their efforts to affect change in local communities they are assigned. When they heard we were on board with helping with these projects, they were really excited. These projects will help Peace Corp volunteers in ways that they can truly make an impact in a lot of the work they do in the field. What’s also great is we have some creative prowess in these projects making it that much more challenging and exciting. Additionally, since Peace Corps uses GitHub as their version control software, students will gain valuable experience in version control software.</p>
+<p>Additional GSoC projects:</p>
+<ul>
+<li>Systers portal project (Python/Django)</li>
+<li>Automated testing (Java/Selenium)</li>
+<li>Porting Systers customized features into Mailman 3.0 (Python)</li>
+</ul>
+<p>We have additional projects that are core for our Systers community like Mailman as we have built customized version of our Mailman which we use. Porting our features into future release of Mailman 3.0 is exciting in itself because of the technologies in Mailman 3.0 like HyperKitty. Last year the students took to this work like a magnet and found it challenging.</p>
+<p>These projects bring a different flavor for not only the students, but the mentors as well. We have many Systers that have skills in various programming languages, technologies, research, management, and much more. We are lining up some great mentors and will be posted soon. Our mentors have proven to be very instrumental in guiding our students and at the same time, everyone has fun. We are super excited about helping young women who want to learn or better their coding skills, helping Peace Corps and volunteers, and helping our community “<a href="http://anitaborg.org/awards-grants/pass-it-on-awards-program/">pass on</a>” the benefits of being a Syster.</p>
+<p><a title="Systers GSoC page" href="https://github.com/systers/ossprojects/wiki/GSoC-2014" target="_blank">visit their GSoC page</a></p>
+<p><em>—Rose Robinson, <span style="letter-spacing: 0px;">Her Systers’ Keeper, <a href="http://anitaborg.org/get-involved/systers/">Systers</a></span></em></p>
+<p> </p>
+<h3>TYPO3</h3>
+<p>"The TYPO3 project has been accepted for the fifth time this year for the Google Summer of Code. Students participating in the project do not necessarily have to have deep knowledge of TYPO3. Participating in the project can also serve as an introduction.</p>
+<p><span>The TYPO3 project asks for submission of ideas and for mentors coming from the community. The scope of the submitted idea should be limited to be achievable within the limited time-frame of three months. As a project we hope to involve more people and especially attract more diversity to the project and vice-versa to let the world know about our project.</span></p>
+<p><span>We usually get a lot of applications from countries in Eastern Europe and from Asia, mainly India. The success factor in participating the GsoC project lies in getting to know another project and the community belonging to it. Completing a module or certain functionality is secondary for us. There are definitely a good number of ideas we can use as a basis to develop further."</span></p>
+<p><span><a title="TYPO3 GSoC 2014" href="https://typo3.org/news/article/mentors-and-ideas-for-google-summer-of-code-2014/" target="_blank">visit their GSoC page</a></span></p>
+<p><em>—Ben van 't Ende, <span>Community Manager, </span>TYPO3</em></p>
+<p><span style="letter-spacing: 0px;"><span> </span></span></p>
+<h2><span style="letter-spacing: 0px;"><span>Did you know?</span></span></h2>
+<h3>GNOME Outreach Program for Women</h3>
+<p>"The Outreach Program for Women (<a title="Outreach Program for Women" href="http://gnome.org/opw" target="_blank">OPW</a>) was started by the GNOME Foundation because there were very few women applying for Google Summer of Code with GNOME. The program offers internship opportunities, similar to the ones offered by GSoC, to women (cis and trans) and genderqueer. Unlike in GSoC, participants do not need to be students and non-coding projects are available. In addition to coding, projects include such tasks as graphic design, user experience design, documentation, bug triage, and community engagement.</p>
+<p>GNOME, the Linux kernel, <a title="Pyladies" href="http://www.pyladies.com/blog/opw-office-hours/" target="_blank">Python</a>, the Open Technology Institute, and Wikimedia are some of <a title="OPW organizations" href="https://wiki.gnome.org/OutreachProgramForWomen/2014/MayAugust#Participating_Organizations" target="_blank">the organizations</a> offering internships in the upcoming round, which has similar program dates to Google Summer of Code. Some organizations are taking part in both programs. By running the two programs in parallel, we are able to <a title="Is OPW right for you?" href="https://wiki.gnome.org/OutreachProgramForWomen#Is_Google_Summer_of_Code_right_for_you.3F" target="_blank">encourage more women</a> who are students and coders to apply for Google Summer of Code. Thanks to this effort, as well as other efforts in the community and by the Google team, the participation of women in Google Summer of Code is steadily growing, with women representing <a title="stats" href="http://google-opensource.blogspot.com/2013/06/google-summer-of-code-2013-full-of.html" target="_blank">9.5% of the participants</a> last year. We expect the number this year to rise further."</p>
+<p><em>—Marina Zhurakhinskaya, <span>Community Engagement Lead at Red Hat and Coordinator of the Outreach Program for Women</span></em></p>
+<p><em><span><br /></span></em></p>
+</div></div></div>
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-default-license" >
+  
+      
+  
+  <div class="field field-name-field-default-license field-type-text field-label-hidden"><div class="field-items"><div class="field-item even" property="schema:license"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">
+        <img alt="Creative Commons License" style="border-width:0" src="/sites/all/themes/opensource/images/cc-by-sa-3.png" title="This work is licensed under a Creative Commons Attribution-Share Alike 3.0 Unported License." /></a></div></div></div>
+  
+  </div>
+<div class="panel-pane pane-views-panes pane-related-articles-panel-pane-1" >
+  
+        <h2 class="pane-title">Related content</h2>
+    
+  
+  <div class="view view-related-articles view-id-related_articles view-display-id-panel_pane_1 related-content view-dom-id-fd966fbe75e49578863941b3244f7fbe">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/education/14/9/interview-charlie-reisinger-penn-manor"><img class="related-content-lead-thumbnail" typeof="foaf:Image" src="http://opensource.com/sites/default/files/styles/related-content-lead-thumbnail/public/images/education/osdc_OER_520x292_FINAL.png?itok=_fUt4lax" width="140" height="79" /><br />
+Penn Manor goes &#039;all in&#039; with open source</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/education/14/9/linux-education-public-school"><img class="related-content-lead-thumbnail" typeof="foaf:Image" src="http://opensource.com/sites/default/files/styles/related-content-lead-thumbnail/public/images/life/OSDC_Penguin_Image_520x292_12324207_0714_mm_v1a.png?itok=TalFRUlX" width="140" height="79" alt="Penguins gathered together in the Artic" title="Penguins gathered together: Linux for the win" /><br />
+Building a Linux lab and its great potential in education</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/education/14/9/back-school-grass-gis"><img class="related-content-lead-thumbnail" typeof="foaf:Image" src="http://opensource.com/sites/default/files/styles/related-content-lead-thumbnail/public/images/life/OpenStreetMap.png?itok=OYE9H4ap" width="140" height="79" /><br />
+Back to school with GRASS GIS</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-tags" >
+  
+        <h2 class="pane-title">Tags</h2>
+    
+  
+  <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even" rel="schema:keywords"><a href="/tags/education" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">education</a></div><div class="field-item odd" rel="schema:keywords"><a href="/tags/google-summer-code" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">google summer of code</a></div><div class="field-item even" rel="schema:keywords"><a href="/tags/coding" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">coding</a></div><div class="field-item odd" rel="schema:keywords"><a href="/tags/student" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">student</a></div><div class="field-item even" rel="schema:keywords"><a href="/tags/internship" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">internship</a></div><div class="field-item odd" rel="schema:keywords"><a href="/tags/gsoc" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">GSoC</a></div></div></div>
+  
+  </div>
+<div class="panel-pane pane-block pane-os-core-opensource-article-share" >
+  
+      
+  
+  
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js"></script>
+  ​<script type="text/javascript">
+    var addthis_config = addthis_config||{};
+    addthis_config.data_track_clickback = false;
+  </script><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><a href="https://twitter.com/share" class="twitter-share-button" data-related="jasoncosta" data-lang="en" data-size="medium" data-count="horizontal" data-url="http://red.ht/1eaplvO" data-text="Google's coding internship summer program reaches 10th year" data-counturl="http://opensource.com/life/14/3/google-summer-code-2014">Tweet</a> <a href="http://reddit.com/submit?url=http%3A%2F%2Fopensource.com%2Flife%2F14%2F3%2Fgoogle-summer-code-2014&title=Google's coding internship summer program reaches 10th year" onclick="window.location = 'http://reddit.com/submit?url=http%3A%2F%2Fopensource.com%2Flife%2F14%2F3%2Fgoogle-summer-code-2014&title=Google's coding internship summer program reaches 10th year'; return false"><img src="http://reddit.com/static/spreddit7.gif" alt="submit to reddit" border="0" /></a> <script src="http://www.stumbleupon.com/hostedbadge.php?s=1&r=http://opensource.com/life/14/3/google-summer-code-2014"></script><a class="addthis_button_facebook_like" addthis:url="http://opensource.com/life/14/3/google-summer-code-2014" fb:like:layout="button_count"></a><a class="addthis_button_google_plusone" addthis:url="http://opensource.com/life/14/3/google-summer-code-2014" g:plusone:size="medium"></a>
+  
+  </div>
+<div class="panel-pane pane-node-comment-form" >
+  
+        <h2 class="pane-title">Comment now</h2>
+    
+  
+  <form class="comment-form user-info-from-cookie" action="/life/14/3/google-summer-code-2014#comment-form" method="post" id="comment-form" accept-charset="UTF-8"><div><div id="edit-login-register" class="form-item form-type-item">
+ <a href="/user?destination[destination]=node/18089">Login or Register</a> to earn points for your comments.
+</div>
+<div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Your name <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="30" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-textfield form-item-mail">
+  <label for="edit-mail">E-mail <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-mail" name="mail" value="" size="30" maxlength="64" class="form-text required" />
+<div class="description">The content of this field is kept private and will not be shown publicly.</div>
+</div>
+<input type="hidden" name="form_build_id" value="form-7fh6SATy6c7KyTRJ_GaanlHwkL4wS76-jaSkUV6UPBw" />
+<input type="hidden" name="form_id" value="comment_node_article_form" />
+<div class="form-item form-type-checkbox form-item-legal-checkbox">
+ <input type="checkbox" id="edit-legal-checkbox" name="legal_checkbox" value="1" class="form-checkbox required" />  <label class="option" for="edit-legal-checkbox">Accept the <a href="/legal">Terms of Use</a> to continue.  You are licensing your contribution(s) as CC-BY-SA. <span class="form-required" title="This field is required.">*</span></label>
+
+</div>
+<div class="field-type-text-long field-name-comment-body field-widget-text-textarea form-wrapper" id="edit-comment-body"><div id="comment-body-add-more-wrapper"><div class="text-format-wrapper"><div class="form-item form-type-textarea form-item-comment-body-und-0-value">
+  <label for="edit-comment-body-und-0-value">Comment <span class="form-required" title="This field is required.">*</span></label>
+ <div class="form-textarea-wrapper resizable"><textarea class="text-full form-textarea required" id="edit-comment-body-und-0-value" name="comment_body[und][0][value]" cols="60" rows="5"></textarea></div>
+</div>
+<div class="clearfix"><div class="format-toggle"></div></div></div>
+</div></div><input class="mollom-content-id" type="hidden" name="mollom[contentId]" value="" />
+<input class="mollom-captcha-id" type="hidden" name="mollom[captchaId]" value="" />
+<div style="display: none;"><div class="form-item form-type-textfield form-item-mollom-homepage">
+ <input autocomplete="off" type="text" id="edit-mollom-homepage" name="mollom[homepage]" value="" size="60" maxlength="128" class="form-text" />
+</div>
+</div><div class="description mollom-privacy">By submitting this form, you accept the <a href="https://mollom.com/web-service-privacy-policy" class="mollom-target" rel="nofollow">Mollom privacy policy</a>.</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Save" class="form-submit" /><input type="submit" id="edit-preview" name="op" value="Preview" class="form-submit" /></div></div></form>
+  
+  </div>
+      </div>
+    </div>
+    <div class="burr-flipped-sidebar burr-flipped-content-region panel-panel">
+      <div class="burr-flipped-sidebar-inner burr-flipped-content-region-inner panel-panel-inner">
+        <div class="panel-pane pane-views-panes pane-author-info-panel-pane-1 box-wrapper" >
+  
+      
+  
+  <div class="view view-author-info view-id-author_info view-display-id-panel_pane_1 view-dom-id-4b401b2579037006aa50f4f991c15ca9">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-user-picture">        <div class="field-content"><img class="profile-pictures" typeof="foaf:Image" src="http://opensource.com/sites/default/files/styles/profile_pictures/public/jenpic.jpg?itok=5nMMOL2s" width="100" height="100" alt="" /></div>  </div>  
+  <div class="views-field views-field-field-user-about">        <div class="field-content"><p><strong>Jen Wike</strong> | Content manager and writer for Opensource.com. Advisory board member for the Raleigh Public Record. Blogger on life in Raleigh, NC. Tweets <a href="https://twitter.com/JenWike" target="_blank" title="on Twitter">@jenwike</a>. Projects at <a href="http://jen.io" target="_blank" title="Jen's past and present projects">Jen.io</a>.</p>
+</div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="/users/jen-wike">» More about me</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+  
+  </div>
+<div class="panel-pane pane-custom pane-4 box-wrapper" >
+  
+      
+  
+  </p>
+<p><a href="http://opensource.com/business/14/1/top-project-management-tools-2014?sc_cid=70160000000c9ptAAA" target="_blank" title="Top 5 open source project management tools in 2014"><img src="/sites/default/files/resize/remote/b64d1d67899bde8c1b226f4fa8d265e2-325x125.png" alt="Top 5 open source project management tools in 2014" title="Top 5 open source project management tools in 2014" class="media-element file-default" height="125" width="325" /></a></p>
+
+  
+  </div>
+<div class="panel-pane pane-panels-mini pane-common-1" >
+  
+      
+  
+  <div class="panel-pane pane-menu-tree pane-menu-monthly-favorites box-wrapper" >
+  
+        <h2 class="pane-title">Monthly favorites</h2>
+    
+  
+  <div class="menu-block-wrapper menu-block-ctools-menu-monthly-favorites-1 menu-name-menu-monthly-favorites parent-mlid-menu-monthly-favorites:0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-1609"><a href="/business/14/1/top-project-management-tools-2014" title="" class="menu__link">Top 5 open source project management tools in 2014</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1610"><a href="/government/14/9/kolab-for-city-munich" title="" class="menu__link">Can this free software company secure the future of Linux for the city of Munich?</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1613"><a href="/business/14/8/newbie-learns-linux" title="" class="menu__link">  What happens when a non-coder tries to learn Linux</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1611"><a href="/business/14/9/security-for-docker" title="" class="menu__link">Bringing new security features to Docker</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1614"><a href="/life/14/7/interview-arun-gupta-devoxx4kids" title="" class="menu__link">Top 3 open source business intelligence and reporting tools</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1612"><a href="/life/14/9/why-python-4-wont-be-python-3" title="" class="menu__link">Why Python 4.0 won&#039;t be like Python 3.0</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-1706"><a href="/education/14/9/free-courses-getting-started-open-source-cloud" title="" class="menu__link">Free courses for getting started in the open source cloud</a></li>
+</ul></div>
+
+  
+  </div>
+<div class="panel-pane pane-block pane-bean-new-to-open-source box-wrapper" >
+  
+      
+  
+  <div class="entity entity-bean bean-generic-block clearfix" about="/block/new-to-open-source" typeof="">
+
+  <div class="content">
+    <div class="field field-name-field-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="/node/17753"><img class="media-element file-default" src="https://opensource.com/sites/default/files/images/promos/OSDC_New_to_Open_Source_Promo_gray.png" title="New to open source?" alt="New to open source?" height="125" width="325" /></a></p>
+</div></div></div>  </div>
+</div>
+
+  
+  </div>
+<div class="panel-pane pane-block pane-bean-submit-an-article box-wrapper" >
+  
+      
+  
+  <div class="entity entity-bean bean-generic-block clearfix" about="/block/submit-an-article" typeof="">
+
+  <div class="content">
+    <div class="field field-name-field-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="/node/17733"><img class="media-element file-default" src="https://opensource.com/sites/default/files/images/promos/OSDC_Submit_Article_Promo_0.png" title="Submit an article" alt="Submit an article" height="125" width="325" /></a></p>
+</div></div></div>  </div>
+</div>
+
+  
+  </div>
+<div class="panel-pane pane-block pane-os-core-opensource-social-links box-wrapper signup-email" >
+  
+      
+  
+  <ul class="social-links inline"><li class="twitter first"><a href="http://twitter.com/opensourceway" target="_blank"><img typeof="foaf:Image" src="http://opensource.com/sites/all/themes/opensource/images/footer-social/twitter.jpg" alt="" /></a></li>
+<li class="facebook"><a href="http://facebook.com/pages/opensourcecom/162962298056" target="_blank"><img typeof="foaf:Image" src="http://opensource.com/sites/all/themes/opensource/images/footer-social/facebook.jpg" alt="" /></a></li>
+<li class="gplus"><a href="https://plus.google.com/108750398488318674353" target="_blank"><img typeof="foaf:Image" src="http://opensource.com/sites/all/themes/opensource/images/footer-social/gplus.png" alt="" /></a></li>
+<li class="flickr"><a href="http://www.flickr.com/photos/opensourceway" target="_blank"><img typeof="foaf:Image" src="http://opensource.com/sites/all/themes/opensource/images/footer-social/flickr_24x24.jpg" alt="" /></a></li>
+<li class="youtube"><a href="http://www.youtube.com/opensourceway" target="_blank"><img typeof="foaf:Image" src="http://opensource.com/sites/all/themes/opensource/images/footer-social/youtube.jpg" alt="" /></a></li>
+<li class="pinterest"><a href="http://pinterest.com/opensourceway/" target="_blank"><img typeof="foaf:Image" src="http://opensource.com/sites/all/themes/opensource/images/footer-social/pinterest.png" alt="" /></a></li>
+<li class="linkedin"><a href="http://www.linkedin.com/groups/Open-Source-Professionals-Advocates-2769297?gid=2769297" target="_blank"><img typeof="foaf:Image" src="http://opensource.com/sites/all/themes/opensource/images/footer-social/in.jpg" alt="" /></a></li>
+<li class="rss last"><a href="http://opensource.com/feed" target="_blank"><img typeof="foaf:Image" src="http://opensource.com/sites/all/themes/opensource/images/footer-social/osdc_rss_24x24.png" alt="" /></a></li>
+</ul><div class="signup-email-title">Sign-up for weekly email</div><form action="https://secure.eloqua.com/e/f2.aspx" method="post" id="opensourcedotcom-subscription" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-C-EmailAddress">
+ <input type="text" id="edit-c-emailaddress" name="C_EmailAddress" value="" size="24" maxlength="96" class="form-text" />
+</div>
+<input type="hidden" name="elqFormName" value="opensourcedotcom-subscription" />
+<input type="hidden" name="elqSiteID" value="1795" />
+<input type="hidden" name="sendToURL" value="http://opensource.com/thank-you-subscription" />
+<input type="submit" id="edit-submit--2" name="op" value="Sign Up" class="form-submit" /><input type="hidden" name="form_build_id" value="form-L122h3fO_Sv5PyCMpv_7mrQ1Lf2RJRMW_X2LTV22gZI" />
+<input type="hidden" name="form_id" value="os_core_eloqua_form" />
+</div></form>
+  
+  </div>
+
+  
+  </div>
+      </div>
+    </div>
+  </div>
+    
+</div><!-- /.burr-flipped -->
+          </div>
+
+    <div id="navigation">
+
+              <nav id="main-menu" role="navigation" tabindex="-1">
+          <h2 class="element-invisible">Main menu</h2><ul class="links inline clearfix"><li class="menu-1119 first"><a href="/" title="">Open*</a></li>
+<li class="menu-1261"><a href="/business" title="Open Business">Business</a></li>
+<li class="menu-1262"><a href="/education" title="Open Education">Education</a></li>
+<li class="menu-1263"><a href="/government" title="Open Government">Government</a></li>
+<li class="menu-1264"><a href="/health" title="Open Health">Health</a></li>
+<li class="menu-1265"><a href="/law" title="Open Law">Law</a></li>
+<li class="menu-1266 active-trail last"><a href="/life" title="Open Life" class="active-trail">Life</a></li>
+</ul>        </nav>
+      
+      
+    </div>
+
+    
+    
+  </div>
+
+    <footer id="footer" class="region region-footer">
+    <div id="block-bean-copyrigt-block" class="block block-bean first odd">
+
+      
+  <div class="entity entity-bean bean-generic-block clearfix" about="/block/copyrigt-block" typeof="">
+
+  <div class="content">
+    <div class="field field-name-field-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>For more discussion on open source and the role of the CIO in the enterprise, join us at <a href="http://enterprisersproject.com">The EnterprisersProject.com</a>.</p>
+<p>The opinions expressed on this website are those of each author, not of the author's employer or of Red Hat.</p>
+<p>Opensource.com aspires to publish all content under a <a href="http://creativecommons.org/licenses/">Creative Commons license</a> but may not be able to do so in all cases. You are responsible for ensuring that you have the necessary permission to reuse any work on this site. Red Hat and the Shadowman logo are trademarks of Red Hat, Inc., registered in the United States and other countries.</p>
+</div></div></div>  </div>
+</div>
+
+</div>
+<div id="block-menu-menu-footer" class="block block-menu even" role="navigation">
+
+      
+  <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/privacy-policy" class="menu__link">Privacy Policy</a></li>
+<li class="menu__item is-leaf leaf"><a href="/legal" class="menu__link">Terms of Use</a></li>
+<li class="menu__item is-leaf leaf"><a href="/contact" class="menu__link">Contact</a></li>
+<li class="menu__item is-leaf leaf"><a href="/opensourcecom-team" class="menu__link">Meet the Moderators</a></li>
+<li class="menu__item is-leaf leaf"><a href="/media-kit" class="menu__link">Media Kit</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/colophon" class="menu__link">Colophon</a></li>
+</ul>
+</div>
+<div id="block-bean-social-media" class="block block-bean last odd">
+
+      
+  <div class="entity entity-bean bean-generic-block clearfix" about="/block/social-media" typeof="">
+
+  <div class="content">
+    <div class="field field-name-field-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span>Find us:</span> <a class="footer-youtube" href="http://www.youtube.com/opensourceway" title="Youtube">Youtube</a> <a class="footer-flickr" href="http://www.flickr.com/photos/opensourceway" title="Flickr">Flickr</a> <a class="footer-gplus" href="https://plus.google.com/108750398488318674353" title="Google Plus">Google Plus</a> <a class="footer-facebook" href="https://www.facebook.com/opensourceway" title="Facebook">Facebook</a> <a class="footer-twitter" href="https://twitter.com/OpenSourceWay" title="Twitter">Twitter</a></p>
+</div></div></div>  </div>
+</div>
+
+</div>
+  </footer>
+
+</div>
+
+    <div class="region region-page-bottom">
+    <!-- begin Eloqua tracking -->
+<script type='text/javascript' language='JavaScript' src='//www.redhat.com/j/elqNow/elqCfg.js'></script>
+<script type='text/javascript' language='JavaScript' src='//www.redhat.com/j/elqNow/elqImg.js'></script>
+<!-- end Eloqua tracking -->
+<!-- begin Adobe Analytics -->
+<script type="text/javascript" src="/sites/all/libraries/sitecatalyst/s_code.js?20100731?ncdc9g"></script>
+<script type="text/javascript" language="JavaScript"><!--
+
+s.pageName="opensource|life|article|google's-coding-internship-summer-program-reaches-10th-year";
+s.server="opensource.com";
+s.channel="opensource";
+s.prop13="osdc 18089";
+s.eVar26="osdc 18089";
+s.prop14="life";
+s.eVar27="life";
+s.prop61="2014-03-10";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+//--></script><script type="text/javascript" src="/sites/all/libraries/sitecatalyst/rh_omni_footer.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="https://smtrcs.redhat.com/b/ss/redhatglobal,redhatopensourcecom/1/H.25--NS/0?[AQB]&amp;amp;amp;cdp=3&amp;amp;amp;[AQE]" height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- end Adobe Analytics1 --><!-- begin Google Remarketing -->
+<img height="1" width="1" style="border-style:none;display:block;" alt=""  src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/990030321/?value=0&amp;label=rxV4CN_35QQQ8dOK2AM&amp;guid=ON&amp;script=0" /><!-- end Google Remarketing -->
+  </div>
+<script src="http://opensource.com/sites/default/files/js/js_XpJuEKzwvbEEeDS1Lpt_uOwmb3E94ioLvpFlps8O3rA.js"></script>
+</body>
+</html>

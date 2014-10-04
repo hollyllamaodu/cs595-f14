@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="https://www.facebook.com/2008/fbml">
+          
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <link rel="shortcut icon" type="image/x-icon" href="//dfo9svwruwoho.cloudfront.net/images/favicon.ico">
+
+	<title>JavaOne 2014 Community Keynote #JavaOneCK agenda @steveonjava... on Twitpic</title>
+	
+	<!-- Facebook Meta -->
+<link rel="image_src" href="http://twitpic.com/show/thumb/ec0kt8.jpg" />
+
+<meta property="og:title" content="JavaOne 2014 Community Keynote #JavaOneCK agenda @steveonjava @java @JavaOneConf - via @JavaFXpert"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/ec0kt8"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/ec0kt8"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="JavaOne 2014 Community Keynote #JavaOneCK agenda @steveonjava @java @JavaOneConf" />
+<meta name="twitter:url" value="https://twitpic.com/ec0kt8" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/ec0kt8.jpg" />
+
+  <meta name="twitter:image:width" value="600" />
+  <meta name="twitter:image:height" value="371" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@JavaFXpert" />
+<meta name="twitter:creator:id" value="16562139" />
+
+
+
+
+<!-- Our Stylesheets -->
+<link rel="stylesheet" type="text/css" href="//dfo9svwruwoho.cloudfront.net/css/baseline.min.css?v2" />
+<link rel="stylesheet" type="text/css" href="//dfo9svwruwoho.cloudfront.net/css/lib/main.min.css?v5" />
+
+<!-- Required JS Libs -->
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="//dfo9svwruwoho.cloudfront.net/js/ext/jquery.timeago.js"></script>
+<script type="text/javascript" src="//dfo9svwruwoho.cloudfront.net/js/ext/ejs.js"></script>
+<script type="text/javascript" src="//maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="//dfo9svwruwoho.cloudfront.net/js/swfupload/swfupload.js"></script>
+<script src="//platform.twitter.com/anywhere.js?id=FeB4w6iaI2ICGtL1ZE0jQ&v=1" type="text/javascript"></script>
+
+<script type="text/javascript">
+ var addthis_config = {
+    pubid: 'twitpic',
+    services_exclude: "facebook,twitter"
+  };
+
+  var addthis_share = {
+    title: "JavaOne 2014 Community Keynote #JavaOneCK agenda @steveonjava @java @JavaOneConf",
+    description: "JavaOne 2014 Community Keynote #JavaOneCK agenda @steveonjava @java @JavaOneConf",
+    templates: {
+      twitter: "JavaOne 2014 Community Keynote #JavaOneCK agenda @steveonjava @java @JavaOneConf {{url}} via @TwitPic"
+    }
+  };
+</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=twitpic"></script>
+
+<!-- Our JS Lib -->
+<script type="text/javascript" src="//dfo9svwruwoho.cloudfront.net/js/lib/twitpic.min.js?v8"></script>
+
+<!-- VideoJS -->
+<script type="text/javascript" src="//dfo9svwruwoho.cloudfront.net/js/video-js/video.js"></script>
+<link type="text/css" rel="stylesheet" href="//dfo9svwruwoho.cloudfront.net/js/video-js/video-js.css" />
+<link type="text/css" rel="stylesheet" href="//dfo9svwruwoho.cloudfront.net/js/video-js/skins/vim.css" />
+<!-- End VideoJS -->
+
+<script type="text/javascript">
+	Twitpic.load();
+
+	Twitpic.Config.set({"activeUser":null,"PHPSESSID":"b69cbb383d7b0a2c2e6bbda49f5c40e5","is_mobile":false,"user":{"id":"194885","twitter_id":"16562139","username":"JavaFXpert","name":"JavaFXpert","location":"Planet Earth","website":"http:\/\/t.co\/w8AZNgKW4U","bio":"James Weaver - Java\/JavaFX\/IoT developer, author and speaker","avatar_url":"http:\/\/pbs.twimg.com\/profile_images\/3688259607\/472f4deae20cfb00a5f115b9a598cf69_normal.png","profile_background_color":"381904","profile_text_color":"333333","profile_link_color":"0084B4","profile_sidebar_fill_color":"DDFFCC","profile_background_image_url":"http:\/\/pbs.twimg.com\/profile_background_images\/89320276\/twilk_background_4bb9e68d7a75b.jpg","profile_background_tile":"0","utc_offset":"-14400","geo_enabled":"0","public_updates":"1","public_tagging":"0","banned":"0","timestamp":"2008-12-15 18:57:45","photo_count":"8","photo_only_count":8,"video_only_count":"0","events":null,"images":null,"places":null},"media":{"id":"866708828","short_id":"ec0kt8","user_id":"194885","source":"api","message":"JavaOne 2014 Community Keynote #JavaOneCK agenda @steveonjava @java @JavaOneConf","views":692,"width":"1025","height":"634","size":"104720","type":"png","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2014-09-23 19:41:11","tags":null,"video":null,"number_of_comments":"0","user":{"id":"194885","twitter_id":"16562139","username":"JavaFXpert","name":"JavaFXpert","location":"Planet Earth","website":"http:\/\/t.co\/w8AZNgKW4U","bio":"James Weaver - Java\/JavaFX\/IoT developer, author and speaker","avatar_url":"http:\/\/pbs.twimg.com\/profile_images\/3688259607\/472f4deae20cfb00a5f115b9a598cf69_normal.png","profile_background_color":"381904","profile_text_color":"333333","profile_link_color":"0084B4","profile_sidebar_fill_color":"DDFFCC","profile_background_image_url":"http:\/\/pbs.twimg.com\/profile_background_images\/89320276\/twilk_background_4bb9e68d7a75b.jpg","profile_background_tile":"0","utc_offset":"-14400","geo_enabled":"0","public_updates":"1","public_tagging":"0","banned":"0","timestamp":"2008-12-15 18:57:45","photo_count":"8","photo_only_count":8,"video_only_count":"0","events":null,"images":null,"places":null},"faces":null,"comments":null,"events":null,"application":{"id":"730","title":"Echofon for Mac","url":"http:\/\/www.echofon.com\/twitter\/mac\/","description":"Echofon for Mac is a Twitter client application on Mac.","timestamp":"2010-05-21 17:48:42"}},"neighbors":[{"id":"858257217","short_id":"e6zfi9","user_id":"194885","source":"api","message":"Java Product Manager Aurelio Garcia-Ribeyro @aureliog w\/new Mastering #JavaFX 8 Controls book by @hendrikEbbers","views":"0","width":"1216","height":"1632","size":"525952","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2014-06-26 15:38:26","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"851266603","short_id":"e2tlij","user_id":"194885","source":"api","message":"","views":"0","width":"535","height":"427","size":"18309","type":"png","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2014-05-03 22:09:36","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"850989709","short_id":"e2nnv1","user_id":"194885","source":"api","message":"Jamming w\/Freddy @fguime during my presentation at the Chicago JUG @cjug #Java8 #JavaFX @TonyaRaeMoore","views":"0","width":"669","height":"641","size":"688918","type":"png","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2014-05-02 07:09:31","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"850888368","short_id":"e2lho0","user_id":"194885","source":"api","message":"Excited about presenting #Java8 #JavaFX at Chicago JUG @cjug tonight &amp; chocolate prizes during music trivia!","views":"0","width":"1632","height":"1224","size":"698010","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2014-05-01 13:26:22","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"848131745","short_id":"e0yen5","user_id":"194885","source":"api","message":"Best. Audience. Ever. #IoT Keynote at #codemotion #Java #JavaFX @Java","views":"0","width":"640","height":"480","size":"84666","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2014-04-12 11:22:59","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"843682917","short_id":"dyb1wl","user_id":"194885","source":"api","message":"Received @deitel #Java: How to Program book, adding great #Java8, #JavaFX &amp; Scene Builder content! @PaulDeitel","views":"0","width":"1224","height":"1632","size":"543638","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2014-03-14 17:07:25","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"843057094","short_id":"dxxn0m","user_id":"194885","source":"api","message":"","views":"0","width":"495","height":"374","size":"313661","type":"png","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2014-03-10 18:42:44","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"858257217","short_id":"e6zfi9","user_id":"194885","source":"api","message":"Java Product Manager Aurelio Garcia-Ribeyro @aureliog w\/new Mastering #JavaFX 8 Controls book by @hendrikEbbers","views":"0","width":"1216","height":"1632","size":"525952","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2014-06-26 15:38:26","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"851266603","short_id":"e2tlij","user_id":"194885","source":"api","message":"","views":"0","width":"535","height":"427","size":"18309","type":"png","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2014-05-03 22:09:36","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"850989709","short_id":"e2nnv1","user_id":"194885","source":"api","message":"Jamming w\/Freddy @fguime during my presentation at the Chicago JUG @cjug #Java8 #JavaFX @TonyaRaeMoore","views":"0","width":"669","height":"641","size":"688918","type":"png","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2014-05-02 07:09:31","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"850888368","short_id":"e2lho0","user_id":"194885","source":"api","message":"Excited about presenting #Java8 #JavaFX at Chicago JUG @cjug tonight &amp; chocolate prizes during music trivia!","views":"0","width":"1632","height":"1224","size":"698010","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2014-05-01 13:26:22","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"848131745","short_id":"e0yen5","user_id":"194885","source":"api","message":"Best. Audience. Ever. #IoT Keynote at #codemotion #Java #JavaFX @Java","views":"0","width":"640","height":"480","size":"84666","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2014-04-12 11:22:59","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"843682917","short_id":"dyb1wl","user_id":"194885","source":"api","message":"Received @deitel #Java: How to Program book, adding great #Java8, #JavaFX &amp; Scene Builder content! @PaulDeitel","views":"0","width":"1224","height":"1632","size":"543638","type":"jpg","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2014-03-14 17:07:25","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null},{"id":"843057094","short_id":"dxxn0m","user_id":"194885","source":"api","message":"","views":"0","width":"495","height":"374","size":"313661","type":"png","status_id":"0","in_reply_to_status_id":"0","in_reply_to_user_id":"0","location":"","timestamp":"2014-03-10 18:42:44","application":null,"user":null,"video":null,"number_of_comments":"0","faces":null,"comments":null,"events":null,"tags":null}]});
+Twitpic.Template.store({"name":"realtime_image","content":"<div class=\"image-wrap\" data-id=\"<%= id %>\">\n  <div class=\"image\">\n    <img src=\"http:\/\/twitpic.com\/show\/large\/<%= short_id %>\" \/>\n  <\/div>\n\n  <div class=\"image-info\">\n    <h1><%= user.name %> <small>@<%= user.username %><\/small><\/h1>\n    <p><%= message %><\/p>\n  <\/div>\n<\/div>"});
+Twitpic.Template.store({"name":"comment","content":"<div class=\"comment clear\" data-id=\"<%=id%>\">\n\t<div class=\"avatar left\">\n\t\t<img src=\"<%=user.avatar_url.replace('normal', 'reasonably_small')%>\" \/>\n\t<\/div>\n\t<div class=\"comment-content right\">\n\t\t<div class=\"comment-header\">\n\t\t\t<h4 class=\"reset-height\">\n\t\t\t\t<a href=\"\/photos\/<%=user.username%>\"><%=user.username%><\/a> \n\t\t\t\t<small>\n\t\t\t\t\t<%=$.timeago(new Date(timestamp.replace('-', '\/')))%>\n\t\t\t\t\t<span class=\"comment-delete\"><img src=\"\/images\/delete.png\" \/> delete<\/span>\n\t\t\t\t<\/small>\n\t\t\t<\/h4>\n\t\t<\/div>\n\t\t<div class=\"comment-body\">\n\t\t\t<p><%=message_html%><\/p>\n\t\t<\/div>\n\t<\/div>\n<\/div>"});
+Twitpic.Template.store({"name":"facetag_editor","content":"<div id=\"facetag-editor\">\n  <div class=\"left\">\n    <div id=\"facetag-left-arrow\"><\/div>\n  <\/div>\n  <div class=\"right\">\n    <p><small>Name<\/small><\/p>\n    <input type=\"text\" name=\"name\" \/>\n\n    <p><small>Twitter Username<\/small><\/p>\n    <input type=\"text\" name=\"username\" value=\"@\" \/>\n\n    <p><input type=\"checkbox\" name=\"reply\" value=\"1\" checked=\"true\" \/> Post to Twitter<\/p>\n\n    <div id=\"facetag-save\">\n      <input type=\"button\" class=\"red-button\" value=\"Delete\" name=\"delete\" \/>\n      <input type=\"button\" class=\"grey-button\" value=\"Cancel\" name=\"cancel\" \/>\n      <input type=\"button\" class=\"grey-button\" value=\"Save\" name=\"save\" \/>\n    <\/div>\n  <\/div>\n<\/div>"});
+Twitpic.Template.store({"name":"event_tag","content":"<div class=\"event\">\n  <h5 class=\"reset-height\">\n  \t<a href=\"\/e\/<%=id.toString(36)%>\"><%=name%><\/a>\n  \t<small><%= hash_trigger ? \"#\" + hash_trigger : \"\" %><\/small>\n  <\/h5>\n<\/div>"});
+Twitpic.Template.store({"name":"search_photo","content":"<div class=\"user-photo-wrap\">\n  <div class=\"user-photo left\">\n    <a href=\"<%=link%>\">\n      <img src=\"<%=thumb%>\" \/>\n    <\/a>\n  <\/div>\n<\/div>"});
+Twitpic.Template.store({"name":"location_result","content":"<div class=\"location-result\" data-id=\"<%=id%>\">\n  <h4><%=name%><\/h4>\n  <p><%= typeof street_address !== \"undefined\" ? street_address : full_name %><\/p>\n<\/div>"});
+Twitpic.Template.store({"name":"facetag","content":"<div \n  class=\"facetag\" \n  data-id=\"<%=id%>\" \n  data-name=\"<%=typeof name !== 'undefined' ? name : ''%>\"\n  data-username=\"<%=typeof username !== 'undefined' ? username : ''%>\"\n  style=\"top:<%=top%>px;left:<%=left%>px;\">\n\n  <div class=\"facetag-inner\">\n    <% if (!isNew && canEdit) { %>\n    <p class=\"facetag-edit\"><strong>Edit?<\/strong><\/p>\n    <% } %>\n  <\/div>\n  <% if (typeof name !== \"undefined\") { %>\n  <div class=\"facetag-name\">\n    <%=name%>\n    <%= typeof username !== \"undefined\" && username !== null && username.length > 0 ? \"(@\" + username + \")\" : \"\" %>\n  <\/div>\n  <% } %>\n<\/div>"});
+Twitpic.Template.store({"name":"rotate","content":"<div id=\"rotate\">\n\t<div id=\"rotate-background\"><\/div>\n\t<div id=\"rotate-wrap\">\n\t\t<div id=\"rotate-controls\" class=\"clear\">\n\t\t\t<div class=\"rotate left\" data-dir=\"cc\">\n\t\t\t\t<img src=\"\/images\/hud-img-arrow-cc.png\" \/>\n\t\t\t\tRotate Left\n\t\t\t<\/div>\n\t\t\t\t\t\t<div class=\"rotate right\" data-dir=\"c\">\n\t\t\t\tRotate Right\n\t\t\t\t<img src=\"\/images\/hud-img-arrow.png\" \/>\n\t\t\t<\/div>\n\t\t<\/div>\n\t\t<div id=\"rotate-image\">\n\t\t\t<img src=\"\/show\/large\/<%=short_id%>\" \/>\n\t\t<\/div>\n\t<\/div>\n<\/div>\n"});
+Twitpic.Modal.store({"name":"upload","content":"\n<form id=\"upload-modal\" action=\"\/upload\/process\" method=\"post\" enctype=\"multipart\/form-data\">\n\t<input type=\"hidden\" name=\"form_auth\" value=\"fcbf7fb44d92d1c1ced259cea95ffa78245314bb\" \/>\n\t<div id=\"select-media\">\n\t\t<h4>Select photo or video<\/h4>\n\t\n\t\t<div id=\"media-upload-wrap\">\n\t\t\t<div id=\"media-upload\"><\/div>\n\t\t<\/div>\n\t\t\n\t\t<p id=\"upload-meta\"><small><b>\n\t\t\tReady to upload <span id=\"media-upload-name\"><\/span> (<span id=\"media-upload-size\"><\/span>) as <span id=\"media-upload-type\">\n\t\t<\/span><\/b><\/small><\/p>\n\t\t\n\t\t<p><small>We take GIF, JPG, & PNG images up to 10MB in size, and videos up to 3:00 in length in most formats.<\/small><\/p>\n\t\t<p><small>Having problems uploading? Try the <a href=\"\/upload\">simple uploader<\/a> instead.<\/small><\/p>\n\t<\/div>\n\t\n\t<div id=\"upload-caption\" class=\"upload-section\">\n\t\t<div class=\"clear\">\n\t\t\t<h4 class=\"left\">Caption<\/h4>\n\t\t\t<p class=\"right\"><span id=\"upload-chars-left\">114<\/span> <small>(twitter limit only)<\/small><\/p>\n\t\t<\/div>\n\t\t\n\t\t<textarea name=\"message\"><\/textarea>\n\t<\/div>\n\t\n\t<div id=\"upload-options\" class=\"upload-section\">\n\t\t<h4>Post Options<\/h4>\n\t\t<div>\n\t\t\t<label for=\"save_location\">\n\t\t\t\t<input type=\"checkbox\" name=\"save_location\" id=\"save_location\" checked=\"checked\" value=\"1\" \/> Set Location (if available)\n\t\t\t<\/label>\n\t\t<\/div>\n\n\t\t<h4>Share to<\/h4>\n\t\t\n\t\t<div id=\"share-options\">\n\t\t\t<label for=\"post_photo\"><input type=\"checkbox\" name=\"post_photo\" id=\"post_photo\" checked=\"checked\" value=\"1\" \/> Twitter<\/label>\n\n\t\t\t\t\t<\/div>\n\t\t\n\t<\/div>\n\t\n\t<div id=\"upload-submit\" class=\"clear\">\n\t\t<div class=\"left\">\n\t\t\t<div id=\"upload-progress-wrap\">\n\t\t\t\t<div id=\"upload-progress\"><\/div>\n\t\t\t<\/div>\n\t\t\t<p id=\"upload-progress-amount\" class=\"left\"><\/p>\n\t\t<\/div>\n\t\t<div class=\"right\">\n\t\t\t<input type=\"submit\" value=\"Upload\" class=\"grey-button\" id=\"upload-button\" \/>\n\t\t<\/div>\n\t<\/div>\n<\/div>\n\n"});
+</script>
+
+
+
+
+<!-- 5/21/14 v1 -->
+</head>
+<body>  
+	<div id="fb-root"></div>
+	
+	<!--<div id="announcement">
+	<p>Get the official <a href="http://itunes.apple.com/us/app/twitpic/id523490954">Twitpic for iPhone</a> or <a href="https://play.google.com/store/apps/details?id=com.twitpic">Twitpic for Android</a> apps</p>
+</div>-->
+
+<div id="navbar-wrap">
+	<div id="navbar" class="header">
+		<div id="navbar-main">
+			<div id="logo" class="left">
+				<a href="/"><img src="//dfo9svwruwoho.cloudfront.net/images/logo.png" alt="Twitpic" /></a>
+			</div>
+			
+			<div id="nav-links" class="right">
+				<ul class="inline-list">
+										<li><a href="/session/new">Login or Register</a></li>
+									</ul>
+			</div>
+		</div>
+	</div>
+</div>	
+			<div id="infobar-wrap">
+	<div id="infobar" class="clear ">
+		<div id="infobar-left" class="left">
+	<div id="infobar-user-avatar" class="left">
+		<a href="/photos/JavaFXpert">
+			<img src="http://pbs.twimg.com/profile_images/3688259607/472f4deae20cfb00a5f115b9a598cf69_reasonably_small.png" />
+		</a>
+	</div>
+	<div id="infobar-user-info" class="right">
+		<h2>JavaFXpert</h2>
+		<h4><a href="/photos/JavaFXpert">@JavaFXpert</a></h4>
+		<p>James Weaver - Java/JavaFX/IoT developer, author and speaker</p>
+	</div>
+</div>
+
+<div id="infobar-right" class="media-info right">
+			<div id="media-neighbors">
+	<div class="neighbors-control"><div class="control-left"></div></div>
+	
+	<span id="neighbor-images">
+		  <a href="/e6zfi9"><img src="https://d3j5vwomefv46c.cloudfront.net/photos/mini/858257217.jpg?1403797106" /></a>
+		  <a href="/e2tlij"><img src="https://d3j5vwomefv46c.cloudfront.net/photos/mini/851266603.png?1399154976" /></a>
+		  <a href="/e2nnv1"><img src="https://d3j5vwomefv46c.cloudfront.net/photos/mini/850989709.png?1399014571" /></a>
+		</span>
+	
+	<div class="neighbors-control"><div class="control-right"></div></div>
+			
+</div>	</div>	</div>
+	<div id="infobar-wedge">
+		<img src="//dfo9svwruwoho.cloudfront.net/images/info-wedge.png" />
+	</div>
+</div>		
+	<div id="content" class="content  clear">
+		
+  <div style="margin: 15px auto;width:730px; height:100px;">
+
+
+
+    <!-- SSL OFF PROTO: http CLIENT: 128.82.4.182 COUNTRY: US -->
+
+<!-- BEGIN JS TAG - ROW RS 70-30 < - DO NOT MODIFY -->
+
+<SCRIPT SRC="http://ib.adnxs.com/ttj?id=2614784&size=728x90&referrer=twitpic.com " TYPE="text/javascript"></SCRIPT>
+<!-- END TAG -->s<script type="text/javascript">
+var newIframeA = document.createElement('iframe');
+newIframeA.width = '1';
+newIframeA.height = '1';
+newIframeA.src = 'http://adserver.twitpic.com/impression/track?id=378';
+document.body.appendChild(newIframeA);
+</script>
+
+  </div>
+
+<div id="media-main" class="left-content">
+			<div id="media" style="width:600px;">
+  <div id="media-overlay">
+    <div>
+      <span id="rotate-open"><img src="/images/hud-img-arrow.png" /> Rotate photo</span>
+      <span>
+        <a href="/ec0kt8/full">
+          <img src="/images/hud-img-plus.png" /> View full size
+        </a>
+      </span>
+    </div>
+  </div>
+
+  <img src="https://d3j5vwomefv46c.cloudfront.net/photos/large/866708828.png?1411501271" alt="JavaOne 2014 Community Keynote #JavaOneCK agenda @steveonjava @java @JavaOneConf" style="width:600px;" />
+</div>
+	
+	<div id="media-caption">
+		<div id="media-stats" class="right">
+			<div class="media-stat">
+				<p><img src="/images/views-icon.png" alt="Views" />
+				692</p>
+			</div>
+			<div class="media-stat">
+				<p>10 days ago</p>
+			</div>
+		</div>
+
+		<p>
+			JavaOne 2014 Community Keynote <a href="/tag/JavaOneCK">#JavaOneCK</a> agenda <a class="twitter-username" href="http://twitpic.com/photos/steveonjava">@steveonjava</a> <a class="twitter-username" href="http://twitpic.com/photos/java">@java</a> <a class="twitter-username" href="http://twitpic.com/photos/JavaOneConf">@JavaOneConf</a>
+			<span id="facetag-text">
+			
+				
+				<span id="facetag-names">
+									</span>
+
+							</span>
+		</p>
+	</div>
+
+	<div id="media-comments">
+		<div id="comments">
+			
+			<h2>
+				<span id="num-comments">0</span>
+				Comments			</h2>
+
+							<div id="realtime-toggle" class="disabled" data-init="false">
+					<p><small>Realtime comments <span class="state">disabled</span></small></p>
+				</div>
+			
+			<div id="comment-wrap">
+						</div>
+		</div>
+	</div>
+</div>
+
+<div id="media-sidebar" class="right-content">
+
+	
+  <div class="ad-box" style="width:300px; height:250px">
+
+
+
+  
+<!-- BEGIN JS TAG - ROW RS 70-30 < - DO NOT MODIFY -->
+<SCRIPT SRC="http://ib.adnxs.com/ttj?id=2614784&size=300x250&referrer=twitpic.com” TYPE="text/javascript"></SCRIPT>
+<!-- END TAG --<script type="text/javascript">
+var newIframeA = document.createElement('iframe');
+newIframeA.width = '1';
+newIframeA.height = '1';
+newIframeA.src = 'http://adserver.twitpic.com/impression/track?id=114';
+document.body.appendChild(newIframeA);
+</script>
+
+
+  </div>
+	<!-- <div style="font-size:12px;color:#cacaca;font-weight: normal;"><a style="text-decoration:none;color:#cacaca;font-weight: normal;" href="http://advertise.twitpic.com">Advertise on Twitpic</a></div> -->
+
+	<div id="social-plugins">
+  <div id="social-twitter">
+    <a href="https://twitter.com/share" class="twitter-share-button" data-text="JavaOne 2014 Community Keynote #JavaOneCK agenda @steveonjava @java @JavaOneConf" data-via="TwitPic" data-related="TwitPic" data-count="vertical" data-url="http://twitpic.com/ec0kt8">Tweet</a>
+  </div>
+  
+  <div id="social-facebook">
+    <div class="fb-like" data-send="false" data-layout="box_count" data-width="60" data-show-faces="false"></div>
+  </div>
+    
+  <div id="social-addthis">
+    <div class="addthis_toolbox addthis_default_style ">
+      <a class="addthis_counter"></a>
+    </div>
+  </div>
+</div>	
+	<div class="sidebar-section">
+  <h3 class="reset-height">Embed this Photo</h3>
+  <p class="reset-height"><small>Copy & paste this code into your website</small></p>
+  <textarea class="photo-embed" readonly="true">&lt;a href=&quot;http://twitpic.com/ec0kt8&quot; title=&quot;JavaOne 2014 Community Keynote #JavaOneCK agenda @steveonjava... on Twitpic&quot;&gt;&lt;img src=&quot;http://twitpic.com/show/thumb/ec0kt8.png&quot; width=&quot;150&quot; height=&quot;150&quot; alt=&quot;JavaOne 2014 Community Keynote #JavaOneCK agenda @steveonjava... on Twitpic&quot;&gt;&lt;/a&gt;</textarea>
+</div>
+	
+<div class="sidebar-section">
+
+<h5>
+	Tags 
+		
+</h5>
+
+
+<div id="tags">
+	<span class="tag" data-id="92488010">
+	  <a href="/tag/javaoneck">#javaoneck</a>
+	  <span class="delete-tag">×</span>
+	</span>
+	</div>
+
+</div>
+
+			
+  <div class="ad-box" style="width:300px; height:250px">
+
+
+
+  
+<!-- BEGIN TECHNORATI MEDIA AD TAGS FOR Section TwitPic_2, Ad Size: Medium Rectangle (300x250) -->
+
+<script type="text/javascript">
+   document.write('<scri' + 'pt type="text/javascript" src="'
+   + (document.location.protocol == 'https:' ? 'https://uat-secure' : 'http://ad-cdn')
+   + '.technoratimedia.com/00/13/05/uat_30513.js?ad_size=300x250"></scri' + 'pt>');
+</script>
+<!-- END TECHNORATI MEDIA TAGS FOR Section TwitPic_2, Ad Size: Medium Rectangle (300x250) --><script type="text/javascript">
+var newIframeA = document.createElement('iframe');
+newIframeA.width = '1';
+newIframeA.height = '1';
+newIframeA.src = 'http://adserver.twitpic.com/impression/track?id=386';
+document.body.appendChild(newIframeA);
+</script>
+
+
+  </div>
+
+</div>
+
+
+	</div>
+	
+	<div id="footer">
+  <div class="left">
+    <p>&copy;2014 Twitpic Inc, All Rights Reserved</p>
+  </div>
+  <div class="right">
+    <p>
+      <a href="/">Home</a>
+      <a href="https://twitpic.zendesk.com">FAQ</a>
+      <a href="/contact.do">Contact</a>
+      <a href="http://dev.twitpic.com">API</a>
+      <a href="http://advertise.twitpic.com">Advertise</a>
+      <a href="/terms.do">Terms</a>
+      <a href="/privacy.do">Privacy</a>
+    </p>
+  </div>
+</div>
+
+<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="//connect.facebook.net/en_US/all.js#xfbml=1&appId=331538683530736"></script>
+
+  <script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+  <script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1618034-6");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+  </script>
+
+  <!-- Start Quantcast tag -->
+  <script type="text/javascript">
+  _qoptions={
+  qacct:"p-28dQY-2rVKMYI"
+  };
+  </script>
+  <script type="text/javascript" src="//secure.quantserve.com/quant.js"></script>
+  <noscript>
+  <img src="//secure.quantserve.com/pixel/p-28dQY-2rVKMYI.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+  </noscript>
+  <!-- End Quantcast tag -->
+
+
+
+
+
+<!-- Generated by web06 -->
+</body>
+</html>

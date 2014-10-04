@@ -1,0 +1,374 @@
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en" itemscope itemtype="http://schema.org/Article"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en" itemscope itemtype="http://schema.org/Article"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en" itemscope itemtype="http://schema.org/Article"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9" lang="en" itemscope itemtype="http://schema.org/Article">           <![endif]-->
+<!--[if (gt IE 9)|!(IE)]<!--><html class="no-js" lang="en" itemscope itemtype="http://schema.org/Article"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+<!--
+              .:+uuuuuuuuuuu+:.
+          ./sssssssssssssssssssss/-
+       ./aaaaaaaaaaaaaaaaaaaaaaaaaaa/.
+     .+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu+.
+   `/sssssssssssssssssssssssssssssssssss/
+  `aaaaaaaaaaaaa:-`       `-:aaaaaaaaaaaaa.
+ `uuuuuuuuuuu/.               ./uuuuuuuuuuu.
+ sssssssssss.                   .sssssssssss`
+-aaaaaaaaaa`                     `+aaaaaaaaa:
+uuuuuuuuuu.                       `uuuuuuuuuu
+ssssss-```                         ```-ssssss
+`       ....aaaaaaaaaaaaaaaaaaaaa....       `
+...+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu+...
+-ssssssssssssss+//-```                  `````
+ aaaaa+/:-`            ...aaaaaaaaaaaaaaaaaa.
+ `/-``        ..::uuuuuuuuuuuuuuuuuuuuuuuuu.
+        .:/+sssssssssssssssss-```      ````
+     /aaaaaaaaaaaaa+/:-``       ...aaaaaa
+     .+uuuuuuu/:-``        .-:/+uuuuuuu-
+       ./s/-`         -:+sssssssssss+.
+                  -/aaaaaaaaaaaaa+-`
+              .:+usausausausa+:]
+-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>Go on the record</title>
+
+    
+    <meta name="description" content="Add your name—go on the record in support of expanding economic opportunity in America.">
+    <link rel="canonical" href="http://www.barackobama.com/on-the-record/">
+    
+
+    <meta property="og:title" content="Go on the record">
+    <meta property="og:type" content="cause">
+    <meta property="og:url" content="http://www.barackobama.com/on-the-record/">
+    <meta property="og:image" content="https://secure.assets.bostatic.com/apps/madison/media/filer_public/2014/09/09/eco-090914-otr5fbopt_1.png">
+    <meta property="og:site_name" content="Organizing for Action">
+    <meta property="og:description" content="Add your name—go on the record in support of expanding economic opportunity in America.">
+    <meta name="robots" content="NOODP">
+
+    <meta name="twitter:card" content="summary_large_image">
+    
+    
+        <meta name="twitter:title" content="Go on the record">
+    
+    
+        <meta name="twitter:description" content="Add your name—go on the record in support of expanding economic opportunity in America.">
+    
+    
+        <meta name="twitter:image" content="https://secure.assets.bostatic.com/apps/madison/media/filer_public/2014/09/09/eco-090914-otr5tw.png">
+    
+
+    <meta itemprop="name" content="Organizing for Action">
+    <meta itemprop="image" content="https://secure.assets.bostatic.com/apps/madison/media/filer_public/2014/09/09/eco-090914-otr5fbopt_1.png">
+    <link rel="image_src" href="https://secure.assets.bostatic.com/apps/madison/media/filer_public/2014/09/09/eco-090914-otr5fbopt_1.png">
+    <meta name="thumbnail" content="https://secure.assets.bostatic.com/apps/madison/media/filer_public/2014/09/09/eco-090914-otr5fbopt_1.png"/>
+
+
+    
+
+
+    <meta name="twitter:site" content="@OFA">
+    <meta property="fb:page_id" content="203330919857759">
+    <meta property="fb:app_id" content="111399285589490">
+    <meta property="article:publisher" content="https://www.facebook.com/OFA" />
+
+    <link rel="publisher" href="https://plus.google.com/110031535020051778989">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="apple-touch-icon-precomposed" href="//secure.assets.bostatic.com/hydepark/images/touch-icon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//secure.assets.bostatic.com/hydepark/images/touch-icon@72x72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//secure.assets.bostatic.com/hydepark/images/touch-icon@114x114.png">
+
+    
+
+    <link rel="shortcut icon" href="//secure.assets.bostatic.com/hydepark/images/favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="//cloud.typography.com/7553052/630502/css/fonts.css" />
+    
+    <link rel="stylesheet" type="text/css" href="//secure.assets.bostatic.com/apps/madison/static/css-min/site/madison.css">
+    
+
+    <script>var _gaq=_gaq||[];_gaq.push(['_setAccount',"UA-30908-1"]);_gaq.push(['_setDomainName','barackobama.com']);_gaq.push(function(){function a(a){return(RegExp("(?:^|; )"+a+"=([^;]*)").exec(document.cookie)||[]).pop()}function b(a){_gaq.push(["_setCustomVar"].concat(a).concat(2))}location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi,function(a,c,d){"source"==c&&b([1,"Source",d])});a("msid")&&b([2,"mailing_send_id",""+(parseInt(a("msid"),16)^1438720643)]);b([5,"Logged In",""+!!a("PHPSESSID")]);b([3,"Has GUID",""+!!a("guid")]);b([4,"Has Spud",""+!!a("spud")])});_gaq.push(['_trackPageview']);_gaq.push(['_trackPageLoadTime']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+
+    <script src="https://secure.assets.bostatic.com/frontend/polyfills/vendors/modernizr.custom.32546.js"></script>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="//secure.assets.bostatic.com/apps/madison/static/js/jquery-1.7.0.min.js"><\/script>')</script>
+
+    <link rel="profile" href="http://microformats.org/profile/hcard">
+    <link rel="profile" href="http://microformats.org/profile/hcalendar">
+
+    
+
+    
+    
+
+<style>
+	#main {
+    background-color: #ffffff
+}
+@media screen and (min-width: 768px) {
+    #main {
+        background: #152e51
+    }
+    button.orange, a.button.orange, a.button:link.orange, a.button:visited.orange, a.button:active.orange, .btn.orange, .btn:visited.orange, .btn:active.orange, input[type=submit].orange, #share-body #invitationpage #submit_button.orange, #share-body #contact_importer_button_container #contact_importer_button.orange, .yui-panel-container #contact_importer_dialog .button-group button.orange {
+        color: #ffffff;
+        background-color: #ffcc35;
+    }
+    #main h1 {
+        background: url(https://secure.assets.bostatic.com/apps/madison/media/filer_public/2014/09/08/on-the-record_header_logo.png) no-repeat;
+        text-indent: -10000000px;
+        background-size: contain;
+        height: 130px;
+        text-align: center;
+		background-position: center;
+    }
+}
+
+.oldie #main h1 {
+		background: none;
+		text-indent: 0;
+		font-size: 60px!important;
+
+}
+</style>
+
+    
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script></head>
+
+<body class="no-hero full-bleed style-glass">
+    
+
+    <header id="action-bar" class="action-bar" role="banner">
+        <div class="row">
+            <div class="container">       
+                <nav class="logo-link">
+                    <a href="/" title="Organizing for Action Homepage" class="logo">Homepage</a>
+                    <a href="/" title="Organizing for Action Homepage" class="logo-small">Homepage</a>
+                </nav>
+                <ul class="top-tabs">
+                    <li class="top-tab"><a href="get-the-facts"><strong>Get the facts</strong></a></li>
+                    <li class="top-tab"><a href="get-the-latest"><strong>Get the latest</strong></a></li>
+                    <li class="top-tab"><a href="get-involved"><strong>Get involved</strong></a></li>
+                    <li class="tab tab-link"><a href="//store.barackobama.com/?source=home_page_main_nav"><strong>Get the Gear</strong></a></li>
+                </ul>
+                
+                <div>
+                    
+                </div>
+                
+            </div>
+        </div>
+    </header>
+
+    
+    <section id="main" role="main">
+        <div class="full-bleed-section">
+            <div class="container">
+                <div class="row">
+                    <div class="span10 offset1">
+    						
+
+
+<h1>
+    Go on the record
+</h1>
+
+
+<p>There are three big ways Congress can help expand economic opportunity right now&mdash;raising the minimum wage, reining in student loan debt, and making sure women are paid equally for equal work.
+</p>
+<p>Go on the record and make it clear where you stand&mdash;you'll be featured on OFA's record:
+</p>
+
+<form id="httpsmybarackobamacompagesgo-on-the-record" method="POST" action="https://my.barackobama.com/page/s/go-on-the-record" class="inline signup style-glass">
+<div class="row">
+
+    <div class="span5">
+    <p style="text-align: left"><strong>I SUPPORT:</strong></p>
+        <ol>
+	    	<li class="full">
+	    	<label for="custom-131922_0" class="faux-check selstate">
+	    	    <input id="custom-131922_0" name="custom-131922[0]" checked="checked" value="RAISING THE MINIMUM WAGE" type="checkbox">
+	    	    RAISING THE MINIMUM WAGE
+    		</label>
+        </li>
+        
+        
+            <li class="full">
+	    	<label for="custom-131922_1" class="faux-check selstate">
+                <input id="custom-131922_1" name="custom-131922[1]" checked="checked" value="EQUAL PAY FOR EQUAL WORK" type="checkbox">
+                EQUAL PAY FOR EQUAL WORK
+            </label>
+        </li>
+        
+        <li class="full">
+	    	<label for="custom-131922_2" class="faux-check selstate">
+                <input id="custom-131922_2" name="custom-131922[2]" checked="checked" value="REINING IN STUDENT LOAN DEBT" type="checkbox">            
+                REINING IN STUDENT LOAN DEBT
+            </label>
+        </li>
+        </ol>
+        
+    </div>
+    
+    <div class="span5">
+    <ol><br>
+        <li class="full"><label for="hero_firstnamehttpsmybarackobamacompagesgo-on-the-record">First Name</label><input type="firstname" name="firstname" value="" id="hero_firstnamehttpsmybarackobamacompagesgo-on-the-record" placeholder="First Name" ></li>
+        <li class="full"><label for="hero_lastnamehttpsmybarackobamacompagesgo-on-the-record">Last Name</label><input type="lastname" name="lastname" value="" id="hero_lastnamehttpsmybarackobamacompagesgo-on-the-record" placeholder="Last Name" ></li>
+		<li class="two-thirds"><label for="hero_emailhttpsmybarackobamacompagesgo-on-the-record">Email</label><input type="email" name="email" value="" id="hero_emailhttpsmybarackobamacompagesgo-on-the-record" required="" placeholder="Email" ></li>
+		<li class="third2"><label for="hero_ziphttpsmybarackobamacompagesgo-on-the-record">ZIP</label><input type="text" name="zip" value="" id="hero_ziphttpsmybarackobamacompagesgo-on-the-record" required="" placeholder="ZIP" ></li>
+        </ol>
+    </div>
+    
+     <div class="span10 offset0">
+     <hr>
+     </div>
+      <div class="span8 offset2">
+    <ol>
+		<li class="button">
+		    <button type="submit" class="orange button">Submit</button>
+		    	<input type="hidden" name="bp_load_counter" value="1"><input name="redirect_url" type="hidden" value="">
+    <input type="hidden" name="custom-131597[0]" value="">
+		</li>
+        </ol></center>
+    </div>
+    
+</div>
+</form>
+
+
+
+                    </div>
+                    <div class="">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <footer id="ft" class=" footer">
+        <div class="navs">
+            <div class="container">
+                
+                <div class="row">
+                    <nav class="span2 about">
+                        <p class="title">About</p>
+                        <ul>
+                            <li><a href="/about/" title="About Organizing for Action">Organizing for Action</a></li>
+                            <li><a href="/about/barack-obama/" title="About Barack Obama">Barack Obama</a></li>
+                            <li><a href="/faq/" title="Frequently Asked Questions">Frequently Asked Questions</a></li>
+                            <li><a href="/careers/" title="Careers">Careers</a></li>
+                            <li><a href="http://store.barackobama.com/?source=home_page_footer" title="Store">Store</a></li>
+                        </ul>
+                    </nav>
+                    <nav class="span2 connect">
+                        <p class="title">Connect</p>
+                        <ul>
+                            <li><a href="http://www.facebook.com/BarackObama" title="Facebook" target="_blank">Facebook</a></li>
+                            <li><a href="https://plus.google.com/+BarackObama/posts" title="Google+" target="_blank">Google+</a></li>
+                            <li><a href="http://www.twitter.com/barackobama" title="Twitter" target="_blank">Twitter</a></li>
+                            <li><a href="http://www.youtube.com/organizingforaction" title="YouTube" target="_blank">YouTube</a></li>
+                        </ul>
+                    </nav>
+                    <nav class="span2 related">
+                        <p class="title">Issues</p>
+                        <ul>
+                            <li><a href="/climate/" title="Climate">Climate</a></li>
+                            <li><a href="/gun-reform/" title="Gun violence prevention">Gun violence prevention</a></li>
+                            <li><a href="/obamacare/" title="Health care">Health care</a></li>
+                            <li><a href="/immigration/" title="Immigration">Immigration</a></li>
+                            <li><a href="/economy/" title="Jobs and the economy">Jobs and the economy</a></li>
+                            <li><a href="/women/" title="Stand with women">Stand with women</a></li>
+                        </ul>
+                    </nav>
+                    <nav class="span2">
+                        <p class="title">In loving memory <br>of Alex Okrent</p>
+                    </nav>
+                    <nav class="span2">
+                        <ul class="social-follows">
+                            <li>
+                                <a href="https://twitter.com/BarackObama" class="twitter-follow-button" data-show-count="false">Follow @BarackObama</a>
+                            </li>
+                            <li>
+                                <div class="fb-like" data-href="http://www.facebook.com/BarackObama" data-send="false" data-layout="button_count" data-width="50" data-show-faces="false"></div>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+                
+            </div>
+        </div>
+        <div class="disclaimers container">
+            
+            <div class="disclaimer-links">
+                <ul>
+                    <li><a href="/terms-of-service/" title="Terms of Service">Terms of Service</a></li>
+                    <li><a href="/privacy-policy/" title="Privacy Policy">Privacy</a></li>
+                    <li><a href="/contact-us/" title="Contact Us">Contact</a></li>
+
+                </ul>
+            </div>
+            <div class="disclaimer-license">
+                
+                
+                <small class="disclaimer">Paid for by Organizing for Action</small>
+                <small class="license">&copy; 2014 Organizing for Action. All&nbsp;Rights&nbsp;Reserved.</small>
+            </div>
+            
+        </div>
+    </footer>
+    <div id="fb-root"></div>
+    
+    
+    <script>window.loadOpenGraphAPI = false;</script>
+    
+
+    
+    <script src="https://secure.assets.bostatic.com/hydepark/js/core-2014-5-24-1730.min.js" data-js-base="https://secure.assets.bostatic.com" data-identity="https://login.barackobama.com" data-bsd="https://my.barackobama.com" data-www="http://www.barackobama.com"></script>
+    <script src="//secure.assets.bostatic.com/apps/madison/static/js/madison.min.js?v=20140820-1"></script>
+    
+
+    
+
+    
+    
+    
+
+
+
+
+<script type="text/javascript">
+	var signonSource  = $('input[name=source_codes]').val(),
+    $hiddenInput  = $('input[name=redirect_url]'),
+    successURL    = 'https://contribute.barackobama.com/donation/orgforaction/09/on-the-record.html';
+
+if (signonSource)  {
+    $hiddenInput.val( successURL + '?source=' + signonSource );
+}
+</script>
+
+
+
+
+
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T2MC"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T2MC');</script>
+    <!-- End Google Tag Manager -->
+    
+
+    
+
+    
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"agent":"js-agent.newrelic.com/nr-476.min.js","applicationTime":100,"queueTime":2,"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","transactionName":"YlAGNkpZW0pYUEVRClsaIhdWW0FQVl0eWwhGGxILXU9GA11WRVkMWUY=","licenseKey":"277d7e5183","applicationID":"3816732"}</script></body>
+</html>

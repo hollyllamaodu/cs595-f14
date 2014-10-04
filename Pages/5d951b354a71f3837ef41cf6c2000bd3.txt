@@ -1,0 +1,470 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>James Bach’s Blog  &raquo; Blog Archive   &raquo; How Not to Standardize Testing (ISO 29119)</title>
+	
+	<meta name="generator" content="WordPress 3.9.2" /> <!-- leave this for stats -->
+	<meta name="robots" content="noarchive" />
+
+	<link rel="stylesheet" href="http://www.satisfice.com/blog/wp-content/themes/james/style.css" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.satisfice.com/blog/feed" />
+	<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.satisfice.com/blog/feed/rss" />
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.satisfice.com/blog/feed/atom" />
+	<link rel="pingback" href="http://www.satisfice.com/blog/xmlrpc.php" />
+
+		<link rel='archives' title='August 2014' href='http://www.satisfice.com/blog/archives/date/2014/08' />
+	<link rel='archives' title='May 2014' href='http://www.satisfice.com/blog/archives/date/2014/05' />
+	<link rel='archives' title='April 2014' href='http://www.satisfice.com/blog/archives/date/2014/04' />
+	<link rel='archives' title='January 2014' href='http://www.satisfice.com/blog/archives/date/2014/01' />
+	<link rel='archives' title='December 2013' href='http://www.satisfice.com/blog/archives/date/2013/12' />
+	<link rel='archives' title='November 2013' href='http://www.satisfice.com/blog/archives/date/2013/11' />
+	<link rel='archives' title='September 2013' href='http://www.satisfice.com/blog/archives/date/2013/09' />
+	<link rel='archives' title='July 2013' href='http://www.satisfice.com/blog/archives/date/2013/07' />
+	<link rel='archives' title='March 2013' href='http://www.satisfice.com/blog/archives/date/2013/03' />
+	<link rel='archives' title='February 2013' href='http://www.satisfice.com/blog/archives/date/2013/02' />
+	<link rel='archives' title='July 2012' href='http://www.satisfice.com/blog/archives/date/2012/07' />
+	<link rel='archives' title='June 2012' href='http://www.satisfice.com/blog/archives/date/2012/06' />
+	<link rel='archives' title='April 2012' href='http://www.satisfice.com/blog/archives/date/2012/04' />
+	<link rel='archives' title='March 2012' href='http://www.satisfice.com/blog/archives/date/2012/03' />
+	<link rel='archives' title='February 2012' href='http://www.satisfice.com/blog/archives/date/2012/02' />
+	<link rel='archives' title='January 2012' href='http://www.satisfice.com/blog/archives/date/2012/01' />
+	<link rel='archives' title='December 2011' href='http://www.satisfice.com/blog/archives/date/2011/12' />
+	<link rel='archives' title='November 2011' href='http://www.satisfice.com/blog/archives/date/2011/11' />
+	<link rel='archives' title='October 2011' href='http://www.satisfice.com/blog/archives/date/2011/10' />
+	<link rel='archives' title='August 2011' href='http://www.satisfice.com/blog/archives/date/2011/08' />
+	<link rel='archives' title='July 2011' href='http://www.satisfice.com/blog/archives/date/2011/07' />
+	<link rel='archives' title='May 2011' href='http://www.satisfice.com/blog/archives/date/2011/05' />
+	<link rel='archives' title='March 2011' href='http://www.satisfice.com/blog/archives/date/2011/03' />
+	<link rel='archives' title='February 2011' href='http://www.satisfice.com/blog/archives/date/2011/02' />
+	<link rel='archives' title='January 2011' href='http://www.satisfice.com/blog/archives/date/2011/01' />
+	<link rel='archives' title='October 2010' href='http://www.satisfice.com/blog/archives/date/2010/10' />
+	<link rel='archives' title='August 2010' href='http://www.satisfice.com/blog/archives/date/2010/08' />
+	<link rel='archives' title='July 2010' href='http://www.satisfice.com/blog/archives/date/2010/07' />
+	<link rel='archives' title='June 2010' href='http://www.satisfice.com/blog/archives/date/2010/06' />
+	<link rel='archives' title='May 2010' href='http://www.satisfice.com/blog/archives/date/2010/05' />
+	<link rel='archives' title='March 2010' href='http://www.satisfice.com/blog/archives/date/2010/03' />
+	<link rel='archives' title='February 2010' href='http://www.satisfice.com/blog/archives/date/2010/02' />
+	<link rel='archives' title='January 2010' href='http://www.satisfice.com/blog/archives/date/2010/01' />
+	<link rel='archives' title='December 2009' href='http://www.satisfice.com/blog/archives/date/2009/12' />
+	<link rel='archives' title='November 2009' href='http://www.satisfice.com/blog/archives/date/2009/11' />
+	<link rel='archives' title='October 2009' href='http://www.satisfice.com/blog/archives/date/2009/10' />
+	<link rel='archives' title='September 2009' href='http://www.satisfice.com/blog/archives/date/2009/09' />
+	<link rel='archives' title='June 2009' href='http://www.satisfice.com/blog/archives/date/2009/06' />
+	<link rel='archives' title='May 2009' href='http://www.satisfice.com/blog/archives/date/2009/05' />
+	<link rel='archives' title='March 2009' href='http://www.satisfice.com/blog/archives/date/2009/03' />
+	<link rel='archives' title='February 2009' href='http://www.satisfice.com/blog/archives/date/2009/02' />
+	<link rel='archives' title='January 2009' href='http://www.satisfice.com/blog/archives/date/2009/01' />
+	<link rel='archives' title='November 2008' href='http://www.satisfice.com/blog/archives/date/2008/11' />
+	<link rel='archives' title='October 2008' href='http://www.satisfice.com/blog/archives/date/2008/10' />
+	<link rel='archives' title='May 2008' href='http://www.satisfice.com/blog/archives/date/2008/05' />
+	<link rel='archives' title='February 2008' href='http://www.satisfice.com/blog/archives/date/2008/02' />
+	<link rel='archives' title='December 2007' href='http://www.satisfice.com/blog/archives/date/2007/12' />
+	<link rel='archives' title='September 2007' href='http://www.satisfice.com/blog/archives/date/2007/09' />
+	<link rel='archives' title='August 2007' href='http://www.satisfice.com/blog/archives/date/2007/08' />
+	<link rel='archives' title='June 2007' href='http://www.satisfice.com/blog/archives/date/2007/06' />
+	<link rel='archives' title='May 2007' href='http://www.satisfice.com/blog/archives/date/2007/05' />
+	<link rel='archives' title='March 2007' href='http://www.satisfice.com/blog/archives/date/2007/03' />
+	<link rel='archives' title='December 2006' href='http://www.satisfice.com/blog/archives/date/2006/12' />
+	<link rel='archives' title='November 2006' href='http://www.satisfice.com/blog/archives/date/2006/11' />
+	<link rel='archives' title='October 2006' href='http://www.satisfice.com/blog/archives/date/2006/10' />
+	<link rel='archives' title='September 2006' href='http://www.satisfice.com/blog/archives/date/2006/09' />
+	<link rel='archives' title='July 2006' href='http://www.satisfice.com/blog/archives/date/2006/07' />
+	<link rel='archives' title='June 2006' href='http://www.satisfice.com/blog/archives/date/2006/06' />
+	<link rel='archives' title='April 2006' href='http://www.satisfice.com/blog/archives/date/2006/04' />
+	<link rel='archives' title='February 2006' href='http://www.satisfice.com/blog/archives/date/2006/02' />
+	<link rel='archives' title='November 2005' href='http://www.satisfice.com/blog/archives/date/2005/11' />
+	<link rel='archives' title='August 2005' href='http://www.satisfice.com/blog/archives/date/2005/08' />
+	<link rel='archives' title='July 2005' href='http://www.satisfice.com/blog/archives/date/2005/07' />
+	<link rel='archives' title='December 2004' href='http://www.satisfice.com/blog/archives/date/2004/12' />
+	<link rel='archives' title='November 2004' href='http://www.satisfice.com/blog/archives/date/2004/11' />
+	<link rel='archives' title='July 2004' href='http://www.satisfice.com/blog/archives/date/2004/07' />
+	<link rel='archives' title='June 2004' href='http://www.satisfice.com/blog/archives/date/2004/06' />
+	<link rel='archives' title='February 2004' href='http://www.satisfice.com/blog/archives/date/2004/02' />
+	<link rel='archives' title='January 2004' href='http://www.satisfice.com/blog/archives/date/2004/01' />
+	<link rel='archives' title='December 2003' href='http://www.satisfice.com/blog/archives/date/2003/12' />
+	<link rel='archives' title='November 2003' href='http://www.satisfice.com/blog/archives/date/2003/11' />
+
+	<link rel="alternate" type="application/rss+xml" title="James Bach’s Blog &raquo; How Not to Standardize Testing (ISO 29119) Comments Feed" href="http://www.satisfice.com/blog/archives/1464/feed" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.satisfice.com/blog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.satisfice.com/blog/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Let&#8217;s test at Let&#8217;s Test' href='http://www.satisfice.com/blog/archives/1456' />
+<meta name="generator" content="WordPress 3.9.2" />
+<link rel='canonical' href='http://www.satisfice.com/blog/archives/1464' />
+<link rel='shortlink' href='http://www.satisfice.com/blog/?p=1464' />
+<link rel="stylesheet" type="text/css" href="http://www.satisfice.com/blog/wp-content/plugins/wp-recaptcha/recaptcha.css" /></head>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-855968-1";
+urchinTracker();
+</script>
+<body>
+
+<div id="page">
+<div id="header">
+	
+<div id="title"><a href="http://www.satisfice.com/blog">James Bach’s Blog</a></div>
+<div id="description">The Consulting Software Tester</div>
+<img src="http://www.satisfice.com/images/arrow.gif"></a>
+<a href="http://www.satisfice.com">Satisfice Inc.</a>
+</div>
+<hr />
+	<div id="content" class="widecolumn">
+				
+  	
+		<div class="navigation">
+			<div class="alignleft">&laquo; <a href="http://www.satisfice.com/blog/archives/1456">Let&#8217;s test at Let&#8217;s Test</a></div>
+			<div class="alignright"></div>
+		</div>
+	
+		<div class="post">
+
+                     <div class="main">
+
+			<h2 id="post-1464"><a href="http://www.satisfice.com/blog/archives/1464" rel="bookmark" title="Permanent Link: How Not to Standardize Testing (ISO 29119)">How Not to Standardize Testing (ISO 29119)</a></h2>
+	
+
+                        <div class="text">
+
+			<div class="entrytext">
+				<p>Many years ago I took a management class. One of the exercises we did was on achieving consensus. My group did not reach an agreement because I wouldn&#8217;t lower my standards. I wanted to discuss the matter further, but the other guys grew tired of arguing with me and declared &#8220;consensus&#8221; over my objections. This befuddled me, at first. The whole point of the exercise was to reach a common decision, and we had failed, by definition, to do that&#8211; so why declare consensus at all? It&#8217;s like getting checkmated in chess and then declaring that, well, you still won the part of the game that you cared about&#8230; the part before the checkmate.</p>
+<p>Later I realized this is not so bizarre. What they had effectively done is ostracize me from the team. They had changed the players in the game. The remaining team did come to consensus. In the years since, I have found that changing the boundaries or membership of a community is indeed an important pillar of consensus building. I have used this tactic many times to avoid unhelpful debate. It is one reason why I say that I&#8217;m a member of the Context-Driven School of Testing. My school does not represent all schools, and the other schools do not represent mine. Therefore, we don&#8217;t need consensus with them.</p>
+<p><strong>Then what about ISO 29119?</strong></p>
+<p>The ISO organization claims to have a new standard for software testing. But ISO 29119 is not a standard for testing. It cannot be a standard for testing.</p>
+<p>A standard for testing would have to reflect the values and practices of the world community of testers. Yet, the concerns of the Context-Driven School of thought, which has been in development for at least 15 years have been ignored and our values shredded by this so-called standard and the process used to create it. They have done this by excluding us. There are two organizations explicitly devoted to Context-Driven values (AST and ISST) and our community holds several major conferences a year. Members of our community speak at all the major practitioners conferences, and our ideas are widely cited. Some of the most famous testers in the the world, including me, are Context-Driven testers. We exist, and together with the Agilists, we are the source of nearly every new idea in testing in the last decade.</p>
+<p>The reason they have excluded us is that they know we won&#8217;t agree to any simplistic standard based on templates or simple formulae. We know those things look pretty but they don&#8217;t help. If ISO doesn&#8217;t exclude us, they worry they will never finish. They know we will challenge their evidence, and even their ethics and basic competence. This is why I say the craft is not ready for standards. It will be years before all the recognized experts in testing can come together and agree on anything substantial.</p>
+<p>The people running the ISO effort know exactly who we are. I personally have had multiple public debates with Stuart Reid, on stage. He cannot pretend we don&#8217;t exist. He cannot pretend we are some sort of lunatic fringe. Tens of thousands of testers have watched my video lectures or bought my books. This is not a case where ISO can simply declare us to be outsiders.</p>
+<p><strong>The Burden of Proof</strong></p>
+<p>The Context-Driven community stands for excellence in testing. This is why we must reject this depraved attempt by ISO to grab power and assert control over our craft. Our craft is still an open marketplace of ideas, and it is full of strong debates. We must protect that marketplace and allow it to evolve. I want the fair chance to put my competitors out of business (or get them to change their business) with the high quality of my work. Context-Driven testing has been growing in strength and numbers over the years. Whereas this ISO effort appears to be a job protection program for people who can&#8217;t stomach debate. They can&#8217;t win the debate so they want to remake the rules.</p>
+<p>The burden of proof is not on me or any of us to show that the standard is wrong, nor is it our job to make it right. The burden is on those who claim that the craft can be standardized to study the craft and recognize and resolve the deep differences among us. Failing that, there can be no ethical or rational basis for standardization.</p>
+<p>This blog post puts me on record as opposing the ISO 29119 standard. Together with my colleagues, we constitute a determined and sustained and principled opposition.</p>
+	
+					
+				<p class="postmetadata alt">
+					<small>
+						This entry was posted
+						 
+						on Monday, August 25th, 2014 at 12:15 am						and is filed under <a href="http://www.satisfice.com/blog/archives/category/certification" title="View all posts in Certification" rel="category tag">Certification</a>, <a href="http://www.satisfice.com/blog/archives/category/context-driven-testing" title="View all posts in Context-Driven Testing" rel="category tag">Context-Driven Testing</a>, <a href="http://www.satisfice.com/blog/archives/category/critique" title="View all posts in Critique" rel="category tag">Critique</a>, <a href="http://www.satisfice.com/blog/archives/category/important" title="View all posts in Important!" rel="category tag">Important!</a>.
+						You can follow any responses to this entry through the <a href='http://www.satisfice.com/blog/archives/1464/feed'>RSS 2.0</a> feed. 
+						
+													You can skip to the end and leave a response. Pinging is currently not allowed.
+			
+												
+					</small>
+				</p>
+	
+			</div>
+
+                        </div>
+
+                        </div>
+
+		</div>
+		
+	
+<!-- You can start editing here. -->
+
+	<h3 id="comments">12 Responses to &#8220;How Not to Standardize Testing (ISO 29119)&#8221;</h3> 
+
+	<ol class="commentlist">
+
+	
+		<li class="alt" id="comment-542544">
+			<cite><a href='http://clarotesting.wordpress.com/2013/11/12/testing-standards-can-we-do-better/' rel='external nofollow' class='url'>James Christie</a></cite> Says:
+						<br />
+
+			<small class="commentmetadata"><a href="#comment-542544" title="">August 25th, 2014 at 1:53 am</a> </small>
+
+			<p>Thanks James. This sort of contribution is important. You are talking about exactly the problem that struck me when I looked closer into what ISO were doing. ISO has clear rules about the need to achieve consensus, which is defined as &#8220;general agreement, characterized by the absence of sustained opposition… by any important part of the concerned interests”.</p>
+<p>The working group attempted to resolve the need for consensus, as you say, by defining the opponents as irrelevant. The Context Driven School, in their eyes, is not an &#8220;important part of the concerned interests&#8221;.</p>
+<p>That stance might look plausible to people who know nothing about the testing profession, but it doesn&#8217;t bear a moment&#8217;s scrutiny from anyone who understands how testing has progressed over the last couple of decades.</p>
+<p>The ISO 29119 working group might claim that the need for consensus applied only to the fine detail being discussed by those who were already committed in principle to a standard in that form. That stance would assume that all reasonable, professional testers were agreed on the need for ISO 29119. This would be a fine example of a circular argument and would lack any serious credibility. How can a standard be generally applicable in a diverse profession when the only people who developed it were from a single faction? How can consensus apply only to those who were already committed to agreeing about the big important issues?</p>
+<p>So, what is ISO going to do? Will it allow the ISO 29119 working group to ignore ISO&#8217;s own rules? Will it continue to pretend that consensus has been achieved when that is quite obviously not the case? Or will it concede? It is a difficult problem for them, but it is a problem entirely of their own making.</p>
+
+		</li>
+
+	
+	
+		<li class="" id="comment-542546">
+			<cite><a href='http://annie.rydholm.org' rel='external nofollow' class='url'>Annie Rydholm</a></cite> Says:
+						<br />
+
+			<small class="commentmetadata"><a href="#comment-542546" title="">August 25th, 2014 at 4:02 am</a> </small>
+
+			<p>Hi James,</p>
+<p>Today I got curious about ISO/IEC/IEEE 29119 and why it seems to make some testers I know (of) very upset. I almost bought it since I am dying to know what&#8217;s in it! In my mind I was sitting with the paper while trying to make sense of each and every sentence in it. I wanted proof that it was good or bad for me as a tester!</p>
+<p>Here&#8217;s about the time when I ended up on this page to read your blog and stopped feeling the urge to go buy the standard. I also came to think of the time I tried to use IEEE-829 to write a test plan (ISTQB class told me to) for a customer who asked for a test plan. It turned out that they didn&#8217;t care at all about my test plan because what they wanted help with was the actual testing. (To get ideas on how help them with the actual testing I got a good help from satisfice.com thank you very much!).</p>
+<p>What really caught my interest here was what you write about &#8220;The Burden of Proof&#8221; and I don&#8217;t fully understand it. I am more curious about what you mean with &#8220;The burden of proof is not on me or any of us to show that the standard is wrong, nor is it our job to make it right.&#8221; If you don&#8217;t mind, please help me to understand how you motivate this.</p>
+<p><em>[James' Reply: "Burden of proof" is a philosophical idea. It refers to who is required to make the case. For instance, if you claim that I stole money from you, I am not required to prove that I didn't. The burden is on you to show that I did. And if you claim that there are chickens on Mars, I am not obliged to accept it as true unless you provide sufficient evidence. In fact if you claim that there are definitely NOT chickens on Mars, you still have a burden of proof (albeit an easy one to attain). Only if you say "I don't know whether or not there are chickens on Mars" is there no burden of proof on you, because you are reporting an internal mental state.</p>
+<p>If somebody claims that they have a standard that covers the work of all software testers, they have a burden to demonstrate that their standard is acceptable to credible people in the craft. It's not like these standardizers were elected to represent us and can commit us to standards without consultation. Nobody elected them. They have no special standing.]</em></p>
+<p>You also wrote &#8220;The burden is on those who claim that the craft can be standardized to study the craft and recognize and resolve the deep differences among us.&#8221; Why is that?<br />
+<em><br />
+[James' Reply: Because that is a claim they are making about US, Annie! They can't simply presume to know us, can they? We don't presume that they understand us and how we work, do we?]<br />
+</em><br />
+Best regards,<br />
+Annie Rydholm</p>
+
+		</li>
+
+	
+	
+		<li class="alt" id="comment-542551">
+			<cite><a href='https://twitter.com/girlstest2' rel='external nofollow' class='url'>Sarah Glanville</a></cite> Says:
+						<br />
+
+			<small class="commentmetadata"><a href="#comment-542551" title="">August 26th, 2014 at 3:28 am</a> </small>
+
+			<p>I feel so strongly about ISO29119! I started my career trying to follow standards and living by ISTQB rules &#8211; it was when I stepped away from this and stopped fighting against my brain which was desperate to do some thinking that I think I became a better tester. Not only a better tester but one with some actual integrity. Adding rules to the existing state of confusion is going to slow even more testers down in &#8216;discovering themselves&#8217;. </p>
+<p><em>[James' Reply: Congratulations on your birth as a thinking tester.]</em></p>
+<p>I really don&#8217;t understand how you could get a group of people together in a room (or a metaphorical room) to discuss how to make things better and come up with something like this. The idea that we should use the same &#8216;best practices&#8217; no matter what the organisation, no matter what the project, no matter the mix of testers (I could go on) is laughable.<br />
+I only have one best practice that I will follow religiously &#8211; I hire intelligent testers who can think for themselves to actually assess the project they are on and do what they think is best.<br />
+Do you remember Esperanto? It was a language that was &#8216;invented&#8217; that you could use anywhere because all countries would use it as their second language to create a universal language&#8230;.sounds ridiculous and never caught on? Surprising&#8230; (although I think some people still learn it just incase, sounds familiar)</p>
+<p><em>[James' Reply: Mi parolas Esperente, iomete. La hotelo estas luksa kaj grandaj...]</em></p>
+<p>Thanks for the post, it is reassuring to see so many testers agreeing on this topic!</p>
+<p>Sarah (@girlstest2)</p>
+
+		</li>
+
+	
+	
+		<li class="" id="comment-542553">
+			<cite><a href='http://cowboytesting.wordpress.com/' rel='external nofollow' class='url'>Curtis Stuehrenberg</a></cite> Says:
+						<br />
+
+			<small class="commentmetadata"><a href="#comment-542553" title="">August 26th, 2014 at 8:28 am</a> </small>
+
+			<p>@JC &#8211; They will do what they have always done and simply proceed with their stated plan as it stands.  If you look at the principals involved they all have a vested interest in perpetuating certain myths about software testing and what constitutes professionalism and &#8220;best practices&#8221; within it.  These myths include but are not limited to regulatory compliance, the role of V&amp;V activities, and the promulgation of command and control structures for cost savings.  Just as with the ISTQB BOK the framers of this &#8220;standard&#8221; have apparently gone out of their way to ensure the documents are so arcane as to require specialized instruction and coaching if you wish to adhere.  It also just so happens many of them offer this sort of service either as a primary means of income or as a supplementary income source.</p>
+<p>In order to sell this idea and thereby sell their services, they must convince the people with the checkbooks they have the right of it.  If they come out and say it is but one of several methods for testing software many of those checkbooks are likely to snap closed.  In order to keep the pyramid growing and the cash flowing upward they MUST make the claim they are the keepers of the true knowledge and insight.  Anyone else can be branded a heretic or an apostate or a hysteric or simply foolish.</p>
+<p>@James &#8211; Evocative as always.  I think we&#8217;ve both done this and had this done to us in our professional careers.  It irritates me to no end when the snake oil salesmen and saleswomen with large advertising budgets pollute my personal work and reputation.  I&#8217;ve had customers adamantly insist I be [insert standard] compliant and be able to show said compliance while working.  More often than not these same clients had no idea what that meant since they themselves had never read the documents.  All they knew is there was some sort of international standard out there and they wanted to make sure anything they did was compliant with it since they were sort of afraid of admitting they didn&#8217;t know what it was they really wanted from me.  I&#8217;ve had commissioned articles refused because they were critical of organizations who either directly advertised or whose members were major buyers of advertisements.  I&#8217;m glad there is a growing organization forming to fight this pyramid scheme.  I only wish I could have been there at CAST this year as I had originally planned.</p>
+<p>I didn&#8217;t attend because my company sponsor pulled their backing at the last minute.  The stated reason was essentially that the development engineer had never heard of CAST.  They suggested I attend one of the STAR conferences instead and perhaps get some training on the ISTQB while there.</p>
+<p><em>[James' Reply: In the words of Bugs Bunny, "What a maroon!"]</em></p>
+
+		</li>
+
+	
+	
+		<li class="alt" id="comment-542559">
+			<cite>Gokul</cite> Says:
+						<br />
+
+			<small class="commentmetadata"><a href="#comment-542559" title="">August 28th, 2014 at 9:05 am</a> </small>
+
+			<p>I was wondering what took you so long to criticize this new standard! </p>
+<p><em>[James' Reply: As I get older I am trying to get my students to take up the job of saving the world.]</em></p>
+<p>I think it is OK to have a rule book and then we also break the rules like real testers.</p>
+<p><em>[James' Reply: Whose rule book? My rule book?]</em></p>
+<p>  You may want to clarify if you are just disagreeing with the Test Process and Documentation part of the standard or if you are against all parts of the standards.</p>
+<p><em>[James' Reply: I'm not disagreeing with the standard... THERE IS NO STANDARD. In order for me to disagree with it, it would have to first exist. What exists is a bunch of ignorant opinions from shadowy people.]</em></p>
+<p> In my opinion some part of the standard is still good to have since it gives a base definitions for testing and few test design techniques.</p>
+<p><em>[James' Reply: That is not an argument for it being good. You can't say that a document should be a standard because it has definitions in it. Please have a higher bar for your craft than that! I have definitions, too. Why don't you call my body of work a standard?]</em></p>
+<p> It will help fresh grads to get introduced to testing.</p>
+<p><em>[James' Reply: That's terrible! We don't want fresh grads getting introduced to testing on the false belief that this "standard" represents our craft.]</em></p>
+<p> When the word Standard is added, it obviously brings in more attention to the fresh grads who wants to start from basics (believe me&#8230;.when i say grab and read a book on testing techniques people hardly listen, but when i say go and read this ISO standard they mostly make the attempt).<br />
+<em><br />
+[James' Reply: That's why we have to discredit that junk.]</em></p>
+<p> I have also interviewed many ISTQB certified testers who are not worth employable as testers. It&#8217;s sad part that not may universities teach the testing ideas in most part of the world. So i think, its also an important responsibility for the senior testers to introduce the fresh testers with the context driven testing approach(like my seniors did). People who deserve to be good testers will start appreciating context driven testing as they mature in the art. It doesn&#8217;t matter if we are being a good cop or bad cop, what matters is if we are able to nail down the tough culprits (Defects) for which we are being paid for!</p>
+
+		</li>
+
+	
+	
+		<li class="" id="comment-542560">
+			<cite><a href='http://testitquickly.com' rel='external nofollow' class='url'>Alexei Lupan</a></cite> Says:
+						<br />
+
+			<small class="commentmetadata"><a href="#comment-542560" title="">August 29th, 2014 at 2:47 am</a> </small>
+
+			<p>James, where can be downloaded the debated ISO 29119?</p>
+<p>At <a href="http://www.softwaretestingstandard.org/" rel="nofollow">http://www.softwaretestingstandard.org/</a> I found only a table of contents with no details.</p>
+<p>Aha, found it, it requires $194 for a copy. Damn.</p>
+<p><em>[James' Reply: This is part of what we mean by "rent-seeking." ISO first seeks to declare an invalid standard, then they force us to pay them money to learn about the standard, whether that be to critique it or comply with it.]</em></p>
+
+		</li>
+
+	
+	
+		<li class="alt" id="comment-542561">
+			<cite>Yehuda Miller</cite> Says:
+						<br />
+
+			<small class="commentmetadata"><a href="#comment-542561" title="">August 29th, 2014 at 4:16 am</a> </small>
+
+			<p>Gokul: &#8220;when i say grab and read a book on testing techniques people hardly listen&#8221; in this case maybe tell them to pick up a book called &#8220;The Agile Samurai&#8221;. It&#8217;s a short read and inspires thinking, rather than NOT thinking.</p>
+<p>&#8220;It’s sad part that not may universities teach the testing ideas in most part of the world.&#8221; I would disagree with this. EVERY university, regardless of a students declared major or course of study, teaches you how to think. And thinking is our craft.</p>
+<p>James, thank you so much for this blog and for your work to promote thinking in testing. My previous manager very much promoted brainless &#8220;testing&#8221;. While under his tutelage I obtained the ISTQB foundation certification and I&#8217;m quite embarrassed to even talk about it. The more I think about it the more I realize how useless it is. &#8220;Let&#8217;s all make sure we are only looking at a problem from a single viewpoint so as to avoid finding issues that may come up from other viewpoints.&#8221;</p>
+<p><em>[James' Reply: We forgive you. Lots of testers go through this.]</em></p>
+
+		</li>
+
+	
+	
+		<li class="" id="comment-542594">
+			<cite>Jessica</cite> Says:
+						<br />
+
+			<small class="commentmetadata"><a href="#comment-542594" title="">September 8th, 2014 at 6:33 am</a> </small>
+
+			<p>As I read this blog and become more informed about what this ISO 29119 &#8220;standard&#8221; is doing, it occurs to me that prescribed standards are one of the reasons I left the field of education and entered technology, specifically software testing. The human mind is still, by far, the most powerful and interesting tool that exists to interact with, explore, and test software. The nuance of the human mind provides us as thinking, context-driven testers, the unique ability to learn about our environment and make critical decisions based upon our awareness of the environment. To me, it is not unlike a continuation of the evolution of thought, observation, and decision making that has brought humanity this far.</p>
+<p>I will not make a diatribe here about the multiple comparisons (and failures) that I imagine happening in software testing if ISO 29119 is indeed accepted as &#8220;standard.&#8221; In ten years as an educator in two different states (in schools serving underprivileged children), I watched as an effort toward standardization of content attempted to (and in some cases completely succeeded) in destroying teacher and student creativity at the expense of something &#8220;looking pretty&#8221; for outsiders. If this happens, as I said, I anticipate software testing and software testers going in the direction of education in the United States: a pretty book, full of ideal standards, that kill creativity, innovation, and exploration (substance) for the sake of shallow agreement.<br />
+<em><br />
+[James' Reply: Thank you, Jessica. Of course, I bounced out of the school world after only 11 years in it. I couldn't fit into their standard ways.]</em></p>
+
+		</li>
+
+	
+	
+		<li class="alt" id="comment-542608">
+			<cite>Gokul</cite> Says:
+						<br />
+
+			<small class="commentmetadata"><a href="#comment-542608" title="">September 9th, 2014 at 4:14 am</a> </small>
+
+			<p>I think it is OK to have a rule book and then we also break the rules like real testers.</p>
+<p>[James' Reply: Whose rule book? My rule book?]<br />
+[Gokul] I meant the standard as the rule book because if the organization will be evaluated for their testing standard against a check list which is pathetic! It will be fun to watch organization following all these standards and still having customer complaints(this is what i meant by breaking their rules)!<br />
+<em><br />
+[James' Reply: This does not answer my question. Whose rule book? Everything "standard" is produced by someone. Either that is adopted by other people or it isn't. The Metric system is a standard, but so is the Imperial system. We don't follow the metric system in the USA. It's not our standard.</p>
+<p>I see your point that even following those rules won't help them, but I don't want to let some random child create standards for me just because it's good for their education to fail.]</em></p>
+<p>In my opinion some part of the standard is still good to have since it gives a base definitions for testing and few test design techniques.<br />
+[James' Reply: That is not an argument for it being good. You can't say that a document should be a standard because it has definitions in it. Please have a higher bar for your craft than that! I have definitions, too. Why don't you call my body of work a standard?]<br />
+[Gokul] I like this comment! I think they are using the word standard just to reap commercial benefits for themselves.</p>
+<p>“It’s sad part that not may universities teach the testing ideas in most part of the world.”<br />
+[Miller.Y]I would disagree with this. EVERY university, regardless of a students declared major or course of study, teaches you how to think. And thinking is our craft.<br />
+[Gokul] It is not just about thinking, its also about thinking as a tester, followed by documenting and justifying your thought process (which is important for business while working in regulated environment like mine). How many times have you said this to yourself that &#8220;why this developer is not thinking about a simple scenario and end-up providing a defective software to you to test!&#8221; Does it mean the developer had not taken a course of study? I think that is what is missing in our university teaching system today.</p>
+
+		</li>
+
+	
+	
+		<li class="" id="comment-542630">
+			<cite>Andrew Robins</cite> Says:
+						<br />
+
+			<small class="commentmetadata"><a href="#comment-542630" title="">September 11th, 2014 at 12:28 pm</a> </small>
+
+			<p>Hi James,</p>
+<p>So when do you think that the ISO will introduce their new standard for writing novels? There must be hundreds of big name authors who would love to lend credibility to such an exercise, and I think that we can all agree that the process of writing novels would benefit from standardisation. After all this would help new writers get started, and give them a common language when speaking amongst themselves, and dealing with agents and publishers.</p>
+<p>I think that we can all agree that the above paragraph sounds absolutely ridiculous, but after reading around this topic for the past couple of weeks, these seem to be the arguments that are being trotted out by those in favour of this standard.</p>
+<p>These arguments do not stand up to even basic scrutiny if you think of testing as a creative process.</p>
+
+		</li>
+
+	
+	
+		<li class="alt" id="comment-542667">
+			<cite>Jinnah</cite> Says:
+						<br />
+
+			<small class="commentmetadata"><a href="#comment-542667" title="">September 15th, 2014 at 10:24 pm</a> </small>
+
+			<p>ISO 29119 looks like to be another of ISOs effort to bring in a standard for testing like all its other standards which are achieved by organizations through certifications only(most of the time). Like James said, it increases the burden of proof/evidence  and the documentation efforts would be higher than than the effort spent on intelligent testing. In my last job, apart from testing,I was also an MR for the ISO 9001 QMS and found it to be taxing and really did not see any big enthusiasm from any of the PMs/TLs to follow the same other than merely for the sake of Audits and certification. The process compliance was always seen as an additional project overhead. There was always a big gap between what they actually did to produce quality work and what they were supposed to do as per defined process in which they did not find any value..</p>
+<p>Then I turned to the other alternative school of thought for testing and is recommending context based testing to clients who really listen. Being in  a service industry, sometimes we are forced to follow what our clients believe in and mandate as they are all aware of only what they see as &#8220;International standards&#8221;.</p>
+<p>And , actually from my experience, not everyone  of the clients really check whether you really follow the process in every phase of Development / testing for their projects. They are satisfied as long as they see you as CMMI certified/ ISO certified etc..Only we are burdened with additional efforts of documentations, Audits, Proofs, etc..</p>
+<p>This 29119 has to be stopped as ISO as an Organization may not be the Industry experts on testing to define the standards on their own. If this is being implemented without consensus, then it would become a classic example of why processes always fail. Whenever a process is implemented without the buy in from those who are expected to use/execute the process and when the value adds from the process is not visible to them, a process would certainly fail&#8230;</p>
+
+		</li>
+
+	
+	
+		<li class="" id="comment-542671">
+			<cite>jaiwanth</cite> Says:
+						<br />
+
+			<small class="commentmetadata"><a href="#comment-542671" title="">September 17th, 2014 at 1:11 am</a> </small>
+
+			<p>What this ISO aims at is creating a monopoly where only companies which have money but cannot compete goes and purchase these certificates to entice new customers.If you can&#8217;t beat competition kill it seems to be the mantra.<br />
+My take :<br />
+Do software testing exist even without these so called standards? Answer is BIGGGG YESSSSS ..<br />
+Do these standards prescribed work for all sets of organizations ,for instance I know of a company which excels in testing Gaming software,they don&#8217;t have any standards which are prescribed by this ISO body. The customers are happy with the end result of their testing and that is all that matters and not the test case or metrics or templates or over documentatioon.How on earth can anyone doucment Gaming software or rather prepare test steps or rather for flight simulation software to just name a few.<br />
+Testing is an art and a craft honed by skilled craftsmen which doesn&#8217;t require certifcates but what it requires is passion to test which is ampy exemplified by many many great tester&#8217;s whom I have admired and on whose blogs I write or comment on.<br />
+If following certain set of standards (so called standards) prescribed by ISO body could result in a defect free quality software then shouln&#8217;t there be a standard for developer&#8217;s too so that they give a defect free code.<br />
+This ISO can never ever work for simple reason that no user of a software /hardware or anything worth it will read a user manual on how to use the same.<br />
+So the ISO could well try to implement standard USER MANUAL for user to read and comply with disclaimer that aything he/she does beyond what is stated in USER MANUAL and any defect or issues raised therein would not be accepted.<br />
+If at all the ISO body wants to do anyting for betterment of the testing community they should stop fiddling with this.</p>
+
+		</li>
+
+	
+	
+	</ol>
+
+ 
+
+
+<h3 id="respond">Leave a Reply</h3>
+
+
+
+
+<form action="http://www.satisfice.com/blog/wp-comments-post.php" method="post" id="commentform">
+
+
+<p><p>Comments are moderated. You might want to read my <a href="http://www.satisfice.com/blog/archives/57">commenting policy</a> before you make a comment...</p><input type="text" name="author" id="author" value="" size="22" tabindex="1" />
+<label for="author"><small>Name (required)</small></label></p>
+
+<p><input type="text" name="email" id="email" value="" size="22" tabindex="2" />
+<label for="email"><small>Mail (will not be published) (required)</small></label></p>
+
+<p><input type="text" name="url" id="url" value="" size="22" tabindex="3" />
+<label for="url"><small>Website</small></label></p>
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: &lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </small></p>-->
+
+<p><textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" />
+
+<input type="hidden" name="comment_post_ID" value="1464" />
+</p>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="cf5678f85a" /></p>                <script type='text/javascript'>
+                    var RecaptchaOptions = { theme : 'red', lang : 'en' , tabindex : 5 };
+                </script><script type="text/javascript" src="http://www.google.com/recaptcha/api/challenge?k=6LccXs8SAAAAADFs0niI7WjuLolMZVl5PBqrbQC6"></script>
+
+	<noscript>
+  		<iframe src="http://www.google.com/recaptcha/api/noscript?k=6LccXs8SAAAAADFs0niI7WjuLolMZVl5PBqrbQC6" height="300" width="500" frameborder="0"></iframe><br/>
+  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
+	</noscript>                        <div id="recaptcha-submit-btn-area">&nbsp;</div>
+                        <noscript>
+                         <style type='text/css'>#submit {display:none;}</style>
+                         <input name="submit" type="submit" id="submit-alt" tabindex="6" value="Submit Comment"/> 
+                        </noscript>
+</form>
+
+
+	
+		
+	</div>
+
+<hr />
+<div id="footer">
+	<p>
+		James Bach’s Blog is proudly powered by 
+		<a href="http://wordpress.org">WordPress</a>
+		<br /><a href="http://www.satisfice.com/blog/feed">Entries (RSS)</a>
+		and <a href="http://www.satisfice.com/blog/comments/feed">Comments (RSS)</a>.
+		<!-- 25 queries. 0.272 seconds. -->
+	</p>
+</div>
+</div>
+
+<!--
+	Gorgeous design by Samir M. Nassar - http://steamedpenguin.com/design/Steam/
+	Based on Kubrick by Michael Heilemann - http://binarybonsai.com/kubrick/
+-->
+
+		                <script type="text/javascript">
+                var sub = document.getElementById('submit');
+                document.getElementById('recaptcha-submit-btn-area').appendChild (sub);
+                document.getElementById('submit').tabIndex = 6;
+                if ( typeof _recaptcha_wordpress_savedcomment != 'undefined') {
+                        document.getElementById('comment').value = _recaptcha_wordpress_savedcomment;
+                }
+                document.getElementById('recaptcha_table').style.direction = 'ltr';
+                </script>
+</body>
+</html>

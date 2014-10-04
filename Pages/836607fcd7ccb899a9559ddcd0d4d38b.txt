@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="hl-en not-logged-in 
+
+
+">
+<head>
+    <meta charset="UTF-8" />
+    <title>
+Instagram
+</title>
+
+    <meta name="robots" content="noimageindex" />
+
+    <link rel="Shortcut Icon" type="image/x-icon" href="//d36xtkk24g8jdx.cloudfront.net/bluebar/f7b7bf6/images/ico/favicon.ico" />
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+    <link rel="apple-touch-icon-precomposed" href="//d36xtkk24g8jdx.cloudfront.net/bluebar/f7b7bf6/images/ico/apple-touch-icon-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//d36xtkk24g8jdx.cloudfront.net/bluebar/f7b7bf6/images/ico/apple-touch-icon-72x72-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//d36xtkk24g8jdx.cloudfront.net/bluebar/f7b7bf6/images/ico/apple-touch-icon-114x114-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//d36xtkk24g8jdx.cloudfront.net/bluebar/f7b7bf6/images/ico/apple-touch-icon-144x144-precomposed.png" />
+
+    
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+    
+
+    
+
+    <script type="text/javascript">
+        GATEKEEPERS = {
+            banzai_logs: true
+        };
+    </script>
+
+    
+        <script src="//d36xtkk24g8jdx.cloudfront.net/bluebar/f7b7bf6/scripts/jquery.js" type="text/javascript"></script>
+        <script src="//d36xtkk24g8jdx.cloudfront.net/bluebar/f7b7bf6/scripts/bluebar.js" type="text/javascript"></script>
+
+    
+
+    
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://photos-f.ak.instagram.com/hphotos-ak-xfa1/10623782_1483207541951989_2065267387_n.jpg" />
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/sxwzE4SRJW/" />
+    <meta property="instapp:owner_user_id" content="29899675" />
+    <meta property="twitter:card" content="app" />
+    <meta property="twitter:app:name:iphone" content="Instagram" />
+    <meta property="twitter:app:id:iphone" content="389801252" />
+    <meta property="twitter:app:url:iphone" content="instagram://media?id=806640424441156182" />
+    <meta property="twitter:app:url:ipad" content="instagram://media?id=806640424441156182" />
+    <meta property="twitter:app:name:googleplay" content="Instagram" />
+    <meta property="twitter:app:id:googleplay" content="com.instagram.android" />
+    <meta property="twitter:app:url:googleplay" content="http://instagram.com/p/sxwzE4SRJW/" />
+    
+    <meta name="medium" content="image" />
+    <meta property="og:type" content="instapp:photo" />
+    <meta property="og:description" content="azizansari's photo on Instagram" />
+
+
+
+    
+    
+
+</head>
+<body class="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <script type="text/javascript">
+window._strings = {
+
+"%(count)s comments": "%(count)s comments",
+"%(count)s followers": "%(count)s followers",
+"%(count)s following": "%(count)s following",
+"%(count)s likes": "%(count)s likes",
+"%(count)s more comments": "%(count)s more comments",
+"%(count)s new posts": "%(count)s new posts",
+"%(count)s people liked this photo": "%(count)s people liked this photo",
+"%(count)s photos,": "%(count)s photos,",
+"%(count)s posts": "%(count)s posts",
+"%(count)s+ new posts": "%(count)s+ new posts",
+"%(day)s %(month_name)s %(year)s": "%(day)s %(month_name)s %(year)s",
+"%(days)s days ago": "%(days)s days ago",
+"%(days)sd": "%(days)sd",
+"%(followerCount)s followers": "%(followerCount)s followers",
+"%(hours)s hours ago": "%(hours)s hours ago",
+"%(hours)sh": "%(hours)sh",
+"%(likes)s likes, %(comments)s comments": "%(likes)s likes, %(comments)s comments",
+"%(mediaCount)s photos": "%(mediaCount)s photos",
+"%(minutes)s minutes ago": "%(minutes)s minutes ago",
+"%(minutes)sm": "%(minutes)sm",
+"%(months)s months ago": "%(months)s months ago",
+"%(seconds)s seconds ago": "%(seconds)s seconds ago",
+"%(seconds)ss": "%(seconds)ss",
+"%(user)s on Instagram": "%(user)s on Instagram",
+"%(username)s on Instagram": "%(username)s on Instagram",
+"%(weeks)s weeks ago": "%(weeks)s weeks ago",
+"%(weeks)sw": "%(weeks)sw",
+"%(year)s %(month)s": "%(year)s %(month)s",
+"1": "1",
+"1 comment": "1 comment",
+"1 day ago": "1 day ago",
+"1 follower": "1 follower",
+"1 hour ago": "1 hour ago",
+"1 like": "1 like",
+"1 minute ago": "1 minute ago",
+"1 month ago": "1 month ago",
+"1 more comment": "1 more comment",
+"1 new post": "1 new post",
+"1 photo>": "1 photo\u003E",
+"1 second ago": "1 second ago",
+"1 week ago": "1 week ago",
+"2": "2",
+"3": "3",
+"AM": "AM",
+"About us": "About us",
+"Account Insights - Instagram": "Account Insights \u002D Instagram",
+"Add a caption...": "Add a caption...",
+"Add a comment": "Add a comment",
+"All items loaded": "All items loaded",
+"Apr": "Apr",
+"April": "April",
+"Are you sure you want to delete this comment?": "Are you sure you want to delete this comment?",
+"Are you sure?": "Are you sure?",
+"Audience": "Audience",
+"Aug": "Aug",
+"August": "August",
+"Badges": "Badges",
+"Blog": "Blog",
+"By using this embed, you agree to Instagram\\'s <a href=\"http://instagram.com/about/legal/terms/api/\">API Terms of Use</a>.": "By using this embed, you agree to Instagram\u005C\u0027s \u003Ca href\u003D\u0022http://instagram.com/about/legal/terms/api/\u0022\u003EAPI Terms of Use\u003C/a\u003E.",
+"Cancel": "Cancel",
+"Content unavailable": "Content unavailable",
+"Copy Embed Code": "Copy Embed Code",
+"Copy this code:": "Copy this code:",
+"Couldn\\'t post comment": "Couldn\u005C\u0027t post comment",
+"Dec": "Dec",
+"December": "December",
+"Delete": "Delete",
+"Edit Profile": "Edit Profile",
+"Embed": "Embed",
+"Feb": "Feb",
+"February": "February",
+"Follow": "Follow",
+"Follow %(username)s on Instagram": "Follow %(username)s on Instagram",
+"Follow friends and interesting people to see their photos here.": "Follow friends and interesting people to see their photos here.",
+"Following": "Following",
+"Forgot your password?": "Forgot your password?",
+"Fri": "Fri",
+"Friday": "Friday",
+"Here are some suggestions.": "Here are some suggestions.",
+"Home": "Home",
+"Jan": "Jan",
+"January": "January",
+"Jobs": "Jobs",
+"Jul": "Jul",
+"July": "July",
+"Jun": "Jun",
+"June": "June",
+"Leave a comment...": "Leave a comment...",
+"Like": "Like",
+"Likes": "Likes",
+"Load More...": "Load More...",
+"Load more": "Load more",
+"Load more...": "Load more...",
+"Loading more...": "Loading more...",
+"Loading...": "Loading...",
+"Log Out": "Log Out",
+"Log in": "Log in",
+"Mar": "Mar",
+"March": "March",
+"May": "May",
+"Mon": "Mon",
+"Monday": "Monday",
+"More": "More",
+"Next photo": "Next photo",
+"No Recent Photos": "No Recent Photos",
+"No likes yet.": "No likes yet.",
+"No photos to show.": "No photos to show.",
+"Nov": "Nov",
+"November": "November",
+"Now": "Now",
+"Oct": "Oct",
+"October": "October",
+"Open in App": "Open in App",
+"Others": "Others",
+"PM": "PM",
+"Password:": "Password:",
+"Paste it on your website, blog, or wherever you want to link to your profile!": "Paste it on your website, blog, or wherever you want to link to your profile!",
+"People you follow": "People you follow",
+"Performance": "Performance",
+"Photo by %(username)s": "Photo by %(username)s",
+"Posts": "Posts",
+"Press": "Press",
+"Press Page - Instagram": "Press Page \u002D Instagram",
+"Previous Posts": "Previous Posts",
+"Previous photo": "Previous photo",
+"Privacy": "Privacy",
+"Report inappropriate": "Report inappropriate",
+"Requested": "Requested",
+"Retry": "Retry",
+"Sat": "Sat",
+"Saturday": "Saturday",
+"Select your badge:": "Select your badge:",
+"Sep": "Sep",
+"September": "September",
+"Summary": "Summary",
+"Sun": "Sun",
+"Sunday": "Sunday",
+"Support": "Support",
+"Terms": "Terms",
+"This user is private": "This user is private",
+"Thu": "Thu",
+"Thursday": "Thursday",
+"To follow %(username)s, you need to log in.": "To follow %(username)s, you need to log in.",
+"Toggle like": "Toggle like",
+"Tue": "Tue",
+"Tuesday": "Tuesday",
+"Username:": "Username:",
+"Video by %(username)s": "Video by %(username)s",
+"View Photo Page": "View Photo Page",
+"View Profile": "View Profile",
+"View Video Page": "View Video Page",
+"View on Instagram": "View on Instagram",
+"Wed": "Wed",
+"Wednesday": "Wednesday",
+"When you are finished following people,": "When you are finished following people,",
+"Write a comment...": "Write a comment...",
+"Yes": "Yes",
+"You must log in to add a comment.": "You must log in to add a comment.",
+"You must log in to like this photo.": "You must log in to like this photo.",
+"You need to be following %(username)s to like or comment": "You need to be following %(username)s to like or comment",
+"Your username or password was incorrect.": "Your username or password was incorrect.",
+"am": "am",
+"banner photo": "banner photo",
+"nd": "nd",
+"pm": "pm",
+"rd": "rd",
+"reload this page": "reload this page",
+"st": "st",
+"th": "th"
+};
+</script>
+        
+<script src="//d36xtkk24g8jdx.cloudfront.net/bluebar/f7b7bf6/scripts/polyfills/es5-shim.min.js"></script>
+<script src="//d36xtkk24g8jdx.cloudfront.net/bluebar/f7b7bf6/scripts/polyfills/es5-sham.min.js"></script>
+<script src="//d36xtkk24g8jdx.cloudfront.net/bluebar/f7b7bf6/scripts/polyfills/history.js/scripts/bundled/html5/native.history.js"></script>
+
+
+<script type="text/javascript">window._sharedData = {"static_root":"\/\/d36xtkk24g8jdx.cloudfront.net\/bluebar\/f7b7bf6","platform":{"is_touch":false,"app_platform":"web"},"hostname":"instagram.com","entry_data":{"DesktopPPage":[{"canSeePrerelease":false,"viewer":null,"media":{"code":"sxwzE4SRJW","date":1410379053.0,"usertags":{"nodes":[]},"comments":{"nodes":[{"text":"Just saw the show.  I had a great time!  Thank you for all three acts!","viewer_can_delete":false,"id":"808397024055071217","user":{"username":"bigjosh63","profile_pic_url":"http:\/\/images.ak.instagram.com\/profiles\/profile_246486674_75sq_1351918168.jpg"}},{"text":"I saw the show last night best stand up I even too","viewer_can_delete":false,"id":"808613235678318783","user":{"username":"sirsweetjj","profile_pic_url":"http:\/\/photos-h.ak.instagram.com\/hphotos-ak-xfa1\/917099_1402133423403511_630415909_a.jpg"}},{"text":"@azizansari you killed it last night!! Awesome show!","viewer_can_delete":false,"id":"808626329792090190","user":{"username":"mrs_tripledub","profile_pic_url":"http:\/\/photos-g.ak.instagram.com\/hphotos-ak-xfp1\/891399_660030000752286_2087433098_a.jpg"}},{"text":"Who was surprise guest?","viewer_can_delete":false,"id":"808679523700249289","user":{"username":"vansebastian","profile_pic_url":"http:\/\/images.ak.instagram.com\/profiles\/profile_11051659_75sq_1397381223.jpg"}},{"text":"surprise guest was MJ impersonator from Vegas","viewer_can_delete":false,"id":"808708752009662493","user":{"username":"inky211","profile_pic_url":"http:\/\/photos-d.ak.instagram.com\/hphotos-ak-xfp1\/10561015_1543788605840419_772660045_a.jpg"}},{"text":"@azizansari  good show but really the sound echo issues were annoying. If you're going to do an arena make it tight!","viewer_can_delete":false,"id":"808709060416835632","user":{"username":"inky211","profile_pic_url":"http:\/\/photos-d.ak.instagram.com\/hphotos-ak-xfp1\/10561015_1543788605840419_772660045_a.jpg"}},{"text":"I'd agree with @inky211 The sound was horrible. You lost it on the crowd @azizansari when their point was pretty valid. You're funny, but the show was horrible because we couldn't make out half of the shit you were saying. Not that you give two shits.","viewer_can_delete":false,"id":"808710147924365461","user":{"username":"biehle75","profile_pic_url":"http:\/\/images.ak.instagram.com\/profiles\/profile_278611185_75sq_1361133054.jpg"}},{"text":"@biehle75 idk where you were sitting but the echo went away after 15 minutes. Those people were just being annoying and ruining the show. There's nothing the man can do.","viewer_can_delete":false,"id":"808723609425613107","user":{"username":"blainer93","profile_pic_url":"http:\/\/images.ak.instagram.com\/profiles\/profile_19894823_75sq_1394008119.jpg"}},{"text":"Who's coming to watch him in Dallas?","viewer_can_delete":false,"id":"808753527379268285","user":{"username":"ashmantalks","profile_pic_url":"http:\/\/photos-e.ak.instagram.com\/hphotos-ak-xpa1\/10362082_1500188566860212_1976369621_a.jpg"}},{"text":"Realize it wasn't his fault, but the complaints were valid @blainer93 I was in Sec 107. Was never fixed from that area. Kinda sucked cause I've waited for years to see Aziz and the experience was complete shit.","viewer_can_delete":false,"id":"808762062762742004","user":{"username":"biehle75","profile_pic_url":"http:\/\/images.ak.instagram.com\/profiles\/profile_278611185_75sq_1361133054.jpg"}},{"text":"@biehle75 I was in 112, have you tried calling Toyota center about a refund of some sorts?","viewer_can_delete":false,"id":"808764366266110381","user":{"username":"blainer93","profile_pic_url":"http:\/\/images.ak.instagram.com\/profiles\/profile_19894823_75sq_1394008119.jpg"}},{"text":"@azizansari! While you are in Dallas today you should go to Jimmy's Food Store on Fitzhugh and Bryan for some kickass \"chicky chicky parm parm.\" You won't be sorry you did \u263a\ufe0f","viewer_can_delete":false,"id":"808769684769411890","user":{"username":"oiseau_rouge","profile_pic_url":"http:\/\/photos-h.ak.instagram.com\/hphotos-ak-xfa1\/10412980_501198396674991_2116627704_a.jpg"}},{"text":"P.s. I'm coming to your show tonight!","viewer_can_delete":false,"id":"808769865938178879","user":{"username":"oiseau_rouge","profile_pic_url":"http:\/\/photos-h.ak.instagram.com\/hphotos-ak-xfa1\/10412980_501198396674991_2116627704_a.jpg"}},{"text":"Didn't call @blainer93 I mentioned it on the way out, but no one seemed to want to listen. One person would point to another, who pointed to another, and finally a call was made via handheld radio. I was told they were \"working on it\". Think I just had the unlucky section. I'm guessing you were much closer to the group towards the end. I was smack in the middle of both complaints that Aziz stopped to comment about. Big names, big venues, I'll stick to the small comedy clubs I can completely enjoy \ud83d\ude01","viewer_can_delete":false,"id":"808775789285282057","user":{"username":"biehle75","profile_pic_url":"http:\/\/images.ak.instagram.com\/profiles\/profile_278611185_75sq_1361133054.jpg"}},{"text":"@biehle75 usually if you call or email, they're good about listening. Sucks that happened to you though.","viewer_can_delete":false,"id":"808778746294768140","user":{"username":"blainer93","profile_pic_url":"http:\/\/images.ak.instagram.com\/profiles\/profile_19894823_75sq_1394008119.jpg"}},{"text":"@azizansari see you in Dallas tonight, can't wait!!!","viewer_can_delete":false,"id":"808781835525493523","user":{"username":"debunosaur","profile_pic_url":"http:\/\/photos-c.ak.instagram.com\/hphotos-ak-xaf1\/10597398_711415302227554_1574966998_a.jpg"}},{"text":"I was on the floor- sound was ok. Not the best n I go to a lot of events.  @azizansari  could have called out Toyota on it instead of losing it. I was annoyed by him after that. After all, ppl paid their hard earned money to go see him.","viewer_can_delete":false,"id":"808865251977663161","user":{"username":"flower82882","profile_pic_url":"http:\/\/photos-h.ak.instagram.com\/hphotos-ak-xfa1\/10684214_636992159753671_388639539_a.jpg"}},{"text":"Did not dissapoint","viewer_can_delete":false,"id":"808981250596999220","user":{"username":"atothej1185","profile_pic_url":"http:\/\/images.ak.instagram.com\/profiles\/profile_30633787_75sq_1343373521.jpg"}},{"text":"@azizansari was at the dallas show awesome job man #fuckhouston","viewer_can_delete":false,"id":"809426208109958060","user":{"username":"sho_nuf","profile_pic_url":"http:\/\/images.ak.instagram.com\/profiles\/profile_181161347_75sq_1387222797.jpg"}},{"text":"I missed the show in houston \ud83d\ude2b\ud83d\ude2b\ud83d\ude2b\ud83d\ude2b\ud83d\ude2b\ud83d\ude2b\ud83d\ude2b","viewer_can_delete":false,"id":"820580790785610548","user":{"username":"blahblahhhh8","profile_pic_url":"http:\/\/photos-a.ak.instagram.com\/hphotos-ak-xpa1\/10499083_329245987225904_1875114173_a.jpg"}}]},"caption":"This weekend is the first of the arena shows and I've booked a special SURPRISE opener. PLUS you get the hilarious Jerrod Carmichael. Limited tickets avail at tour.azizansari.com. #AzizAnsariLive","likes":{"count":2381,"viewer_has_liked":false,"nodes":[{"user":{"username":"skyynola","profile_pic_url":"http:\/\/images.ak.instagram.com\/profiles\/profile_52126600_75sq_1372213987.jpg"}},{"user":{"username":"mi9hty_mohamm3d","profile_pic_url":"http:\/\/images.ak.instagram.com\/profiles\/profile_296034399_75sq_1385438106.jpg"}},{"user":{"username":"babynicks","profile_pic_url":"http:\/\/photos-d.ak.instagram.com\/hphotos-ak-xaf1\/10632531_353762164787387_234061796_a.jpg"}},{"user":{"username":"steviechanz","profile_pic_url":"http:\/\/photos-h.ak.instagram.com\/hphotos-ak-xpa1\/10454045_643760055720319_1475317235_a.jpg"}},{"user":{"username":"natassja___","profile_pic_url":"http:\/\/photos-h.ak.instagram.com\/hphotos-ak-xaf1\/10706827_1487376704871823_1741127675_a.jpg"}},{"user":{"username":"ohheyits_samm","profile_pic_url":"http:\/\/photos-f.ak.instagram.com\/hphotos-ak-xfa1\/10683875_355841994571965_1001442789_a.jpg"}},{"user":{"username":"anastasiaa666","profile_pic_url":"http:\/\/photos-e.ak.instagram.com\/hphotos-ak-xpf1\/10549859_276493619200652_1879777240_a.jpg"}},{"user":{"username":"mattgarfinkel","profile_pic_url":"http:\/\/photos-f.ak.instagram.com\/hphotos-ak-xpf1\/891350_879775958706453_1618474749_a.jpg"}},{"user":{"username":"glassofchocolatemilk","profile_pic_url":"http:\/\/photos-d.ak.instagram.com\/hphotos-ak-xap1\/927747_736344839745627_1758636182_a.jpg"}},{"user":{"username":"divisha18","profile_pic_url":"http:\/\/photos-b.ak.instagram.com\/hphotos-ak-xpa1\/10520390_696223793781545_658941796_a.jpg"}}]},"owner":{"username":"azizansari","requested_by_viewer":false,"followed_by_viewer":false,"profile_pic_url":"http:\/\/images.ak.instagram.com\/profiles\/profile_29899675_75sq_1359149880.jpg","has_blocked_viewer":false,"id":"29899675"},"is_video":false,"id":"806640424441156182","display_src":"http:\/\/photos-f.ak.instagram.com\/hphotos-ak-xfa1\/10623782_1483207541951989_2065267387_n.jpg"},"__get_params":{},"staticRoot":"\/\/d36xtkk24g8jdx.cloudfront.net\/bluebar\/f7b7bf6","__query_string":"?","prerelease":false,"__path":"\/p\/sxwzE4SRJW\/","shortcode":"sxwzE4SRJW"}]},"country_code":"US","config":{"viewer":null,"csrf_token":"a9fe1a76781e7f8bfdfa32ca1efe00d1"}};</script>
+<script src="//d36xtkk24g8jdx.cloudfront.net/bluebar/f7b7bf6/cache/bundles/webpack-common.js"></script>
+<script src="//d36xtkk24g8jdx.cloudfront.net/bluebar/f7b7bf6/cache/bundles/DesktopPPage.js"></script>
+</body>
+</html>

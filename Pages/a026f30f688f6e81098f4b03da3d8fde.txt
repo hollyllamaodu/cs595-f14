@@ -1,0 +1,986 @@
+<!DOCTYPE html>
+<html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<head>
+ <title>Oddball Festival</title>
+    <meta charset="UTF-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o?o:n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({QJf3ax:[function(t,n){function e(t){function n(n,e,o){t&&t(n,e,o),o||(o={});for(var a=i(n),u=a.length,c=o[r]||(o[r]={}),f=0;u>f;f++)a[f].apply(c,e);return c}function o(t,n){u[t]=i(t).concat(n)}function i(t){return u[t]||[]}function a(){return e(n)}var u={};return{on:o,emit:n,create:a,listeners:i,_events:u}}var r="nr@context";n.exports=e()},{}],ee:[function(t,n){n.exports=t("QJf3ax")},{}],D5DuLP:[function(t,n){function e(t,n,e){return r.listeners(t).length?r.emit(t,n,e):(o[t]||(o[t]=[]),void o[t].push(n))}var r=t("ee").create(),o={};n.exports=e,e.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,n){n.exports=t("D5DuLP")},{}],loader:[function(t,n){n.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,n){function e(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var n=c.createElement("script");n.src=l.proto+t.agent,c.body.appendChild(n)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=n.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",e,!1)):(c[s]("onreadystatechange",r),u[s]("onload",e)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Facebook Tags -->
+    <meta property="og:title" content="Oddball Comedy and Curiosity Festival" />
+    <meta property="og:type" content="musician" />
+    <meta property="og:url" content="http://oddballfest.com" />
+    <meta property="og:image" content="http://cache.oddballfest.com/images/2014/Oddball-2014_Thumb.jpg" />
+    <meta property="og:site_name" content="Oddball Comedy and Curiosity Festival" />
+    <meta property="og:description" content="Funny or Die Presents Oddball Comedy and Curiosity Festival 2014 - featuring Louis C.K., Sarah Silverman, Aziz Ansari, Amy Schumer, Jim Gaffigan, Bill Burr, and many more!"/>
+    <meta property="fb:admins" content="100001209511124" />
+
+    <!-- Google + tags -->
+    <meta itemprop="name" content="Oddball Comedy and Curiosity Festival">
+    <meta itemprop="description" content="Funny or Die Presents Oddball Comedy and Curiosity Festival 2014 - featuring Louis C.K., Sarah Silverman, Aziz Ansari, Amy Schumer, Jim Gaffigan, Bill Burr, and many more!">
+    <meta itemprop="image" content="http://cache.oddballfest.com/images/2014/Oddball-2014_Thumb.jpg">
+
+        <link rel="pingback" href="http://www.oddballfest.com/xmlrpc.php" />
+
+  <!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="http://www.funnyordie.com/favicon.ico" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.oddballfest.com/wp-content/themes/BootstrapWP/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.oddballfest.com/wp-content/themes/BootstrapWP/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.oddballfest.com/wp-content/themes/BootstrapWP/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://www.oddballfest.com/wp-content/themes/BootstrapWP/ico/apple-touch-icon-57-precomposed.png">
+
+  <!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+    <link rel="alternate" type="application/rss+xml" title="Oddball Festival &raquo; Feed" href="http://www.oddballfest.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Oddball Festival &raquo; Comments Feed" href="http://www.oddballfest.com/comments/feed/" />
+<link rel='stylesheet' id='output-css'  href='http://www.oddballfest.com/wp-content/plugins/addthis/css/output.css?ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.oddballfest.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.3.8&#038;ver=3.9.2' type='text/css' media='all' />
+<style type='text/css'>
+.tp-caption a {
+color:#ff7302;
+text-shadow:none;
+-webkit-transition:all 0.2s ease-out;
+-moz-transition:all 0.2s ease-out;
+-o-transition:all 0.2s ease-out;
+-ms-transition:all 0.2s ease-out;
+}
+
+.tp-caption a:hover {
+color:#ffa902;
+}
+</style>
+<link rel='stylesheet' id='rs-plugin-captions-css'  href='http://www.oddballfest.com/wp-content/plugins/revslider/rs-plugin/css/captions.php?rev=4.3.8&#038;ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://www.oddballfest.com/wp-content/themes/BootstrapWP/css/bootstrap.min.css?ver=3.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='prettify-css'  href='http://www.oddballfest.com/wp-content/themes/BootstrapWP/js/google-code-prettify/prettify.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='lightboxStyle-css'  href='http://www.oddballfest.com/wp-content/plugins/lightbox-plus/css/elegant/colorbox.css?ver=2.7' type='text/css' media='screen' />
+<script type='text/javascript' src='http://www.oddballfest.com/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://www.oddballfest.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.oddballfest.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?rev=4.3.8&#038;ver=3.9.2'></script>
+<script type='text/javascript' src='http://www.oddballfest.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.3.8&#038;ver=3.9.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.oddballfest.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oddballfest.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.9.2" />
+    <link rel="stylesheet" href="http://www.oddballfest.com/wp-content/themes/BootstrapWP/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://www.oddballfest.com/wp-content/themes/BootstrapWP/fonts/font.css" type="text/css" charset="utf-8" />
+    <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic|Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" id="wp-css" href="http://www.oddballfest.com/wp-content/themes/BootstrapWP/style.css" type="text/css" media="all">
+    <script type="text/javascript"  src="http://www.oddballfest.com/wp-content/themes/BootstrapWP/js/paralax.js"></script>
+    <script type="text/javascript"  src="http://www.oddballfest.com/wp-content/themes/BootstrapWP/js/jquery.transit.min.js"></script>
+
+  </head>
+  <body class="home blog single-author"  data-spy="scroll" data-target=".bs-docs-sidebar" data-offset="10">
+    <!--<div class="full-bg"></div>-->
+    <nav class="navbar navbar-inverse navbar-static-top">
+      <div class="container">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+        <div class="collapse navbar-collapse">
+          <div class="menu-main-nav-container"><ul id="main-menu" class="nav navbar-nav"><li id="menu-item-3127" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home active menu-item-3127"><a href="http://www.oddballfest.com/">Home</a></li>
+<li id="menu-item-3023" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3023"><a href="/talent/">TALENT</a></li>
+<li id="menu-item-3022" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3022"><a href="/tour-dates/">DATES</a></li>
+<li id="menu-item-2508" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2508"><a href="http://www.oddballfest.com/category/news/">NEWS</a></li>
+<li id="menu-item-3109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3109"><a href="http://www.funnyordie.com/">FUNNY OR DIE</a></li>
+<li id="menu-item-3108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3108"><a href="/sponsors/">Sponsors</a></li>
+</ul></div>          <ul class="navbar-right nav-social">
+            <li><a href="http://www.facebook.com/oddballfest" target="_blank"><i class="sge-icon-fb"></i></a></li>
+            <li><a href="http://www.twitter.com/oddballfest" target="_blank"><i class="sge-icon-tw"></i></a></li>
+            <li><a href="http://www.youtube.com/oddballfest" target="_blank"><i class="sge-icon-yt"></i></a></li>
+            <li><a href="http://www.instagram.com/oddballfest" target="_blank"><i class="sge-icon-ins"></i></a></li>
+          </ul>
+        </div><!-- class="collapse navbar-collapse" -->
+      </div>
+    </nav>
+        <section id="home" data-type="background" data-speed="10" class="pages">
+      <div class="container header-logo home-header-logo">
+          <a class="navbar-brand" href="http://www.oddballfest.com/" title="Oddball Festival" rel="home"><img id="oddball-logo" class="img-responsive" src="http://caches.oddballfest.com/images/2014/oddball_logo.png" alt="Oddball Festival" /></a>
+          <img id="oddball-logo2" class="hidden-xs" src="http://caches.oddballfest.com/images/2014/oddball_barker.png" />
+          <script>
+              var logo_jQuery=jQuery;
+              logo_jQuery(document).ready(function($) {
+                $( "#oddball-logo" ).transition({  y: '250px', opacity: 1 });
+                $( "#oddball-logo2" ).transition({  y: '-272px', rotate: '0deg', opacity: 1, delay: 400, duration: 500, easing: 'ease' });
+              });
+          </script>
+      </div>
+      <div class="container home-slider">
+        <!-- START REVOLUTION SLIDER 4.3.8 fullwidth mode -->
+
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;padding:0px;margin-top:0px;margin-bottom:0px;max-height:580px;">
+	<div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;max-height:580px;height:580px;">
+<ul>	<!-- SLIDE  -->
+	<li data-transition="notransition" data-slotamount="7" data-link="/talent"  data-delay="8200" >
+		<!-- MAIN IMAGE -->
+		<img src="http://www.oddballfest.com/wp-content/plugins/revslider/images/transparent.png"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption black lft ltb tp-resizeme"
+			data-x="right" data-hoffset="0"
+			data-y="0" 
+			data-speed="500"
+			data-start="1500"
+			data-easing="Power3.easeInOut"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-end="7900"
+data-endspeed="300"
+			data-endeasing="Power2.easeInOut"
+			style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;"><img src="http://caches.oddballfest.com/images/2014/slides/slide_lineup-1.png">
+		</div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="notransition" data-slotamount="7" data-link="/talent"  >
+		<!-- MAIN IMAGE -->
+		<img src="http://www.oddballfest.com/wp-content/plugins/revslider/images/transparent.png"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption black lfb ltt tp-resizeme"
+			data-x="right" data-hoffset="0"
+			data-y="0" 
+			data-speed="500"
+			data-start="0"
+			data-easing="Power3.easeInOut"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-end="5900"
+data-endspeed="300"
+			data-endeasing="Power2.easeInOut"
+			style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;"><img src="http://caches.oddballfest.com/images/2014/slides/slide_lineup-2.png">
+		</div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="notransition" data-slotamount="7" data-link="/tour-dates"  >
+		<!-- MAIN IMAGE -->
+		<img src="http://www.oddballfest.com/wp-content/plugins/revslider/images/transparent.png"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption black lft ltt tp-resizeme"
+			data-x="right" data-hoffset="0"
+			data-y="0" 
+			data-speed="700"
+			data-start="0"
+			data-easing="Bounce.easeOut"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-end="5900"
+data-endspeed="300"
+			data-endeasing="Power2.easeInOut"
+			style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;"><img src="http://caches.oddballfest.com/images/2014/slides/slide_onsale.png">
+		</div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="notransition" data-slotamount="7" data-link="http://ihg.co/Oddball"  data-target="_blank" >
+		<!-- MAIN IMAGE -->
+		<img src="http://www.oddballfest.com/wp-content/plugins/revslider/images/transparent.png"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption black lft ltb tp-resizeme"
+			data-x="right" data-hoffset="0"
+			data-y="0" 
+			data-speed="500"
+			data-start="0"
+			data-easing="Power3.easeInOut"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-end="5700"
+data-endspeed="500"
+			data-endeasing="Power2.easeInOut"
+			style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;"><img src="http://caches.oddballfest.com/images/2014/slides/slide_HIEX-2.png">
+		</div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="notransition" data-slotamount="7" data-link="http://www.facebook.com/oddballfest"  data-target="_blank" >
+		<!-- MAIN IMAGE -->
+		<img src="http://www.oddballfest.com/wp-content/plugins/revslider/images/transparent.png"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption black lft ltt tp-resizeme"
+			data-x="right" data-hoffset="0"
+			data-y="0" 
+			data-speed="500"
+			data-start="0"
+			data-easing="Power3.easeInOut"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-end="5900"
+data-endspeed="300"
+			data-endeasing="Power2.easeInOut"
+			style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;"><img src="http://caches.oddballfest.com/images/2014/slides/slide_social_1.png">
+		</div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption black lfb ltb tp-resizeme"
+			data-x="right" data-hoffset="0"
+			data-y="0" 
+			data-speed="500"
+			data-start="500"
+			data-easing="Power3.easeInOut"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-end="5900"
+data-endspeed="300"
+			data-endeasing="Power2.easeInOut"
+			style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;"><img src="http://caches.oddballfest.com/images/2014/slides/slide_social_2.png">
+		</div>
+	</li>
+</ul>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+</div>			
+			<script type="text/javascript">
+
+				var tpj=jQuery;				
+				tpj.noConflict();				
+				var revapi1;
+				
+				tpj(document).ready(function() {
+								
+				if(tpj('#rev_slider_1_1').revolution == undefined)
+					revslider_showDoubleJqueryError('#rev_slider_1_1');
+				else
+				   revapi1 = tpj('#rev_slider_1_1').show().revolution(
+					{
+						dottedOverlay:"none",
+						delay:6200,
+						startwidth:638,
+						startheight:580,
+						hideThumbs:200,
+						
+						thumbWidth:100,
+						thumbHeight:50,
+						thumbAmount:5,
+						
+						navigationType:"none",
+						navigationArrows:"solo",
+						navigationStyle:"round",
+						
+						touchenabled:"on",
+						onHoverStop:"on",
+						
+						swipe_velocity: 0.7,
+						swipe_min_touches: 1,
+						swipe_max_touches: 1,
+						drag_block_vertical: false,
+												
+						keyboardNavigation:"off",
+						
+						navigationHAlign:"center",
+						navigationVAlign:"bottom",
+						navigationHOffset:0,
+						navigationVOffset:20,
+
+						soloArrowLeftHalign:"left",
+						soloArrowLeftValign:"center",
+						soloArrowLeftHOffset:20,
+						soloArrowLeftVOffset:0,
+
+						soloArrowRightHalign:"right",
+						soloArrowRightValign:"center",
+						soloArrowRightHOffset:20,
+						soloArrowRightVOffset:0,
+								
+						shadow:0,
+						fullWidth:"on",
+						fullScreen:"off",
+
+						spinner:"spinner0",
+						
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+
+						
+						shuffle:"off",
+						
+						autoHeight:"off",						
+						forceFullWidth:"off",						
+												
+												
+						hideTimerBar:"on",						
+						hideThumbsOnMobile:"off",
+						hideNavDelayOnMobile:1500,						hideBulletsOnMobile:"off",
+						hideArrowsOnMobile:"off",
+						hideThumbsUnderResolution:0,
+						
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						startWithSlide:0,
+						videoJsPath:"http://www.oddballfest.com/wp-content/plugins/revslider/rs-plugin/videojs/",
+						fullScreenOffsetContainer: ""	
+					});
+				
+				});	//ready
+				
+			</script>
+			
+			<!-- END REVOLUTION SLIDER -->      </div>
+    </section>
+    <div class="container-full">
+      <div class="tickets-banner">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-6 col-md-7">
+              <a href="/tour-dates" class="home-ticket-link"><img class="img-responsive" src="http://caches.oddballfest.com/images/2014/on-sale-banner.png" /></a>
+            </div><!-- class="col-md-8"-->
+            <div class="col-sm-6 col-md-5">
+              <div class="email-box">
+                <div class="email-form">
+                  <form action="//oddballfest.us7.list-manage.com/subscribe/post?u=f58d99c30b90bcae525840100&id=d217cfd66a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="form-inline validate" target="_blank">
+                    <label for="mce-EMAIL"><i class="fa fa-envelope-o fa-3x"></i></label>
+                    <div class="form-field-button input-group">
+                      <input type="text" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder="Email Address" />
+                        <span class="input-group-btn">
+                          <input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="btn btn-danger" />
+                        </span>
+                    </div>
+                  </form>
+                </div><!-- class="email-form"-->
+              </div><!-- class="email-box"-->
+            </div><!-- class="col-md-4"-->  
+          </div><!-- class="row"-->
+        </div><!-- class="container"-->
+      </div><!-- class="row"-->
+    </div><!-- class="container"-->
+    <!-- Begin home-top-boxes-->
+    <div class="container">
+      <div class="row home-top-boxes">
+        <div class="col-xs-6 col-md-3">
+          <div class="blk-box">
+            <a href="//www.youtube.com/embed/fUICKf_A1uE?list=PLOAOGqUuHCntYsxbwPTHzbR_DXxfKsjM7&autoplay=1" class="box-link lbp_secondary" title="Funny or Die Present Oddball Comedy and Curiosity Festival">
+              <img class="img-responsive" src="http://caches.oddballfest.com/images/2014/home_video-box.jpg" />
+            </a>
+          </div>
+        </div>
+        <div class="col-xs-6 col-md-3">
+          <div class="blk-box">
+              <!-- START REVOLUTION SLIDER 4.3.8 fullwidth mode -->
+
+<div id="rev_slider_3_2_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:#000000;padding:0px;margin-top:0px;margin-bottom:0px;max-height:308px;">
+	<div id="rev_slider_3_2" class="rev_slider fullwidthabanner" style="display:none;max-height:308px;height:308px;">
+<ul>	<!-- SLIDE  -->
+	<li data-transition="fade" data-slotamount="0" data-masterspeed="500" data-link="/talent"  >
+		<!-- MAIN IMAGE -->
+		<img src="http://caches.oddballfest.com/images/2014/artist-slides/LouisCK-slide.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="fade" data-slotamount="0" data-masterspeed="500" data-link="/talent"  >
+		<!-- MAIN IMAGE -->
+		<img src="http://caches.oddballfest.com/images/2014/artist-slides/SarahSilverman-slide.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="fade" data-slotamount="0" data-masterspeed="500" data-link="/talent"  >
+		<!-- MAIN IMAGE -->
+		<img src="http://caches.oddballfest.com/images/2014/artist-slides/AzizAnsari-slide.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="fade" data-slotamount="0" data-masterspeed="500" data-link="/talent"  >
+		<!-- MAIN IMAGE -->
+		<img src="http://caches.oddballfest.com/images/2014/artist-slides/AmySchumer-slide.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="fade" data-slotamount="0" data-masterspeed="500" data-link="/talent"  >
+		<!-- MAIN IMAGE -->
+		<img src="http://caches.oddballfest.com/images/2014/artist-slides/JimGaffigan-slide.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="fade" data-slotamount="0" data-masterspeed="500" data-link="/talent"  >
+		<!-- MAIN IMAGE -->
+		<img src="http://caches.oddballfest.com/images/2014/artist-slides/BillBurr-slide.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+</ul>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+</div>			
+			<script type="text/javascript">
+
+				var tpj=jQuery;				
+				tpj.noConflict();				
+				var revapi3;
+				
+				tpj(document).ready(function() {
+								
+				if(tpj('#rev_slider_3_2').revolution == undefined)
+					revslider_showDoubleJqueryError('#rev_slider_3_2');
+				else
+				   revapi3 = tpj('#rev_slider_3_2').show().revolution(
+					{
+						dottedOverlay:"none",
+						delay:6000,
+						startwidth:370,
+						startheight:308,
+						hideThumbs:200,
+						
+						thumbWidth:100,
+						thumbHeight:50,
+						thumbAmount:5,
+						
+						navigationType:"none",
+						navigationArrows:"solo",
+						navigationStyle:"round",
+						
+						touchenabled:"on",
+						onHoverStop:"on",
+						
+						swipe_velocity: 0.7,
+						swipe_min_touches: 1,
+						swipe_max_touches: 1,
+						drag_block_vertical: false,
+												
+						keyboardNavigation:"off",
+						
+						navigationHAlign:"center",
+						navigationVAlign:"bottom",
+						navigationHOffset:0,
+						navigationVOffset:20,
+
+						soloArrowLeftHalign:"left",
+						soloArrowLeftValign:"center",
+						soloArrowLeftHOffset:20,
+						soloArrowLeftVOffset:0,
+
+						soloArrowRightHalign:"right",
+						soloArrowRightValign:"center",
+						soloArrowRightHOffset:20,
+						soloArrowRightVOffset:0,
+								
+						shadow:0,
+						fullWidth:"on",
+						fullScreen:"off",
+
+						spinner:"spinner0",
+						
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+
+						
+						shuffle:"off",
+						
+						autoHeight:"off",						
+						forceFullWidth:"off",						
+												
+												
+						hideTimerBar:"on",						
+						hideThumbsOnMobile:"off",
+						hideNavDelayOnMobile:1500,						hideBulletsOnMobile:"off",
+						hideArrowsOnMobile:"off",
+						hideThumbsUnderResolution:0,
+						
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						startWithSlide:0,
+						videoJsPath:"http://www.oddballfest.com/wp-content/plugins/revslider/rs-plugin/videojs/",
+						fullScreenOffsetContainer: ""	
+					});
+				
+				});	//ready
+				
+			</script>
+			
+			<!-- END REVOLUTION SLIDER --> 
+          </div>
+        </div>
+        <div class="col-xs-6 col-md-3">
+          <div class="blk-box">
+                        <li id="wp_bannerize-8" class="widget WPBannerizeWidget"><div class="wp_bannerize SGE_2014">
+<div><a  onclick="WPBannerizeJavascript.incrementClickCount(33)"  href="http://www.funnyordie.com/road2oddball" rel="nofollow" target="_blank">
+<img class="img-responsive" src="http://cache.oddballfest.com/images/2014/banners/home_Road2Oddball_02.jpg" alt="Road 2 Oddball " width="380" height="307"/>
+</a>
+</div></div>
+</li>          </div>
+        </div>
+        <div class="col-xs-6 col-md-3">
+          <div class="blk-box">
+                        <li id="wp_bannerize-7" class="widget WPBannerizeWidget"><div class="wp_bannerize 370x308 2014">
+<div><a  onclick="WPBannerizeJavascript.incrementClickCount(47)"  href="http://www.ploom.com/pax/?utm_source=Oddball&utm_medium=Oddball_370x308&utm_content=Q314&utm_campaign=Oddball_370x308" rel="nofollow" target="_blank">
+<img class="img-responsive" src="http://caches.oddballfest.com/images/2014/banners/Ploom_Banner_370x308_OBF.jpg" alt="Ploom Pax" />
+</a>
+</div></div>
+</li>          </div>
+        </div><!-- /.col-x -->
+      </div><!-- /.home-top-boxes -->
+    </div><!-- /.container -->
+    <!-- END home-top-boxes-->
+        <!-- End Header -->
+              <!-- Begin Template Content -->
+
+<div class="container-full blue-gradient-bg">
+  <div class="container">
+    <div class="row sge-header">
+      <div class="col-md-12">
+        <div class="title-container">
+          <h3 class="box-title">Tour Dates <small><a class="more-link" href="/tour-dates/">More Info  <i class="fa fa-chevron-right"></i></a></small></h3>
+          <div class="title-sep-container">
+            <div class="title-sep sep-bar"></div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="tour-dates">
+            <div class="table-responsive">
+              <table class="table table-condensed">
+                <thead>
+                </thead>
+                <tbody>
+                  <!-- begin tour-dates logic -->
+                                              <tr>
+                              <td>
+                                Aug  08                              </td>
+                              <td>
+                                Tampa, FL                              </td>
+                              <td>
+                                                              </td>
+                            </tr>
+                                                <tr>
+                              <td>
+                                Aug  09                              </td>
+                              <td>
+                                Charlotte, NC                              </td>
+                              <td>
+                                                              </td>
+                            </tr>
+                                                <tr>
+                              <td>
+                                Aug  10                              </td>
+                              <td>
+                                Atlanta, GA                              </td>
+                              <td>
+                                                              </td>
+                            </tr>
+                                                <tr>
+                              <td>
+                                Aug  15                              </td>
+                              <td>
+                                Mansfield, MA                              </td>
+                              <td>
+                                                              </td>
+                            </tr>
+                                                <tr>
+                              <td>
+                                Aug  16                              </td>
+                              <td>
+                                Camden, NJ                              </td>
+                              <td>
+                                                              </td>
+                            </tr>
+                                                <tr>
+                              <td>
+                                Aug  17                              </td>
+                              <td>
+                                Holmdel, NJ                              </td>
+                              <td>
+                                                              </td>
+                            </tr>
+                                                <tr>
+                              <td>
+                                Aug  22                              </td>
+                              <td>
+                                Wantagh, NY                              </td>
+                              <td>
+                                                              </td>
+                            </tr>
+                                                  </tbody>
+                            </table>
+                          </div><!-- /.table-responsive -->
+                        </div><!-- /.tour-dates -->
+                      </div><!-- /.col-md-4 -->
+                                          <div class="col-md-4">
+                        <div class="tour-dates">
+                          <div class="table-responsive">
+                            <table class="table table-condensed">
+                              <thead>
+                              </thead>
+                              <tbody>
+                                                <tr>
+                              <td>
+                                Aug  23                              </td>
+                              <td>
+                                Hartford, CT                              </td>
+                              <td>
+                                                              </td>
+                            </tr>
+                                                <tr>
+                              <td>
+                                Aug  29                              </td>
+                              <td>
+                                Clarkston, MI                              </td>
+                              <td>
+                                                              </td>
+                            </tr>
+                                                <tr>
+                              <td>
+                                Aug  30                              </td>
+                              <td>
+                                Burgettstown, PA                              </td>
+                              <td>
+                                                              </td>
+                            </tr>
+                                                <tr>
+                              <td>
+                                Aug  31                              </td>
+                              <td>
+                                Tinley Park, IL                              </td>
+                              <td>
+                                                              </td>
+                            </tr>
+                                                <tr>
+                              <td>
+                                Sep  05                              </td>
+                              <td>
+                                Auburn, WA                              </td>
+                              <td>
+                                                              </td>
+                            </tr>
+                                                <tr>
+                              <td>
+                                Sep  06                              </td>
+                              <td>
+                                Salt Lake City, UT                              </td>
+                              <td>
+                                                              </td>
+                            </tr>
+                                                <tr>
+                              <td>
+                                Sep  07                              </td>
+                              <td>
+                                Morrison, CO                              </td>
+                              <td>
+                                                              </td>
+                            </tr>
+                                                  </tbody>
+                            </table>
+                          </div><!-- /.table-responsive -->
+                        </div><!-- /.tour-dates -->
+                      </div><!-- /.col-md-4 -->
+                                          <div class="col-md-4">
+                        <div class="tour-dates">
+                          <div class="table-responsive">
+                            <table class="table table-condensed">
+                              <thead>
+                              </thead>
+                              <tbody>
+                                                <tr>
+                              <td>
+                                Sep  12                              </td>
+                              <td>
+                                Mountain View, CA                              </td>
+                              <td>
+                                                              </td>
+                            </tr>
+                                                <tr>
+                              <td>
+                                Sep  13                              </td>
+                              <td>
+                                Irvine, CA                              </td>
+                              <td>
+                                                              </td>
+                            </tr>
+                                                <tr>
+                              <td>
+                                Sep  14                              </td>
+                              <td>
+                                Irvine, CA                              </td>
+                              <td>
+                                                              </td>
+                            </tr>
+                                                <tr>
+                              <td>
+                                Sep  19                              </td>
+                              <td>
+                                Dallas, TX                              </td>
+                              <td>
+                                                              </td>
+                            </tr>
+                                                <tr>
+                              <td>
+                                Sep  20                              </td>
+                              <td>
+                                Woodlands, TX                              </td>
+                              <td>
+                                                              </td>
+                            </tr>
+                                                <tr>
+                              <td>
+                                Sep  21                              </td>
+                              <td>
+                                Austin, TX                              </td>
+                              <td>
+                                                              </td>
+                            </tr>
+                                </tbody>
+            </table>
+          </div><!-- /.table-responsive -->
+        </div><!-- /.tour-dates-->
+      </div><!-- /.col-md-4 -->
+      </div><!-- class="col-md-12 -->
+    </div><!-- /.row -->
+  </div><!-- /.container-->
+</div><!-- class="container-full -->
+<!-- end tour-dates logic -->
+<div class="container">
+  <div class="row sge-header">
+    <div class="col-md-6">
+      <div class="title-container">
+        <h3 class="box-title">Recent News <small><a class="more-link" href="/category/news/">All News <i class="fa fa-chevron-right"></i></a></small></h3>
+        <div class="title-sep-container">
+          <div class="title-sep sep-bar"></div>
+        </div>
+      </div>
+      <div class="post-box">
+                <div class="post-3323 post type-post status-publish format-standard hentry category-news">
+          <div class="row">
+            <a href="http://www.oddballfest.com/2014/oddball-launch-this-weekend-in-tampa/" title="ODDBALL launch this weekend in Tampa" class="thumbnail">
+            <div class="col-sm-4">              <img src="http://cache.oddballfest.com/images/2014/Oddball-2014_Thumb.jpg" alt="ODDBALL launch this weekend in Tampa"  class="attachment-post-thumbnail wp-post-image" />
+            </a>
+            </div><!-- /.col-sm-4 -->
+            <div class="col-sm-8">
+              <a href="http://www.oddballfest.com/2014/oddball-launch-this-weekend-in-tampa/" title="ODDBALL launch this weekend in Tampa" class="excerpt-title"><h4>ODDBALL launch this weekend in Tampa</h4></a>
+              <p class="meta"><span class="sep"><i class="icon-calendar"></i> </span><a href="http://www.oddballfest.com/2014/oddball-launch-this-weekend-in-tampa/" title="10:06 pm" rel="bookmark"><time class="entry-date" datetime="2014-07-28T22:06:53+00:00" pubdate>July 28, 2014</time></a> &nbsp;&nbsp; </p>
+             <p>Where does the time go?! We launch ODDBALL this weekend in Tampa, did you get your tickets to come see&nbsp; &nbsp;<a href="http://www.oddballfest.com/2014/oddball-launch-this-weekend-in-tampa/" class="rm-link">Read more<span class="rm-arrow">&nbsp; &#x25ba;</span></a></p>
+            </div><!-- /.col-sm-8 -->
+          </div><!-- /.row -->
+        </div><!-- /.post_class -->
+                <div class="post-3321 post type-post status-publish format-standard has-post-thumbnail hentry category-news">
+          <div class="row">
+            <a href="http://www.oddballfest.com/2014/go-big-or-go-gnome/" title="GO BIG OR GO GNOME!" class="thumbnail">
+            <div class="col-sm-4">              <img width="164" height="164" src="http://www.oddballfest.com/wp-content/uploads/2014/07/gnome-boy_th-164x164.jpg" class="attachment-post-thumbnail wp-post-image" alt="gnome-boy_th" /></a>
+            </div><!-- /.col-sm-4 -->
+            <div class="col-sm-8">
+              <a href="http://www.oddballfest.com/2014/go-big-or-go-gnome/" title="GO BIG OR GO GNOME!" class="excerpt-title"><h4>GO BIG OR GO GNOME!</h4></a>
+              <p class="meta"><span class="sep"><i class="icon-calendar"></i> </span><a href="http://www.oddballfest.com/2014/go-big-or-go-gnome/" title="10:06 pm" rel="bookmark"><time class="entry-date" datetime="2014-07-21T22:06:40+00:00" pubdate>July 21, 2014</time></a> &nbsp;&nbsp; </p>
+             <p>ODDBALL is better on grass&#8230;.on THE grass we mean. Lawn tickets are a great way to gather 5 of your&nbsp; &nbsp;<a href="http://www.oddballfest.com/2014/go-big-or-go-gnome/" class="rm-link">Read more<span class="rm-arrow">&nbsp; &#x25ba;</span></a></p>
+            </div><!-- /.col-sm-8 -->
+          </div><!-- /.row -->
+        </div><!-- /.post_class -->
+                <div class="post-3273 post type-post status-publish format-standard has-post-thumbnail hentry category-news">
+          <div class="row">
+            <a href="http://www.oddballfest.com/2014/experience-oddball-as-a-vip/" title="Experience ODDBALL as a VIP!" class="thumbnail">
+            <div class="col-sm-4">              <img width="164" height="164" src="http://www.oddballfest.com/wp-content/uploads/2014/07/vip_th-164x164.jpg" class="attachment-post-thumbnail wp-post-image" alt="vip_th" /></a>
+            </div><!-- /.col-sm-4 -->
+            <div class="col-sm-8">
+              <a href="http://www.oddballfest.com/2014/experience-oddball-as-a-vip/" title="Experience ODDBALL as a VIP!" class="excerpt-title"><h4>Experience ODDBALL as a VIP!</h4></a>
+              <p class="meta"><span class="sep"><i class="icon-calendar"></i> </span><a href="http://www.oddballfest.com/2014/experience-oddball-as-a-vip/" title="12:05 pm" rel="bookmark"><time class="entry-date" datetime="2014-07-21T12:05:30+00:00" pubdate>July 21, 2014</time></a> &nbsp;&nbsp; </p>
+             <p>Aint no better way to experience ODDBALL than as a VIP! VIP packages still available and onsale now&#8230;while they last!</p>
+            </div><!-- /.col-sm-8 -->
+          </div><!-- /.row -->
+        </div><!-- /.post_class -->
+                <div class="post-3319 post type-post status-publish format-standard has-post-thumbnail hentry category-news">
+          <div class="row">
+            <a href="http://www.oddballfest.com/2014/oddball-2014/" title="ODDBALL 2014!" class="thumbnail">
+            <div class="col-sm-4">              <img width="164" height="164" src="http://www.oddballfest.com/wp-content/uploads/2014/07/on-the-road_th-164x164.jpg" class="attachment-post-thumbnail wp-post-image" alt="on-the-road_th" /></a>
+            </div><!-- /.col-sm-4 -->
+            <div class="col-sm-8">
+              <a href="http://www.oddballfest.com/2014/oddball-2014/" title="ODDBALL 2014!" class="excerpt-title"><h4>ODDBALL 2014!</h4></a>
+              <p class="meta"><span class="sep"><i class="icon-calendar"></i> </span><a href="http://www.oddballfest.com/2014/oddball-2014/" title="10:02 pm" rel="bookmark"><time class="entry-date" datetime="2014-07-06T22:02:56+00:00" pubdate>July 6, 2014</time></a> &nbsp;&nbsp; </p>
+             <p>This year we have a ton of great talent on board! Tell us who you are looking forward to seeing&nbsp; &nbsp;<a href="http://www.oddballfest.com/2014/oddball-2014/" class="rm-link">Read more<span class="rm-arrow">&nbsp; &#x25ba;</span></a></p>
+            </div><!-- /.col-sm-8 -->
+          </div><!-- /.row -->
+        </div><!-- /.post_class -->
+                        <div class="clearfix"></div>
+      </div><!-- /.post-box -->
+    </div><!-- /.ccol-md-6 -->
+    <div class="col-sm-6">
+      <div class="title-container">
+        <h3 class="box-title"><a href="#" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a></h3>
+        <div class="title-sep-container">
+          <div class="title-sep sep-bar"></div>
+        </div>
+      </div>
+      <div class="post-box twtr-box">
+        <a class="twitter-timeline" width="100%" height="250" href="https://twitter.com/OddballFest" data-chrome="noheader nofooter noborders noscrollbar transparent" data-widget-id="347482306073743360"></a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        <div class="clearfix"></div>  
+      </div><!-- /.twtr-box -->
+    </div><!-- /.col-sm-6 -->
+    <div class="col-sm-6">
+      <div class="title-container">
+        <h3 class="box-title"><a href="https://www.facebook.com/OddballFest" target="_blank"><i class="sge-icon-fb"></i> Facebook</a></h3>
+        <div class="title-sep-container">
+          <div class="title-sep sep-bar"></div>
+        </div>
+      </div>
+      <div class="post-box fb-box">
+        <span class="fb-wrap center-block">
+          <div class="fb-like-box" data-href="https://www.facebook.com/OddballFest" data-width="318" data-height="338" data-colorscheme="light" data-show-faces="false" data-show-border="false" data-border-color="#000000" data-stream="true" data-header="false"></div>
+        </span>
+      </div><!-- /.post-box.fb-box -->
+    </div><!-- /.col-sm-6 -->
+  </div><!-- /.row -->
+  <div class="row">
+      <div class="col-xs-12">
+        <div class="title-container">
+          <h3 class="box-title"><a href="http://instagram.com/Oddballfest" target="_blank"><i class="sge-icon-ins"></i> Instagram</a></h3>
+          <div class="title-sep-container">
+            <div class="title-sep sep-bar"></div>
+          </div>
+        </div>
+        <div class="post-box instagram-box">
+          <div id="APTFIN_by_TAP-by-shortcode-53_702" class="AlpinePhotoTiles_inpost_container"><!-- Using AlpinePT for Instagram v1.2.7 with JSON--><!-- Request made --><!-- Request made --><!-- Success using wp_remote_get() and JSON --><!-- Retrieved from transient --><div id="id-53_702-AlpinePhotoTiles_container" class="AlpinePhotoTiles_container_class"><div id="id-53_702-cascade-parent" class="AlpinePhotoTiles_parent_class" style="width:100%;max-width:100%;padding:0px;float:left;text-align:left;"><div class="AlpinePhotoTiles_cascade_column" style="width:14.285714285714%;float:left;margin:0;"><div class="AlpinePhotoTiles_cascade_column_inner" style="display:block;margin:0 3px;overflow:hidden;"><a href="http://instagram.com/p/tisRuhGwE4/" class="AlpinePhotoTiles-link" target="_blank" title=" Thanks for another great tour, #Oddballers! See you next summer. In the meantime, remember we’re all just made of molecules and we’re hurling through space right now. #OddballFest #Goodbye #Sloth #TilNextYear " alt=" Thanks for another great tour, #Oddballers! See you next summer. In the meantime, remember we’re all just made of molecules and we’re hurling through space right now. #OddballFest #Goodbye #Sloth #TilNextYear "><img id="id-53_702-tile-0" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-b.cdninstagram.com/hphotos-xaf1/t51.2885-15/10665979_283891621806629_2030456076_n.jpg" title=" Thanks for another great tour, #Oddballers! See you next summer. In the meantime, remember we’re all just made of molecules and we’re hurling through space right now. #OddballFest #Goodbye #Sloth #TilNextYear " alt=" Thanks for another great tour, #Oddballers! See you next summer. In the meantime, remember we’re all just made of molecules and we’re hurling through space right now. #OddballFest #Goodbye #Sloth #TilNextYear " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"  /></a><a href="http://instagram.com/p/tGy84kGwC-/" class="AlpinePhotoTiles-link" target="_blank" title=" Jeff Ross is getting in the spirit as #OddballFest travels to Texas this weekend. " alt=" Jeff Ross is getting in the spirit as #OddballFest travels to Texas this weekend. "><img id="id-53_702-tile-7" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-a.cdninstagram.com/hphotos-xaf1/t51.2885-15/10683792_703788946367805_1239692484_n.jpg" title=" Jeff Ross is getting in the spirit as #OddballFest travels to Texas this weekend. " alt=" Jeff Ross is getting in the spirit as #OddballFest travels to Texas this weekend. " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"  /></a></div></div><div class="AlpinePhotoTiles_cascade_column" style="width:14.285714285714%;float:left;margin:0;"><div class="AlpinePhotoTiles_cascade_column_inner" style="display:block;margin:0 3px;overflow:hidden;"><a href="http://instagram.com/p/tbZg-AmwIF/" class="AlpinePhotoTiles-link" target="_blank" title=" It takes a special set of partners to put up with a bunch of filthy, road-weary Oddballs! Thanks to @holidayinnexpress, @ReddsAppleAle, @Ploom, @TwixCandy, and @COLDCOCKwhiskey for making this year’s @FunnyorDie’s #OddballFest the best yet! " alt=" It takes a special set of partners to put up with a bunch of filthy, road-weary Oddballs! Thanks to @holidayinnexpress, @ReddsAppleAle, @Ploom, @TwixCandy, and @COLDCOCKwhiskey for making this year’s @FunnyorDie’s #OddballFest the best yet! "><img id="id-53_702-tile-1" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-a.cdninstagram.com/hphotos-xfa1/t51.2885-15/10684244_342024439255649_731759980_n.jpg" title=" It takes a special set of partners to put up with a bunch of filthy, road-weary Oddballs! Thanks to @holidayinnexpress, @ReddsAppleAle, @Ploom, @TwixCandy, and @COLDCOCKwhiskey for making this year’s @FunnyorDie’s #OddballFest the best yet! " alt=" It takes a special set of partners to put up with a bunch of filthy, road-weary Oddballs! Thanks to @holidayinnexpress, @ReddsAppleAle, @Ploom, @TwixCandy, and @COLDCOCKwhiskey for making this year’s @FunnyorDie’s #OddballFest the best yet! " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"  /></a><a href="http://instagram.com/p/tAqjdnmwMa/" class="AlpinePhotoTiles-link" target="_blank" title=" #Oddballers, LAST CHANCE to find yourself in our front row thanks to @HIExpress. Don’t look too hard, just enter to win at http://ihg.co/Oddball #StaySmart " alt=" #Oddballers, LAST CHANCE to find yourself in our front row thanks to @HIExpress. Don’t look too hard, just enter to win at http://ihg.co/Oddball #StaySmart "><img id="id-53_702-tile-8" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-a.cdninstagram.com/hphotos-xaf1/t51.2885-15/10706710_638423122942437_487589035_n.jpg" title=" #Oddballers, LAST CHANCE to find yourself in our front row thanks to @HIExpress. Don’t look too hard, just enter to win at http://ihg.co/Oddball #StaySmart " alt=" #Oddballers, LAST CHANCE to find yourself in our front row thanks to @HIExpress. Don’t look too hard, just enter to win at http://ihg.co/Oddball #StaySmart " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"  /></a></div></div><div class="AlpinePhotoTiles_cascade_column" style="width:14.285714285714%;float:left;margin:0;"><div class="AlpinePhotoTiles_cascade_column_inner" style="display:block;margin:0 3px;overflow:hidden;"><a href="http://instagram.com/p/tTh90mmwCH/" class="AlpinePhotoTiles-link" target="_blank" title=" Thanks for joining @HIExpress in the front rows and on the lawns of this year’s #OddballFest! See you in 2015! #StaySmart " alt=" Thanks for joining @HIExpress in the front rows and on the lawns of this year’s #OddballFest! See you in 2015! #StaySmart "><img id="id-53_702-tile-2" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-a.cdninstagram.com/hphotos-xfp1/t51.2885-15/10467980_1459559884268830_1075243965_n.jpg" title=" Thanks for joining @HIExpress in the front rows and on the lawns of this year’s #OddballFest! See you in 2015! #StaySmart " alt=" Thanks for joining @HIExpress in the front rows and on the lawns of this year’s #OddballFest! See you in 2015! #StaySmart " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"  /></a><a href="http://instagram.com/p/s-UUTPmwFa/" class="AlpinePhotoTiles-link" target="_blank" title=" #Repost from @djtrauma: Another Epic #oddballfest night!!! #davechappelle made a surprise appearance at the LA show!!! #teamchappelle #whereintheworldisdjtrauma #stateofemergency " alt=" #Repost from @djtrauma: Another Epic #oddballfest night!!! #davechappelle made a surprise appearance at the LA show!!! #teamchappelle #whereintheworldisdjtrauma #stateofemergency "><img id="id-53_702-tile-9" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-b.cdninstagram.com/hphotos-xfa1/t51.2885-15/10661222_1467028683561746_870615142_n.jpg" title=" #Repost from @djtrauma: Another Epic #oddballfest night!!! #davechappelle made a surprise appearance at the LA show!!! #teamchappelle #whereintheworldisdjtrauma #stateofemergency " alt=" #Repost from @djtrauma: Another Epic #oddballfest night!!! #davechappelle made a surprise appearance at the LA show!!! #teamchappelle #whereintheworldisdjtrauma #stateofemergency " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"  /></a></div></div><div class="AlpinePhotoTiles_cascade_column" style="width:14.285714285714%;float:left;margin:0;"><div class="AlpinePhotoTiles_cascade_column_inner" style="display:block;margin:0 3px;overflow:hidden;"><a href="http://instagram.com/p/tRBN0TGwJa/" class="AlpinePhotoTiles-link" target="_blank" title=" #Repost from @sarahkatesilverman: Thanks for the human contact #ODDBALLTOUR " alt=" #Repost from @sarahkatesilverman: Thanks for the human contact #ODDBALLTOUR "><img id="id-53_702-tile-3" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-b.cdninstagram.com/hphotos-xfa1/t51.2885-15/10632524_1488519688063036_212512528_n.jpg" title=" #Repost from @sarahkatesilverman: Thanks for the human contact #ODDBALLTOUR " alt=" #Repost from @sarahkatesilverman: Thanks for the human contact #ODDBALLTOUR " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"  /></a><a href="http://instagram.com/p/s8woEdmwOg/" class="AlpinePhotoTiles-link" target="_blank" title=" #Repost from @djtrauma: @demetrimartin killed @oddballfest last night. #stateofemergency #whereintheworldisdjtrauma " alt=" #Repost from @djtrauma: @demetrimartin killed @oddballfest last night. #stateofemergency #whereintheworldisdjtrauma "><img id="id-53_702-tile-10" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-a.cdninstagram.com/hphotos-xaf1/t51.2885-15/10684090_628843763898992_940388943_n.jpg" title=" #Repost from @djtrauma: @demetrimartin killed @oddballfest last night. #stateofemergency #whereintheworldisdjtrauma " alt=" #Repost from @djtrauma: @demetrimartin killed @oddballfest last night. #stateofemergency #whereintheworldisdjtrauma " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"  /></a></div></div><div class="AlpinePhotoTiles_cascade_column" style="width:14.285714285714%;float:left;margin:0;"><div class="AlpinePhotoTiles_cascade_column_inner" style="display:block;margin:0 3px;overflow:hidden;"><a href="http://instagram.com/p/tMbbR7mwKC/" class="AlpinePhotoTiles-link" target="_blank" title=" Secure your grass - get your spot on the lawn first with Express Check-In at #OddballFest. Full license to cut in line brought to you by @Holiday Inn Express, Official Stay Smart partner of Oddball. Check out #StaySmart for details! " alt=" Secure your grass - get your spot on the lawn first with Express Check-In at #OddballFest. Full license to cut in line brought to you by @Holiday Inn Express, Official Stay Smart partner of Oddball. Check out #StaySmart for details! "><img id="id-53_702-tile-4" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-b.cdninstagram.com/hphotos-xfp1/t51.2885-15/1742280_503148753155969_158032964_n.jpg" title=" Secure your grass - get your spot on the lawn first with Express Check-In at #OddballFest. Full license to cut in line brought to you by @Holiday Inn Express, Official Stay Smart partner of Oddball. Check out #StaySmart for details! " alt=" Secure your grass - get your spot on the lawn first with Express Check-In at #OddballFest. Full license to cut in line brought to you by @Holiday Inn Express, Official Stay Smart partner of Oddball. Check out #StaySmart for details! " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"  /></a><a href="http://instagram.com/p/s5evTLGwGJ/" class="AlpinePhotoTiles-link" target="_blank" title=" Hooray for Hollywood! Where each hooker has a heart of gold, and Jeff Ross’ personal cell phone number. #OddballFest #SoCal #Hollywood " alt=" Hooray for Hollywood! Where each hooker has a heart of gold, and Jeff Ross’ personal cell phone number. #OddballFest #SoCal #Hollywood "><img id="id-53_702-tile-11" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-a.cdninstagram.com/hphotos-xfa1/t51.2885-15/10655150_1404649033107910_1457920327_n.jpg" title=" Hooray for Hollywood! Where each hooker has a heart of gold, and Jeff Ross’ personal cell phone number. #OddballFest #SoCal #Hollywood " alt=" Hooray for Hollywood! Where each hooker has a heart of gold, and Jeff Ross’ personal cell phone number. #OddballFest #SoCal #Hollywood " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"  /></a></div></div><div class="AlpinePhotoTiles_cascade_column" style="width:14.285714285714%;float:left;margin:0;"><div class="AlpinePhotoTiles_cascade_column_inner" style="display:block;margin:0 3px;overflow:hidden;"><a href="http://instagram.com/p/tMDO7-mwBL/" class="AlpinePhotoTiles-link" target="_blank" title=" Remember the #Alamo? How could we forget when you won’t f&amp;*%ing shut up about it. #OddballFest #Texas " alt=" Remember the #Alamo? How could we forget when you won’t f&amp;*%ing shut up about it. #OddballFest #Texas "><img id="id-53_702-tile-5" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-a.cdninstagram.com/hphotos-xaf1/t51.2885-15/10684033_620378211412173_1513510553_n.jpg" title=" Remember the #Alamo? How could we forget when you won’t f&amp;*%ing shut up about it. #OddballFest #Texas " alt=" Remember the #Alamo? How could we forget when you won’t f&amp;*%ing shut up about it. #OddballFest #Texas " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"  /></a><a href="http://instagram.com/p/s3CVDQmwG4/" class="AlpinePhotoTiles-link" target="_blank" title=" Please wish Louis C.K. a happy birthday! Let’s be honest, he’s not going to read it, but it might make you feel better about yourself. And that’s the only thing that matters. #OddballFest #Louie #LouisCK #Birthday " alt=" Please wish Louis C.K. a happy birthday! Let’s be honest, he’s not going to read it, but it might make you feel better about yourself. And that’s the only thing that matters. #OddballFest #Louie #LouisCK #Birthday "><img id="id-53_702-tile-12" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-a.cdninstagram.com/hphotos-xfa1/t51.2885-15/10632071_1481975752058966_1005548656_n.jpg" title=" Please wish Louis C.K. a happy birthday! Let’s be honest, he’s not going to read it, but it might make you feel better about yourself. And that’s the only thing that matters. #OddballFest #Louie #LouisCK #Birthday " alt=" Please wish Louis C.K. a happy birthday! Let’s be honest, he’s not going to read it, but it might make you feel better about yourself. And that’s the only thing that matters. #OddballFest #Louie #LouisCK #Birthday " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"  /></a></div></div><div class="AlpinePhotoTiles_cascade_column" style="width:14.285714285714%;float:left;margin:0;"><div class="AlpinePhotoTiles_cascade_column_inner" style="display:block;margin:0 3px;overflow:hidden;"><a href="http://instagram.com/p/tHmX7BGwNn/" class="AlpinePhotoTiles-link" target="_blank" title=" Don&#039;t miss @grantcotter and @brodyismefriend hosting the #Pax stage and find your @Ploom for sale at the Official Oddball Merch Store! #PaxMarksTheSpot " alt=" Don&#039;t miss @grantcotter and @brodyismefriend hosting the #Pax stage and find your @Ploom for sale at the Official Oddball Merch Store! #PaxMarksTheSpot "><img id="id-53_702-tile-6" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-a.cdninstagram.com/hphotos-xaf1/t51.2885-15/10654974_221757207994495_1014513960_n.jpg" title=" Don&#039;t miss @grantcotter and @brodyismefriend hosting the #Pax stage and find your @Ploom for sale at the Official Oddball Merch Store! #PaxMarksTheSpot " alt=" Don&#039;t miss @grantcotter and @brodyismefriend hosting the #Pax stage and find your @Ploom for sale at the Official Oddball Merch Store! #PaxMarksTheSpot " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"  /></a><a href="http://instagram.com/p/s1k4eFGwHM/" class="AlpinePhotoTiles-link" target="_blank" title=" The best way to beat the heat @OddballFest this summer is to #PickDifferent with @ReddsAppleAle... Ya know what? Delicious as @ReddsAppleAle is, you really can’t beat the heat. The heat is actually sustaining every living thing on this planet. What are you doing, huh? If you could actually beat the heat you probably wouldn’t be reading this Instagram post. You’d be saving lives like a superhero, or maybe destroying them like a supervillain  But you’re neither. You’re just you. And the sun is the center of our universe with a core temperature of 15 million degrees. So drink up and deal with it. #OddballFest " alt=" The best way to beat the heat @OddballFest this summer is to #PickDifferent with @ReddsAppleAle... Ya know what? Delicious as @ReddsAppleAle is, you really can’t beat the heat. The heat is actually sustaining every living thing on this planet. What are you doing, huh? If you could actually beat the heat you probably wouldn’t be reading this Instagram post. You’d be saving lives like a superhero, or maybe destroying them like a supervillain  But you’re neither. You’re just you. And the sun is the center of our universe with a core temperature of 15 million degrees. So drink up and deal with it. #OddballFest "><img id="id-53_702-tile-13" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-b.cdninstagram.com/hphotos-xaf1/t51.2885-15/10665495_1465387963738697_776876534_n.jpg" title=" The best way to beat the heat @OddballFest this summer is to #PickDifferent with @ReddsAppleAle... Ya know what? Delicious as @ReddsAppleAle is, you really can’t beat the heat. The heat is actually sustaining every living thing on this planet. What are you doing, huh? If you could actually beat the heat you probably wouldn’t be reading this Instagram post. You’d be saving lives like a superhero, or maybe destroying them like a supervillain  But you’re neither. You’re just you. And the sun is the center of our universe with a core temperature of 15 million degrees. So drink up and deal with it. #OddballFest " alt=" The best way to beat the heat @OddballFest this summer is to #PickDifferent with @ReddsAppleAle... Ya know what? Delicious as @ReddsAppleAle is, you really can’t beat the heat. The heat is actually sustaining every living thing on this planet. What are you doing, huh? If you could actually beat the heat you probably wouldn’t be reading this Instagram post. You’d be saving lives like a superhero, or maybe destroying them like a supervillain  But you’re neither. You’re just you. And the sun is the center of our universe with a core temperature of 15 million degrees. So drink up and deal with it. #OddballFest " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"  /></a></div></div><div class="AlpinePhotoTiles_breakline"></div></div><div class="AlpinePhotoTiles_breakline"></div></div><div class="AlpinePhotoTiles_breakline"></div></div>        </div><!-- /.post-box.instagram-box -->
+      </div><!-- /.col-lg-6 col-md-6 -->
+  </div><!-- /.row -->
+</div><!-- /.container-->
+    <!-- End Template Content -->
+  <footer>
+    <div class="footer-nav">
+      <div class="container">
+            <div id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-3335" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-3335"><a href="http://www.oddballfest.com/">Home</a></li>
+<li id="menu-item-2571" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2571"><a href="http://www.oddballfest.com/category/news/">News</a></li>
+<li id="menu-item-2572" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2572"><a href="/tour-dates/">Dates</a></li>
+<li id="menu-item-2573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2573"><a href="/talent/">Talent</a></li>
+<li id="menu-item-2574" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2574"><a href="/sponsors/">Sponsors</a></li>
+<li id="menu-item-3336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3336"><a href="http://www.oddballfest.com/faq/">FAQ</a></li>
+</ul></div></div>      </div> <!-- /.container -->
+    </div><!-- /.footer-nav -->
+    <div class="container">
+      <div class="footer-sponsors">
+        <div class="row sponsor-row">
+          
+                  <div class="">
+            <a class="feature-sponsor thumbnail" href="/sponsors/funny-or-die"><img src="http://caches.oddballfest.com/images/2014/sponsors/header/thumbs/funnyordie_02.png" alt="Funny or Die"></a>
+          </div><!-- class="col-md-3 -->
+          <div class="">
+                      
+                    <div class="col-xs-4">
+              <a class="thumbnail" href="/sponsors/holiday-inn-express"><img src="http://caches.oddballfest.com/images/2014/sponsors/header/thumbs/holidayinnexpress.png" alt="Holiday Inn Express"></a>
+            </div><!-- /.col-xs-4 -->
+                        
+                    <div class="col-xs-4">
+              <a class="thumbnail" href="/sponsors/redds-apple-ale"><img src="http://caches.oddballfest.com/images/2014/sponsors/header/thumbs/reddsappleale_05.png" alt="Redd's Apple Ale"></a>
+            </div><!-- /.col-xs-4 -->
+                        
+                    <div class="col-xs-4">
+              <a class="thumbnail" href="/sponsors/ploom"><img src="http://caches.oddballfest.com/images/2014/sponsors/header/thumbs/ploom_03.png" alt="Ploom"></a>
+            </div><!-- /.col-xs-4 -->
+                        
+                    <div class="col-xs-4">
+              <a class="thumbnail" href="/sponsors/twix"><img src="http://caches.oddballfest.com/images/2014/sponsors/header/thumbs/twix.png" alt="Twix"></a>
+            </div><!-- /.col-xs-4 -->
+                                  </div><!-- /.col-md-9 -->
+        </div><!-- /.row.sponsor-row -->
+      </div><!-- /.footer-sponsors -->
+      <div class="bottom-line">
+        <a href="/privacy-policy" >Privacy Policy</a> &nbsp; | &nbsp; <a href="mailto:press@oddballfest.com">press@oddballfest.com</a> &nbsp;&nbsp;&nbsp; &copy; 2014 Oddball Festival &nbsp;&nbsp;&nbsp; <img src="http://caches.oddballfest.com/images/footerSGE.gif" style="vertical-align: -6px;"> &nbsp;&nbsp;  <a href="http://www.departmentofmagicandsecrets.com" target="_blank"><img src="http://cache.oddballfest.com/images/DOMAS.png" style="vertical-align: -14px;" alt="The Department of Magic and Secrets"></a>
+      </div>
+    </div> <!-- /container -->
+
+    <!-- Retargeting Pixels -->
+      <img src="http://tags.w55c.net/rs?id=8041f00115eb4767b332684c14b96673&t=marketing" />
+
+      <script>
+      (function(){
+      window._fbds = window._fbds || {};
+      _fbds.pixelId = 1454758574736309;
+      var fbds = document.createElement('script');
+      fbds.async = true;
+      fbds.src = '//connect.facebook.net/en_US/fbds.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(fbds, s);
+      })();
+      window._fbq = window._fbq || [];
+      window._fbq.push(["track", "PixelInitialized", {}]);
+      </script>
+      <noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=1454758574736309&amp;ev=NoScript" /></noscript>
+      <!-- /. Retargeting Pixels -->
+
+      <!-- Google Code for Remarketing Tag -->
+      <!--
+      Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+      -->
+      <script type="text/javascript">
+      /* <![CDATA[ */
+      var google_conversion_id = 979879715;
+      var google_custom_params = window.google_tag_params;
+      var google_remarketing_only = true;
+      /* ]]> */
+      </script>
+      <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+      </script>
+      <noscript>
+      <div style="display:inline;">
+      <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/979879715/?value=0&amp;guid=ON&amp;script=0" />
+      </div>
+      </noscript>
+
+    <!-- /. Google Code for Remarketing Tag -->
+
+  </footer>
+<script type="text/javascript">
+
+var addthis_config = {"data_track_clickback":false,"data_track_addressbar":false,"data_track_textcopy":false,"ui_atversion":"300"};
+var addthis_product = 'wpp-3.5.9';
+</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-539732553120902b"></script><!-- Lightbox Plus Colorbox v2.7/1.5.9 - 2013.01.24 - Message: 1-->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({transition:"none",speed:0,width:false,height:false,innerWidth:false,innerHeight:false,initialWidth:false,initialHeight:false,maxWidth:"100%",maxHeight:"100%",opacity:0.65,preloading:false,current:" {current}  {total}",previous:"",next:"",close:"",overlayClose:false,loop:false,escKey:false,arrowKey:false,top:false,right:false,bottom:false,left:false});
+  $(".lbp_secondary").colorbox({speed:300,innerWidth:"70%",innerHeight:"70%",opacity:0.8,iframe:true});
+});
+</script>
+<link rel='stylesheet' id='wpBannerizeStyleDefault.css-css'  href='http://www.oddballfest.com/wp-content/plugins/wp-bannerize/css/wpBannerizeStyleDefault.css?ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='AlpinePhotoTiles_style-css'  href='http://www.oddballfest.com/wp-content/plugins/alpine-photo-tile-for-instagram/css/AlpinePhotoTiles_style.css?ver=1.2.7' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oddballfest.com/wp-content/plugins/fitvids-for-wordpress/jquery.fitvids.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.oddballfest.com/wp-content/themes/BootstrapWP/js/bootstrap.min.js?ver=3.1.1'></script>
+<script type='text/javascript' src='http://www.oddballfest.com/wp-content/themes/BootstrapWP/js/google-code-prettify/prettify.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.oddballfest.com/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9.js?ver=1.5.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpBannerizeJavascriptLocalization = {"ajaxURL":"http:\/\/www.oddballfest.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.oddballfest.com/wp-content/plugins/wp-bannerize/js/wpBannerizeFrontend.min.js?ver=3.1.6'></script>
+<script type='text/javascript' src='http://www.oddballfest.com/wp-content/plugins/alpine-photo-tile-for-instagram/js/AlpinePhotoTiles_script.js?ver=1.2.7'></script>
+    	<script type="text/javascript">
+    	jQuery(document).ready(function() {
+    		jQuery('.video-box').fitVids({ customSelector: ""});
+    	});
+    	</script><!--wp_footer-->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=204978999559406";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Google Analytics Code for Oddball Festival 2014 -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41667487-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- /. Google Analytics Code for Oddball Festival 2014 -->
+
+<!-- 89 queries. 0.219 seconds. -->
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"ba7e57808c","applicationID":"3831811","transactionName":"ZVJQZRQFD0oAWhdcVlwYc1ISDQ5XTlANUVxK","queueTime":0,"applicationTime":220,"ttGuid":"","agentToken":"","atts":"SRVTE1wfHEQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-460.min.js"}</script></body>
+</html>

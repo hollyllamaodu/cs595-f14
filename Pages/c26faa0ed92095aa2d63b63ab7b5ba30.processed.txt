@@ -1,0 +1,147 @@
+   #[1]Wikipedia (en) [2]alternate [3]copyright [4]Wikipedia Atom feed
+
+Bad title
+
+   Jump to: [5]navigation, [6]search
+
+   The requested page title is invalid. It may be empty, contain
+   [7]unsupported characters, or include a non-local or incorrectly linked
+   [8]interwiki prefix. You may be able to locate the desired page by
+   searching for its name (with interwiki prefix, if any) in the search
+   box.
+
+   Possible causes are:
+     * an attempt to load a [9]URL such as
+       [10]http://en.wikipedia.org/wiki/| (the | character is not
+       permitted in page titles);
+     * an attempt to load a URL pointing to a "non-local" interwiki page
+       (usually those not run by the Wikimedia Foundation). For example,
+       the URL [11]http://en.wikipedia.org/wiki/meatball:WikiPedia will
+       give this error, because the "meatball:" interwiki prefix is not
+       marked as local in the interwiki table. Certain interwiki prefixes
+       are marked as local in the table. For example, the URL
+       [12]http://en.wikipedia.org/wiki/meta:Main_page can be used to load
+       [13]meta:Main_page. All interlanguage prefixes are marked as local,
+       and thus URLs such as [14]http://en.wikipedia.org/wiki/fr:Accueil
+       will work as expected. However, non-local interwiki pages can still
+       be accessed by interwiki linking or by entering them in the search
+       box. For example [[meatball:WikiPedia]] can be used on a page, like
+       this: [15]meatball:WikiPedia.
+
+   If you tried to access a non-local interwiki page, you may be able to
+   access that page by clicking the "article" tab on this page.
+
+   Return to [16]Main Page.
+   Retrieved from "[17]http://en.wikipedia.org/wiki/Special:Badtitle"
+
+Navigation menu
+
+Personal tools
+
+     * [18]Create account
+     * [19]Log in
+
+Namespaces
+
+     * [20]Special page
+
+Variants
+
+Views
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * [21]Main page
+     * [22]Contents
+     * [23]Featured content
+     * [24]Current events
+     * [25]Random article
+     * [26]Donate to Wikipedia
+     * [27]Wikimedia Shop
+
+Interaction
+
+     * [28]Help
+     * [29]About Wikipedia
+     * [30]Community portal
+     * [31]Recent changes
+     * [32]Contact page
+
+Tools
+
+     * [33]Upload file
+     * [34]Special pages
+     * [35]Printable version
+
+Languages
+
+     *
+
+     * [36]Privacy policy
+     * [37]About Wikipedia
+     * [38]Disclaimers
+     * [39]Contact Wikipedia
+     * [40]Developers
+     * [41]Mobile view
+
+     * [42]Wikimedia Foundation
+     * [43]Powered by MediaWiki
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/opensearch_desc.php
+   2. http://en.wikipedia.org/wiki/Special:Badtitle
+   3. http://creativecommons.org/licenses/by-sa/3.0/
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   5. http://en.wikipedia.org/wiki/Near_field_communication#mw-navigation
+   6. http://en.wikipedia.org/wiki/Near_field_communication#p-search
+   7. http://en.wikipedia.org/wiki/Wikipedia:Page_name#Technical_restrictions_and_limitations
+   8. http://en.wikipedia.org/wiki/Help:Interwiki_linking
+   9. http://en.wikipedia.org/wiki/Uniform_resource_locator
+  10. http://en.wikipedia.org/wiki/|
+  11. http://en.wikipedia.org/wiki/meatball:WikiPedia
+  12. http://en.wikipedia.org/wiki/meta:Main_page
+  13. http://meta.wikimedia.org/wiki/Main_page
+  14. http://en.wikipedia.org/wiki/fr:Accueil
+  15. http://meatballwiki.org/wiki/WikiPedia
+  16. http://en.wikipedia.org/wiki/Main_Page
+  17. http://en.wikipedia.org/wiki/Special:Badtitle
+  18. http://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Special:Badtitle&type=signup
+  19. http://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Special:Badtitle
+  20. http://en.wikipedia.org/wiki/Near_field_communication
+  21. http://en.wikipedia.org/wiki/Main_Page
+  22. http://en.wikipedia.org/wiki/Portal:Contents
+  23. http://en.wikipedia.org/wiki/Portal:Featured_content
+  24. http://en.wikipedia.org/wiki/Portal:Current_events
+  25. http://en.wikipedia.org/wiki/Special:Random
+  26. https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en
+  27. http://shop.wikimedia.org/
+  28. http://en.wikipedia.org/wiki/Help:Contents
+  29. http://en.wikipedia.org/wiki/Wikipedia:About
+  30. http://en.wikipedia.org/wiki/Wikipedia:Community_portal
+  31. http://en.wikipedia.org/wiki/Special:RecentChanges
+  32. http://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  33. http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard
+  34. http://en.wikipedia.org/wiki/Special:SpecialPages
+  35. http://en.wikipedia.org/w/index.php?title=Special:Badtitle&printable=yes
+  36. http://wikimediafoundation.org/wiki/Privacy_policy
+  37. http://en.wikipedia.org/wiki/Wikipedia:About
+  38. http://en.wikipedia.org/wiki/Wikipedia:General_disclaimer
+  39. http://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  40. https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+  41. http://en.m.wikipedia.org/w/index.php?title=Special:Badtitle&mobileaction=toggle_view_mobile
+  42. http://wikimediafoundation.org/
+  43. http://www.mediawiki.org/
+
+   Hidden links:
+  45. http://en.wikipedia.org/wiki/Near_field_communication%0D
+  46. http://en.wikipedia.org/wiki/Near_field_communication%0D
+  47. http://en.wikipedia.org/wiki/Main_Page
+  48. http://en.wikipedia.org/wiki/Near_field_communication%0D
