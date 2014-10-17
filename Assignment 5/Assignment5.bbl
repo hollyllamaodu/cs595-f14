@@ -1,0 +1,20 @@
+\begin{thebibliography}{}
+
+\bibitem{websize}
+\newblock http://thomassileo.com/blog/2013/01/25/using-twitter-rest-api-v1-dot-1-with-python/
+
+\bibitem{websize}
+\newblock http://stackoverflow.com/questions/3453695/adding-text-to-a-plot/
+
+\bibitem{websize}
+\newblock http://www.craigaddyman.com/mining-all-tweets-with-python/
+
+\bibitem{websize}
+{ 
+  author       = {{Alex Nwala}, 
+  title        = {Facebook Scrape},
+  year         = 2014,
+  {https://github.com/anwala/cs595-f14/tree/master/scrapeFacebook}}
+}  
+  
+\end{thebibliography}
