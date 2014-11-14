@@ -1,0 +1,583 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Programming/Coding Assignment
+% LaTeX Template
+%
+% This template has been downloaded from:
+% http://www.latextemplates.com
+%
+% Original author:
+% Ted Pavlic (http://www.tedpavlic.com)
+%
+% Note:
+% The \lipsum[#] commands throughout this template generate dummy text
+% to fill the template out. These commands should all be removed when 
+% writing assignment content.
+%
+% This template uses a Perl script as an example snippet of code, most other
+% languages are also usable. Configure them in the "CODE INCLUSION 
+% CONFIGURATION" section.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{article}
+\usepackage{cite}
+
+\usepackage{fancyhdr} % Required for custom headers
+\usepackage{lastpage} % Required to determine the last page for the footer
+\usepackage{extramarks} % Required for headers and footers
+\usepackage[usenames,dvipsnames]{color} % Required for custom colors
+\usepackage{graphicx} % Required to insert images
+\usepackage{listings} % Required for insertion of code
+\usepackage{courier} % Required for the courier font
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+\usepackage{amsmath}
+\usepackage{url}
+
+% Margins
+\topmargin=-0.45in
+\evensidemargin=0in
+\oddsidemargin=0in
+\textwidth=6.5in
+\textheight=9.0in
+\headsep=0.25in
+
+\linespread{1.1} % Line spacing
+
+% Set up the header and footer
+\pagestyle{fancy}
+\lhead{\hmwkAuthorName} % Top left header
+\chead{\hmwkClass\ (\hmwkClassInstructor\ \hmwkClassTime): \hmwkTitle} % Top center head
+\rhead{\firstxmark} % Top right header
+\lfoot{\lastxmark} % Bottom left footer
+\cfoot{} % Bottom center footer
+\rfoot{Page\ \thepage\ of\ \protect\pageref{LastPage}} % Bottom right footer
+\renewcommand\headrulewidth{0.4pt} % Size of the header rule
+\renewcommand\footrulewidth{0.4pt} % Size of the footer rule
+
+\setlength\parindent{0pt} % Removes all indentation from paragraphs
+
+%----------------------------------------------------------------------------------------
+%	CODE INCLUSION CONFIGURATION
+%----------------------------------------------------------------------------------------
+
+\definecolor{MyDarkGreen}{rgb}{0.0,0.4,0.0} % This is the color used for comments
+\lstloadlanguages{Perl} % Load Perl syntax for listings, for a list of other languages supported see: ftp://ftp.tex.ac.uk/tex-archive/macros/latex/contrib/listings/listings.pdf
+\lstset{language=Perl, % Use Perl in this example
+        frame=single, % Single frame around code
+        basicstyle=\small\ttfamily, % Use small true type font
+        keywordstyle=[1]\color{Blue}\bf, % Perl functions bold and blue
+        keywordstyle=[2]\color{Purple}, % Perl function arguments purple
+        keywordstyle=[3]\color{Blue}\underbar, % Custom functions underlined and blue
+        identifierstyle=, % Nothing special about identifiers                                         
+        commentstyle=\usefont{T1}{pcr}{m}{sl}\color{MyDarkGreen}\small, % Comments small dark green courier font
+        stringstyle=\color{Purple}, % Strings are purple
+        showstringspaces=false, % Don't put marks in string spaces
+        tabsize=5, % 5 spaces per tab
+        %
+        % Put standard Perl functions not included in the default language here
+        morekeywords={rand},
+        %
+        % Put Perl function parameters here
+        morekeywords=[2]{on, off, interp},
+        %
+        % Put user defined functions here
+        morekeywords=[3]{test},
+       	%
+        morecomment=[l][\color{Blue}]{...}, % Line continuation (...) like blue comment
+        numbers=left, % Line numbers on left
+        firstnumber=1, % Line numbers start with line 1
+        numberstyle=\tiny\color{Blue}, % Line numbers are blue and small
+        stepnumber=5 % Line numbers go in steps of 5
+}
+
+% Creates a new command to include a perl script, the first parameter is the filename of the script (without .pl), the second parameter is the caption
+%\newcommand{\perlscript}[2]{
+%\begin{itemize}
+%\item[]\lstinputlisting[caption=#2,label=#1]{#1.pl}
+%\end{itemize}
+%}
+
+%----------------------------------------------------------------------------------------
+%	DOCUMENT STRUCTURE COMMANDS
+%	Skip this unless you know what you're doing
+%----------------------------------------------------------------------------------------
+
+% Header and footer for when a page split occurs within a problem environment
+\newcommand{\enterProblemHeader}[1]{
+\nobreak\extramarks{#1}{#1 continued on next page\ldots}\nobreak
+\nobreak\extramarks{#1 (continued)}{#1 continued on next page\ldots}\nobreak
+}
+
+% Header and footer for when a page split occurs between problem environments
+\newcommand{\exitProblemHeader}[1]{
+\nobreak\extramarks{#1 (continued)}{#1 continued on next page\ldots}\nobreak
+\nobreak\extramarks{#1}{}\nobreak
+}
+
+\setcounter{secnumdepth}{0} % Removes default section numbers
+\newcounter{homeworkProblemCounter} % Creates a counter to keep track of the number of problems
+
+\newcommand{\homeworkProblemName}{}
+\newenvironment{homeworkProblem}[1][Problem \arabic{homeworkProblemCounter}]{ % Makes a new environment called homeworkProblem which takes 1 argument (custom name) but the default is "Problem #"
+\stepcounter{homeworkProblemCounter} % Increase counter for number of problems
+\renewcommand{\homeworkProblemName}{#1} % Assign \homeworkProblemName the name of the problem
+\section{\homeworkProblemName} % Make a section in the document with the custom problem count
+\enterProblemHeader{\homeworkProblemName} % Header and footer within the environment
+}{
+\exitProblemHeader{\homeworkProblemName} % Header and footer after the environment
+}
+
+\newcommand{\problemAnswer}[1]{ % Defines the problem answer command with the content as the only argument
+\noindent\framebox[\columnwidth][c]{\begin{minipage}{0.98\columnwidth}#1\end{minipage}} % Makes the box around the problem answer and puts the content inside
+}
+
+\newcommand{\homeworkSectionName}{}
+\newenvironment{homeworkSection}[1]{ % New environment for sections within homework problems, takes 1 argument - the name of the section
+\renewcommand{\homeworkSectionName}{#1} % Assign \homeworkSectionName to the name of the section from the environment argument
+\subsection{\homeworkSectionName} % Make a subsection with the custom name of the subsection
+\enterProblemHeader{\homeworkProblemName\ [\homeworkSectionName]} % Header and footer within the environment
+}{
+\enterProblemHeader{\homeworkProblemName} % Header and footer after the environment
+}
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CLASS SECTION
+%----------------------------------------------------------------------------------------
+
+\newcommand{\hmwkTitle}{Assignment\ \#8} % Assignment title
+\newcommand{\hmwkDueDate}{Thursday,\ November 13,\ 2014} % Due date
+\newcommand{\hmwkClass}{CS\ 595} % Course/class
+\newcommand{\hmwkClassTime}{4:20pm} % Class/lecture time
+\newcommand{\hmwkClassInstructor}{Dr. Nelson} % Teacher/lecturer
+\newcommand{\hmwkAuthorName}{Holly Harkins} % Your name
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\title{
+\vspace{2in}
+\textmd{\textbf{\hmwkClass:\ \hmwkTitle}}\\
+\normalsize\vspace{0.1in}\small{Due\ on\ \hmwkDueDate}\\
+\vspace{0.1in}\large{\textit{\hmwkClassInstructor\ \hmwkClassTime}}
+\vspace{3in}
+}
+
+\author{\textbf{\hmwkAuthorName}}
+\date{} % Insert date here if you want it to appear below your name
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\maketitle
+
+%----------------------------------------------------------------------------------------
+%	TABLE OF CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\setcounter{tocdepth}{1} % Uncomment this line if you don't want subsections listed in the ToC
+
+\newpage
+\tableofcontents
+\newpage
+
+%----------------------------------------------------------------------------------------
+%	PROBLEM 1
+%----------------------------------------------------------------------------------------
+
+% To have just one problem per page, simply put a \clearpage after each problem
+
+\begin{homeworkProblem}
+%Listing \ref{part1} shows a Perl script.
+%\lipsum[1]
+
+\begin{verbatim}
+
+The MovieLense data sets were collected by the GroupLens Research
+Project at the University of Minnesota during the seven-month period
+from September 19th, 1997 through April 22nd, 1998. It is available
+for download from http://www.grouplens.org/node/73
+
+There are three files which we will use:
+1.  u.data: 100,000 ratings by 943 users on 1,682 movies. Each
+user has rated at least 20 movies. Users and items are numbered
+consecutively from 1. The data is randomly ordered. This is a tab
+separated list of 
+
+user id | item id | rating | timestamp
+The time stamps are unix seconds since 1/1/1970 UTC.
+
+2.  u.item: Information about the 1,682 movies. This is a tab
+separated list of
+
+movie id | movie title | release date | video release date | IMDb URL 
+| unknown | Action | Adventure | Animation |Children's | Comedy | Crime 
+| Documentary | Drama | Fantasy | Film-Noir | Horror | Musical | Mystery 
+| Romance | Sci-Fi | Thriller | War | Western |
+
+The last 19 fields are the genres, a 1 indicates the movie is of
+that genre, a 0 indicates it is not; movies can be in several genres
+at once. The movie ids are the ones used in the u.data data set.
+
+3.  u.user: Demographic information about the users. This is a tab
+separated list of:
+
+user id | age | gender | occupation | zip code
+The user ids are the ones used in the u.data data set.
+
+The code for reading from the u.data and u.item files and creating
+recommendations is described in the book Programming Collective
+Intelligence (check email for more details). You are to modify
+recommendations.py to answer the following questions. Each question your
+program answers correctly will award you 1 point.
+\end{verbatim}
+
+\begin{verbatim}
+Answers:  
+To do this assignment, I modified recommendations.py.  I added the 
+functionality for each question to the loadMovieLens() function.  
+Assignment8.py uses the data from u.data, u.item, and u.user to output 
+the results.  I had some trouble with question 7.  I do not believe 4 
+user1 agreed most with the same user 98.  I also used the tabular view
+for the first time.  My code highlights how I answered the questions. 
+It is listed at the end of the document.
+\end{verbatim}
+
+
+\clearpage
+
+\begin{verbatim}
+1.  What 5 movies have the highest average ratings? Show the movies
+and their ratings sorted by their average ratings. 
+\end{verbatim}
+
+\centering
+\begin{tabular}{ l r }
+\hline
+Title & Rating \\
+\hline
+Great Day in Harlem, A (1994)   &   5.0  \\
+Prefontaine (1997)   &   5.0  \\
+Aiqing wansui (1994)   &   5.0  \\
+Star Kid (1997)   &   5.0  \\
+Marlene Dietrich: Shadow and Light (1996)    &   5.0  \\
+Entertaining Angels: The Dorothy Day Story (1996)   &   5.0  \\
+Saint of Fort Washington, The (1993)   &   5.0  \\
+Someone Else's America (1995)   &   5.0  \\
+Santa with Muscles (1996)   &   5.0  \\
+They Made Me a Criminal (1939)   &   5.0  \\
+\hline
+\end{tabular}
+
+\begin{verbatim}
+2.  What 5 movies received the most ratings? Show the movies and
+the number of ratings sorted by number of ratings.
+\end{verbatim}
+
+
+\begin{tabular}{ l r }
+\hline
+Title & Ratings Count \\
+\hline
+Star Wars (1977)   &   583  \\
+Contact (1997)   &   509  \\
+Fargo (1996)   &   508  \\
+Return of the Jedi (1983)   &   507  \\
+Liar Liar (1997)   &   485  \\
+\hline
+\end{tabular}
+\\*
+
+
+\begin{verbatim}
+3.  What 5 movies were rated the highest on average by women? Show
+the movies and their ratings sorted by ratings.
+\end{verbatim}
+
+
+\begin{tabular}{ l r }
+\hline
+Title & Rating \\
+\hline
+Visitors, The (Visiteurs, Les) (1993)   &   5.0  \\
+Prefontaine (1997)   &   5.0  \\
+Telling Lies in America (1997)   &   5.0  \\
+Foreign Correspondent (1940)   &   5.0  \\
+Faster Pussycat! Kill! Kill! (1965)   &   5.0  \\
+Year of the Horse (1997)   &   5.0  \\
+Mina Tannenbaum (1994)   &   5.0  \\
+Maya Lin: A Strong Clear Vision (1994)   &   5.0  \\
+Everest (1998)   &   5.0  \\
+Someone Else's America (1995)   &   5.0  \\
+Stripes (1981)   &   5.0  \\
+\hline
+\end{tabular}
+\\*
+\clearpage
+
+\begin{verbatim}
+4.  What 5 movies were rated the highest on average by men? Show
+the movies and their ratings sorted by ratings.
+\end{verbatim}
+
+\begin{tabular}{ l r }
+\hline
+Title & Rating \\
+\hline
+Delta of Venus (1994)   &   5.0  \\
+Great Day in Harlem, A (1994)   &   5.0  \\
+Leading Man, The (1996)   &   5.0  \\
+Love Serenade (1996)   &   5.0  \\
+Prefontaine (1997)   &   5.0  \\
+Aiqing wansui (1994)   &   5.0  \\
+Little City (1998)   &   5.0  \\
+Star Kid (1997)   &   5.0  \\
+Marlene Dietrich: Shadow and Light (1996)    &   5.0  \\
+Entertaining Angels: The Dorothy Day Story (1996)   &   5.0  \\
+Quiet Room, The (1996)   &   5.0  \\
+Saint of Fort Washington, The (1993)   &   5.0  \\
+Letter From Death Row, A (1998)   &   5.0  \\
+Santa with Muscles (1996)   &   5.0  \\
+They Made Me a Criminal (1939)   &   5.0  \\
+\hline
+\end{tabular}
+\\*
+
+\begin{verbatim}
+5.  What movie received ratings most like Top Gun? Which movie
+received ratings that were least like Top Gun (negative correlation)?
+\end{verbatim}
+
+Most Like Top Gun : 1.0, 'Wild America (1997)'
+
+Least Like Top Gun: -1.0, 'Babysitter, The (1995)'
+
+\begin{verbatim}
+6.  Which 5 raters rated the most films? Show the raters' IDs and
+the number of films each rated..
+\end{verbatim}
+
+\begin{tabular}{ l r }
+\hline
+Rater ID & Ratings Count \\
+\hline
+405   &   736  \\
+655   &   678  \\
+13   &   632  \\
+450   &   538  \\
+276   &   516  \\
+\hline
+\end{tabular}
+\\*
+
+\begin{verbatim}
+7.  Which 5 raters most agreed with each other? Show the raters'
+IDs and Pearson's r, sorted by r.
+\end{verbatim}
+
+\begin{tabular}{ l  r  r }
+\hline
+User1 ID & User2 ID & Pearson's r \\
+\hline
+675 & 99 & 1.0 \\
+156 & 98 & 1.0 \\
+772 & 98 & 1.0 \\
+226 & 98  & 1.0 \\
+227 & 98 & 1.0 \\
+\hline
+\end{tabular}
+\\*
+
+\begin{verbatim}
+8.  Which 5 raters most disagreed with each other (negative
+correlation)? Show the raters' IDs and Pearson's r, sorted by r.
+\end{verbatim}
+
+\begin{tabular}{ l r r }
+\hline
+User1 ID & User2 ID & r Value \\
+\hline
+655 & 384 & 0.683 \\
+13 & 46 & 0.688 \\
+130 & 511 & 0.725 \\
+327 & 816 & 0.772 \\
+796 & 205 & 0.791 \\
+\hline
+\end{tabular}
+\\*
+
+\begin{verbatim}
+9.  a. What movie was rated highest on average by men over 40? 
+\end{verbatim}
+
+\begin{tabular}{ l r }
+\hline
+Title & Rating \\
+\hline
+Delta of Venus (1994)   &   5.0  \\
+Santa with Muscles (1996)   &   5.0  \\
+Crossfire (1947)   &   5.0  \\
+Leading Man, The (1996)   &   5.0  \\
+Love Serenade (1996)   &   5.0  \\
+Prefontaine (1997)   &   5.0  \\
+Aiqing wansui (1994)   &   5.0  \\
+Love in the Afternoon (1957)   &   5.0  \\
+Star Kid (1997)   &   5.0  \\
+Angel Baby (1995)   &   5.0  \\
+Maya Lin: A Strong Clear Vision (1994)   &   5.0  \\
+Entertaining Angels: The Dorothy Day Story (1996)   &   5.0  \\
+Magic Hour, The (1998)   &   5.0  \\
+Quiet Room, The (1996)   &   5.0  \\
+Saint of Fort Washington, The (1993)   &   5.0  \\
+Perfect Candidate, A (1996)   &   5.0  \\
+Letter From Death Row, A (1998)   &   5.0  \\
+Little Princess, The (1939)   &   4.5  \\
+Grosse Fatigue (1994)   &   4.5  \\
+Sum of Us, The (1994)   &   4.5  \\
+Boy's Life 2 (1997)   &   4.5  \\
+Fille seule, La (A Single Girl) (1995)   &   4.5  \\
+Winter Guest, The (1997)   &   4.5  \\
+Man of No Importance, A (1994)   &   4.5  \\
+Anna (1996)   &   4.5  \\
+Two or Three Things I Know About Her (1966)   &   4.5  \\
+Innocents, The (1961)   &   4.5  \\
+Wallace and Gromit Aardman Animation (1996)   &   4.5  \\
+Casablanca (1942)   &   4.5  \\
+Paths of Glory (1957)   &   4.5  \\
+\hline
+\end{tabular}
+
+\clearpage
+
+\begin{verbatim}
+9.  b. By men under 40?
+\end{verbatim}
+
+\begin{tabular}{ l r }
+\hline
+Title & Rating \\
+\hline
+Hearts and Minds (1996)   &   5.0  \\
+Faithful (1996)   &   5.0  \\
+Marlene Dietrich: Shadow and Light (1996)    &   5.0  \\
+Strawberry and Chocolate (Fresa y chocolate) (1993)   &   5.0  \\
+Late Bloomers (1996)   &   5.0  \\
+Solo (1996)   &   5.0  \\
+Grateful Dead (1995)   &   5.0  \\
+Prefontaine (1997)   &   5.0  \\
+Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)   &   5.0  \\
+World of Apu, The (Apur Sansar) (1959)   &   5.0  \\
+Aparajito (1956)   &   5.0  \\
+Ace Ventura: When Nature Calls (1995)   &   5.0  \\
+Star Kid (1997)   &   5.0  \\
+Two or Three Things I Know About Her (1966)   &   5.0  \\
+Poison Ivy II (1995)   &   5.0  \\
+Double Happiness (1994)   &   5.0  \\
+Little City (1998)   &   5.0  \\
+Boxing Helena (1993)   &   5.0  \\
+Spice World (1997)   &   5.0  \\
+They Made Me a Criminal (1939)   &   5.0  \\
+Great Day in Harlem, A (1994)   &   5.0  \\
+Little Princess, The (1939)   &   5.0  \\
+Unstrung Heroes (1995)   &   5.0  \\
+Leading Man, The (1996)   &   5.0  \\
+Indian Summer (1996)   &   5.0  \\
+Pather Panchali (1955)   &   4.8  \\
+A Chef in Love (1996)   &   4.7  \\
+Whole Wide World, The (1996)   &   4.7  \\
+Close Shave, A (1995)   &   4.7  \\
+Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)   &   4.6  \\
+\hline
+\end{tabular}
+
+\clearpage
+
+\begin{verbatim}
+10. a. What movie was rated highest on average by women over 40? By
+women under 40?
+\end{verbatim}
+
+\begin{tabular}{ l r }
+\hline
+Title & Rating \\
+\hline
+Shallow Grave (1994)   &   5.0  \\
+Great Dictator, The (1940)   &   5.0  \\
+Visitors, The (Visiteurs, Les) (1993)   &   5.0  \\
+Shall We Dance? (1937)   &   5.0  \\
+In the Bleak Midwinter (1995)   &   5.0  \\
+Funny Face (1957)   &   5.0  \\
+Ma vie en rose (My Life in Pink) (1997)   &   5.0  \\
+Swept from the Sea (1997)   &   5.0  \\
+Best Men (1997)   &   5.0  \\
+Foreign Correspondent (1940)   &   5.0  \\
+Tombstone (1993)   &   5.0  \\
+Wrong Trousers, The (1993)   &   5.0  \\
+Top Hat (1935)   &   5.0  \\
+Quest, The (1996)   &   5.0  \\
+Balto (1995)   &   5.0  \\
+Angel Baby (1995)   &   5.0  \\
+Band Wagon, The (1953)   &   5.0  \\
+Letter From Death Row, A (1998)   &   5.0  \\
+Mina Tannenbaum (1994)   &   5.0  \\
+Mary Shelley's Frankenstein (1994)   &   5.0  \\
+Gold Diggers: The Secret of Bear Mountain (1995)   &   5.0  \\
+Nightmare Before Christmas, The (1993)   &   5.0  \\
+Grand Day Out, A (1992)   &   5.0  \\
+Bride of Frankenstein (1935)   &   5.0  \\
+Pocahontas (1995)   &   5.0  \\
+Safe (1995)   &   5.0  \\
+\hline
+\end{tabular}
+
+\begin{verbatim}
+10. b. By women under 40?
+\end{verbatim}
+
+\begin{tabular}{ l r }
+\hline
+Title & Rating \\
+\hline
+Backbeat (1993)  & 5.0 \\
+Prefontaine (1997)  & 5.0 \\
+Telling Lies in America (1997)  & 5.0 \\
+Year of the Horse (1997)  & 5.0 \\
+Mina Tannenbaum (1994)  & 5.0 \\
+Maya Lin: A Strong Clear Vision (1994)  & 5.0 \\
+Nico Icon (1995)  & 5.0 \\
+Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)  & 5.0 \\
+Everest (1998)  & 5.0 \\
+Heaven's Prisoners (1996)  & 5.0 \\
+Wedding Gift, The (1994)  & 5.0 \\
+Faster Pussycat! Kill! Kill! (1965)  & 5.0 \\
+Horseman on the Roof, The (Hussard sur le toit, Le) (1995)  & 5.0 \\
+Grace of My Heart (1996)  & 5.0 \\
+Someone Else's America (1995)  & 5.0 \\
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)  & 5.0 \\
+Stripes (1981)  & 5.0 \\
+\hline
+\end{tabular}
+\\*
+
+\clearpage
+\lstinputlisting[breaklines=true, caption=Modified recommendations.py]{assignment8.py}
+
+\end{homeworkProblem}
+\newpage
+
+\clearpage
+%-------------------------------------------------------------------
+%References
+%-------------------------------------------------------------------
+\bibliographystyle{plain}
+\bibliography{assignment8}
+
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
