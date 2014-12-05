@@ -1,0 +1,3 @@
+linkCounts_new <- read.table ("numberOfPages.txt" , quote="\"")
+hist(numberOfPages $V1, breaks=15, xlab="Number of Pages", ylab="Number o f Blogs",labels=TRUE, col="LightBlue", main="Number o f Blog Pages",xaxt='no')
+axis(side=1, at=seq(0,105,5))

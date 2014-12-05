@@ -1,0 +1,21 @@
+Clustering the blogs using k=5
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+
+Clustering the blogs using k=10
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+
+Clustering the blogs using k=20
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
